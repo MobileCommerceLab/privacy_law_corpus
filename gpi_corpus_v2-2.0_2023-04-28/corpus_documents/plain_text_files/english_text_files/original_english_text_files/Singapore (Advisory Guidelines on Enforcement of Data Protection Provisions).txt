@@ -1,0 +1,2705 @@
+ADVISORY GUIDELINES
+ON ENFORCEMENT OF THE
+DATA PROTECTION PROVISIONS
+Issued 21 April 2016
+Revised 1 February 2021
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+TABLE OF CONTENTS
+PART I: INTRODUCTION AND OVERVIEW ................................................................................. 3
+PART II: ALTERNATIVE DISPUTE RESOLUTION ......................................................................... 7
+PART III: REVIEWS ................................................................................................................... 12
+PART IV: INVESTIGATIONS .............................................................................................. 22
+PART V: VOLUNTARY UNDERTAKINGS............................................................................. 34
+PART VI: DIRECTIONS TO SECURE COMPLIANCE .................................................................... 36
+PART VII: COMMON ISSUES RELATING TO THE COMMISSION’S DECISIONS AND
+DIRECTIONS ............................................................................................................................. 43
+PART VIII: RECONSIDERATION ................................................................................................ 45
+PART IX: APPEALS AND RIGHTS OF PRIVATE ACTION AND DIRECTIONS .............................. 49
+
+2
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART I: INTRODUCTION AND OVERVIEW
+1.
+
+Introduction
+The Personal Data Protection Act 2012 (the “PDPA”) establishes a general data
+protection law in Singapore that governs the collection, use and disclosure of
+individuals’ personal data by organisations. The Personal Data Protection Commission
+(the “Commission”) is established under the PDPA with the key functions of, amongst
+others, promoting the awareness of data protection in Singapore, and administering
+and enforcing the PDPA.
+
+1.1
+
+These advisory guidelines (these “Guidelines”) are issued by the Commission pursuant
+to section 49(1) of the PDPA to provide guidance on the manner in which the
+Commission will interpret the PDPA’s provisions relating to its enforcement of the
+PDPA. Where relevant, reference is made to the provisions of the regulations issued
+under the PDPA, including the following:
+1.1.1 Personal Data Protection Regulations 2021 (the “PDP Regulations”); and
+1.1.2 Personal Data Protection (Enforcement) Regulations 2021 (the “Enforcement
+Regulations”).
+
+1.2
+
+These Guidelines are advisory in nature and are not legally binding on the Commission,
+or any other party. They do not modify or supplement in any way the legal effect and
+interpretation of any laws cited including, but not limited to, the PDPA and any
+subsidiary legislation (such as regulations and rules) issued under the PDPA.
+Accordingly, these Guidelines shall not be construed to limit or restrict the
+Commission’s administration and enforcement of the PDPA. The provisions of the
+PDPA and any regulations or rules issued thereunder will prevail over these Guidelines
+in the event of any inconsistency. These Guidelines do not constitute legal advice.
+
+1.3
+
+These Guidelines should be read in conjunction with other advisory guidelines issued
+by the Commission from time to time, which explain in detail the obligations that
+organisations have to comply with under the PDPA.
+
+3
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+2.
+
+Overview of enforcement framework and approach
+The PDPA confers various powers on the Commission to enforce the PDPA. Broadly,
+these powers may be categorised as follows:
+2.1.1 Powers relating to alternative dispute resolution
+These powers generally relate to the manner by which a complainant and an
+organisation may by directed by the Commission to resolve the complainant’s
+complaint, for example, through mediation or other modes of dispute
+settlement.
+2.1.2 Powers relating to reviews
+These powers enable the Commission to review an organisation’s reply to a
+request made by an individual under section 21 or 22 of the PDPA and to
+confirm the organisation’s reply or direct the organisation to take certain
+action in relation to the individual’s request.
+2.1.3 Powers relating to investigations
+These powers enable the Commission to carry out investigations to determine
+whether an organisation or person is complying with the PDPA and to direct
+an organisation or person that is not complying to take the appropriate action
+to ensure its compliance, or to pay a financial penalty
+2.1.4 Powers relating to voluntary undertakings
+These powers enable the Commission to accept a voluntary undertaking from
+an organisation or person including an undertaking to take specified action,
+where the organisation or person has not complied, is not complying or is likely
+not to comply with the PDPA. Further, if the organisation or person fails to
+comply with any undertaking, the Commission may give any direction to
+ensure compliance with that undertaking.
+Each of the above is discussed further in Parts II, III, IV and V respectively of these
+Guidelines.
+
+2.2
+
+In general, when considering whether, and how, to exercise its enforcement powers,
+the Commission’s approach takes into account two main objectives. These are:
+2.2.1 to facilitate the resolution of an individual’s complaint relating to an
+organisation’s contravention, or alleged contravention, of the PDPA; and
+
+4
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+2.2.2 to ensure that organisations comply with their obligations and, in the event an
+organisation does not comply, to ensure that it takes the appropriate
+corrective measures and any other necessary action in a timely manner.1
+2.3
+
+In relation to the first objective above, a key purpose of the PDPA is to enable
+individuals to better protect their personal data.2 Where an individual’s rights under
+the PDPA may have been infringed by an organisation, the individual may wish to have
+specific corrective measures or other actions taken to address his complaint. From the
+organisation’s perspective, the PDPA requires organisations to develop and
+implement a process to receive and respond to complaints that may arise with respect
+to the application of the PDPA.3 Related to this, organisations may, as a good practice,
+wish to address complaints in an appropriate manner having regard to their customer
+relationship management or public relations so as to facilitate the resolution of such
+complaints by the organisation concerned.
+
+2.4
+
+Where the Commission receives a complaint from an individual relating to a
+contravention, or possible contravention, the Commission will generally prefer to
+facilitate the resolution of the matters raised in the complaint or application between
+the individual and the organisation concerned instead of immediately exercising its
+powers of investigation under the PDPA. In this regard, the Commission believes that
+a mutually accepted resolution which addresses the concerns of the complainant
+would best meet the immediate interests of both the complainant and the
+organisation.
+
+2.5
+
+It should however be noted that the Commission is not empowered to award damages
+to a complainant4. As such, the Commission will generally prefer to take other
+measures (such as facilitation and alternative dispute resolution mechanisms like
+mediation) to encourage the parties to discuss the issues in a complaint and find a
+mutually acceptable resolution, which may include compensation. For more
+information on the measures that the Commission may take when seeking to facilitate
+the resolution of a complaint, please refer to Part II of these Guidelines.
+
+2.6
+
+In relation to the second objective set out in paragraph 2.2 above, the Commission
+notes that there may be cases where many individuals may be affected by an
+organisation’s contravention. Even where only an individual or a few individuals are
+affected, a particular contravention may cause significant harm to the individual(s) or
+may warrant stronger action by the Commission. There may also be cases where an
+organisation contravened the PDPA intentionally or negligently, or it did not have the
+necessary policies, procedures and processes in place to ensure its compliance with
+the PDPA.
+
+1
+
+In some cases, as described further in these Guidelines, the Commission may impose a financial penalty on an
+organisation that contravenes the PDPA.
+2
+
+See PDPA, section 3.
+
+3
+
+See PDPA, section 12.
+
+4
+
+Individuals have a private right of action under section 48O of the PDPA.
+
+5
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+2.7
+
+In view of the above, it is therefore an important objective of the Commission to
+ensure that organisations comply with their obligations under the PDPA. The
+Commission may therefore conduct a review or an investigation in certain cases and,
+based on the outcome of the review or investigation, direct the organisation to take
+certain actions. For more information on reviews and investigations by the
+Commission, please refer to Parts III and IV respectively of these Guidelines.
+
+2.8
+
+For the avoidance of doubt, the two main objectives described in the preceding
+paragraphs are not intended to be mutually exclusive or to preclude the Commission
+from taking any action under the PDPA for other reasons. Where the Commission
+considers it appropriate, the Commission may commence an investigation even if the
+complainant and the organisation have reached an agreement that resolves the issues
+in the complainant’s complaint. This may include situations where the facts of the case
+disclose issues of general public interest, or there are other individuals who may be
+affected by the conduct of the organisation.
+
+3.
+
+Determining whether a complaint involves personal data
+
+3.1
+
+When the Commission receives a complaint, it will first determine if the complaint
+involves the collection, use or disclosure of personal data5.In general, the Commission
+considers the following types of data, on its own, to be personal data:
+(a)
+(b)
+(c)
+(d)
+
+Full name6
+NRIC number or FIN (Foreign Identification Number)
+Passport number
+Personal mobile telephone number
+
+3.2
+
+For instance, the Commission may commence an investigation into any breach of the
+PDPA if it receives a complaint involving an organisation’s collection, use or disclosure
+of a list of individuals’ NRIC numbers, even if the list does not contain any other
+information, or the organisation does not have access to any other information about
+the individuals.
+
+3.3
+
+If a complaint involves other types of data, the Commission will take a case-by-case
+approach in accordance to the PDPC’s Advisory Guidelines on Key Concepts in the
+PDPA to determine whether the data involved constitutes personal data.
+
+5
+
+Personal data is defined in section 2 of the PDPA to refer to data, whether true or not, about an individual who
+can be identified (a) from that data; or (b) from that data and other information to which the organisation has
+or is likely to have access.
+6
+
+Re Full House Communications Pte Ltd [2016] SGPDPC 8, where it was found that a person’s full name in the
+drop down box alone would enable identification of the individual.
+
+6
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART II: ALTERNATIVE DISPUTE RESOLUTION
+4.
+
+Commission’s powers relating to alternative dispute resolution7
+
+4.1
+
+Section 48G of the PDPA sets out the Commission’s powers in relation to the
+resolution of complaints. These include:
+4.1.1 Under section 48G(1) of the PDPA, if the Commission is of the opinion that any
+complaint by an individual against an organisation may be more appropriately
+resolved by mediation, the Commission may, without the consent of the
+complainant and the organisation, refer the matter to mediation under a
+dispute resolution scheme.
+4.1.2 Under section 48G(2) of the PDPA, the Commission may direct a complainant
+or an organisation or both to attempt to resolve the complaint of the individual
+in the way directed by the Commission.8
+
+4.2
+
+The PDPA generally recognises that a complainant and an organisation may resolve
+the issues in a complaint by negotiation, mediation or other modes of dispute
+settlement. Where the complainant and the organisation are able to resolve the issues
+in a complaint and reach an agreement on the matter including, for example, any
+actions to be taken by the organisation to address the complaint, the Commission will
+consider the agreement reached in determining whether to take any further
+enforcement action. In particular, the PDPA provides that the Commission may
+suspend, discontinue or refuse to conduct an investigation where the parties involved
+(that is, the complainant and the organisation) mutually agree to settle the matter
+(among other situations).9
+
+4.3
+
+It should be noted that the Commission’s powers in relation to alternative dispute
+resolution do not include deciding on disputes between a complainant and an
+organisation or ordering an organisation to compensate a complainant. The PDPA
+provides that individuals who suffer loss or damage as a direct result of a
+contravention of Part 4, 5, 6, 6A, 6B, Division 3 of Part 9 or 9A of the PDPA may
+commence civil proceedings in the courts against the organisation. This is referred to
+in the PDPA as a right of private action.10
+
+7
+
+Section 48G of the PDPA is entitled “Alternative dispute resolution”. This term generally refers to various
+processes for resolving disputes that are typically regarded as “alternatives” to civil proceedings in the courts.
+These may include, for example, negotiation, mediation, conciliation and arbitration.
+8
+
+The Commission’s power under section 48G(2) of the PDPA is subject to 48G(1) of the PDPA and hence would
+not apply in relation to cases where the Commission is of the view that a matter may be resolved by mediation.
+9
+
+See PDPA, section 50(3).
+
+10
+
+See PDPA, section 48O. For more information on the right of private action, please refer to section 36 of these
+Guidelines.
+
+7
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+5.
+
+Commission’s approach to resolving complaints
+
+5.1
+
+Upon receiving a complaint11, the Commission will first consider whether it may be
+more appropriately resolved by adopting some or all of the measures described in
+section 6 of these Guidelines. Where the Commission receives a query or other
+information concerning an organisation’s compliance with the PDPA, the Commission
+may also, in appropriate cases, adopt some or all of the measures described in section
+6 of these Guidelines to encourage the organisation to take the appropriate action to
+address the issues raised and ensure its compliance.
+
+5.2
+
+In considering whether to take any of the measures described in section 6 of these
+Guidelines, the Commission will generally consider the following factors:
+5.2.1 whether, in the Commission’s view, the issues in the complaint (including the
+conduct of the organisation that is the subject of the complaint):
+(a)
+
+relate solely to the complainant (or whether other individuals may be
+affected by the organisation’s conduct in question); or
+
+(b)
+
+may be more effectively resolved through discussions between the
+complainant and the organisation;
+
+5.2.2 whether the remedies or other corrective action preferred by the complainant:
+(a)
+
+are within the Commission’s powers; or
+
+(b)
+
+may be voluntarily provided by the organisation; and
+
+5.2.3 whether the organisation concerned has the required policies and processes
+in place to address complaints.
+5.3
+
+In the event the complaint is subsequently resolved, the Commission will generally not
+proceed with an investigation unless the circumstances are such that, in the
+Commission’s view, an investigation is warranted. For more information on the
+Commission’s considerations in this regard, please refer to section 16 of these
+Guidelines.
+
+11
+
+This may include an application for a review in relation to an organisation’s obligations under section 21 or 22
+of the PDPA.
+
+8
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+6.
+
+Measures to facilitate resolution of a complaint
+
+6.1
+
+Where appropriate, the Commission may, take any or all of the following measures
+when seeking to facilitate the resolution of a complaint.
+6.1.1 Encouraging self-resolution
+The Commission encourages individuals who have a concern with an
+organisation’s conduct with respect to their personal data to first approach the
+organisation, clarify the reasons for the organisation’s conduct12 and seek an
+appropriate resolution of the matter. This is especially important in cases
+where an individual may be unclear as to an organisation’s data protection
+policies or specific aspects of the organisation’s collection, use or disclosure of
+his personal data. In such situations, the Commission notes that the individual
+would be best placed to clarify the matter with the organisation concerned.
+For example, the mere fact that an individual has not consented to the use of
+his personal data by an organisation does not indicate that the organisation
+has breached the PDPA. This is because there are a number of situations where
+an organisation is permitted to use an individual’s personal data without his
+consent under the PDPA13.
+In addition, where an organisation is using an individual’s personal data in
+accordance with the PDPA and the individual would like the organisation to
+stop using his personal data, the individual will have to give reasonable notice
+to the organisation to withdraw his consent. The Commission cannot withdraw
+consent on behalf of the individual.
+6.1.2 Referring a complaint to an organisation
+The Commission also encourages organisations to deal directly with a
+complainant’s concerns in an appropriate manner. Hence, another basic step
+that the Commission may take is to refer a complaint to the organisation (for
+example, through its data protection officer).
+When referring an individual’s complaint to an organisation, the Commission
+will generally forward a copy of the complaint and disclose the individual’s
+identity to the organisation so that the organisation is better able to address
+the complainant’s concerns.
+
+12
+
+To assist individuals in contacting organisations about their concerns, individuals may wish to refer to the
+template letter at http://www.pdpc.gov.sg/individuals/complaints-and-reviews/report-a-personal-dataprotection-concern as a guide.
+13
+
+For example, see the situations set out in the First Schedule to the PDPA.
+
+9
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+6.1.3 Facilitating resolution
+Where the Commission has referred a complaint to an organisation, the
+Commission will generally monitor the progress of discussions between the
+complainant and the organisation. If necessary, the Commission may facilitate
+the resolution of the complaint. For example, the Commission may request the
+data protection officer of the organisation (or such other appropriate
+representative of the organisation) to meet with or contact the complainant
+with or without a member of the Commission to discuss the complainant’s
+concerns.
+6.1.4 Referring a complaint to mediation
+If a complainant and an organisation are unable to resolve the matter directly
+or through the Commission’s facilitation attempt(s), the Commission may refer
+the matter for mediation.
+Currently, the Commission refers unresolved data protection disputes to either
+the Consumers Association of Singapore (“CASE”) or the Singapore Mediation
+Centre (“SMC”) for mediation. This is done via established understandings with
+CASE and SMC to make available mediation services to assist with the
+resolution of data protection-related complaints14. If the complainant and the
+organisation so agree, they are free to independently approach CASE, SMC, or
+any other alternative dispute resolution service provider, to resolve the
+complaint without first coming to the Commission. It is not necessary for
+parties to approach the Commission in order to refer the matter to mediation.
+The Commission will be establishing a dispute resolution scheme under section
+48G of the PDPA. Regulations pursuant to section 48G(4) of the PDPA may be
+issued in the future to prescribe matters pertaining to the operation of such
+schemes. Once established, the Commission may, without the parties’
+consent, refer the matter for mediation under such a dispute resolution
+scheme pursuant to section 48G(1) of the PDPA.
+6.1.5 Directing the parties to attempt to resolve the complaint
+In certain situations, the Commission may, pursuant to section 48G(2) of the
+PDPA, direct the complainant, the organisation, or both, to attempt to resolve
+the complainant’s complaint in the manner directed by the Commission.
+Before making such a direction, the Commission may consider the manner in
+which the complaint may be more appropriately or more expeditiously
+resolved.
+
+14
+
+Further details are available on the Commission’s website at https://www.pdpc.gov.sg/complaints-andreviews/mediation
+
+10
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+For example, if a complaint arises from a broader contractual dispute between
+a complainant and an organisation and the contract between the parties
+requires them to submit disputes to arbitration, the Commission may consider
+whether to direct the parties to resolve their dispute (insofar as it relates to
+the individual’s complaint) via arbitration.
+Where the Commission issues a direction under section 48G(2) of the PDPA,
+the complainant or the organisation concerned may apply for the Commission
+to reconsider its direction under section 48N of the PDPA and may also appeal
+against the direction under section 48Q of the PDPA. For more information on
+applying for reconsideration, please refer to Part VIII of these Guidelines.
+
+11
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART III: REVIEWS
+7.
+
+Commission’s power to review
+
+7.1
+
+Section 48H of the PDPA sets out the Commission’s powers in relation to the conduct
+of a review. In particular, section 48H(1) of the PDPA provides that the Commission
+may, on the application of an individual (referred to below and in the Enforcement
+Regulations as the applicant),15 review the following matters:
+7.1.1 an organisation’s refusal to provide access to personal data requested by the
+applicant in a request under section 21 of the PDPA (an “access request”), or a
+failure to provide such access within a reasonable time;
+7.1.2 an organisation’s refusal to correct personal data requested by the applicant
+in a request under section 22 of the PDPA (a “correction request”), or a failure
+to make such a correction within a reasonable time; or
+7.1.3 a fee required by an organisation from the applicant in relation to the
+applicant’s access request or a correction request.
+
+7.2
+
+Under the PDPA, organisations are required to provide access to, and correct, an
+individual’s personal data that is within their possession or control upon request by
+the individual and in accordance with sections 21 and 22 of the PDPA respectively. An
+organisation’s obligations under sections 21 and 22 of the PDPA are collectively
+referred to by the Commission as the “Access and Correction Obligation”. For more
+information on the Access and Correction Obligation, please refer to the Key Concepts
+Guidelines16.
+
+7.3
+
+Where the Commission receives an application for a review under section 48H of the
+PDPA, the Commission will first consider whether the matter may be resolved in the
+manner set out in Part II of these Guidelines. The Commission may therefore adopt
+some or all of the measures described in Part II before commencing a review. In the
+event the matter is resolved in the manner described in Part II, the Commission will
+generally not proceed with the review.
+
+15
+
+The term “applicant” is defined in regulation 2 of the Enforcement Regulations as either the complainant
+referred to in section 48H of the PDPA (that is, the party who applies for a review) or the individual or
+organisation who applies for reconsideration under section 48N of the PDPA. In Part III of these Guidelines,
+applicant refers solely to a party who applies for a review under section 48H of the PDPA.
+16
+
+http://www.pdpc.gov.sg/resources/advisory-guidelines.
+
+12
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+8.
+
+Applying to the Commission for a review
+
+8.1
+
+An individual who has made an access request or a correction request to an
+organisation may apply to the Commission under section 48H(1) of the PDPA for the
+Commission to review the organisation’s reply to his request in the following
+situations:
+8.1.1 where the organisation refuses to give access to personal data or make the
+correction requested by the individual and the individual is dissatisfied with
+the reasons given by the organisation for its refusal or the organisation does
+not give any reasons for its refusal;
+8.1.2 the organisation has failed to give access to personal data or make the
+correction requested by the individual within a reasonable time;
+8.1.3 the organisation requires the individual to pay a fee, or agree to pay a fee,
+before it responds to an access request and the fee exceeds what would be
+reasonable;17 or
+8.1.4 the organisation requires the individual to pay a fee, or agree to pay a fee,
+before it responds to a correction request.18
+For more information on how to make an access request or a correction request to an
+organisation, please refer to the section on “The Access and Correction Obligation” in
+the Key Concept Guidelines.
+Matters to note before applying to the Commission for a review
+
+8.2
+
+Before applying to the Commission for a review, individuals should note and, if
+necessary, clarify the following with the organisation concerned as this would likely
+facilitate a quicker resolution of any dispute or issues of concern they may have with
+the organisation:
+8.2.1 Reasons for the organisation’s refusal to provide access to personal data or
+make a correction requested
+The PDPA sets out a number of situations in which an organisation is not
+required to provide personal data requested by an individual under section 21
+
+17
+
+Individuals may apply for a review before or after paying any such fee. However, in the event the fee is not
+paid, the organisation is not required to provide access to the personal data requested by the individual unless
+the Commission disallows the organisation from charging the fee upon completion of the review. Please also
+note that the Commission may not review a fee that has been paid if a significant period has passed since the
+fee was paid.
+18
+
+Individuals may apply for a review before or after paying any such fee. However, please note that the
+Commission may not review a fee that has been paid if a significant period has passed since the fee was paid.
+
+13
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+of the PDPA19 (for example, where provision of the requested personal data
+could threaten the safety or physical or mental health of another individual),
+or make a correction requested by an individual under section 22 of the PDPA20
+(for example, where the correction request is in respect of any examination
+conducted by an education institution, examination scripts, and, (prior to their
+release) examination results). Subject to the PDPA and the PDP Regulations,21
+organisations are required to provide a reply to the individual even if they
+refuse to provide the personal data or make the correction requested by the
+individual. In such situations, the PDPC would strongly encourage
+organisations to provide the reason(s) for their decision to refuse the
+individual’s request so that the individual is aware of and understands their
+reason(s).
+If an individual is unclear as to the reasons for an organisation’s refusal to
+provide access to personal data or make the correction requested, or the
+organisation has not communicated its reasons to the individual, the individual
+should first clarify this directly with the organisation.
+8.2.2 Timing of the organisation’s response in complying with the access and
+correction requirement
+The PDPA generally requires organisations to provide the personal data, or
+make the correction, requested by an individual under sections 21 or 22 of the
+PDPA as soon as reasonably possible. In addition, if the organisation is unable
+to provide the personal data or make the correction requested within 30 days
+after receiving the request, the organisation must inform the individual, in
+writing, within 30 days, of the time by which it will respond to the individual’s
+access or correction request.22
+If an individual has not heard from an organisation within 30 days of his access
+request or correction request, he should confirm with the organisation that it
+has received his request and clarify with the organisation on the time frame
+within which it will reply to the request.23
+Where an organisation has specified the period within which it will respond to
+the individual’s access request or correction request, the individual should not
+apply for a review until the specified period has expired or the circumstances
+are such that the period specified by the organisation exceeds what would be
+19
+
+See PDPA, section 21 (2), (3) and (4) and Fifth Schedule.
+
+20
+
+See PDPA, section 22 (2), (4), (6) and (7) and Sixth Schedule.
+
+21
+
+See PDPA, section 21 (4) and PDP Regulations, regulation 6.
+
+22
+
+See PDP Regulations, regulation 5.
+
+23
+
+If the circumstances are clear such that a reasonable period is less than 30 days, the individual may similarly
+check with the organisation after the expiry of that period if he has not received any reply from the organisation
+by then.
+
+14
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+a reasonable period. Individuals may also wish to check with the organisation
+if there has been any delay, whether due to any unforeseen circumstances or
+other reasons, such that the organisation may require additional time in order
+to respond to their request.
+8.2.3 Fee required by an organisation
+The PDP Regulations permit organisations to charge a reasonable fee for
+services provided to fulfil an access request so that the organisation can
+recover the incremental costs of responding to the request.
+An organisation that wishes to charge such a fee must provide a written
+estimate of the fee to the individual and is not required24 to provide the
+personal data requested until the individual agrees to pay the fee.25 The final
+fee chargeable should thereafter be communicated to the individual so that
+payment for the provision of the personal data may be made. Organisations
+may not charge a fee in relation to fulfilling a correction request.26
+Individuals should note that where a fee is levied, it may exceed the cost of
+producing a copy of the document containing the personal data, as such fee
+may include other incremental costs to reflect the time and effort required to
+respond to the request.
+Submitting a review application to the Commission
+8.3
+
+When submitting a review application to the Commission, the review application
+should include the following information:
+8.3.1 the reasons for making the application (for example, failure of the organisation
+to provide the personal data requested within a reasonable time);
+8.3.2 a copy of the access or correction request submitted to the organisation (if
+that is not available, the applicant should provide a clear description of the
+personal data which he had requested access to, or the correction he had
+requested for);
+8.3.3 a copy of the organisation’s reply to the access or correction request, including
+any interim replies;
+
+24
+
+Organisations may, if they so decide, provide the personal data requested even if the fee has not yet been
+paid by the individual. However, any agreement between the individual and the organisation under which the
+individual is required to pay the fee for the personal data provided by the organisation pursuant to the
+individual’s access request is subject to any decision by the Commission under section 48H(2) of the PDPA in the
+event the individual applies to the Commission for a review of the fee under section 48H(1) of the PDPA.
+25
+
+See PDP Regulations, regulation 7(1) to (3).
+
+26
+
+See PDP Regulations, regulation 7(4).
+
+15
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+8.3.4 a copy of all other correspondence between the applicant and the organisation
+relating to the access or correction request (for example, correspondence
+clarifying the reasons for the organisation’s reply); and
+8.3.5 the facts and circumstances of the key events that took place in relation to the
+submission of the applicant’s access or correction request.
+An application for review may also be made by submitting a duly completed form as
+set out on the Commission’s website and including the information and copies of
+documents specified in the form.
+8.4
+
+Review applications may be submitted by post, by email or in person to the
+Commission.
+
+9.
+
+Procedure during a review
+
+9.1
+
+The procedures that the Commission will adopt in a review under section 48H(1) of
+the PDPA are set out in Part 2 of the Enforcement Regulations and described in brief
+below.
+Serving a copy of the review application to the organisation concerned
+
+9.2
+
+If satisfied that the application filed by the applicant discloses a prima facie case for
+review, the Commission will:
+9.2.1 serve a copy of the review application and any accompanying documents on
+the organisation concerned (referred to in the Enforcement Regulations as the
+“respondent”); and
+9.2.2 require the respondent to submit, within a period specified by the
+Commission, a response setting out the respondent’s explanation to the
+matters or issues raised in the complaint and any other information or
+document required by the Commission27.
+Submission of a response by the respondent
+
+9.3
+
+27
+
+In most cases, respondents will be required to submit a response within 14 days of the
+date of the notice of review application. The respondent may apply to the Commission
+in writing for an extension of the time frame for submission of the response, subject
+to the Commission’s approval of such request for extension of time. In general, the
+Commission will give the respondent a reasonable period, taking into account the
+scope of the applicant’s application and the issues raised therein, to submit the
+response.
+
+See the Enforcement Regulations, regulation 6(1).
+
+16
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+9.3.1 The respondent shall submit its response in accordance with the Enforcement
+Regulations.28 Amongst other requirements, each response must be made in
+writing, signed by the respondent or an authorised representative of the
+respondent and contain all relevant information and documents that the
+respondent wishes to refer to or rely upon in its response.
+9.3.2 If the respondent fails to submit a response within the time frame specified by
+the Commission in its notice (including any extension thereof granted by the
+Commission), the Commission may either:
+(a)
+
+proceed to make its decision based on the information and documents
+obtained by the Commission during the review (including any
+additional information and documents obtained by the Commission
+pursuant to its powers);29 or
+
+(b)
+
+commence an investigation into the conduct of the organisation (in
+which case, the Commission may suspend the review pending the
+outcome of the investigation).30
+
+9.3.3 The respondent should inform the Commission if the response contains
+information the respondent considers to be confidential, and provide a written
+statement giving reasons why the information is confidential. The Commission
+will give due consideration to these reasons when deciding whether to grant
+confidential treatment.
+Inviting the applicant to submit a reply to the organisation’s response to the review
+application
+9.4
+
+Where the respondent submits a response, the Commission may, where it considers
+it appropriate:
+(a)
+
+serve a copy of the response on the applicant; and
+
+(b)
+
+invite the applicant to submit to the Commission, within a period specified by
+the Commission, a written reply to the respondent’s response as the applicant
+may wish to give.31
+
+9.4.1 In considering whether to serve a copy of the organisation’s response to the
+applicant, the Commission would consider all relevant factors, including but
+not limited to the fact that the response could contain information about the
+28
+
+See the Enforcement Regulations, regulation 6(2).
+
+29
+
+See section 10 of these Guidelines.
+
+30
+
+See paragraph 12.1 of these Guidelines.
+
+31
+
+For the avoidance of doubt, the applicant is not required to submit a reply if he does not wish to provide any
+reply to the respondent’s response. The applicant may choose to inform the Commission in writing at any time
+with the period specified by the Commission if he does not wish to submit a reply.
+
+17
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+organisation’s internal policies or practices. Respondents should note that the
+Commission will generally invite the applicant to submit a reply if the response
+raises issues relating to the applicant (e.g., the applicant’s conduct).
+9.4.2 In general, where the Commission invites the applicant to submit a reply, the
+Commission will give the applicant a reasonable time frame, taking into
+account the issues raised in the respondent’s response, to submit the reply. In
+most cases, the time frame may be within 14 days for submission of the reply.
+The applicant may apply to the Commission in writing for an extension of the
+time frame for submission of the reply, subject to the Commission’s approval
+of such request for extension of time.
+9.4.3 Where the applicant wishes to submit a reply, the applicant shall submit his
+written reply in accordance with the Enforcement Regulations32. Amongst
+other requirements, each reply must be made in writing, signed by the
+applicant or his authorised representative and contain all relevant information
+and documents that the applicant wishes to refer to or rely upon in his reply.
+Seeking further information or clarifications from the applicant or respondent
+9.5
+
+The Commission may, at any stage of the review, seek further information,
+clarifications or documents from either the applicant or the respondent. The
+Commission may also exercise the powers described in section 10 of these Guidelines
+to obtain additional information and documents for the purposes of the review from
+the applicant or the respondent.
+
+9.6
+
+Upon receiving the respondent’s response, any reply submitted by the applicant
+(where applicable) within the time frame specified by the Commission (including any
+extension thereof granted by the Commission), and any additional information
+obtained during the review, the Commission shall make its decision on the matters
+and issues raised in the application.
+
+9.7
+
+After making its decision or direction under section 48H(2) of the PDPA upon a review
+application, the Commission will give notice of the decision or direction to the
+applicant and the respondent. Section 14 of these Guidelines describes the decisions
+and directions that a Commission may make upon the completion of a review. The
+Commission may also publish the decision or a summary of the decision as described
+in Part VII of these Guidelines.
+
+32
+
+See the Enforcement Regulations, regulation 7(2).
+
+18
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+10.
+
+Summary dismissal of review application
+
+10.1
+
+The Commission may, at any time, dismiss a review application in the circumstances
+set out in Regulation 5 of the Enforcement Regulations:
+10.1.1 the Commission considers that the application does not disclose any prima
+facie case for a review under section 48H(1) of the PDPA based on the
+information disclosed in the application;33
+10.1.2 the Commission has referred the matter to mediation under a dispute
+resolution scheme under section 48G(1) of the PDPA;
+10.1.3 the Commission has issued a direction to the applicant under section 48G(2)
+of the PDPA and the applicant has not complied with the direction;
+10.1.4 the applicant and the organisation have mutually agreed to settle the matter;
+10.1.5 the applicant has commenced legal proceedings against the organisation in
+respect of a contravention or alleged contravention of the PDPA by the
+organisation, which is the subject of the application;
+10.1.6 the review application is not made in accordance with regulation 4(1) or is
+materially incomplete;
+10.1.7 the applicant has, without reasonable excuse, failed to comply with the time
+specified in a written notice under regulation 4(3) of the Enforcement
+Regulations for the submission of any document or information required under
+the notice; or
+10.1.8 the Commission is of the opinion that —
+
+10.2
+
+(a)
+
+the application is frivolous or vexatious or is not made in good faith; or
+
+(b)
+
+any other circumstances warrant dismissing the application.
+
+Without limitation to the foregoing, the Commission may dismiss an application for a
+review that is made within the following time frames:
+10.2.1 30 days of the date on which the access request or correction request was
+made by the individual to the organisation; or
+10.2.2 the time frame specified by the organisation to the applicant as the soonest
+possible time it can provide access or make the correction (if any),
+
+33
+
+This may include (without limitation) situations where an applicant has not yet made an access request or a
+correction request to the organisation or where the application does not otherwise disclose a matter that the
+Commission may review under section 48H(1) of the PDPA.
+
+19
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+unless the circumstances are such that it would be reasonable for the organisation to
+have provided the personal data or made the correction within a shorter time frame.
+
+11.
+
+Commission’s powers when conducting a review application
+
+11.1
+
+The Commission may exercise the following powers under the Enforcement
+Regulations when conducting a review:
+11.1.1 the power to require production of documents and information; and
+11.1.2 the power to require an applicant or a respondent to furnish a statutory
+declaration.34
+
+11.2
+
+The following paragraphs describe these powers in brief:
+11.2.1 Power to require production of documents and information
+The Commission may, at any time by notice in writing, require the applicant to
+produce any document or information to support the facts or particulars
+contained in the applicant’s application for a review or reply to the
+respondent’s response. The Commission’s notice will specify the document or
+information, or the category of documents or information, which the applicant
+or respondent is required to provide and the time within which the document
+or information is to be provided to the Commission.
+The Commission may similarly require the respondent to produce any
+document or information to support the facts or particulars contained in the
+respondent’s response to the applicant’s application.
+11.2.2 Power to require an applicant or a respondent to furnish a statutory
+declaration
+The Commission may, at any time by notice in writing, require the applicant to
+provide, within such time as may be specified in the notice, a statutory
+declaration to support the facts or particulars in the applicant’s application for
+a review or reply.
+The Commission may similarly require the respondent to provide a statutory
+declaration to support the facts or particulars in the respondent’s response.
+
+34
+
+See Enforcement Regulations, regulations 4(3), 6(3) and 7(3).
+
+20
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+12.
+
+Suspension of a review
+
+12.1
+
+The Commission may suspend a review at any stage of the review in the circumstances
+set out in regulation 9 of the Enforcement Regulations. These circumstances are:
+12.1.1 the Commission commences an investigation under section 50(1) of the PDPA
+into the conduct of the respondent that is the subject of the applicant’s
+application for a review; or
+12.1.2 the Commission is of the opinion that any other circumstances warrant
+suspending the review.
+
+13.
+
+Withdrawal of review application
+
+13.1
+
+An applicant may withdraw his application for a review at any time before the
+Commission gives notice of its decision or direction35, by way of notice in writing to
+the Commission. In such an event, the Commission will terminate the review.
+
+14.
+
+Commission’s decisions and directions following a review
+
+14.1
+
+Section 48H(2) of the PDPA provides that the Commission may, upon the completion
+of a review:
+14.1.1 confirm the respondent’s refusal to provide access to the personal data, or
+direct the respondent to provide access to the personal data, within such time
+as the Commission may specify;
+14.1.2 confirm the respondent’s refusal to correct the personal data, or direct the
+respondent to correct the personal data, in such manner and within such time
+as the Commission may specify; or
+14.1.3 confirm, reduce or disallow a fee, or direct the respondent to make a refund
+to the applicant.
+
+14.2
+
+Where the Commission makes a direction against the respondent under section
+48H(2) of the PDPA and the respondent fails to comply with the direction, the
+Commission may issue a further direction against the respondent under section 48I(1)
+or (2) of the PDPA. This may include (without limitation) a direction to comply with the
+Commission’s direction under section 48H(2) of the PDPA.
+
+14.3
+
+The Commission is empowered under section 48M of the PDPA to enforce its
+directions by registering them in the District Court. Please refer to section 27 of these
+Guidelines for more information on the enforcement of the Commission’s directions.
+
+35
+
+See the Enforcement Regulations, regulation 8.
+
+21
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+Examples
+(A)
+
+An organisation did not provide access to personal data requested by an
+individual more than 30 days after receiving the request, and did not inform
+the individual within 30 days of the time36 by which it will be able to respond
+to the request.
+The individual submits a review application on the grounds that the
+organisation has failed to provide access to the personal data requested.
+The individual explained in the application that the organisation has failed
+to respond to his request within 30 days, and also did not inform him of the
+time frame by which it will be able to respond within 30 days. His application
+also stated the remedy he is seeking, which in this case is for the
+organisation to provide him the personal data requested.
+Upon completion of a review, the Commission finds that the organisation
+should provide the personal data requested and directs the organisation to
+provide access.
+
+(B)
+
+An individual submits a request to an organisation to access his personal
+data in its possession and pays a fee for this request. The individual
+compares the fees required by a number of other organisations within the
+same industry to fulfil similar access requests and finds out that he has been
+charged a fee that is more than ten-times higher.
+The individual makes an application to the Commission to review the fee
+paid. He states in his application that the outcome he seeks is for the
+Commission to direct the organisation to refund part of the fee paid.
+Upon completion of a review, the Commission finds that the fee charged
+was not reasonable as it included costs incurred for capital purchases and
+directs the organisation to refund part of the fee.
+
+15.
+
+Commencing an investigation related to a review
+
+15.1
+
+The Commission may, in certain situations, commence an investigation in relation to
+an organisation’s compliance with section 21 or 22 of the PDPA prior to or during a
+review. These situations may include (without limitation):
+
+36
+
+Organisations are reminded of the requirement to respond to an access request as soon as reasonably possible
+under section 21(1) and to make a correction as soon as practicable under section 22(2).
+
+22
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+15.1.1 where the organisation does not comply with the Enforcement Regulations
+during the review including, in particular, the Commission’s notices
+thereunder;37 and
+15.1.2 where the Commission receives multiple applications for a review against the
+organisation, or applications for a review and information from other sources,
+and the information obtained by the Commission through the applications or
+other sources indicates that the organisation may not be in compliance with
+the Access and Correction Obligation.
+In most cases, the Commission will suspend any ongoing review if it commences an
+investigation into the conduct of an organisation that is the subject of the review.
+15.2
+
+37
+
+In general, the Commission will not commence an investigation into an organisation’s
+compliance with section 21 or 22 of the PDPA after completion of a review unless
+there appears to the Commission to be a significant non-compliance with section 21
+or 22 of the PDPA or there are other exceptional circumstances. Please refer to section
+15 of these Guidelines for more information on when the Commission may commence
+an investigation.
+
+See paragraph 10.2.
+
+23
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART IV: INVESTIGATIONS
+16.
+
+Circumstances under which the Commission may commence an
+investigation
+
+16.1
+
+Section 50 of the PDPA sets out the Commission’s powers of investigation in respect
+of contraventions of the PDPA. In general, the Commission may commence an
+investigation either upon receiving a complaint from an individual against an
+organisation or of its own motion.
+
+16.2
+
+Where the Commission receives a complaint or other information that indicates that
+an organisation has, or may have, contravened the PDPA, the Commission will first
+consider whether the matter may be more appropriately resolved in the manner set
+out in Part II of these Guidelines, that is, by resolving the underlying dispute between
+the complainant and the organisation. If so, the Commission may adopt the measures
+described in Part II before deciding whether to commence an investigation. In
+addition, where a complaint relates to a matter that may be reviewed by the
+Commission under section 48H(1) of the PDPA (i.e. a refusal to provide access to or
+correct personal data; fees required in relation to access or correction requests; or a
+failure to provide access or correction within a reasonable time), the Commission will
+generally conduct a review instead of an investigation. In such circumstances, the
+Commission may proceed on the complainant’s complaint as if it was an application
+for a review or it may require the complainant to submit an application for a review.
+
+16.3
+
+The Commission may commence an investigation into the conduct of an organisation
+if the Commission considers that an investigation is warranted, based on the
+information it has obtained (whether through a complaint or from any other source).
+In deciding whether to commence an investigation, the Commission will generally
+consider whether any of the following factors indicate that an investigation should be
+conducted:
+(a)
+
+whether the organisation may have failed to comply, whether intentionally,
+negligently or for any other reason or cause, with all or a significant part of its
+obligations under the PDPA;
+
+(b)
+
+whether the organisation’s conduct38 indicates a systemic failure by the
+organisation to comply with the PDPA or to establish and maintain the
+necessary policies and procedures to ensure its compliance;
+
+(c)
+
+the number of individuals who are, or may be, affected by the organisation’s
+conduct;
+
+38
+
+In this paragraph, references to the organisation’s conduct generally refer to the conduct that is the subject
+of the information obtained by the Commission.
+
+24
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+16.4
+
+(d)
+
+the impact of the organisation’s conduct on the complainant or any individual
+who may be affected including, for example, whether the complainant or
+affected individual(s) may have suffered a loss, injury or other damage as a
+result of the organisation’s contravention of the PDPA or whether they may
+have been exposed to a significant risk that they may suffer such a loss, injury
+or damage;
+
+(e)
+
+whether the organisation had previously contravened the PDPA or may have
+failed to implement the necessary corrective measures to prevent the
+recurrence of a previous contravention;
+
+(f)
+
+where the complainant had previously approached the organisation to seek a
+resolution of the issues in the complainant but failed to reach a resolution;
+
+(g)
+
+where the Commission has sought to facilitate dispute resolution between the
+complainant and the organisation, whether the complainant and the
+organisation agreed to participate in the dispute resolution process, their
+conduct during the dispute resolution process and the outcome of the dispute
+resolution process;
+
+(h)
+
+where a review has been commenced by the Commission, whether the
+organisation has complied with its obligations under the Enforcement
+Regulations in relation to a review, the organisation’s conduct during the
+review and the outcome of the review;
+
+(i)
+
+the public interest; and
+
+(j)
+
+any other factor that, in the Commission’s view, indicates that an investigation
+should or should not be commenced.
+
+In addition, section 50(3) of the PDPA lists some situations in which the Commission
+may refuse to conduct an investigation. These include (amongst others) situations
+where:
+(a)
+
+the Commission has issued a direction under section 48G(2) of the PDPA to a
+complainant to attempt to resolve the complaint in the way directed by the
+Commission and the complainant has not complied with the direction;
+
+(b)
+
+the parties have mutually agreed to settle the matter;
+
+(c)
+
+the complainant has commenced legal proceedings against the organisation in
+respect of the contravention or alleged contravention of the PDPA by the
+organisation;
+
+(d)
+
+the Commission accepts a voluntary undertaking given by an organisation or a
+person under section 48L(1) of the PDPA in relation to the matter; or
+
+25
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+(e)
+
+the Commission is of the opinion that:
+(i)
+
+the complaint is frivolous or vexatious or is not made in good faith; or
+
+(ii)
+
+any other circumstances warrant refusing to conduct an investigation.
+
+16.5
+
+For the avoidance of doubt, the Commission may commence an investigation
+notwithstanding that the complainant and the organisation have resolved the issues
+in the complaint or that the complaint is withdrawn by the complainant if there are
+other factors that indicate, in the Commission’s view, that an investigation should be
+conducted. These may include (without limitation) the factors noted in paragraph 16.3
+(a) to (j) above.
+
+16.6
+
+Where the Commission has conducted a review under section 48H of the PDPA and
+made a decision or issued a direction under section 48H(2) of the PDPA, the
+Commission will generally not commence an investigation in relation to the
+organisation’s compliance with section 21 or 22 of the PDPA unless there appears to
+the Commission to be a significant non-compliance with section 21 or 22 of the PDPA
+or there are exceptional circumstances which, in the Commission’s view, indicate that
+an investigation should be commenced. For this purpose, a significant non-compliance
+with section 21 or 22 of the PDPA may include the following:
+
+16.7
+
+(a)
+
+systemic failure on the part of the organisation including (without limitation)
+where an organisation does not have any processes in place to comply with
+section 21 or 22 of the PDPA; or
+
+(b)
+
+intentional non-compliance with section 21 or 22 of the PDPA or a decision or
+direction under section 48H(2) of the PDPA, for example, where an
+organisation has sought, through its processes, to deny individuals’ requests
+for reasons that are not permitted under the PDPA.
+
+The Commission may, in certain circumstances, commence an investigation of its own
+motion. This may include (without limitation) situations where the Commission
+receives information concerning the conduct of an organisation. In such situations, the
+Commission may, if it considers it appropriate, proceed with an investigation of its
+own motion based on the information received.
+
+26
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+17.
+
+Making a complaint to the Commission
+
+17.1
+
+A complaint concerning a contravention or possible contravention of the PDPA may
+be made to the Commission by providing the relevant information and, where
+applicable, copies of documents supporting the complaint. A complainant may also
+use the form provided on the Commission’s website to assist him in lodging the
+complaint.
+
+17.2
+
+As a complaint may result in formal action being taken by the Commission against an
+organisation that has infringed the PDPA, complainants should note that they may be
+required to give a formal statement and appear before the Commission in relation to
+the statement or other matters within their knowledge.
+
+18.
+
+Commission’s powers of investigation
+
+18.1
+
+The Commission’s powers of investigation are set out in the Ninth Schedule to the
+PDPA. In brief, these include:
+18.1.1 the power to require production of documents and information39;
+18.1.2 the power to require the attendance of persons, and to orally examine and
+take statements from them40 ;
+18.1.3 the power to enter premises without a warrant;41 and
+18.1.4 the power to enter premises with a warrant.42
+These powers are further described in the following sections of these Guidelines.
+
+18.2
+
+In general, the Commission may use its powers of investigation to obtain from any
+organisation (including organisations that are not the subject of the Commission’s
+investigation) any information that the Commission considers relates to any matter
+relevant to an investigation. The Commission’s powers of investigation may also be
+exercised by an inspector appointed by the Commission.
+
+18.3
+
+All organisations and individuals are required to comply with any notice or other
+requirement imposed by the Commission pursuant to its powers of investigations
+(described further in the following paragraphs). In this regard, any individual who
+obstructs or impedes the Commission in the exercise of its powers, or who knowingly
+or recklessly makes a false statement to the Commission, or who knowingly attempts
+
+39
+
+See paragraphs 1 and 1A(1)(a) of the Ninth Schedule to the PDPA.
+
+40
+
+See paragraphs 1A(1)(b) and (c) of the Ninth Schedule to the PDPA.
+
+41
+
+See paragraph 2 of the Ninth Schedule to the PDPA.
+
+42
+
+See paragraph 3 of the Ninth Schedule to the PDPA.
+
+27
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+to mislead the Commission, shall be guilty of an offence under the PDPA and is liable,
+upon conviction, to a fine not exceeding $10,000 or to imprisonment for a term not
+exceeding 12 months or to both. Organisations that are found to have committed such
+an offence are liable to a fine not exceeding $100,000.43 Further, any individual who,
+without reasonable excuse, neglects or refuses to provide any information or produce
+any document to the Commission or attend before the Commission, shall be guilty of
+an offence under the PDPA and is liable, upon conviction, to a fine not exceeding
+$5,000 or to imprisonment for a term not exceeding 6 months or to both.
+Organisations that are found to have committed such an offence are liable to a fine
+not exceeding $10,000.44
+
+19.
+
+Power to require production of documents and information
+
+19.1
+
+Under paragraph 1 of the Ninth Schedule to the PDPA, the Commission may, by notice
+in writing to any organisation, require the organisation to produce any document or
+information which the Commission considers relates to any matter relevant to an
+investigation.
+
+19.2
+
+The term “document” includes “information recorded in any form”. This definition
+includes records stored in any form, electronic or otherwise, for example, on a
+computer.
+
+19.3
+
+A notice issued by the Commission under paragraph 1 of the Ninth Schedule shall:
+19.3.1 specify the document or information, or the category of documents or
+information,45 which the organisation is required to produce; and
+19.3.2 indicate the purpose for which the specified document or specified
+information is required by the Commission.
+
+19.4
+
+Such a notice may also:
+19.4.1 specify the time and place at which any document or information is to be
+produced or provided to the Commission;
+19.4.2 specify the manner and form in which any document or information is to be
+produced or provided;
+19.4.3 require the organisation, or any past or present officer or employee of the
+organisation, to provide an explanation of the document; and
+
+43
+
+See PDPA, section 51 (3)(b) and (c) and (5).
+
+44
+
+See PDPA, section 51 (3)(ba) and (bb) and (6).
+
+45
+
+See paragraph 1(5) of the Ninth Schedule to the PDPA.
+
+28
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+19.4.4 if the document is not produced, require the organisation or any past or
+present officer or employee of the organisation to state, to the best of his
+knowledge and belief, where it is.
+19.5
+
+Under paragraph 1(4) of the Ninth Schedule, the Commission is empowered to take
+copies of or extracts from any document that is produced pursuant to its notice.
+
+19.6
+
+The Commission may issue a notice under paragraph 1 of the Ninth Schedule to any
+person or entity falling within the definition of the term “organisation” in the PDPA.
+This includes any individual (including, without limitation, sole proprietors and
+partners of a partnership), company, association or body of persons, corporate or
+unincorporated.46 As noted above, this may also include present or past officers or
+employees of an organisation, including volunteers and persons who are or were
+working under an unpaid volunteer relationship) 47.
+
+19.7
+
+The Commission may also issue a written notice to any person to produce any
+information or document believed to be in their custody or control which is relevant
+to an investigation. The information or document must be provided within the time
+and in the manner specified in the notice48.
+
+19.8
+
+All individuals, companies, associations or other bodies of persons to whom such a
+notice is issued are required to comply with the notice.49
+
+19.9
+
+A person or organisation may receive multiple notices requiring the production of
+documents or information during the course of an investigation. For example, an
+organisation may be required to produce further information or documents after
+consideration of the documents produced in response to an earlier notice.
+
+20.
+
+Power to require attendance of persons, and to orally examine and take
+statements
+
+20.1
+
+The Commission may by written notice, require any person within Singapore, who
+appears to be acquainted with the facts or circumstances of a matter pertaining to an
+investigation, to attend before the Commission50.
+
+46
+
+See PDPA, section 2(1).
+
+47
+
+See PDPA, section 2(1).
+
+48
+
+See paragraph 1A(1)(a) of the Ninth Schedule to the PDPA.
+
+49
+
+Please refer to paragraph 18.3 of these Guidelines concerning offences under the PDPA.
+
+50
+
+See Paragraph 1A(1)(b) of the Ninth Schedule to the PDPA.
+
+29
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+20.2
+
+The Commission may also orally examine any person who appears to be acquainted
+with the facts or circumstances of the matter51. A statement made by any person so
+examined will be:
+20.2.1 reduced to writing;
+20.2.2 read over to the person;
+20.2.3 interpreted to him in a language that the person understands (if the person
+does not understand English; and
+20.2.4 after correction (if necessary), be signed by the person52.
+
+21.
+
+Power to enter premises without a warrant
+
+21.1
+
+Under paragraph 2 of the Ninth Schedule to the PDPA, the Commission is empowered
+to enter premises without a warrant in connection with an investigation. Depending
+on the circumstances, entry may be effected with or without giving the occupier of
+the premises prior notice of the intended entry.
+
+21.2
+
+An inspector appointed by the Commission (and any other persons he may require to
+assist him) may, in connection with any investigation, enter any premises after giving
+the occupier of the premises a written notice which:
+21.2.1 gives at least 2 working days’ notice of the intended entry; and
+21.2.2 indicates the subject matter and purpose of the investigation.
+
+21.3
+
+If the inspector has taken all such steps as are reasonably practicable to give such
+written notice but has not been able to do so, he (or any person assisting him) may
+enter the premises if he has reasonable grounds for suspecting that the premises are,
+or have been, occupied by an organisation which is being investigated in relation to a
+contravention of the PDPA. In such cases, the inspector must produce:
+21.3.1 evidence of his appointment; and
+21.3.2 a document containing the subject matter and purpose of the investigation.
+
+21.4
+
+Upon such entry, the inspector (or any person assisting him) may:
+21.4.1 take with him any equipment which appears to him to be necessary;
+21.4.2 in relation to any document which he considers relates to any matter relevant
+to the investigation:
+
+51
+
+See Paragraph 1A(1)(c) of the Ninth Schedule to the PDPA.
+
+52
+
+See Paragraph 1A(3) of the Ninth Schedule to the PDPA.
+
+30
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+22.
+
+(a)
+
+require any person on the premises to produce the document and
+provide an explanation of it (if produced);
+
+(b)
+
+require any person to state, to the best of his knowledge and belief,
+where the document may be found;
+
+(c)
+
+take copies of, or extracts from, any document which is produced;
+
+(d)
+
+take any step which appears to be necessary for the purpose of
+preserving or preventing interference with the document; and
+
+(e)
+
+require any information which is stored in any electronic form and is
+accessible from the premises and which he considers relates to any
+matter relevant to the investigation, to be produced in a visible and
+legible form, which can be taken away.
+
+Power to enter premises with a warrant
+Conditions for issuance of warrant
+
+22.1
+
+Under paragraph 3 of the Ninth Schedule to the PDPA, the Commission is empowered
+to enter and search premises without prior notice, upon production of a warrant.
+
+22.2
+
+Paragraph 3 of the Ninth Schedule to the PDPA identifies three circumstances in which
+a court may issue a warrant to authorise an inspector appointed by the Commission
+(and any other persons assisting him) to enter and search the premises specified in
+the warrant. The court must be satisfied that there are reasonable grounds for
+suspecting that there are, on any premises, documents:
+22.2.1 which have not been produced, although the Commission has required
+production, either by written notice (paragraph 1 of the Ninth Schedule) or in
+the course of an inspection without a warrant (paragraph 2 of the Ninth
+Schedule);
+22.2.2 which would be concealed, removed, tampered with or destroyed if required
+to be produced by written notice (paragraph 1 of the Ninth Schedule); or
+22.2.3 which an inspector (or any person assisting him) could have required to be
+produced in the course of an inspection without a warrant (paragraph 2 of the
+Ninth Schedule), but was unable to effect entry into the premises.
+Scope of the power
+
+22.3
+
+The warrant will authorise an inspector (and any other persons he may require to
+assist him) to do all or any of the following:
+
+31
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+22.3.1 enter the premises using such force as is reasonably necessary;
+22.3.2 search any person on those premises if there are reasonable grounds for
+believing that that person has in his possession any document, equipment or
+article which has a bearing on the investigation;
+22.3.3 search the premises and take copies of, or extracts from, any document
+appearing to be of the kind in respect of which the warrant was granted (as
+described in paragraph 22.2 above);
+22.3.4 take possession of any document appearing to be of the kind in respect of
+which the warrant was granted if such action appears to be necessary for
+preserving the document or preventing interference with it, or if it is not
+reasonably practicable to take copies of the document on the premises. Upon
+request for a copy of the document by the person from whom possession of
+such document was taken, the inspector may provide such copy. Documents
+taken may be retained for a period of not more than 3 months;
+22.3.5 take any other steps which appear necessary in order to preserve the
+documents or prevent interference with them including requiring equipment
+and storage facilities to be sealed if necessary;
+22.3.6 require any person to provide an explanation of any document appearing to
+be of the kind in respect of which the warrant was granted or to state to the
+best of his knowledge and belief where such document may be found;
+22.3.7 require any information, which is stored in any electronic form and is
+accessible from the premises, and which the investigator considers relates to
+any matter relevant to the investigation, to be produced in a visible and legible
+form which can be taken away; and
+22.3.8 remove from the premises for examination any equipment or article which
+relates to any matter relevant to the investigation. Where appropriate, the
+inspector may, instead of removing from the premises such equipment or
+articles, allow them to be retained on the premises subject to conditions.
+22.4
+
+In addition, where a warrant is granted to enter premises pursuant to a reasonable
+suspicion that, if prior written notice under paragraph 1 of the Ninth Schedule were
+given, documents would be concealed, removed, tampered with or destroyed (i.e. in
+the circumstances described in paragraph 21.2.2 above), then, if the court is satisfied
+that it is reasonable to suspect that there are also other documents on the premises
+which relate to the investigation, the warrant will authorise the actions mentioned in
+paragraph 21.3 above to be taken in relation to such other documents.
+
+22.5
+
+The inspector entering the premises (and any other persons he may require to assist
+him) may take with him any equipment, which appears to him to be necessary.
+
+32
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+23.
+
+Suspension or conclusion of an investigation
+
+23.1
+
+Section 50(3) of the PDPA lists various situations in which the Commission may
+suspend or discontinue an investigation. These include the situations described in
+[paragraphs 16.4(a) – (e) above.
+
+23.2
+
+Where the Commission proceeds with an investigation, the Commission will consider
+the information and evidence it has obtained and determine if an organisation has
+contravened the PDPA. The Commission’s powers where it finds an organisation has
+contravened the PDPA are set out in the next Part of these Guidelines.
+
+24.
+
+Public communications
+
+24.1
+
+Organisations that intend to issue any media releases or public disclosure of matters
+related to the alleged breach are advised to consider whether the content would
+hinder the ongoing investigations and to also provide the Commission with a copy of
+the materials before their release.
+
+33
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART V: VOLUNTARY UNDERTAKINGS
+25.
+
+Power to accept voluntary undertakings
+
+25.1
+
+Where the Commission has reasonable grounds to believe that:
+25.1.1 an organisation has not complied, is not complying or is likely not to comply
+with any of the provision of Part 3, 4, 5, 6, 6A (“Data Protection Provisions”);
+or
+25.1.2 a person has not complied, is not complying or is likely not to comply with the
+any provision of Part 9 or section 48B(1) (“DNC Provisions”);
+instead of carrying out an investigation or issuing directions (but without prejudice to
+the Commission’s ability to do so), the Commission may accept a written voluntary
+undertaking from the organisation or person concerned53.
+
+25.2
+
+Depending on the circumstances, the voluntary undertaking may include (without
+limitation):
+25.2.1 an undertaking to take specified action within a specified time (for example,
+for the organisation to improve its cyber-defences and/or carry out
+penetration testing on its electronic databases);
+25.2.2 an undertaking to refrain from taking any action (for example, for the
+organisation to stop using personal data collected without consent); and/or
+25.2.3 an undertaking to publicise the voluntary undertaking.
+
+25.3
+
+The voluntary undertaking process is intended to allow organisations with good
+accountability practices and an effective remediation plan to be given a window of
+opportunity to implement their remediation plans.
+
+25.4
+
+The provision of a voluntary undertaking by a person or organisation is subject to the
+Commission’s acceptance. For example, the Commission may not accept a voluntary
+undertaking in circumstances including but not limited to where the person or
+organisation’s non-compliance with the PDPA is wilful or egregious.
+
+25.5
+
+Where an organisation or person fails to comply with any undertaking in a voluntary
+undertaking, the Commission may give the organisation or person any direction54 that
+
+53
+
+See Section 48L(1) the PDPA.
+
+54
+
+Section 48K(1), (3), (4), (5), (6), and (7) of the PDPA applies to such direction as if the direction were given
+under section 48I.
+
+34
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+the Commission thinks fit in the circumstances to ensure the compliance of the
+organisation or person with that undertaking.55
+25.6
+
+Further, where the organisation or person fails to comply with its undertaking to
+publicise the voluntary undertaking (described in paragraph 25.2.3 above), the
+Commission may publicise the voluntary undertaking in accordance with the
+undertaking, and recover the costs and expenses incurred as a debt due to the
+Commission. In any case, the Commission may publish the voluntary undertaking or a
+summary thereof on its website or in any other manner that the Commission considers
+appropriate.
+
+55
+
+Further, where the organisation or person fails to comply with its undertaking to publicise the voluntary
+undertaking, the Commission may publicise the voluntary undertaking in accordance with the undertaking, and
+recover the costs and expenses incurred as a debt due to the Commission.
+
+35
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART VI: DIRECTIONS TO SECURE COMPLIANCE
+26.
+
+Power to issue directions to secure compliance
+
+26.1
+
+The Commission’s power to issue directions to secure an organisation’s compliance
+with the PDPA is set out in section 48I of the PDPA. In particular:
+26.1.1 Section 48(1) of the PDPA provides that the Commission may, if it is satisfied
+that an organisation is not complying with any of the Data Protection
+Provisions or any person has not complied or is not complying with any of the
+DNC Provisions, give the organisation or person (as the case may be) such
+directions as the Commission thinks fit in the circumstances to ensure the
+organisation’s compliance with that provision.
+26.1.2 Section 48I(2) of the PDPA further provides that the Commission may (without
+prejudice to section 48I(1) of the PDPA) give an organisation that is not
+complying with any Data Protection Provisions, any or all of the following
+directions:
+
+26.2
+
+(a)
+
+to stop collecting, using or disclosing personal data in contravention of
+the PDPA;
+
+(b)
+
+to destroy personal data collected in contravention of the PDPA; or
+
+(c)
+
+to comply with any direction of the Commission under section 48H(2)
+of the PDPA.
+
+In general, the directions that the Commission may give under section 48I of the PDPA
+are likely to fall within the following types:
+26.2.1 directions to remedy the organisation’s contravention, that is, by requiring the
+organisation to take corrective action, for example, by requiring the infringing
+organisation to cease its use of personal data collected in contravention of the
+PDPA;
+26.2.2 directions to prevent or reduce the possibility of harm (or further harm) to
+individuals who are (or may be) affected by the organisation’s contravention;
+and
+directions to rectify an organisation’s processes, for example, by requiring the
+infringing organisation to take certain measures so that it will be brought into
+compliance with the PDPA.
+
+26.3
+
+In the event an organisation does not comply with a direction under section 48I of the
+PDPA, the Commission is empowered under section 48M of the PDPA to enforce the
+direction by registering it in the District Court. Please refer to section 29 of these
+Guidelines for more information on the enforcement of the Commission’s directions.
+36
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+27.
+
+Written Notice to pay financial penalties
+
+27.1
+
+Under Section 48J of the PDPA, the Commission may require an organisation to pay a
+financial penalty of up to S$1 million for any intentional or negligent contravention of
+the Data Protection Provisions.
+
+27.2
+
+For any intentional or negligent contravention of the DNC Provisions, the Commission
+may require payment of a financial penalty of up to S$200,000 in the case of an
+individual and up to S$1 million in the case of an organisation.
+
+27.3
+
+On a further date to be notified, and no earlier than 1 February 2022:
+27.3.1 The maximum financial penalty prescribed by the PDPA for breach of any of
+the Data Protection Provisions56 will be amended to be either S$1 million or
+10% of the organisation’s annual turnover in Singapore57, whichever is higher.
+27.3.2 The maximum financial penalty prescribed by the PDPA for an organisation’s
+breach of the prohibitions on the use of dictionary attacks and addressharvesting software (i.e. under the new section 48B(1) of the PDPA), will be
+amended to be either S$1 million or 5% of the organisation’s annual turnover
+in Singapore58, whichever is higher.
+
+27.4
+
+The higher financial penalties will be reserved for egregious cases, and the proposed
+changes will provide the Commission with more flexibility in meting out financial
+penalties based on the circumstances and seriousness of the breach.
+
+27.5
+
+In determining the amount of financial penalty to be imposed, the Commission will
+take into account the factors set out at section 48(6) of the PDPA (listed at Table 1
+below). This non-exhaustive list provides greater transparency on how the
+Commission quantifies the financial penalties to be imposed in enforcement cases.
+
+27.6
+
+Some of the past Commission Decisions59 in which the below factors were taken into
+account have been tabulated below.
+
+56
+
+For contravention of any provision in Part 3, 4, 5, 6, 6A or 6B.
+
+57
+
+Where the organisation’s annual turnover in Singapore exceeds $10 million.
+
+58
+
+Where the organisation’s annual turnover in Singapore exceeds $20 million.
+
+59
+
+Commission’s Decisions can be found at https://www.pdpc.gov.sg/Commissions-Decisions.
+
+37
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+Table 1: Factors and examples of past enforcement cases
+S/N
+a)
+
+Factors
+The nature, gravity and
+duration of the noncompliance by the
+organisation or person,
+as the case may be
+
+Past enforcement cases
+Institute of Singapore Chartered Accountants
+[2018] SGPDPC 28 – The fact that the unauthorised
+disclosure was limited to a single unintended
+recipient for a short period of 10 minutes was taken
+as a mitigating factor in the financial penalty
+calibration (see paragraph 22 of the Grounds of
+Decision).
+Ninja Logistics Pte Ltd [2019] SGPDPC 39 – The fact
+that the organisation was cognisant of the risks of
+unauthorised access and disclosure to the exposed
+personal data through the tracking function page,
+but failed to resolve the issue for more than 2 years,
+was taken as an aggravating factor (see paragraph
+18 of the Grounds of Decision).
+SPH Magazines Pte Ltd [2020] SGPDPC 3 – The facts
+that the compromised password had not been
+changed for a long period of 10 years and the
+organisation was unable to detect the unauthorised
+access of personal data for about 2 years, were
+taken as aggravating factors (see paragraph 13 of
+the Grounds of Decision).
+
+b)
+
+The type and nature of
+the
+personal
+data
+affected by the noncompliance by the
+organisation or person,
+as the case may be
+
+Aviva Ltd [2018] SGPDPC 4 – The disclosure of
+sensitive personal data, in particular medical
+condition and sum assured, was treated as an
+aggravating factor (see paragraph 30 of the
+Grounds of Decision).
+Singapore Health Services Pte. Ltd. and Integrated
+Health Information Systems Pte. Ltd. [2019]
+SGPDPC 3 – The financial penalty imposed on each
+of the two organisations took into account the high
+number of individuals affected and high sensitivity
+of the personal data exfiltrated (see paragraph 139
+of the Grounds of Decision).
+Option Gift Pte Ltd [2019] SGPDPC 10 – The
+organisation was found in breach for the
+unintended disclosure of up to 426 individuals’
+personal data due to a coding error in its system.
+The disclosed personal data comprised login
+identifications, email addresses, delivery addresses
+and mobile numbers. The Commission considered,
+
+38
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+S/N
+
+Factors
+
+Past enforcement cases
+among other things, the number and type of
+personal data compromised, and imposed a lower
+financial penalty (see paragraph 9 of the Grounds of
+Decision).
+
+c)
+
+Whether
+the
+organisation or person
+(as the case may be), as
+a result of the noncompliance, gained any
+financial benefit or
+avoided any financial
+loss
+
+Sharon Assya Qadriyah Tang [2018] SGPDPC 1 –
+The profiteering from the sale of personal data was
+taken to be an aggravating factor in calibrating the
+financial penalty (see paragraph 32 of the Grounds
+of Decision).
+
+Whether
+the
+organisation or person
+(as the case may be)
+took any action to
+mitigate the effects and
+consequences of the
+non-compliance, and
+the timeliness and
+effectiveness of that
+action
+
+Zero1 Pte. Ltd. and XDEL Singapore Pte. Ltd. [2019]
+SGPDPC 37 – Quick remedial action by XDEL
+Singapore Pte. Ltd. to rectify the code checking
+function on the notification webpage system was
+treated as a mitigating factor in calibrating the
+financial penalty (see paragraph 26 of the Grounds
+of Decision).
+
+Whether
+the
+organisation or person
+(as the case may be)
+had, despite the noncompliance,
+implemented adequate
+and
+appropriate
+measures
+for
+compliance with the
+requirements under this
+Act
+
+Propnex Realty Pte Ltd [2017] SGPDPC 1 – The facts
+that the organisation had in place a data protection
+policy which was made known to its agents and
+staff, and that its in-house compliance team (with
+assistance from external consultants) had been
+conducting annual internal audits to assess system
+access risk, data integrity risk and risk of
+configuration issues in the production environment
+were considered in calibrating the financial penalty
+(see paragraph 32 of the Grounds of Decision).
+
+d)
+
+e)
+
+Amicus Solutions Pte. Ltd. and Ivan Chua Lye Kiat
+[2019] SGPDPC 33 – Profiteering from the sale of
+personal data was treated as aggravating in
+calibrating the financial penalty (see paragraphs 52
+and 53 of the Grounds of Decision).
+
+Singapore Telecommunications Limited [2019]
+SGPDPC 49 – Prompt action taken to mitigate the
+impact of the breach by implementing a temporary
+fix within 11 hours, was taken as a mitigating factor
+(see paragraph 14 of the Grounds of Decision).
+
+ComGateway (S) Pte. Ltd. [2017] SGPDPC 19 – The
+fact that the organisation had been conducting
+regular penetration tests, vulnerability tests and
+code reviews to guard against online security
+threats was considered in calibrating the financial
+
+39
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+S/N
+
+Factors
+
+Past enforcement cases
+penalty (see paragraph 37 of the Grounds of
+Decision).
+
+f)
+
+Whether
+the
+organisation or person
+(as the case may be) had
+previously failed to
+comply with this Act
+
+Aviva Ltd and Toh-Shi Printing Singapore Pte Ltd
+[2016] SGPDPC 15 – Financial penalty against TohShi Printing Singapore Pte Ltd took into account the
+fact that this was the second time within about a
+year that a breach of the same case fact pattern had
+occurred (see paragraph 38 of the Grounds of
+Decision).
+
+g)
+
+h)
+
+The compliance of the
+organisation or person
+(as the case may be)
+with any direction given
+under section 48I or
+48L(4) in relation to
+remedying or mitigating
+the effect of the noncompliance
+Whether the financial
+penalty to be imposed is
+proportionate
+and
+effective, having regard
+to achieving compliance
+and deterring noncompliance with this Act
+
+Aviva Ltd [2018] SGPDPC 4 – The fact that the
+organisation had encountered a similar incident
+previously was treated as an aggravating factor (see
+paragraph 30 of the Grounds of Decision).
+This factor has not arisen in past cases. The
+Commission may consider the fact that an
+organisation did not comply with a previous
+direction for the incident as an aggravating factor in
+the financial penalty calibration for the incident.
+
+Singapore Health Services Pte. Ltd. and Integrated
+Health Information Systems Pte. Ltd. [2019]
+SGPDPC 3 – The Commission decided to impose the
+highest and second highest financial penalties
+against Integrated Health Information Systems Pte.
+Ltd. and Singapore Health Services Pte. Ltd.
+respectively in recognition of the severity and
+extent of the data breach and the serious lapses
+(see paragraph 138 of the Grounds of Decision).
+Amicus Solutions Pte. Ltd. and Ivan Chua Lye Kiat
+[2019] SGPDPC 33 – In calibrating the financial
+penalty, the Commission took a hard stance against
+the unauthorised sale of personal data. In its
+decision, the Commission emphasised that profiting
+from sale of personal data by organisations without
+consent of individuals was the kind of activity which
+the PDPA sought to curb and would be dealt with
+severely. The Commission further warned that any
+profits from the unauthorised sale of personal data
+may be taken into account in calculating the
+
+40
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+S/N
+
+Factors
+
+Past enforcement cases
+financial penalty to be imposed (see paragraphs 54
+and 55 of the Grounds of Decision).
+
+i)
+
+The likely impact of the
+imposition
+of
+the
+financial penalty on the
+organisation or person
+(as the case may be),
+including the ability of
+the organisation or
+person to continue the
+usual activities of the
+organisation or person
+
+O2 Advertising Pte. Ltd. [2019] SGPDPC 32 – The
+Commission reduced the financial penalty amount
+after considering the organisation’s representation
+of its dire financial circumstances (i.e. massive loss
+due to fraud involving S$3.2mil, elderly 72-year-old
+sole owner who intended to continue the business
+on a significantly reduced scale) (see paragraphs 12
+and 13 of the Grounds of Decision).
+
+j)
+
+Advance Home Tutors [2019] SGPDPC 35 – The
+Commission reduced the financial penalty amount
+to avoid imposing a crushing burden on the
+organisation, following its representation that it
+was a small home business which did not generate
+much revenue (see paragraphs 27 and 30 of the
+Grounds of Decision).
+
+Any other matter that Aviva Ltd [2018] SGPDPC 4 – The fact that the
+may be relevant
+organisation was in the business of handling large
+volumes of personal data, the disclosure of which
+may cause exceptional damage, injury or hardship
+to affected individuals was taken as aggravating
+(see paragraph 30 of the Grounds of Decision).
+DS Human Resource Pte. Ltd. [2019] SGPDPC 16 –
+Despite the organisation’s representation of its
+efforts to automate its business processes in
+response to the Government’s push for small and
+medium enterprises (SMEs) to go digital, the
+Commission decided to maintain the financial
+penalty. This was to convey the message that good
+data management and protection practices need to
+be adopted from the onset of the digitalisation
+process even for SMEs, and these can be
+proportionate without being too costly (see
+paragraph 14 of the Grounds of Decision).
+Creative Technology Ltd [2020] SGPDPC 1 – The
+Commission considered as a mitigating factor the
+organisation’s effort of going through its email logs
+to determine the number of affected user emails
+which contained either names or partial names,
+
+41
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+S/N
+
+Factors
+
+Past enforcement cases
+even though it had deleted the database (see
+paragraph 13 of the Grounds of Decision).
+
+42
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART VII: COMMON ISSUES RELATING TO THE COMMISSION’S DECISIONS AND
+DIRECTIONS
+28.
+
+Commission’s power to publish decisions and directions and voluntary
+undertakings
+
+28.1
+
+Regulations 17, 18 and 19 of the Enforcement Regulations provide that the
+Commission may, where it has made a decision or issued a direction or written notice
+under section 48H(2) or 48I(1) or (2) or 48J(1) or 48N(6)(b) of the PDPA, publish:
+28.1.1 the decision or direction or written notice (collectively, the “Decision”); or
+28.1.2 a summary of the Decision (a “Summary”).
+
+28.2
+
+The Commission’s Decisions will typically set out the following:
+28.2.1 the Commission’s findings and the relevant evidence obtained by the
+Commission on which the findings are based;
+28.2.2 the reasons for the Commission’s decision, based on the application of the
+relevant legal principles to the facts of the case; and
+28.2.3 where the Commission finds an organisation in contravention of the PDPA, the
+direction or other action taken by the Commission.
+
+28.3
+
+Prior to publication of a Decision or a Summary, the Commission will give notice of the
+Decision to the respondent and complainant (if any).
+
+28.4
+
+In considering whether to publish a Decision or a Summary (at the appropriate time
+as described in the previous paragraph), the Commission will adopt the following
+approach:
+28.4.1 The Commission will generally publish a Decision relating to an organisation
+that is found to have contravened the PDPA. Amongst other reasons, this is for
+reasons of transparency, and so that other organisations may take note of the
+manner in which the Commission has applied the PDPA in specific cases and
+take preventive measures to avoid similar occurrences.
+28.4.2 The Commission will generally not publish a Decision under section 48H(2) of
+the PDPA as such Decisions do not always amount to a finding that an
+organisation has contravened the Data Protection Provisions.
+28.4.3 Nevertheless, the Commission may publish a Decision or a Summary thereof if
+it includes matters which, in the Commission’s view, would be of general
+interest to the public or which would provide guidance to individuals and
+
+43
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+organisations in relation to their respective rights and obligations under the
+PDPA.
+28.4.4 Depending on the particular situation, the Commission may publish the name
+of the organisation involved in the Decision or Summary, after removing
+confidential information from the report.
+28.5
+
+Where a Decision contains personal data or information that is treated as confidential
+under the PDPA,60 the Commission will either redact such data and information from
+the published Decision or publish a Summary that excludes such data and information.
+
+28.6
+
+A Decision or Summary may be published on the Commission’s website or in such
+other manner as the Commission may direct.
+
+28.7
+
+For the avoidance of doubt, non-publication of a Decision or Summary by the
+Commission does not affect the legal validity or effect of a Decision.
+
+28.8
+
+Similarly, where the Commission accepts a voluntary undertaking given by an
+organisation or a person, the Commission may publish the voluntary undertaking or a
+summary thereof on the Commission’s website or in such other manner as the
+Commission may decide.
+
+29.
+
+Enforcement of the Commission’s directions
+
+29.1
+
+Section 48M of the PDPA provides that the Commission may register a direction or
+written notice under section 48H(2), 48I, 48L(4), 48J(1) or 48K(10) of the PDPA in the
+District Court. A registered direction or written notice has the same force and effect
+for the purposes of enforcement as if it is an order obtained in the District Court. Legal
+proceedings may thus be taken on the registered direction to enforce the direction.
+
+60
+
+See PDPA, section 59.
+
+44
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART VIII: RECONSIDERATION
+30.
+
+Reconsideration of a decision or direction or financial penalty
+
+30.1
+
+Section 48N(1) of the PDPA provides that an organisation or person61 aggrieved by a
+decision, direction or financial penalty (as the case may be) of the Commission under
+section 48G(2), 48H(2), 48I(1) or (2), 48L(4) or 48J(1) of the PDPA may apply to the
+Commission for the Commission to reconsider the decision, direction or financial
+penalty. An application for reconsideration shall be made within 28 days from the
+issuance of the decision or direction.
+
+30.2
+
+Section 48N(3) of the PDPA further provides that unless the Commission decides
+otherwise, the making of an application for reconsideration does not suspend the
+effect of the decision or direction to be reconsidered (the “contested decision”),
+except in respect of a financial penalty.
+
+30.3
+
+Section 48N(4) of the PDPA provides that an application for reconsideration must set
+out the grounds on which the applicant is requesting the reconsideration. Part 3 of
+the Enforcement Regulations sets out further details on the manner of making an
+application for reconsideration. The Enforcement Regulations elaborates on this by
+providing that an application for reconsideration must include the following:
+30.3.1 the applicant’s grounds for making the application, identifying, in particular:
+(a)
+
+the extent (if any) to which the applicant contends that the contested
+decision was based on an error of fact or was wrong in law; and
+
+(b)
+
+the extent (if any) to which the applicant is requesting that the
+Commission reconsider its exercise of discretion in making the
+contested decision;
+
+30.3.2 a presentation of the arguments of fact or law supporting each ground of the
+application;
+30.3.3 the decisions under section 48N(6)(b) of the PDPA (if any) sought by the
+applicant and the reasons for seeking those decisions;62and
+30.3.4 copies of documents specified therein.63
+61
+
+This includes an individual who is a complainant in relation to a decision or direction made under section
+48G(2), 48H(2), 48I(1) or (2) or 48L(4) of the PDPA.
+62
+
+For example, where the applicant is an organisation, the applicant may wish to ask that the Commission amend
+its direction in a particular manner. Where the applicant is an individual, the applicant may be asking for a
+particular outcome, such as a direction under section 48H(2) of the PDPA for an organisation to provide access
+to his personal data.
+63
+
+See Enforcement Regulations, regulation 11.
+
+45
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+30.4
+
+An application for reconsideration must be accompanied by a copy of the contested
+decision and the fee as prescribed in the Enforcement Regulations.64 Where the
+application for reconsideration relates to a decision or direction under section 48H(2)
+of the PDPA, the prescribed fee is $25. For all other applications for reconsideration,
+the prescribed fee is $250.
+
+30.5
+
+Any applicant who wishes to request that the contested decision be stayed pending
+the Commission’s decision upon reconsideration may make his request in his
+application for reconsideration or at any stage of the reconsideration process by
+making a written request to the Commission.
+
+30.6
+
+Organisations and individuals that are aggrieved by a decision or direction of the
+Commission may, instead of making an application for reconsideration, appeal against
+the decision or direction to the Data Protection Appeal Panel.
+
+31.
+
+Reconsideration procedure
+
+31.1
+
+The procedures that the Commission will adopt in a reconsideration under section
+48N(1) of the PDPA are mainly set out in Part 3 of the Enforcement Regulations.
+
+31.2
+
+Where the Commission receives a reconsideration application that has been
+submitted in accordance with section 48N of the PDPA and regulation 11 of the
+Enforcement Regulations, the Commission will serve on the respondent a copy of the
+reconsideration application and any accompanying documents or information that
+have been provided by the applicant.
+
+31.3
+
+The Commission will also serve on the respondent a notice requiring that a written
+response setting out any explanation or reply that the respondent may wish to offer
+on the matters or issues raised in the application, be submitted within a period
+specified by the Commission.
+
+31.4
+
+In general, the Commission will give the respondent a reasonable time frame, taking
+into account the issues raised in the application for reconsideration, to submit the
+response. Typically, the time frame would be within 14 days for submission of the
+response. The respondent may apply to the Commission in writing for an extension of
+the time frame for submission of the response, subject to the Commission’s approval
+of such request for extension of time.
+
+31.5
+
+If the respondent fails to submit a response within the time frame specified by the
+Commission (including any extension thereof granted by the Commission upon the
+application of the other party), the Commission shall proceed to make its decision
+based on the information and documents obtained by the Commission. Section 32 of
+these Guidelines describes the decisions and directions that the Commission may
+make upon reconsidering a decision or direction.
+
+64
+
+See Enforcement Regulations, The Schedule.
+
+46
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+31.6
+
+Where the respondent submits a response, the Commission may, where it considers
+it appropriate:
+31.6.1 serve a copy of the response and any accompanying statutory declaration or
+document or information on the applicant;65 and
+31.6.2 invite the applicant to submit to the Commission, within a period specified by
+the Commission, a written reply to the other party’s response as the applicant
+may wish to give.
+
+31.7
+
+In general, where the Commission invites the applicant to submit a reply, the
+Commission will give the applicant a fair and reasonable time frame to do so, taking
+into account the issues raised in the respondent’s response. Typically, the time frame
+would be within 14 days for submission of the reply. The applicant may apply to the
+Commission in writing for an extension of the time frame for submission of the reply,
+subject to the Commission’s approval of such request for extension of time.
+
+31.8
+
+Upon the expiry of the time frame specified by the Commission for the submission of
+the reply (including any extension thereof granted by the Commission upon the
+application of the other party), the Commission shall proceed to make its decision
+based on the information and documents obtained by the Commission. Paragraph 27
+describes the decisions and directions that the Commission may make upon
+reconsidering a decision or direction.
+
+31.9
+
+After making its decision, the Commission shall give notice of the decision to the
+applicant and the other party. The Commission may also publish the decision or a
+summary of the decision as described in Part VII of these Guidelines.
+
+31.10 The applicant may withdraw an application for reconsideration with the permission of
+the Commission at any time before the Commission has given a notice of its decision
+under section 48N(6)(b) of the PDPA. Where an applicant wishes to withdraw its
+application, it shall apply to the Commission in writing and provide the reasons for its
+decision to withdraw the application. The Commission will generally permit the
+applicant to withdraw his application unless the Commission considers that there is
+sufficient reason, based on the information and documents provided to the
+Commission prior to the applicant’s request to withdraw his application, for the
+Commission to reconsider the contested decision. Where the Commission permits an
+applicant to withdraw his application, the Commission shall not proceed any further
+in reconsidering the contested decision.
+
+65
+
+See paragraph 11.2.2 of these Guidelines concerning statutory declarations.
+
+47
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+32.
+
+Commission’s decisions and directions upon reconsideration
+
+32.1
+
+Section 48N(6)(b) of the PDPA provides that the Commission may, after reconsidering
+the contested decision, affirm, revoke or vary the contested decision as the
+Commission thinks fit.
+
+32.2
+
+There shall be no further application for reconsideration of a decision made under
+section 48N of the PDPA. However, an organisation or individual who is aggrieved by
+such a decision may appeal to the Data Protection Appeal Panel under section 48Q of
+the PDPA.
+
+48
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PART IX: APPEALS AND RIGHTS OF PRIVATE ACTION
+33.
+
+Appeal against decision or direction
+
+33.1
+
+Section 48Q of the PDPA provides that an organisation or person66 aggrieved by a
+decision or direction (as the case may be) of the Commission under section 48G(2),
+48H(2), 48I(1) or (2), 48J(1), 48L(4) or 48N(6)(b) of the PDPA may appeal to the
+Chairman of the Data Protection Appeal Panel against that decision or direction. An
+appeal shall be made within 28 days of the issuance of the decision or direction that
+is the subject of the appeal (the “appealed decision”).
+
+33.2
+
+Section 48Q(3) of the PDPA provides that where an application for reconsideration
+has been made under section 48N of the PDPA, every appeal in respect of the same
+decision or direction shall be deemed to be withdrawn. In such a situation, an
+appellant whose appeal is deemed to be withdrawn may make an application for
+reconsideration to the Commission, and the Commission shall consider such
+applications concurrently with other applications for reconsideration in respect of the
+same matter. Alternatively, the appellant may await the outcome of the Commission’s
+reconsideration of its decision or direction and consider whether to make an appeal
+against the Commission’s decision upon reconsideration (under section 48N(6)(b) of
+the PDPA).
+
+33.3
+
+Section 48Q(4) of the PDPA further provides that unless the Data Protection Appeal
+Committee hearing an appeal decides otherwise, the making of an appeal does not
+suspend the effect of the appealed decision, except in the case of a direction to pay a
+financial penalty.
+
+34.
+
+Data Protection Appeal Committee’s decisions and directions
+
+34.1
+
+Section 48Q(5) of the PDPA provides that the Data Protection Appeal Committee
+hearing an appeal may, after hearing the appeal:
+34.1.1 remit the matter to the Commission;
+34.1.2 impose or revoke, or vary the amount of, a financial penalty;
+34.1.3 give such other direction or take such other step as the Commission could itself
+have given or taken; or
+34.1.4 make any other direction or decision that the Commission could itself have
+made.
+
+66
+
+This includes an individual who is a complainant in relation to a decision or direction made under section
+48G(2), 48H(2), 48I(1) or (2) or 48L(4) of the PDPA.
+
+49
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+34.2
+
+Any direction or decision of a Data Protection Appeal Committee under section 48Q(5)
+of the PDPA has the same effect, and may be enforced in the same manner, as a
+direction or decision of the Commission, except that there shall be no application for
+further reconsideration under section 48N of the PDPA and no further appeal under
+section 48Q of the PDPA from any direction or decision of the Data Protection Appeal
+Committee. Please refer to the next section concerning appeals to the High Court and
+Court of Appeal.
+
+35.
+
+Appeals to High Court and Court of Appeal
+
+35.1
+
+Section 48R(1) of the PDPA provides that an appeal against, or with respect to, a
+decision or direction of a Data Protection Appeal Committee may be made to the
+General Division of the High Court:
+35.1.1 on a point of law; or
+35.1.2 as to the amount of a financial penalty.
+
+35.2
+
+An appeal under section 48R(1) of the PDPA may be made by67:
+35.2.1 an organisation or person aggrieved by the decision or direction of the Data
+Protection Appeal Committee;
+35.2.2 where the decision relates to a complaint, the complainant; or
+35.2.3 the Commission.
+
+35.3
+
+Under section 48R (3) of the PDPA, the High Court shall hear and determine any such
+appeal and may:
+35.3.1 confirm, modify or reverse the decision or direction of the Data Protection
+Appeal Committee; and
+35.3.2 make such further or other order, including (without limitation) orders as to
+costs, as the Court may think fit.
+
+35.4
+
+A decision of the High Court under section 48R(3) of the PDPA may be appealed to the
+Court of Appeal in accordance with the Rules of Court.
+
+36.
+
+Rights of private action
+
+36.1
+
+Section 48O(1) of the PDPA provides that any person who suffers loss or damage
+directly as a result of a contravention by an organisation of any provisions in Part 4, 5,
+6, 6A or 6B or by a person of any provision of Division 3 of Part 9 or 9A may commence
+civil proceedings in the courts against the organisation. Under section 48O(3) of the
+
+67
+
+See PDPA, section 48R(2).
+
+50
+
+ADVISORY GUIDELINES ON ENFORCEMENT OF THE DATA PROTECTION PROVISIONS (Revised 1 February 2021)
+
+PDPA, a court hearing an action under section 49O(1) of the PDPA may grant any or
+all of the following:
+36.1.1 an injunction or a declaration;
+36.1.2 damages;
+36.1.3 such other relief as the court thinks fit.
+36.2
+
+Where the Commission has made a decision under the PDPA in respect of a
+contravention, no action may be brought under section 48O(1) of the PDPA in respect
+of that contravention until the decision has become final as a result of there being no
+further right of appeal.68
+
+36.3
+
+As the Commission is not empowered to award damages or other relief noted above
+to a complainant, persons who suffer loss or damage as a result of a contravention of
+the PDPA may commence civil proceedings directly. In general, such persons may wish
+to obtain legal advice in relation to their claim and possible civil proceedings.
+
+36.4
+
+Under the Rules of Court, where a party (referred to as the plaintiff) commences civil
+proceedings for relief under section 48O(1) of the PDPA, he is required to serve a copy
+of the writ or originating summons to the Commission not later than 7 days after
+service of the writ or originating summons on the defendant.69 In addition, any person
+who is granted a judgment or order by a court pursuant to section 48O of the PDPA is
+required to transmit a copy of the judgment or order to the Commission within 3 days
+after the date of the judgment or order.70
+
+END OF DOCUMENT
+
+68
+
+See PDPA, section 48O(2).
+
+69
+
+See Rules of Court, Order 105, Rule 12.
+
+70
+
+See Rules of Court, Order 105, Rule 13.
+
+51
+
+

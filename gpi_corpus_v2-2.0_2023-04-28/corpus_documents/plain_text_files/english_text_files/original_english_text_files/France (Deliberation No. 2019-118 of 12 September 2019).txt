@@ -1,0 +1,92 @@
+Deliberation no. 2019-118 of 12 September 2019 for adoption of
+the list of the kind of processing operations for which a data
+protection impact assessment is not required
+The Commission nationale de l’Informatique et des Libertés (French Data Protection
+Authority),
+Having regard to Convention no. 108 of the Council of Europe for the protection of
+individuals with regard to automatic processing of personal data;
+Having regard to Regulation (EU) 2016/679 of the European Parliament and of the
+Council of 27 April 2016 on the protection of natural persons with regard to the
+processing of personal data and on the free movement of such data, and repealing
+Directive 95/46/EC, particularly its article 35;
+Having regard to Act no. 78-17 of 6 January 1978, amended, on information
+technology, data files and civil liberties;
+Having regard to Decree no. 2019-536 of 29 May 2019, amended, implementing Act
+no. 78-17 of 6 January 1978 on information technology, data files and civil liberties;
+Having regard to Guidelines on Data Protection Impact Assessment (DPIA) and
+determining whether processing is “likely to result in a high risk” for the purposes of
+Regulation (EU) 2016/679 adopted on 4 April 2017;
+Having regard to opinion 19/2019 of the European Data Protection Board (EDPB) on
+the draft list of the French supervisory authority regarding the kind of processing
+operations for which an impact assessment regarding data protection is not required
+(article 35.5 of the GDPR), adopted on 10 July 2019;
+Having heard the report of Ms Anne Debet, commissioner, and the observations of
+Ms Nacima Belkacem, government commissioner
+Makes the following observations:
+Article 35.1 of the General Regulation on Data Protection (GDPR) lays down that a
+data protection impact assessment (DPIA) must be conducted when a processing “is
+likely to result in a high risk to the rights and freedoms of natural persons”.
+Article 35.5 of the GDPR allows supervisory authorities to establish and publish the
+list of the kind of processing operations for which data protection impact assessment
+is not required.
+Article 35.6 of the GDPR lays down that, when this list involves “processing activities
+which are related to the offering of goods or services to data subjects or to the
+monitoring of their behaviour in several Member States, or may substantially affect
+the free movement of personal data within the Union”, the “consistency” mechanism
+shall apply and must be communicated to the European Data Protection Board
+(EDPB).
+
+On 29 March 2019, a draft list was adopted by the Commission and submitted to the
+EDPB on 3 April 2019. The EDPB adopted an opinion regarding this draft on 10 July
+2019, which was notified to the Commission on 12 July 2019.
+Decides:
+The list appended to this deliberation, on the kind of processing operations for which
+a data protection impact assessment is not required, is adopted.
+This list completes and specifies the guidelines adopted by the Commission on 11
+October 2018.
+Although the presence of a processing operation on the current list dispenses from an
+impact assessment, the controller remains subject to all other obligations in
+application of the GDPR and the Act of 6th January 1978. In particular, the fact that a
+processing operation is included on this list does not exempt a controller from the
+obligations set out in article 32 of the GDPR in terms of processing safety.
+This decision will be published in the Official Journal of the French Republic.
+
+The Chair
+
+Marie-Laure Denis
+
+2
+
+Appendice
+
+List of the kind of processing operations for which a data
+protection impact assessment is not required
+Kind of processing operations
+Processing operations, implemented under the conditions laid down by the applicable texts,
+solely for human resources purposes by employers with fewer than 250 people, except when profiling is
+used ;
+Processing carried out for the management of the relationship with suppliers ;
+Processing implemented under the conditions provided by the law relating to the management of the
+electoral register of municipalities ;
+Processing carried out for the management of working committees and councils ;
+Processing carried out by an association, foundation or any other non-profit institution for the management
+of its members and donors in the framework of its regular activities as long as the data is not sensitive ;
+
+Processing of health data necessary for the care of a patient by an individual healthcare professional in a
+medical practice, a pharmacy or a medical biology laboratory ;
+Processing carried out by lawyers in the individual practice of their profession ;
+Processing carried out by the clerks of commercial courts for the purpose of carrying out their activity ;
+Processing carried out by notaries for the purpose of carrying out their notarial activity and
+the drafting of notarial office documents ;
+Processing carried out by local authorities, as well as legal persons covered by public and private law, for the
+management of schools, as well as extracurricular and early childhood services ;
+Processing Processing carried out solely for the purpose of managing physical access controls and schedules
+for calculating of working times, excluding any biometric device. The processing does not reveal sensitive
+data or data of a highly personal nature ;
+Processing relating to breathalyser tests, implemented in the framework of transport activities, mandatory
+by law and restricted to the sole purpose of preventing drivers from operating vehicles while under the
+influence of alcohol or narcotics ;
+
+3
+
+

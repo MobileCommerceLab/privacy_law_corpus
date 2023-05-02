@@ -1,0 +1,322 @@
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2004
+289. Verordnung:
+
+Ausgegeben am 15. Juli 2004
+
+Teil II
+
+E-Government-Bereichsabgrenzungsverordnung – E-Gov-BerAbgrV
+
+289. Verordnung des Bundeskanzlers, mit der staatliche Tätigkeitsbereiche für Zwecke
+der Identifikation in E-Government-Kommunikationen abgegrenzt werden (EGovernment-Bereichsabgrenzungsverordnung – E-Gov-BerAbgrV)
+Auf Grund des Bundesgesetzes über Regelungen zur Erleichterung des elektronischen Verkehrs mit
+öffentlichen Stellen (E-Government-Gesetz – E-GovG), BGBl. I Nr. 10/2004 Art. 1, insbesondere dessen
+§§ 9 Abs. 1 und 2, 10 Abs. 2 und 13 Abs. 1, sowie der §§ 16 bis 22 des Bundesgesetzes über den Schutz
+personenbezogener Daten (Datenschutzgesetz 2000 – DSG 2000), BGBl. I Nr. 165/1999, in der Fassung des
+Bundesgesetzes BGBl. I Nr. 136/2001, wird verordnet:
+Zuordnung von Datenanwendungen
+§ 1. Jede Datenanwendung (§ 4 Z 7 DSG 2000) eines Auftraggebers des öffentlichen Bereichs (§ 5 Abs. 2
+DSG 2000) ist einem staatlichen Tätigkeitsbereich im Sinne des § 9 Abs. 2 E-GovG zuzuordnen, wenn im
+Rahmen dieser Anwendung bereichsspezifische Personenkennzeichen verwendet werden sollen. Für die
+Zuordnung ist der Zweck der Datenanwendung maßgebend, den der Auftraggeber mit der Datenanwendung
+verfolgt.
+Festlegung der Zuordnung
+§ 2. (1) Die Zuordnung einer Datenanwendung zu einem staatlichen Tätigkeitsbereich im Sinne des § 9
+Abs. 2 E-GovG ist bei der Registrierung dieser Datenanwendung im Datenverarbeitungsregister im
+Verfahren gemäß §§ 16 bis 22 DSG 2000 festzulegen. Für Standard- und Musteranwendungen ist die
+Zuordnung in der Standard- und Musterverordnung auszuweisen.
+(2) Die Zuordnung ist dadurch ersichtlich zu machen, dass bei der Datenart „bereichsspezifisches
+Personenkennzeichen“ die Bezeichnung jenes Tätigkeitsbereichs samt der Bereichskennung angegeben
+wird, dem die Datenanwendung zugeordnet wurde.
+Tätigkeitsbereiche
+§ 3. (1) Zum Zweck einer einheitlichen Vorgangsweise bei der Zuordnung von Datenanwendungen zu
+staatlichen Tätigkeitsbereichen werden die aus der Anlage ersichtlichen Tätigkeitsbereiche unterschieden
+und für die Bildung der bereichsspezifischen Personenkennzeichen mit den aus der Anlage ersichtlichen
+Bereichskennungen verbunden.
+(2) Die in Teil 2 der Anlage zu Abs. 1 bezeichneten Tätigkeitsbereiche sind zu verwenden, wenn bei
+einem Auftraggeber des öffentlichen Bereichs bereichsübergreifende Datenanwendungen, insbesondere zur
+Erbringung zentraler Dienste, eingerichtet sind.
+(3) Wenn es das Verbot, miteinander unvereinbare Datenverwendungen im gleichen Tätigkeitsbereich
+zu führen, verlangt, sind einzelne Datenanwendungen oder Kategorien von Datenanwendungen in weiterer
+Untergliederung der in der Anlage zu Abs. 1 genannten Bereiche einem eigenen Tätigkeitsbereich
+zuzuordnen und somit mit einer eigenen bereichsspezifischen Personenkennzeichnung zu versehen. Die
+Führung einer Datenanwendung mit eigener bereichsspezifischer Personenkennung kann insbesondere
+infolge der Sensibilität des Inhalts oder des Zwecks der Datenanwendung erforderlich sein. Die
+Bezeichnung solcher Tätigkeitsbereiche und ihre Bereichskennung sind gemäß § 2 Abs. 2 ersichtlich zu
+machen.
+Aufgaben der Datenschutzkommission
+§ 4. (1) Die Datenschutzkommission hat als Registerbehörde des Datenverarbeitungsregisters dafür zu
+sorgen, dass in jenen Fällen, die nicht unter § 3 Abs. 3 fallen, die bei der Registrierung verwendete
+Bezeichnung des Tätigkeitsbereichs und die Bereichskennung den inhaltlichen und formalen Anforderungen
+des § 3 Abs. 1 und 2 und der Anlage hiezu entspricht.
+(2) Über die Zulässigkeit und allenfalls Erforderlichkeit der Zuordnung einer Datenanwendung zu einer
+weiteren Untergliederung der in der Anlage angeführten Tätigkeitsbereiche gemäß § 3 Abs. 3 hat die
+Datenschutzkommission im Verfahren nach den §§ 16 bis 22 DSG 2000 zu entscheiden.
+Personenkennzeichen für Organwalter
+§ 5. Abweichend von den §§ 2 bis 4 ist für Personen, die von einer Datenanwendung in ihrer Rolle als
+Organwalter betroffen sind, das bereichsspezifische Personenkennzeichen - unabhängig von der Zuordnung
+der Datenanwendung zu einem Tätigkeitsbereich - einheitlich, in der § 13 Abs. 1 letzter Satz E-GovG
+entsprechenden Weise zu bilden.
+Zugriff der Stammzahlenregisterbehörde
+§ 6. Die Stammzahlenregisterbehörde hat zum Zweck der Generierung bereichsspezifischer
+Personenkennzeichen gemäß § 10 Abs. 2 E-GovG Zugriff auf die im Datenverarbeitungsregister in den
+Datenanwendungen registrierten Bereichskennungen.
+Schüssel
+
+Anlage zu § 3 Abs. 1
+TEIL 1
+Tätigkeitsbereich
+Arbeit
+
+Bereichskennung
+AR
+
+Amtliche Statistik
+Bildung und Forschung
+
+AS
+BF
+
+Bauen und Wohnen
+
+BW
+
+EU und Auswärtige
+Angelegenheiten
+Ein- und Ausfuhr
+
+EA
+
+Gesundheit
+
+GH
+
+Gesellschaft und Soziales
+
+GS
+
+Restitution
+Justiz/Zivilrechtswesen
+
+GS-RE
+JR
+
+Kultus
+
+KL
+
+Kunst und Kultur
+
+KU
+
+Land- und Forstwirtschaft
+
+LF
+
+Landesverteidigung
+
+LV
+
+Rundfunk und sonstige
+Medien sowie
+Telekommunikation
+
+RT
+
+Steuern und Abgaben
+
+SA
+
+Sport und Freizeit
+Sicherheit und Ordnung
+
+SF
+SO
+
+Vereinsregister
+Strafregister
+Sozialversicherung
+
+SO-VR
+SR-RG
+SV
+
+Umwelt
+
+UW
+
+Verkehr und Technik
+
+VT
+
+Vermögensverwaltung
+
+VV
+
+Wirtschaft
+
+WT
+
+Personenidentität und
+Bürgerrechte
+(zur Person)
+
+ZP
+
+EF
+
+Beispiele
+Arbeitnehmerschutz,
+Arbeitsmarktverwaltung
+Schulen,
+Universitäten,
+Berufsschulen,
+sonstige Bildungs- und Forschungseinrichtungen,
+Stipendien,
+Nostrifikation,
+Bibliotheken und Archive
+Bauverfahren,
+Wohnraumsanierung,
+Wohnungsvergabe,
+Schlichtungsstellen nach MRG,
+Wohnbauförderung,
+Energiesparförderung,
+Kanalanschluss,
+Raumplanung, Grundverkehr, Wasserversorgung
+Konsularwesen,
+Auslandsösterreicher
+Ein- und Ausfuhrbewilligungen,
+Zollwesen
+Krankenpflege, Gesundheitswesen,
+Gesundheitsausbildung,
+Impfwesen,
+Überwachung des Giftverkehrs,
+Überwachung übertragbarer Krankheiten,
+Überwachung und Bekämpfung von
+Drogenmissbrauch,
+Bestattungswesen
+Förderung einzelner gesellschaftlicher Gruppen,
+wie beispielsweise Volksgruppen, Frauen,
+Familien, Menschen mit Behinderungen,
+Generationen, Konsumentenschutz,
+Kinderbetreuungseinrichtungen,
+Allgemeine Fürsorge,
+soziale Notrufdienste, soziale Hilfe (soweit nicht
+gesundheitliche Betreuung),
+Verwaltung gemeinnütziger Stiftungen
+Restitutionsangelegenheiten
+Zivilgerichtsbarkeit,
+Exekutionswesen,
+Angelegenheiten der Notare und Rechtsanwälte
+einschließlich der Verteidiger in Strafsachen,
+Grundbuch,
+Firmenbuch
+Kirchen,
+Religionsgemeinschaften
+Kunstförderung,
+Denkmalpflege
+Agrarmarktförderungen,
+Tierzucht und Tierhaltung,
+Jagd und Fischerei
+Wehrdienst,
+Heeresgebühren,
+Mobilmachung,
+Zivildienst
+Rundfunkgebühren,
+Medienförderung,
+Telekom-Regulator,
+Aufsicht nach dem Signaturgesetz
+Steuern, Gebühren (z.B. für kommunale
+Versorgungsleistungen)
+Sicherheitspolizei,
+Waffenrecht,
+Veranstaltungsrecht,
+Fundwesen,
+Katastrophenschutz,
+Krisenmanagement,
+Versammlungs- und Vereinsrecht
+Arbeitslosenversicherung,
+Krankenversicherung,
+Unfallversicherung,
+Pensionsversicherung
+Wasserrecht,
+Abfallwirtschaft,
+Luftreinhaltung,
+Natur- und Landschaftsschutz
+Straßenpolizei,
+Kraftfahrwesen,
+Führerscheinwesen,
+technische Dienste
+Vermögensverwaltung des Auftraggebers,
+Beschaffung, Vergabe,
+Amtswirtschaft,
+Fuhrpark
+Gewerbe,
+Lehrlings- und Meisterprüfungsstellen,
+Tourismus,
+Industrie,
+Energiewirtschaft
+Staatsbürgerschaft,
+Personenstand,
+Religionsaustritte,
+Meldewesen,
+Fremdenwesen,
+Passwesen,
+Wahlen
+
+TEIL 2
+Hinweis: Bei den folgenden Tätigkeitsbereichen handelt es sich um zusätzliche Tätigkeitsbereiche im Falle,
+dass Dienste bereichsübergreifend – im Hinblick auf Teil 1 der Anlage - erbracht werden.
+Tätigkeitsbereich
+Bereichsübergreifender
+Rechtsschutz
+
+Bereichskennung
+BR
+
+Zentrales Rechnungswesen
+
+HR
+
+Auftraggeberinterne
+allgemeine Kanzleiindizes
+Öffentlichkeitsarbeit
+
+KI
+
+Personalverwaltung
+Zentraler Rechtsdienst
+Zentrale Durchführung von
+Verwaltungsstrafverfahren
+Zentrales
+Verwaltungsstrafregister
+Zustellungen
+
+PV
+RD
+VS
+
+OI
+
+VS-RG
+ZU
+
+Beispiele
+Gerichtshöfe des öffentlichen Rechts,
+allgemeine Aufsichtstätigkeiten wie
+Gemeindeaufsicht,
+Kontrolltätigkeiten wie Rechnungshof,
+Volksanwaltschaft
+zentrale Verrechnungsstellen für z.B. Gebühren
+und Verwaltungsabgaben,
+aber auch für privatwirtschaftliche Leistungen an
+den Auftraggeber oder durch den Auftraggeber
+bereichsübergreifende elektronische
+Aktenverwaltungssysteme
+Bürgeranliegen,
+Präsentation des Auftraggebers in den Medien,
+Call center
+
+

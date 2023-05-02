@@ -1,0 +1,1122 @@
+Unofficial Translation July 2013
+
+08/12/1992 | Act of 8 December 1992 on the protection of privacy in
+
+relation to the processing of personal data
+(Belgian Official Journal, 18 March 1993) – Consolidated version 08/07/2013
+Unofficial English Translation July 2013
+
+Chapter I. Definitions, Principle and Scope
+Art 1. § 1. For the purposes of this Act "personal data" means any information relating to an identified or
+identifiable natural person, hereinafter the "data subject"; an identifiable person is one who can be
+identified, directly or indirectly, in particular by reference to an identification number or to one or more
+factors specific to his physical, physiological, mental, economic, cultural or social identity.
+§ 2. '"Processing" means any operation or set of operations which is performed upon personal data,
+whether or not by automatic means, such as collection, recording, organization, storage, adaptation or
+alteration, retrieval, consultation, use, disclosure by means of transmission, dissemination or otherwise
+making available, alignment or combination, blocking, erasure or destruction of personal data.
+§ 3. "Filing system" means any structured set of personal data which is accessible according to specific
+criteria, whether centralized, de-centralized, or dispersed on a functional or geographical basis.
+§ 4. "Controller" means any natural or legal person, un-associated organization or public authority which
+alone or jointly with others determines the purposes and means of the processing of personal data. If the
+purposes and means of the processing are determined by or by virtue of an act, decree or ordinance, the
+controller is the natural person, legal person, un-associated organization or public authority that has been
+designated as such by or by virtue of that act, decree or ordinance.
+§ 5. "Processor" means any natural person, legal person, un-associated organization or public authority
+which processes personal data on behalf of the controller, except for the persons who, under the direct
+authority of the controller, are authorized to process the data.
+§ 6. "Third party" means any natural or legal person, un-associated organization or public authority other
+than the data subject, the controller, the processor and anyone who, under the direct authority of the
+controller or the processor, is authorized to process the data.
+
+1
+
+Unofficial Translation July 2013
+
+§ 7. "Recipient" means a natural or legal person, un-associated organization or public authority to whom
+data is disclosed, whether a third party or not; administrative or judicial authorities which can receive
+data in the framework of a special investigation are, however, not regarded as recipients.
+§ 8. "The data subject's consent" means any freely given specific and informed indication of his wishes by
+which the data subject signifies his or his legal representative's agreement to the processing of personal
+data relating to the data subject.
+Art 2. Any natural person is entitled to protection of his fundamental rights and freedoms, especially the
+protection of his privacy, with regard to the processing of personal data relating to him.
+Art 3. § 1. This Act applies to the processing of personal data wholly or partly by automatic means, and
+to the processing otherwise than by automatic means of personal data which forms part of a filing system
+or is intended to form part of a filing system.
+§ 2. This Act does not apply to the processing of personal data by a natural person in the course of a
+purely personal or household activity.
+§ 3. a) Articles 6, 7 and 8 do not apply to the processing of personal data solely for the purposes of
+journalism or the purposes of artistic or literary expression, if the processing relates to personal data
+which has apparently been made public by the data subject or which is closely related to the public
+nature of the data subject or of the facts in which the data subject is involved.
+b) Article 9, § 1, does not apply to the processing of personal data solely for journalistic purposes or the
+purpose of artistic or literary expression, if the application of this article would interfere with the
+collection of data from the data subject. Article 9, § 2, does not apply to the processing of personal data
+solely for the purposes of journalism or the purposes of artistic or literary expression, if the application of
+the article would have one or more of the following effects:
+- the application interferes with the collection of the data;
+- the application interferes with an intended publication;
+- the application provides indications as to the sources of information.
+c) Articles 10 and 12 do not apply to the processing of personal data solely for the purposes of journalism
+or for the purposes of artistic or literary expression, to the extent that the application of the articles
+would interfere with an intended publication or provide indications as to the sources of information.
+d) Articles 17, § 3, 9° and 12°, § 4 and § 8, as well as articles 18, 21 and 22 do not apply to the
+processing of personal data solely for the purposes of journalism or the purposes of artistic or literary
+expression.
+2
+
+Unofficial Translation July 2013
+
+§ 4. Articles 6 to 10, 12, 14, 15, 17, 17bis, paragraph one, 18, 20 and 31, §§ 1 to 3 do not apply to the
+processing of personal data by the State Security Service, the General Intelligence and Security Service of
+the Armed Forces, by the Authorities referred to in articles 15, 22ter and 22quinquies of the Act of 11
+December
+
+1998
+
+on classification and security clearances, security certificates and security
+
+recommendations and the Appeal Board created by the Act of 11 December 1998 creating an Appeal
+Board in respect of security authorizations, security certificates and security recommendations, by the
+Security Officers and the Permanent Oversight Committee of the Intelligence Services and its
+Investigative Service, and the Coordinating Authority for Threat Analysis, if the processing is necessary
+for the fulfilment of their duties.
+§ 5. Articles 9, 10, § 1 and 12 do not apply:
+1° to the processing of personal data managed by public authorities with a view to the fulfilment of their
+judicial police duties;
+2° to the processing of personal data managed by the police services referred to in article 3 of the Act of
+18 July 1991 regulating police and intelligence service supervision with a view to the fulfilment of their
+administrative police duties;
+3° to the processing of personal data managed by any other public authority that has been designated by
+Royal Decree after deliberation in the Council of Ministers, having received the opinion of the Commission
+for the Protection of Privacy, with a view to the fulfilment of that authority's administrative police duties;
+4° to the processing of personal data that has become necessary as a result of the application of the Act
+of 11 January 1993 preventing the use of the financial system for money laundering;
+5° to the processing of personal data managed by the Permanent Oversight Committee of the Police
+Services and its Investigative Service with a view to the fulfilment of their legal duties.
+§ 6. Articles 6, 8, 9, 10, § 1, and 12 do not apply after royal authorization by decree after deliberation in
+the Council of Ministers of processing operations managed by the European Centre for Missing and
+Sexually Exploited Children, hereinafter "the Centre", an organization of public interest founded by deed
+on 25 June 1997 and recognized by Royal Decree on 10 July 1997 on the collection, transmission to the
+
+judiciary and follow-up of data relating to persons who are under suspicion of a crime or misdemeanour
+in a specific dossier concerning a missing person or sexual abuse. This decree establishes the duration
+and conditions of the authorization, having received the opinion of the Commission for the Protection of
+Privacy.
+The Centre must not keep any file on persons suspected of a crime or misdemeanour or of convicted
+persons.
+3
+
+Unofficial Translation July 2013
+
+The Board of Directors of the Centre shall designate among the Centre's staff members a data protection
+officer in charge of data processing, who is familiar with personal data management and protection. The
+fulfilment of his duties must not result in any adverse effect on him. More particularly, he must not be
+dismissed or replaced as data protection officer on the grounds of the fulfilment of the duties that have
+been assigned to him. By decree after deliberation in the Council of Ministers, having received the opinion
+of the Commission for the Protection of Privacy, the King shall lay down the duties of the data protection
+officer and the way in which they shall be fulfilled as well as the way in which the Centre shall report to
+the Commission for the Protection of Privacy on the processing of personal data in the context of the
+authorization granted.
+The members of staff as well as the individuals processing personal data on behalf of the Centre are
+bound to secrecy.
+Any violation of the obligation of secrecy is punished in accordance with the provisions of article 458 of
+the Belgian Criminal Code.
+In the context of its supporting role during the search for children reported missing or abducted the
+Centre may only record telephone conversations if the caller is informed of the recording and to the
+extent that he has not objected thereto.
+§ 7. Without prejudice to the application of specific legal provisions, article 10 does not apply to
+processing operations of personal data managed by the Federal Public Service of Finance for the period in
+which the data subject is subject to an inspection, an investigation or related preparatory activities
+carried out by the Federal Public Service of Finance in the context of the fulfilment of its legal missions, to
+the extent that the application of this article would constitute a disadvantage for the inspection, the
+investigation or for the preparatory activities, and only for the duration of the inspection, the
+investigation or the preparatory activities.
+The period in which article 10 is not applicable during these preparatory activities must, however, not
+exceed one year starting from the request submitted in application of this article 10.
+When the Federal Public Service of Finance has made use of the exception described in the first
+paragraph, this exception shall immediately be cancelled upon termination of the inspection or the
+investigation or upon termination of the preparatory activities if these did not result in an inspection or an
+investigation. The Information Security and Privacy Protection Service shall inform data subjects of this
+cancellation without delay and will provide them with the full motivation as included in the decision of the
+controller who made use of the exception.
+
+4
+
+Unofficial Translation July 2013
+
+Art 3bis. This Act applies:
+1° to the processing of personal data carried out in the context of the effective and actual activities of
+any controller permanently established on Belgian territory or in a place where Belgian law applies by
+virtue of international public law;
+2° to the processing of personal data by a controller who is not permanently established on European
+Community territory, if the means used, which can be automatic or other means located on Belgian
+territory, are not the same as the means used for processing personal data only for the purposes of
+transit of personal data through Belgian territory.
+In the circumstances referred to in the previous paragraph under 2°, the controller shall designate a
+representative established on Belgian territory, without prejudice to legal proceedings that may be
+brought against the controller himself.
+
+Chapter II. General rules on the lawfulness of the processing of personal data
+Art 4. § 1. Personal data must be:
+1° processed fairly and lawfully;
+2° collected for specified, explicit and legitimate purposes and, taking into account all relevant factors,
+especially the reasonable expectations of the data subject and the applicable legal and regulatory
+provisions and must not be further processed in a way incompatible with those purposes. Under the
+conditions established by the King, having received the opinion of the Commission for the Protection of
+Privacy, further processing of data for historical, statistical or scientific purposes is not considered
+incompatible;
+3° adequate, relevant and not excessive in relation to the purposes for which it is collected or further
+processed;
+4° accurate and, where necessary, kept up-to-date; every reasonable step must be taken to ensure that
+data which is inaccurate or incomplete with respect to the purposes for which it is collected or for which it
+is further processed, is erased or rectified;
+5° kept in a form that allows for the identification of data subjects, for no longer than necessary with a
+view to the purposes for which the data is collected or further processed. Having received the opinion of
+the Commission for the Protection of Privacy, the King shall establish appropriate safeguards for personal
+data stored longer than stated above for historical, statistical or scientific purposes.
+§2. The controller must ensure compliance with § 1.
+Art 5. Personal data may only be processed in the following cases:
+a) the data subject has unambiguously given his consent;
+5
+
+Unofficial Translation July 2013
+
+b) the processing is necessary for the performance of a contract to which the data subject is a party or in
+order to take steps at the request of the data subject prior to entering into a contract;
+c) the processing is necessary for compliance with an obligation to which the controller is subject under
+or by virtue of an act, decree or ordinance;
+d) the processing is necessary in order to protect the vital interests of the data subject;
+e) the processing is necessary for the performance of a task carried out in the public interest or in the
+exercise of the official authority vested in the controller or in a third party to whom the data is disclosed;
+f) if the processing is necessary for the promotion of the legitimate interests of the controller or the third
+party to whom the data is disclosed, except where such interests are overridden by the interests or
+fundamental rights and freedoms of the data subject claiming protection under this Act.
+By decree after deliberation in the Council of Ministers, having received the opinion of the Commission for
+the Protection of Privacy, the King can specify the circumstances in which the condition stipulated under
+f) is considered as not having been met.
+Art 6. § 1. The processing of personal data revealing racial or ethnic origin, political opinions, religious or
+philosophical beliefs or trade-union membership as well as the processing of data concerning sex life, is
+prohibited.
+§ 2. The prohibition to process the data referred to in § 1 does not apply in the following cases:
+a) the data subject has given his consent in writing to such processing, on the understanding that this
+consent can be withdrawn by the data subject at any time; by decree after deliberation in the Council of
+Ministers, having received the opinion of the Commission for the Protection of Privacy, the King may
+determine the cases in which the prohibition to process the data referred to in this article cannot be lifted
+by the data subject's consent;
+b) the processing is necessary to carry out the obligations and specific rights of the controller in the field
+of employment law;
+c) the processing is necessary to protect the vital interests of the data subject or of another person,
+where the data subject is physically or legally incapable of giving his consent;
+d) the processing is carried out in the course of its legitimate activities by a foundation, association or
+any other non-profit organization with a political, philosophical, religious, health-insurance or trade-union
+aim and on condition that the processing relates solely to the members of the organization or to persons
+who have regular contact with it in connection with its purposes and that the data is not disclosed to a
+third party without the data subjects' consent;
+e) the processing relates to data which has apparently been made public by the data subject;
+f) the processing is necessary for the establishment, exercise or defence of legal claims;
+6
+
+Unofficial Translation July 2013
+
+g) the processing is necessary for the purposes of scientific research and is carried out under the
+conditions established by the King by decree after deliberation in the Council of Ministers, having received
+the opinion of the Commission for the Protection of Privacy;
+h) the processing is necessary to comply with social security laws;
+i) the processing is carried out according to the Act of 4 July 1962 on Public Statistics;
+j) the processing is necessary for the purposes of preventive medicine or medical diagnosis, the provision
+of care or treatment to the data subject or one of his relatives, or the management of health-care
+services provided in the interest of the data subject, and when the data is processed under the
+supervision of a health professional;
+k) the processing is carried out by associations with a legal personality or organizations of public interest
+whose main objective is the protection and promotion of human rights and fundamental freedoms, with a
+view to achieving that objective, provided that the processing has been authorized by the King, by decree
+after deliberation in the Council of Ministers, having received the opinion of the Commission for the
+Protection of Privacy;
+l) the processing of personal data referred to in § 1 is authorized by an act, decree or ordinance for
+another reason of substantial public interest.
+In the case referred to in j), the health professional and his agents or assignees are subject to an
+obligation of secrecy.
+§ 3. Without prejudice to the application of articles 7 and 8 of this Act, the processing of personal data
+relating to sex life is authorized if it is carried out by an association with a legal personality or by an
+organization of public interest whose main objective, according to its articles of association, is the
+evaluation, guidance and treatment of persons whose sexual conduct can be qualified as an offence, and
+who has been recognized and subsidized for the achievement of that objective by the competent public
+authority; for such processing, the objective of which must consist of the evaluation, guidance and
+treatment of the persons referred to in this paragraph, and for which the processing of personal data, if it
+concerns sex life, only relates to the aforementioned persons, the King must grant a specific,
+individualized authorization by decree after deliberation in the Council of Ministers, having received the
+opinion of the Commission for the Protection of Privacy. The decree referred to in this paragraph specifies
+the duration of the authorization, the conditions for supervision of the authorized association or
+organization by the competent authority, and the way in which the authority must report to the
+Commission for the Protection of Privacy on the processing.
+
+7
+
+Unofficial Translation July 2013
+
+§ 4. By decree after deliberation in the Council of Ministers, having received the opinion of the
+Commission for the Protection of Privacy, the King shall specify the conditions to be met for the
+processing of the personal data referred to in this article.
+Art 7. § 1. The processing of health-related personal data is prohibited.
+§ 2. The prohibition to process the data referred to in § 1 does not apply in the following cases:
+a) the data subject has given his written consent to such processing, with the understanding that the
+consent can be withdrawn by the data subject at any time; by decree after deliberation in the Council of
+Ministers, having received the opinion of the Commission for the Protection of Privacy, the King can
+establish the cases in which the prohibition to process health-related data cannot be lifted by the written
+consent of the data subject;
+b) the processing is necessary to carry out the specific obligations and rights of the controller in the field
+of employment law;
+c) the processing is necessary to comply with social security laws;
+d) the processing is necessary for the promotion and protection of public health, including medical
+examination of the population;
+e) the processing is required by or by virtue of an act, decree or ordinance for reasons of substantial
+public interest;
+f) the processing is necessary to protect the vital interests of the data subject or another person, where
+the data subject is physically or legally incapable of giving his consent;
+g) the processing is necessary for the prevention of imminent danger or the mitigation of a specific
+criminal offence;
+h) the processing relates to data which has apparently been made public by the data subject;
+i) the processing is necessary for the establishment, exercise or defence of legal rights;
+j) the processing is necessary for the purposes of preventive medicine or medical diagnosis, the provision
+of care or treatment to the data subject or to one of his relatives, or the management of health-care
+services in the interest of the data subject, and the data is processed under the supervision of a health
+professional;
+k) the processing is required for the purposes of scientific research and carried out under the conditions
+established by the King by decree after deliberation in the Council of Ministers, having received the
+opinion of the Commission for the Protection of Privacy.
+§ 3. By decree after deliberation in the Council of Ministers, having received the opinion of the
+Commission for the Protection of Privacy the King shall lay down the specific conditions to be met when
+processing the personal data referred to in this article.
+8
+
+Unofficial Translation July 2013
+
+§ 4. Health-related personal data may only be processed under the responsibility of a health-care
+professional, except if the data subject has given his written consent or if the processing is necessary for
+the prevention of imminent danger or for the mitigation of a specific criminal offence.
+By decree after deliberation in the Council of Ministers, having received the opinion of the Commission for
+the Protection of Privacy, the King can establish the categories of persons who are considered health-care
+professionals for the purposes of this Act.
+The health-care professional and his agents or assignees are subject to an obligation of secrecy with
+regard to the processing of personal data referred to in this article.
+§ 5. Health-related personal data must be collected from the data subject.
+It may only be collected from other sources if paragraphs 3 and 4 of this article are complied with, and if
+such is necessary for the purposes of the processing, or if the data subject is incapable of providing the
+data.
+Art 8. § 1. The processing of personal data relating to litigation that has been submitted to courts and
+tribunals as well as to administrative judicial bodies, relating to suspicions, prosecutions or convictions in
+matters of crime, administrative sanctions or security measures, is prohibited.
+§ 2. The prohibition to process the personal data referred to in § 1 does not apply to processing
+operations:
+a) under the supervision of a public authority or ministerial civil servant as defined by the Belgian Code of
+Civil Proceedings, if the processing is necessary for the fulfilment of their duties;
+b) by other persons, if the processing is necessary to achieve purposes that have been established by or
+by virtue of an act, decree or ordinance;
+c) by natural persons, private or public legal persons, to the extent that the processing is necessary to
+manage their litigations;
+d) by lawyers or other legal advisors, to the extent that the processing is necessary for the protection of
+their clients' interests;
+e) if the processing is required for scientific research and carried out under the conditions established by
+the King by decree after deliberation in the Council of Ministers, having received the opinion of the
+Commission for the Protection of Privacy.
+§ 3. Persons authorized under § 2 to process the personal data referred to in § 1 are subject to an
+obligation of secrecy.
+9
+
+Unofficial Translation July 2013
+
+§ 4. By decree after deliberation in the Council of Ministers, having received the opinion of the
+Commission for the Protection of Privacy, the King shall establish the specific conditions to be met when
+processing the personal data referred to in § 1.
+
+Chapter III - Rights of the data subject
+Art 9. § 1. If personal data relating to the data subject is obtained directly from the data subject, the
+controller or his representative shall provide the data subject with at least the following information, no
+later than the moment the data is obtained, unless the data subject has already received such
+information:
+a) the name and address of the controller and of his representative, if any;
+b) the purposes of the processing;
+c) the existence of the right to object, by request and free of charge, to the intended processing of
+personal data relating to him, if it is obtained for the purposes of direct marketing;
+d) other additional information, in particular:
+- the recipients or categories of recipients of the data,
+- whether it is compulsory to reply, and what the possible consequences of the failure to reply are;
+- the existence of the right to access and rectify the personal data relating to him; except where such
+additional information, taking into account the specific circumstances in which the data is collected, is not
+necessary to guarantee correct processing in respect to the data subject.
+e) other information dependent on the specific nature of the processing, as specified by the King, having
+received the opinion of the Commission for the Protection of Privacy.
+§ 2. If the personal data is not collected from the data subject, the controller or his representative must
+provide the data subject with at least the information below when recording the personal data or when
+considering communication to a third party, and at the very latest when the data is first disclosed, unless
+the data subject has already received such information:
+a) the name and address of the controller and of his representative, if any;
+b) the purposes of the processing;
+c) the existence of a right to object, by request and free of charge, to the intended processing of
+personal data relating to him, if it is obtained for the purposes of direct marketing; in that case, the data
+subject must be informed prior to the first disclosure of the personal data to a third party or prior to the
+first use of the data for the purposes of direct marketing on behalf of third parties;
+d) other additional information, in particular:
+- the categories of data concerned;
+- the recipients or categories of recipients of the data;
+10
+
+Unofficial Translation July 2013
+
+- whether compliance with the request for information is compulsory or not, as well as what the
+consequences of the failure to comply are;
+- the existence of the right to access and rectify the personal data relating to him, unless such additional
+information, taking into account the specific circumstances in which the data is provided, is not necessary
+to guarantee fair processing with respect to the data subject.
+e) other information dependent on the specific nature of the processing, which is specified by the King,
+having received the opinion of the Commission for the Protection of Privacy.
+The controller is exempt from the duty of information under this paragraph where:
+a) informing the data subject proves impossible or would involve a disproportionate effort, in particular
+for statistical purposes or for the purpose of historical or scientific research, or for the purpose of medical
+examination of the population with a view to protecting and promoting public health;
+b) personal data is recorded or provided with a view to the application of a provision laid down by or by
+virtue of an act, decree or ordinance. By decree after deliberation in the Council of Ministers, having
+received the opinion of the Commission for the Protection of Privacy, the King shall establish the
+conditions for the application of the previous paragraph.
+If the first disclosure of the data took place before this provision took effect, the data subject must be
+informed, by way of derogation from the first paragraph, at the very latest within 3 years of the
+enforcement date of this provision. The data subject does not have to be informed, however, if the
+controller was exempt from the duty to inform the data subject of the recording of the data by virtue of
+legal and regulatory provisions applicable on the day preceding the date this stipulation took effect.
+Art 10. § 1. Any data subject who proves his identity has the right to obtain from the controller:
+a) information on whether or not data relating to him is being processed, as well as information regarding
+the purposes of the processing, the categories of data the processing relates to, and the categories of
+recipients the data is disclosed to;
+b) communication of the data being processed in an intelligible form, as well as of any available source
+information;
+c) information about the basic logic involved in any automatic processing of data relating to him in case
+of automated decision making as defined by article 12bis;
+d) information regarding his appeal rights under articles 12 and 14 and his right to consult the public
+register referred to in article 18, if necessary.
+To obtain such information the data subject shall submit a signed and dated request to the controller or
+to any other person designated by the King. The information shall be communicated without delay, at the
+11
+
+Unofficial Translation July 2013
+
+very latest forty-five days after receipt of the request. The King can specify further rules relating to the
+exercise of the right referred to in paragraph one.
+§ 2. Without prejudice to the provisions of article 9, § 2 of the Act of 22 August 2002 on Patient Rights,
+any person has the right to be informed of the personal data that is processed in relation to his health,
+either directly or through a healthcare professional.
+Without prejudice to the provisions of article 9, § 2 of the above-mentioned Act, such data may be
+provided at the controller's or the data subject's request, through the intervention of a healthcare
+professional designated by the data subject.
+If there is no evident risk of infringing on the data subject's right to protection of his privacy and if the
+data is not used in order to take measures and decisions with regard to an individual data subject,
+informing the data subject may be postponed at the latest until the moment the research is ended if the
+health-related data is processed for the purposes of medical-scientific research, but only to the extent
+that informing the data subject would seriously compromise the research.
+In that case the data subject must have given the controller his previous written consent to the
+processing of personal data relating to him for medical-scientific purposes and to postponing, for that
+reason, the moment at which he is informed.
+§ 3. The requests referred to in § 1 and § 2 do not have to be complied with before the expiration of a
+reasonable period of time, starting from the date mentioned on a prior request from the same person
+that was complied with, or starting from the date the data was officially provided to this person.
+Art 11. […] Repealed.
+Art 12. § 1. Any person is entitled to the rectification of incorrect personal data relating to him free of
+charge.
+In addition, any person has the right to object to the processing of data relating to him, for substantial
+and legitimate reasons related to his particular situation, unless the lawfulness of the processing is based
+on the reasons referred to in article 5, b) and c). If personal data is obtained for the purposes of direct
+marketing, the data subject may object to the intended processing of personal data relating to him, free
+of charge and without reason.
+In case of legitimate objection, the controller must stop processing the personal data.
+Any person also has the right to obtain free of charge the erasure of or the prohibition to use all personal
+data relating to him that is incomplete or irrelevant with a view to the purpose of the processing, or
+where the recording, disclosure or storage of the data is prohibited, or where it has been stored for
+longer than the authorized period of time.
+12
+
+Unofficial Translation July 2013
+
+§ 2. In order to exercise the rights referred to in § 1, the data subject must submit a signed and dated
+request to the controller or to any other person the King shall designate.
+§ 3. Within a period of one month starting from the submission of the request referred to in § 2, the
+controller shall communicate the rectifications or erasures of data, in accordance with § 1, to the data
+subject as well as to all recipients of the incorrect, incomplete or irrelevant data, to the extent that he still
+knows the recipients of the information and that informing these recipients does not prove impossible or
+involve a disproportionate effort.
+If the data subject objects to the processing or the intended processing of personal data relating to him
+on the basis of § 1, paragraphs two and three, the controller shall inform the data subject within the
+same period of time of the action he has undertaken to comply with the request.
+§ 4. […]
+Art 12bis. A decision having legal effects on a person or significantly affecting him, must not be taken
+purely on the basis of automatic data processing with the aim of assessing certain aspects of his
+personality.
+The prohibition referred to in the first paragraph is not applicable if the decision is taken in the context of
+an agreement or if it is based on a provision established by or by virtue of an Act, decree or ordinance.
+That agreement or provision must contain suitable measures to safeguard the legitimate interests of the
+data subject. The latter must be given at least the chance to defend his point of view efficiently.
+Art 13. Anyone proving his identity has the right to address the Commission for the Protection of Privacy
+free of charge, in order to exercise the rights referred to in articles 10 and 12 in relation to the processing
+operations of personal data mentioned in article 3, §§ 4, 5, 6 and 7.
+By decree after deliberation in the Council of Ministers, having received the opinion of the Commission for
+the Protection of Privacy, the King shall establish the manner in which these rights are to be exercised.
+The Commission for the Protection of Privacy shall only inform the data subject of the fact that the
+necessary verifications have been carried out.
+If the data subject's request, however, relates to the processing of personal data by the police services
+with a view to an identity check, then the King shall establish the information the Commission may
+disclose to the data subject by decree after deliberation in the Council of Ministers, having received the
+opinion of the Commission for the Protection of Privacy.
+
+13
+
+Unofficial Translation July 2013
+
+Art 14. § 1. The President of the Court of First Instance, in summary proceedings, shall familiarize
+himself with claims relating to the right of access to personal data granted by the law, as well as with
+claims regarding the rectification of, erasure of or prohibition to use incorrect personal data or personal
+data that is incomplete or irrelevant with a view to the purposes of the processing, or regarding personal
+data that must not be recorded, communicated or stored, or personal data to the processing of which the
+data subject has objected, or that have been stored for longer than the authorized period of time.
+§ 2. The President of the Court in the complainant's place of residence is competent for the claims
+referred to in § 1. If the complainant has no place of residence in Belgium, the President of the Court in
+the controller's place of residence is competent if the controller is a natural person. If the controller is a
+legal person, the President of the Court where the legal person's registered or administrative offices are
+located, is competent.
+The court order shall be issued in an open session. It shall be immediately enforceable notwithstanding
+higher appeal or opposition.
+§ 3. The claim shall be submitted in the form of an application inter partes.
+The application must contain the following information or it shall be null and void:
+1° the day, month and year;
+2° the surname, first name, profession and place of residence of the complainant;
+3° the surname, first name and place of residence of the person to be summoned;
+4° the object of the claim and a brief summary of the legal arguments to support the claim;
+5° the complainant's signature or that of his lawyer.
+§ 4. The application shall be sent to the Court Registrar by registered letter or deposited at the
+Registrar's Office.
+Following the payment of the court fees, if necessary, the Court Registrar shall summon the parties by
+court letter to appear in court for a hearing, at a date and time determined by the judge. The summons
+shall be sent with an enclosed copy of the application.
+§ 5. The claim made in accordance with § 1 shall only be admissible if the request referred to in article
+10, § 1, or in article 12, § 2 has been rejected or if no effect has been given to it within the period of
+time prescribed in article 10, § 1, paragraph two or, according to the case, article 12, § 3, paragraph one.
+§ 6. If incorrect, incomplete or irrelevant data or data that must not be stored has been disclosed to third
+parties, or if the disclosure took place after the authorized data retention period expired, the President of
+14
+
+Unofficial Translation July 2013
+
+the Court can order the controller to inform the third parties concerned of the rectification or erasure of
+the data.
+§ 7. If due to compelling reasons the fear arises that evidence which may be produced for a claim
+referred to in § 1, might be concealed or disappear, the President of the Court of First Instance, upon
+receipt of an ex parte application signed and submitted by the party or its lawyer, shall order that every
+measure be taken in order to prevent such concealment or disappearance.
+§ 8. The provisions of §§ 6 and 7 do not limit the general jurisdiction of the President of the Court of First
+Instance in summary proceedings.
+Art 15. When the controller receives the request for rectification of, erasure of, or prohibition of the use
+or disclosure of personal data, or when he is informed of the initiation of the proceedings referred to in
+article 14, and until a decision has become final, the controller, when disclosing a personal datum, shall
+immediately and clearly indicate that the datum concerned is contested.
+Art 15bis. If the data subject incurs damage from an action in violation of the provisions of this Act,
+paragraphs two and three shall apply, without prejudice to claims made on other legal grounds.
+The controller shall be held liable for any damage as a result of an action in violation of the provisions of
+this Act.
+He shall be exempt from liability if he proves that the fact which caused the damage cannot be ascribed
+to him.
+
+Chapter IV - Confidentiality and Security of the Processing
+Art 16. § 1. If a processor is entrusted with the processing, the controller or his representative in
+Belgium, if any, must:
+1° select a processor providing sufficient safeguards in respect of the technical and organizational
+measures for the intended processing;
+2° ensure compliance with these measures, in particular by contractual stipulations;
+3° lay down the processor's liability towards the controller in that contract;
+4° agree with the processor that the processor shall only act on behalf of the controller and that he is
+bound by the same duties as the controller pursuant to paragraph 3;
+5° establish, in writing or on an electronic medium, the elements of the contract with regard to the
+protection of data and the requirements with regard to the measures referred to in paragraph 3.
+15
+
+Unofficial Translation July 2013
+
+§ 2. The controller or his representative in Belgium, if any, must:
+1° ensure with due care that the data is kept up-to-date, and that incorrect, incomplete and irrelevant
+data, as well as data that was obtained or further processed in violation of articles 4 to 8, is rectified or
+erased;
+2° ensure that the number of individuals acting under his authority, as well as access to the data and the
+possible operations carried out on it, are limited to what is necessary for these individuals to fulfil their
+obligations or to whatever is necessary for the requirements of the service;
+3° inform all individuals acting under his authority of the provisions of this Act and its implementing
+decrees, and of all relevant provisions in respect to the protection of privacy in relation to the processing
+of personal data;
+4° ensure that the programmes used for the automatic processing of personal data correspond to the
+information provided in the notification referred to in article 17, and that they are not used unlawfully.
+§ 3. Any person having access to the personal data and acting under the authority of the controller or of
+the processor, as well as the processor himself, may fulfil this obligation only as instructed by the
+controller, without prejudice to any duty imposed by or by virtue of an act, decree or ordinance.
+§ 4. In order to safeguard the security of the personal data, the controller or his representative in
+Belgium, if any, as well as the processor, must take the appropriate technical and organizational
+measures that are necessary to protect the personal data from accidental or unauthorized destruction,
+accidental loss, as well as from alteration, access and any other unauthorized processing of the personal
+data.
+These measures must ensure an appropriate level of security taking into account the state of
+technological development in this field and the cost of implementing the measures on the one hand, and
+the nature of the data to be protected and the potential risks on the other.
+Having received the opinion of the Commission for the Protection of Privacy the King may issue
+appropriate standards relating to information security for all or certain categories of processing.
+
+Chapter V - Prior Notification and Publicity of the Processing.
+Art 17. § 1. Prior to any wholly or partly automatic operation or set of operations intended to serve a
+single purpose or several related purposes, the controller or his representative, if any, must notify the
+Commission for the Protection of Privacy.
+The previous paragraph does not apply to operations having the sole purpose of keeping a register that is
+intended to provide information to the public by virtue of an act, decree or ordinance and that is open to
+consultation either by the general public or by any person demonstrating a legitimate interest.
+16
+
+Unofficial Translation July 2013
+
+§ 2. The Commission shall provide a receipt of the notification within three working days. If the
+notification is incomplete, the Commission must inform the person having submitted the notification of
+this fact.
+§ 3. The notification must mention:
+1° the date of notification and the act, decree, ordinance or regulatory instrument regarding the
+automatic processing, if any;
+2° the surname, first names and complete address or the name and registered offices of the controller
+and of his representative in Belgium, if any;
+3° […](repealed);
+4° the name of the automatic processing;
+5° the purpose or the set of related purposes of the automatic processing;
+6° the categories of personal data being processed and a detailed description of the data referred to in
+articles 6 to 8;
+7° the categories of recipients the data can be disclosed to;
+8° the safeguards that must be linked to the disclosure of the data to third parties;
+9° the manner in which the data subjects are informed, the service providing for the exercise of the right
+to access and the measures taken to facilitate the exercise of that right;
+10° the period of time after the expiration of which, if necessary, the data may no longer be stored, used
+or disclosed;
+11° a general description allowing for a preliminary assessment of whether the security measures taken
+pursuant to article 16 of this Act are adequate;
+12° the grounds supporting the controller's application of article 3, § 3 of this Act, if any.
+§ 4. In the context of its powers of supervision and investigation referred to in articles 31 and 32, the
+Commission for the Protection of Privacy is authorized to demand other information, in particular the
+origin of the personal data, the choice of automation technology and the security measures that are in
+place.
+§ 5. Notification is required for any purpose or set of related purposes for which wholly or partly
+automatic operations are carried out.
+The Commission shall determine the nature and structure of the notification.
+
+17
+
+Unofficial Translation July 2013
+
+§ 6. If the data being processed is intended, even on an occasional basis, to be transferred to a foreign
+country, the notification must also mention the following elements, regardless of the medium that has
+been used:
+1° the categories of data being transferred;
+2° for each category of data, the country of final destination.
+§ 7. If the automatic processing is terminated or if any item of information referred to in § 3 is modified,
+notification is also required.
+§ 8. Having received the opinion of the Commission for the Protection of Privacy, the King can exempt
+certain categories from notification under this article if, taking into account the data being processed,
+there is no apparent risk of infringement on the data subjects' rights and freedoms, and if the purposes
+of the processing, the categories of data being processed, the categories of data subjects, the categories
+of recipients and the data retention period are specified.
+If exemption from the duty of notification has been granted for automatic processing in accordance with
+the previous paragraph, the controller must disclose the items of information mentioned in §§ 3 and 6 to
+any person requesting them.
+.
+§ 9. Upon submission of the notification, the controller shall pay a fee to the person designated as the
+accountable party at the Commission for the Protection of Privacy, in accordance with the Acts on Public
+Accounts. The King shall determine the amount for this fee, which must not exceed ten thousand francs.
+[…] He shall also establish the terms of payment.
+Art 17bis. Having received the opinion of the Commission for the Protection of Privacy, the King shall
+determine the categories of processing that imply specific risks with regard to the data subjects' personal
+rights and freedoms, and establish the specific conditions for these processing operations, safeguarding
+the data subjects' rights and freedoms, once again having received the proposal of the Commission for
+the Protection of Privacy.
+He can lay down in particular that the controller, alone or jointly with other controllers, shall designate a
+data protection officer independently ensuring the application of this Act and of its implementing
+measures.
+By decree after deliberation in the Council of Ministers, having received the opinion of the Commission for
+the Protection of Privacy, the King shall lay down the status of the data protection officer.
+Art 18. The Commission for the Protection of Privacy shall keep a register of all automatic processing
+operations of personal data.
+18
+
+Unofficial Translation July 2013
+
+Any entry in the register must include the information mentioned in article 17, §§ 3 and 6.
+The register shall be open to consultation by all members of the public, in the manner determined by the
+King.
+Art 19. If the Commission for the Protection of Privacy is of the opinion that the non-automatic
+processing of personal data that forms part of or is intended to form part of a filing system, possibly
+infringes upon privacy, it may, either by virtue of its office or at the data subject's request, impose upon
+the controller the obligation to disclose to the data subject all or part of the information mentioned in
+article 17.
+Art 20. If a specific system of prior authorization or notification of data processing has been provided for
+by virtue of an act prescribing the disclosure of the information referred to in article 17, §§ 3 and 6 to a
+special oversight committee as well as the entry into a public register of the information referred to in
+article 17 §§ 3 and 6, the duties laid down in articles 17, 18 and 19 are considered to have been complied
+with if all of this information is permanently kept at the disposal of the Commission for the Protection of
+Privacy.
+Article 17, § 9 is applicable accordingly.
+
+Chapter VI - Transfer of Personal Data to Countries outside the European
+Community
+Art 21. § 1. Personal data being processed after it has been transferred to a country outside the
+European Community may only be transferred if the country in question ensures an adequate level of
+protection and if the other provisions of this Act and its implementing decrees have been complied with.
+The adequacy of the level of protection is assessed in the light of all the circumstances surrounding a
+data transfer operation or a set of data transfer operations; particular consideration is given to the nature
+of the data, the purpose and duration of the proposed processing operation or operations, the country of
+origin and country of final destination, the rules of law, both general and sectoral, in force in the third
+party country in question and the professional rules and security measures which are complied with in
+that country.
+§ 2. Having received the opinion of the Commission for the Protection of Privacy and pursuant to article
+25 of Directive 95/46/EC on the protection of individuals with regard to the processing of personal data
+
+and on the free movement of such data, the King shall lay down the categories of processing operations
+
+19
+
+Unofficial Translation July 2013
+
+for which and the circumstances in which the transfer of personal data to countries outside the European
+Community is not authorized.
+Art 22. § 1. By way of derogation from article 21, a transfer or a set of transfers of personal data to a
+country outside the European Community which does not ensure an adequate level of protection may
+take place in one of the following cases:
+1° the data subject has unambiguously given his consent to the proposed transfer;
+2° the transfer is necessary for the performance of a contract between the data subject and the
+controller or the implementation of precontractual measures taken in response to the data subject's
+request;
+3° the transfer is necessary for the conclusion or performance of a contract concluded or to be concluded
+between the controller and a third party in the interest of the data subject;
+4° the transfer is necessary or legally required on important public interest grounds, or for the
+establishment, exercise or defence of legal claims;
+5° the transfer is necessary in order to protect the vital interests of the data subject;
+6° the transfer is made from a register which, according to acts or regulations, is intended to provide
+information to the public and which is open to consultation either by the public in general or by any
+person who can demonstrate a legitimate interest, to the extent that the conditions laid down in law for
+consultation are fulfilled in the case at hand.
+Without prejudice to the provisions of the previous paragraph, having received the opinion of the
+Commission for the Protection of Privacy, the King may authorize a transfer or a set of transfers of
+personal data to a country outside the European Community which does not ensure an adequate level of
+protection, if the controller ensures adequate safeguards with respect to the protection of privacy and
+fundamental rights and freedoms of individuals, and regarding the exercise of the corresponding rights;
+such safeguards can result from appropriate contractual clauses in particular.
+
+Chapter VII - The Commission for the Protection of Privacy
+Art 23. An independent Commission shall be established under the auspices of the Belgian House of
+Representatives, called "Commission for the Protection of Privacy", composed of members appointed by
+the House of Representatives, including the President and the Vice-President.
+The seat of the Commission shall be located in the administrative district of the Belgian capital of
+Brussels.
+Art 24. § 1. The Commission shall consist of eight permanent members, at least one of whom is a
+magistrate acting as President, and of eight substitute members, at least one of whom is a magistrate.
+20
+
+Unofficial Translation July 2013
+
+§ 2. The Commission shall consist of an equal number of Dutch native speakers and French native
+speakers.
+§ 3. […] (repealed)
+§ 4. Commissioners shall be elected for a renewable six-year term from lists submitted by the Council of
+Ministers, which proposes two candidates for each vacant mandate. They may be removed from office by
+the Belgian House of Representatives for shortcomings in the fulfilment of their duties or for insufficient
+respect for the dignity of their office.
+Commissioners must offer all possible guarantees with a view to the independent discharge of their
+functions and be experts in the field of data protection.
+The Commission shall be composed in such a manner that there is a socio-economic balance among its
+members.
+In addition to the President, the Commission's permanent and substitute members include at least one
+legal expert, one IT specialist, one private sector expert in personal data management and one public
+sector expert in personal data management.
+§ 5. To be appointed as permanent member or substitute member of the Commission and to maintain
+such mandate, candidates must meet the following conditions:
+1° have Belgian nationality;
+2° have civil and political rights;
+3° not be a member of the European Parliament, of the Federal Parliament nor of a Community or
+Regional Parliament.
+.
+§ 6. Within the limits of their competences, commissioners shall not be instructed by anyone. They
+cannot be removed from office for any opinion they have expressed or any action they have performed in
+the fulfilment of their duties.
+§ 7. Commissioners are not allowed to attend any deliberation on matters in which they, their relatives or
+in-laws to the fourth degree have a personal interest.
+Art 25. When a permanent member is excused, absent, or when his mandate becomes vacant, this
+commissioner is replaced by his substitute.
+The previous paragraph applies to the calculation of the quorum of attendance and to the vote referred
+to in article 28, paragraph two, if any. The Commission may meet in a group of permanent and/or
+substitute members.
+21
+
+Unofficial Translation July 2013
+
+Any permanent or substitute member whose mandate becomes vacant before the expiration of the sixyear term, shall be replaced by a permanent or substitute member to be elected for the remainder of the
+term, in accordance with the procedures referred to in article 24.
+Art 26. § 1. The President of the Commission fulfils his duties on a full-time basis. His Court of Law must
+transfer him by law. He is in charge of the day-to-day management of the Commission, supervises the
+secretariat, presides over the meetings of the Commission in its various sections or authorizes another
+member of the Commission to do so, and represents the Commission. He regularly reports to the
+Commission during its Board meetings.
+For the duration of his mandate, he must not exercise any other professional activity. The House that has
+appointed him may authorize derogations from this incompatibility, provided that they do not interfere
+with the proper fulfilment of his duties.
+His replacement as magistrate takes place through supernumerary appointment. If the President is the
+head of the Public Prosecution office or of any other court, he is replaced through the supernumerary
+appointment of a magistrate from the next lower rank.
+He shall enjoy a salary equal to that of the Deputy-Attorney General of the Supreme Court, as well as the
+corresponding pay raises and benefits.
+He shall return to his position at the moment his mandate ends.
+§ 2. The President is assisted in the discharge of his functions by a Vice-President appointed by the
+House of Representatives among the permanent members mentioned in article 24, § 1, who belongs to a
+native linguistic group different from that of the President.
+The Vice-President fulfils his duties on a full-time basis and the provisions of § 1, paragraphs two and
+four, are applicable to him.
+Section 1, paragraphs three and five are applicable to the Vice-President if he is a magistrate. Whenever
+the President has other engagements, the Vice-President takes over his duties.
+Art 27. Prior to accepting their mandate, the President, the Vice-President, the other permanent
+members and the substitute members take the following oath administered by the President of the House
+of Representatives: "I swear to fulfil the duties of my mission conscientiously and impartially."
+Art 28. The Commission for the Protection of Privacy must draw up its Rules of Procedure within a onemonth term following its establishment. The Rules shall be transmitted to the Federal Parliament.
+The Commission's deliberations are only legitimate when at least a majority of commissioners is present
+during its meetings. It takes decisions by absolute majority. In case of a tie, the President, or in his
+absence his substitute, has the casting vote.
+22
+
+Unofficial Translation July 2013
+
+Art 29. § 1. The Commission issues its opinion either of its own accord, or at the request of the
+Government, the Federal Parliament, the Community or Regional Governments, the Community or
+Regional Parliaments, the United Board or the United Assembly referred to in article 60 of the special Act
+of 12 January 1989 on the Brussels Institutions, or an oversight committee, on any matter relating to the
+application of the fundamental principles of the protection of privacy, in the context of this Act and any
+act containing provisions relating to the protection of privacy in relation to the processing of personal
+data.
+§ 2. Any request shall be submitted to the Commission by registered letter.
+Unless otherwise prescribed by law, the Commission shall issue its opinion within a period of sixty days
+following the communication of all necessary information to the Commission.
+§ 3. In cases requiring the Commission's opinion by virtue of an act, decree or ordinance, this
+requirement may be waived if the opinion was not issued within the period of time referred to in
+section 2. In cases requiring the Commission's opinion by a provision of this Act, except for article 11, the
+period of time referred to in § 2 is reduced to a minimum of fifteen days in cases involving special urgent
+grounds.
+§ 4. The Commission's opinions are supported with reasons.
+§ 5. The Commission shall communicate its opinion to the requesting public authority.
+A copy of the opinion is transmitted to the Minister of Justice.
+In cases requiring the Commission's opinion, it shall be published in the Belgian Official Journal along
+with the regulatory provision to which it relates.
+Art 30. § 1. The Commission may make recommendations either of its own accord, or at the request of
+the Government, the Federal Parliament, the Community or Regional Governments, the Community or
+Regional Parliaments, the United Board or the United Assembly referred to in article 60 of the special Act
+of 12 January 1989 on the Brussels Institutions, or an oversight committee, on any matter relating to the
+application of the fundamental principles of the protection of privacy, in the context of this Act and any
+laws containing provisions regarding the protection of privacy in relation to the processing of personal
+data.
+§ 2. Prior to making a recommendation to a specific controller, the Commission shall provide the
+controller with the opportunity to explain his point of view.
+23
+
+Unofficial Translation July 2013
+
+§ 3. The Commission's recommendations are supported with reasons. A copy of each recommendation is
+transmitted to the Minister of Justice.
+Art 31. § 1. Without prejudice to any claim brought before a court and unless otherwise prescribed by
+law, the Commission investigates the signed and dated complaints it receives. These complaints may
+concern its duties regarding the protection of privacy in relation to the processing of personal data, or
+other duties that have been conferred upon it by law.
+§ 2. Proceedings are regulated in the Rules of Procedure. These rules provide for the exercise of a right
+of defence.
+§ 3. The Commission examines the admissibility of the complaint. If the complaint is admissible, the
+Commission shall fulfil any mission of mediation it sees fit. If an amicable settlement between parties is
+reached respecting privacy, the Commission drafts a report explaining the solution that has been
+reached. If the parties concerned cannot settle, the Commission shall issue an opinion on the legitimacy
+of the complaint. It may decide to add recommendations for the controller to the opinion.
+§ 4. The Commission's decisions, opinions and recommendations are supported with reasons.
+§ 5. The Commission communicates its decision, opinion or recommendation to the complainant, the
+controller and any other party involved in the proceedings. A copy of the decision, opinion or
+recommendation is transmitted to the Minister of Justice.
+Art 31bis. § 1. The law establishes Sector Committees within the Commission. These committees are
+authorized to examine requests concerning the processing or the disclosure of data subject to special
+laws, and to come to a decision on the case in question within the legally determined boundaries.
+§ 2. Without prejudice to article 37 of the Act of 15 January 1990 establishing and organizing a
+
+Crossroads Bank of Social Security, every Sector Committee consists of three permanent or substitute
+members of the Commission, among them the President or a member appointed as President by the
+Commission, as well as three external members appointed by the House of Representatives in accordance
+with the conditions and further rules stipulated by the special legislation organizing the Committee in
+question. In case of a tie, the President has the casting vote.
+The highest-ranked civil servant of the managing institution for the sector in question may be invited to
+take part in the meetings of the Committee with an advisory vote.
+24
+
+Unofficial Translation July 2013
+
+§ 3. The Commission shall send the requests it has received concerning the processing or the
+communication of data regulated by special legislation, to the competent Sector Committee, if any such
+committee has been established, and to the managing institution of the sector concerned. To the extent
+the dossier is complete, the latter shall transmit a technical and legal opinion to the Committee within
+fifteen days of receipt of the request. Under the same reservations, the Committee shall decide within
+thirty days of receipt of the opinion or when the fifteen-day term has expired. Otherwise its decision shall
+be considered as corresponding with the technical and legal opinion of the managing institution.
+In case a request as described in the previous paragraph has to be treated for urgent reasons and within
+a shorter period of time than the one stipulated in that paragraph, the President shall transmit the
+request, the technical and legal opinion, and the draft decision to the members as soon as possible. The
+members are then requested to inform the President of their views concerning the draft decision within
+such period as determined by the President.
+The draft decision shall only be final if none of the members raise an objection with regard to the
+essential elements of the decree, within the period determined by the President. If necessary, the
+President shall convene an extraordinary meeting of the Sector Committee. In consultation with the
+highest-ranked civil servant of the institution concerned, the President shall verify the existence of urgent
+reasons justifying the application of the two previous paragraphs. Without prejudice to article 44 of the
+Act of 15 January 1990, the President of the Committee may suspend the examination of the dossier in
+order to transmit it to the Commission, which shall come to a decision within one month.
+§ 4. Any person assuming the Presidency of a section is entitled to a double attendance fee, except if
+that person is the President or the Vice-President of the Commission.
+§ 5. Without prejudice to article 41 of the Act of 15 January 1990, the Sector Committees are located at
+the Commission's main offices, where their meetings take place, except if the managing institution in
+question requests for the committee it works under to be located and to meet at its own offices.
+The Commission may grant this request, on the condition that the managing institution ensures in
+advance that the offices and office equipment necessary for the proper functioning of the committee and
+its Presidency, as well as a Secretary selected by the Presidency in consultation with the highest-ranked
+civil servant of the institution in question, and specialized staff, notably legal advisors and IT specialists,
+are made available to the President, to the extent that this is necessary for the proper fulfilment of the
+Sector Committee's duties. The President of the Sector Committee is responsible for staff performance for
+this Committee.
+
+25
+
+Unofficial Translation July 2013
+
+Art 32. § 1 The Commission may call upon the assistance of experts to carry out its functions. It may
+instruct one or more of its members, accompanied by an expert if necessary, to carry out on-site
+investigations.
+In that case commissioners shall have the status of Officers of Judicial Police – Assistant Officers of the
+Public Prosecutor.
+They may demand, among other things, the disclosure of any documents that may be of use for their
+investigation.
+They shall also have access to all places they may reasonably suppose to be the location for activities
+relating to the application of this Act.
+§ 2. Unless otherwise described by law, the Commission shall inform the Public Prosecutor of any offence
+it is aware of.
+The Commission shall submit an annual activity report to the Federal Parliament.
+This report, which is public, shall contain general information on the application of this Act and on the
+Commission's activities, as well as specific information on the application of articles 3, §§ 3 and 6, 13, 17
+and 18.
+§ 3. Without prejudice to the competence of regular courts and tribunals regarding the application of the
+general principles concerning the protection of privacy, the President of the Commission may submit any
+dispute relating to the application of this Act and its corresponding measures to the Court of First
+Instance.
+Art 32bis. § 1. With a view to the application of international treaties, the King may appoint the
+Commission for the Protection of Privacy by decree after deliberation in the Council of Ministers, to carry
+out, by virtue of those treaties, functions identical to those assigned to the Commission by this Act.
+§ 2. With a view to the application of international treaties the Commission for the Protection of Privacy is
+authorized to appoint some of its commissioners or members of staff as representatives for international
+authorities who are in charge of functions identical to those assigned to the Commission by this Act.
+The King shall establish specific rules relating to such representation, having received the opinion of the
+Commission for the Protection of Privacy.
+Art 33. Without prejudice to article 32, § 2, commissioners and members of staff, as well as experts
+whose assistance has been requested, are bound to secrecy regarding the nature of the facts, the actions
+or the information they have become aware of in the discharge of their functions.
+26
+
+Unofficial Translation July 2013
+
+Art 34. Without prejudice to the competence of the House of Representatives to examine and approve
+the detailed budget of the Commission for the Protection of Privacy, and to supervise its execution as well
+as to verify and approve detailed accounts, the credits for such budget shall be allocated from the
+general state budget.
+In addition to its budget proposal the Commission shall submit a summary management plan, the form
+and content of which it shall determine without prejudice to the observations of the House of
+Representatives; the annual activity report referred to in article 32, § 2, paragraph two, shall include a
+section describing the follow-up of such plan.
+[…] (repealed)
+Art 35. § 1. The Commission shall have a secretariat at its disposal, the level of staffing, the statute and
+the recruitment of which are prescribed by the House of Representatives, by the proposal of the
+Commission. The level of staffing shall allow for the possibility to hire employees with a fixed-term
+contract, to a restricted and reasonably justified extent.
+Secretariat staff shall be subject to the legal and statutory provisions applicable to appointed civil
+servants, unless the Commission, with a view to the proper functioning of its services, decides otherwise
+by an order approved by the House of Representatives.
+§ 2. Members of staff employed by the Commission at the time the Act of 26 February 2003 amending
+
+the Act of 8 December 1992 on the protection of privacy in relation to the processing of personal data
+and the Act of 15 January 1990 establishing and organizing a Crossroads Bank of Social Security, which
+modifies the status of the Commission for the Protection of Privacy and increases its competences, come
+into force, shall retain their function and statute until the measures taken pursuant to § 1 are approved.
+If the civil servants, as a result of the designations in accordance with these measures, are not
+transferred, they shall return by law to the services of the Federal Public Service of Justice, with
+according statutes applicable.
+Art 36. The President shall be entitled to a remuneration equal to the salary of an investigating
+magistrate with nine years of seniority in a Court having jurisdiction over a district of at least 500,000
+inhabitants.
+The substitute President, the substitute Vice-President and the permanent or substitute members shall be
+entitled to an attendance fee that shall amount to EUR 223.18 (index 1.2682). The amount shall be
+linked to the evolution of the consumer price index.
+They shall be entitled to allowances for travel and accommodation in accordance with the provisions
+applicable to the staff of the ministries. Any person who does not belong to the administration or whose
+grade has not been ranked shall be regarded as a civil servant of rank 13.
+27
+
+Unofficial Translation July 2013
+
+The President shall be regarded as a civil servant of rank 17.
+Experts whose assistance has been demanded by the Commission or who assist commissioners in their
+on-site investigations, can be remunerated in the manner determined by the Minister of Justice in
+deliberation with the Ministers of the Civil Service and the Budget.
+The remuneration referred to in paragraph one shall be linked to the mobility regulations applicable to
+the salary of civil servants on active duty.
+
+Chapter VIIbis - Sector Committees
+Art 36bis. Within the Commission for the Protection of Privacy a Sector Committee for the Federal
+Government shall be established within the meaning of article 31bis. The Federal Public Service for
+Information and Communication Technology shall be considered as the managing institution for the
+Sector Committee for the Federal Government referred to in article 31bis.
+By decree after deliberation in the Council of Ministers the King shall determine the conditions and further
+rules with which the three external members of the Sector Committee for the Federal Government must
+comply.
+Except for cases determined by the King, any electronic disclosure of personal data by a Federal Public
+Service or a public institution with a legal personality that is under the jurisdiction of the Federal
+Government, shall require an authorization of principle by this Sector Committee, unless the disclosure is
+already subject to an authorization of principle of another Sector Committee established within the
+Commission for the Protection of Privacy.
+Prior to granting its authorization, the Sector Committee for the Federal Government shall check whether
+the disclosure complies with legal and regulatory provisions.
+Once the authorizations granted by the Sector Committee for the Federal Government have become final,
+they shall be public. They shall be published on the website of the Commission for the Protection of
+Privacy.
+The highest-ranked civil servant of the Federal Public Service or of the public institution with a legal
+personality that is under the jurisdiction the Federal Government, or a member of staff designated by
+him, can take part in the meetings of the Sector Committee for the Federal Government with an advisory
+vote.
+
+Chapter VIII – Penalties
+
+28
+
+Unofficial Translation July 2013
+
+Art 37. Any commissioner or member of staff of the Commission for the Protection of Privacy or any
+expert who has violated the obligation of secrecy referred to in article 33 shall be punished with a fine of
+two hundred euros to ten thousand euros.
+Art 38. Any controller, his representative in Belgium, agent or assignee who does not comply with the
+obligations laid down in articles 15 or 16, § 1 shall be punished with a fine of one hundred euros to
+twenty thousand euros.
+Art 39. A fine of one hundred euros to one hundred thousand euros shall be imposed on:
+1° any controller, his representative in Belgium, agent or assignee processing personal data in violation of
+the conditions imposed by article 4 § 1;
+2° any controller, his representative in Belgium, agent or assignee processing personal data in cases
+other than those in article 5;
+3° any controller, his representative in Belgium, agent or assignee processing personal data in violation of
+articles 6, 7 and 8;
+4° any controller, his representative in Belgium, agent or assignee having failed to comply with the duties
+imposed by article 9;
+5° any controller, his representative in Belgium, agent or assignee having failed to communicate the
+information referred to in article 10, § 1 within forty-five days of receipt of the request, or who knowingly
+communicates incorrect or incomplete information;
+6° any person who resorts to acts of violence, force, threats, donations or promises with the purpose of
+forcing another person into disclosing information that was obtained through the exercise of the right
+defined in article 10, § 1, or with the purpose of obtaining the other person's consent for the processing
+of personal data relating to that person;
+7° any controller, his representative in Belgium, agent or assignee having started, managed, continued to
+manage or terminated the automatic processing of personal data without meeting the requirements of
+article 17;
+8° any controller, his representative in Belgium, agent or assignee having communicated incomplete or
+incorrect information in the notifications imposed by article 17;
+9° […] (repealed)
+10° any controller, his representative in Belgium, agent or assignee who, in violation of article 19, refuses
+to communicate to the Commission information relating to a non-automatic processing operation of
+personal data that forms part of a filing system or that is intended to form part thereof;
+11° […] (repealed)
+
+29
+
+Unofficial Translation July 2013
+
+12° any person who transfers personal data or has personal data transferred to a country outside the
+European Community included in the list referred to in article 21, § 2, or any person who authorizes such
+transfers despite the requirements of article 22;
+13° any person who prevents the Commission, its commissioners or its experts from proceeding with the
+investigation referred to in article 32.
+Art 40. Upon conviction for any of the offences described in articles 38 or 39, the court can order the
+entire or partial publication of the judgment in one or more newspapers in the manner it shall determine,
+and at the expense of the convicted person.
+Art 41. § 1. Upon conviction for any of the offences described in article 39, the judge can pronounce the
+seizure of the media containing the personal data to which the offence relates, such as manual filing
+systems, magnetic discs or magnetic tapes, except for computers or any other equipment, or he can
+order the erasure of the data.
+Seizure or erasure can also be ordered even if the media containing the personal data do not belong to
+the person convicted.
+Article 8, § 1 of the Act of 29 June 1964 on suspension, postponement and probation, applies neither to
+the seizure, nor to the erasure ordered in accordance with paragraphs one and two.
+The objects seized shall be destroyed when the judgment has become final.
+§ 2. Without prejudice to the revocation of competences laid down in particular provisions, the Court can,
+upon conviction for an offence mentioned in article 39, impose a prohibition to manage any processing of
+personal data, directly or through an intermediary, for a maximum of two years.
+§ 3. Any violation of the prohibition laid down in § 2 or any recidivism relating to the offences referred to
+in articles 37, 38 and 39, shall be punished with a three-month to two-year imprisonment and/or with a
+fine of one hundred euros to one hundred thousand euros.
+Art 42. The controller or his representative in Belgium shall be liable under civil law for the payment of
+the fines incurred by his agent or assignee.
+Art 43. All provisions of Book I of the Belgian Criminal Code, including Chapter VII and article 85, apply
+to the offences described by this Act or its implementing decrees.
+
+Chapter IX - Final provisions
+30
+
+Unofficial Translation July 2013
+
+Art 44. By decree after deliberation in the Council of Ministers, having received the opinion of the
+Commission for the Protection of Privacy, the King can establish further rules with regard to the
+application of the provisions of this Act, in order to take into account the specifics of different sectors.
+Professional associations and other organizations representing categories of controllers who have drawn
+up draft codes of conduct or who intend to modify or extend existing codes of conduct, can submit these
+codes to the Commission for the Protection of Privacy.
+More specifically, the Commission shall verify that the drafts submitted to it are in accordance with this
+Act and its implementing decrees, and investigate the points of view of the parties concerned or of their
+representatives to the extent that it is practical.
+Art 45. The King can appoint the public authorities that shall order, in times of war or in times that are
+regarded as equivalent thereto in accordance with article 7 of the Act of 12 May 1927 on Military Claims,
+as well as during the occupation of the Belgian territory by the enemy, the destruction of the data
+processed, or order the public authorities to destroy the data themselves.
+The King can also determine the amounts of the compensation for the destruction referred to in the
+previous paragraph.
+Any person violating or making unlawful use of the decrees implementing the first paragraph, or abusing
+the right of destruction laid down in it, shall be punished with a fine of one hundred euros to one
+hundred thousand euros.
+Art 46. In article 580, 14° of the Belgian Code of Civil Proceedings, for "and those referred to in article
+587, 3°" there is substituted "and those referred to in article 14 of the Act of… on the protection of
+privacy in relation to the processing of personal data.".
+Art 47. In article 587 of this Code the following amendments have been made:
+(…)
+Art 48. In article 5, paragraph two of the Act of 8 August 1983 establishing a national register of natural
+
+persons, amended by the Acts of 15 January 1990 and 19 July 1991, for "having received the opinion of
+the Commission referred to in article 12" there is substituted "having received the opinion of the
+Commission for the Protection of Privacy established by the Act of … on the protection of privacy with
+regard to the processing of personal data."
+Art 49. In the Belgian Act of 15 January 1990 establishing and organizing a Crossroads Bank of Social
+
+Security the following is amended:
+(…)
+31
+
+Unofficial Translation July 2013
+
+Art 50. Article 25 of the Act coordinated on 16 March 1968 on the road traffic police, cancelled by the
+Act of 9 July 1976 and reintroduced by the Act of 18 July 1990, is amended as follows:
+(…)
+Art 51. In the Act of 12 June 1991 on consumer credit, the following amendments have been made:
+(…)
+Art 52. Every provision of this Act shall enter into force on the date established by the King and at the
+latest on the first day of the twenty-fourth month following the publication of this Act in the Belgian
+Official Journal.
+The King shall determine the period of time for the person keeping a filing system to comply with the
+provisions of this Act for data processing operations in place at the moment the provisions of the Act
+enter into force.
+
+32
+
+

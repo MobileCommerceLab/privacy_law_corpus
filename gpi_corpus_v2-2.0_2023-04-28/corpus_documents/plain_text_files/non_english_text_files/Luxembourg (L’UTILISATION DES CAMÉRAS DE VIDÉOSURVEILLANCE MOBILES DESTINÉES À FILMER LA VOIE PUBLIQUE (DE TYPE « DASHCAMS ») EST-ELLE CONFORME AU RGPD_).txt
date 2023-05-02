@@ -1,0 +1,115 @@
+www.covid19.lu
+
+Retrouvez des informations officielles sur les mesures et recommandations sanitaires, des informa‐
+tions pour voyageurs, des gestes de protection, informations sectorielles et des FAQ thématiques.
+
+Commission nationale
+pour la protection des données
+Grand-Duché de Luxembourg
+
+CNPD
+
+Particuliers
+
+Professionnels
+
+Avis
+
+Décisions
+
+Dossiers thématiques
+
+Plus
+
+Dossiers thématiques
+
+"Dashcams"
+
+L’UTILISATION DES CAMÉRAS DE VIDÉOSURVEILLANCE MOBILES DESTINÉES À FILMER LA
+VOIE PUBLIQUE (DE TYPE « DASHCAMS ») EST-ELLE CONFORME AU RGPD ?
+
+La Commission nationale pour la protection des données se voit régulièrement saisi de demandes de renseignements relatives à des caméras de vidéosurveillance mobiles
+installées dans les voitures de particuliers, sur des vélos, des motos, ou encore fixées sur les casques de cyclistes, de motocyclistes… (ces caméras ne sont toutefois pas à
+confondre avec les dispositifs installés dans les voitures aidant le conducteur à se garer et qui n’enregistrent pas les images). À ce titre, la CNPD tient à rappeler qu’elle estime
+que l’utilisation de telles vidéo-caméras (parfois appelées « dashcams ») qui filment la voie publique et qui sont susceptibles de capter des images de personnes reconnaissables est en pratique très diﬀicilement réconciliable avec les obligations issues du règlement général pour la protection des données (ci-après le « RGPD »).
+Tout d’abord, le captage et l’enregistrement par de tels dispositifs d’images de personnes identifiables ou de véhicules dont la plaque minéralogique apparaît lisiblement
+constituent un traitement de données à caractère personnel au sens du RGPD.
+En principe, les traitements de données eﬀectués par une personne dans le cadre d’une activité strictement personnelle ou domestique ne rentrent pas dans le champ d’application du RGPD (article 2 lettre (2), c) du RGPD). La Cour de justice de l’Union européenne considère que cette exemption doit être interprétée de manière stricte. Elle a
+d’ailleurs précisé les contours de cette exemption personnelle et domestique lors de l’aﬀaire Ryneš du 11 décembre 2014.
+Dans cette aﬀaire, la Cour a ainsi considéré que l’exception prévue pour les traitements concernant l’exercice d’activités strictement personnelles ou domestiques ne s’applique pas à un système de vidéosurveillance, installé par une personne physique sur sa maison familiale, qui s’étend à l’espace public ou au terrain d'un voisin et qui, de ce
+fait, est dirigé en dehors de la sphère privée de la personne traitant les données. Un tel traitement tombe donc sous le champ d’application du RGPD.
+Dès lors, cette exemption n’est pas susceptible de s’appliquer à l’utilisation des « dashcams » car celles-ci sont susceptibles de filmer la voie publique. Le RGPD aura donc vocation à s’appliquer lors de l’utilisation de telles caméras.
+Il convient alors d’analyser si les traitements de données eﬀectués par les « dashcams » sont conformes au RGPD.
+Tout traitement de données à caractère personnel n’est licite que si au moins une des conditions visées à l'article 6 du RGPD est remplie. La CNPD estime qu’en pratique l’utilisateur d’une « dascham » pourra diﬀicilement justifier qu’une des conditions listées à l’article précité constitue une base de licéité appropriée dans un tel cas. En eﬀet, il
+n’existe par exemple, à ce jour, aucune loi applicable au Luxembourg qui rendrait nécessaire l’utilisation de « dashcams ». Cependant, le traitement pourrait être licite sur
+base de l’intérêt légitime de l’utilisateur d’une « dashcam » si les enregistrements découlant de l’utilisation d’une « dashcam » sont limités à de courtes durées, par exemple
+lorsqu’ils ne dépassent pas quelques minutes. Dans un tel cas, la CNPD pourrait estimer que l’intérêt légitime de l’utilisateur d’une « dashcam » prévaut sur les intérêts ou les
+libertés et droits fondamentaux des personnes concernées. De plus et bien que la condition de licéité puisse être remplie dans certains cas, le responsable du traitement devra encore respecter les principes énoncés ci-après.
+Un traitement de données à caractère personnel n’est encore admis que si les données sont collectées pour des finalités déterminées, explicites et légitimes et ne sont pas
+traitées ultérieurement d’une manière incompatible avec ces finalités. Les images issues de ces « dashcams » ne pourraient donc pas être réutilisées pour des finalités incompatibles (par exemple, elles ne pourraient pas être publiées sur internet si la finalité initiale était de se ménager une preuve en cas d’accident).
+Outre ces principes, le responsable du traitement doit également respecter le principe de transparence (cf. articles 12 et 13 du RGPD) qui implique que les personnes concernées soient informées du traitement de données à caractère personnel qu’il met en œuvre. Dans le cas présent et conformément à ce principe, l’utilisateur d’une « dashcam »
+devra, en tant que responsable du traitement des images, informer les usagers de la voie publique du traitement qu’il met en œuvre. Toutefois, la CNPD considère que le respect d’un tel principe s’avère diﬀicile à respecter en pratique. En eﬀet, la Commission se demande comment l’utilisateur d’une « dashcam » pourrait matériellement respecter une telle obligation d’information à l’égard des usagers de la route.
+Cette interprétation se recoupe par ailleurs avec ce qui existe dans d’autres ordres juridiques européens, comme par exemple en Allemagne, où la jurisprudence sur ce sujet
+est abondante. A titre d’exemple, la Cour fédérale a été amenée à conclure que l'enregistrement permanent et sans justification du trafic est incompatible avec les règles de
+la loi fédérale sur la protection des données[1].
+De même qu’il y a lieu de relever que l’autorité de protection des données autrichienne (« Datenschutzbehörde ») a imposé, dans une décision du 27 septembre 2018, une
+sanction administrative d’un montant de 300 euros à une personne qui avait installé des « dashcams » dans son véhicule, car celle-ci ne justifiait pas sur quel critère de licéité
+de l’article 6 (1) du RGPD le traitement se fondait (l’autorité ajoute également qu’elle ne voit pas quel critère de licéité serait susceptible de s’appliquer)[2], contrevenait aux
+principes énumérés à l’article 5 du RGPD (principes relatifs au traitement des données à caractère personnel)[3] et ne respectait pas le droit à l’information ( article 13 du
+RGPD)[4].
+Compte tenu des développements qui précèdent et en l’absence d’une jurisprudence luxembourgeoise qui viendrait contredire ces éléments, la Commission nationale considère que l’usage d’une « dashcam » au sein de de l’espace public au Luxembourg s’avère délicat et problématique, notamment d’un point de vue du respect du principe de
+transparence énoncé ci-avant.
+En outre, la CNPD tient à souligner que le respect du droit à l’image des personnes susceptibles d’être filmées serait également problématique lors de l’utilisation de « dashcams ». Pour plus de précisions concernant ce point, la Commission renvoie à son dossier thématique sur le droit à l'image.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------[1] « Die permanente und anlasslose Aufzeichnung des Verkehrsgeschehens ist mit den datenschutzrechtlichen Regelungen des Bundesdatenschutz-gesetzes nicht vereinbar »
+(Bundesgerichtshof, 15.05.2018 - VI ZR 233/17). Traduction non oﬀicielle en français.
+[2] « Eine die Rechtmäßigkeit dieser Datenverarbeitung tragende Rechtsgrundlage iSd Art 6 Abs. 1 DSGVO ist nicht ersichtlich und wurde vom Beschuldigten auch nicht vorgebracht. » (point III.7. de la décision du 27 septembre 2018)
+[3] « Da die vom Aufnahmebereich der gegenständlichen Dash-Cams erfassten Verkehrsteilnehmer insbesondere dann, wenn kein Unfallgeschehen vorliegt, vernünftigerweise
+nicht damit rechnen müssen, aufgenommen zu werden, verstößt der Betrieb der Bildaufnahme gegen die in Art 5 normierten Grundsätze » (point III.7. de la décision du 27 septembre 2018)
+[4] « Dies ist im vorliegenden Fall nicht gegeben, da auf dem Kraftfahrzeug keinerlei Kennzeichnung angebracht wurde, welche auf die vom Fahrzeuginneren ausgehende Bildaufnahme hinweist. » (point III.8 de la décision du 27 septembre 2018)
+« In Anwendung der Erfordernisse und Verpflichtungen der Art. 5 und 6 DSGVO sowie des § 13 DSG auf den vorliegenden Sachverhalt kommt die erkennende Behörde zum Ergebnis, dass der Verantwortliche die verfahrensgegenständliche Bildaufzeichnung nicht betreiben hätte dürfen » (point III.9. de la décision du 27 septembre 2018)
+
+Dernière mise à jour 18/11/2019
+
+CNPD
+PARTICULIERS
+
+Actualités
+
+Publications
+
+Formulaires
+
+Législation
+
+Commission nationale
+pour la protection des données
+15, Boulevard du Jazz
+L-4370 Belvaux
+
+Oﬀre(s) d’emploi
+
+PROFESSIONNELS
+
+Tél. : (+352) 26 10 60 -1
+
+AVIS
+DÉCISIONS
+DOSSIERS THÉMATIQUES
+
+Contact
+
+Plan du site
+
+Liens
+
+Glossaire
+
+A propos du site
+
+Accessibilité
+
+Protection des données
+
+Aspects légaux
+
+

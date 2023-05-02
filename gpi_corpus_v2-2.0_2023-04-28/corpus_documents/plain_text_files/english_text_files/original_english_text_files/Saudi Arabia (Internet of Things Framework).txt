@@ -1,0 +1,305 @@
+INTERNET OF THINGS (IoT)
+REGULATORY FRAMEWORK
+
+September 2019
+Disclaimer: This document is a draft translation of its Arabic version. In case
+of any unforeseen discrepancies, the Arabic document prevails
+
+www.citc.gov.sa
+
+Contents
+
+1. INTRODUCTION ....................................................................................................................................................................... 3
+
+2. DEFINITIONS ............................................................................................................................................................................. 4
+
+3. IOT SERVICE PROVISIONING REQUIREMENTS......................................................................................... 5
+
+4. SPECTRUM ................................................................................................................................................................................ 6
+
+5. IOT EQUIPMENT ..................................................................................................................................................................... 7
+
+6. IOT IDENTIFIERS .................................................................................................................................................................... 7
+
+7. DATA MANAGEMENT ........................................................................................................................................................ 8
+
+8. GENERAL REGULATIONS .............................................................................................................................................. 8
+
+2
+
+1. INTRODUCTION
+The Communications and Information Technology Commission
+(CITC) is mandated, in accordance with the Telecommunications Act,
+Telecom
+
+Act
+
+Bylaw
+
+and
+
+CITC
+
+Ordinance;
+
+to
+
+regulate
+
+the
+
+telecommunications and IT sector in the Kingdom, this includes
+Internet of Things (IoT) services provisioning in the Kingdom.
+Based on its role in enabling ICT technologies and enabling IoT
+implementations in the Kingdom on a wide range with the envision of
+making the Kingdom a leading country in developing of IoT services,
+the CITC published this document to regulate all IoT services and use
+cases.
+Internet of Things (IoT) refers to enabling virtual and physical things
+to exchange data with each other in order to accomplish specific
+tasks through the internet. IoT applications has wide range usages
+such as smart homes, smart cities, tracking, smart metering and
+connected cars, etc. IoT can be used in different sectors such as
+health, agriculture, utility and transportation.
+Machine-
+
+to-
+
+Machine
+
+(M2M)
+
+applications
+
+enables
+
+the
+
+communications between two or more machines without human
+interactions.
+
+They can use Public Mobile Networks, Public Fixed
+
+Networks and satellites. Examples of M2M includes point of sales and
+ATM machines. And for the purpose of this document, IoT will be used
+to cover M2M.
+
+3
+
+2. DEFINITIONS
+The words and expressions defined in the CITC regulations shall have the same meaning when
+used in this regulatory framework. The following words and expressions shall have the
+meaning assigned to them below.
+Internet of Things (IoT): Communication of multiple devices and machines connected to the
+internet through multiple networks.
+License- Exempt Frequency: frequency or frequency bands that can be used on shared basis
+without a frequency license from the CITC, and in accordance with the conditions, it defines
+for such usage.
+Things: Physical and virtual objects that are capable of being identified and communicated
+with each other.
+License- Exempt IoT Services: IoT services provided through LPWAN using license- exempt
+frequencies.
+Low Power Wide Area Networks (LPWAN): wireless wide area network technologies that
+interconnect low bandwidth, battery powered devices with low bit rates.
+Indoor: Areas located within personal premises that are used for noncommercial purposes
+(Houses, private compounds, universities, etc.).
+Outdoor: Areas located outside of personal premises (streets, public areas, parks, etc.).
+
+4
+
+3. IoT Service Provisioning Requirements
+IoT services can be provided using wired and wireless networks. They can be classified
+according to the networks used into:
+•
+
+IoT services provided through mobile networks.
+
+•
+
+IoT services provided through fixed networks
+
+•
+
+IoT services provided using license- exempt frequencies.
+
+The main requirements for providing IoT services are as follow:
+A. IoT services through mobile networks can be provided by licensed service providers
+from the CITC, such as Facilities Based Unified Licensees, MVNOs, IoT- VNOs, or any
+other licenses defined by CITC. The conditions and commitments for the above
+licenses are available through the CITC website (www.citc.gov.sa).
+B. IoT services through fixed networks can be provided by Fixed Facilities Based Licensees
+provided that the offered services comply with the licenses scope.
+C. IoT services can be provided using license- exempt frequencies according to the
+following:
+o
+
+IoT services using license- exempt frequencies can be provided commercially by
+service providers who have "providing IoT services using license- exempt
+frequencies" license from CITC. The Guidelines and Rules for class licenses Type
+(B) to provide Internet of Things (IoT) can be found in CITC’s website.
+
+o
+
+Service providers having the Facilities Based Unified License and Fixed Facility
+Based license from the CITC can provide this type of services without the
+condition of having "providing IoT services using license- exempt frequencies"
+license from CITC, provided the compliance with the technical security
+requirements.
+
+o
+
+IoT networks that use license- exempt frequencies can be built and used indoor for
+non-commercial purposes without the condition of having "providing IoT services
+using license- exempt frequencies" license from CITC provided the compliance
+with the following conditions:
+i. Comply with the data security, privacy and protection requirements.
+ii. Comply with the Technical Specification numbered (RI114), which is
+available through CITC website (www.citc.gov.sa).
+
+5
+
+iii. The importation of the equipment and implementation of the IoT
+networks must be done by the owners of those buildings and properties.
+o
+
+IoT networks that use license- exempt frequencies can only be built outdoor by
+licensees having "providing IoT services using license- exempt frequencies"
+license from CITC, or service providers that have the Facilities Based Unified
+License from the CITC, or licensed fixed facility based service providers.
+
+4. Spectrum
+IoT can be provided using the mobile networks or fixed networks through the licensed facility
+based operator using their allocated frequency bands to offer their fixed and mobile services.
+The CITC Technical Specifications numbered (RI114) includes all the frequency bands that can
+be used for license- exempt LPWANs .
+It is important to note here that the license- exempt LPWANs use shared spectrum with other
+users, thus, there is no frequency license required from the CITC, however, it is important to
+comply with the following:
+1.
+
+The frequency bands can only be used as a secondary use, thus, the networks
+operating in these bands must not cause any interference to the current or
+future primary users. The users of these networks must not ask any protection
+from interference caused by the current or future primary users.
+
+2.
+
+The user of these bands shall stop using them upon CITC request, and within the
+time frame the CITC specifies.
+
+3.
+
+Comply with any future updates to the frequency national plan and the related
+technical specifications.
+
+6
+
+5. IoT Equipment
+The following requirements must be complied with regarding IoT equipment:
+•
+
+All equipment must comply with the Technical Specifications published on the CITC
+website (www.citc.gov.sa) with regard to radio, EMC and safety.
+
+•
+
+The IoT equipment must be approved by CITC and obtain Certificate of Conformity
+before applying for Customs Clearance permission. The Equipment Approval and
+Customs Clearance requirements and procedures are detailed in the "Regulations for
+Importation and Licensing of Telecommunications and Information Technology
+Equipment" document which is published on the CITC website (www.citc.gov.sa).
+
+•
+
+Since there are different IoT technologies and standards, the interoperability between
+IoT networks and equipment must be considered by the user and the service provider
+so that any user, if required, can transfer and use his equipment among service
+providers using the same type of technologies and frequency bands.
+
+•
+
+The IoT equipment shall have the capability of modifying the credentials by the user
+and reset to the factory settings.
+
+•
+
+All SIM cards used with the IoT devices, that are imported to the Kingdom, must be
+issued by one of the local licensed providers.
+
+6. IoT Identifiers
+An identifier is a group of numbers or symbols that uniquely identify an object to simplify the
+communications with. Communication identifiers are used to identify end points (source,
+destination). Currently, the most common communication identifiers used in IoT are numbers
+and IP addresses. Among the promising identifiers in this area is the Digital Object
+Architecture (DOA).
+With regard to numbers, IoT will be assigned numbers from the machine- to- machine (M2M)
+numbering range as per the National Numbering Plan. For IP addresses, IPv4 and IPv6 can be
+used, however, it is very recommended to use IPv6 as it provides many technical benefits in
+addition to the larger addressing capacity.
+
+7
+
+7. Data Management
+IoT service licensed providers and Indoor IoT network implementers must comply with the
+following:
+•
+
+Host all servers used in providing IoT services, and store all data inside KSA.
+
+•
+
+Comply with all the existing or future published laws, regulations and requirements
+issued by CITC or other authorities in the Kingdom concerning data management
+including security, privacy and protection of IoT users data.
+
+Additionally, the IoT service providers must provide the technical capabilities in the IoT
+devices and machines to save and maintain the data to make it possible to be reviewed
+for a duration not less than 12 months or any other duration specified by CITC.
+
+8. GENERAL REGULATIONS
+In addition to the above requirements, IoT service providers must comply with the
+following:
+•
+
+IoT service providers should make end users aware of:
+
+
+The importance of the network and data security and provide the user
+with recommendation to protect the data.
+
+
+
+How to effectively use IoT networks and solutions, explaining the
+characteristics and the quality of service of each technology.
+
+
+
+The risk of interference from other users of shared bands, with possible
+detrimental effect on quality of service.
+
+•
+
+All IoT network components, devices and host of the data shall be maintained
+inside the kingdom.
+
+•
+
+Must Comply with the Wireless Local Area Networks Regulations (WLAN/WiFi).
+
+•
+
+IoT service providers must provide CITC with reports in regular basis including
+any information and data related to the services provided by them once
+
+8
+
+requested. CITC will define the nature of those reports and the data required
+and the time line to provide these reports.
+•
+
+Service providers must adhere to all CITC regulations. For further information,
+reference should be made to the CITC website (www.citc.gov.sa)
+
+9
+
+

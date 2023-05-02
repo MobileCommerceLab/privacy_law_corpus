@@ -1,0 +1,383 @@
+This legislation is administered by the Office of the Privacy Commissioner. For more information please see:
+Website: https://privacy.org.nz
+Contact phone: 0800 803 909
+Contact address: PO Box 10094, Wellington 6143
+
+Justice Sector Unique Identifier Code 2020
+
+This Code of Practice is made under section 32 of the Privacy Act 2020 by the Privacy
+Commissioner.
+I, JOHN EDWARDS, Privacy Commissioner, having given notice in accordance with section
+33(3) of the Privacy Act 2020 of my intention to issue a code of practice and having satisfied
+the other requirements of the subsection, now issue under section 32 of the Act the Justice
+Sector Unique Identifier Code 2020.
+Issued by me at Wellington on 28 October 2020
+The SEAL of the
+Privacy Commissioner was
+affixed to this code of practice
+by the Privacy Commissioner
+
+)
+)
+)
+)
+
+[L.S.]
+
+John Edwards
+Privacy Commissioner
+Contents
+1
+2
+3
+4
+5
+
+Title
+Commencement
+Interpretation
+Application of code and subrules
+Rule modifying the application of privacy principle 13
+
+Page
+2
+2
+2
+2
+3
+1
+
+Justice Sector Unique Identifier Code 2020
+
+6
+
+Revocation
+
+4
+
+Schedule
+
+5
+
+Code of Practice
+1
+
+Title
+This code of practice is the Justice Sector Unique Identifier Code 2020.
+
+2
+
+Commencement
+This code comes into force on 1 December 2020.
+
+3
+
+Interpretation
+
+(1)
+
+In this code,—
+justice sector agency means an agency referred to in clause 4(1)
+offence means a category 1, 2, 3 or 4 offence, as defined in sections 5 and 6 of the
+Criminal Procedure Act 2011, or an infringement offence for which an infringement
+notice has been issued, as defined in section 2 of the Summary Proceedings Act 1957,
+and includes any action in respect of which a warrant for imprisonment, order for
+community work, or warrant to arrest has been imposed against an individual by a
+New Zealand court
+rule means the rule set out in clause 5
+the Act means the Privacy Act 2020.
+
+(2)
+
+A term or expression defined in the Act and used, but not defined, in this code has the
+same meaning as in the Act.
+
+4
+
+Application of code and subrules
+
+(1)
+
+This code applies to the following agencies and to agents exercising any of the
+functions of any such agency under delegated or other authority:
+
+(2)
+
+2
+
+(a)
+
+Department of Corrections; or
+
+(b)
+
+Ministry of Justice; or
+
+(c)
+
+Ministry of Social Development; or
+
+(d)
+
+Police; or
+
+(e)
+
+Registrar of Motor Vehicles; or
+
+(f)
+
+Road User Charges Collector; or
+
+(g)
+
+Waka Kotahi NZ Transport Agency.
+
+Subrules 13(1), (2)(a), (4) and (5)(a) do not apply to unique identifiers assigned
+before 1 July 1993.
+
+Justice Sector Unique Identifier Code 2020
+
+(3)
+
+Subrules 13(2)(b) and (3) do not apply to unique identifiers assigned before 30 June
+1998.
+
+(4)
+
+However, subrule 13(2) applies to the assignment of a unique identifier—
+(a)
+
+on or after 1 July 1993 under subrule 13(2)(a); and
+
+(b)
+
+on or after 30 June 1998 under subrule 13(2)(b);
+
+even if the unique identifier assigned is the same as that assigned by another agency
+before that date.
+5
+
+Rule modifying the application of information privacy principle 13
+Information privacy principle 13 is modified in accordance with the Act by the
+following rule which applies to the justice sector agencies referred to in clause 4(1)—
+Rule 13
+Unique Identifiers
+
+(1)
+
+A justice sector agency (A) may assign a unique identifier to an individual for use in
+its operations only if that identifier is necessary to enable A to carry out 1 or more of
+its functions efficiently.
+
+(2)
+
+A may not assign to an individual a unique identifier that, to A’s knowledge, is the
+same unique identifier as has been assigned to that individual by another justice sector
+agency (B), unless—
+(a)
+
+the unique identifier is to be used by A for statistical or research purposes and
+no other purpose; or
+
+(b)
+
+subrule (3) applies.
+
+(3)
+
+A may assign to an individual being processed through the justice system a unique
+identifier previously assigned by B in the circumstances set out in Schedule 1.
+
+(4)
+
+To avoid doubt, A does not assign a unique identifier to an individual under subrule
+(1) by simply recording a unique identifier assigned to the individual by B for the sole
+purpose of communicating with B about the individual.
+
+(5)
+
+A justice sector agency that assigns unique identifiers to individuals must take any
+steps that are reasonable to ensure that—
+
+(6)
+
+(a)
+
+a unique identifier is assigned only to an individual whose identity is clearly
+established; and
+
+(b)
+
+the risk of misuse of a unique identifier by any person is minimised (for
+example, by showing truncated account numbers on receipts or in
+correspondence).
+
+A justice sector agency may not require an individual to disclose any unique identifier
+assigned to that individual unless the disclosure is for one of the purposes in
+connection with which that unique identifier was assigned or is for a purpose that is
+directly related to one of those purposes.
+
+3
+
+Justice Sector Unique Identifier Code 2020
+
+6
+
+Revocation
+The Justice Sector Unique Identifier Code 1998 is revoked.
+
+4
+
+Justice Sector Unique Identifier Code 2020
+
+Schedule 1
+
+Agency originally
+assigning the
+unique identifier
+
+Circumstances in which
+unique identifier is
+originally assigned
+
+Circumstances in which unique
+identifier may be re-assigned by
+other justice sector agencies
+
+Police
+
+Assigned to an individual as a
+result of the alleged
+commission by that
+individual of an offence
+
+Ministry of Justice – may assign for
+the purposes of management of
+proceedings, enforcement of fines and
+other orders, and communication with
+other law enforcement agencies
+where this is necessary for the
+efficient conduct of proceedings,
+including the administration of
+resulting sentences and the
+enforcement of fines and other orders.
+Department of Corrections - may
+assign for the purposes of providing
+information on the imposition of
+sentences, and the efficient
+administration of sentences and other
+orders, and the management of
+offenders subject to such sentences
+and orders.
+Waka Kotahi NZ Transport
+Agency – may assign for the
+purposes of
+(a) recording notifications from
+Police of individuals forbidden to
+drive, and advising Police when those
+individuals have had valid licences
+issued; and
+(b) recording offence notifications
+from Police of individuals where
+identification was not confirmed, and
+advising Police of valid licence
+details when so determined.
+Ministry of Social Development –
+may assign for the purposes of
+(a) the management and review of
+family group conferences under Part
+4 of the Oranga Tamariki Act 1989
+(Children’s and Young People’s
+Well-being Act 1989); and
+(b) providing information to other
+justice sector agencies on the
+
+5
+
+Justice Sector Unique Identifier Code 2020
+
+Ministry of
+Justice
+
+Waka Kotahi NZ
+Transport Agency
+
+outcome of family group conferences
+for child and youth offending, and the
+imposition of orders and sentences;
+and
+(c) the efficient administration of
+orders and sentences.
+Assigned to an individual as a Police – may assign for the purposes
+result of the alleged
+of the prevention, detection,
+commission by that
+investigation, and prosecution of
+individual of an offence.
+offences and the administration of
+sentences and the enforcement of
+fines and other orders.
+Department of Corrections - may
+assign for the purposes of providing
+information on the imposition of
+sentences, and the efficient
+administration of sentences and other
+orders, and the management of
+offenders subject to such sentences
+and orders.
+Assigned to an individual as a Police – may assign for the purposes
+result of the issue of a driver
+of the prevention, detection,
+licence.
+investigation, and prosecution of
+offences and the administration of
+sentences and the enforcement of
+fines and other orders.
+Ministry of Justice – may assign for
+the purposes of management of
+proceedings, enforcement of fines and
+other orders, and communication with
+other justice sector agencies where
+this is necessary for the efficient
+conduct of proceedings, including the
+administration of resulting sentences
+and the enforcement of fines and
+other orders.
+Department of Corrections - may
+assign for the purposes of providing
+information on the imposition of
+sentences, and the efficient
+administration of sentences and other
+orders, and the management of
+offenders subject to such sentences
+and orders.
+Road User Charges Collector - may
+
+6
+
+Justice Sector Unique Identifier Code 2020
+
+assign for the purpose of verifying the
+identity of people who are, or apply
+to be, holders of licences issued under
+the Road User Charges Act 2012.
+Registrar of Motor Vehicles - may
+assign for the purpose of verifying the
+identity of people who are, or apply
+to be, registered in respect of motor
+vehicles on the Motor Vehicles
+Register.
+
+Made at Wellington on 28 October 2020.
+
+John Edwards
+Privacy Commissioner
+
+Issued under the authority of the Privacy Act 2020.
+Date of notification in Gazette: 2 November 2020
+This legislation is administered by the Office of the Privacy Commissioner.
+
+7
+
+

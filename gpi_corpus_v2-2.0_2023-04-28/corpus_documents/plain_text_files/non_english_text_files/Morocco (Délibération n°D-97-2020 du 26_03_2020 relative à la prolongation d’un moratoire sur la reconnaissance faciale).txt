@@ -1,0 +1,133 @@
+Délibération n°D-97-2020 du 26/03/2020
+relative à la prolongation d’un moratoire
+sur la reconnaissance faciale
+La Commission Nationale de contrôle de la protection des Données à caractère Personnel,
+Sous la présidence de Monsieur Omar Seghrouchni ;
+Prenant en considération les observations des membres Madame Souad El Kohen, Messieurs Driss
+Belmahi, Abdelaziz Benzakour, Brahim Bouabid;
+Vu l’article 24 de la Constitution du Royaume qui dispose que : « Toute personne a droit à la protection
+de sa vie privée »
+Vu la loi n° 09-08 promulguée par le Dahir 1-09-15, du 18 février 2009, relative à la protection des
+personnes physiques à l'égard du traitement des données à caractère personnel (B.O. n°5714 du
+05/03/2009);
+Vu le Décret n° 2-09-165 du 21 mai 2009 pris pour l'application de la loi n° 09-08 susvisée (B.O. n° 5744
+du 18/06/2009);
+Vu le Règlement Intérieur de la CNDP (approuvé par décision du Premier Ministre n° 3-33-11 du 28
+mars 2011 / B.O. n° 5932 du 07/04/2011);
+Vu le Décret-loi n° 2.20.292 édictant des dispositions particulières à l’Etat d’Urgence Sanitaire et les
+mesures de sa déclaration ;
+Vu le Décret n°2.20.293 portant déclaration de l’Etat d’Urgence Sanitaire sur l’ensemble du Territoire
+National afin d’enrayer la propagation du Coronavirus «Covid-19 » ;
+Vu la Convention n° 108 du Conseil de l’Europe pour la protection des personnes à l’égard du
+traitement automatisé des données à caractère personnel à laquelle le Royaume du Maroc a adhéré
+en date du 28/05/2019;
+Vu la délibération de la Commission Nationale n°D-194-2019 du 30/08/2019 relative à un moratoire
+sur la reconnaissance faciale, qui arrive à échéance le 31 mars 2020 ;
+Après avoir entendu certains opérateurs économiques qui ont sollicité la Commission Nationale, pour
+les autoriser à mettre en œuvre des systèmes d’authentification biométrique, en général, et à base de
+technologies de reconnaissance faciale, en particulier ;
+Après avoir pris en considération l’importance économique et les défis liés au déploiement des
+technologies de reconnaissance faciale ;
+
+1/3
+
+Après avoir eu accès aux expertises internationales en matière de biométrie en général, et de
+reconnaissance faciale en particulier,
+Vu les observations de Messieurs Brahim Bouabid et Driss Belmahi, , rapporteurs désignés par la
+Commission Nationale.
+Emet l’avis suivant :
+Partant du principe que les technologies sont au service du citoyen et de l’économie ;
+La Commission Nationale,
+•
+
+s’engage à favoriser et à accompagner les acteurs nationaux, ou opérant sur le territoire
+national, dans leur stratégie d’émergence d’une économie de la donnée et des valeurs
+ajoutées induites par les bienfaits d’une « data-gouvernance » ;
+
+•
+
+émet des réserves fortes sur le fait que chaque fournisseur de services constitue sa «propre»
+base biométrique, celle de ses clients et/ou prospects, parfois hébergée en dehors du territoire
+national ;
+
+•
+
+souhaite favoriser l’opportunité d’une décision nationale pour l’usage d’un système de tiers
+de confiance, en termes d’authentification, sans multiplication de bases ou de registres
+d’authentification, que ce soit dans le secteur privé ou dans le secteur public.
+Ce système de tiers de confiance peut être établi sur la base des évolutions technologiques
+prometteuses de la CNIE2 (Carte Nationale d’Identité Electronique version 2) ;
+
+•
+
+recommande que, d’une part, les données d’usage et que, d’autre part, les données
+d’authentification ne soient pas stockées au sein de la même architecture et par la même
+entité ;
+
+•
+
+recommande l’utilisation d’identifiants sectoriels, à une granularité à définir selon les
+exigences de chaque secteur d’activité. Cette disposition ne s’oppose en aucun cas aux
+politiques de ciblage, encadrées par des lois spécifiques (pour les secteurs du social, de la
+finance, du fisc, de la santé, …) ou par des actions de force majeure ayant trait à la sécurité
+intérieure ou extérieure de l’Etat. Le recours à un identifiant unique est alors un mécanisme
+technique sécurisé par des politiques de tokenisation, assurant que cet identifiant unique,
+mais technique, ne soit pas public et soit sous la protection impérative des autorités
+régaliennes. La CNDP préconise ainsi, sur le plan national, une architecture des identifiants qui
+prend en compte les exigences constitutionnelles, économiques, sociétales et techniques ;
+
+2/3
+
+La Commission Nationale, pour ce qui est des mesures de sécurité,
+•
+
+attire l’attention des autorités publiques que l’hypothèse avancée par certains opérateurs et
+sous-traitants, annonçant que leurs solutions n’autorisent pas le stockage des données
+biométriques au-delà de la phase dite de « matching », soit dûment vérifiée, confirmée,
+attestée et certifiée ;
+
+•
+
+soumet à l’appréciation de la DGSSI (Direction Générale de la Sécurité des Systèmes
+d'Information), l’examen de l’opportunité que ce système de tiers de confiance, national, soit
+retenu comme infrastructure d'importance vitale, impliquant les règles de gestion et de
+sécurité adéquates.
+
+Aussi, dans la démarche qu’elle entreprend, tout en sollicitant le soutien de l’ensemble des institutions
+et des acteurs des secteurs public et privé, la Commission Nationale :
+-
+
+relève que certaines solutions ne présentent pas un intérêt direct ou indirect pour la gestion
+de l’état d’urgence sanitaire décrété par le gouvernement de Sa Majesté le Roi ;
+
+-
+
+relève que d’autres solutions qui contribuent à la gestion de la crise du COVID-19 et à celle de
+l’état d’urgence sanitaire, et qui sont du ressort de tutelle de certaines institutions et organes
+de régulation, doivent être évaluées en partenariat afin de permettre une appréciation
+adéquate de leur proportionnalité relativement aux finalités ciblées ;
+
+-
+
+propose, pour la période post-état d’urgence, d’évaluer avec l’ensemble des acteurs
+concernés, la stratégie de retour à la normale, au cas par cas, en tenant compte des
+investissements et engagements financiers effectués par chacun des opérateurs.
+
+Compte tenu de ce qui précède, et constatant qu’à la lumière des auditions et séances de travail
+menées à ce jour, la difficulté de pouvoir statuer sur toutes les règles d’usage à mettre en place, la
+Commission Nationale a décidé, jeudi 26 mars 2020 :
+-
+
+De prolonger le moratoire sur la reconnaissance faciale au 31 décembre 2020 ;
+De poursuivre :
+o d’une part, l’expérimentation des technologies de biométrie et de reconnaissance
+faciale au cas par cas,
+o et d’autre part, celle de toute solution pouvant contribuer à réduire, directement ou
+indirectement le risque sanitaire, en cette période d’état d’urgence.
+
+Rabat, le 26 Mars 2020
+Le Président de la CNDP
+
+3/3
+
+

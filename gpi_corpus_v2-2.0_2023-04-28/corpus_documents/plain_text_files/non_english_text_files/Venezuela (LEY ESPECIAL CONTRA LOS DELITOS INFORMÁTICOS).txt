@@ -1,0 +1,342 @@
+30 de octubre de 2001
+
+Gaceta Oficial Nº 37.313
+
+LEY ESPECIAL CONTRA LOS DELITOS INFORMÁTICOS
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA
+DECRETA
+La siguiente,
+LEY ESPECIAL CONTRA LOS DELITOS INFORMÁTICOS
+TÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1. Objeto de la Ley. La presente Ley tiene por objeto la protección
+integral de los sistemas que utilicen tecnologías de información, así como la
+prevención y sanción de los delitos cometidos contra tales sistemas o cualesquiera
+de sus componentes, o de los delitos cometidos mediante el uso de dichas
+tecnologías, en los términos previstos en esta Ley.
+Artículo 2. Definiciones. A efectos de la presente Ley, y cumpliendo con lo
+previsto en el artículo 9 de la Constitución de la República Bolivariana de
+Venezuela, se entiende por:
+a) Tecnología de Información: rama de la tecnología que se dedica al
+estudio, aplicación y procesamiento de datos, lo cual involucra la
+obtención, creación, almacenamiento, administración, modificación,
+manejo, movimiento, control, visualización, transmisión o recepción de
+información en forma automática, así como el desarrollo y uso del
+“hardware”, “firmware”, “software”, cualesquiera de sus componentes y
+todos los procedimientos asociados con el procesamiento de datos.
+b) Sistema: cualquier arreglo organizado de recursos y procedimientos
+diseñados para el uso de tecnologías de información, unidos y regulados
+por interacción o interdependencia para cumplir una serie de funciones
+específicas, así como la combinación de dos o más componentes
+interrelacionados, organizados en un paquete funcional, de manera que
+estén en capacidad de realizar una función operacional o satisfacer un
+requerimiento dentro de unas especificaciones previstas.
+c) Data (datos): hechos, conceptos, instrucciones o caracteres
+representados de una manera apropiada para que sean comunicados,
+transmitidos o procesados por seres humanos o por medios automáticos
+y a los cuales se les asigna o se les puede asignar un significado.
+d) Información: significado que el ser humano le asigna a la data
+utilizando las convenciones conocidas y generalmente aceptadas.
+e) Documento: registro incorporado en un sistema en forma de escrito,
+video, audio o cualquier otro medio, que contiene data o información
+acerca de un hecho o acto capaces de causar efectos jurídicos.
+
+1
+
+f) Computador: dispositivo o unidad funcional que acepta data, la procesa
+de acuerdo con un programa guardado y genera resultados, incluidas
+operaciones aritméticas o lógicas.
+g) Hardware: equipos o dispositivos físicos considerados en forma
+independiente de su capacidad o función, que conforman un computador
+o sus componentes periféricos, de manera que pueden incluir
+herramientas, implementos, instrumentos, conexiones, ensamblajes,
+componentes y partes.
+h) Firmware: programa o segmento de programa incorporado de manera
+permanente en algún componente del hardware.
+i)
+
+Procesamiento de datos o de información: realización sistemática de
+operaciones sobre data o sobre información, tales como manejo, fusión,
+organización o cómputo.
+
+j) Seguridad: condición que resulta del establecimiento y mantenimiento
+de medidas de protección, que garanticen un estado de inviolabilidad de
+influencias o de actos hostiles específicos que puedan propiciar el acceso
+a la data de personas no autorizadas, o que afecten la operatividad de
+las funciones de un sistema de computación.
+k) Virus: programa o segmento de programa indeseado que se desarrolla
+incontroladamente y que genera efectos destructivos o perturbadores en
+un programa o componente del sistema.
+l)
+
+Tarjeta inteligente: rótulo, cédula o carnet que se utiliza como
+instrumento de identificación; de acceso a un sistema; de pago o de
+crédito, y que contiene data, información o ambas, de uso restringido
+sobre el usuario autorizado para portarla.
+
+m) Contraseña (password): secuencia alfabética, numérica o combinación
+de ambas, protegida por reglas de confidencialidad, utilizada para
+verificar la autenticidad de la autorización expedida a un usuario para
+acceder a la data o a la información contenidas en un sistema.
+n) Mensaje de datos: cualquier pensamiento, idea, imagen, audio, data o
+información, expresados en un lenguaje conocido que puede ser explícito
+o secreto (encriptado), preparados dentro de un formato adecuado para
+ser transmitido por un sistema de comunicaciones.
+Artículo 3. Extraterritorialidad. Cuando alguno de los delitos previstos en la
+presente Ley se cometa fuera del territorio de la República, el sujeto activo quedará
+sometido a sus disposiciones si dentro del territorio de la República se hubieren
+producido efectos del hecho punible, y el responsable no ha sido juzgado por el
+mismo hecho o ha evadido el juzgamiento o la condena por tribunales extranjeros.
+Artículo 4. Sanciones. Las sanciones por los delitos previstos en esta Ley serán
+principales y accesorias.
+Las sanciones principales concurrirán con las penas accesorias y ambas podrán
+también concurrir entre sí, de acuerdo con las circunstancias particulares del delito
+del cual se trate, en los términos indicados en la presente Ley.
+
+2
+
+Artículo 5. Responsabilidad de las personas jurídicas. Cuando los delitos
+previstos en esta Ley fuesen cometidos por los gerentes, administradores,
+directores o dependientes de una persona jurídica, actuando en su nombre o
+representación, éstos responderán de acuerdo con su participación culpable.
+La persona jurídica será sancionada en los términos previstos en esta Ley, en los
+casos en que el hecho punible haya sido cometido por decisión de sus órganos, en
+el ámbito de su actividad, con sus recursos sociales o en su interés exclusivo o
+preferente.
+TÍTULO II
+DE LOS DELITOS
+Capítulo I
+De los Delitos Contra los Sistemas que Utilizan Tecnologías de Información.
+Artículo 6. Acceso indebido. Toda persona que sin la debida autorización o
+excediendo la que hubiere obtenido, acceda, intercepte, interfiera o use un sistema
+que utilice tecnologías de información, será penado con prisión de uno a cinco años
+y multa de diez a cincuenta unidades tributarias.
+Artículo 7. Sabotaje o daño a sistemas. Todo aquel que con intención destruya,
+dañe, modifique o realice cualquier acto que altere el funcionamiento o inutilice un
+sistema que utilice tecnologías de información o cualesquiera de los componentes
+que lo conforman, será penado con prisión de cuatro a ocho años y multa de
+cuatrocientas a ochocientas unidades tributarias.
+Incurrirá en la misma pena quien destruya, dañe, modifique o inutilice la data o la
+información contenida en cualquier sistema que utilice tecnologías de información o
+en cualesquiera de sus componentes.
+La pena será de cinco a diez años de prisión y multa de quinientas a mil unidades
+tributarias, si los efectos indicados en el presente artículo se realizaren mediante la
+creación, introducción o transmisión intencional, por cualquier medio, de un virus o
+programa análogo.
+Artículo 8. Favorecimiento culposo del sabotaje o daño. Si el delito previsto
+en el artículo anterior se cometiere por imprudencia, negligencia, impericia o
+inobservancia de las normas establecidas, se aplicará la pena correspondiente
+según el caso, con una reducción entre la mitad y dos tercios.
+Artículo 9. Acceso indebido o sabotaje a sistemas protegidos. Las penas
+previstas en los artículos anteriores se aumentarán entre una tercera parte y la
+mitad, cuando los hechos allí previstos o sus efectos recaigan sobre cualesquiera de
+los componentes de un sistema que utilice tecnologías de información protegido por
+medidas de seguridad, que esté destinado a funciones públicas o que contenga
+información personal o patrimonial de personas naturales o jurídicas.
+Artículo 10. Posesión de equipos o prestación de servicios de sabotaje.
+Quien importe, fabrique, distribuya, venda o utilice equipos, dispositivos o
+programas, con el propósito de destinarlos a vulnerar o eliminar la seguridad de
+cualquier sistema que utilice tecnologías de información; o el que ofrezca o preste
+servicios destinados a cumplir los mismos fines, será penado con prisión de tres a
+seis años y multa de trescientas a seiscientas unidades tributarias.
+
+3
+
+Artículo 11. Espionaje informático. Toda persona que indebidamente obtenga,
+revele o difunda la data o información contenidas en un sistema que utilice
+tecnologías de información o en cualesquiera de sus componentes, será penada con
+prisión de tres a seis años y multa de trescientas a seiscientas unidades tributarias.
+La pena se aumentará de un tercio a la mitad, si el delito previsto en el presente
+artículo se cometiere con el fin de obtener algún tipo de beneficio para sí o para
+otro.
+El aumento será de la mitad a dos tercios, si se pusiere en peligro la seguridad del
+Estado, la confiabilidad de la operación de las instituciones afectadas o resultare
+algún daño para las personas naturales o jurídicas, como consecuencia de la
+revelación de las informaciones de carácter reservado.
+Artículo 12. Falsificación de documentos. Quien, a través de cualquier medio,
+cree, modifique o elimine un documento que se encuentre incorporado a un sistema
+que utilice tecnologías de información; o cree, modifique o elimine datos del
+mismo; o incorpore a dicho sistema un documento inexistente, será penado con
+prisión de tres a seis años y multa de trescientas a seiscientas unidades tributarias.
+Cuando el agente hubiere actuado con el fin de procurar para sí o para otro algún
+tipo de beneficio, la pena se aumentará entre un tercio y la mitad.
+El aumento será de la mitad a dos tercios si del hecho resultare un perjuicio para
+otro.
+Capítulo II
+De los Delitos Contra la Propiedad
+Artículo 13. Hurto. Quien a través del uso de tecnologías de información, acceda,
+intercepte, interfiera, manipule o use de cualquier forma un sistema o medio de
+comunicación para apoderarse de bienes o valores tangibles o intangibles de
+carácter patrimonial sustrayéndolos a su tenedor, con el fin de procurarse un
+provecho económico para sí o para otro, será sancionado con prisión de dos a seis
+años y multa de doscientas a seiscientas unidades tributarias.
+Artículo 14. Fraude. Todo aquel que, a través del uso indebido de tecnologías de
+información, valiéndose de cualquier manipulación en sistemas o cualquiera de sus
+componentes, o en la data o información en ellos contenida, consiga insertar
+instrucciones falsas o fraudulentas, que produzcan un resultado que permita
+obtener un provecho injusto en perjuicio ajeno, será penado con prisión de tres a
+siete años y multa de trescientas a setecientas unidades tributarias.
+Artículo 15. Obtención indebida de bienes o servicios. Quien, sin autorización para
+portarlos, utilice una tarjeta inteligente ajena o instrumento destinado a los mismos
+fines, o el que utilice indebidamente tecnologías de información para requerir la
+obtención de cualquier efecto, bien o servicio; o para proveer su pago sin erogar o
+asumir el compromiso de pago de la contraprestación debida, será castigado con
+prisión de dos a seis años y multa de doscientas a seiscientas unidades tributarias.
+Artículo 16. Manejo fraudulento de tarjetas inteligentes o instrumentos análogos.
+Toda persona que por cualquier medio cree, capture, grabe, copie, altere, duplique
+o elimine la data o información contenidas en una tarjeta inteligente o en cualquier
+instrumento destinado a los mismos fines; o la persona que, mediante cualquier
+uso indebido de tecnologías de información, cree, capture, duplique o altere la data
+o información en un sistema, con el objeto de incorporar usuarios, cuentas,
+registros o consumos inexistentes o modifique la cuantía de éstos, será penada con
+prisión de cinco a diez años y multa de quinientas a mil unidades tributarias.
+
+4
+
+En la misma pena incurrirá quien, sin haber tomado parte en los hechos anteriores,
+adquiera, comercialice, posea, distribuya, venda o realice cualquier tipo de
+intermediación de tarjetas inteligentes o instrumentos destinados al mismo fin, o de
+la data o información contenidas en ellos o en un sistema.
+Artículo 17. Apropiación de tarjetas inteligentes o instrumentos análogos.
+Quien se apropie de una tarjeta inteligente o instrumento destinado a los mismos
+fines, que se haya perdido, extraviado o que haya sido entregado por equivocación,
+con el fin de retenerlo, usarlo, venderlo o transferirlo a una persona distinta del
+usuario autorizado o entidad emisora, será penado con prisión de uno a cinco años
+y multa de diez a cincuenta unidades tributarias.
+La misma pena se impondrá a quien adquiera o reciba la tarjeta o instrumento a
+que se refiere el presente artículo.
+Artículo 18. Provisión indebida de bienes o servicios. Todo aquel que, a
+sabiendas de que una tarjeta inteligente o instrumento destinado a los mismos
+fines, se encuentra vencido, revocado; se haya indebidamente obtenido, retenido,
+falsificado, alterado; provea a quien los presente de dinero, efectos, bienes o
+servicios, o cualquier otra cosa de valor económico será penado con prisión de dos
+a seis años y multa de doscientas a seiscientas unidades tributarias.
+Artículo 19. Posesión de equipo para falsificaciones. Todo aquel que sin estar
+debidamente autorizado para emitir, fabricar o distribuir tarjetas inteligentes o
+instrumentos análogos, reciba, adquiera, posea, transfiera, comercialice, distribuya,
+venda, controle o custodie cualquier equipo de fabricación de tarjetas inteligentes o
+de instrumentos destinados a los mismos fines, o cualquier equipo o componente
+que capture, grabe, copie o transmita la data o información de dichas tarjetas o
+instrumentos, será penado con prisión de tres a seis años y multa de trescientas a
+seiscientas unidades tributarias.
+Capítulo III
+De los Delitos Contra la Privacidad de las Personas y de las Comunicaciones
+Artículo 20. Violación de la privacidad de la data o información de carácter
+personal. Toda persona que intencionalmente se apodere, utilice, modifique o
+elimine por cualquier medio, sin el consentimiento de su dueño, la data o
+información personales de otro o sobre las cuales tenga interés legítimo, que estén
+incorporadas en un computador o sistema que utilice tecnologías de información,
+será penada con prisión de dos a seis años y multa de doscientas a seiscientas
+unidades tributarias.
+La pena se incrementará de un tercio a la mitad si como consecuencia de los
+hechos anteriores resultare un perjuicio para el titular de la data o información o
+para un tercero.
+Artículo 21. Violación de la privacidad de las comunicaciones. Toda persona
+que mediante el uso de tecnologías de información acceda, capture, intercepte,
+interfiera, reproduzca, modifique, desvíe o elimine cualquier mensaje de datos o
+señal de transmisión o comunicación ajena, será sancionada con prisión de dos a
+seis años y multa de doscientas a seiscientas unidades tributarias.
+Artículo 22. Revelación indebida de data o información de carácter
+personal. Quien revele, difunda o ceda, en todo o en parte, los hechos
+descubiertos, las imágenes, el audio o, en general, la data o información obtenidos
+
+5
+
+por alguno de los medios indicados en los artículos 20 y 21, será sancionado con
+prisión de dos a seis años y multa de doscientas a seiscientas unidades tributarias.
+Si la revelación, difusión o cesión se hubieren realizado con un fin de lucro, o si
+resultare algún perjuicio para otro, la pena se aumentará de un tercio a la mitad.
+Capítulo IV
+De los Delitos Contra Niños, Niñas o Adolescentes
+Artículo 23. Difusión o exhibición de material pornográfico. Todo aquel que,
+por cualquier medio que involucre el uso de tecnologías de información, exhiba,
+difunda, transmita o venda material pornográfico o reservado a personas adultas,
+sin realizar previamente las debidas advertencias para que el usuario restrinja el
+acceso a niños, niñas y adolescentes, será sancionado con prisión de dos a seis
+años y multa de doscientas a seiscientas unidades tributarias.
+Artículo 24. Exhibición pornográfica de niños o adolescentes. Toda persona
+que por cualquier medio que involucre el uso de tecnologías de información, utilice
+a la persona o imagen de un niño, niña o adolescente con fines exhibicionistas o
+pornográficos, será penada con prisión de cuatro a ocho años y multa de
+cuatrocientas a ochocientas unidades tributarias.
+Capítulo V
+De los Delitos Contra el Orden Económico
+Artículo 25. Apropiación de propiedad intelectual. Quien sin autorización de su
+propietario y con el fin de obtener algún provecho económico, reproduzca,
+modifique, copie, distribuya o divulgue un software u otra obra del intelecto que
+haya obtenido mediante el acceso a cualquier sistema que utilice tecnologías de
+información, será sancionado con prisión de uno a cinco años y multa de cien a
+quinientas unidades tributarias.
+Artículo 26. Oferta engañosa. Toda persona que ofrezca, comercialice o provea
+de bienes o servicios, mediante el uso de tecnologías de información, y haga
+alegaciones falsas o atribuya características inciertas a cualquier elemento de dicha
+oferta, de modo que pueda resultar algún perjuicio para los consumidores, será
+sancionada con prisión de uno a cinco años y multa de cien a quinientas unidades
+tributarias, sin perjuicio de la comisión de un delito más grave.
+TÍTULO III
+DISPOSICIONES COMUNES
+Artículo 27. Agravantes. La pena correspondiente a los delitos previstos en la
+presente Ley se incrementará entre un tercio y la mitad:
+1. Si para la realización del hecho se hubiere hecho uso de alguna contraseña
+ajena indebidamente obtenida, quitada, retenida o que se hubiere perdido.
+2. Si el hecho hubiere sido cometido mediante el abuso de la posición de acceso a
+data o información reservada, o al conocimiento privilegiado de contraseñas, en
+razón del ejercicio de un cargo o función.
+Artículo 28. Agravante especial. La sanción aplicable a las personas jurídicas por
+los delitos cometidos en las condiciones señaladas en el artículo 5 de esta Ley, será
+
+6
+
+únicamente de multa, pero por el doble del monto establecido para el referido
+delito.
+Artículo 29. Penas accesorias. Además de las penas principales previstas en los
+capítulos anteriores, se impondrán, necesariamente sin perjuicio de las establecidas
+en el Código Penal, las penas accesorias siguientes:
+1.
+2.
+3.
+
+4.
+
+El comiso de equipos, dispositivos, instrumentos, materiales, útiles,
+herramientas y cualquier otro objeto que hayan sido utilizados para la comisión
+de los delitos previstos en los artículos 10 y 19 de la presente Ley.
+El trabajo comunitario por el término de hasta tres años en los casos de los
+delitos previstos en los artículos 6 y 8 de esta Ley.
+La inhabilitación para el ejercicio de funciones o empleos públicos; para el
+ejercicio de la profesión, arte o industria; o para laborar en instituciones o
+empresas del ramo por un período de hasta tres (3) años después de cumplida
+o conmutada la sanción principal, cuando el delito se haya cometido con abuso
+de la posición de acceso a data o información reservadas, o al conocimiento
+privilegiado de contraseñas, en razón del ejercicio de un cargo o función
+públicas, del ejercicio privado de una profesión u oficio, o del desempeño en
+una institución o empresa privada, respectivamente.
+La suspensión del permiso, registro o autorización para operar o para el
+ejercicio de cargos directivos y de representación de personas jurídicas
+vinculadas con el uso de tecnologías de información, hasta por el período de
+tres (3) años después de cumplida o conmutada la sanción principal, si para
+cometer el delito el agente se hubiere valido o hubiere hecho figurar a una
+persona jurídica.
+
+Artículo 30. Divulgación de la sentencia condenatoria. El Tribunal podrá
+además, disponer la publicación o difusión de la sentencia condenatoria por el
+medio que considere más idóneo.
+Artículo 31. Indemnización Civil. En los casos de condena por cualquiera de los
+delitos previstos en los Capítulos II y V de esta Ley, el juez impondrá en la
+sentencia una indemnización en favor de la víctima por un monto equivalente al
+daño causado.
+Para la determinación del monto de la indemnización acordada, el juez requerirá del
+auxilio de expertos.
+TÍTULO IV
+DISPOSICIONES FINALES
+Artículo 32. Vigencia. La presente Ley entrará en vigencia, treinta días después
+de su publicación en la Gaceta Oficial de la República Bolivariana de Venezuela.
+Artículo 33. Derogatoria. Se deroga cualquier disposición que colida con la
+presente Ley.
+Dada, firmada y sellada en el Palacio Federal Legislativo, sede de la Asamblea
+Nacional, en Caracas a los cuatro días del mes de septiembre de dos mil uno. Año
+191° de la Independencia y 142° de la Federación.
+
+7
+
+

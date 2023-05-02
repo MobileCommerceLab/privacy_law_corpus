@@ -1,0 +1,1431 @@
+﻿Décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés
+Dernière mise à jour des données de ce texte : 16 mai 2020
+NOR : JUSC1911425D
+Version en vigueur au 06 juin 2021
+
+
+Le Premier ministre,
+Sur le rapport de la garde des sceaux, ministre de la justice,
+Vu le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;
+Vu la directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil ;
+Vu le code de l'action sociale et des familles ;
+Vu le code de la défense ;
+Vu le code de justice administrative ;
+Vu le code de l'organisation judiciaire ;
+Vu le code du patrimoine ;
+Vu le code pénal ;
+Vu le code de procédure pénale ;
+Vu le code des relations entre le public et l'administration ;
+Vu le code de la santé publique ;
+Vu le code de la sécurité intérieure ;
+Vu la loi du 29 juillet 1881 sur la liberté de la presse ;
+Vu la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques ;
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, dans sa rédaction résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article 32 de la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la protection des données à caractère personnel ;
+Vu la loi n° 2009-1436 du 24 novembre 2009 pénitentiaire modifiée ;
+Vu la loi n° 2017-55 du 20 janvier 2017 portant statut général des autorités administratives indépendantes et des autorités publiques indépendantes ;
+Vu la loi n° 2019-222 du 23 mars 2019 de programmation 2018-2022 et de réforme pour la justice ;
+Vu l'ordonnance n° 45-174 du 2 février 1945 modifiée relative à l'enfance délinquante ;
+Vu le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat ;
+Vu le décret n° 2018-232 du 30 mars 2018 pris pour l'application à la Commission nationale de l'informatique et des libertés de la loi n° 2017-55 du 20 janvier 2017 portant statut général des autorités administratives indépendantes et des autorités publiques indépendantes ;
+Vu la délibération n° 2019-055 du 9 mai 2019 portant avis de la Commission nationale de l'informatique et des libertés ;
+Vu l'avis du gouvernement de la Nouvelle-Calédonie en date du 7 mai 2019 ;
+Vu l'avis du gouvernement de la Polynésie française en date du 16 mai 2019 ;
+Le Conseil d'Etat (section de l'intérieur) entendu,
+Décrète :
+Titre IER : DISPOSITIONS COMMUNES (Articles 1 à 70)
+Chapitre Ier : La Commission nationale de l'informatique et des libertés (Articles 1 à 60)
+Section 1 : Composition et fonctionnement (Articles 1 à 15)
+Article 1
+
+
+Les membres de la Commission nationale de l'informatique et des libertés mentionnés aux 2°, 3°, 4°, 5°, 6° et 7° du I de l'article 9 de la loi du 6 janvier 1978 susvisée sont renouvelés par moitié tous les deux ans et six mois.
+Article 2
+
+
+Les membres de la Commission nationale de l'informatique et des libertés sont convoqués par son président. La convocation est de droit à la demande du tiers des membres de la commission. La convocation précise l'ordre du jour.
+Article 3
+
+
+La commission ne peut valablement délibérer que si la majorité de ses membres en exercice participe à la séance.
+Article 4
+
+
+Les délibérations de la commission sont prises à la majorité absolue des membres présents.
+Toutefois, sont prises à la majorité absolue des membres composant la commission, réunie en formation plénière, les délibérations suivantes :
+1° L'élection des vice-présidents, dont celle du vice-président délégué ;
+2° L'adoption du règlement intérieur ;
+3° Les avis émis par la commission lorsqu'elle est saisie de la création de traitements mentionnés aux articles 31 et 32 de la loi du 6 janvier 1978 susvisée ;
+4° Les lignes directrices, recommandations ou référentiels et les méthodologies de référence mentionnés au b, ainsi que les règlements types mentionnés au c du 2° du I de l'article 8 de la même loi ;
+5° Les décisions élaborant ou approuvant les critères des référentiels de certification et d'agrément mentionnés au h du 2° du I de l'article 8 de la même loi ;
+6° Les autorisations délivrées par la commission, lorsqu'elle est saisie de la création de traitements de la section 3 du chapitre III du titre II de la même loi ;
+7° Les clauses contractuelles types de protection des données mentionnées à l'article 28 et à l'article 46 du règlement (UE) 2016/679 susvisé ;
+8° Les décisions et avis relatifs aux codes de conduite mentionnés au 5 de l'article 40 du même règlement ;
+9° Les listes de traitement mentionnées aux 4 et 5 de l'article 35 du même règlement et au k du 2° du I de l'article 8 de la même loi.
+Article 5
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+I. − Le président de la commission et le vice-président délégué peuvent, après en avoir informé la formation plénière de la commission, donner délégation au secrétaire général pour signer les seuls actes suivants :
+
+
+1° Tous actes ayant pour objet :
+
+
+a) La clôture d'une vérification diligentée en application du g du 2° du I de l'article 8 de la loi du 6 janvier 1978 susvisée ;
+
+
+b) Conformément à la procédure de consultation préalable prévue à l'article 36 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, d'adresser un avis écrit au responsable de traitement ;
+
+
+c) Le renouvellement du délai de mise en demeure en application de l'article 38 du présent décret ;
+
+
+d) La désignation d'un expert ou d'un médecin en application des articles 35 et 36 du présent décret ;
+
+
+e) La prolongation des délais mentionnés au 2 de l'article 36 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, à l'article 34 et au V de l'article 66 de la loi du 6 janvier 1978, ainsi qu'aux articles 9, 72, 73, 74, 125 et 130 du présent décret ;
+
+
+f) La saisine du comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé en application de l'article 92 du présent décret ;
+
+
+2° Tout acte ayant pour objet le constat du respect des conditions mentionnées au 4 de l'article 34 du règlement (UE) 2016/679 du 27 avril 2016 susvisé ;
+
+
+3° Tous actes ayant pour objet la communication et la diffusion de documents administratifs ;
+
+
+4° Tous actes ayant pour objet d'exercer les attributions mentionnées au d du 2° du I de l'article 8 de la loi du 6 janvier 1978 susvisée et au 9 de l'article 60 du règlement (UE) 2016/679 du 27 avril 2016 susvisé.
+
+
+II. − Par délégation du président de la commission, le secrétaire général peut signer tous actes ayant pour objet le recrutement, la gestion et la rémunération du personnel de la commission, la gestion de son budget ainsi que tous marchés et conventions nécessaires à son fonctionnement.
+
+
+III. − Dans les conditions fixées par le président de la commission, le secrétaire général peut donner délégation aux agents d'encadrement placés sous son autorité à l'effet de signer, dans la limite de leurs attributions, tous actes pour lesquels il a lui-même reçu une délégation de signature en application du 2°, du 3° et du 4° du I et du II.
+
+
+Les agents mentionnés à l'alinéa précédent peuvent eux-mêmes donner délégation pour signer tous actes relatifs aux affaires pour lesquelles ils ont eux-mêmes reçu délégation :
+
+
+1° Aux agents de catégorie A placés sous leur autorité pour les actes mentionnés au 3° du I et au II ;
+
+
+2° Aux agents chargés de l'instruction des affaires mentionnées au 4° du I.
+
+
+IV. − Ces délégations s'exercent sous l'autorité du président et du vice-président délégué ainsi que, le cas échéant, sous l'autorité du supérieur hiérarchique immédiat des agents concernés.
+
+
+V. − Ces délégations sont publiées sur le site internet de la Commission nationale de l'informatique et des libertés.
+Article 6
+
+
+Les membres de la commission élisent en leur sein à la majorité absolue des membres composant la commission le président, le vice-président et les quatre autres membres de la formation restreinte dans les conditions prévues à l'article 9 de la loi du 6 janvier 1978 susvisée.
+La commission ne peut valablement procéder à cette élection que si la majorité des membres en exercice de la commission participe à la séance.
+Lorsque l'un des membres élus au sein de la formation restreinte cesse d'exercer ses fonctions en cours de mandat, il est remplacé dans les conditions définies aux alinéas précédents.
+La formation restreinte ne peut valablement délibérer que si au moins quatre de ses membres, dont le président ou le vice-président, sont présents.
+Article 7
+
+
+Les dépenses sont ordonnancées par le président de la commission ou par le vice-président délégué.
+Article 8
+
+
+Les membres de la commission ont droit au remboursement des frais que nécessite l'exécution de leur mandat, dans les conditions prévues par le décret du 3 juillet 2006 susvisé.
+Les personnels qui sont appelés à prêter leur concours à la commission ont droit, dans les conditions de l'alinéa précédent, au remboursement des frais engagés à l'occasion des missions exécutées pour le compte de la commission.
+Article 9
+
+
+I. - La Commission nationale de l'informatique et des libertés, saisie dans le cadre du a du 4° du I de l'article 8 de la loi du 6 janvier 1978 susvisée, se prononce dans le délai de deux mois à compter de la date du jour de réception de la demande d'avis. Ce délai peut être prolongé d'un mois sur décision motivée du président de la commission.
+En cas d'urgence, ce délai est ramené à un mois à la demande du Gouvernement lorsque la commission est saisie de projets de loi ou de décret ou de toute disposition de projet de loi ou de décret.
+II. - Les avis destinés au président de l'Assemblée nationale, au président du Sénat, aux commissions parlementaires de l'Assemblée nationale et du Sénat ou aux présidents de groupe parlementaire peuvent être publiés par leur destinataire ou, avec l'accord de ce dernier, par la Commission nationale de l'informatique et des libertés.
+III. - La commission, saisie dans le cadre du e du 2° du I de l'article 8 de la même loi, ou sur le fondement de toute autre disposition législative prévoyant qu'un acte réglementaire est pris après avis de la commission, se prononce dans le délai de deux mois à compter de la date du jour de réception de la demande. Ce délai peut être prolongé d'un mois sur décision motivée du président de la commission. En cas d'urgence, ce délai est ramené à un mois à la demande du Gouvernement lorsque la commission est saisie par ce dernier.
+IV. - Lorsqu'il n'est pas rendu à l'expiration des délais prévus au I et au III, l'avis demandé à la commission est réputé donné.
+Article 10
+
+
+En vue de faciliter l'introduction des réclamations visées au d du 2° du I de l'article 8 de la loi du 6 janvier 1978 susvisée, la commission fournit notamment un formulaire de réclamation pouvant être rempli par voie électronique.
+Le silence gardé pendant trois mois par la commission sur une réclamation vaut décision de rejet.
+Article 11
+
+
+L'accomplissement des missions de la commission est gratuit pour la personne concernée et pour le délégué à la protection des données.
+Toutefois, lorsqu'une demande est manifestement infondée ou excessive en raison notamment de son caractère répétitif, la commission peut exiger le paiement de frais raisonnables basés sur ses coûts administratifs ou refuser de donner suite à la demande. En cas de contestation, la charge de la preuve du caractère manifestement infondé ou excessif de la demande incombe à la commission.
+Article 12
+
+
+Lorsque la commission demande, pour l'exercice de ses missions, communication de documents dont doit disposer le responsable du traitement ou le sous-traitant en application du règlement (UE) 2016/679 du 27 avril 2016 susvisé ou de la loi 6 janvier 1978 susvisée, elle peut exiger que l'organisme concerné joigne une traduction en français des documents rédigés dans une autre langue.
+Article 13
+
+
+Les listes de traitements établies par la commission en application des 4 et 5 de l'article 35 du règlement (UE) 2016/679 du 27 avril 2016 susvisé et du k du 2° du I de l'article 8 de la loi du 6 janvier 1978 susvisée sont publiées au Journal officiel de la République française.
+Article 14
+
+
+La Commission nationale de l'informatique et des libertés contribue aux activités du comité européen de la protection des données mentionné à l'article 68 du règlement (UE) 2016/679 du 27 avril 2016 susvisé.
+Article 15
+
+
+Le commissaire du Gouvernement est convoqué à toutes les séances mentionnées à l'article 17 de la loi du 6 janvier 1978 susvisée dans les mêmes conditions que les membres de la commission.
+En cas d'absence ou d'empêchement, il est remplacé par un commissaire du Gouvernement adjoint.
+La commission ne peut valablement délibérer que si le projet de délibération et, le cas échéant, le rapport y afférent, relatifs aux dossiers inscrits à l'ordre du jour d'une séance sont parvenus au commissaire du Gouvernement huit jours au moins avant la date de la séance.
+Le commissaire du Gouvernement peut consulter dans le même délai, sur place et sur pièces, les dossiers inscrits à l'ordre du jour.
+Section 2 : Contrôle de la mise en œuvre des traitements (Articles 16 à 37)
+Sous-section 1 : Dispositions générales relatives à l'habilitation (Articles 16 à 22)
+Paragraphe 1 : L'habilitation des agents des services de la commission et les personnes lui prêtant leur concours (Articles 16 à 19)
+Article 16
+
+
+L'habilitation prévue par le dernier alinéa de l'article 10 de la loi du 6 janvier 1978 susvisée est délivrée aux agents des services de la commission pour une durée de cinq ans renouvelable.
+Article 17
+
+
+Nul agent des services de la commission ne peut être habilité à effectuer une visite ou une vérification s'il a fait l'objet d'une condamnation à une peine correctionnelle ou criminelle inscrite au bulletin n° 2 du casier judiciaire, ou dans un document équivalent lorsqu'il s'agit d'un ressortissant de l'Union européenne.
+Article 18
+
+
+Nul agent des services de la commission ne peut être désigné pour effectuer une visite ou une vérification auprès d'un organisme au sein duquel :
+1° Il détient un intérêt direct ou indirect, exerce des fonctions ou une activité professionnelle ou détient un mandat ;
+2° Il a, au cours des trois années précédant la visite ou la vérification, détenu un intérêt direct ou indirect, exercé des fonctions ou une activité professionnelle ou détenu un mandat.
+Article 19
+
+
+Lorsque les conditions prévues aux articles 16 à 18 cessent d'être remplies, il est mis fin à l'habilitation après que l'intéressé a été mis en mesure de présenter ses observations. En cas d'urgence, la commission peut suspendre l'habilitation pour une durée maximale de six mois.
+Il est également mis fin à l'habilitation lorsque l'intéressé n'exerce plus les fonctions à raison desquelles il a été habilité.
+Paragraphe 2 : L'habilitation des membres et agents des autres autorités de contrôle des Etats membres de l'Union européenne (Articles 20 à 22)
+Article 20
+
+
+L'habilitation prévue au III de l'article 25 de la loi du 6 janvier 1978 susvisée est délivrée aux membres et agents des autorités de contrôle des Etats membres de l'Union européenne pour la durée de l'opération conjointe qui se déroule sur le territoire français.
+Article 21
+
+
+Lorsque l'autorité de contrôle d'un Etat membre demande la participation d'un de ses membres ou agents à une opération conjointe, elle atteste auprès du président de la Commission nationale de l'informatique et des libertés qu'ils répondent aux conditions prévues aux articles 17 et 18. Le président de la commission est tenu de refuser l'habilitation si le membre ou l'agent ne respecte pas ces conditions.
+Article 22
+
+
+Le président de la Commission nationale de l'informatique et des libertés peut retirer l'habilitation délivrée en application de l'article 20 si les conditions prévues aux articles 17 et 18 cessent d'être remplies. L'intéressé est mis en demeure de présenter ses observations. En cas d'urgence, le président de la commission peut suspendre l'habilitation. Il informe l'autorité de contrôle concernée du retrait ou de la suspension.
+Sous-section 2 : Dispositions particulières relatives à l'habilitation des agents, des membres de la commission et les personnes lui prêtant leur concours pour les traitements relevant de l'article 31 de la loi du 6 janvier 1978 (Articles 23 à 24)
+Article 23
+
+
+Les agents de la commission et les personnes lui prêtant leur concours, appelés dans le cadre de l'exécution de leur mission, à prendre connaissance d'informations classifiées au titre de la protection du secret de défense nationale, doivent y être habilités par le Premier ministre dans les conditions fixées par le code de la défense.
+Les agents de la commission et les personnes lui prêtant leur concours, appelés à effectuer les visites ou les vérifications portant sur les traitements relevant de l'article 31 de la loi du 6 janvier 1978 susvisée, doivent y être habilités par le Premier ministre, sur proposition du président de la commission, après une enquête administrative, dans les conditions prévues par l'article L. 114-1 du code de la sécurité intérieure, vérifiant que la moralité ou le comportement de ces personnes n'est pas incompatible avec l'exercice de leurs missions et la consultation de ces fichiers.
+Article 24
+
+
+Le président de la Commission nationale de l'informatique et des libertés fait connaître, chaque année, au Premier ministre les nom et qualité des membres, des agents de la commission et des personnes lui prêtant leur concours, désignés pour procéder à toutes investigations concernant les traitements relevant de l'article 31 de la loi du 6 janvier 1978 susvisée.
+Sous-section 3 : Le contrôle sur place (Articles 25 à 32)
+Article 25
+
+
+Lorsque la commission décide un contrôle sur place, elle en informe préalablement par écrit le procureur de la République dans le ressort territorial duquel doit avoir lieu la visite ou la vérification.
+Le procureur de la République est informé au plus tard vingt-quatre heures avant la date à laquelle doit avoir lieu le contrôle sur place. Cet avis précise la date, l'heure, le lieu et l'objet du contrôle.
+Article 26
+
+
+Lorsque la commission effectue un contrôle sur place, elle informe au plus tard lors de son arrivée sur place le responsable des lieux ou son représentant de l'objet des vérifications qu'elle compte entreprendre, de l'identité et de la qualité des personnes chargées du contrôle ainsi que, le cas échéant, de son droit d'opposition à la visite. Lorsque le responsable du traitement ou le sous-traitant n'est pas présent sur les lieux du contrôle, ces informations sont portées à sa connaissance dans les quinze jours suivant le contrôle.
+Dans le cadre de leurs vérifications, les personnes chargées du contrôle présentent en réponse à toute demande leur ordre de mission et, le cas échéant, leur habilitation à procéder aux contrôles.
+Article 27
+
+
+Lorsque le président de la commission saisit le juge des libertés et de la détention sur le fondement du II de l'article 19 de la loi du 6 janvier 1978 susvisée afin que celui-ci autorise la visite sur place, le juge statue dans un délai de quarante-huit heures.
+Sans préjudice du troisième alinéa du II de cet article 19, l'ordonnance autorisant la visite sur place comporte l'adresse des lieux à visiter, le nom et la qualité du ou des agents habilités à procéder aux opérations de visite et de contrôle, le cas échéant le nom et la qualité du ou des agents ou membres des autorités de contrôle des Etats membres habilités à procéder aux mêmes opérations, ainsi que les heures auxquelles ils sont autorisés à se présenter.
+L'ordonnance, exécutoire au seul vu de la minute, est notifiée sur place, au moment de la visite, au responsable des lieux ou à son représentant qui en reçoit copie intégrale contre récépissé ou émargement au procès-verbal de visite.
+L'acte de notification comporte mention des voies et délais de recours contre l'ordonnance ayant autorisé la visite et contre le déroulement des opérations de vérification. Il mentionne également que le juge ayant autorisé la visite peut être saisi d'une demande de suspension ou d'arrêt de cette visite.
+En l'absence du responsable des lieux ou de son représentant, l'ordonnance est notifiée, après la visite, par lettre recommandée avec demande d'avis de réception. A défaut de réception de la lettre recommandée, il est procédé à la signification de l'ordonnance par acte d'huissier de justice.
+Le juge des libertés et de la détention peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la visite. La saisine du juge des libertés et de la détention aux fins de suspension ou d'arrêt des opérations de visite et de vérification n'a pas d'effet suspensif.
+Article 28
+Modifié par Décret n°2019-966 du 18 septembre 2019 - art. 8
+
+
+L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le premier président de la cour d'appel suivant les règles prévues par les articles 931 et suivants du code de procédure civile. 
+Cet appel est formé par déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au greffe de la cour d'appel dans un délai de quinze jours à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif. 
+Le greffe du tribunal judiciaire transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties peuvent le consulter. 
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par les articles 974 et suivants du code de procédure civile.
+NOTA : 
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Article 29
+
+
+Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite autorisées par le juge des libertés et de la détention.
+Le recours est formé par déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au greffe de la cour d'appel dans un délai de quinze jours à compter de la notification du procès-verbal de la visite. Ce recours n'est pas suspensif.
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par les articles 974 et suivants du code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+Article 30
+
+
+Lorsqu'en application des articles 24 à 28 de la loi du 6 janvier 1978 susvisée la commission procède à des vérifications, à la demande d'une autorité de contrôle d'un autre Etat membre de l'Union européenne, elle en informe le responsable du traitement ou le sous-traitant.
+La commission informe également le responsable du traitement ou le sous-traitant que les informations recueillies ou détenues par elle sont susceptibles d'être communiquées à d'autres autorités de contrôle dans le cadre du mécanisme de contrôle de la cohérence prévu à la section 2 du chapitre VII du règlement (UE) 2016/679 du 27 avril 2016 susvisé, que le contrôle ait été effectué à la demande d'une autre autorité ou à sa seule initiative.
+Article 31
+
+
+Les missions de contrôle sur place font l'objet d'un procès-verbal.
+Le procès-verbal énonce la nature, le jour, l'heure et le lieu des vérifications ou des contrôles effectués. Il indique également l'objet de la mission, les membres de celle-ci présents, les personnes rencontrées, le cas échéant, leurs déclarations, les demandes formulées par les membres de la mission ainsi que les éventuelles difficultés rencontrées. L'inventaire des pièces et documents dont les personnes chargées du contrôle ont pris copie est annexé au procès-verbal.
+Lorsque la visite n'a pu se dérouler, le procès-verbal mentionne les motifs qui ont empêché ou entravé son déroulement, ainsi que, le cas échéant, les motifs de l'opposition du responsable des lieux ou de son représentant.
+Le procès-verbal est signé par les personnes chargées du contrôle qui y ont procédé et par le responsable des lieux ou par son représentant. En cas de refus ou d'absence de signature, mention en est portée au procès-verbal.
+Le procès-verbal est notifié au responsable des lieux et au responsable des traitements et le cas échéant à son sous-traitant par lettre recommandée avec demande d'avis de réception. Lorsque seul le sous-traitant a fait l'objet d'un contrôle sur place, le procès-verbal lui est notifié, ainsi que, le cas échéant, au responsable du traitement et aux personnes mentionnées à l'alinéa précédent, selon les mêmes modalités.
+Article 32
+
+
+Lorsque la visite a lieu avec l'autorisation et sous le contrôle du juge en application du II de l'article 19 de la loi du 6 janvier 1978 susvisée, copie du procès-verbal de la visite lui est adressée par le président de la commission.
+Sous-section 4 : Le contrôle en ligne (Article 33)
+Article 33
+
+
+Lorsque les membres ou agents font usage d'une identité d'emprunt au sens du III de l'article 19 de la loi du 6 janvier 1978 susvisée, pour contrôler des services de communication au public en ligne d'un responsable du traitement ou d'un sous-traitant, ils dressent un procès-verbal des opérations en ligne réalisées, des modalités de consultation et d'utilisation de ces services, des réponses obtenues et de leurs constatations. Les pages pertinentes du site ou toute autre information au regard des constatations effectuées y sont annexées. Ce procès-verbal est adressé au responsable du traitement ou au sous-traitant.
+Sous-section 5 : L'audition sur convocation (Article 34)
+Article 34
+
+
+En application du premier alinéa du III de l'article 19 de la loi du 6 janvier 1978 susvisée, les agents habilités en application des articles 10 et 25 de cette même loi peuvent entendre toute personne susceptible de leur fournir tout renseignement ou toute justification utile pour l'accomplissement de leur mission.
+Les agents habilités en application de l'article 10 susmentionné adressent la convocation, par lettre remise contre signature, ou remise en main propre contre récépissé ou acte d'huissier, qui doit parvenir au moins huit jours avant la date de son audition.
+La convocation rappelle à la personne convoquée qu'elle est en droit de se faire assister d'un conseil de son choix.
+Un procès-verbal est dressé dans les conditions prévues à l'article 31. Lorsque l'intéressé ne se rend pas à l'audition, il en est fait mention dans un procès-verbal de carence établi par les personnes chargées du contrôle.
+Sous-section 6 : Le recours à des experts (Articles 35 à 36)
+Article 35
+
+
+Lorsqu'en application du III de l'article 19 de la loi du 6 janvier 1978 susvisée le président de la commission fait appel à un ou plusieurs experts, sa demande définit l'objet de l'expertise et fixe le délai de sa réalisation.
+Préalablement aux opérations d'expertise, le ou les experts désignés attestent auprès du président de la commission qu'ils répondent aux conditions posées aux articles 16 à 19.
+Les indemnités dues aux experts font, le cas échéant, l'objet d'une convention.
+Le ou les experts informent le président de la commission de l'avancement des opérations d'expertise. Celles-ci sont menées contradictoirement.
+Le rapport d'expertise est remis au président de la commission qui en adresse une copie au responsable du traitement ou au sous-traitant.
+Article 36
+
+
+Lorsque les opérations de vérification nécessitent l'accès à des données médicales individuelles, dans les cas prévus au III de l'article 19 de la loi du 6 janvier 1978 susvisée, le préfet ou, selon le cas, le directeur général de l'agence régionale de santé dans le ressort territorial duquel doit avoir lieu le contrôle désigne, à la demande du président de la commission, un médecin inspecteur du travail ou un médecin chargé de requérir la communication de ces données ; le président de la commission peut également désigner un médecin inscrit sur une liste d'experts judiciaires. Le président de la commission définit les conditions d'exercice de la mission confiée au médecin selon les formes prescrites aux premier et deuxième alinéas de l'article 35.
+Préalablement aux opérations de vérification requises, le médecin désigné atteste auprès du président de la commission qu'il répond aux conditions posées aux articles 16 à 19.
+Le médecin présente en réponse à toute demande son ordre de mission.
+Le médecin consigne dans un rapport les vérifications qu'il a faites sans faire état, en aucune manière, des données médicales individuelles auxquelles il a eu accès.
+Le rapport est remis au président de la commission qui en adresse une copie au responsable du traitement ou du sous-traitant.
+Sous-section 7 : Secret professionnel (Article 37)
+Article 37
+
+
+Lorsqu'une personne interrogée dans le cadre des vérifications faites par la commission oppose l'un des secrets professionnels mentionnés au III de l'article 19 de la loi du 6 janvier 1978 susvisée, mention de cette opposition est portée au procès-verbal établi par les personnes chargées du contrôle. Il est alors également fait mention des dispositions législatives ou réglementaires auxquelles se réfère, le cas échéant, la personne interrogée ainsi que la nature des données qu'elle estime couvertes par ces dispositions.
+Section 3 : Mesures correctrices, sanctions et astreintes (Articles 38 à 47)
+Sous-section 1 : La procédure ordinaire (Articles 38 à 45)
+Article 38
+
+
+La mise en demeure précise le ou les manquements aux obligations incombant au responsable du traitement ou au sous-traitant en vertu du règlement (UE) 2016/679 du 27 avril 2016 susvisé ou de la loi du 6 janvier 1978 susvisée qui ont été constatés par la commission.
+La mise en demeure, décidée par le président de la commission, fixe le délai au terme duquel le responsable du traitement ou le sous-traitant est tenu d'avoir fait cesser le ou les manquements constatés. Ce délai ne peut, sauf urgence, être inférieur à dix jours. Il ne peut excéder six mois. Il court à compter du jour de la réception par le responsable du traitement de la mise en demeure. Lorsque la complexité de l'affaire le justifie, ce délai peut être renouvelé une fois dans la même limite.
+La mise en demeure est adressée au responsable du traitement ou au sous-traitant par tout moyen permettant à la commission d'apporter la preuve de la date de cette notification. Elle est également transmise, à titre d'information, au commissaire du Gouvernement.
+Article 39
+
+
+Lorsqu'une sanction est susceptible d'être prononcée, le président de la commission désigne un rapporteur n'appartenant pas à la formation restreinte et en informe le responsable de traitement ou le sous-traitant mis en cause.
+Le rapporteur procède à toutes diligences utiles avec le concours des services de la commission. Le responsable du traitement ou le sous-traitant peut être entendu si le rapporteur l'estime utile. L'audition du responsable du traitement ou du sous-traitant donne lieu à l'établissement d'un procès-verbal qu'il signe. En cas de refus de signer, il en est fait mention par le rapporteur. Les personnes entendues peuvent être assistées d'un conseil de leur choix. Le rapporteur peut entendre toute autre personne dont l'audition lui paraît utile.
+Article 40
+
+
+Le rapport prévu par l'article 22 de la loi du 6 janvier 1978 susvisée est notifié au responsable du traitement ou au sous-traitant par tout moyen permettant à la commission d'apporter la preuve de la date de cette notification. Il est également transmis à la formation restreinte.
+Le responsable du traitement ou le sous-traitant dispose d'un délai d'un mois pour transmettre au rapporteur et à la formation restreinte ses observations écrites. La notification du rapport mentionne ce délai et précise que le responsable du traitement peut prendre connaissance et copie des pièces du dossier auprès des services de la commission et se faire assister ou représenter par tout conseil de son choix.
+Le rapporteur peut répondre au responsable du traitement ou au sous-traitant dans les quinze jours suivant la réception des observations du mis en cause. Le responsable du traitement ou le sous-traitant dispose d'un nouveau délai de quinze jours pour, le cas échéant, produire des observations écrites. La formation restreinte est destinataire des courriers et pièces échangées en application du présent alinéa.
+Lorsque les circonstances de l'espèce ou la complexité de l'affaire le justifient, le président de la formation restreinte peut décider, sur demande du rapporteur ou de l'organisme mis en cause, de prolonger, dans la limite d'un mois, les délais mentionnés aux deuxième et troisième alinéas. Lorsqu'une prolongation du délai est accordée par le président de la formation restreinte au rapporteur, elle est systématiquement octroyée au responsable de traitement ou au sous-traitant, qui en est informé.
+Le responsable du traitement ou le sous-traitant est informé que passés les délais mentionnés aux deuxième, troisième et quatrième alinéas, sauf report de la clôture de l'instruction, l'instruction est close et ses observations écrites seront déclarées irrecevables par la formation restreinte.
+A tout moment, le rapporteur peut décider de modifier son rapport, notamment, au vu d'éléments portés à sa connaissance par le responsable du traitement ou le sous-traitant. Il est alors fait application de la procédure prévue aux alinéas précédents. Si la modification intervient après la clôture de l'instruction, l'instruction est rouverte.
+Article 41
+
+
+Le responsable du traitement ou le sous-traitant est informé de la date de la séance de la formation restreinte au cours de laquelle est inscrite l'affaire le concernant et de la faculté qui lui est offerte d'y être entendu, lui-même ou son représentant, par tout moyen permettant d'attester la date de sa notification. Cette information doit lui parvenir au moins un mois avant la date de la séance au cours de laquelle l'affaire est examinée. En cas de réexamen ou de report de l'affaire lors d'une séance ultérieure, ce délai minimal peut être ramené à sept jours.
+Article 42
+
+
+Lors de la séance, le rapporteur peut présenter des observations orales sur l'affaire. Lorsqu'il assiste à la séance, le responsable du traitement ou le sous-traitant et, le cas échéant, son conseil sont invités à présenter des observations orales à l'appui de leurs conclusions écrites. Le commissaire du Gouvernement est invité à donner son avis sur l'affaire. La formation restreinte peut entendre toute personne dont elle estime l'audition utile. Dans tous les cas, le responsable du traitement ou le sous-traitant et, le cas échéant, son conseil doivent pouvoir prendre la parole en dernier. Lorsque la formation restreinte s'estime insuffisamment éclairée, elle peut demander au rapporteur de poursuivre ses diligences.
+Un agent des services de la commission, faisant office de secrétaire de séance, peut être désigné par le président de la formation restreinte. Il assiste au délibéré de la formation restreinte, sans y prendre part. Il relève de la seule autorité du président de la formation restreinte dans le cadre de ces fonctions.
+Article 43
+
+
+La décision de sanction énonce les considérations de droit et de fait sur lesquels elle est fondée. Elle indique les voies et délais de recours.
+La décision de sanction est notifiée à la personne concernée par tout moyen permettant d'attester la date de sa notification. Cette décision est communiquée au président de la commission.
+Lorsque la formation restreinte décide de publier la décision de sanction, cette publication peut intervenir dès la notification de la décision de sanction à la personne concernée. La décision ainsi publiée indique qu'un recours est susceptible d'être exercé à son encontre devant le juge administratif.
+Article 44
+
+
+Lorsque la formation restreinte décide d'assortir d'une astreinte sa décision d'injonction de mise en conformité, en application du 2° du III de l'article 20 ou du 6° du I de l'article 21 de la loi du 6 janvier 1978 susvisée, elle peut le faire par la même décision.
+Le responsable de traitement ou le sous-traitant transmet à la formation restreinte, au plus tard à la date fixée dans la décision de cette dernière, les éléments attestant qu'il s'est conformé à l'injonction prononcée à son encontre.
+En cas d'inexécution totale ou partielle ou d'exécution tardive, la formation restreinte procède à la liquidation de l'astreinte qu'elle avait prononcée. Le montant de l'astreinte est liquidé en tenant compte des éléments transmis, le cas échéant, par le responsable de traitement ou le sous-traitant, de son comportement et des difficultés d'exécution qu'il a rencontrées, notamment s'il est établi que l'inexécution ou le retard dans l'exécution provient, en tout ou partie, d'une cause étrangère aux capacités de mise en conformité.
+La décision prononçant la liquidation de l'astreinte est précédée d'une procédure écrite au cours de laquelle la formation restreinte porte à la connaissance du responsable du traitement ou du sous-traitant les motifs de la liquidation envisagée et son montant.
+Le responsable du traitement ou le sous-traitant dispose d'un délai de quinze jours à compter de la date de notification des motifs de la liquidation et de son montant pour transmettre à la formation restreinte ses observations écrites. Ce délai est mentionné lors de la notification. Celle-ci a lieu par tout moyen.
+Le rapporteur désigné dans le cadre de la procédure ayant conduit au prononcé de l'injonction est tenu informé par écrit de l'initiative de la formation restreinte.
+Lorsque le président de la formation restreinte estime que les éléments d'explication fournis par le responsable de traitement ou le sous-traitant nécessitent des vérifications complémentaires, il peut demander au rapporteur d'intervenir à nouveau, dans les conditions prévues à l'article 39.
+Article 45
+
+
+Les dispositions de la présente section sont applicables lorsqu'est mis en cause un organisme de certification ou un organisme chargé du respect d'un code de conduite en application de l'article 23 de la loi du 6 janvier 1978 susvisée.
+Sous-section 2 : La procédure d'urgence (Articles 46 à 47)
+Article 46
+
+
+Sous réserve des dispositions qui suivent, les articles 39 à 43 du présent décret, à l'exception des troisième à cinquième alinéas de l'article 40, sont applicables à la procédure présidant aux sanctions prises en application des 1° à 7° du I de l'article 21 de la loi du 6 janvier 1978 susvisée.
+Le responsable du traitement ou le sous-traitant dispose d'un délai de huit jours pour transmettre à la formation restreinte ses observations écrites.
+La convocation du responsable du traitement ou le sous-traitant doit lui être parvenue au plus tard huit jours avant la date de son audition devant la formation restreinte.
+Article 47
+
+
+Lorsque la formation restreinte constate que la mise en œuvre d'un traitement de données, au nombre de ceux qui intéressent la sûreté de l'État ou la défense ou de ceux relevant du titre III de la loi du 6 janvier 1978 susvisée, entraîne une violation des droits et libertés mentionnés à l'article 1er de la même loi, elle informe, par tout moyen, le responsable du traitement ou le sous-traitant.
+Le responsable du traitement ou le sous-traitant dispose d'un délai de huit jours pour transmettre à la formation restreinte ses observations écrites sur les manquements qui ont été constatés. Ce délai est porté à sa connaissance.
+Le président de la formation restreinte informe, le cas échéant, le Premier ministre de la violation constatée.
+Section 4 : Coopération (Articles 48 à 60)
+Article 48
+
+
+Les articles 38 à 44 sont applicables à la présente section.
+La sous-section 2 s'applique lorsque la Commission nationale de l'informatique et des libertés entend adopter une mesure en tant qu'autorité chef de file au sens de l'article 56 du règlement (UE) 2016/679 du 27 avril 2016 susvisé pour les opérations de traitement relevant du champ d'application de ce règlement.
+Sous-section 1 : Dispositions communes (Articles 49 à 50)
+Article 49
+
+
+Sous réserve des actes d'exécution adoptés par la Commission européenne en application de l'article 67 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, les communications entre la Commission nationale de l'informatique et des libertés et les autres autorités de contrôle ou entre la Commission nationale de l'informatique et des libertés et le comité européen de la protection des données se font par tout moyen électronique permettant d'attester la date de réception.
+Si cette communication s'avère longue ou difficile en raison de la nature ou du volume des informations échangées, la commission transmet ces informations par tout moyen ou les tient à disposition des autres autorités de contrôle ou du comité européen de la protection des données.
+Article 50
+
+
+Lorsqu'elle notifie sa décision finale au responsable du traitement ou au sous-traitant, la commission y joint, le cas échéant, la décision du comité européen de la protection des données.
+Sous-section 2 : La Commission nationale de l'informatique et des libertés en tant qu'autorité de contrôle chef de file (Articles 51 à 56)
+Article 51
+
+
+Le président de la commission soumet sans tarder aux autorités de contrôle concernées le projet d'avertissement prévu au I de l'article 20 de la loi du 6 janvier 1978 susvisée ou le projet de mise en demeure prévu au II de ce même article.
+Article 52
+
+
+Si les objections des autorités de contrôle concernées tendent à ce que soit prononcée une mesure prévue au titre du III de l'article 20 de la loi du 6 janvier 1978 susvisée en lieu et place de la mesure initialement proposée en application du II de l'article 20 de la même loi, le président de la commission, s'il décide de suivre ces objections, désigne sans tarder un rapporteur qui instruit l'affaire en tenant compte de ces objections dans les conditions prévues à l'article 40. La formation restreinte adopte une décision finale dans les conditions prévues à l'article 56.
+Si le président de la commission n'entend pas suivre ces objections, il adresse au responsable de traitement ou au sous-traitant, avant de saisir le comité européen de la protection des données en application de l'article 65 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, toutes les informations utiles sur le projet de décision qu'il avait préparé ainsi que les objections formulées par les autorités de contrôle concernées. Le responsable de traitement ou le sous-traitant dispose d'un délai de quinze jours, renouvelable une fois, pour faire part de ses observations, qui sont transmises au comité lors de sa saisine.
+Si la décision contraignante du comité implique l'adoption par la commission d'une mesure relevant du II de l'article 20, le président de la commission prononce la mise en demeure. Si la décision contraignante du comité implique l'adoption par la commission d'une mesure prévue par le III de l'article 20, le président de la commission saisit la formation restreinte dans les conditions prévues à l'article 39.
+Article 53
+
+
+La formation restreinte communique aux autorités de contrôle concernées le rapport et les informations utiles mentionnés au premier alinéa de l'article 27 de la loi du 6 janvier 1978 susvisée, au plus tard une semaine après la notification prévue au premier alinéa de l'article 40.
+Les autorités de contrôle concernées sont informées de la date de la séance de la formation restreinte prévue à l'article 41 en même temps que le responsable du traitement ou le sous-traitant et reçoivent toute information utile, notamment les observations en défense du mis en cause. Elles sont mises en mesure d'assister à l'audition par le biais d'outils de visioconférence ou communication électronique permettant leur identification ou d'en prendre connaissance par le moyen d'un enregistrement. A défaut, un procès-verbal est dressé à son issue, dont elles peuvent prendre connaissance.
+Article 54
+
+
+La formation restreinte soumet sans tarder le projet de décision aux autres autorités de contrôle.
+Article 55
+
+
+Si les objections des autorités de contrôle concernées proposent de s'écarter du projet de décision mentionné à l'article 54 par la prise en compte d'une circonstance de fait nouvelle, l'ajout d'un manquement ou une aggravation de la nature de la mesure correctrice initialement proposée, la formation restreinte rouvre l'instruction et communique sans tarder au rapporteur ces objections afin qu'il complète son rapport et, le cas échéant, le modifie. Le responsable de traitement ou le sous-traitant dispose d'un délai de quinze jours, renouvelable une fois sur décision du président de la formation restreinte, pour faire part de ses observations. La formation restreinte délibère ensuite sur la prise en compte des objections.
+Si la formation restreinte décide de rejeter les objections des autorités, elle saisit le comité européen de la protection des données en application de l'article 65 du règlement (UE) 2016/679 du 27 avril 2016 susvisé.
+Article 56
+
+
+Au terme des procédures prévues par les articles 60 et 65 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, la formation restreinte arrête sa décision finale. Cette décision mentionne, le cas échéant, les échanges entre les autorités de contrôle ou avec le comité européen de la protection des données.
+Sous-section 3 : La Commission nationale de l'informatique et des libertés en tant qu'autorité de contrôle concernée (Article 57)
+Article 57
+
+
+A réception d'un projet de mesure correctrice d'objet équivalent à celles définies au III de l'article 20 de la loi du 6 janvier susvisée, émis par une autorité de contrôle chef de file, le président de la formation restreinte, saisi par le président de la commission, peut soit réunir cette dernière en vue d'émettre, le cas échéant, des objections pertinentes et motivées, soit traiter le cas ou le confier à un membre de la formation restreinte désigné par lui.
+Sous-section 4 : Procédure en cas de circonstances exceptionnelles (Articles 58 à 60)
+Article 58
+
+
+Les troisième à cinquième alinéas de l'article 40 ne sont pas applicables à la procédure régissant les mesures prises en vertu du II de l'article 21 de la loi du 6 janvier 1978 susvisée.
+Par dérogation au deuxième alinéa de l'article 40, le responsable du traitement ou le sous-traitant dispose d'un délai de huit jours pour transmettre à la formation restreinte ses observations écrites.
+Par dérogation à l'article 41, la convocation du responsable du traitement ou le sous-traitant doit lui être parvenue au plus tard huit jours avant la date de son audition devant la formation restreinte.
+Par dérogation à l'article 55, le délai dont dispose le responsable du traitement ou le sous-traitant pour transmettre à la formation restreinte ses observations écrites est fixé à huit jours.
+Article 59
+
+
+La formation restreinte communique la mesure provisoire adoptée ainsi que sa durée de validité, qui ne peut excéder trois mois conformément au 1 de l'article 66 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, aux autorités de contrôle concernées, au comité européen de la protection des données et à la Commission européenne. Elle la notifie au responsable du traitement ou au sous-traitant par tout moyen permettant à la commission d'attester la date de notification.
+Cette décision est communiquée au président de la commission et au rapporteur.
+Article 60
+
+
+Le président de la formation restreinte réunit cette dernière afin qu'elle délibère au vu d'un rapport sur la nécessité d'adopter une mesure définitive. La formation restreinte peut, en la motivant, saisir le comité européen de la protection des données d'une demande avis ou de décision.
+Chapitre II : Formalités préalables à la mise en œuvre des traitements (Articles 61 à 70)
+Section 1 : Dispositions générales (Articles 61 à 65)
+Article 61
+
+
+En vue de faciliter l'accomplissement des formalités préalables à la mise en œuvre des traitements de données à caractère personnel, la commission définit des modèles de déclaration, de demande d'avis, de consultation et de demande d'autorisation et fixe la liste des annexes qui, le cas échéant, doivent être jointes.
+Article 62
+
+
+Les déclarations, demandes d'avis, consultations et demandes d'autorisation sont présentées par le responsable du traitement ou par la personne ayant qualité pour le représenter. Lorsque le responsable du traitement est une personne physique ou un service, la personne morale ou l'autorité publique dont il relève doit être mentionnée.
+Les déclarations, consultations et demandes sont adressées à la commission par voie électronique.
+La décision par laquelle le président renouvelle ou prolonge les délais dont dispose la commission pour notifier ses avis et autorisations est notifiée au responsable du traitement par lettre remise contre signature ou par voie électronique dans les conditions fixées au deuxième alinéa de l'article L. 112-15 du code des relations entre le public et l'administration.
+Article 63
+
+
+Lorsqu'une demande d'avis, d'autorisation ou une consultation est présentée pour le compte de l'Etat, d'une personne morale de droit public ou d'une personne morale de droit privé gérant un service public ou qu'elle fait l'objet d'un examen en séance plénière de la commission ou en bureau, une copie de la demande est transmise préalablement à toute délibération au commissaire du Gouvernement.
+Celui-ci peut disposer à sa demande de la copie de toute déclaration, demande d'avis, demande d'autorisation ou toute consultation.
+Les communications prévues aux deux premiers alinéas peuvent être accomplies, le cas échéant, par voie électronique.
+Article 64
+
+
+Lorsqu'une déclaration, une demande d'avis, une demande d'autorisation ou une consultation fait l'objet d'un examen en séance plénière ou en bureau, le commissaire du Gouvernement présente ses observations.
+Le responsable du traitement ou toute personne dont l'audition est demandée par la commission ou le commissaire du Gouvernement peut être entendu.
+Article 65
+
+
+Pour l'application de l'article 33 de la loi du 6 janvier 1978 susvisée par le responsable du traitement, la commission est informée sans délai dans les conditions prévues à l'article 62 du présent décret.
+Section 2 : Les demandes d'avis et d'autorisation (Articles 66 à 70)
+Article 66
+
+
+La délibération portant avis, autorisation ou refus d'autorisation de la commission est notifiée par lettre remise contre signature ou par voie électronique dans les conditions fixées au deuxième alinéa de l'article L. 112-15 du code des relations entre le public et l'administration, dans un délai de huit jours, au responsable du traitement qui a présenté la demande.
+Elle est transmise au commissaire du Gouvernement.
+Article 67
+
+
+I. - Le dossier produit à l'appui d'une demande d'avis présentée en application des articles 31 ou 32 de la loi du 6 janvier 1978 susvisée comporte, outre les mentions prévues à l'article 33 de cette même loi, en annexe le projet d'acte autorisant le traitement, mentionné à l'article 35 de la même loi.
+II. - Les demandes d'avis portant sur les traitements dont la liste est fixée en application du dernier alinéa du I de l'article 33 de la loi du 6 janvier 1978 susvisée comportent, au minimum, les mentions suivantes :
+1° L'identité et l'adresse du responsable du traitement ;
+2° La ou les finalités du traitement, s'il y a lieu, la dénomination du traitement ;
+3° Le ou les services chargés de la mise en œuvre du traitement ;
+4° Le service auprès duquel s'exerce le droit d'accès prévu aux articles 49, 105 et 119 de la loi du 6 janvier 1978 susvisée ainsi que les mesures prises pour faciliter l'exercice de ce droit ;
+5° Les catégories de personnes qui, à raison de leurs fonctions ou pour les besoins du service, ont directement accès aux données enregistrées ;
+6° Les destinataires ou catégories de destinataires habilités à recevoir communication des données ;
+7° Le cas échéant, les interconnexions, les rapprochements ou toute autre forme de mise en relation avec d'autres traitements.
+Article 68
+
+
+L'engagement de conformité à un acte réglementaire unique pris en application du IV de l'article 31 de la loi du 6 janvier 1978 susvisée est adressé à la commission dans les conditions prévues à l'article 62 du présent décret.
+Article 69
+
+
+Les avis motivés de la commission émis en application des articles 31 et 32 de la loi du 6 janvier 1978 susvisée et les actes sur lesquels ils portent sont publiés à la même date par le responsable du traitement.
+Article 70
+
+
+Lorsqu'un traitement fait l'objet d'un décret autorisant la dispense de publication de l'acte l'autorisant en application du III de l'article 31 de la loi du 6 janvier 1978 susvisée, le sens de l'avis émis par la commission ne peut porter que la mention « favorable », « favorable avec réserve » ou « défavorable ».
+Dans les cas visés au premier alinéa et pour l'application du II de l'article 36 de la loi du 6 janvier 1978 susvisée, la commission ne peut mettre à la disposition du public que le sens de son avis.
+Titre II : TRAITEMENTS RELEVANT DU RÉGIME DE PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL PRÉVUE PAR LE RÈGLEMENT (UE) 2016/679 DU 27 AVRIL 2016 (Articles 71 à 128)
+Article 71
+
+
+Le présent titre s'applique aux traitements relevant du titre II de la loi du 6 janvier 1978 susvisée.
+Chapitre Ier : Dispositions générales (Articles 72 à 76)
+Section 1 : Codes de conduite, règles d'entreprises contraignantes, certifications (Articles 72 à 75)
+Article 72
+
+
+En application de l'article 40 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, les associations et autres organismes représentant des catégories de responsables du traitement ou de sous-traitants soumettent un projet de code de conduite, une modification ou une prorogation d'un code existant à la Commission nationale de l'informatique et des libertés.
+La commission approuve ce projet de code, cette modification ou cette prorogation dans un délai de quatre mois à compter de la réception de la demande. Ce délai peut être prolongé de deux mois supplémentaires sur décision de son président. Lorsque la commission ne s'est pas prononcée dans ces délais, la demande est réputée rejetée.
+Si la commission saisit, en application du 7 de l'article 40 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, le comité européen de la protection des données mentionné à l'article 68 du même règlement, les délais prévus au deuxième alinéa sont suspendus jusqu'à la notification de l'avis rendu par ce comité ou, le cas échéant, de la décision prise par la Commission européenne, en application des règles relatives au mécanisme de contrôle de la cohérence. La commission informe le demandeur de cette saisine et des suites de celle-ci.
+Article 73
+
+
+Lorsque la Commission nationale de l'informatique et des libertés est saisie d'une demande d'approbation de règles d'entreprises contraignantes mentionnées à l'article 47 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, elle communique un projet de décision au comité européen de la protection des données mentionné à l'article 68 du même règlement dans un délai de six mois. Ce délai peut être prolongé de deux mois supplémentaires sur décision de son président. La commission informe le demandeur de cette transmission.
+Après réception de l'avis du comité européen de la protection des données en vertu de l'article 64 du règlement (UE) 2016/679 du 27 avril 2016 susvisé ou, le cas échéant, après la mise en œuvre de la procédure de règlement des litiges par le comité en application de l'article 65 du même règlement, la commission se prononce sur la demande dans un délai d'un mois. Lorsque la commission ne s'est pas prononcée dans ce délai, la demande est réputée rejetée.
+Article 74
+
+
+I. − Lorsque qu'elle envisage d'élaborer ou d'approuver les critères des référentiels de certification et d'agrément mentionnés au h du 2° du I de l'article 8 de la loi du 6 janvier 1978 susvisée, la Commission nationale de l'informatique et des libertés se prononce, en fonction notamment du domaine d'activité et de l'objet du référentiel de certification, sur les modalités de certification et d'agrément retenues parmi celles définies au présent article.
+La commission peut décider de délivrer elle-même les certifications ou d'en laisser le soin à des organismes tiers.
+Lorsque la certification est délivrée par des organismes tiers, la commission détermine, en fonction du domaine d'activité et de l'objet du référentiel de certification, si elle agrée directement ces organismes certificateurs ou si cet agrément peut être délivré par l'organisme national d'accréditation mentionné au b du 1 de l'article 43 du règlement (UE) 2016/679 du 27 avril 2016 susvisé. Dans ce dernier cas, la commission saisit l'organisme national d'accréditation qui réalise une étude de faisabilité de l'agrément des organismes certificateurs potentiellement concernés. Une convention fixe les modalités de coopération entre la commission et l'organisme national d'accréditation.
+II. − Le contenu du dossier des demandes de certification et d'agrément présentées à la commission dans le cadre du I est fixé par la délibération arrêtant les critères de certification ou d'agrément.
+La commission se prononce dans un délai de quatre mois à compter de la réception d'une demande complète. Ce délai peut être prolongé de deux mois supplémentaires sur décision de son président. Lorsque la commission ne s'est pas prononcée dans ces délais, la demande est réputée rejetée.
+Si la commission saisit, en application du 3 de l'article 43 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, le comité européen de la protection des données mentionné à l'article 68 du même règlement, les délais prévus au deuxième alinéa sont suspendus jusqu'à notification de son avis ou, le cas échéant, de sa décision conformément au 6 de l'article 65 du règlement susvisé. La commission informe le demandeur de cette saisine et des suites de celle-ci.
+Le contenu des dossiers de demandes présentées à l'organisme national d'accréditation dans le cadre du I, et les conditions de leur traitement, intégrant les exigences supplémentaires fixées, le cas échéant, par la commission, sont définies par le règlement d'accréditation de l'organisme national d'accréditation. Cette accréditation tient lieu d'agrément.
+III. − Les certifications sont délivrées pour une durée précisée par chaque référentiel de certification et qui ne saurait être supérieure à trois ans.
+Les organismes de certification sont agréés pour une durée de cinq ans maximum renouvelable dans des conditions fixées par le règlement intérieur de la commission ou, selon le cas, par le règlement d'accréditation de l'organisme national d'accréditation.
+Article 75
+
+
+Si la commission saisit le Comité européen de la protection des données mentionné à l'article 68 du règlement (UE) 2016/679 du 27 avril 2016 susvisé en dehors des délais prévus aux articles 72 à 74 du présent décret, elle rend une décision au plus tard un mois après la notification de la décision du comité.
+Section 2 : Dispositions relatives aux traitements de données à caractère personnel relatives aux condamnations pénales, aux infractions ou aux mesures de sûreté connexes (Article 76)
+Article 76
+
+
+En application du 1° de l'article 46 de la loi du 6 janvier 1978 susvisée, sont autorisés à mettre en œuvre les traitements de données à caractère personnel relatives aux condamnations pénales, aux infractions ou aux mesures de sûreté connexes :
+1° a) Jusqu'à l'entrée en vigueur du II et du VII de l'article 42 de la loi du 23 mars 2019 susvisée selon les conditions précisées au XI de son article 109, les associations d'aide aux victimes conventionnées par le ministère de la justice ;
+b) Après l'entrée en vigueur du II et du VII de l'article 42 de la loi du 23 mars 2019 susvisée selon les conditions précisées au XI de son article 109, les associations d'aide aux victimes agréées par le ministère de la justice ;
+2° Les associations d'aide à la réinsertion des personnes placées sous-main de justice mentionnées à l'article 2-1 de la loi n° 2009-1436 du 24 novembre 2009 pénitentiaire, dans le respect de leur objet social ;
+3° Les établissements et services mentionnés aux 2° du I de l'article L. 312-1 du code de l'action sociale et des familles au titre de leur mission d'accompagnement médico-social ;
+4° Les établissements et services mentionnés aux 4° et 14° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
+5° Les lieux de vie et d'accueil mentionnés au III de l'article L. 312-1 du code de l'action sociale et des familles ;
+6° Les établissements médicaux ou médico-pédagogiques habilités mentionnés aux articles 15 et 16 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante ;
+7° Les institutions ou les établissements publics ou privés, d'éducation ou de formation professionnelle, habilités et les internats appropriés aux mineurs délinquants d'âge scolaire mentionnés aux articles 15 et 16 de l'ordonnance du 2 février 1945 susvisée ;
+8° Les personnes morales de droit privé exerçant une mission de service public ou les associations habilitées mentionnées à l'article 16 ter de l'ordonnance du 2 février 1945 susvisée ;
+9° Les mandataires judiciaires à la protection des majeurs mentionnés à l'article L. 471-1 du code de l'action sociale et des familles.
+Chapitre II : Droits de la personne concernée (Articles 77 à 81)
+Section 1 : Dispositions générales (Articles 77 à 80)
+Article 77
+
+
+Lorsque la personne concernée forme une demande, y compris par voie électronique, tendant à la mise en œuvre des droits prévus aux articles 48, 49, 50, 51, 53, 54, 55 et 56 de la loi du 6 janvier 1978 susvisée, elle justifie de son identité par tout moyen. Elle peut exercer ses droits en utilisant des données d'identité numériques lorsque ces données sont nécessaires et estimées suffisantes par le responsable du traitement pour authentifier ses utilisateurs.
+Lorsque le responsable du traitement ou le sous-traitant a des doutes raisonnables quant à l'identité de cette personne, il peut demander les informations supplémentaires apparaissant nécessaires, y compris, lorsque la situation l'exige, la photocopie d'un titre d'identité portant la signature du titulaire.
+Les délais prévus au 3 de l'article 12 du règlement (UE) 2016/679 du 27 avril 2016 susvisé sont suspendus lorsque le responsable du traitement ou le sous-traitant a sollicité des informations supplémentaires nécessaires pour identifier la personne concernée.
+Lorsqu'il existe un doute raisonnable sur l'identité du demandeur ou sur l'adresse postale à laquelle la personne concernée a demandé la transmission par écrit d'informations la concernant, la réponse peut être expédiée sous pli recommandé sans avis de réception, la vérification de l'adresse et de l'identité s'effectuant lors de la délivrance du pli.
+Lorsque le responsable du traitement, le sous-traitant ou le délégué à la protection des données n'est pas connu du demandeur, celui-ci peut adresser sa demande au siège ou à l'adresse électronique fonctionnelle de la personne morale, de l'autorité publique, du service ou de l'organisme dont le traitement relève. La demande est transmise immédiatement au responsable du traitement.
+La demande peut être également présentée par une personne spécialement mandatée à cet effet par le demandeur, si celle-ci justifie de son identité et de l'identité du mandant, de son mandat ainsi que de la durée et de l'objet précis de celui-ci. Le mandat doit également préciser si le mandataire peut être rendu destinataire de la réponse du responsable du traitement ou du sous-traitant.
+Article 78
+
+
+Lorsqu'une demande est présentée sur place, la personne concernée justifie par tout moyen de son identité auprès du responsable du traitement ou du sous-traitant. La demande peut être présentée par une personne spécialement mandatée à cet effet par le demandeur, dans les conditions prévues à l'article 77.
+Lorsque la demande ne peut être satisfaite immédiatement, il est délivré à son auteur un avis de réception, daté et signé.
+Article 79
+
+
+Sans préjudice du 4 de l'article 12 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, si la demande transmise par la personne concernée est imprécise ou ne comporte pas les éléments permettant au responsable du traitement ou au sous-traitant d'y répondre, celui-ci peut inviter le demandeur à lui fournir des informations complémentaires dans les délais prévus au 3 de l'article 12 du même règlement.
+Lorsque le responsable de traitement ou le sous-traitant ne s'est pas prononcé dans les délais mentionnés aux 3 et 4 de l'article 12 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, la demande est réputée rejetée.
+Article 80
+
+
+Les codes, sigles et abréviations figurant dans les documents délivrés par le responsable de traitement, le sous-traitant ou le délégué à la protection des données en réponse à une demande doivent être explicités, si nécessaire sous la forme d'un lexique ou d'icônes normalisées.
+Section 2 : Dispositions particulières aux droits exercés de manière indirecte (Article 81)
+Article 81
+
+
+Les dispositions des articles 141 à 143 sont applicables aux traitements mis en œuvre par les administrations publiques et les personnes privées chargées d'une mission de service public qui ont pour mission de contrôler ou recouvrer des impositions ainsi qu'à ceux intéressant la sécurité publique, si l'acte instaurant le traitement a prévu que les droits d'accès, de rectification et d'effacement s'exerceraient dans les conditions de l'article 52 de la loi du 6 janvier 1978 susvisée. Les actes créant ces traitements contiennent les dispositions mentionnées au second paragraphe de l'article 23 du règlement (UE) 2016/679 du 27 avril 2016 susvisé.
+Chapitre III : Obligations incombant au responsable du traitement et au sous-traitant (Articles 82 à 116)
+Section 1 : Obligations générales (Articles 82 à 85)
+Article 82
+
+
+Un délégué à la protection des données est désigné par le responsable du traitement ou par le sous-traitant dans les cas prévus par l'article 37 du règlement (UE) 2016/679 du 27 avril 2016 susvisé.
+Le délégué veille au respect des obligations prévues par le règlement (UE) 2016/679 du 27 avril 2016 susvisé et par la loi du 6 janvier 1978 susvisée.
+Article 83
+
+
+La communication à la Commission nationale de l'informatique et des libertés des coordonnées prévues au 7 de l'article 37 du règlement (UE) 2016/679 du 27 avril 2016 susvisé comporte les mentions suivantes :
+1° Les nom, prénom et coordonnées professionnelles du responsable du traitement ou du sous-traitant ou, le cas échéant, ceux de son représentant, ainsi que ceux du délégué à la protection des données. Pour les personnes morales responsables du traitement et les sous-traitants, leur dénomination, leur siège social ainsi que l'organe qui les représente légalement ;
+2° Lorsque le délégué à la protection des données est une personne morale, les mêmes renseignements concernant le préposé que la personne morale a désigné pour exercer les missions de délégué.
+Les coordonnées mentionnées au 1° et au 2° sont communiquées sans délai à la Commission nationale de l'informatique et des libertés par voie électronique ainsi que toutes modifications de celles-ci.
+La dénomination et les coordonnées professionnelles de l'organisme ainsi que les moyens de contacter le délégué à la protection des données font l'objet d'une diffusion dans un format ouvert et aisément réutilisable par la Commission nationale de l'informatique et des libertés.
+Article 84
+
+
+Conformément à l'article 37 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, les responsables du traitement ou les sous-traitants peuvent désigner un seul délégué à la protection des données qui exerce sa mission pour le compte de plusieurs d'entre eux.
+Lorsque les collectivités territoriales, leurs groupements, les établissements publics locaux, et les personnes morales de droit privé gérant un service public désignent un seul délégué à la protection des données, une convention détermine les conditions dans lesquelles s'exerce la mutualisation. Chacune des parties à la mutualisation demeure responsable du traitement ou sous-traitant.
+Article 85
+
+
+Sont autorisés à déroger au droit à la communication d'une violation de données, dans les conditions prévues au II de l'article 58 de la loi du 6 janvier 1978 susvisée :
+1° Les traitements comportant des données à caractère personnel susceptibles de permettre, directement ou indirectement, d'identifier des personnes dont l'anonymat est protégé au titre de l'article 39 sexies de la loi du 29 juillet 1881 sur la liberté de la presse ;
+2° Les traitements de données de gestion administrative, financière et opérationnelle ainsi que les traitements de données de santé pour lesquels la notification d'une divulgation ou d'un accès non autorisé est susceptible de représenter un risque pour la sécurité nationale, la défense nationale ou la sécurité publique au regard du volume des données concernées par la violation et des informations relatives à la vie privée qu'elles comportent telles que l'adresse ou la composition de la famille.
+Section 2 : Traitements de données à caractère personnel dans le domaine de la santé (Articles 86 à 115)
+Sous-section 1 : Dispositions générales (Articles 86 à 87)
+Article 86
+
+
+Les traitements de données à caractère personnel dans le domaine de la santé mentionnés au premier alinéa de l'article 67 de la loi du 6 janvier 1978 susvisée ayant pour seule finalité de répondre, en cas de situation d'urgence, à une alerte sanitaire et d'en gérer les suites peuvent utiliser le numéro d'inscription au répertoire national d'identification des personnes physiques dans les conditions prévues au deuxième alinéa du même article 67 lorsqu'une telle utilisation constitue le seul moyen de collecter des données de santé à caractère personnel nécessaires pour faire face à l'urgence sanitaire.
+Le numéro d'inscription au répertoire national d'identification des personnes physiques est collecté soit directement auprès des personnes concernées, soit indirectement auprès de leurs proches ou de toutes personnes morales habilitées à traiter ce numéro dans le cadre de leurs missions ou activités.
+Sa transmission et sa conservation sur support électronique ou numérique font l'objet d'un chiffrement, conforme aux recommandations, référentiels ou aux règlements types adoptés par la Commission nationale de l'informatique et des libertés. Il est conservé pour la durée nécessaire à l'appariement de données.
+Article 87
+
+
+Sous réserve des dispositions particulières du présent chapitre, les demandes d'autorisation formulées en application de la section 3 du chapitre III du titre II de la loi du 6 janvier 1978 susvisée sont instruites dans les conditions prévues au chapitre II du titre Ier du présent décret.
+Sous-section 2 : Dispositions particulières relatives aux traitements à des fins de recherche, d'étude ou d'évaluation dans le domaine de la santé (Articles 88 à 107)
+Paragraphe 1 : Présentation et instruction des demandes d'autorisations de traitements (Articles 88 à 92)
+Article 88
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Dans les cas prévus à l'article 76 de la loi du 6 janvier 1978 susvisée, les dossiers de demande d'autorisation de traitement de données à caractère personnel ayant pour fin la recherche, les études et les évaluations dans le domaine de la santé sont signés par la personne qui a qualité pour représenter le responsable de traitement.
+
+
+Ils sont déposés soit auprès de la Commission nationale de l'informatique et des libertés, après avis du comité compétent de protection des personnes en application du 1° de l'article 76 de la loi du 6 janvier 1978 susvisée, soit auprès du secrétariat unique confié, conformément au 2° de l'article L. 1462-1 du code de la santé publique, à la Plateforme des données de santé.
+
+
+Les dossiers déposés auprès du secrétariat unique sont transmis dans un délai maximal de sept jours ouvrés au comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé pour rendre un avis sur le projet.
+Article 89
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Chaque dossier déposé auprès du secrétariat unique mentionné à l'article 88 doit comporter :
+
+
+1° L'identité, l'adresse, les titres, expériences, fonctions et déclarations d'intérêt en lien avec l'objet de la recherche du responsable du traitement et du responsable de la recherche, de l'étude ou de l'évaluation, ainsi que, le cas échéant, l'identité et l'adresse du commanditaire de la recherche, de l'étude ou de l'évaluation et de la personne publique qui en a fait la demande. Si ces responsables ou commanditaires ne sont établis ni sur le territoire national, ni sur celui d'un autre Etat membre de l'Union européenne, sont indiquées l'identité, l'adresse et les fonctions de leur représentant au sein de l'Union européenne.
+
+
+Les missions ou l'objet social de l'organisme concerné sont également précisés ;
+
+
+2° Les catégories de personnes qui seront appelées à mettre en œuvre le traitement ainsi que celles qui auront accès aux données ;
+
+
+3° La méthodologie de l'étude ou de l'évaluation ou le protocole de recherche, indiquant notamment l'objectif du traitement de données à caractère personnel, les catégories de personnes concernées par le traitement, l'origine, la nature et la liste des données à caractère personnel utilisées et la justification du recours à celles-ci, la durée et les modalités d'organisation de la recherche, de l'étude ou de l'évaluation, la méthode d'analyse des données, ainsi que, lorsque les caractéristiques de l'étude, de la recherche ou de l'évaluation l'exigent, la justification du nombre de personnes et la méthode d'observation ou d'investigation retenue ;
+
+
+4° Le type de diffusion ou de publication des résultats de l'étude, de la recherche ou de l'évaluation par le demandeur ;
+
+
+5° S'il y a lieu, les mesures d'information prévues en application du règlement (UE) 2016/679 du 27 avril 2016 susvisé et aux articles 58, 69 et 70 de la loi du 6 janvier 1978 susvisée ainsi que la justification de toute demande de dérogation à l'obligation d'information prévue à l'article 58 ;
+
+
+6° Les caractéristiques du traitement, notamment la durée de conservation des données ;
+
+
+7° Le cas échéant, la justification scientifique et technique de toute demande de dérogation à l'interdiction de conservation des données sous une forme nominative au-delà de la durée nécessaire à la recherche ;
+
+
+8° Les avis rendus antérieurement par des instances scientifiques ou éthiques prévues par des dispositions législatives ou réglementaires ;
+
+
+9° Les rapprochements ou interconnexions envisagés ou toute autre forme de mise en relation des informations ;
+
+
+10° Les dispositions prises pour assurer la sécurité des traitements et des informations et la garantie des secrets protégés par la loi ;
+
+
+11° Le cas échéant, la mention de toute transmission de données à caractère personnel vers un Etat n'appartenant pas à l'Union européenne ;
+
+
+12° Le cas échéant, la liste des traitements répondant aux caractéristiques prévues au IV de l'article 66 de la loi du 6 janvier 1978 susvisée. Le dossier précise, en ce cas, les catégories de données, les destinataires ou les catégories de destinataires et la justification du recours au mécanisme de la décision unique.
+
+
+Le secrétariat unique vérifie que chaque dossier produit à l'appui d'une demande comporte tous les éléments énoncés ci-dessus.
+
+
+Toute modification de ces éléments doit être portée à la connaissance du secrétariat susmentionné qui, le cas échéant, en fait part aux instances compétentes.
+Article 90
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé, mentionné au 2° de l'article 76 de la loi du 6 janvier 1978 susvisée et saisi par le secrétariat unique mentionné à l'article 88 du présent décret, émet un avis sur la méthodologie retenue, sur la nécessité du recours à des données à caractère personnel, sur la pertinence de celles-ci par rapport à la finalité du traitement et, s'il y a lieu, sur la pertinence scientifique et éthique du projet. Le cas échéant, le comité recommande aux demandeurs des modifications de leur projet afin de le mettre en conformité avec les obligations prévues par la loi du 6 janvier 1978 susvisée.
+L'avis rendu par le comité est motivé.
+
+
+Dès que le comité a rendu son avis, celui-ci est notifié au secrétariat unique, par tout moyen permettant de dater la réception de cette notification.
+
+
+L'avis rendu par le comité est transmis au demandeur de l'autorisation.
+
+
+A l'expiration d'un délai d'un mois à compter de la date de réception du dossier complet par le comité, l'avis dudit comité est réputé favorable.
+
+
+Le délai mentionné à l'alinéa précédent peut être prolongé une fois, pour une durée d'un mois supplémentaire, sur décision du président du comité.
+
+
+En cas d'urgence, le délai mentionné au cinquième alinéa peut être ramené à quinze jours, dans les conditions prévues à l'article 100.
+Article 91
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Lorsque le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé rend un avis favorable, le cas échéant de façon tacite, ou un avis favorable avec recommandations, réservé ou défavorable, le demandeur informe le secrétariat unique de sa volonté de saisir ou non la Commission nationale de l'informatique et des libertés. Il peut rectifier ou compléter son dossier de demande d'autorisation sur les points qui ont fondé le refus, les réserves ou les recommandations du comité.
+
+
+Lorsque le demandeur a informé le secrétariat de sa volonté que la commission soit saisie, le secrétariat unique susmentionné transmet sans délai le dossier produit à l'appui de la demande accompagné des avis rendus, ou de l'avis de réception ou du récépissé de la demande d'avis lorsque ce comité a rendu un avis tacitement favorable, à la commission, qui se prononce dans les conditions prévues au V de l'article 66 de la loi du 6 janvier 1978 susvisée.
+
+
+Le secrétariat unique informe le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé des suites données à son avis.
+
+
+Le secrétariat unique tient à la disposition du demandeur de l'autorisation, les informations relatives à l'état d'avancement de l'instruction de son dossier jusqu'à l'autorisation rendue par la commission.
+Article 92
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Lorsqu'il est saisi par le président de la Commission nationale de l'informatique et des libertés ou par le ministre chargé de la santé, en application du second alinéa de l'article 72 de la loi du 6 janvier 1978 susvisé, de la question du caractère d'intérêt public d'un traitement de données à caractère personnel à des fins de recherche, d'étude ou d'évaluation faisant l'objet d'une demande d'autorisation, le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé se prononce dans le délai d'un mois. Le secrétariat unique mentionné à l'article 88 informe le demandeur que le comité a été saisi de cette question. L'avis est transmis à l'auteur de la saisine et au demandeur.
+
+
+Lorsque le comité examine, dans les conditions prévues à l'article 90, le dossier d'une demande d'autorisation relative à un traitement de données à caractère personnel concernant des recherches n'impliquant pas la personne humaine, une étude ou une évaluation, il peut, de sa propre initiative, se prononcer dans son avis sur le caractère d'intérêt public de ce traitement.
+Paragraphe 2 : Composition et fonctionnement du comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé (CESREES) (Articles 93 à 100)
+Article 93
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé, qui siège auprès des ministres chargés de la santé et de la recherche, comprend, outre son président :
+
+
+1° Trois personnalités qualifiées désignées par le ministre chargé de la santé ;
+
+
+2° Trois personnalités qualifiées désignées par le ministre chargé de la recherche ;
+
+
+3° Un expert proposé par la Caisse nationale de l'assurance maladie ;
+
+
+4° Un expert proposé par l'Institut national de la santé et de la recherche médicale ;
+
+
+5° Un expert proposé par le Centre national de la recherche scientifique ;
+
+
+6° Un expert proposé par l'Institut national de recherche en informatique et en automatique ;
+
+
+7° Un expert proposé par l'Institut national de la statistique et des études économiques ;
+
+
+8° Un expert proposé par la Conférence nationale des directeurs généraux de centres hospitaliers régionaux et universitaires ;
+
+
+9° Un expert proposé par la Conférence des doyens des facultés de médecine ;
+
+
+10° Un expert proposé par la Conférence des présidents d'universités ;
+
+
+11° Un membre du Conseil d'Etat proposé par son vice-président ;
+
+
+12° Un représentant du Comité consultatif national d'éthique, proposé par celui-ci ;
+
+
+13° Un représentant du service interministériel des archives de France, proposé par ce service ;
+
+
+14° Deux représentants de l'Union nationale des associations agréées d'usagers du système de santé prévue par l'article L. 1114-6, proposés par celle-ci ;
+
+
+15° Une personne représentant les acteurs privés du domaine de la santé.
+
+
+Le président et les membres du comité sont nommés par arrêté conjoint du ministre chargé de la santé et du ministre chargé de la recherche pour une durée de cinq ans renouvelable une fois. En cas de démission ou de décès, ils sont remplacés pour la durée restant à courir de leur mandat.
+
+
+Les personnalités qualifiées et les experts sont choisis en raison de leurs compétences en matière éthique ou juridique, en matière de recherche dans les domaines de la santé, de l'épidémiologie, de la génétique, de la biostatistique ou des sciences humaines et sociales ou en matière de traitements algorithmiques ou de traitements de données à caractère personnel dans le domaine de la santé.
+
+
+Le comité élit en son sein un vice-président.
+
+
+Le comité peut faire appel à des experts extérieurs désignés par le président du comité. Ces experts sont soumis aux obligations prévues par l'article L. 1452-3 du code de la santé publique. Le comité peut également solliciter des représentants des organismes qui détiennent les données concernées par les demandes de traitement.
+
+
+Les membres du comité et les experts extérieurs sont tenus au secret professionnel.
+Article 94
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé est saisi, préalablement à la saisine de la Commission nationale de l'informatique et des libertés, de toute demande de mise en œuvre des traitements de données à caractère personnel ayant pour finalités la recherche, l'étude ou l'évaluation dans le domaine de la santé et n'impliquant pas la personne humaine, conformément au 2° de l'article 76 de la loi du 6 janvier 1978 susvisée.
+
+
+Conformément au second alinéa de l'article 72 de la loi du 6 janvier 1978 susvisée, le comité peut se prononcer sur le caractère d'intérêt public d'un traitement de données à caractère personnel à des fins de recherche, d'étude ou d'évaluation dans le domaine de la santé à la demande du président de la Commission nationale informatique et libertés ou du ministre chargé de la santé, ou de sa propre initiative lorsqu'il examine, dans les conditions prévues à l'article 90, le dossier d'une demande d'autorisation relative à un traitement de données à caractère personnel. Il peut également être consulté par les ministères concernés, par la commission, par la Plateforme des données de santé et par les organismes publics et privés qui ont recours à des traitements de données à caractère personnel dans ce domaine.
+
+
+Le sens de l'avis rendu par le comité est publié par la Plateforme des données de santé. Pour les traitements autorisés par la commission, la motivation de l'avis du comité est publiée par la Plateforme des données de santé à la fin de la recherche, de l'étude ou de l'évaluation.
+Article 95
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+I.-Le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé ne peut valablement siéger que si la moitié au moins de ses membres est présente. Il rend ses avis à la majorité des membres présents. En cas de partage égal des voix, celle du président est prépondérante. Les séances du comité ne sont pas publiques.
+
+
+II.-Le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé adopte un règlement intérieur qui définit les modalités de son fonctionnement Ce règlement intérieur peut notamment prévoir des procédures sans débat pour les traitements similaires à ceux que le comité a déjà examinés, c'est-à-dire des traitements répondant à une même finalité, portant sur des catégories de données identiques et ayant des catégories de destinataires identiques. Il est approuvé par arrêté conjoint du ministre chargé de la santé et du ministre chargé de la recherche.
+
+
+Le président peut déléguer sa signature à un membre du comité éthique et scientifique nommément désigné.
+Article 96
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé peut entendre le responsable du traitement ou son représentant.
+Article 97
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Les membres du comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé, y compris son président et son vice-président, et les experts extérieurs auxquels il fait appel reçoivent, dans l'exercice de leur mission, une indemnité dont le montant est fixé par arrêté du ministre chargé de la santé. Ils ont droit, en outre, au remboursement des frais qu'occasionne l'exécution de leur mission, dans les conditions prévues par le décret du 3 juillet 2006 susvisé.
+Article 98
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Les dossiers, rapports, délibérations et avis sont conservés par le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé dans des conditions assurant leur confidentialité, pendant une durée maximale de dix ans, avant leur versement aux Archives nationales.
+Article 99
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Le comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé établit un rapport annuel d'activité qui est adressé au ministre chargé de la recherche, au ministre chargé de la santé, des affaires sociales et de la sécurité sociale et au président de la Commission nationale de l'informatique et des libertés.
+Article 100
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+En cas d'urgence, le ministre chargé de la recherche ou le ministre chargé de la santé, des affaires sociales et de la sécurité sociale peut demander au comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé de statuer dans un délai qui peut être réduit à quinze jours. Il en informe le demandeur et le secrétariat unique.
+Paragraphe 3 : Composition et fonctionnement du comité d'audit du système national des données de santé (Articles 101 à 106)
+Article 101
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Le comité d'audit prévu à l'article 77 de la loi du 6 janvier 1978 susvisée est présidé par le haut fonctionnaire de défense et de sécurité des ministères chargés des affaires sociales qui peut déléguer cette fonction au fonctionnaire de sécurité des systèmes d'information des ministères chargés des affaires sociales et de la santé.
+
+
+Le comité d'audit est composé :
+
+
+1° Du directeur de la recherche, des études, de l'évaluation et des statistiques ou son représentant ;
+
+
+2° Du délégué à la stratégie des systèmes d'information de santé ou son représentant ;
+
+
+3° Du directeur de la Caisse nationale d'assurance maladie, responsable du traitement du système national des données de santé, ou son représentant ;
+
+
+4° Du directeur de l'Agence technique de l'information sur l'hospitalisation ou son représentant ;
+
+
+5° Du directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+
+
+6° Du directeur de la Caisse nationale de solidarité pour l'autonomie ou son représentant ;
+
+
+7° De représentants des organismes d'assurance maladie complémentaire ;
+8° Du président de la Plateforme des données de santé, responsable du traitement du système national des données de santé, ou de son représentant ;
+
+
+9° D'une personne représentant les acteurs privés du domaine de la santé ;
+
+
+10° D'une personnalité qualifiée.
+
+
+Les personnes mentionnées aux 7°, 9° et 10° sont désignées par arrêté du ministre chargé des affaires sociales et de la santé, sur proposition du président du comité d'audit.
+
+
+Le président de la Commission nationale de l'informatique et des libertés ou son représentant assiste au comité d'audit en tant qu'observateur.
+
+
+Le comité d'audit se réunit au moins deux fois par an sur convocation de son président.
+
+
+Sur la base des orientations arrêtées par le comité d'audit, son président décide des audits à réaliser chaque année sur l'ensemble des systèmes réunissant, organisant ou mettant à disposition tout ou partie des données du système national des données de santé à des fins de recherche, d'étude ou d'évaluation et sur les systèmes composant le système national des données de santé.
+
+
+La stratégie d'audit ainsi que la programmation des audits sont transmises par le président du comité d'audit au président de la Commission nationale de l'informatique et des libertés.
+Article 102
+
+
+Les audits sont réalisés par des prestataires indépendants.
+Si le périmètre de l'audit implique des données médicales individuelles, le prestataire retenu doit prévoir la présence d'un médecin auprès des auditeurs pour tous les aspects de l'audit concernant ces données.
+Le président du comité d'audit suit la mise en œuvre des audits et en rend compte au comité.
+Le comité d'audit et le prestataire fondent leur action sur une charte d'audit définie par arrêté du ministre chargé des affaires sociales et de la santé pris après avis de la Commission nationale de l'informatique et des libertés.
+Article 103
+
+
+Le président du comité d'audit envoie une notification à l'entité auditée pour l'avertir de l'audit. Cette notification rappelle notamment l'objet de la mission, l'identité des auditeurs, la procédure d'audit, le droit d'opposition à l'audit de l'entité auditée qui peut s'exercer à tout moment ainsi que les délais et les voies de recours de l'entité auditée.
+Si l'entité auditée fait état de son droit d'opposition à l'audit, les auditeurs alertent aussitôt le président du comité d'audit qui en informe sans délai le président de la Commission nationale de l'informatique et des libertés.
+Les auditeurs ont accès de 8 heures à 20 heures, pour l'exercice de leurs missions, aux lieux, locaux, enceintes, installations ou établissements servant à la mise en œuvre des traitements de données à caractère personnel, à l'exclusion des parties de ceux-ci affectés au domicile privé.
+Pour l'exercice de leurs missions, les auditeurs peuvent demander communication de tous documents, quel qu'en soit le support, et en prendre copie. Ils peuvent recueillir, notamment sur place ou sur convocation, tout renseignement et toute justification utiles. Les auditeurs peuvent accéder, dans des conditions préservant la confidentialité à l'égard des tiers, aux programmes informatiques et aux données, ainsi qu'en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins de l'audit.
+Les auditeurs peuvent procéder à toute constatation utile. Les auditeurs peuvent notamment, à partir d'un service de communication au public en ligne, consulter les données librement accessibles ou rendues accessibles. Les auditeurs peuvent retranscrire les données par tout traitement approprié dans des documents directement utilisables pour les besoins de l'audit.
+En cas de difficultés lors de l'audit, l'entité auditée peut saisir le président du comité d'audit afin qu'il s'assure de la conformité du comportement du prestataire et de ses auditeurs aux exigences découlant de la loi du 6 janvier 1978 susvisée, du présent décret, de la charte d'audit mentionnée à l'article 102 et des clauses du marché public sur le fondement duquel ils interviennent.
+Article 104
+
+
+L'audit donne lieu à un rapport qui est transmis, pour contradiction, à l'entité auditée. Ce rapport rappelle l'objet de la mission, les membres de celle-ci, les personnes rencontrées, le cas échéant leurs déclarations, les demandes formulées par les auditeurs ainsi que les éventuelles difficultés rencontrées. Les manquements et dysfonctionnements constatés par les auditeurs à la loi du 6 janvier 1978 susvisée et aux dispositions du code de la santé publique relatives au système national des données de santé sont consignés dans ces rapports ainsi que les recommandations en découlant.
+Le rapport est signé par les auditeurs. Il est envoyé, après validation par le président du comité d'audit, par ce dernier par lettre recommandée avec accusé de réception à l'entité auditée.
+Lorsque l'audit conduit à l'accès à des données médicales individuelles, le médecin désigné par le prestataire consigne dans un rapport les vérifications qu'il a faites sans faire état des données médicales individuelles auxquelles il a eu accès. Le rapport, après validation par le président du comité d'audit, est transmis par ce dernier par lettre recommandée avec accusé de réception à l'entité contrôlée.
+L'entité auditée dispose d'un délai d'un mois pour répondre à compter de la réception des rapports. Ses réponses doivent comporter un plan d'action et un calendrier de mise en œuvre de ses actions.
+Au vu des réponses de l'entité auditée, de son plan d'action et de son calendrier de mise en œuvre, les auditeurs formalisent des rapports définitifs. Ces rapports définitifs sont signés par les auditeurs et le président du comité d'audit, après validation par ce dernier. Ils sont envoyés aux entités auditées par lettre recommandée avec accusé de réception par le président du comité d'audit.
+Les rapports définitifs sont systématiquement transmis au président de la Commission nationale de l'informatique et des libertés, et à tous les corps de contrôle qui en font la demande.
+L'intégralité des pièces justificatives sont transmises par les auditeurs au président du comité d'audit.
+Article 105
+
+
+Les entités auditées rendent compte au président du comité d'audit et aux auditeurs de la mise en œuvre de leur plan d'action tous les six mois ou selon le calendrier arrêté par les parties. Les entités auditées doivent fournir à cette occasion tout document justifiant de cette mise en œuvre.
+Le président du comité d'audit et les auditeurs suivent la mise en œuvre de ces plans d'action.
+Article 106
+
+
+Le président du comité d'audit rend compte annuellement au ministre chargé des affaires sociales et de la santé ainsi qu'au comité stratégique de la stratégie d'audit du comité d'audit, des audits réalisés, du niveau global de maîtrise des opérations, des problèmes significatifs constatés ainsi que des recommandations formulées pour respecter la législation en vigueur, les référentiels et réduire les risques.
+Le président du comité d'audit présente les principales conclusions et recommandations des audits au comité d'audit.
+Paragraphe 4 : Composition et fonctionnement des comités de protection des personnes (Article 107)
+Article 107
+
+
+La composition et le fonctionnement des comités de protection des personnes sont fixés par les articles R. 1123-1 et suivants du code de la santé publique.
+Sous-section 3 : Procédures simplifiées (Articles 108 à 110)
+Article 108
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+Le président du comité éthique et scientifique pour les recherches, les études et les évaluations dans le domaine de la santé, siégeant à l'assemblée générale de la Plateforme des données de santé, peut avoir recours aux membres du comité éthique et scientifique pour participer à la formalisation des référentiels et règlements types mentionnés au II de l'article 66 de la loi du 6 janvier 1978 susvisée ainsi que des méthodologies de référence mentionnées à l'article 73 de la même loi.
+
+
+La Commission nationale de l'informatique et des libertés ou, par délégation, le président ou le vice-président délégué établit ces référentiels et règlements types et homologue ces méthodologies de référence. Ceux-ci sont publiés au Journal officiel de la République française.
+Article 109
+Modifié par Décret n°2020-567 du 14 mai 2020 - art. 1
+La Plateforme des données de santé peut adresser à la Commission nationale de l'informatique et des libertés des contributions en vue d'éventuelles recommandations de celle-ci relatives aux traitements visés au à la section 3 du chapitre III du titre II de la loi n° 78-17 du 6 janvier 1978 et mentionnées à l'article 8 de cette même loi.
+
+
+Ces propositions sont rendues publiques. Elles peuvent s'appliquer à des catégories d'opérations pouvant constituer des étapes indépendantes de traitements automatisés.
+
+
+Les dossiers de demande peuvent se référer aux recommandations publiées par la commission.
+Article 110
+
+
+Lorsque le responsable d'un traitement ou d'une catégorie de traitements similaires de données à caractère personnel a fait une déclaration de conformité à l'un des référentiels, l'un des règlements types ou à l'une des méthodologies de référence homologuées conformément à l'article 108, seule cette déclaration est envoyée à la commission qui en accuse réception. Le responsable des traitements tient à jour la liste des traitements entrant dans le cadre d'une déclaration de conformité. Pour les traitements qui ne sont pas enregistrés dans le répertoire public mentionné à l'article L. 1121-15 du code de la santé publique, les traitements sont enregistrés dans un répertoire public mis à disposition par le secrétariat unique.
+Sous-section 4 : Modalités d'information des personnes concernées (Articles 112 à 115)
+Article 112
+
+
+Les personnes accueillies dans les établissements ou les centres où s'exercent des activités de prévention, de diagnostic et de soins donnant lieu à la transmission de données à caractère personnel en vue d'un traitement de données à caractère personnel dans le domaine de la santé relevant de la section 3 du chapitre III du titre II de la loi du 6 janvier 1978 susvisée sont informées individuellement des mentions prescrites par le règlement (UE) 2016/679 du 27 avril 2016 susvisé par la remise d'un document ou par tout autre moyen approprié leur permettant de prendre utilement connaissance de ces mentions.
+Article 113
+
+
+La personne qui entend s'opposer au traitement des données à caractère personnel dans le domaine de la santé la concernant peut exprimer son refus par tout moyen auprès soit du responsable du traitement, soit de l'établissement ou du professionnel de santé détenteur de ces données excepté dans le cas prévu au II de l'article R. 1461-9 du code de la santé publique.
+Article 114
+
+
+Lorsque la recherche, l'étude ou l'évaluation nécessite l'examen des caractéristiques génétiques, le consentement de la personne concernée ou de ses représentants légaux doit être recueilli, préalablement au traitement, sous forme écrite. En cas d'impossibilité de le recueillir sous cette forme, le consentement exprès de la personne concernée est attesté par un tiers indépendant de l'organisme qui met en œuvre le traitement.
+Article 115
+
+
+Les articles 39 à 43 du présent décret sont applicables lorsqu'une sanction est susceptible d'être prononcée en application des articles 20 et 21 de la loi du 6 janvier 1978 susvisée.
+Section 3 : Traitements aux fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques (Article 116)
+Article 116
+
+
+Les dérogations prévues au deuxième alinéa de l'article 78 de la loi du 6 janvier 1978 susvisée relatif aux traitements à des fins de recherche scientifique ou historique ou à des fins statistiques s'appliquent uniquement dans les cas où les droits prévus aux articles 15, 16, 18 et 21 du règlement (UE) 2016/679 du 27 avril 2016 susvisé risqueraient de rendre impossible ou d'entraver sérieusement la réalisation des finalités spécifiques et où de telles dérogations sont nécessaires pour atteindre ces finalités.
+Les données issues de ces traitements conservées par le responsable du traitement ou son sous-traitant ne sont accessibles ou modifiables que par des personnes autorisées. Ces personnes respectent les règles de déontologie applicables à leurs secteurs d'activités. Les autorisations accordées par les responsables de traitement à ces personnes respectent les finalités spécifiques de l'alinéa précédent ainsi que les garanties prévues à l'alinéa suivant.
+Ces données ne peuvent pas être diffusées sans avoir été préalablement anonymisées sauf si l'intérêt des tiers à cette diffusion prévaut sur les intérêts ou les libertés et droits fondamentaux de la personne concernée. Pour les résultats de la recherche, cette diffusion doit être absolument nécessaire à sa présentation. Les données diffusées doivent être adéquates, pertinentes et limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées. La diffusion de données à caractère personnel figurant dans des documents consultés en application de l'article L. 213-3 du code du patrimoine ne peut intervenir qu'après autorisation de l'administration des archives, après accord de l'autorité dont émanent les documents et avis du comité du secret statistique institué par l'article 6 bis de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques en ce qui concerne les données couvertes par le secret en matière de statistiques.
+Chapitre IV : Droits et obligations propres aux traitements dans le secteur des communications électroniques (Articles 117 à 122)
+Article 117
+
+
+Le présent chapitre s'applique aux traitements relevant du chapitre IV du titre II de la loi du 6 janvier 1978 susvisée.
+Les droits et obligations mentionnés aux chapitres II et III s'appliquent sous réserve des dispositions particulières du présent chapitre.
+Article 118
+
+
+La notification d'une violation des données à caractère personnel prévue au premier alinéa du II de l'article 83 de la loi du 6 janvier 1978 susvisée est adressée à la Commission nationale de l'informatique et des libertés par lettre remise contre signature ou par voie électronique qui précise la nature et les conséquences de la violation des données à caractère personnel, les mesures déjà prises ou proposées par le fournisseur de services de communications électroniques accessibles au public pour y remédier et les personnes auprès desquelles des informations supplémentaires peuvent être obtenues et, lorsque cela est possible, une estimation du nombre de personnes susceptibles d'être impactées par la violation en cause.
+Article 119
+
+
+La notification d'une violation des données à caractère personnel prévue au deuxième alinéa du II de l'article 83 de la loi du 6 janvier 1978 est adressée à la personne intéressée par tout moyen permettant au fournisseur de services de communications électroniques accessibles au public d'apporter la preuve de l'accomplissement de cette formalité. Cette notification précise la nature de la violation de données à caractère personnel, les personnes auprès desquelles des informations supplémentaires peuvent être obtenues ainsi que les mesures que le fournisseur recommande à la personne intéressée de prendre pour atténuer les conséquences négatives de cette violation.
+Cette notification n'est toutefois pas nécessaire si la Commission nationale de l'informatique et des libertés a constaté que les mesures de protection appropriées au sens de l'article 120 et sur lesquelles elle s'est prononcée dans les conditions prévues aux articles 121 et 122 ont été mises en œuvre par le fournisseur et efficacement appliquées aux données concernées par cette violation.
+Article 120
+
+
+Constitue une mesure de protection appropriée, au sens de l'article 83 de la loi du 6 janvier 1978, toute mesure technique efficace destinée à rendre les données incompréhensibles à toute personne qui n'est pas autorisée à y avoir accès.
+Article 121
+
+
+Pour informer la Commission nationale de l'informatique et des libertés des mesures de protection qu'il met en œuvre et qu'il a appliquées au cas particulier, le fournisseur lui adresse, par tout moyen permettant d'apporter la preuve de leur notification, les informations suivantes :
+1° Les nom, prénom, adresse et coordonnées téléphoniques du responsable du traitement ;
+2° La description des mesures de protection ;
+3° Les dispositions prévues et appliquées pour conférer une pleine efficacité à ces mesures ;
+4° Le cas échéant, les références du dossier de formalités accomplies auprès de la commission préalablement à la mise en œuvre du traitement considéré ;
+5° L'accomplissement ou non de la formalité de notification prévue à la personne intéressée par l'article 119 et, dans la négative, les raisons justifiant l'absence de notification.
+Article 122
+
+
+La Commission nationale de l'informatique et des libertés vérifie dans un délai de deux mois si les mesures de protection appropriées ont été mises en œuvre et appliquées et apprécie la gravité au cas particulier de la violation de données à caractère personnel.
+Le silence gardé par la commission au terme de ce délai vaut constat de non-application au cas particulier des mesures de protection appropriées et emporte pour le fournisseur, s'il n'a pas déjà averti la personne intéressée, l'obligation de procéder à la notification prévue à l'article 119. Ce délai ne court qu'à compter de la réception complète des informations prévues à l'article 121.
+Si le fournisseur n'a pas déjà averti la personne intéressée de la violation de ces données en application de l'article 119, la commission peut en outre, lorsqu'elle estime la violation grave, mettre le fournisseur en demeure de l'informer en application du dernier alinéa du II de l'article 83 de la loi du 6 janvier 1978 dans un délai qui ne peut être supérieur à un mois.
+Chapitre V : Dispositions régissant les traitements de données à caractère personnel relatives aux personnes décédées (Articles 123 à 124)
+Article 123
+
+
+Le présent chapitre s'applique aux traitements relevant du chapitre V du titre II de la loi du 6 janvier 1978 susvisée.
+Pour la mise en œuvre des droits mentionnés au I et au II de l'article 85 de la loi du 6 janvier 1978 susvisée, les droits mentionnés au titre II du présent décret s'appliquent sous réserve des dispositions particulières du présent chapitre.
+Article 124
+
+
+Outre la justification de son identité, l'héritier d'une personne décédée qui souhaite exercer les droits mentionnés au I et au II de l'article 85 de la loi du 6 janvier 1978 susvisée doit, lors de sa demande, apporter la preuve de sa qualité d'héritier par la production d'un acte de notoriété ou d'un livret de famille.
+Chapitre VI : Des transferts de données à caractère personnel vers les États n'appartenant pas à l'Union européenne (Articles 125 à 128)
+Article 125
+
+
+Pour le transfert de données à caractère personnel vers un Etat n'appartenant pas à l'Union européenne ou à une organisation internationale, la Commission nationale de l'informatique et des libertés peut autoriser les clauses contractuelles et les arrangements administratifs mentionnés aux a et b du 3 de l'article 46 du règlement (UE) 2016/679 du 27 avril 2016 susvisé. La commission se prononce dans un délai de deux mois à compter de la réception de la demande selon une procédure définie dans son règlement intérieur. Toutefois, ce délai peut être renouvelé une fois sur décision motivée de son président. Lorsque la commission ne s'est pas prononcée dans ces délais, la demande est réputée rejetée.
+La mise en œuvre du mécanisme de contrôle de la cohérence prévu à la section 2 du chapitre VII du règlement (UE) 2016/679 du 27 avril 2016 susvisé suspend les délais susmentionnés.
+Article 126
+
+
+Lorsqu'un transfert a lieu en application du b du 3 de l'article 46 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, l'arrangement administratif fondant ce transfert est publié sur le site internet de la Commission nationale de l'informatique et des libertés.
+Article 127
+
+
+Lorsque pour effectuer un transfert vers un Etat n'appartenant pas à l'Union européenne, le responsable du traitement ou le sous-traitant se fonde sur un code de conduite ou un mécanisme de certification approuvés conformément aux articles 72 et 74 du présent décret, il transmet à la Commission nationale de l'informatique et des libertés un engagement contraignant et exécutoire pris par le responsable du traitement ou le sous-traitant dans le pays tiers d'appliquer les garanties appropriées, y compris en ce qui concerne les droits des personnes concernées.
+Article 128
+
+
+Lorsqu'un transfert a lieu en application du dernier alinéa du 1 de l'article 49 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, le responsable du traitement fournit à la personne concernée les informations spécifiques mentionnées à cet alinéa. La Commission nationale de l'informatique et des libertés définit des modèles relatifs à sa propre information et fixe la liste des annexes qui, le cas échéant, doivent être jointes.
+Titre III : DISPOSITIONS APPLICABLES AUX TRAITEMENTS RELEVANT DE LA DIRECTIVE (UE) 2016/680 DU PARLEMENT EUROPÉEN ET DU CONSEIL DU 27 AVRIL 2016 RELATIVE À LA PROTECTION DES PERSONNES PHYSIQUES À L'ÉGARD DU TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL PAR LES AUTORITÉS COMPÉTENTES À DES FINS DE PRÉVENTION ET DE DÉTECTION DES INFRACTIONS PÉNALES, D'ENQUÊTES ET DE POURSUITES EN LA MATIÈRE OU D'EXÉCUTION DE SANCTIONS PÉNALES, ET À LA LIBRE CIRCULATION DE CES DONNÉES, ET ABROGEANT LA DÉCISION-CADRE 2008/977/JAI DU CONSEIL (Articles 129 à 139)
+Chapitre Ier : Dispositions générales (Articles 129 à 132)
+Article 129
+
+
+Le présent titre s'applique, sans préjudice du titre Ier, aux traitements relevant du titre III de la loi du 6 janvier 1978 susvisée.
+Article 130
+
+
+I. − Le fait qu'un type de traitement est susceptible d'engendrer un risque élevé pour les droits et les libertés des personnes physiques nécessitant la réalisation d'une analyse d'impact en application de l'article 90 de la loi du 6 janvier 1978 susvisée est déterminé par le recours aux nouvelles technologies, et compte tenu de la nature, de la portée, du contexte et des finalités du traitement.
+Lorsqu'un type de traitement porte sur des données mentionnées au I de l'article 6 de la même loi, il est réputé susceptible d'engendrer un risque élevé pour les droits et les libertés des personnes physiques.
+II. − Les types de traitements qui portent sur un ensemble d'opérations de traitement similaires et présentent des risques élevés similaires peuvent faire l'objet d'une analyse d'impact commune. Cette analyse commune est, le cas échéant, complétée par chacun des responsables de traitement concernés, en fonction des spécificités de son traitement.
+III. − L'analyse d'impact contient au moins une description générale des opérations de traitement envisagées, une évaluation des risques pour les droits et libertés des personnes concernées, les mesures envisagées pour faire face à ces risques, les garanties, mesures et mécanismes de sécurité visant à assurer la protection des données à caractère personnel et à apporter la preuve du respect des dispositions des titres Ier et III de la même loi, compte tenu des droits et des intérêts légitimes des personnes concernées et des autres personnes touchées.
+IV. − Lorsque la Commission nationale de l'informatique et des libertés est consultée préalablement à la mise en œuvre du traitement dans les conditions prévues au troisième alinéa de l'article 90 de la même loi, le responsable du traitement ou le sous-traitant lui fournit l'analyse d'impact relative à la protection des données et, sur demande, toute autre information lui permettant d'apprécier la conformité du traitement aux dispositions des titres Ier et III de la même loi et, en particulier, les risques pour la protection des données à caractère personnel des personnes concernées et les garanties qui s'y rapportent.
+V. − Lorsque la commission est d'avis que le traitement constituerait une violation des dispositions des titres Ier et III de la même loi, en particulier lorsque le responsable du traitement n'a pas suffisamment identifié ou atténué le risque, elle fournit un avis écrit au responsable du traitement et, le cas échéant, au sous-traitant dans un délai de huit semaines à compter de la réception de la consultation. Si la complexité du traitement prévu le nécessite, ce délai peut être prorogé de six semaines. Dans ce cas, la commission informe le responsable du traitement et, le cas échéant, le sous-traitant de la prorogation de ce délai, dans un délai de six semaines à compter de la réception de la consultation, ainsi que des motifs de cette prorogation.
+La Commission nationale de l'informatique et des libertés peut également conseiller le responsable du traitement et faire usage des pouvoirs visés au f du 2° du I de l'article 8 et aux I, 2° et 4° du II et 1° à 3° du III de l'article 20 de la même loi.
+A défaut de réponse de la commission à sa consultation dans le délai de huit semaines, le cas échéant prorogé de six semaines, le responsable du traitement ou le cas échéant, le sous-traitant, peut mettre en œuvre le traitement de données, sans préjudice de l'exercice par la commission des pouvoirs mentionnés au septième alinéa du présent article.
+Article 131
+
+
+Le contrat ou l'autre acte juridique liant le sous-traitant à l'égard du responsable du traitement, mentionné à l'article 96 de la loi du 6 janvier 1978 susvisée, prévoit notamment que le sous-traitant :
+1° Veille à ce que les personnes autorisées à traiter les données à caractère personnel s'engagent à respecter la confidentialité ou soient soumises à une obligation légale appropriée de confidentialité ;
+2° Aide le responsable du traitement, par tout moyen approprié, à veiller au respect des dispositions du chapitre III du titre III de la même loi ;
+3° Selon le choix du responsable du traitement et sous réserve d'un éventuel archivage dans l'intérêt public, supprime toutes les données à caractère personnel ou les renvoie au responsable du traitement au terme de la prestation des services de traitement des données, et détruit les copies existantes ;
+4° Met à la disposition du responsable du traitement toutes les informations nécessaires pour apporter la preuve du respect de l'article 96 susmentionné et du présent article ;
+5° Respecte, pour recruter un autre sous-traitant, les conditions prévues au 2 de l'article 28 du règlement (UE) 2016/679 du 27 avril 2016 susvisé, au dernier alinéa de l'article 96 susmentionné et au présent article.
+Cet acte juridique revêt la forme écrite, y compris la forme électronique.
+Article 132
+
+
+Lorsque deux responsables du traitement ou plus déterminent conjointement les finalités et les moyens du traitement, ils sont les responsables conjoints du traitement. Les responsables conjoints du traitement définissent de manière transparente leurs obligations respectives aux fins d'assurer le respect des obligations dont ils sont débiteurs en application de la loi du 6 janvier 1978 susvisée et du décret, notamment en ce qui concerne l'exercice des droits de la personne concernée, et leurs obligations respectives quant à la communication des informations visées à l'article 104 de la même loi, par voie d'accord entre eux, sauf si, et dans la mesure, où leurs obligations respectives sont définies par le droit de l'Union européenne ou par le droit de l'Etat membre auquel les responsables du traitement sont soumis. Le point de contact pour les personnes concernées est mentionné dans l'acte instaurant le traitement, ou lorsque ce traitement n'est pas mis en œuvre pour le compte de l'Etat, dans l'accord conclu entre les responsables conjoints du traitement.
+Si le point de contact n'a pas été désigné ou si sa désignation n'a pas été rendue publique, la personne concernée peut exercer ses droits à l'égard de et contre chacun des responsables du traitement.
+Chapitre II : Obligations incombant aux autorités compétentes, aux responsables de traitement de données à caractère personnel et aux sous-traitants (Article 133)
+Article 133
+
+
+Un délégué à la protection des données est désigné par le responsable du traitement dans les cas prévus à l'article 103 de la loi du 6 janvier 1978 susvisée.
+Le responsable du traitement publie les coordonnées du délégué à la protection des données et les communique à la Commission nationale de l'informatique et des libertés dans les conditions prévues à l'article 83.
+Lorsque les collectivités territoriales, leurs groupements, les établissements publics locaux et les personnes morales de droit privé gérant un service public désignent un seul délégué à la protection des données, une convention détermine les conditions dans lesquelles s'exerce la mutualisation. Chacune des parties à la mutualisation demeure responsable du traitement ou sous-traitant.
+Chapitre III : Droits de la personne concernée (Articles 134 à 137)
+Article 134
+
+
+Le responsable du traitement prend des mesures appropriées pour fournir toute information visée à l'article 104 de la loi du 6 janvier 1978 susvisée. Il procède à toute communication à la personne concernée, prévue par les articles 102, 105 à 107 de la même loi, d'une façon concise, compréhensible et aisément accessible, en des termes clairs et simples.
+Article 135
+
+
+Lorsque la personne concernée forme une demande, y compris par voie électronique, tendant à la mise en œuvre des droits prévus au II de l'article 104 et aux articles 105 et 106 de la loi du 6 janvier 1978 susvisée, elle justifie de son identité par tout moyen et précise l'adresse à laquelle doit parvenir la réponse. Elle peut exercer ses droits en utilisant des données d'identité numériques lorsque ces données sont nécessaires et estimées suffisantes par le responsable du traitement pour authentifier ses utilisateurs.
+Lorsque le responsable du traitement a des doutes raisonnables quant à l'identité de la personne, il peut demander les informations supplémentaires apparaissant nécessaires, y compris, lorsque la situation l'exige, la copie d'un titre d'identité portant la signature du titulaire.
+Lorsque la demande présentée sur place ne peut être satisfaite immédiatement, il est délivré à son auteur un avis de réception, daté et signé.
+Lorsqu'il existe un doute raisonnable sur l'identité du demandeur ou sur l'adresse postale à laquelle la personne concernée a demandé la transmission par écrit d'informations la concernant, la réponse peut être expédiée sous pli recommandé sans avis de réception, la vérification de l'adresse et de l'identité s'effectuant lors de la délivrance du pli.
+Si la demande est imprécise ou ne comporte pas tous les éléments permettant au responsable du traitement de procéder aux opérations qui lui sont demandées, celui-ci invite le demandeur à les lui fournir avant l'expiration du délai prévu au huitième alinéa. Le responsable du traitement y procède par lettre remise contre signature ou par voie électronique. La demande de compléments d'information suspend le délai prévu au huitième alinéa.
+Lorsque le responsable du traitement, le sous-traitant ou le délégué à la protection des données n'est pas connu du demandeur, celui-ci peut adresser sa demande au siège ou à l'adresse électronique fonctionnelle de la personne morale, de l'autorité publique, du service ou de l'organisme dont le traitement relève. La demande est transmise immédiatement au responsable du traitement.
+Ces demandes peuvent être présentées par une personne spécialement mandatée à cet effet par le demandeur, après justification de son identité et de l'identité du mandant, de son mandat ainsi que de la durée et de l'objet précis de celui-ci. Le mandat doit également préciser si le mandataire peut être rendu destinataire de la réponse du responsable du traitement ou du sous-traitant.
+Sans préjudice des dispositions spécifiques applicables à certains traitements, le responsable du traitement répond par écrit à la demande présentée par l'intéressé dans le délai de deux mois suivant sa réception et dans les conditions prévues à l'article 80.
+Le délai prévu au huitième alinéa est suspendu lorsque le responsable du traitement ou le sous-traitant a sollicité des informations supplémentaires nécessaires pour identifier la personne concernée ou procéder aux opérations qui lui sont demandées.
+Lorsque le responsable du traitement ne s'est pas prononcé dans le délai fixé au huitième alinéa, la demande est réputée rejetée.
+Article 136
+
+
+Sans préjudice des dispositions spécifiques applicables à certains traitements, les demandes formées en application de l'article 108 de la loi du 6 janvier 1978 susvisée sont régies par les dispositions des articles 141 à 143, sauf s'il s'agit d'informations relevant de l'article 111 de la même loi. Sous peine d'irrecevabilité de sa demande, la personne concernée doit justifier auprès de la Commission nationale de l'informatique et des libertés soit de la réponse écrite du responsable du traitement attestant de la restriction de ses droits intervenue en application des II ou III de l'article 107 de la même loi, soit de la demande qu'elle a adressée à ce dernier plus de deux mois auparavant en application de l'article 135.
+Article 137
+
+
+Le responsable du traitement auprès duquel le droit d'opposition a été exercé informe sans délai de cette opposition tout autre responsable de traitement qu'il a rendu destinataire des données à caractère personnel qui font l'objet de l'opposition.
+Chapitre IV : De la coopération (Article 138)
+Article 138
+
+
+Pour la mise en œuvre de l'article 26 de la loi du 6 janvier 1978 susvisée, les dispositions des 2, 3, 6 et 7 de l'article 61 du règlement (UE) 2016/679 du 27 avril 2016 susvisé sont applicables.
+Chapitre V : Transferts de données à caractère personnel vers des États n'appartenant pas à l'Union européenne ou vers des destinataires établis dans des États n'appartenant pas à l'Union européenne (Article 139)
+Article 139
+
+
+Lorsqu'un transfert de données à caractère personnel a lieu en application des articles 112 et 114 de la loi du 6 janvier 1978 susvisée, la Commission nationale de l'informatique et des libertés peut éditer des formulaires indiquant les éléments d'informations devant être transmis en vertu de ces articles.
+Titre IV : DISPOSITIONS APPLICABLES AUX TRAITEMENTS INTÉRESSANT LA SÛRETÉ DE L'ÉTAT ET LA DÉFENSE (Articles 140 à 151)
+Article 140
+
+
+Le présent titre s'applique, sans préjudice du titre Ier, aux traitements relevant du titre IV de la loi du 6 janvier 1978 susvisée.
+Sous-section 1 : Exercice des droits auprès de la Commission nationale de l'informatique et des libertés (Articles 141 à 143)
+Article 141
+
+
+En application de l'article 118 de la loi du 6 janvier 1978 susvisée, toute demande d'accès, de rectification ou d'effacement des informations figurant dans les traitements intéressant la sûreté de l'Etat ou la défense, autorisés en application du 1° du I de l'article 31 de la loi du 6 janvier 1978 susvisée, est adressée à la commission par écrit.
+La demande doit être signée et accompagnée de la photocopie d'un titre d'identité portant la signature du titulaire. Elle doit préciser l'adresse à laquelle doit parvenir la réponse. Lorsqu'il existe un doute sur l'adresse indiquée ou sur l'identité du demandeur, la réponse de la commission peut être expédiée par lettre postale remise contre signature, la vérification de l'adresse ou de l'identité du demandeur s'effectuant lors de la délivrance du pli.
+Toute demande manifestement abusive peut être rejetée.
+Article 142
+
+
+Saisie dans les conditions fixées à l'article 141, la commission notifie au demandeur, dans un délai de quatre mois à compter de sa saisine, sans préjudice des dispositions spécifiques applicables à certains traitements, le résultat de ses investigations. Si la demande ne comporte pas tous les éléments permettant à la commission de procéder aux investigations qui lui ont été demandées, celle-ci invite le demandeur à les lui fournir. A défaut de réponse du demandeur dans un délai de deux mois, la demande peut être rejetée. Le délai de quatre mois court à compter de la date de réception par la commission de ces informations complémentaires.
+Si la réponse à la demande nécessite la centralisation préalable de pièces et d'éléments, le responsable du traitement y procède dans un délai de trois mois à compter de la date à laquelle il reçoit la demande de la commission. Ce délai peut être prorogé d'un mois lorsque le traitement de la demande nécessite des investigations complexes. La commission est informée de la prorogation de ce délai par le responsable du traitement. Le délai dans lequel la commission répond au demandeur est alors porté à cinq mois. Le délai dont bénéficie le responsable du traitement s'impute sur le délai prévu à l'alinéa précédent.
+Sans préjudice des dispositions spécifiques applicables à certains traitements, lorsque la commission sollicite l'avis d'une autorité exerçant des compétences analogues aux siennes dans un autre Etat membre de l'Union européenne ou un Etat tiers, le délai de quatre mois mentionné au premier alinéa court à compter de la réception par la commission des informations qu'elle a demandées.
+Article 143
+
+
+I. − Aux termes de ses investigations, la commission constate, en accord avec le responsable du traitement, celles des données dont la communication au demandeur ne met pas en cause les finalités du traitement, la sûreté de l'Etat, la défense ou la sécurité publique. Elle transmet ces données au demandeur. Le cas échéant, celles-ci sont communiquées selon des modalités définies d'un commun accord entre la commission et le responsable du traitement.
+Lorsque le responsable du traitement s'oppose à la communication au demandeur de tout ou partie des données le concernant, la commission informe ce dernier qu'il a été procédé aux vérifications nécessaires.
+Lorsque le traitement ne contient aucune donnée concernant le demandeur, la commission en informe celui-ci, avec l'accord du responsable du traitement. En cas d'opposition du responsable du traitement, la commission se borne à informer le demandeur qu'il a été procédé aux vérifications nécessaires.
+II. − La commission peut constater, en accord avec le responsable du traitement, que les données concernant le demandeur doivent être rectifiées ou supprimées et qu'il y a lieu de l'en informer. En cas d'opposition du responsable du traitement, la commission se borne à informer le demandeur qu'il a été procédé aux vérifications nécessaires.
+III. − La réponse de la commission mentionne les voies et délais de recours ouverts au demandeur. Pour les demandes relatives aux traitements ou parties de traitements intéressant la sûreté de l'Etat mentionnés à l'article R. 841-2 du code de la sécurité intérieure, la mention des voies de recours précise que le Conseil d'Etat peut être saisi dans les deux mois à compter de la notification de l'information selon laquelle il a été procédé aux vérifications nécessaires et rappelle les dispositions de l'article L. 841-2 du même code.
+Sous-section 2 : Exercice des droits auprès du responsable du traitement (Articles 144 à 146)
+Article 144
+
+
+Lorsque la personne concernée forme une demande, y compris par voie électronique, tendant à la mise en œuvre des droits prévus aux articles 117 et 119 de la loi du 6 janvier 1978 susvisée, elle justifie de son identité par tout moyen. Elle peut exercer ses droits en utilisant des données d'identité numériques lorsque ces données sont nécessaires et estimées suffisantes par le responsable du traitement pour authentifier ses utilisateurs.
+Lorsque le responsable du traitement ou le sous-traitant a des doutes raisonnables quant à l'identité de cette personne, il peut demander les informations supplémentaires apparaissant nécessaires, y compris, lorsque la situation l'exige, la copie d'un titre d'identité portant la signature du titulaire.
+Les délais prévus à l'article 146 sont suspendus lorsque le responsable du traitement ou le sous-traitant a sollicité des informations supplémentaires nécessaires à l'identification de la personne concernée. Lorsqu'il existe un doute raisonnable sur l'identité du demandeur ou sur l'adresse postale à laquelle la personne concernée a demandé la transmission par écrit d'informations la concernant, la réponse peut être expédiée sous pli recommandé sans avis de réception, la vérification de l'adresse et de l'identité s'effectuant lors de la délivrance du pli.
+Lorsque le responsable du traitement ou le sous-traitant n'est pas connu du demandeur, celui-ci peut adresser sa demande au siège ou à l'adresse électronique fonctionnelle de la personne morale, de l'autorité publique, du service ou de l'organisme dont le traitement relève. La demande est transmise immédiatement au responsable du traitement.
+Article 145
+
+
+Lorsqu'une demande est présentée sur place, la personne concernée justifie par tout moyen de son identité auprès du responsable du traitement ou du sous-traitant.
+Lorsque la demande ne peut être satisfaite immédiatement, il est délivré à son auteur un avis de réception, daté et signé.
+Article 146
+
+
+Le responsable de traitement ou le sous-traitant répond à la demande présentée par l'intéressé dans le délai de deux mois suivant sa réception.
+Si la demande transmise par la personne concernée est imprécise ou ne comporte pas les éléments permettant au responsable du traitement ou au sous-traitant d'y répondre, celui-ci peut inviter le demandeur à lui fournir des informations complémentaires avant l'expiration du délai prévu à l'alinéa précédent.
+Lorsque le responsable de traitement ou le sous-traitant ne s'est pas prononcé dans le délai prévu au premier alinéa, la demande est réputée rejetée.
+Sous-section 3 : Information des personnes concernées (Articles 147 à 148)
+Article 147
+
+
+Le responsable du traitement porte directement à la connaissance des personnes auprès desquelles sont recueillies des données à caractère personnel les informations énumérées à l'article 116 de la loi du 6 janvier 1978 susvisée sur le support de collecte ou, à défaut, sur un document préalablement porté à leur connaissance en caractères lisibles. En application du 6° du I de l'article 116 susmentionné, il les informe également, dans les mêmes conditions, des coordonnées du service compétent auprès duquel elles peuvent exercer leurs droits d'opposition, d'accès et de rectification.
+Les informations mentionnées à l'alinéa précédent peuvent être communiquées aux intéressés, avec leur accord, par voie électronique.
+Lorsque les informations sont portées à la connaissance de l'intéressé par voie d'affichage, il lui est indiqué qu'il peut, sur simple demande écrite, recevoir ces informations sur un support écrit.
+Article 148
+
+
+Les informations figurant au 7° du I de l'article 116 de la loi du 6 janvier 1978 susvisée que le responsable du traitement communique, dans les conditions prévues à l'article 147, à la personne auprès de laquelle des données à caractère personnel sont recueillies, sont les suivantes :
+1° Le ou les pays d'établissement du destinataire des données dans les cas où ce ou ces pays sont déterminés lors de la collecte des données ;
+2° La nature des données transférées ;
+3° La finalité du transfert envisagé ;
+4° La ou les catégories de destinataires des données ;
+5° Le niveau de protection offert par le ou les pays tiers : si le ou les pays tiers ne satisfont pas aux conditions prévues à l'article 123 de la même loi, il est fait mention de l'exception prévue à l'article 124 de cette loi qui permet ce transfert ou de la décision de la Commission nationale de l'informatique et des libertés autorisant ce transfert.
+Lorsque le transfert est envisagé postérieurement à la collecte des données à caractère personnel, celui-ci ne peut intervenir que dans un délai de quinze jours suivant la réception par l'intéressé des informations ci-dessus ou, le cas échéant, au terme de la procédure visée à l'article 146.
+Sous-section 4 : Conditions d'exercice du droit d'opposition, du droit d'accès et du droit de rectification (Articles 149 à 151)
+Article 149
+
+
+Pour faciliter l'exercice du droit d'opposition prévu au premier alinéa de l'article 117 de la loi du 6 janvier 1978 susvisée, la personne concernée est mise en mesure d'exprimer son choix à tout moment.
+Le responsable du traitement auprès duquel le droit d'opposition a été exercé informe sans délai de cette opposition tout autre responsable de traitement qu'il a rendu destinataire des données à caractère personnel qui font l'objet de l'opposition.
+Article 150
+
+
+Lorsque le responsable du traitement permet, pour l'exercice du droit d'accès mentionné à l'article 119 de la loi du 6 janvier 1978 susvisée, la consultation des données sur place, celle-ci n'est possible que sous réserve de la protection des données à caractère personnel des tiers. Sauf disposition législative ou réglementaire contraire, une copie des données à caractère personnel du demandeur peut être obtenue immédiatement.
+Afin que le demandeur puisse en prendre pleinement connaissance, le responsable de traitement met à la disposition de l'intéressé toutes les données qui le concernent et pendant une durée suffisante.
+Lors de la délivrance de la copie demandée, le responsable de traitement atteste, le cas échéant, du paiement de la somme perçue à ce titre.
+Article 151
+
+
+Lorsque des données à caractère personnel ont été transmises à un tiers, le responsable du traitement qui a procédé à leur rectification en informe sans délai ce tiers. Celui-ci procède également sans délai à la rectification.
+Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (Articles 152 à 155)
+Article 152
+
+
+Le présent décret est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises sous réserve des adaptations prévues au présent titre.
+Article 153
+
+
+Pour l'application du présent décret à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, la référence au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données est remplacée par la référence aux règles en vigueur en métropole en vertu du règlement (UE) 2016/679 du 27 avril 2016.
+Article 154
+Modifié par Décret n°2019-966 du 18 septembre 2019 - art. 8
+
+
+I.-Pour son application en Polynésie française, en Nouvelle-Calédonie, à Wallis-et-Futuna et dans les Terres australes antarctiques françaises : 
+1° A l'article 28, les mots : « du tribunal judiciaire » sont remplacés par les mots : « du tribunal de première instance » en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
+2° Au deuxième alinéa de l'article 34, les mots : « au moins huit jours avant la date de son audition » sont remplacés par les mots : « au moins un mois avant la date de son audition » ; 
+3° A l'article 36, les mots : « le préfet ou, selon le cas, le directeur général de l'agence régionale de santé dans le ressort territorial duquel doit avoir lieu le contrôle » sont remplacés par les mots : 
+a) « Le haut-commissaire de la République », en Polynésie française et en Nouvelle-Calédonie ; 
+b) « L'administrateur supérieur des îles Wallis et Futuna », dans les îles Wallis et Futuna ; 
+c) « L'administrateur supérieur des Terres australes et antarctiques françaises », dans les Terres australes et antarctiques françaises ; 
+4° A l'article 40, les mots : « dispose d'un délai d'un mois » sont remplacés par les mots : « dispose d'un délai de deux mois » ; 
+5° A l'article 41, les mots : « ramené à sept jours » sont remplacés par les mots : « ramené à quinze jours » ; 
+6° A l'article 46, les mots : « huit jours » sont remplacés par les mots : « quinze jours » ; 
+7° A l'article 47, les mots : « huit jours » sont remplacés par les mots : « quinze jours » ; 
+8° Au deuxième alinéa de l'article 58, les mots : « huit jours » sont remplacés par les mots : « quinze jours » ; 
+9° A l'article 124, les mots : « par la production d'un acte de notoriété ou d'un livret de famille » sont remplacés par les mots : « par tous moyens ». 
+II.-Pour son application à Mayotte, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy, à Saint-Martin et à La Réunion, à l'article 36, les mots : « le directeur général de l'agence régionale de santé » sont remplacés par les mots : 
+1° « Le directeur de l'administration territoriale de santé de Saint-Pierre-et-Miquelon » pour Saint-Pierre-et-Miquelon ; 
+2° « Le directeur de l'agence de santé de la Guadeloupe, de Saint-Barthélemy et de Saint-Martin » pour la Guadeloupe, Saint-Barthélemy et Saint-Martin ; 
+3° « Le directeur de l'agence de santé de l'océan Indien » pour La Réunion et Mayotte.
+NOTA : 
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Article 155
+
+
+Dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, la compétence dévolue aux huissiers de justice pour la délivrance des actes prévus au présent décret peut être exercée par un représentant de l'autorité administrative ou militaire.
+Titre VI : DISPOSITIONS DIVERSES ET FINALES (Articles 156 à 160)
+Article 156
+A modifié les dispositions suivantes
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 2 : Dispositions particulières relativ... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre II : Droits de la personne concernée (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre II : Les droits des personnes à l'égar... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre II : Mesures et sanctions (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre III : De la coopération (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre III : Les demandes d'avis et d'autoris... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre IV : Dispositions particulières relati... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre Ier : Contrôles et vérifications (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre Ier : Dispositions générales (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre Ier : Dispositions générales. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre Ier : L'obligation d'information incom... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Chapitre Ier bis : Procédure d'information sur ... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 1 : Dispositions communes (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 1 : Dispositions communes relatives aux... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 1 : L'habilitation des agents des servi... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 1 : La formation restreinte compétente ... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 2 : Dispositions particulières au droit... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 2 : L'habilitation des membres et agent... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 2 : La procédure ordinaire. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 3 : Disposition particulière au droit d... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 3 : La procédure d'urgence. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 3 : Le contrôle sur place. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 3 : Procédures simplifiées (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 4 : Dispositions particulières au droit... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 4 : Le contrôle en ligne (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 4 : Les référés. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 4 : Modalités d'information des personn... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 5 : Coopération et assistance (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 5 : Garanties et dérogations applicable... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 5 : L'audition sur convocation. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 6 : Le recours à des experts. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Section 7 : Secret professionnel. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 1 : Dispositions communes (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 1 : Présentation et instruction de... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 2 : Avertissement et mise en demeu... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 2 : Composition et fonctionnement ... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 3 : Composition et fonctionnement ... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 3 : Formation restreinte (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 4 : Composition et fonctionnement ... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 4 : La Commission nationale de l'i... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - Sous-section 5 : Procédure en cas de circonstan... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE III : DES DÉLÉGUÉS À LA PROTECTION DES DO... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE IV : DES POUVOIRS DE LA COMMISSION (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE IX : DISPOSITIONS RELATIVES À L'OUTRE-MER. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE Ier : DE LA COMMISSION NATIONALE DE L'INF... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE V : DISPOSITIONS PARTICULIÈRES AUX TRAITE... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE VI : DES OBLIGATIONS INCOMBANT AUX RESPON... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE VII : DES TRANSFERTS DE DONNÉES À CARACTÈ... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE VIII : DISPOSITIONS APPLICABLES AUX TRAIT... (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - TITRE X : DISPOSITIONS FINALES. (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 1-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 10 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 100 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 100-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 101 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 102 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 103 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 104 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 11 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 110 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 110-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 110-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 110-3 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 110-4 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 110-5 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 110-6 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 110-7 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 111 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 112 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 113 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 114 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 115 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 116 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 117 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 118 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 119 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 15 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 16 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 17 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 18 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 19 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 19-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 20 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 21 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 22 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 23 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 24 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 25 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 26 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 27 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 28 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 29 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 3 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 30 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 31 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 32 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 32-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 32-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 32-3 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 32-4 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 32-5 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 32-6 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 33 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 34 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 34-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 34-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 36 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 37 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 38 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 39 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 4 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 4-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 40 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 41 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 42 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 43 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 44 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 5 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 57 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 58 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 59 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-3 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-4 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-5 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-6 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-7 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-8 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 6-9 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 60 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 60-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 60-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 60-3 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 61 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 62 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 62-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 62-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 62-3 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 63 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 64 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 65 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 65-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 66 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 67 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 68 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 69 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 7 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 70 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 73 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 74 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 75 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 76 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 77 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 78 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 78-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 79 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 8 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 80 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-10 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-3 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-4 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-5 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-6 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-7 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-8 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 81-9 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 82 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 82-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 82-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 83 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 84 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 85 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 86 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 87 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 88 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 89 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 9 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 90 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 91 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 91-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 91-2 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 91-2-1 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 91-3 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 91-4 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 91-5 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 92 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 93 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 94 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 95 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 96 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 97 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 98 (Ab)
+* Abroge Décret n°2005-1309 du 20 octobre 2005 - art. 99 (Ab)
+Article 157
+A modifié les dispositions suivantes
+* Modifie Décret n°2018-232 du 30 mars 2018 - art. 2 (V)
+* Modifie Décret n°2018-232 du 30 mars 2018 - art. 3 (V)
+* Modifie Décret n°2018-232 du 30 mars 2018 - art. 4 (V)
+Article 158
+A modifié les dispositions suivantes
+* Modifie Code pénal - art. R625-10 (V)
+* Modifie Code pénal - art. R625-11 (V)
+* Modifie Code pénal - art. R625-12 (V)
+* Modifie Code pénal - art. R711-1 (M)
+* Modifie Code de justice administrative - art. R555-1 (V)
+* Modifie Code de justice administrative - art. R555-2 (V)
+* Modifie Code de l'organisation judiciaire - art. R213-5 (V)
+* Crée Code de l'organisation judiciaire - art. R532-6-1 (V)
+* Modifie Code de l'organisation judiciaire - art. R552-6 (V)
+* Modifie Code de l'organisation judiciaire - art. R562-6 (V)
+Article 159
+
+
+Le présent décret entre en vigueur le 1er juin 2019.
+Article 160
+
+
+La garde des sceaux, ministre de la justice, et la ministre des outre-mer sont chargées, chacune en ce qui la concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+
+Fait le 29 mai 2019.
+
+
+Edouard Philippe
+Par le Premier ministre :
+
+
+La garde des sceaux, ministre de la justice,
+Nicole Belloubet
+
+
+La ministre des outre-mer,
+Annick Girardin

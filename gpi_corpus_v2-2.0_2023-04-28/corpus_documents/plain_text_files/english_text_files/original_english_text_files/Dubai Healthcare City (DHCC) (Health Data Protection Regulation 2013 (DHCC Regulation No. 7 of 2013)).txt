@@ -1,0 +1,172 @@
+DATA PROTECTION
+LAWS OF THE WORLD
+UAE - Dubai Health Care City Free Zone
+
+Downloaded: 27 June 2021
+
+DATA PROTECTION LAWS OF THE WORLD
+
+UAE - DUBAI HEALTH CARE CITY FREE ZONE
+
+Last modified 21 January 2021
+
+LAW
+
+Note: Please also see UAE – General, UAE – DIFC, UAE – ADGM.
+
+The Dubai Healthcare City ("DHCC"), a healthcare free zone in Dubai, implemented DHCC Health Data Protection Regulation
+No 7 of 2013 (which repealed and replaces the DHCC Data Protection regulation No. 7 of 2008) ("HDPR").
+The HDPR regulates the protection of Patient Health Information, as opposed 'personal data'.
+Note that as opposed to the ICT Health Law, which applies to entities across the UAE, including within freezones such as the
+DHCC (please see UAE – General), the DHCC HDPR only applies to those entities licensed within the DHCC and to patient
+information generated and stored therein.
+
+DEFINITIONS
+Definition of Patient Health Information
+Information about a patient, whether spoken, written, or in the form of an Electronic Record, that is created or received by any
+Licensee, that relates to the physical or mental health or condition of the patient, including the reports from any diagnostic
+procedures and information related to the payment for services.
+
+Definition of Licensee
+A Licensed Healthcare Professional, Licensed Complementary and Alternative Medicine Professional, a Licensed Healthcare
+Operator, an Approved Education Operator, an Approved Research Operator, a Licensed Commercial Company, or a
+Non-Clinical Operating Permit Holder; (essentially a healthcare professional working in the DHCC with access to Patient Health
+Information).
+
+Definition of Process, Processed, Processes and Processing
+Any operation or set of operations which is performed on Patient Health Information, whether or not by automatic means such as
+collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission,
+dissemination or otherwise making available, alignment, erasure or destruction.
+
+NATIONAL DATA PROTECTION AUTHORITY
+The DHCC Board of Directors and the Executive Body of the Dubai Healthcare City Authority ("DHCA") are responsible for
+ensuring proper administration the HDPR and any Rules, Standards and Policies made under the HDPR.
+2 | Data Protection Laws of the World | UAE - Dubai Health Care City Free Zone | www.dlapiperdataprotection.com
+
+DATA PROTECTION LAWS OF THE WORLD
+
+The Centre for Healthcare Planning and Quality is responsible for the compliance and enforcement of the HDPR (" CPQ").
+Dubai Healthcare City Authority - Regulatory
+Tel: +971-4-3838300
+Fax: +971-4-3838300
+info@dhcr.gov.ae
+
+REGISTRATION
+Not applicable.
+
+DATA PROTECTION OFFICERS
+There is a requirement for each Licensee, to have one or more Data Protection Officers. The responsibilities of the Data
+Protection Officers include the encouragement of compliance by the Licensee with the HDPR; dealing with requests made to the
+Licensee under the HDPR; and otherwise ensuring compliance by the Licensee with the provisions of the HDPR (section 40
+HDPR).
+
+COLLECTION & PROCESSING
+Patient Health Information is not permitted to be collected by any Licensee, unless it is for a lawful purpose, and the collection is
+necessary for that purpose (article 27 HDPR). However, the meaning of lawful purpose is not defined in the HDPR.
+The Patient Health Information should be collected from the patient directly, unless the Lisensee believes on reasonable grounds
+that:
+the Patient concerned authorizes Collection of the information from someone else having been made aware of the
+matters set out in section 29(1);
+the Patient is unable to give his authority, and the Licensee having made the Patient’s Representative aware of the matters
+set out in section 29(1) Collects the Patient Health Information from the Representative or the Representative authorizes
+Collection from someone else;
+compliance would prejudice the: (i) interests of the Patient; or (ii) purposes of collection; or (iii) safety of any individual;
+compliance is not reasonably practicable in the circumstances of the particular case;
+the Collection is for the purpose of assembling a family or genetic history of a Patient and is collected directly from that
+Patient and/or the Patient’s Representative;
+the Patient Health Information is Publicly Available Information;
+the Patient Health Information: (i) shall not be used in a form in which the Patient is identified; (ii) shall be used for
+statistical purposes and shall not be published in a form that could reasonably be expected to identify the Patient; or (iii)
+shall be used for research purposes (for which approval by an ethics committee, if required, has been given) and shall not
+be published in a form that could reasonably be expected to identify the Patient; or
+non-compliance is necessary: (i) to avoid prejudice to the maintenance of the law including the prevention, detection,
+investigation, prosecution, and punishment of offences; (ii) for the conduct of proceedings before any court or tribunal
+(being proceedings that have been commenced or are reasonably in contemplation) (section 28 HDPR).
+
+TRANSFER
+Patient Health Information may only be transferred to a third party located in a jurisdiction outside DHCC if (1) an adequate level
+3 | Data Protection Laws of the World | UAE - Dubai Health Care City Free Zone | www.dlapiperdataprotection.com
+
+DATA PROTECTION LAWS OF THE WORLD
+
+of protection for that Patient Health Information is ensured by the laws and regulations that are applicable to the third party; and
+(2) the transfer is either: (a) authorized by the Patient; or (b) necessary for the ongoing provision of Healthcare Services to the
+Patient.
+A jurisdiction shall be considered to have an adequate level of protection if that jurisdiction is listed as an acceptable jurisdiction
+under the Dubai International Financial Center Data Protection Law No. 1 of 2007, or has the written approval of the Central
+Governance Board.
+The DHCC Healthcare Data Protection Regulation of 2008 contained a provision which permitted the transfer of Patient Heath
+Information to a jurisdiction without adequate protection, if a permit was sought. However, this was removed under the HDPL
+and the Central Government Board does not have the power to issue permits in respect of transfer to jurisdictions without an
+adequate level of protection.
+
+SECURITY
+A Licensee is responsible for the security of its information systems and networks and should act in a timely and co-operative
+manner to prevent, detect and respond to security incidents. A Licensee is further required review and assess the security of
+information systems and networks and make appropriate modifications to security policies, practices, measure and procedures on
+a regular basis. Any security incidents must be disclosed to the CPU on a periodic basis.
+A Licensee that holds Patient Health Information must maintain the security of the Patient Health Information, ensuring it is stored
+in a way that can be readily retrieved and easy removed or shared, as well as protecting the accuracy of the information. A
+Licensee if further responsible for ensuring reasonable safeguards are put in place to protect the Patient Health Information from
+loss, destruction, potential fire / water damage, tampering, theft, unauthorized access, use, modification, or disclosure (section 31,
+HDPR).
+
+BREACH NOTIFICATION
+There is no specific requirement set out in the DPL obliging a Licensee to inform the CPQ in the event of a breach. Licensees are
+required to inform the Customer Protection Unit (within CPQ) on a periodic basis of any security incidents.
+
+ENFORCEMENT
+The CPQ is responsible for the compliance and enforcement of the HDPR and may delegate its powers and duties to any
+appropriate committee(s) constituted by it or to appropriate person(s) appointed by it (section 42 HDPR).
+The powers, duties and functions of CPQ include: (a) conducting an audit of Patient Health Information when requested by a
+Licensee for the purpose of ascertaining whether or not the information is maintained in accordance with the HDPR; (b)
+monitoring the use of Personal Identifiers, and to reporting to the Executive Body from time to time on the results of that
+monitoring, including any recommendations relating to the need for, or desirability of taking regulatory, administrative, or other
+action to give protection, or better protection, to the Patient or the Licensee; and (c) monitoring compliance with the HDPR.
+CPQ may require a Licensee to produce ospecififed information or documents when requested in writing, in relation to the
+Processing of Patient Helath Information of a complaint about an Interference with Patient Health Information. If the Licensee
+does not comply with the request, the CPQ may impose a Penalty as set out in a list to be published by the DHCA from time to
+time (section 42).
+It does not appear that the DHCA have produced any further information on the penalties that apply in relation to a breach of
+HDPR. It is unclear how any breaches of the HDPR will be dealt with in the DHCC.
+
+ELECTRONIC MARKETING
+The HDPR does not contain specific provisions relating to electronic or direct marketing.
+
+ONLINE PRIVACY
+
+4 | Data Protection Laws of the World | UAE - Dubai Health Care City Free Zone | www.dlapiperdataprotection.com
+
+DATA PROTECTION LAWS OF THE WORLD
+
+The HDPR does not contain specific provisions relating to online privacy, however, the broad provisions detailed above are likely
+to apply. In addition, as UAE criminal law applies in the DHCC, the privacy principles laid out therein may apply (see UAE –
+General).
+
+KEY CONTACTS
+Eamon Holley
+Partner
+T +971 4 438 6293
+eamon.holley@dlapiper.com
+Alex Mackay
+Associate
+T +971 4 438 6160
+alex.mackay@dlapiper.com
+
+DATA PRIVACY TOOL
+You may also be interested in our Data Privacy Scorebox to assess your organization's level of data protection maturity.
+
+5 | Data Protection Laws of the World | UAE - Dubai Health Care City Free Zone | www.dlapiperdataprotection.com
+
+DATA PROTECTION LAWS OF THE WORLD
+
+Disclaimer
+DLA Piper is a global law firm operating through various separate and distinct legal entities. Further details of these entities can be
+found at www.dlapiper.com.
+This publication is intended as a general overview and discussion of the subjects dealt with, and does not create a lawyer-client
+relationship. It is not intended to be, and should not be used as, a substitute for taking legal advice in any specific situation. DLA
+Piper will accept no responsibility for any actions taken or not taken on the basis of this publication.
+This may qualify as 'Lawyer Advertising' requiring notice in some jurisdictions. Prior results do not guarantee a similar outcome.
+Copyright © 2021 DLA Piper. All rights reserved.
+
+

@@ -1,0 +1,850 @@
+Unofficial translation
+
+LAW
+on Personal Data Protection
+This Law establishes the legal framework necessary for the enforcement of
+Directive 95/46/EC of the European Parliament and of the Council of 24 October
+1995 on the protection of individuals with regard to the processing of personal
+data and on the free movement of such data.
+The Parliament adopts this organic law.
+Chapter I
+GENERAL PROVISIONS
+Article 1. Purpose of Law
+The purpose of this law is to ensure protection of the rights and
+fundamental freedoms of natural person with respect to the processing of
+personal data, notably the right to inviolability of intimate, family and private
+life.
+Article 2. Scope
+(1) This law regulates relations arising in course of the processing
+operations of personal data performed wholly or partly by automatic means, and
+otherwise than by automatic means, which form part of a filing system or are
+intended to be included in such a filing system.
+(2) This Law shall apply:
+a) to the processing of personal data carried out in the context of the
+activities performed by the controllers established on the territory of the
+Republic of Moldova;
+b) to the processing of personal data carried out within the diplomatic
+missions and consular offices of the Republic of Moldova, as well as carried out
+by other controllers that do not have permanently establishment on the territory
+of the Republic of Moldova, but are situated in a place where the domestic law
+of the Republic of Moldova applies by virtue of international public law;
+c) to the processing of personal data carried out by controllers that are not
+established on the territory of the Republic of Moldova, making use of
+equipment situated on the territory of the Republic of Moldova, unless such
+equipment is used only for purposes of transit through the territory of the
+Republic of Moldova;
+
+d) to the processing of personal data in the context of actions of prevention
+and investigation of criminal offences, enforcement of convictions and other
+activities within criminal or administrative procedures, in terms of the law;
+(3) The provisions of this law are applicable to the processor, without
+prejudice to legal actions which could be initiated against the controller himself.
+(4) This Law shall not apply:
+a) to the processing of personal data carried out by controllers exclusively
+for personal and family needs, where the rights of personal data subjects are not
+violated thereby;
+b) to the processing of personal data assigned to state secret, according to
+an established procedure, excepting the information referred to in paragraph (2),
+d);
+c) to the processing operations and cross-border transmission of personal
+data referring to the perpetrators or victims of genocide, crimes against humanity
+and war crimes.
+Article 3. Definitions
+Terms used in this Law shall have the following meanings:
+personal data - any information relating to an identified or identifiable
+natural person ('personal data subject'). An identifiable person is one who can be
+identified, directly or indirectly, in particular by reference to an identification
+number or to one or more factors specific to his physical, physiological, mental,
+economic, cultural or social identity;
+special categories of personal data – data revealing racial or ethnic origin,
+political opinions, religious or philosophical beliefs, social belonging, data
+concerning health or sex life, as well as data relating to criminal convictions,
+administrative sanctions or coercive procedural measures;
+processing of personal data – any operation or set of operations which is
+performed upon personal data, whether or not by automatic means, such as
+collection, recording, organization, storage, keeping, restoring, adaptation or
+alteration, retrieval, consultation, use, disclosure by transmission, dissemination
+or otherwise making available, alignment or combination, blocking, erasure or
+destruction;
+personal data filing system – any structured set of personal data which are
+accessible according to specific criteria, whether centralized, decentralized or
+dispersed on a functional or geographical basis;
+2
+
+controller – a natural or legal person governed by public law, or by private
+law, including public authority, agency or any other body which alone or jointly
+with others determines the purposes and means of the processing of personal
+data expressly provided by applicable law;
+processor – a natural or legal person governed by public law, or by private
+law, including public authority and its territorial subdivisions, which processes
+personal data on behalf of the controller, on instructions from the controller;
+third party – a natural or legal person governed by public law, or by
+private law, other than the personal data subject, the controller, the processor and
+the persons who, under the direct authority of the controller or the processor, are
+authorized to process the personal data;
+recipient – a natural or legal person governed by public law, or by private
+law, including public authority and its territorial subdivisions, to whom personal
+data are disclosed, whether a third party or not. The bodies responsible for the
+national defence, state security and public order, the prosecution bodies and the
+courts, which may receive personal data in the framework of exercising their
+duties established by law, shall not be regarded as recipients;
+personal data subject’s consent – any freely given, expressly and
+unconditionally indication of will, in written or electronic form, according to the
+requirements of the electronic document, by which the personal data subject
+signifies his agreement to personal data relating to him being processed;
+depersonalisation of data – is such alteration of personal data so that
+details of personal or material circumstances can no longer be linked to an
+identified or identifiable natural person or so link can only be made within an
+investigation with disproportionate efforts, expense and use of time.
+Chapter II
+BASIC CONDITIONS FOR THE PROCESSING, STORAGE AND USE
+OF PERSONAL DATA
+Article 4. Characteristics of personal data
+(1) Personal data undergoing processing must be:
+a) processed fairly and lawfully;
+b) collected for specified, explicit and legitimate purposes and not further
+processed in a way incompatible with those purposes. Further processing of data
+for historical, statistical or scientific purposes shall not be considered as
+incompatible with the purpose of the collection if is carried out in compliance
+with the provision of this law, including those for notifying the National Centre
+for Personal Data Protection, and observing safeguards for personal data
+3
+
+processing, provided by by-laws regulating the statistical activity, historical or
+scientific research;
+c) adequate, relevant and not excessive in relation to the purposes for
+which they are collected and/or further processed;
+d) accurate and, where necessary, kept up to date. Data which are
+inaccurate or incomplete, having regard to the purposes for which they were
+collected or for which they are further processed, are erased or rectified;
+e) kept in a form which permits identification of personal data subjects for
+no longer than is necessary for the purposes for which the data were collected
+and further processed. Storage of personal data for longer period for purposes of
+statistical, historical or scientific research, shall be performed in compliance with
+appropriate safeguards for personal data processing, provided by by-laws
+regulating these fields, and only for as long as necessary to achieve those
+purposes.
+(2) The controllers have the obligation to ensure that paragraph (1) is
+complied with.
+Article 5. Processing of personal data
+(1) Personal data shall be processed with the consent of personal data
+subject.
+(2) The consent given for personal data processing may be withdrawn at
+any time by the personal data subject. The withdrawal of consent shall not be
+retroactive.
+(3) Where the personal data subject is physically or legally incapable of
+giving his consent, the consent for the processing of personal data shall be given
+in written by his legal representative.
+(4) In case of death of the personal data subject, the consent for the
+processing of his personal data shall be given in written by the successors of the
+latter, where such consent has not been given by the personal data subject during
+life.
+(5) The personal data subject’s consent is not required where:
+a) the processing is necessary for the performance of a contract to which
+the personal data subject is party, in order to take steps at the request of the data
+subject prior to entering into a contract;
+b) the processing is necessary for carrying out an obligation of the
+controller, under the law;
+c) the processing is necessary in order to protect the life, physical integrity
+or health of the personal data subject;
+d) the processing is necessary for the performance of tasks carried out in
+the public interest or in the exercise of public authority prerogatives vested in the
+controller or in a third party to whom the personal data are disclosed;
+e) the processing is necessary for the purposes of the legitimate interest
+pursued by the controller or by the third party to whom personal data are
+4
+
+disclosed, except where such interest is overridden by the interests for
+fundamental rights and freedoms of the personal data subject;
+f) the processing is necessary for statistical, historical or scientific-research
+purposes, except where the personal data remain anonymous for longer period of
+processing.
+Article 6. Processing of special categories of personal data
+(1) The processing of special categories of personal data shall be
+prohibited, except for cases where:
+a) the personal data subject has given his consent. Where the personal data
+subject is physically or legally incapable of giving his consent, the processing of
+special categories of personal data shall be carried out only with the written
+consent of his legal representative;
+b) processing is necessary for the purposes of carrying out the obligations
+and specific rights of the controller in the field of employment law, providing
+safeguards set by law, as well as taking into account that possible disclosure of
+the personal data processed for this purpose to a third party may take place only
+if there is an appropriate legal obligation of the controller, therefore;
+c) processing is necessary to protect the life, physical integrity or health of
+the personal data subject or of another person where the data subject is
+physically or legally incapable of giving his consent;
+d) processing is carried out in the course of its legitimate activities by a
+foundation, association or any other non-profit organization with a political,
+philosophical, religious or trade-union aim, and on condition that processing
+relates solely to the members of the body or to persons who have regular contact
+with it in connection with its purposes and that the data are not disclosed to a
+third party without the consent of personal data subjects;
+e) processing relates to data which are voluntary and manifestly made
+public by the personal data subject;
+f) processing is necessary to establish, exercise or defend of legal claims
+of the personal data subject;
+g) processing is necessary for the purposes to ensure national security,
+where the processing is unlikely adversely to affect the rights of personal data
+subject and the other appropriate safeguards provided for in this law.
+(2) National Centre for Personal Data Protection may order, for grounded
+reasons, to prohibit the processing of special categories of personal data, even if
+the data subject has given his consent and the consent has not been withdrawn,
+provided that the prohibition is not removed in one of the cases referred to in
+paragraph (1), b) – g).
+Article 7. Processing of health-related personal data
+(1) By derogation from provisions of Article 6, the processing of personal
+data relating to health may be carried out, where:
+5
+
+a) processing is required for the purposes of preventive medicine, medical
+diagnosis, the provision of care or treatment to the personal data subject, or the
+management of health-care services, acting in the interest of the personal data
+subject;
+b) processing is necessary for protection of public health.
+(2) Health professionals, health-care institutions and their medical staff
+may process personal data concerning health status without the authorization of
+the National Centre for Personal Data Protection, only if processing is necessary
+to protect the life, physical integrity or health of the personal data subject. When
+the abovementioned purposes refer to other persons or to public in general and
+the personal data subjects have not given their written and unambiguously
+consent, a prior authorization from the Centre must be requested and received, as
+provided by law.
+(3) Personal data on health status can be processed for the purposes
+specified in paragraph (1), by or under supervision of a health professional
+subject to the obligation of professional secrecy or under supervision of another
+person also subject to an equivalent obligation of secrecy.
+(4) Personal data on health status shall be collected from personal data
+subject or where such processing is required under paragraph (1).
+Article 8. Processing of personal data relating to criminal convictions,
+coercive procedural measures or administrative sanctions
+(1) Processing of personal data relating to criminal convictions, coercive
+procedural measures or administrative sanctions may be carried out only by or
+under the control of public authorities, within the limits of their competences and
+on the conditions set by laws regulating these areas.
+(2) The Registry of Criminals and Criminological Data is kept by the
+Ministry of Internal Affairs.
+Article 9. Processing of personal data with an identification function
+Processing of individual’s state identification number (IDNP), fingerprints
+or any other identifier of general application may be performed if:
+a) the personal data subject has given his consent;
+b) processing is expressly stipulated by law.
+Article 10. Processing of personal data and freedom of expression
+Provisions referred to in Articles 5, 6 and 8 shall not apply if processing of
+personal data is carried out, exclusively for journalistic, artistic or literary
+purposes, if processing relates to personal data which have been voluntary and
+manifestly made public by the personal data subject or which are closely related
+to the personal data subject as a public person or to the public nature of the
+6
+
+events that the person concerned are involved in, in terms of the Law on freedom
+of expression.
+Article 11. Storage and use of personal data at the end of processing
+operations
+(1) The conditions and time periods of personal data storage shall be set by
+law, taking into account the provisions referred to in Article 4, paragraph (1), e).
+Upon expiration of the storage time limit, the personal data shall be destroyed as
+established by law.
+(2) Personal data contained in the state records, for no longer than is
+necessary to be used, may be kept only as an archive document.
+(3) At the end of personal data processing operations, if the personal data
+subject has not given his consent for another destination or further processing,
+personal data shall be:
+a) destroyed;
+b) transferred to another controller, provided that the original controller
+guarantees that further processing shall be carried out for purposes similar to
+those for which the data initially have been processed;
+c) rendered in anonymous data and stored exclusively for statistical,
+historical or scientific-research purposes.
+(4) After the death of the personal data subject, his personal data shall be
+used for archive purposes and other purposes stipulated by law, with the consent
+of his successors.
+Chapter III
+RIGHTS OF PERSONAL DATA SUBJECT
+Article 12. Informing the personal data subject
+(1) Where the personal data are collected directly from the personal data
+subject, the controller or the processor must provide the data subject with the
+following information, except where he already has it:
+1) the identity of the controller or of the processor, as the case may be;
+2) the purpose of processing for which the data are collected;
+3) additional information, such as:
+a) recipients or categories of recipients of personal data;
+b) existence of the rights of access to data, the right of intervention upon
+data and the right to object, as well as conditions under which such rights may
+be exercised;
+c) whether the answers to the questions intended to collect data are
+mandatory or voluntary, as well as the possible consequences of denial to
+respond;
+7
+
+(2) Where the personal data are not collected directly from the personal data
+subject, the controller or the processor must, at the time of data collection or, if a
+disclosure to the third parties is envisaged, no later than the time when the data are
+first disclosed provide the personal data subject with information on the categories
+of personal data which are intended to be collected or disclosed, as well as with
+the information specified in paragraph (1), except item 3), c).
+(3) Provisions referred to in paragraph (2) shall not apply where:
+a) the personal data subject has already the information;
+b) processing of personal data is carried out for statistical, historical or
+scientific-research purposes;
+c) provision of information that proves to be impossible or involves
+disproportionate effort towards the legitimate interest that might be violated;
+d) recording or disclosure of personal data is expressly stipulated by law.
+Article 13. The right of access to personal data
+(1) Any personal data subject has the right to obtain from the controller,
+upon request, without delay and free of charge:
+a) confirmation as to whether or not data relating to him are being
+processed and information as to the purposes of the processing, the categories of
+data concerned, and the recipients or categories of recipients to whom the data
+are disclosed;
+b) communication to him in an intelligible form and in a way that does not
+require additional equipment, of the data undergoing processing, and of any
+available information as to their source;
+c) information on the logic involved in any automatic processing of data
+concerning the personal data subject;
+d) information on legal consequences for the personal data subject
+generated by processing of these data;
+e) information on the exercise of the right of intervention upon the
+personal data.
+(2) Where the personal data concerning health are processed for the purpose
+of scientific-research, where there is clearly no risk of breaching the rights of the
+personal data subject, and the data are not used for taking measures or decisions
+regarding any particular individual, communication of information specified in
+paragraph (1) may be done within a period of time longer than the one stipulated
+by the Law on access to information, to the extent to which it could affect the
+good carrying-out or results of the research, but not later than the research is over.
+The personal data subject must give his consent to the processing of healthrelated data for scientific-research purposes, as well as to the possible delay, for
+this reason, of the communication of information provided for in paragraph (1).
+8
+
+Article 14. The right of intervention upon personal data
+Any personal data subject has the right to obtain from the controller or his
+representative, on request and free of charge:
+a) the rectification, update, blocking or erasure of personal data, the
+processing of which does not comply with this law, in particular because of their
+incomplete or inaccurate nature;
+b) notification of the third parties to whom the personal data have been
+disclosed, about any operations performed under the provisions referred to in
+letter a), except where such notification proves to be impossible or involves
+disproportionate effort towards the legitimate interest that might be violated.
+Article 15. Exemptions and restrictions
+(1) The provisions referred to in Article 4 (1), Article 12, (1) and (2),
+Articles 13, 14, 28 shall not apply where the processing of personal data is
+carried out in the course of activities provided for in Article 2, paragraph (2), d),
+for the purposes of national defence, state security and public order, protection of
+the rights and freedoms of personal data subject or of other persons, if their
+application affects the efficiency of action or the objective pursued in fulfilment
+of legal duties of a public authority.
+(2) The processing of personal data for purposes set in paragraph (1) shall
+not be carried out for longer period than necessary to achieve the pursued
+objective.
+(3) As soon as the reasons that justified the enforcement of paragraphs (1)
+and (2) of this Article no longer exist the controllers shall take the necessary
+measures in order to ensure the observance of personal data subject’s rights
+provided for in Articles 12 – 14.
+(4) Public authorities shall keep record of the application of exceptions set
+in paragraph (1) and shall inform the National Centre for Personal Data
+Protection, within 10 days, about the personal data processed in terms of this
+Article.
+Article 16. The right of the personal data subject to object
+(1) The personal data subject shall have the right to object at any time and
+free of charge on compelling legitimate grounds relating to his particular
+situation to the processing of personal data relating to him, save where otherwise
+provided by law. Where there is a justified objection, the processing instigated
+by the controller may no longer involve those data.
+(2) The personal data subject has the right to object at any time and free of
+charge without any justification to the processing of personal data relating to him
+for the purpose of direct marketing. The controller or the processor is obliged to
+9
+
+inform the person concerned about the right to object such operation before his
+personal data are to be disclosed to third parties.
+Article 17. The right not to be subject to an individual decision
+(1) Any person shall have the right to request for the rescinding, in whole
+or in part, of any individual decision which produces legal effects concerning his
+rights and freedoms, and which is based solely on automated processing of data
+intended to evaluate certain personal aspects relating to him such as his
+performance at work, creditworthiness, conduct, or other similar aspects.
+(2) A person may be subjected to the decision of the kind referred to in
+paragraph (1) if that decision:
+a) is authorized by a law which also lays down measures to safeguard the
+personal data subject's legitimate interests;
+b) is taken in the course of the entering into or performance of a contract,
+provided that the request for the entering into or the performance of the contract,
+lodged by the data subject, has been satisfied.
+Article 18. Access to Justice
+Any person who has suffered damage as a result of an unlawful processing
+operation of personal data or his rights and interests guaranteed by this law have
+been violated, shall have the right to refer in a court in order to repair the
+material and moral damages.
+
+Chapter IV
+SUPERVISORY BODY FOR PERSONAL DATA PROCESSING
+Article 19. Supervisory body for personal data processing
+(1) Control over compliance of personal data processing with the
+requirements of this law is performed by the National Centre for Personal Data
+Protection (hereinafter – Centre) that carries out its activity under the conditions
+of impartiality and independence.
+(2) The Centre is a legal entity, has a stamp and a letter-head with the State
+Emblem of the Republic of Moldova. The Centre has its permanent address in
+Chisinau.
+(3) The Regulation of the Centre, its structure and staff-limit shall be
+approved by the Parliament.
+(4) The Centre’s budget shall be approved by a Parliament Decision, after
+its examination and approval by the relevant Parliamentary Committee.
+10
+
+(5) The Parliament shall submit to the Government the approved budget of
+the Centre to be included in the draft State Budget Law for the next year.
+Article 20. Duties and competences of the Centre
+(1) The Centre has the following duties:
+a) to supervise the compliance of the legislation on the protection of
+information and to monitor its application, especially the right to information, the
+right of access to data, the right of intervention upon the data and the right to
+object;
+b) to authorize the processing operations of personal data as provided for
+by law;
+c) to develop guidelines necessary to bring personal data processing in
+compliance with the provisions of this law, without affecting the area of
+competence of other bodies;
+d) to provide information to personal data subjects on their rights;
+e) to order the suspension or cessation of personal data processing
+performed with violation of the provisions of this law;
+f) to keep the register of personal data controllers, which form and
+content is approved by the Government; the register shall be public, except for
+the information referred to in Article 23, paragraph (2), l);
+g) to issue orders in the area of personal data protection, and standard
+forms for notifications and for its own registers;
+h) to receive and analyze notifications on personal data processing;
+i) to carry out control of the lawfulness of personal data processing in
+accordance with the Regulation, which develops and approves it;
+j) to make proposals on improving the enacted legislation in the area of
+personal data protection and processing;
+k) to cooperate with public authorities, mass media, NGOs, as well as
+with similar foreign institutions;
+l) to compile and analyze annual activity reports of public authorities with
+regard to the protection of individuals in respect of personal data processing;
+m) to notify the law enforcement bodies if there are indication of
+committing crimes related to infringement of personal data subjects’ rights;
+n) to establish contraventions and to draw up minutes according to the
+Contravention Code of the Republic of Moldova;
+o) to inform public authorities, on the situation existing in the field of the
+protection of personal data subjects’ rights, as well as to respond to their claims
+and requests;
+p) to survey the fulfilment of requirements set by the Government with
+regard to the personal data security within their processing;
+q) to inform regularly the institutions and the society about its activity, the
+issues and priority concerns in the area of the protection of individual’s rights;
+11
+
+r) to provide assistance and to perform the requests for assistance in terms
+
+of enforcement of the Convention for the protection of individuals with regard to
+automatic processing of personal data;
+s) to carry out other duties as provided for by law.
+(2) The Centre has the following competences:
+a) to request and receive, free of charge, from natural or legal persons
+governed by public law, or by private law, information necessary for the exercise
+of its duties;
+b) to obtain from controllers the support and information necessary for the
+exercise of its duties;
+c) to recruit specialists and experts in the activity of prior checking and
+control of the lawfulness of personal data processing in areas which require
+special expertise, with whom it shall conclude agreements of confidentiality;
+d) to request from controllers the rectification, blocking or destruction of
+personal data which are inaccurate or obtained unlawfully.
+(3)The controllers, regardless of their legal form of organization, provide
+to the Centre the requested documents and materials on protection of personal
+data within 15 days if the request does not provide otherwise.
+Article 21. Organisation of the Centre’s activity
+(1) Within its activity, the Centre shall provide the confidentiality of
+personal data which became known to it.
+(2) In order to collect the information necessary to fulfil the supervisory
+duties, the employees of the Centre shall have the right of free access to the
+facilities and the territory of location of personal data files, to personal data
+processed by controllers and/or by processors, to the processing equipment,
+programs and applications, as well as to any document or recording related to the
+processing of personal data, in terms of the law.
+(3) The Centre shall submit to the Parliament, the President of the
+Republic of Moldova and the Government, annually, until March 15, the activity
+report for the preceding calendar year, which shall be published free of charge in
+the Official Gazette of the Republic of Moldova and on the website of the
+Centre.
+Article 22. The Centre’s leadership
+(1) The Centre is led by a director appointed by the Parliament upon the
+proposal of the President of Parliament, a parliamentary fraction or a group of at
+least 15 MPs, with the vote of the majority of elected deputies, for a term of 5
+years. The appointed person may hold the position of director for not more than
+two consecutive mandates.
+12
+
+(2) The Director carries out general management of the Centre, employs
+and dismisses the Centre’s staff in terms of the Law on public function and the
+statute of the civil servant, establishes employees’ duties, organizes preparation
+of annual reports and presents them at the Parliament’s plenary, represents the
+institution in the country and abroad.
+(3) In exercising his duties, the director is assisted by a deputy, appointed
+by the Parliament upon proposal of the director of the Centre with the vote of the
+majority of elected deputies, for a term of 5 years. In the absence of the director
+of the Centre, the deputy director temporarily fulfils his duties.
+(4) Any person holding a citizenship of the Republic of Moldova, with
+higher education in Law and professional experience of at least 5 years in the
+field of protection of human rights and freedoms may be appointed as director or
+deputy director of the Centre.
+(5) The positions of the director and deputy director are public dignity
+functions and are remunerated in accordance with the Law on wage system in the
+public sector.
+(6) While exercising his mandate, the director and the deputy director of
+the Centre may not be part of parties or other social -political organizations, may
+not practice other public or private activities, except for didactic and scientific
+activity, and have no right to hold, directly or indirectly, movables in trade
+companies or enterprises, which are governed by the Centre.
+(7) The exercise of the director and deputy director’s mandates expire at
+the end of their term, if the terms are not extending as provided for by law.
+Where the regular term of office has expired, the director and deputy director of
+the Centre remain in the exercise of duty until their successors take over these
+functions, except for cases when duties’ fulfilment is ended before term.
+(8) The mandate of the director and deputy director of the Centre expires
+before term in case of:
+a) resignation;
+b) incompatibility with other public or private functions;
+c) revocation from position;
+d) impossibility to serve the mandate for health reasons established by
+medical examination;
+e) death.
+(9) Proposal of revocation of the director of the Centre from his position
+can be made by the President of the Parliament, a parliamentary fraction or at
+least 15 MPs in the following cases:
+13
+
+a) serious violation of job attributions stipulated by the legislation;
+b) definitive settlement of a conviction sentence for committing a crime.
+(10) Proposal of revocation of the deputy director of the Centre from his
+position may be made by the director of the Centre, a parliamentary fraction or at
+least 15 MPs in the cases provided for in paragraph (9). The revocation decision
+shall be adopted with the vote of the majority of elected MPs.
+Chapter V
+CONTROL OF PERSONAL DATA PROTECTION
+Article 23. Notification of the Centre on the processing of personal data
+(1) Controllers must notify the Centre, personally or through the
+representatives authorised by them (processors), before carrying out the
+processing of personal data intended to serve a purpose. The processing of other
+categories of personal data than those notified before shall be carried out under a
+new notification.
+(2) The notification should contain the following information:
+a) name and address or headquarters in the Republic of Moldova of the
+controller and the processor, if any;
+b) the purpose of processing;
+c) the description of category of personal data subjects and of the data to
+be processed, as well as the sources of those data;
+d) the existence of personal data subject’s consent to the processing of
+data;
+e) the way of informing of personal data subjects about their rights;
+estimated date for ending the processing operations, as well as further destination
+of personal data;
+f) the recipients to whom the personal data are intended to be disclosed;
+g) the guarantees for the transfer of personal data to third parties;
+h) proposals on transborder transfers of personal data intended to take
+place;
+i) persons responsible for personal data processing;
+j) specification of personal data filing systems related to processing, as
+well as possible relations with other processing operations of data or with other
+personal data filing systems, whether performed or not, and if there are
+established on the territory of the Republic of Moldova;
+k) reasons that justify the application of provisions referred to in Articles
+10 and 12, (3) where the processing of data is performed exclusively for
+journalistic, literary or artistic purposes, or for purposes of statistical, historical
+or scientific-research;
+14
+
+l) general description of measures taken in respect of ensuring the security
+of personal data processing as provided for by Article 30.
+(3) Where the processed personal data are to be transferred abroad, the
+notification shall also include:
+a) the categories of data intended to be transferred;
+b) the country of destination for each category of data.
+(4) Public authorities carrying out the processing of personal data in
+connection with the activities specified in Article 2, paragraph (2), d) for
+exercising their legal duties in the sphere of their competence or fulfil the
+obligations under the international agreements to which Republic of Moldova is
+a party, must submit an information statement that shall contain:
+a) the name and address of the controller or of the processor, if any;
+b) the purpose and legal grounds for processing;
+c) the categories of personal data subject to processing.
+(5) Notification is not necessary when processing is performed for the
+purpose of keeping a register designed to inform the public or any other person
+who proves legitimate interest, provided that processing is limited to data
+necessary for keeping the mentioned register.
+(6) The Centre may also establish other cases where notification is not
+necessary or where it may be performed in a simplified form, when:
+1) processing, taking into consideration the nature of personal data, does
+not affect the rights of personal data subjects, with the condition to specify:
+a) the purpose of such processing;
+b) the data that may be processed;
+c) the categories of personal data subjects;
+d) the recipients to whom personal data may be transmitted;
+e) the period of storage of personal data;
+2) processing is carried out under the provisions of Article 6, paragraph
+(1), d).
+(7) In case of processing of personal data which was not notified, the
+controller or the processor shall submit to the personal data subject, on request, the
+information referred to in paragraph (2), a)-k), except for cases provided for by
+paragraph (5).
+(8)
+Every controller to primary notification is given a registration
+number which shall be indicated on all documents through which personal data
+are collected, stored or transmitted.
+15
+
+Article 24. Prior checking
+(1) If, based on the notification, the Centre establishes that the processing
+falls under one of the categories referred to in paragraph (2) of this article, it
+shall mandatory order the conduct of a prior checking, informing the controller
+or the processor within 5 days from the date of submission of notification.
+(2) The categories of the processing operations of personal data subject to
+transborder transfer and the categories of the processing operations of personal
+data likely to present specific risks to the rights and freedoms of individuals shall
+be subject to a prior checking, as follows:
+a) processing operations of special categories of personal data, as well as
+genetic, biometric data, and those that allow the geolocalisation of persons,
+including for purposes of scientific research;
+b) processing operations of personal data by automatic means intended to
+evaluate certain personal aspects related to him, such as performance at work,
+creditworthiness, conduct or other such aspects;
+c) processing operations of personal data by automatic means within
+certain filing systems, intended to make an automated individual decision with
+relation to the analysis of solvency, economic and financial situation, facts
+exempted from disciplinary, administrative or criminal liability of natural
+persons, carried out by private entities.
+d) processing operations of minors’ personal data within direct marketing
+activities;
+e) processing operations of personal data referred to in letter a) and
+personal data of minors collected via internet or electronic messaging.
+(3) Prior checking shall be conducted on the basis of information
+contained in the notification provided by the controller or the processor. The
+Centre may also request other information regarding the origin of personal data,
+the automated processing technology used, and the security measures for
+personal data processing.
+(4) The length of prior checking may not exceed 45 days. If necessary,
+given the complexity of personal data processing operations, the Centre may
+extend the term for the conduct of prior checking for another 45 days, about
+which the controller or the processor shall be informed.
+Article 25. Authorisation for personal data processing operations
+(1) Within 7 days from the date that the prior checking has been carried
+out, the Centre shall issue the decision on approval or refusal of the authorisation
+for the operations referred to in Article 24, (2).
+16
+
+(2) The content and form of authorisation shall be approved by the Centre.
+The processing of personal data without authorisation or beyond the limits
+provided for by the authorisation shall be prohibited.
+(3) The decision to deny the authorisation for personal data processing
+shall be based on reasons justifying the refusal and, as the case may be, the way
+of eliminating circumstances hindering the processing of such data. The decision
+on refusal to authorise the processing of personal data may be appealed to the
+competent administrative court.
+(4) Denial of personal data processing authorisation shall not preclude the
+controller from notifying the Centre repeatedly after the elimination of
+circumstances that have hindered the processing of such data.
+Article 26. Control of lawfulness of personal data processing
+(1) The control of lawfulness of personal data processing (hereinafter –
+control) aims at checking on whether or not the controller and the processor
+comply with the requirements and fulfil the conditions stipulated in this law.
+(2) The control is carried out by the Centre under an annual approved
+schedule published on its website.
+(3) The Centre shall inform the controller or the processor about its intent
+to carry out the control 5 days before it starts, except for the cases referred to in
+Article 27, paragraphs (2) and (4).
+(4) Where, following the control carried out there are established
+violations, the Centre shall issue a decision on suspending the processing
+operations of personal data, which shall contain instructions for bringing the
+personal data processing in compliance with the provisions of this law.
+(5) The processing operations of personal data shall be suspended until the
+elimination of circumstances that served as grounds for issuing the decision. The
+controller or the processor must eliminate those circumstances within 30 days
+from the date of issuance of the decision on suspension.
+(6) Where the controller or the processor has not eliminated the
+circumstances that served as grounds for suspension within the term set in
+paragraph (5), the Centre shall issue a decision on cessation of personal data
+processing operations, ordering or not the blocking or destruction of personal
+data which are inaccurate or are obtained illegally.
+(7) The decision on suspension or cessation of personal data processing
+operations may be appealed to the competent administrative court.
+17
+
+Article 27. Procedure of complaints reception and settlement
+by the Centre
+(1) Personal data subjects who consider that processing of their personal
+data does not comply with the requirements of this law, may address a complaint
+to the Centre within 30 days from the date of detecting violations.
+(2) In the process of settling complaint, the Centre may hear the personal
+data subject, the controller and, as the case may be the processor, the witnesses
+and may order the conduct of an unscheduled control.
+(3) Following the complaint examination, the Centre shall issue a
+grounded decision either on no violations of the legal provisions, or on the
+suspension of personal data processing operations, or on rectification, blocking
+or destruction of inaccurate data or obtained unlawfully. The decision shall be
+communicated to the interested parties within 30 days from the date of the
+receipt of complaint.
+(4) Provisions of paragraphs (2) and (3) shall apply appropriately where
+the Centre takes action ex officio with regard to the commission of a violation of
+the personal data subjects’ rights acknowledged by this law.
+(5) The controller, processor or personal data subject may appeal the
+decision of the Centre to the competent administrative court.
+Article 28. Register of personal data controllers
+(1) For the purpose of recording the processing operations of personal
+data, the Centre shall institute and keep a register of personal data controllers
+that shall contain the information listed in Article 23, paragraph (2). Any
+modification of this information shall be communicated to the Centre within 5
+days, and the Centre will make the corresponding entries in the register of
+personal data controllers.
+(2) The register of personal data controllers is opened for consultation to
+the public, except for the section containing information on security measures
+and confidentiality guarantees. The method of consultation is determined by the
+Centre.
+(3) Recording of controllers and of modifications of the information
+entered in the register of personal data controllers is performed free of charge.
+Chapter VI
+CONFIDENTIALITY AND SECURITY OF PERSONAL DATA
+PROCESSING
+18
+
+Article 29. Confidentiality of personal data
+(1) Controllers and third parties who have access to personal data must
+ensure the confidentiality of those data, except where:
+a) processing relates to data which are voluntary and manifestly made
+public by the personal data subject;
+b) personal data are rendered anonymous;
+(2) Any person acting on behalf, on the account or in any other way under
+the authority of the controller will be able to process personal data only on
+instructions from the controller, unless he is required to do so by law.
+(3) The Centre’s leadership and employees are obliged to guarantee nondisclosure of the professional secrecy with regard to confidential information to
+which they have access, even after their functions have been served out.
+Article 30. Security of personal data processing
+(1) While the processing of personal data, the controller must implement
+appropriate technical and organizational measures to protect personal data
+against destruction, alteration, blocking, copying, disclosure, and against other
+unlawful forms of processing, that shall ensure a level of security appropriate to
+the risks represented by the processing and the nature of the data.
+(2) The controller must, where processing is carried out on his behalf,
+choose a processor that shall ensure sufficient guarantees in respect of the
+technical security measures and organizational measures governing the
+processing to be carried out.
+(3) The carrying out of processing by way of a processor must be
+governed by a contract or legal act stipulating, in particular that:
+a) the processor shall act only on instructions from the controller;
+b) the obligations set out in paragraph (1) shall also be incumbent on the
+processor.
+(4) The requirements for ensuring security of personal data at their
+processing within information systems are established by the Government.
+Article 31. Depersonalization of personal data
+(1) For statistical purposes, historical, scientific, sociological, health
+research, legal documentation, the controller shall depersonalize the data by
+withdrawing those which permit the identification of natural person, rendering it
+in anonymous data, which cannot be associated with an identified or identifiable
+person.
+(2) Where the personal data are rendered anonymous, the confidentiality
+treatment established for this data shall be cancelled.
+19
+
+Chapter VII
+TRANSBORDER TRANSFER OF PERSONAL DATA
+Article 32. Transborder transfer of personal data
+(1) This article shall apply to the transfer to another state, regardless of
+used medium or means, of personal data undergoing processing or are intended
+for processing.
+(2) Personal data intended for transfer to another state shall be protected in
+accordance with this law.
+(3) Transborder transmission of personal data undergoing processing or
+are intended for processing after transfer may take place only with the
+authorization of the Centre, as provided for by law, and only if the country in
+question ensures an adequate level of protection of personal data subjects’ rights
+and of data intended for transfer.
+(4) The level of protection shall be established by the Centre taking into
+account the conditions in which personal data transmission takes place,
+especially the nature of data, the purpose and duration of proposed processing
+operations, the country of destination, the legislation in force in the country in
+question and the professional rules and security measures which are complied
+with in that country.
+(5) Where the Centre considers that the country of destination does not
+ensure an adequate level of protection, it shall prevent any transfer of data.
+(6) The Centre may authorise, as provided for by law, the transfer of
+personal data to another state, which legislation does not ensure at least the same
+level of protection as the one offered by the law of the Republic of Moldova,
+where the controller provides sufficient guarantees regarding the protection and
+the exercise of the personal data subjects’ rights, that are laid down by contracts
+concluded between controllers and natural or legal persons, on which provision
+the transfer is carried out.
+(7) The provisions referred to in paragraphs (3)-(6) shall not apply where
+the transfer of personal data takes place in terms of the provisions of a by-law or
+of an international treaty ratified by the Republic of Moldova, in particular if the
+transfer is necessary for the purpose of preventing and investigating crimes. The
+by-law or international treaty must contain guarantees regarding the protection of
+personal data subject’s rights.
+(8) The provisions referred to in paragraphs (1)-(6) shall not apply where
+the processing of personal data is carried out solely for journalistic, literary or
+20
+
+artistic purposes, if such data are voluntarily and manifestly made public by the
+personal data subject or if they are closely related to the personal data subject’s
+status of a public person or to the public nature of the acts in which he is
+involved.
+(9) Transmission of personal data to states that do not ensure an adequate
+level of protection may take place only:
+a) with the personal data subject’s consent;
+b) if the transfer is necessary for the conclusion or performance of an
+agreement or contract concluded between the personal data subject and the
+controller or between the controller and a third party in the interest of the
+personal data subject;
+c) if the transfer is necessary in order to protect the life, physical integrity
+or health of the personal data subject;
+d) if transfer is made from a register which according to the law is
+intended to provide information to the public and which is open to consultation
+either by the public or by any person who demonstrates a legitimate interest, to
+the extent that the conditions for consultation in particular cases laid down in law
+are fulfilled;
+e) the transfer is necessary for the accomplishment of an important public
+interest, such as national defense, public order or national security, carrying out
+in good order a criminal trial or ascertaining, exercising or defending a right in
+court, on the condition that the personal data is processed solely in relation to
+this purpose and only for longer period is necessary to achieve it.
+Chapter VIII
+ACCOUNTABILITY
+Article 33. Accountability for violation of this law
+For violation of this law, the convicted persons are liable under the civil,
+administrative or criminal law.
+Chapter IX
+FINAL AND TRANSITORY PROVISIONS
+Article 34.
+(1)
+This law shall come into force 6 months from the date of its
+publication.
+On the date of entering into force of this law, the Law on personal
+data protection No. 17-XVI of February 15, 2007 (Official Gazette of the
+Republic of Moldova, 2007, No. 107-111, art. 468) with further amendments and
+completions shall be repealed.
+(2)
+
+21
+
+(3) Within 6 months, the Government shall:
+a) develop and submit to Parliament proposals on bringing the enacted
+legislation in line with this law;
+b) align its regulatory acts in compliance with this law;
+c) ensure the conformity of regulatory acts of central public administration
+authorities with this law.
+(4) The processing operations of personal data that have been started prior
+to the effective date of this law, shall be notified to the Centre within 30 days
+from the date of entering into force of this law, in order to be compulsory
+registered.
+
+PRESIDENT OF THE PARLIAMENT
+MARIAN LUPU
+Chişinău, July 8, 2011.
+No. 133.
+(Official Gazette of the Republic of Moldova
+no. 170-175/492 from 14 October 2011)
+
+22
+
+

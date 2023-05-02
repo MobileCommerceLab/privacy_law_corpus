@@ -1,0 +1,5907 @@
+Délai référendaire: 14 janvier 2021
+
+Loi fédérale
+sur la protection des données
+(LPD)
+du 25 septembre 2020
+
+L’Assemblée fédérale de la Confédération suisse,
+vu les art. 95, al. 1, 97, al. 1, 122, al. 1, et 173, al. 2, de la Constitution1,
+vu le message du Conseil fédéral du 15 septembre 20172,
+arrête:
+
+Chapitre 1
+But, champ d’application et autorité fédérale de surveillance
+Art. 1
+
+But
+
+La présente loi vise à protéger la personnalité et les droits fondamentaux des personnes physiques dont les données personnelles font l’objet d’un traitement.
+Art. 2
+
+Champ d’application à raison de la personne et de la matière
+
+La présente loi régit le traitement de données personnelles concernant des personnes physiques effectué par:
+1
+
+2
+
+a.
+
+des personnes privées;
+
+b.
+
+des organes fédéraux.
+
+Elle ne s’applique pas:
+a.
+
+aux traitements de données personnelles effectués par une personne physique pour un usage exclusivement personnel;
+
+b.
+
+aux traitements de données personnelles effectués par les Chambres fédérales et les commissions parlementaires dans le cadre de leurs délibérations;
+
+RS ...
+1
+RS 101
+2
+FF 2017 6565
+2020-2930
+
+7397
+
+Protection des données. LF
+
+c.
+
+FF 2020
+
+aux traitements de données personnelles effectués par les bénéficiaires institutionnels au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte3
+qui jouissent en Suisse de l’immunité de juridiction.
+
+Les traitements de données personnelles effectués dans le cadre de procédures
+devant des tribunaux ou dans le cadre de procédures régies par des dispositions
+fédérales de procédure, ainsi que les droits des personnes concernées, obéissent au
+droit de procédure applicable. La présente loi s’applique aux procédures administratives de première instance.
+3
+
+Les registres publics relatifs aux rapports de droit privé, notamment l’accès à ces
+registres et les droits des personnes concernées, sont régis par les dispositions spéciales du droit fédéral applicable. À défaut la présente loi s’applique.
+4
+
+Art. 3
+
+Champ d’application territorial
+
+La présente loi s’applique aux états de fait qui déploient des effets en Suisse, même
+s’ils se sont produits à l’étranger.
+1
+
+Les prétentions de droit privé sont régies par la loi fédérale du 18 décembre 1987
+sur le droit international privé4. Sont également réservées les dispositions régissant
+le champ d’application territorial du code pénal5.
+2
+
+Art. 4
+
+Préposé fédéral à la protection des données et à la transparence
+
+Le Préposé fédéral à la protection des données et à la transparence (PFPDT) est
+chargé de surveiller la bonne application des dispositions fédérales de protection des
+données.
+1
+
+2
+
+3
+4
+5
+
+Il ne peut exercer aucune surveillance sur:
+a.
+
+l’Assemblée fédérale;
+
+b.
+
+le Conseil fédéral;
+
+c.
+
+les tribunaux fédéraux;
+
+d.
+
+le Ministère public de la Confédération, en ce qui concerne le traitement de
+données personnelles dans le cadre de procédures pénales;
+
+e.
+
+les autorités fédérales, en ce qui concerne le traitement de données personnelles dans le cadre de leurs activités juridictionnelles ou dans le cadre de
+procédures d’entraide judiciaire internationale en matière pénale.
+
+RS 192.12
+RS 291
+RS 311.0
+
+7398
+
+Protection des données. LF
+
+Chapitre 2
+Section 1
+
+Dispositions générales
+Définitions et principaux généraux
+
+Art. 5
+
+Définitions
+
+FF 2020
+
+On entend par:
+a.
+
+données personnelles: toutes les informations concernant une personne physique identifiée ou identifiable;
+
+b.
+
+personne concernée: la personne physique dont les données personnelles
+font l’objet d’un traitement;
+
+c.
+
+données personnelles sensibles (données sensibles):
+1. les données sur les opinions ou les activités religieuses, philosophiques,
+politiques ou syndicales,
+2. les données sur la santé, la sphère intime ou l’origine raciale ou ethnique,
+3. les données génétiques,
+4. les données biométriques identifiant une personne physique de manière
+univoque,
+5. les données sur des poursuites ou sanctions pénales et administratives,
+6. les données sur des mesures d’aide sociale;
+
+d.
+
+traitement: toute opération relative à des données personnelles, quels que
+soient les moyens et procédés utilisés, notamment la collecte, l’enregistrement, la conservation, l’utilisation, la modification, la communication, l’archivage, l’effacement ou la destruction de données;
+
+e.
+
+communication: le fait de transmettre des données personnelles ou de les
+rendre accessibles;
+
+f.
+
+profilage: toute forme de traitement automatisé de données personnelles
+consistant à utiliser ces données pour évaluer certains aspects personnels relatifs à une personne physique, notamment pour analyser ou prédire des
+éléments concernant le rendement au travail, la situation économique, la santé, les préférences personnelles, les intérêts, la fiabilité, le comportement, la
+localisation ou les déplacements de cette personne physique;
+
+g.
+
+profilage à risque élevé: tout profilage entraînant un risque élevé pour la
+personnalité ou les droits fondamentaux de la personne concernée, parce
+qu’il conduit à un appariement de données qui permet d’apprécier les caractéristiques essentielles de la personnalité d’une personne physique;
+
+h.
+
+violation de la sécurité des données: toute violation de la sécurité entraînant
+de manière accidentelle ou illicite la perte de données personnelles, leur modification, leur effacement ou leur destruction, leur divulgation ou un accès
+non autorisés à ces données;
+
+i.
+
+organe fédéral: l’autorité fédérale, le service fédéral ou la personne chargée
+d’une tâche publique de la Confédération;
+7399
+
+Protection des données. LF
+
+FF 2020
+
+j.
+
+responsable du traitement: la personne privée ou l’organe fédéral qui, seul
+ou conjointement avec d’autres, détermine les finalités et les moyens du traitement de données personnelles;
+
+k.
+
+sous-traitant: la personne privée ou l’organe fédéral qui traite des données
+personnelles pour le compte du responsable du traitement.
+
+Art. 6
+
+Principes
+
+1
+
+Tout traitement de données personnelles doit être licite.
+
+2
+
+Il doit être conforme aux principes de la bonne foi et de la proportionnalité.
+
+Les données personnelles ne peuvent être collectées que pour des finalités déterminées et reconnaissables pour la personne concernée et doivent être traitées ultérieurement de manière compatible avec ces finalités.
+3
+
+Elles sont détruites ou anonymisées dès qu’elles ne sont plus nécessaires au regard
+des finalités du traitement.
+4
+
+Celui qui traite des données personnelles doit s’assurer qu’elles sont exactes. Il
+prend toute mesure appropriée permettant de rectifier, d’effacer ou de détruire les
+données inexactes ou incomplètes au regard des finalités pour lesquelles elles sont
+collectées ou traitées. Le caractère approprié de la mesure dépend notamment du
+type de traitement et de son étendue, ainsi que du risque que le traitement des données en question présente pour la personnalité ou les droits fondamentaux des personnes concernées.
+5
+
+Lorsque le consentement de la personne concernée est requis, celle-ci ne consent
+valablement que si elle exprime librement sa volonté concernant un ou plusieurs
+traitements déterminés et après avoir été dûment informée.
+6
+
+7
+
+Le consentement doit être exprès dans les cas suivants:
+a.
+
+il s’agit d’un traitement de données sensibles;
+
+b.
+
+il s’agit d’un profilage à risque élevé effectué par une personne privée;
+
+c.
+
+il s’agit d’un profilage effectué par un organe fédéral.
+
+Art. 7
+
+Protection des données dès la conception et par défaut
+
+Le responsable du traitement est tenu de mettre en place des mesures techniques et
+organisationnelles afin que le traitement respecte les prescriptions de protection des
+données, en particulier les principes fixés à l’art. 6. Il le fait dès la conception du
+traitement.
+1
+
+Les mesures techniques et organisationnelles doivent être appropriées au regard
+notamment de l’état de la technique, du type de traitement et de son étendue, ainsi
+que du risque que le traitement des données présente pour la personnalité ou les
+droits fondamentaux des personnes concernées.
+2
+
+Le responsable du traitement est tenu de garantir, par le biais de préréglages
+appropriés, que le traitement des données personnelles soit limité au minimum
+3
+
+7400
+
+Protection des données. LF
+
+FF 2020
+
+requis par la finalité poursuivie, pour autant que la personne concernée n’en dispose
+pas autrement.
+Art. 8
+
+Sécurité des données
+
+Les responsables du traitement et les sous-traitants doivent assurer, par des mesures organisationnelles et techniques appropriées, une sécurité adéquate des données personnelles par rapport au risque encouru.
+1
+
+2
+
+Les mesures doivent permettre d’éviter toute violation de la sécurité des données.
+
+Le Conseil fédéral édicte des dispositions sur les exigences minimales en matière
+de sécurité des données.
+3
+
+Art. 9
+
+Sous-traitance
+
+Le traitement de données personnelles peut être confié à un sous-traitant pour autant qu’un contrat ou la loi le prévoie et que les conditions suivantes soient réunies:
+1
+
+a.
+
+seuls sont effectués les traitements que le responsable du traitement serait en
+droit d’effectuer lui-même;
+
+b.
+
+aucune obligation légale ou contractuelle de garder le secret ne l’interdit.
+
+Le responsable du traitement doit en particulier s’assurer que le sous-traitant est en
+mesure de garantir la sécurité des données.
+2
+
+Le sous-traitant ne peut lui-même sous-traiter un traitement à un tiers qu’avec
+l’autorisation préalable du responsable du traitement.
+3
+
+4
+
+Il peut faire valoir les mêmes motifs justificatifs que le responsable du traitement.
+
+Art. 10
+
+Conseiller à la protection des données
+
+Les responsables du traitement privés peuvent nommer un conseiller à la protection
+des données.
+1
+
+Le conseiller à la protection des données est l’interlocuteur des personnes concernées et des autorités chargées de la protection des données en Suisse. Il a notamment
+les tâches suivantes:
+2
+
+a.
+
+former et conseiller le responsable du traitement privé dans le domaine de la
+protection des données;
+
+b.
+
+concourir à l’application des prescriptions relatives à la protection des données.
+
+Les responsables du traitement privés peuvent se prévaloir de l’exception prévue à
+l’art. 23, al. 4, lorsque les conditions suivantes sont réunies:
+3
+
+a.
+
+le conseiller à la protection des données exerce sa fonction de manière indépendante par rapport au responsable du traitement et sans recevoir d’instruction de celui-ci;
+
+b.
+
+il n’exerce pas de tâches incompatibles avec ses tâches de conseiller à la protection des données;
+7401
+
+Protection des données. LF
+
+FF 2020
+
+c.
+
+il dispose des connaissances professionnelles nécessaires;
+
+d.
+
+le responsable du traitement publie les coordonnées du conseiller à la protection des données et les communique au PFPDT.
+
+Le Conseil fédéral règle la désignation de conseillers à la protection des données
+par les organes fédéraux.
+4
+
+Art. 11
+
+Codes de conduite
+
+Les associations professionnelles, sectorielles et économiques, lorsqu’elles sont
+autorisées de par leurs statuts à défendre les intérêts économiques de leurs membres,
+de même que les organes fédéraux, peuvent soumettre leur code de conduite au
+PFPDT.
+1
+
+2
+
+Le PFPDT prend position sur les codes de conduite et publie ses prises de position.
+
+Art. 12
+
+Registre des activités de traitement
+
+Les responsables du traitement et les sous-traitants tiennent chacun un registre de
+leurs activités de traitement.
+1
+
+2
+
+Le registre du responsable du traitement contient au moins les indications suivantes:
+a.
+
+l’identité du responsable du traitement;
+
+b.
+
+la finalité du traitement;
+
+c.
+
+une description des catégories de personnes concernées et des catégories de
+données personnelles traitées;
+
+d.
+
+les catégories de destinataires;
+
+e.
+
+dans la mesure du possible, le délai de conservation des données personnelles ou les critères pour déterminer la durée de conservation;
+
+f.
+
+dans la mesure du possible, une description générale des mesures visant à
+garantir la sécurité des données selon l’art. 8;
+
+g.
+
+en cas de communication de données personnelles à l’étranger, le nom de
+l’État concerné et les garanties prévues à l’art. 16, al. 2.
+
+Le registre du sous-traitant contient des indications concernant l’identité du soustraitant et du responsable du traitement, les catégories de traitements effectués pour le
+compte du responsable du traitement ainsi que les indications prévues à l’al. 2, let. f et g.
+3
+
+4
+
+Les organes fédéraux déclarent leur registre d’activités de traitement au PFPDT.
+
+Le Conseil fédéral prévoit des exceptions pour les entreprises qui emploient moins
+de 250 collaborateurs et dont le traitement des données présente un risque limité
+d’atteinte à la personnalité des personnes concernées.
+5
+
+Art. 13
+
+Certification
+
+Les fournisseurs de systèmes ou de logiciels de traitement de données personnelles
+ainsi que les responsables du traitement et les sous-traitants peuvent soumettre leurs
+1
+
+7402
+
+Protection des données. LF
+
+FF 2020
+
+systèmes, leurs produits ou leurs services à une évaluation effectuée par des organismes de certification agréés et indépendants.
+Le Conseil fédéral édicte des dispositions sur la reconnaissance des procédures de
+certification et sur l’introduction d’un label de qualité de protection des données. Il
+tient compte du droit international et des normes techniques reconnues au niveau
+international.
+2
+
+Section 2
+Traitements de données personnelles par des responsables du
+traitement privés ayant leur siège ou leur domicile à l’étranger
+Art. 14
+
+Représentant
+
+Le responsable du traitement privé qui a son siège ou son domicile à l’étranger
+désigne un représentant en Suisse lorsqu’il traite des données personnelles concernant des personnes en Suisse et que ce traitement remplit les conditions suivantes:
+1
+
+a.
+
+le traitement est en rapport avec l’offre de biens ou de services ou le suivi du
+comportement de personnes en Suisse;
+
+b.
+
+il s’agit d’un traitement à grande échelle;
+
+c.
+
+il s’agit d’un traitement régulier;
+
+d.
+
+le traitement présente un risque élevé pour la personnalité des personnes
+concernées.
+
+2
+
+Le représentant est le point de contact pour les personnes concernées et le PFPDT.
+
+3
+
+Le responsable du traitement publie le nom et l’adresse de son représentant.
+
+Art. 15
+
+Obligations du représentant
+
+Le représentant tient un registre des activités de traitement du responsable du
+traitement qui contient les indications mentionnées à l’art. 12, al. 2.
+1
+
+2
+
+Il fournit sur demande au PFPDT les indications contenues dans ce registre.
+
+Il fournit sur demande à la personne concernée des renseignements concernant
+l’exercice de ses droits.
+3
+
+Section 3
+
+Communication de données personnelles à l’étranger
+
+Art. 16
+
+Principes
+
+Des données personnelles peuvent être communiquées à l’étranger si le Conseil
+fédéral a constaté que l’État concerné dispose d’une législation assurant un niveau
+de protection adéquat ou qu’un organisme international garantit un niveau de protection adéquat.
+1
+
+7403
+
+Protection des données. LF
+
+FF 2020
+
+En l’absence d’une décision du Conseil fédéral au sens de l’al. 1, des données personnelles peuvent être communiquées à l’étranger si un niveau de protection approprié est garanti par:
+2
+
+3
+
+a.
+
+un traité international;
+
+b.
+
+les clauses de protection des données d’un contrat entre le responsable du
+traitement ou le sous-traitant et son cocontractant, préalablement communiquées au PFPDT;
+
+c.
+
+des garanties spécifiques élaborées par l’organe fédéral compétent et préalablement communiquées au PFPDT;
+
+d.
+
+des clauses type de protection des données préalablement approuvées, établies ou reconnues par le PFPDT;
+
+e.
+
+des règles d’entreprise contraignantes préalablement approuvées par le
+PFPDT ou par une autorité chargée de la protection des données relevant
+d’un État qui assure un niveau de protection adéquat.
+
+Le Conseil fédéral peut prévoir d’autres garanties appropriées au sens de l’al. 2.
+
+Art. 17
+
+Dérogations
+
+En dérogation à l’art. 16, al. 1 et 2, des données personnelles peuvent être communiquées à l’étranger dans les cas suivants:
+1
+
+a.
+
+la personne concernée a expressément donné son consentement à la communication;
+
+b.
+
+la communication est en relation directe avec la conclusion ou l’exécution
+d’un contrat:
+1. entre le responsable du traitement et la personne concernée, ou
+2. entre le responsable du traitement et son cocontractant, dans l’intérêt de
+la personne concernée;
+
+c.
+
+la communication est nécessaire:
+1. à la sauvegarde d’un intérêt public prépondérant, ou
+2. à la constatation, à l’exercice ou à la défense d’un droit devant un tribunal ou une autre autorité étrangère compétente;
+
+d.
+
+la communication est nécessaire pour protéger la vie ou l’intégrité corporelle
+de la personne concernée ou d’un tiers et il n’est pas possible d’obtenir le
+consentement de la personne concernée dans un délai raisonnable;
+
+e.
+
+la personne concernée a rendu les données personnelles accessibles à tout un
+chacun et ne s’est pas opposée expressément au traitement;
+
+f.
+
+les données personnelles proviennent d’un registre prévu par la loi, accessible au public ou à toute personne justifiant d’un intérêt légitime, pour autant que les conditions légales pour la consultation dans le cas d’espèce
+soient remplies.
+
+7404
+
+Protection des données. LF
+
+FF 2020
+
+Le responsable du traitement ou le sous-traitant informe, sur demande, le PFPDT
+des communications de données personnelles effectuées en vertu de l’al. 1, let. b,
+ch. 2, c et d.
+2
+
+Art. 18
+
+Publication de données personnelles sous forme électronique
+
+La publication de données personnelles au moyen de services d’information et de communication automatisés afin d’informer le public n’est pas assimilée à une communication à l’étranger, même si ces données peuvent être consultées depuis l’étranger.
+
+Chapitre 3
+Obligations du responsable du traitement et du sous-traitant
+Art. 19
+
+Devoir d’informer lors de la collecte de données personnelles
+
+Le responsable du traitement informe la personne concernée de manière adéquate de
+la collecte de données personnelles, que celle-ci soit effectuée auprès d’elle ou non.
+1
+
+Lors de la collecte, il communique à la personne concernée les informations nécessaires pour qu’elle puisse faire valoir ses droits selon la présente loi et pour que la
+transparence des traitements soit garantie; il lui communique au moins:
+2
+
+a.
+
+l’identité et les coordonnées du responsable du traitement;
+
+b.
+
+la finalité du traitement;
+
+c.
+
+le cas échéant, les destinataires ou les catégories de destinataires auxquels
+des données personnelles sont transmises.
+
+Si les données personnelles ne sont pas collectées auprès de la personne concernée,
+il communique en outre les catégories de données traitées à cette personne.
+3
+
+Lorsque des données personnelles sont communiquées à l’étranger, il communique
+également à la personne concernée le nom de l’État ou de l’organisme international
+auquel elles sont communiquées et, le cas échéant, les garanties prévues à l’art. 16,
+al. 2, ou l’application d’une des exceptions prévues à l’art. 17.
+4
+
+Si les données personnelles ne sont pas collectées auprès de la personne concernée,
+il communique à cette personne les informations mentionnées aux al. 2 à 4 au plus
+tard un mois après qu’il a obtenu les données personnelles. S’il communique les
+données personnelles avant l’échéance de ce délai, il en informe la personne concernée au plus tard lors de la communication.
+5
+
+Art. 20
+
+Exceptions au devoir d’informer et restrictions
+
+Le responsable du traitement est délié du devoir d’information au sens de l’art. 19
+si l’une des conditions suivantes est remplie:
+1
+
+a.
+
+la personne concernée dispose déjà des informations correspondantes;
+
+b.
+
+le traitement des données personnelles est prévu par la loi;
+
+7405
+
+Protection des données. LF
+
+FF 2020
+
+c.
+
+le responsable du traitement est une personne privée et il est lié par une obligation légale de garder le secret;
+
+d.
+
+les conditions de l’art. 27 sont remplies.
+
+Lorsque les données personnelles ne sont pas collectées auprès de la personne concernée, le devoir d’information ne s’applique pas non plus dans les cas suivants:
+2
+
+a.
+
+l’information est impossible à donner;
+
+b.
+
+elle nécessite des efforts disproportionnés.
+
+Le responsable du traitement peut restreindre ou différer la communication des
+informations, ou y renoncer, si l’une des conditions suivantes est remplie:
+3
+
+a.
+
+les intérêts prépondérants d’un tiers l’exigent;
+
+b.
+
+l’information empêche le traitement d’atteindre son but;
+
+c.
+
+lorsque le responsable du traitement est une personne privée et que les conditions suivantes sont remplies:
+1. ses intérêts prépondérants l’exigent,
+2. il ne communique pas les données à un tiers;
+
+d.
+
+lorsque le responsable du traitement est un organe fédéral:
+1. si un intérêt public prépondérant, en particulier la sûreté intérieure ou
+extérieure de la Suisse, l’exige, ou
+2. si la communication des informations est susceptible de compromettre
+une enquête, une instruction ou une procédure judiciaire ou administrative.
+
+Les entreprises appartenant au même groupe ne sont pas considérées comme des
+tiers au sens de l’al. 3, let. c, ch. 2.
+4
+
+Art. 21
+
+Devoir d’informer en cas de décision individuelle automatisée
+
+Le responsable du traitement informe la personne concernée de toute décision qui
+est prise exclusivement sur la base d’un traitement de données personnelles automatisé et qui a des effets juridiques pour elle ou l’affecte de manière significative (décision individuelle automatisée).
+1
+
+Si la personne concernée le demande, le responsable du traitement lui donne la
+possibilité de faire valoir son point de vue. La personne concernée peut exiger que la
+décision individuelle automatisée soit revue par une personne physique.
+2
+
+3
+
+Les al. 1 et 2 ne s’appliquent pas dans les cas suivants:
+a.
+
+la décision individuelle automatisée est en relation directe avec la conclusion
+ou l’exécution d’un contrat entre le responsable du traitement et la personne
+concernée et la demande de cette dernière est satisfaite;
+
+b.
+
+la personne concernée a expressément consenti à ce que la décision soit prise
+de manière automatisée.
+
+Si la décision individuelle automatisée émane d’un organe fédéral, ce dernier doit
+la qualifier comme telle. L’al. 2 ne s’applique pas lorsque la personne concernée ne
+4
+
+7406
+
+Protection des données. LF
+
+FF 2020
+
+doit pas être entendue avant la décision conformément à l’art. 30, al. 2, de la loi
+fédérale du 20 décembre 1968 sur la procédure administrative (PA) 6 ou en vertu
+d’une autre loi fédérale.
+Art. 22
+
+Analyse d’impact relative à la protection des données personnelles
+
+Lorsque le traitement envisagé est susceptible d’entraîner un risque élevé pour la
+personnalité ou les droits fondamentaux de la personne concernée, le responsable du
+traitement procède au préalable à une analyse d’impact relative à la protection des
+données personnelles. S’il envisage d’effectuer plusieurs opérations de traitement
+semblables, il peut établir une analyse d’impact commune.
+1
+
+L’existence d’un risque élevé, en particulier lors du recours à de nouvelles technologies, dépend de la nature, de l’étendue, des circonstances et de la finalité du traitement. Un tel risque existe notamment dans les cas suivants:
+2
+
+a.
+
+traitement de données sensibles à grande échelle;
+
+b.
+
+surveillance systématique de grandes parties du domaine public.
+
+L’analyse d’impact contient une description du traitement envisagé, une évaluation
+des risques pour la personnalité ou les droits fondamentaux de la personne concernée, ainsi que les mesures prévues pour protéger sa personnalité et ses droits fondamentaux.
+3
+
+Le responsable du traitement privé est délié de son obligation d’établir une analyse
+d’impact s’il est tenu d’effectuer le traitement en vertu d’une obligation légale.
+4
+
+Le responsable du traitement privé peut renoncer à établir une analyse d’impact
+lorsqu’il recourt à un système, un produit ou un service certifié conformément à
+l’art. 13 pour l’utilisation prévue ou qu’il respecte un code de conduite au sens de
+l’art. 11 remplissant les conditions suivantes:
+5
+
+a.
+
+il repose sur une analyse d’impact relative à la protection des données personnelles;
+
+b.
+
+il prévoit des mesures pour protéger la personnalité et les droits fondamentaux de la personne concernée;
+
+c.
+
+il a été soumis au PFPDT.
+
+Art. 23
+
+Consultation préalable du PFPDT
+
+Le responsable du traitement consulte le PFPDT préalablement au traitement
+lorsque l’analyse d’impact relative à la protection des données révèle que, malgré les
+mesures prévues par le responsable du traitement, le traitement envisagé présente
+encore un risque élevé pour la personnalité ou les droits fondamentaux de la personne concernée.
+1
+
+Le PFPDT communique au responsable du traitement ses objections concernant le
+traitement envisagé dans un délai de deux mois. Ce délai peut être prolongé d’un
+mois lorsqu’il s’agit d’un traitement de données complexe.
+2
+
+6
+
+RS 172.021
+
+7407
+
+Protection des données. LF
+
+FF 2020
+
+Si le PFPDT a des objections concernant le traitement envisagé, il propose au
+responsable du traitement des mesures appropriées.
+3
+
+Le responsable du traitement privé peut renoncer à consulter le PFPDT s’il a
+consulté son conseiller à la protection des données au sens de l’art. 10.
+4
+
+Art. 24
+
+Annonce des violations de la sécurité des données
+
+Le responsable du traitement annonce dans les meilleurs délais au PFPDT les cas
+de violation de la sécurité des données entraînant vraisemblablement un risque élevé
+pour la personnalité ou les droits fondamentaux de la personne concernée.
+1
+
+L’annonce doit indiquer au moins la nature de la violation de la sécurité des données,
+ses conséquences et les mesures prises ou envisagées.
+2
+
+Le sous-traitant annonce dans les meilleurs délais au responsable du traitement tout
+cas de violation de la sécurité des données.
+3
+
+Le responsable du traitement informe la personne concernée lorsque cela est nécessaire à sa protection ou lorsque le PFPDT l’exige.
+4
+
+Il peut restreindre l’information de la personne concernée, la différer ou y renoncer, dans les cas suivants:
+5
+
+a.
+
+il existe un motif au sens de l’art. 26, al. 1, let. b, ou 2, let. b, ou un devoir
+légal de garder le secret qui l’interdit;
+
+b.
+
+l’information est impossible à fournir ou exige des efforts disproportionnés;
+
+c.
+
+l’information de la personne concernée peut être garantie de manière équivalente par une communication publique.
+
+Une annonce fondée sur le présent article ne peut être utilisée dans le cadre d’une
+procédure pénale contre la personne tenue d’annoncer qu’avec son consentement.
+6
+
+Chapitre 4
+
+Droits de la personne concernée
+
+Art. 25
+
+Droit d’accès
+
+Toute personne peut demander au responsable du traitement si des données personnelles la concernant sont traitées.
+1
+
+La personne concernée reçoit les informations nécessaires pour qu’elle puisse faire
+valoir ses droits selon la présente loi et pour que la transparence du traitement soit
+garantie. Dans tous les cas, elle reçoit les informations suivantes:
+2
+
+a.
+
+l’identité et les coordonnées du responsable du traitement;
+
+b.
+
+les données personnelles traitées en tant que telles;
+
+c.
+
+la finalité du traitement;
+
+d.
+
+la durée de conservation des données personnelles ou, si cela n’est pas possible, les critères pour fixer cette dernière;
+
+7408
+
+Protection des données. LF
+
+FF 2020
+
+e.
+
+les informations disponibles sur l’origine des données personnelles, dans la
+mesure où ces données n’ont pas été collectées auprès de la personne concernée;
+
+f.
+
+le cas échéant, l’existence d’une décision individuelle automatisée ainsi que
+la logique sur laquelle se base la décision;
+
+g.
+
+le cas échéant, les destinataires ou les catégories de destinataires auxquels
+des données personnelles sont communiquées, ainsi que les informations
+prévues à l’art. 19, al. 4.
+
+Des données personnelles sur la santé de la personne concernée peuvent lui être
+communiquées, moyennant son consentement, par l’intermédiaire d’un professionnel de la santé qu’elle aura désigné.
+3
+
+Le responsable du traitement qui fait traiter des données personnelles par un soustraitant demeure tenu de fournir les renseignements demandés.
+4
+
+5
+
+Nul ne peut renoncer par avance au droit d’accès.
+
+Le responsable du traitement fournit gratuitement les renseigements demandés. Le
+Conseil fédéral peut prévoir des exceptions, notamment si la communication de
+l’information exige des efforts disproportionnés.
+6
+
+7
+
+En règle générale, les renseignements sont fournis dans un délai de 30 jours.
+
+Art. 26
+
+Restrictions au droit d’accès
+
+Le responsable du traitement peut refuser, restreindre ou différer la communication
+des renseignements dans les cas suivants:
+1
+
+a.
+
+une loi au sens formel le prévoit, notamment pour protéger un secret professionnel;
+
+b.
+
+les intérêts prépondérants d’un tiers l’exigent;
+
+c.
+
+la demande d’accès est manifestement infondée notamment parce qu’elle
+poursuit un but contraire à la protection des données ou est manifestement
+procédurière.
+
+Il est au surplus possible de refuser, de restreindre ou de différer la communication
+des renseignements dans les cas suivants:
+2
+
+a.
+
+lorsque le responsable du traitement est une personne privée et que les conditions suivantes sont remplies:
+1. ses intérêts prépondérants l’exigent,
+2. il ne communique pas les données à un tiers.
+
+b.
+
+lorsque le responsable du traitement est un organe fédéral:
+1. si un intérêt public prépondérant, en particulier la sûreté intérieure ou
+extérieure de la Suisse, l’exige, ou
+2. si la communication des informations est susceptible de compromettre
+une enquête, une instruction ou une procédure judiciaire ou administrative.
+
+7409
+
+Protection des données. LF
+
+FF 2020
+
+Les entreprises appartenant au même groupe ne sont pas considérées comme des
+tiers au sens de l’al. 3, let. c, ch. 2.
+3
+
+Le responsable du traitement indique le motif pour lequel il refuse, restreint ou
+diffère la communication des informations.
+4
+
+Art. 27
+
+Restrictions au droit d’accès applicables aux médias
+
+Lorsque les données personnelles sont traitées exclusivement pour la publication
+dans la partie rédactionnelle d’un média à caractère périodique, le responsable du
+traitement peut refuser, restreindre ou différer la communication des renseignements
+dans l’un des cas suivants:
+1
+
+a.
+
+les données fournissent des indications sur les sources d’information;
+
+b.
+
+un droit de regard sur des projets de publication en résulterait;
+
+c.
+
+la libre formation de l’opinion publique serait compromise.
+
+Les journalistes peuvent en outre refuser, restreindre ou différer la communication
+des renseignements lorsque les données personnelles servent exclusivement d’instrument de travail personnel.
+2
+
+Art. 28
+
+Droit à la remise ou à la transmission des données personnelles
+
+La personne concernée peut demander au responsable du traitement qu’il lui remette sous un format électronique couramment utilisé les données personnelles la
+concernant qu’elle lui a communiquées lorsque les conditions suivantes sont réunies:
+1
+
+a.
+
+le responsable du traitement traite les données personnelles de manière automatisée;
+
+b.
+
+les données personnelles sont traitées avec le consentement de la personne
+concernée ou en relation directe avec la conclusion ou l’exécution d’un contrat entre elle et le responsable du traitement.
+
+La personne concernée peut en outre demander au responsable du traitement qu’il
+transmette les données personnelles la concernant à un autre responsable du traitement, pour autant que les conditions de l’al. 1 soient remplies et que cela n’exige pas
+des efforts disproportionnés.
+2
+
+Le responsable du traitement remet ou transmet gratuitement les données personnelles. Le Conseil fédéral peut prévoir des exceptions, notamment si la remise ou la
+transmission des données personnelles exige des efforts disproportionnés.
+3
+
+Art. 29
+
+Restrictions du droit à la remise ou à la transmission des données
+personnelles
+
+1 Le
+
+responsable du traitement peut refuser, restreindre ou différer la remise ou la transmission de données personnelles pour les mêmes motifs que ceux prévus à l’art. 26, al. 1
+et 2.
+Le responsable du traitement indique le motif pour lequel il refuse, restreint ou
+diffère la remise ou la transmission des données personnelles.
+2
+
+7410
+
+Protection des données. LF
+
+FF 2020
+
+Chapitre 5
+Dispositions particulières pour le traitement de données personnelles
+par des personnes privées
+Art. 30
+
+Atteintes à la personnalité
+
+Celui qui traite des données personnelles ne doit pas porter une atteinte illicite à la
+personnalité des personnes concernées.
+1
+
+2
+
+Constitue notamment une atteinte à la personnalité le fait de:
+a.
+
+traiter des données personnelles en violation des principes définis aux art. 6 et 8;
+
+b.
+
+traiter des données personnelles contre la manifestation expresse de la volonté
+de la personne concernée;
+
+c.
+
+communiquer à des tiers des données sensibles.
+
+En règle générale, il n’y a pas atteinte à la personnalité lorsque la personne concernée a rendu les données personnelles accessibles à tout un chacun et ne s’est pas
+opposée expressément au traitement.
+3
+
+Art. 31
+
+Motifs justificatifs
+
+Une atteinte à la personnalité est illicite à moins d’être justifiée par le consentement
+de la personne concernée, par un intérêt privé ou public prépondérant, ou par la loi.
+1
+
+Les intérêts prépondérants du responsable du traitement entrent notamment en
+considération dans les cas suivants:
+2
+
+a.
+
+le traitement est en relation directe avec la conclusion ou l’exécution d’un
+contrat et les données traitées concernent le cocontractant;
+
+b.
+
+le traitement s’inscrit dans un rapport de concurrence économique actuel ou
+futur avec une autre personne, à condition toutefois qu’aucune donnée personnelle traitée ne soit communiquée à des tiers; ne sont pas considérées
+comme des tiers au sens de cette disposition les entreprises appartenant au
+même groupe que le responsable du traitement;
+
+c.
+
+les données personnelles sont traitées dans le but d’évaluer la solvabilité de la
+personne concernée pour autant que les conditions suivantes soient réunies:
+1. il ne s’agit pas de données sensibles ni d’un profilage à risque élevé,
+2. les données ne sont communiquées à des tiers que s’ils en ont besoin
+pour conclure ou exécuter un contrat avec la personne concernée,
+3. les données ne datent pas de plus de dix ans,
+4. la personne concernée est majeure;
+
+d.
+
+les données personnelles sont traitées de manière professionnelle exclusivement en vue d’une publication dans la partie rédactionnelle d’un média à
+caractère périodique ou, si la publication n’a pas lieu, servent exclusivement
+d’instrument de travail personnel;
+
+7411
+
+Protection des données. LF
+
+FF 2020
+
+e.
+
+les données personnelles sont traitées à des fins ne se rapportant pas à des
+personnes, notamment dans le cadre de la recherche, de la planification ou
+de la statistique, si les conditions suivantes sont réunies:
+1. le responsable du traitement anonymise les données dès que la finalité
+du traitement le permet; si une anonymisation est impossible ou exige
+des efforts disproportionnés, il prend des mesures appropriées afin que
+les personnes concernées ne puissent pas être identifiées,
+2. s’il s’agit de données sensibles, le responsable du traitement ne les
+communique à des tiers que sous une forme ne permettant pas d’identifier la personne concernée; si cela n’est pas possible, des mesures doivent êtres prises qui garantissent que les tiers ne traitent les données
+qu’à des fins ne se rapportant pas à des personnes,
+3. les résultats sont publiés sous une forme ne permettant pas d’identifier
+les personnes concernées;
+
+f.
+
+les données personnelles recueillies concernent une personnalité publique et
+se réfèrent à son activité publique.
+
+Art. 32
+
+Prétentions
+
+La personne concernée peut exiger que des données personnelles inexactes soient
+rectifiées, sauf si:
+1
+
+a.
+
+la modification est interdite par une disposition légale;
+
+b.
+
+les données sont traitées à des fins archivistiques répondant à un intérêt public.
+
+Les actions concernant la protection de la personnalité sont régies par les art. 28,
+28a et 28g à 28l du code civil7. Le demandeur peut requérir en particulier:
+2
+
+a.
+
+l’interdiction d’un traitement déterminé de données personnelles;
+
+b.
+
+l’interdiction d’une communication déterminée de données personnelles à
+des tiers;
+
+c.
+
+l’effacement ou la destruction de données personnelles.
+
+Si l’exactitude ou l’inexactitude d’une donnée personnelle ne peut pas être établie,
+le demandeur peut requérir que l’on ajoute à la donnée la mention de son caractère
+litigieux.
+3
+
+Il peut en outre demander que la rectification, l’effacement ou la destruction des
+données, l’interdiction du traitement ou de la communication à des tiers, la mention
+du caractère litigieux ou le jugement soient communiqués à des tiers ou publiés.
+4
+
+7
+
+RS 210
+
+7412
+
+Protection des données. LF
+
+FF 2020
+
+Chapitre 6
+Dispositions particulières pour le traitement de données personnelles
+par des organes fédéraux
+Art. 33
+
+Contrôle et responsabilité en cas de traitements de données
+personnelles conjoints
+
+Lorsqu’un organe fédéral traite des données personnelles conjointement avec d’autres organes fédéraux, avec des organes cantonaux ou avec des personnes privées, le
+Conseil fédéral règle les procédures de contrôle et les responsabilités en matière de
+protection des données.
+Art. 34
+
+Bases légales
+
+Les organes fédéraux ne sont en droit de traiter des données personnelles que s’il
+existe une base légale.
+1
+
+2
+
+La base légale doit être prévue dans une loi au sens formel dans les cas suivants:
+a.
+
+il s’agit d’un traitement de données sensibles;
+
+b.
+
+il s’agit d’un profilage;
+
+c.
+
+la finalité ou le mode du traitement de données personnelles est susceptible de
+porter gravement atteinte aux droits fondamentaux de la personne concernée.
+
+Pour les traitements de données personnelles visés à l’al. 2, let. a et b, une base légale
+prévue dans une loi au sens matériel suffit si les conditions suivantes sont réunies:
+3
+
+a.
+
+le traitement est indispensable à l’accomplissement d’une tâche définie dans
+une loi au sens formel;
+
+b.
+
+la finalité du traitement ne présente pas de risques particuliers pour les droits
+fondamentaux de la personne concernée.
+
+En dérogation aux al. 1 à 3, les organes fédéraux peuvent traiter des données personnelles si l’une des conditions suivantes est remplie:
+4
+
+a.
+
+le Conseil fédéral a autorisé le traitement, considérant que les droits des personnes concernées ne sont pas menacés;
+
+b.
+
+la personne concernée a consenti au traitement en l’espèce ou a rendu ses
+données personnelles accessibles à tout un chacun et ne s’est pas opposée
+expressément au traitement;
+
+c.
+
+le traitement est nécessaire pour protéger la vie ou l’intégrité corporelle de la
+personne concernée ou d’un tiers et il n’est pas possible d’obtenir le consentement de la personne concernée dans un délai raisonnable.
+
+Art. 35
+
+Traitement de données personnelles automatisé dans
+le cadre d’essais pilotes
+
+Le Conseil fédéral peut autoriser, avant l’entrée en vigueur d’une loi au sens formel, le traitement automatisé de données sensibles ou d’autres traitements au sens de
+l’art. 34, al. 2, let. b et c, si les conditions suivantes sont réunies:
+1
+
+7413
+
+Protection des données. LF
+
+2
+
+FF 2020
+
+a.
+
+les tâches qui nécessitent ce traitement sont réglées dans une loi au sens
+formel déjà en vigueur;
+
+b.
+
+des mesures appropriées sont prises aux fins de réduire au minimum les
+atteintes aux droits fondamentaux de la personne concernée;
+
+c.
+
+la mise en œuvre du traitement rend indispensable une phase d’essai avant
+l’entrée en vigueur de la loi au sens formel, en particulier pour des raisons
+techniques.
+
+Il consulte au préalable le PFPDT.
+
+L’organe fédéral responsable transmet, au plus tard deux ans après la mise en
+œuvre de l’essai pilote, un rapport d’évaluation au Conseil fédéral. Dans ce rapport,
+il lui propose la poursuite ou l’interruption du traitement.
+3
+
+Le traitement automatisé de données personnelles doit être interrompu dans tous
+les cas si aucune loi au sens formel prévoyant la base légale nécessaire n’est entrée
+en vigueur dans un délai de cinq ans à compter de la mise en œuvre de l’essai pilote.
+4
+
+Art. 36
+
+Communication de données personnelles
+
+Les organes fédéraux ne sont en droit de communiquer des données personnelles
+que si une base légale au sens de l’art. 34, al. 1 à 3, le prévoit.
+1
+
+En dérogation à l’al. 1, ils peuvent, dans un cas d’espèce, communiquer des données personnelles si l’une des conditions suivantes est remplie:
+2
+
+a.
+
+la communication des données est indispensable à l’accomplissement des
+tâches légales du responsable du traitement ou du destinataire;
+
+b.
+
+la personne concernée a consenti à la communication des données;
+
+c.
+
+la communication des données est nécessaire pour protéger la vie ou l’intégrité
+corporelle de la personne concernée ou d’un tiers et il n’est pas possible
+d’obtenir le consentement de la personne concernée dans un délai raisonnable;
+
+d.
+
+la personne concernée a rendu ses données accessibles à tout un chacun et ne
+s’est pas expressément opposée à la communication;
+
+e.
+
+le destinataire rend vraisemblable que la personne concernée ne refuse son
+consentement ou ne s’oppose à la communication que dans le but de l’empêcher de se prévaloir de prétentions juridiques ou de faire valoir d’autres intérêts
+légitimes; à moins que cela ne s’avère impossible ou ne nécessite des efforts disproportionnés, la personne concernée sera auparavant invitée à se prononcer.
+
+Les organes fédéraux peuvent en outre communiquer des données personnelles,
+d’office, dans le cadre de l’information officielle du public, ou en vertu de la loi du
+17 décembre 2004 sur la transparence8, si les conditions suivantes sont réunies:
+3
+
+8
+
+a.
+
+les données sont en rapport avec l’accomplissement de tâches publiques;
+
+b.
+
+la communication répond à un intérêt public prépondérant.
+
+RS 152.3
+
+7414
+
+Protection des données. LF
+
+FF 2020
+
+Ils sont en droit de communiquer, sur demande, le nom, le prénom, l’adresse et la
+date de naissance d’une personne, même si les conditions des al. 1 ou 2 ne sont pas
+remplies.
+4
+
+Ils peuvent rendre accessibles des données personnelles à tout un chacun au moyen
+de services d’information et de communication automatisés lorsqu’une base légale
+prévoit la publication de ces données ou que ces organes communiquent des données
+sur la base de l’al. 3. Lorsqu’il n’existe plus d’intérêt public à rendre accessibles ces
+données, elles doivent être effacées du service d’information et de communication
+automatisé.
+5
+
+6
+
+Ils refusent la communication, la restreignent ou l’assortissent de charges:
+a.
+
+si un intérêt public important ou un intérêt digne de protection manifeste de
+la personne concernée l’exige, ou
+
+b.
+
+si une obligation légale de garder le secret ou une disposition particulière de
+protection des données l’exige.
+
+Art. 37
+
+Opposition à la communication de données personnelles
+
+La personne concernée qui rend vraisemblable un intérêt digne de protection peut
+s’opposer à ce que l’organe fédéral responsable communique des données personnelles
+déterminées.
+1
+
+2
+
+3
+
+L’organe fédéral rejette l’opposition si l’une des conditions suivantes est remplie:
+a.
+
+il est juridiquement tenu de communiquer les données personnelles;
+
+b.
+
+le défaut de communication risque de compromettre l’accomplissement de
+ses tâches.
+
+L’art. 36, al. 3, est réservé.
+
+Art. 38
+
+Proposition des documents aux Archives fédérales
+
+Conformément à la loi fédérale du 26 juin 1998 sur l’archivage 9, les organes fédéraux proposent aux Archives fédérales de reprendre toutes les données personnelles
+dont ils n’ont plus besoin en permanence.
+1
+
+Ils détruisent les données personnelles que les Archives fédérales ont désignées
+comme n’ayant plus de valeur archivistique, à moins que celles-ci:
+2
+
+a.
+
+ne soient rendues anonymes;
+
+b.
+
+ne doivent être conservées à titre de preuve, par mesure de sûreté ou afin de
+sauvegarder un intérêt digne de protection de la personne concernée.
+
+Art. 39
+
+Traitements à des fins ne se rapportant pas à des personnes
+
+Les organes fédéraux sont en droit de traiter des données personnelles à des fins ne
+se rapportant pas à des personnes, notamment dans le cadre de la recherche, de la
+planification ou de la statistique, si les conditions suivantes sont réunies:
+1
+
+9
+
+RS 152.1
+
+7415
+
+Protection des données. LF
+
+2
+
+FF 2020
+
+a.
+
+les données sont rendues anonymes dès que la finalité du traitement le permet;
+
+b.
+
+l’organe fédéral ne communique des données sensibles à des personnes privées
+que sous une forme ne permettant pas d’identifier les personnes concernées;
+
+c.
+
+le destinataire ne communique les données à des tiers qu’avec le consentement de l’organe fédéral qui les lui a transmises;
+
+d.
+
+les résultats du traitement ne sont publiés que sous une forme ne permettant
+pas d’identifier les personnes concernées.
+
+Les art. 6, al. 3, 34, al. 2, et 36, al. 1, ne sont pas applicables.
+
+Art. 40
+
+Activités de droit privé exercées par des organes fédéraux
+
+Lorsqu’un organe fédéral agit selon le droit privé, le traitement des données personnelles est régi par les dispositions applicables aux personnes privées.
+Art. 41
+
+Prétentions et procédure
+
+Quiconque a un intérêt digne de protection peut exiger de l’organe fédéral responsable:
+1
+
+2
+
+a.
+
+qu’il s’abstienne de procéder à un traitement illicite;
+
+b.
+
+qu’il supprime les effets d’un traitement illicite;
+
+c.
+
+qu’il constate le caractère illicite du traitement.
+
+Le demandeur peut en particulier demander que l’organe fédéral:
+a.
+
+rectifie les données personnelles, les efface ou les détruise;
+
+b.
+
+publie ou communique à des tiers sa décision, concernant notamment la rectification, l’effacement ou la destruction des données, l’opposition à une
+communication (art. 37) ou la mention du caractère litigieux des données
+personnelles (al. 4).
+
+Au lieu d’effacer ou de détruire les données personnelles, l’organe fédéral limite le
+traitement dans les cas suivants:
+3
+
+a.
+
+l’exactitude des données est contestée par la personne concernée et leur
+exactitude ou inexactitude ne peut pas être établie;
+
+b.
+
+des intérêts prépondérants d’un tiers l’exigent;
+
+c.
+
+un intérêt public prépondérant, en particulier la sûreté intérieure ou extérieure de la Suisse, l’exige;
+
+d.
+
+l’effacement ou la destruction des données est susceptible de compromettre
+une enquête, une instruction ou une procédure judiciaire ou administrative.
+
+Si l’exactitude ou l’inexactitude d’une donnée personnelle ne peut pas être établie,
+il ajoute à la donnée la mention de son caractère litigieux.
+4
+
+La rectification, l’effacement ou la destruction de données personnelles ne peut pas
+être exigée pour les fonds gérés par des institutions ouvertes au public telles que les
+bibliothèques, les établissements d’enseignement, les musées, les archives et les
+5
+
+7416
+
+Protection des données. LF
+
+FF 2020
+
+autres institutions patrimoniales publiques. Si le demandeur rend vraisemblable qu’il
+dispose d’un intérêt prépondérant, il peut exiger que l’institution limite l’accès aux
+données litigieuses. Les al. 3 et 4 ne s’appliquent pas.
+La procédure est régie par la PA10. Les exceptions prévues aux art. 2 et 3 PA ne sont
+pas applicables.
+6
+
+Art. 42
+
+Procédure en cas de communication de documents officiels
+contenant des données personnelles
+
+Tant que l’accès à des documents officiels contenant des données personnelles fait
+l’objet d’une procédure au sens de la loi du 17 décembre 2004 sur la transparence 11,
+la personne concernée peut, dans le cadre de cette procédure, faire valoir les droits
+que lui confère l’art. 41 de la présente loi concernant les documents qui sont l’objet
+de la procédure d’accès.
+
+Chapitre 7
+Préposé fédéral à la protection des données personnelles et
+à la transparence
+Section 1
+Organisation
+Art. 43
+
+Élection et statut
+
+1
+
+L’Assemblée fédérale (Chambres réunies) élit le chef du PFPDT (le préposé).
+
+2
+
+Quiconque a le droit de vote en matière fédérale est éligible.
+
+Pour autant que la présente loi n’en dispose pas autrement, les rapports de travail
+du préposé sont régis par la loi du 24 mars 2000 sur le personnel de la Confédération
+(LPers)12.
+3
+
+Le préposé exerce ses fonctions de manière indépendante et sans recevoir ni solliciter d’instructions de la part d’une autorité ou d’un tiers. Il est rattaché administrativement à la Chancellerie fédérale.
+4
+
+Il dispose d’un secrétariat permanent et de son propre budget. Il engage son personnel.
+5
+
+6
+
+Il n’est pas soumis au système d’évaluation prévu à l’art. 4, al. 3, LPers.
+
+Art. 44
+
+Durée, renouvellement et fin des rapports de fonction
+
+La période de fonction du préposé est de quatre ans et peut être renouvelée deux
+fois. Elle débute le 1er janvier suivant le début de la législature du Conseil national.
+1
+
+Le préposé peut demander à l’Assemblée fédérale, en respectant un délai de six
+mois, de mettre fin à la période de fonction pour la fin d’un mois.
+2
+
+10
+11
+12
+
+RS 172.021
+RS 152.3
+RS 172.220.1
+
+7417
+
+Protection des données. LF
+
+FF 2020
+
+L’Assemblée fédérale (Chambres réunies) peut révoquer le préposé avant la fin de
+sa période de fonction:
+3
+
+a.
+
+s’il a violé gravement ses devoirs de fonction de manière intentionnelle ou
+par négligence grave;
+
+b.
+
+s’il a durablement perdu la capacité d’exercer sa fonction.
+
+Art. 45
+
+Budget
+
+Le PFPDT remet chaque année, par l’intermédiaire de la Chancellerie fédérale, son
+projet de budget au Conseil fédéral. Celui-ci le transmet tel quel à l’Assemblée
+fédérale.
+Art. 46
+
+Incompatibilité
+
+Le préposé ne peut pas être membre de l’Assemblée fédérale ou du Conseil fédéral
+ni exercer aucune autre fonction au service de la Confédération.
+Art. 47
+1
+
+Activité accessoire
+
+Le préposé ne peut exercer aucune activité accessoire.
+
+L’Assemblée fédérale (Chambres réunies) peut autoriser le préposé à exercer une
+activité accessoire, pour autant que l’exercice de la fonction ainsi que l’indépendance
+et la réputation du PFPDT n’en soient pas affectés. Sa décision est publiée.
+2
+
+Art. 48
+
+Autocontrôle du PFPDT
+
+Le PFPDT s’assure, par des mesures de contrôle appropriées portant notamment sur
+la sécurité des données personnelles, du respect et de la bonne application des dispositions fédérales de protection des données en son sein.
+
+Section 2
+Enquêtes concernant des violations des prescriptions de protection
+des données
+Art. 49
+
+Enquête
+
+Le PFPDT ouvre d’office ou sur dénonciation une enquête contre un organe fédéral ou une personne privée si des indices suffisants font penser qu’un traitement de
+données pourrait être contraire à des dispositions de protection des données.
+1
+
+Il peut renoncer à ouvrir une enquête lorsque la violation des prescriptions de protection des données est de peu d’importance.
+2
+
+L’organe fédéral ou la personne privée fournit au PFPDT tous les renseignements
+et les documents qui lui sont nécessaires pour l’enquête. Le droit de refuser de
+3
+
+7418
+
+Protection des données. LF
+
+FF 2020
+
+fournir des renseignements est régi par les art. 16 et 17 PA13, pour autant que l’art.
+50, al. 2, de la présente loi n’en dispose pas autrement.
+Si la personne concernée est l’auteur de la dénonciation, le PFPDT l’informe des
+suites données à celle-ci et du résultat d’une éventuelle enquête.
+4
+
+Art. 50
+
+Pouvoirs
+
+Lorsque l’organe fédéral ou la personne privée ne respecte pas son obligation de
+collaborer, le PFPDT peut dans le cadre de la procédure d’enquête ordonner notamment:
+1
+
+2
+
+a.
+
+l’accès à tous les renseignements, documents, registres des activités de traitement et données personnelles nécessaires pour l’enquête;
+
+b.
+
+l’accès aux locaux et aux installations;
+
+c.
+
+l’audition de témoins;
+
+d.
+
+des expertises.
+
+Le secret professionnel demeure réservé.
+
+Pour l’exécution des mesures prévues à l’al. 1, le PFPDT peut faire appel à
+d’autres autorités fédérales ainsi qu’aux organes de police cantonaux et communaux.
+3
+
+Art. 51
+
+Mesures administratives
+
+Si des dispositions de protection des données sont violées, le PFPDT peut ordonner
+la modification, la suspension ou la cessation de tout ou partie du traitement ainsi
+que l’effacement ou la destruction de tout ou partie des données personnelles.
+1
+
+Il peut suspendre ou interdire la communication de données personnelles à
+l’étranger si elle est contraire aux conditions des art. 16 ou 17 ou à des dispositions
+d’autres lois fédérales concernant la communications de données personnelles à
+l’étranger.
+2
+
+3
+
+Il peut notamment ordonner à l’organe fédéral ou à la personne privée:
+
+13
+
+a.
+
+de lui fournir les informations prévues aux art. 16, al. 2, let. b et c, et 17, al. 2;
+
+b.
+
+de prendre les mesures prévues aux art. 7 et 8;
+
+c.
+
+d’informer les personnes concernées conformément aux art. 19 et 21;
+
+d.
+
+d’établir une analyse d’impact relative à la protection des données personnelles
+conformément à l’art. 22;
+
+e.
+
+de le consulter conformément à l’art. 23;
+
+f.
+
+de l’informer et, le cas échéant, d’informer les personnes concernées, conformément à l’art. 24;
+
+g.
+
+de communiquer à la personne concernée les renseignements visés à l’art. 25.
+
+RS 172.021
+
+7419
+
+Protection des données. LF
+
+FF 2020
+
+Il peut également ordonner au responsable du traitement privé ayant son siège ou
+son domicile à l’étranger de désigner un représentant conformément à l’art. 14.
+4
+
+Lorsque l’organe fédéral ou la personne privée a pris, durant l’enquête, les mesures
+nécessaires au rétablissement d’une situation conforme aux prescriptions de protection des données, le PFPDT peut se limiter à prononcer un avertissement.
+5
+
+Art. 52
+
+Procédure
+
+La procédure d’enquête et les décisions relatives aux mesures visées aux art. 50 et 51
+sont régies par la PA14.
+1
+
+Seuls l’organe fédéral ou la personne privée contre lesquels une enquête a été
+ouverte ont qualité de partie.
+2
+
+Le PFPDT a qualité pour recourir contre les décisions sur recours du Tribunal
+administratif fédéral.
+3
+
+Art. 53
+
+Coordination
+
+L’autorité administrative fédérale qui surveille une personne privée ou une organisation extérieure à l’administration fédérale en vertu d’une autre loi fédérale donne
+au PFPDT la possibilité de se prononcer lorsqu’elle doit rendre une décision qui
+touche à des questions de protection des données.
+1
+
+Si le PFPDT mène une enquête contre la même partie, les deux autorités doivent
+coordonner leurs procédures.
+2
+
+Section 3
+
+Assistance administrative
+
+Art. 54
+
+Assistance administrative en Suisse
+
+Les autorités fédérales et cantonales communiquent au PFPDT les informations et
+les données personnelles nécessaires à l’accomplissement de ses tâches légales.
+1
+
+Le PFPDT communique les informations et les données personnelles nécessaires à
+l’accomplissement de leurs tâches légales:
+2
+
+a.
+
+aux autorités chargées de la protection des données en Suisse;
+
+b.
+
+aux autorités de poursuite pénale compétentes, lorsqu’il s’agit de dénoncer
+une infraction conformément à l’art. 65, al. 2;
+
+c.
+
+aux autorités fédérales ainsi qu’aux organes de police cantonaux et communaux, pour l’exécution des mesures prévues aux art. 50, al. 3, et 51.
+
+Art. 55
+
+Assistance administrative avec des autorités étrangères
+
+Le PFPDT peut échanger des informations ou des données personnelles avec
+des autorités étrangères chargées de la protection des données personnelles pour
+1
+
+14
+
+RS 172.021
+
+7420
+
+Protection des données. LF
+
+FF 2020
+
+l’accomplissement de leurs tâches légales respectives en matière de protection des
+données, pour autant que les conditions suivantes soient réunies:
+a.
+
+la réciprocité en matière d’assistance administrative est garantie;
+
+b.
+
+les informations et les données personnelles échangées ne sont utilisées que
+dans le cadre de la procédure liée à la protection des données personnelles
+qui a donné lieu à la demande d’assistance administrative;
+
+c.
+
+l’autorité destinataire s’engage à ne pas divulguer les secrets professionnels,
+d’affaires ou de fabrication;
+
+d.
+
+les informations et les données personnelles ne sont communiquées à des
+tiers qu’avec l’accord préalable de l’autorité qui les a transmises;
+
+e.
+
+l’autorité destinataire s’engage à respecter les charges et les restrictions
+d’utilisation exigées par l’autorité qui lui a transmis les informations et les
+données personnelles.
+
+Pour motiver sa demande d’assistance administrative ou pour donner suite à une
+demande d’assistance administrative de l’autorité requérante, le PFPDT peut communiquer notamment les indications suivantes:
+2
+
+a.
+
+l’identité du responsable du traitement, du sous-traitant ou de tout autre tiers
+participant au traitement;
+
+b.
+
+les catégories de personnes concernées;
+
+c.
+
+l’identité des personnes concernées lorsque:
+1. celles-ci ont donné leur consentement, ou que
+2. la communication de l’identité des personnes concernées est indispensable à l’accomplissement des tâches légales du PFPDT ou de l’autorité
+étrangère;
+
+d.
+
+les données personnelles ou les catégories de données personnelles traitées;
+
+e.
+
+la finalité du traitement;
+
+f.
+
+les destinataires ou les catégories de destinataires;
+
+g.
+
+les mesures techniques et organisationnelles.
+
+Avant de transmettre à une autorité étrangère des informations susceptibles de contenir des secrets professionnels, de fabrication ou d’affaires, il informe les personnes
+physiques ou morales détentrices de ces secrets et les invite à prendre position, à
+moins que cela ne s’avère impossible ou ne nécessite des efforts disproportionnés.
+3
+
+Section 4
+
+Autres tâches du PFPDT
+
+Art. 56
+
+Registre
+
+Le PFPDT tient un registre des activités de traitement des organes fédéraux. Ce
+registre est publié.
+
+7421
+
+Protection des données. LF
+
+Art. 57
+
+FF 2020
+
+Information
+
+Le PFPDT remet annuellement un rapport sur son activité à l’Assemblée fédérale.
+Il transmet simultanément ce rapport au Conseil fédéral. Le rapport est publié.
+1
+
+S’il en va de l’intérêt général, le PFPDT informe le public de ses constatations et
+de ses décisions.
+2
+
+Art. 58
+1
+
+Autres tâches
+
+Le PFPDT a notamment les autres tâches suivantes:
+a.
+
+informer, former et conseiller les organes fédéraux et les personnes privées
+dans le domaine de la protection des données;
+
+b.
+
+assister les organes cantonaux et collaborer avec les autorités chargées de la
+protection des données en Suisse et à l’étranger;
+
+c.
+
+sensibiliser le public, en particulier les personnes vulnérables, à la protection
+des données personnelles;
+
+d.
+
+fournir sur demande à la personne concernée des informations sur l’exercice
+de ses droits;
+
+e.
+
+se prononcer sur les projets d’actes législatifs fédéraux et de mesures fédérales impliquant des traitements de données;
+
+f.
+
+assumer les tâches qui lui sont conférées par la loi du 17 décembre 2004 sur
+la transparence15 ou par d’autres lois fédérales;
+
+g.
+
+élaborer des outils valant recommandations de bonne pratique à l’attention
+des responsables du traitement, des sous-traitants et des personnes concernées; ce faisant, il tient compte des particularités des différents secteurs, ainsi que du besoin de protection des personnes vulnérables.
+
+Il peut conseiller les organes fédéraux, même s’ils ne sont pas soumis à sa surveillance en vertu des art. 2 et 4. Les organes fédéraux peuvent lui donner accès à leurs
+dossiers.
+2
+
+Il est autorisé à remettre aux autorités étrangères chargées de la protection des données une déclaration indiquant que, dans le domaine de la protection des données, la
+Suisse autorise la notification directe sur son territoire si la réciprocité lui est accordée.
+3
+
+Section 5
+
+Émoluments
+
+Art. 59
+Le PFPDT perçoit des émoluments auprès des personnes privées pour les prestations suivantes:
+1
+
+15
+
+RS 152.3
+
+7422
+
+Protection des données. LF
+
+2
+
+FF 2020
+
+a.
+
+la prise de position concernant les codes de conduite visés à l’art. 11, al. 2;
+
+b.
+
+l’approbation des clauses type de protection des données et des règles d’entreprise contraignantes selon l’art. 16, al. 2, let. d et e;
+
+c.
+
+la consultation préalable dans le cadre de l’analyse d’impact relative à la protection des données selon l’art. 23, al. 2;
+
+d.
+
+les mesures provisionnelles et les mesures prononcées en vertu de l’art. 51;
+
+e.
+
+les conseils en matière de protection des données visés à l’art. 58, al. 1, let. a.
+
+Le Conseil fédéral fixe le montant des émoluments.
+
+Il peut déterminer les cas dans lesquels il est possible de renoncer à percevoir un
+émolument ou de le réduire.
+3
+
+Chapitre 8
+
+Dispositions pénales
+
+Art. 60
+
+Violation des obligations d’informer, de renseigner et de collaborer
+
+Sont, sur plainte, punies d’une amende de 250 000 francs au plus les personnes privées qui:
+1
+
+a.
+
+contreviennent aux obligations prévues aux art. 19, 21 et 25 à 27 en fournissant intentionnellement des renseignements inexacts ou incomplets;
+
+b.
+
+omettent intentionnellement:
+1. d’informer la personne concernée conformément aux art. 19, al. 1, et
+21, al. 1,
+2. de lui fournir les informations prévues à l’art. 19, al. 2.
+
+Sont punies d’une amende de 250 000 francs au plus les personnes privées qui, dans
+le cadre d’une enquête, en violation de l’art. 49, al. 3, fournissent intentionnellement au
+PFPDT des renseignements inexacts ou refusent intentionnellement de collaborer.
+2
+
+Art. 61
+
+Violation des devoirs de diligence
+
+Sont, sur plainte, punies d’une amende de 250 000 francs au plus les personnes privées qui, intentionnellement:
+a.
+
+communiquent des données personnelles à l’étranger en violation de
+l’art. 16, al. 1 et 2, et sans que les conditions de l’art. 17 soient remplies;
+
+b.
+
+confient le traitement de données personnelles à un sous-traitant sans que les
+conditions de l’art. 9, al. 1 et 2, soient remplies;
+
+c.
+
+ne respectent pas les exigences minimales en matière de sécurité des données édictées par le Conseil fédéral selon l’art. 8, al. 3.
+
+7423
+
+Protection des données. LF
+
+Art. 62
+
+FF 2020
+
+Violation du devoir de discrétion
+
+Est, sur plainte, puni d’une amende de 250 000 francs au plus quiconque révèle intentionnellement des données personnelles secrètes portées à sa connaissance dans
+l’exercice d’une profession qui requiert la connaissance de telles données.
+1
+
+Est passible de la même peine quiconque révèle intentionnellement des données
+personnelles secrètes portées à sa connaissance dans le cadre des activités qu’il exerce pour le compte d’une personne soumise à l’obligation de garder le secret ou lors
+de sa formation chez elle.
+2
+
+La révélation de données personnelles secrètes demeure punissable alors même
+que l’exercice de la profession ou la formation ont pris fin.
+3
+
+Art. 63
+
+Insoumission à une décision
+
+Sont punies d’une amende de 250 000 francs au plus les personnes privées qui, intentionnellement, ne se conforment pas à une décision du PFPDT ou d’une autorité
+de recours, à elles signifiées sous la menace de la peine prévue au présent article.
+Art. 64
+
+Infractions commises dans une entreprise
+
+Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif
+(DPA)16 sont applicables aux infractions commises dans une entreprise.
+1
+
+Lorsque l’amende entrant en ligne de compte ne dépasse pas 50 000 francs et que
+l’enquête rendrait nécessaires à l’égard des personnes punissables selon l’art. 6 DPA
+des mesures d’instruction hors de proportion avec la peine encourue, l’autorité peut
+renoncer à poursuivre ces personnes et condamner l’entreprise (art. 7 DPA) au paiement de l’amende à leur place.
+2
+
+Art. 65
+1
+
+Compétence
+
+La poursuite et le jugement des infractions incombent aux cantons.
+
+Le PFPDT peut dénoncer des infractions aux autorités de poursuite pénale compétentes et faire valoir les droits d’une partie plaignante dans la procédure.
+2
+
+Art. 66
+
+Prescription de l’action pénale
+
+L’action pénale se prescrit par cinq ans.
+
+16
+
+RS 313.0
+
+7424
+
+Protection des données. LF
+
+Chapitre 9
+
+FF 2020
+
+Conclusion de traités internationaux
+
+Art. 67
+Le Conseil fédéral peut conclure des traités internationaux concernant:
+a.
+
+la coopération internationale entre autorités chargées de la protection des
+données;
+
+b.
+
+la reconnaissance réciproque d’un niveau de protection adéquat pour la
+communication de données personnelles à l’étranger.
+
+Chapitre 10 Dispositions finales
+Art. 68
+
+Abrogation et modification d’autres actes
+
+L’abrogation et la modification d’autres actes sont réglées dans l’annexe 1.
+Art. 69
+
+Disposition transitoire concernant les traitements en cours
+
+Les art. 7, 22 et 23 ne sont pas applicables aux traitements qui ont débuté avant
+l’entrée en vigueur de la présente loi, pour autant que les finalités du traitement
+restent inchangées et que de nouvelles données ne soient pas collectées.
+Art. 70
+
+Disposition transitoire concernant les procédures en cours
+
+La présente loi ne s’applique ni aux enquêtes du PFPDT pendantes au moment de
+son entrée en vigueur ni aux recours pendants contre les décisions de première
+instance rendues avant son entrée en vigueur. Dans ces affaires, l’ancien droit
+s’applique.
+Art. 71
+
+Disposition transitoire concernant les données concernant
+des personnes morales
+
+Pour les organes fédéraux, les dispositions d’autres actes de droit fédéral qui font
+référence à des données personnelles continuent de s’appliquer au traitement des données concernant des personnes morales pendant les cinq ans suivant l’entrée en vigueur
+de la présente loi. Pendant ce délai, les organes fédéraux peuvent en particulier continuer à communiquer des données concernant des personnes morales selon l’art. 57s,
+al. 1 et 2, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de
+l’administration17 s’il existe une base légale permettant de communiquer des données
+personnelles.
+
+17
+
+RS 172.010
+
+7425
+
+Protection des données. LF
+
+Art. 72
+
+FF 2020
+
+Disposition transitoire relative à l’élection et à la fin des rapports de
+travail du préposé
+
+L’ancien droit s’applique à l’élection et à la fin des rapports de travail du préposé
+jusqu’à la fin de la législature au cours de laquelle la présente loi entre en vigueur.
+Art. 73
+
+Coordination
+
+La coordination avec d’autres actes est réglée dans l’annexe 2.
+Art. 74
+
+Référendum et entrée en vigueur
+
+1
+
+La présente loi est sujette au référendum.
+
+2
+
+Le Conseil fédéral fixe la date de l’entrée en vigueur.
+
+Conseil national, 25 septembre 2020
+
+Conseil des Etats, 25 septembre 2020
+
+La présidente: Isabelle Moret
+Le secrétaire: Pierre-Hervé Freléchoz
+
+Le président: Hans Stöckli
+La secrétaire: Martina Buol
+
+Date de publication: 6 octobre 202018
+Délai référendaire: 14 janvier 2021
+
+18
+
+FF 2020 7397
+
+7426
+
+Protection des données. LF
+
+FF 2020
+
+Annexe 1
+(art. 68)
+
+Abrogation et modification d’autres actes
+I
+Sont abrogés:
+1.
+
+la loi fédérale du 19 juin 1992 sur la protection des données19;
+
+2.
+
+la loi du 28 septembre 2018 sur la protection des données Schengen20.
+
+II
+Les actes mentionnés ci-après sont modifiés comme suit:
+
+1. Loi fédérale du 21 mars 1997 instituant des mesures visant
+au maintien de la sûreté intérieure21
+Art. 21, al. 2
+L’autorité de contrôle informe la personne soumise au contrôle du résultat des
+investigations et de l’appréciation du risque pour la sécurité. La personne soumise au
+contrôle peut consulter dans les dix jours les documents relatifs au contrôle et demander la rectification des données erronées; pour les dossiers de la Confédération,
+elle peut en outre demander la suppression de données obsolètes ou l’apposition
+d’une remarque de contestation. La restriction de la communication des renseignements est régie par l’art. 26 de la loi fédérale du 25 septembre 2020 sur la protection
+des données (LPD)22.
+2
+
+Art. 23a, al. 4
+Le droit d’accès et le droit de faire rectifier les données sont régis par les art. 25
+et 41, al. 2, let. a, LPD23.
+4
+
+19
+20
+21
+22
+23
+
+RO 1993 1945, 1997 2372, 1998 1546 1586, 1999 2243, 2006 2197 2319, 2007 4983,
+2010 1739 3387, 2013 3215, 2019 625
+RO 2019 639
+RS 120
+RS 235.1
+RS 235.1
+
+7427
+
+Protection des données. LF
+
+FF 2020
+
+Art. 23b, al. 2, let. c
+2
+
+Seules les données suivantes peuvent être traitées dans le système:
+c.
+
+les données personnelles, y compris les données sensibles, dans la mesure où
+elles sont nécessaires pour évaluer la menace que des personnes représentent; ces données comprennent notamment les données concernant l’état de
+santé, les condamnations ou procédures en cours, l’appartenance à un parti,
+une société, une association, une organisation ou une institution et des informations sur les organes dirigeants de ces derniers.
+
+Art. 23c, al. 2, phrase introductive
+Les données, y compris les données sensibles, peuvent être communiquées aux
+services et personnes suivants:
+2
+
+Art. 24a, al. 10
+Le droit d’obtenir des renseignements sur les données figurant dans le système
+d’information et le droit de faire rectifier les données sont régis par les art. 25 et 41,
+al. 2, let. a, LPD24. Fedpol informe la personne visée de l’enregistrement et de
+l’effacement des données la concernant dans le système d’information.
+10
+
+2. Loi fédérale du 25 septembre 2015 sur le renseignement25
+Art. 13, let. c
+Par sources d’informations publiques, on entend notamment:
+c.
+
+les données personnelles que les particuliers rendent accessibles au public;
+
+Art. 44, al. 1
+Le SRC et les autorités d’exécution cantonales peuvent traiter des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente.
+1
+
+Art. 46, al. 1
+Les autorités d’exécution cantonales ne constituent aucune banque de données en
+application de la présente loi.
+1
+
+Art. 61, al. 2, phrase introductive
+Si la législation de l’État destinataire n’assure pas un niveau de protection adéquat
+des données, des données personnelles peuvent lui être communiquées, en déroga2
+
+24
+25
+
+RS 235.1
+RS 121
+
+7428
+
+Protection des données. LF
+
+FF 2020
+
+tion à l’art. 16, al. 1, de la loi fédérale du 25 septembre 2020 sur la protection des
+données (LPD)26, si la Suisse entretient avec l’État destinataire des relations diplomatiques et que l’une des conditions suivantes est remplie:
+Art. 64, al. 2 à 5
+Il lui indique soit qu’aucune donnée le concernant n’est traitée illégalement, soit
+qu’il a constaté une erreur relative au traitement des données ou au report de la
+réponse et qu’il a ouvert une enquête conformément à l’art. 49 LPD27.
+2
+
+3
+
+Abrogé
+
+En cas d’erreur relative au traitement des données ou au report de la réponse, il
+ordonne au SRC d’y remédier.
+4
+
+Si le requérant rend vraisemblable qu’un report de la réponse le léserait gravement
+et de manière irréparable, le PFPDT peut ordonner au SRC qu’il fournisse immédiatement à titre exceptionnel le renseignement demandé pour autant que sa communication ne constitue pas une menace pour la sûreté intérieure ou extérieure.
+5
+
+Art. 65
+Abrogé
+Art. 66, al. 1
+Les communications visées aux art. 63, al. 3, et 64, al. 2, sont toujours formulées
+de manière identique et ne sont pas motivées.
+1
+
+Art. 78, al. 5
+Pour accomplir ses tâches, l’autorité de surveillance indépendante peut accéder à
+tous les systèmes d’information et à toutes les banques de données des entités soumises à la surveillance; elle peut également accéder à des données sensibles. Elle ne
+peut conserver les données dont elle a ainsi eu connaissance que jusqu’à
+l’aboutissement de la procédure de contrôle. Les accès aux différents systèmes
+d’information et banques de données doivent être consignés dans un journal par le
+responsable du traitement.
+5
+
+3. Loi du 20 juin 2014 sur la nationalité suisse 28
+Art. 44
+
+Traitement des données
+
+Pour accomplir les tâches qui lui incombent de par la présente loi, le SEM peut
+traiter des données personnelles, y compris des données personnelles permettant
+26
+27
+28
+
+RS 235.1
+RS 235.1
+RS 141.0
+
+7429
+
+Protection des données. LF
+
+FF 2020
+
+d’évaluer les conditions d’aptitude du requérant ainsi que des données sensibles sur
+les opinions religieuses, les activités politiques, la santé, les mesures d’aide sociale
+et les poursuites ou sanctions pénales et administratives. Pour ce faire, il exploite un
+système d’information électronique conformément à la loi fédérale du 20 juin 2003
+sur le système d’information commun aux domaines des étrangers et de l’asile29.
+
+4. Loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration30
+Remplacement d’expression
+À l’art. 111b, al. 4, «Préposé fédéral à la protection des données» est remplacé par
+«Préposé fédéral à la protection des données et à la transparence».
+Art. 101
+
+Traitement de données personnelles
+
+Dans la mesure où l’accomplissement de leur mandat légal l’exige, le SEM, les autorités cantonales chargées des questions relatives aux étrangers et, dans la limite de
+ses compétences, le Tribunal administratif fédéral peuvent traiter ou faire traiter des
+données personnelles relatives aux étrangers et aux tiers participant à une procédure
+prévue par la présente loi, y compris des données sensibles.
+Art. 104, al. 4
+Les entreprises de transport aérien informent les passagers concernés conformément à l’art. 19 de la loi fédérale du 25 septembre 2020 sur la protection des données
+(LPD)31.
+4
+
+Art. 105, al. 1
+Afin d’accomplir leurs tâches, notamment de lutter contre les actes punissables en
+vertu de la présente loi, le SEM et les autorités cantonales compétentes peuvent
+communiquer des données personnelles concernant des étrangers aux autorités étrangères et aux organisations internationales chargées de tâches similaires, pour autant
+que les conditions de l’art. 16 LPD32 soient respectées.
+1
+
+Art. 111d, al. 1 et 2
+Aucune donnée personnelle ne peut être communiquée à un État tiers si celui-ci
+n’assure pas un niveau de protection des données adéquat au sens de l’art. 16, al. 1,
+LPD33.
+1
+
+Des données personnelles peuvent être communiquées à un État tiers en dépit de
+l’absence d’un niveau de protection adéquat dans les cas suivants:
+2
+
+29
+30
+31
+32
+33
+
+RS 142.51
+RS 142.20
+RS 235.1
+RS 235.1
+RS 235.1
+
+7430
+
+Protection des données. LF
+
+FF 2020
+
+a.
+
+la personne concernée a donné son consentement au sens de l’art. 6, al. 6 et,
+le cas échéant, al. 7, LPD;
+
+b.
+
+la communication est nécessaire pour protéger la vie ou l’intégrité corporelle
+de la personne concernée et il n’est pas possible d’obtenir le consentement
+de la personne concernée dans un délai raisonnable;
+
+c.
+
+la communication est indispensable à la sauvegarde d’un intérêt public prépondérant ou à la constatation, à l’exercice ou à la défense d’un droit devant
+un tribunal ou une autre autorité étrangère compétente.
+
+Art. 111f, 2e phrase
+Abrogée
+
+5. Loi du 26 juin 1998 sur l’asile34
+Art. 96, al. 1
+Dans la mesure où l’accomplissement de leur mandat légal l’exige, le SEM, les
+autorités de recours et les organisations privées chargées de tâches en vertu de la
+présente loi peuvent traiter ou faire traiter des données personnelles relatives à un
+requérant ou à une personne à protéger et à leurs proches, y compris des données
+sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020 sur la
+protection des données (LPD)35.
+1
+
+Art. 98, al. 1
+En vue de l’exécution de la présente loi, le SEM et les autorités de recours sont
+autorisés à communiquer des données personnelles aux autorités étrangères et aux
+organisations internationales chargées de tâches dans ce cadre, pour autant que les
+conditions fixées à l’art. 16 LPD36 soient remplies.
+1
+
+Art. 99, al. 6
+Il est interdit de communiquer à l’étranger sans l’accord du responsable du traitement les données personnelles transmises en vertu de l’al. 4. L’art. 16, al. 1, LPD37
+s’applique par analogie.
+6
+
+34
+35
+36
+37
+
+RS 142.31
+RS 235.1
+RS 235.1
+RS 235.1
+
+7431
+
+Protection des données. LF
+
+FF 2020
+
+Art. 99a, al. 2, let. a
+2
+
+Le MIDES sert:
+a.
+
+à traiter des données personnelles relatives aux requérants d’asile et aux personnes à protéger, y compris des données sensibles au sens de l’art. 5, let. c,
+LPD38;
+
+Art. 100, al. 2
+Ce système peut contenir des données sensibles, pour autant que l’accomplissement des tâches prévues par la loi en dépende.
+2
+
+Art. 102, al. 1, 3e phrase, et 2
+... Si nécessaire, les données personnelles figurant dans les textes peuvent également être saisies, notamment les renseignements sur l’identité d’une personne et les
+données sensibles.
+1
+
+Seuls les collaborateurs du SEM et du Tribunal administratif fédéral ont accès aux
+banques de données qui contiennent des données sensibles.
+2
+
+Art. 102c, al. 1 et 2
+Aucune donnée personnelle ne peut être communiquée à un État tiers si celui-ci
+n’assure pas un niveau de protection des données adéquat au sens de l’art. 16, al. 1,
+LPD39.
+1
+
+Des données personnelles peuvent être communiquées à un État tiers en dépit de
+l’absence d’un niveau de protection adéquat dans les cas suivants:
+2
+
+a.
+
+la personne concernée a donné son consentement au sens de l’art. 6, al. 6 et,
+le cas échéant, al. 7, LPD;
+
+b.
+
+la communication est nécessaire pour protéger la vie ou l’intégrité corporelle
+de la personne concernée et il n’est pas possible d’obtenir le consentement
+de celle-ci dans un délai raisonnable;
+
+c.
+
+la communication est indispensable à la sauvegarde d’un intérêt public prépondérant ou à la constatation, à l’exercice ou à la défense d’un droit devant
+un tribunal ou une autre autorité étrangère compétente.
+
+Art. 102e, 2e phrase
+Abrogée
+
+38
+39
+
+RS 235.1
+RS 235.1
+
+7432
+
+Protection des données. LF
+
+FF 2020
+
+6. Loi fédérale du 20 juin 2003 sur le système d’information commun
+aux domaines des étrangers et de l’asile40
+Art. 4, al. 2
+Les données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre
+2020 sur la protection des données (LPD)41 peuvent être traitées dans le système
+d’information, pour autant que l’accomplissement des tâches mentionnées à l’art. 3
+de la présente loi en dépende.
+2
+
+Art. 6
+
+Droit d’accès et de rectification
+
+Les demandes visant à obtenir un droit d’accès à des données personnelles (art. 25
+LPD42) et celles visant à rectifier des données inexactes (art. 41, al. 2, let. a, LPD)
+doivent être adressées au SEM.
+1
+
+2
+
+Les recours sont régis par l’art. 41 LPD et doivent être adressés au SEM.
+
+Art. 7, al. 2
+2
+
+Il s’assure de l’exactitude des données personnelles qu’il traite (art. 6, al. 5, LPD43).
+
+Art. 15
+
+Communication de données personnelles à l’étranger
+
+La communication de données personnelles à l’étranger est régie par les art. 16 et 17
+LPD44, 105 à 107, 111a à 111d et 111i LEI45 et 97, 98, 102abis, 102b et 102c LAsi46.
+Art. 16
+
+Devoir de surveillance des autorités cantonales de protection
+des données
+
+Dans le cadre de leur domaine de compétences, les autorités cantonales de protection
+des données veillent au respect de la protection des données.
+
+7. Loi du 22 juin 2001 sur les documents d’identité 47
+Art. 10
+
+Principe
+
+Le traitement des données est régi dans le cadre de la présente loi par la loi fédérale
+du 25 septembre 2020 sur la protection des données48.
+40
+41
+42
+43
+44
+45
+46
+47
+48
+
+RS 142.51
+RS 235.1
+RS 235.1
+RS 235.1
+RS 235.1
+RS 142.20; cf. également art. 127 LEI
+RS 142.31
+RS 143.1
+RS 235.1
+
+7433
+
+Protection des données. LF
+
+Art. 14
+
+FF 2020
+
+Interdiction de tenir des banques de données parallèles
+
+La tenue de banques de données parallèles est interdite à l’exception de la conservation, par l’autorité d’établissement, des formules de demande, pendant une durée
+déterminée.
+
+8. Loi fédérale du 20 mars 2009 sur la Commission de prévention
+de la torture49
+Art. 10, al. 1
+La commission est autorisée à traiter des données sensibles et d’autres données
+personnelles conformément à la loi fédérale du 25 septembre 2020 sur la protection
+des données50 à condition que l’accomplissement de ses tâches l’exige et que ces
+données portent sur la situation de personnes privées de liberté ou s’y rapportent.
+1
+
+9. Loi fédérale du 26 juin 1998 sur l’archivage51
+Art. 11, al. 1
+Les archives classées selon des noms de personnes et contenant des données sensibles sont soumises à un délai de protection de 50 ans à moins que la personne
+concernée n’en ait autorisé la consultation.
+1
+
+Art. 15, titre et al. 1
+Renseignements et contestation
+La communication de renseignements aux personnes concernées et le droit d’accès
+de celles-ci aux archives sont régis par les dispositions de la loi fédérale du
+25 septembre 2020 sur la protection des données52. Il appartient au service versant
+de prononcer la décision de refus.
+1
+
+10. Loi du 17 décembre 2004 sur la transparence 53
+Remplacement d’expressions
+Dans l’ensemble de la loi, «Préposé fédéral à la protection des données et à la transparence» et «préposé» sont remplacés par «PFPDT», en procédant aux ajustements
+grammaticaux nécessaires.
+49
+50
+51
+52
+53
+
+RS 150.1
+RS 235.1
+RS 152.1
+RS 235.1
+RS 152.3
+
+7434
+
+Protection des données. LF
+
+FF 2020
+
+Art. 3, al. 2
+L’accès aux documents officiels contenant des données personnelles du demandeur
+est régi par la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)54.
+2
+
+Art. 9
+
+Protection des données personnelles et des données concernant
+des personnes morales
+
+Les documents officiels contenant des données personnelles ou des données concernant des personnes morales doivent être si possible rendus anonymes avant qu’ils
+soient consultés.
+1
+
+Lorsque la demande d’accès porte sur des documents officiels qui ne peuvent pas
+être rendus anonymes, l’art. 36 LPD55 est applicable pour les données personnelles
+et l’art. 57s de la loi du 21 mars 1997 sur l’organisation du gouvernement et de
+l’administration56 pour les données concernant des personnes morales. La procédure
+d’accès est régie par la présente loi.
+2
+
+Art. 11
+
+Droit d’être entendu
+
+Lorsque l’autorité envisage d’accorder l’accès à un document officiel dont la consultation est susceptible de porter atteinte à la sphère privée de tiers, elle consulte les
+tiers concernés et les invite à se prononcer dans un délai de dix jours.
+1
+
+2
+
+Elle les informe de sa prise de position sur la demande d’accès.
+
+Art. 12, al. 2, 2e phrase, et 3
+... Il est prolongé de la durée nécessaire lorsque la demande porte sur des documents officiels dont la consultation est susceptible de porter atteinte à la sphère privée de tiers.
+2
+
+Lorsque la demande porte sur des documents officiels dont la consultation est susceptible de porter atteinte à la sphère privée de tiers, l’autorité diffère l’accès jusqu’à
+droit connu.
+3
+
+Art. 13, al. 2
+La demande en médiation est déposée par écrit auprès du Préposé fédéral à la
+protection des données et à la transparence (PFPDT) dans un délai de 20 jours à
+compter de la date de réception de la prise de position de l’autorité ou à l’échéance
+des délais fixés à l’autorité pour prendre position.
+2
+
+54
+55
+56
+
+RS 235.1
+RS 235.1
+RS 172.010
+
+7435
+
+Protection des données. LF
+
+FF 2020
+
+Art. 15, al. 2, let. b
+2
+
+Au surplus, l’autorité rend une décision si, en dérogation à la recommandation:
+b.
+
+elle entend accorder l’accès à un document officiel dont la consultation est
+susceptible de porter atteinte à la sphère privée de tiers.
+
+Art. 18, phrase introductive et let. a à c
+En vertu de la présente loi, le PFPDT a en particulier les tâches et compétences
+suivantes:
+a à c. Ne concernent que le texte allemand.
+Art. 20, al. 2
+Le PFPDT est soumis au secret de fonction dans la même mesure que les autorités
+dont il consulte les documents officiels ou dont il obtient des renseignements.
+2
+
+11. Loi du 18 juin 2004 sur les publications officielles 57
+Art. 16b, al. 1
+Les publications au sens de la présente loi peuvent contenir des données personnelles; elles peuvent contenir en particulier des données sensibles au sens de l’art. 5,
+let. c, de la loi fédérale du 25 septembre 2020 sur la protection des données58, lorsque cela est nécessaire en vertu d’une obligation de publication prévue par une loi
+fédérale.
+1
+
+12. Loi du 13 décembre 2002 sur le Parlement59
+Art. 40a, al. 1, let. d, 2, 1re phrase, et 6
+La Commission judiciaire est compétente pour préparer l’élection et la révocation
+des personnes suivantes:
+1
+
+d.
+
+le chef du Préposé fédéral à la protection des données et à la transparence
+(préposé).
+
+La Commission judiciaire met au concours public les postes vacants de juges, de
+procureur général de la Confédération, de procureurs généraux suppléants de la
+Confédération et de préposé. ...
+2
+
+Si les Commissions de gestion ou la Délégation des finances font des constatations
+qui mettent sérieusement en cause l’aptitude professionnelle ou personnelle du
+6
+
+57
+58
+59
+
+RS 170.512
+RS 235.1
+RS 171.10
+
+7436
+
+Protection des données. LF
+
+FF 2020
+
+procureur général de la Confédération, d’un procureur général suppléant, d’un juge
+ou du préposé, elles les communiquent à la Commission judiciaire.
+Art. 142, al. 2 et 3, 3e phrase
+Il reprend tels quels dans son projet de budget et dans le compte d’État les projets
+de budget et les comptes de l’Assemblée fédérale, des tribunaux fédéraux, du Contrôle fédéral des finances, du Ministère public de la Confédération, de l’Autorité de
+surveillance du Ministère public de la Confédération et du Préposé fédéral à la
+protection des données et à la transparence (PFPDT).
+2
+
+... Le PFPDT défend son projet de budget et ses comptes devant l’Assemblée
+fédérale.
+3
+
+13. Loi du 21 mars 1997 sur l’organisation du gouvernement
+et de l’administration60
+Titre précédant l’art. 57h
+
+Chapitre 4
+Traitement de données personnelles et de données concernant
+des personnes morales
+Section 1
+Systèmes de gestion des affaires
+Art. 57h
+
+Gestion des systèmes
+
+Les unités de l’administration fédérale et les Services du Parlement gèrent des systèmes électroniques permettant d’assurer le bon déroulement de leurs processus
+opérationnels et de gérer des documents, correspondance y comprise.
+1
+
+Ils peuvent donner à d’autres autorités fédérales et à des unités qui sont extérieures
+à l’administration fédérale un accès à leurs systèmes de gestion des affaires dans la
+mesure où cet accès est nécessaire au bon déroulement de leurs processus opérationnels.
+2
+
+Insérer avant le titre de la section 2
+Art. 57hbis
+
+Traitement de données personnelles et de données concernant
+des personnes morales
+
+Les données personnelles, y compris les données sensibles au sens de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)61, ainsi que les
+données concernant des personnes morales, y compris les données sensibles au sens
+de l’art. 57r, al. 2, de la présente loi, peuvent être traitées dans les systèmes de
+gestion des affaires dans le but:
+1
+
+60
+61
+
+RS 172.010
+RS 235.1
+
+7437
+
+Protection des données. LF
+
+FF 2020
+
+a.
+
+de traiter des affaires;
+
+b.
+
+d’organiser le déroulement du travail;
+
+c.
+
+de constater si des données se rapportant à une personne déterminée sont
+traitées;
+
+d.
+
+de faciliter l’accès à la documentation.
+
+L’accès à des données personnelles, y compris des données sensibles au sens de la
+LPD, ainsi qu’à des données concernant des personnes morales, y compris des
+données sensibles au sens de l’art. 57r, al. 2, de la présente loi, peut être accordé à
+d’autres autorités fédérales et à des unités qui sont extérieures à l’administration
+fédérale si la base légale requise pour la communication existe.
+2
+
+Les systèmes de gestion des affaires peuvent contenir des données sensibles au
+sens de la LPD ainsi que des données sensibles concernant des personnes morales au
+sens de l’art. 57r, al. 2, de la présente loi, dans la mesure où ces données ressortent
+de la correspondance ou découlent de la nature d’une affaire ou d’un document.
+3
+
+L’accès à des données sensibles au sens de la LPD ainsi qu’à des données sensibles
+concernant des personnes morales au sens de l’art. 57r, al. 2, de la présente loi ne
+peut être accordé qu’aux personnes auxquelles cet accès est nécessaire pour
+l’accomplissement de leurs tâches.
+4
+
+Art. 57hter
+
+Dispositions d’exécution
+
+Le Conseil fédéral édicte les dispositions d’exécution, en particulier sur l’organisation et l’exploitation des systèmes de gestion des affaires et sur la protection des
+données personnelles et des données concernant des personnes morales qui y sont
+enregistrées.
+Titre précédant l’art. 57i
+
+Section 2
+Traitement de données personnelles et de données concernant
+des personnes morales lors de l’utilisation de l’infrastructure
+électronique
+Art. 57i
+
+Relation avec d’autres lois fédérales
+
+Les dispositions de la présente section ne sont pas applicables lorsqu’une autre loi
+fédérale règle le traitement de données liées à l’utilisation de l’infrastructure électronique, qu’il s’agisse de données personnelles ou de données concernant des personnes morales.
+Art. 57j
+
+Principes
+
+Les organes fédéraux au sens de la LPD62 ne sont pas autorisés à enregistrer et exploiter les données liées à l’utilisation de leur infrastructure électronique ou de
+1
+
+62
+
+RS 235.1
+
+7438
+
+Protection des données. LF
+
+FF 2020
+
+l’infrastructure électronique dont ils ont délégué l’exploitation, qu’il s’agisse de données personnelles ou de données concernant des personnes morales, sauf si la poursuite
+des buts prévus aux art. 57l à 57o de la présente loi l’exige.
+Les traitements au sens de la présente section peuvent également porter sur des
+données sensibles au sens de la LPD et des données sensibles concernant des personnes morales au sens de l’art. 57r, al. 2, de la présente loi.
+2
+
+Art. 57k, phrase introductive
+L’infrastructure électronique comprend l’ensemble des équipements et appareils
+fixes ou mobiles qui peuvent enregistrer des données personnelles ou des données
+concernant des personnes morales, en particulier:
+Art. 57l, titre, phrase introductive et let. b, ch. 4
+Enregistrement de données personnelles et de données concernant des personnes morales
+Les organes fédéraux peuvent enregistrer les données personnelles et les données
+concernant des personnes morales liées à l’utilisation de leur infrastructure électronique dans les buts suivants:
+b.
+
+les données résultant de l’utilisation de l’infrastructure électronique:
+4. pour retracer l’accès à l’infrastructure électronique,
+
+Titre précédant l’art. 57r
+
+Section 3
+
+Traitement de données concernant des personnes morales
+
+Art. 57r
+
+Traitement de données concernant des personnes morales
+
+Les organes fédéraux peuvent traiter des données concernant des personnes morales, y compris des données sensibles, dans la mesure où l’accomplissement de
+leurs tâches l’exige et où elles sont définies dans une loi au sens formel.
+1
+
+2
+
+Les données sensibles concernant des personnes morales sont:
+a.
+
+les données relatives à des poursuites ou des sanctions administratives ou
+pénales;
+
+b.
+
+les données relatives à des secrets professionnels, d’affaires ou de fabrication.
+
+Art. 57s
+
+Communication de données concernant des personnes morales
+
+Les organes fédéraux sont en droit de communiquer des données concernant des
+personnes morales si une base légale le prévoit.
+1
+
+Ils ne sont en droit de communiquer des données sensibles concernant des personnes morales que si une loi au sens formel le prévoit.
+2
+
+7439
+
+Protection des données. LF
+
+FF 2020
+
+En dérogation aux al. 1 et 2, ils peuvent, dans un cas d’espèce, communiquer
+des données concernant des personnes morales si l’une des conditions suivantes est
+remplie:
+3
+
+a.
+
+la communication des données est indispensable à l’accomplissement des
+tâches légales de l’organe fédéral ou du destinataire;
+
+b.
+
+la personne morale concernée a donné son consentement;
+
+c.
+
+le destinataire rend vraisemblable que la personne morale concernée ne refuse son consentement ou ne s’oppose à la communication que dans le but
+de l’empêcher de se prévaloir de prétentions juridiques ou de faire valoir
+d’autres intérêts légitimes; à moins que cela ne s’avère impossible ou ne nécessite des efforts disproportionnés, la personne morale concernée doit être
+auparavant invitée à se prononcer.
+
+Ils peuvent en outre communiquer d’office des données concernant des personnes
+morales dans le cadre de l’information officielle du public, ou en vertu de la loi du
+17 décembre 200463 sur la transparence, si les conditions suivantes sont réunies:
+4
+
+a.
+
+les données sont en rapport avec l’accomplissement de tâches publiques;
+
+b.
+
+la communication répond à un intérêt public prépondérant.
+
+Ils peuvent rendre accessibles à tous des données concernant des personnes morales au moyen de services d’information et de communication automatisés, lorsqu’une base légale prévoit la publication de ces données ou lorsque ces organes
+communiquent des données sur la base de l’al. 4. Lorsqu’il n’existe plus d’intérêt
+public à rendre accessibles ces données, elles doivent être effacées du service d’information et de communication automatisé.
+5
+
+Les organes fédéraux refusent la communication, la restreignent ou l’assortissent
+de charges:
+6
+
+a.
+
+si un intérêt public important ou un intérêt légitime manifeste de la personne
+morale concernée l’exige, ou
+
+b.
+
+si une obligation légale de garder le secret ou des prescriptions particulières
+de protection des données concernant des personnes morales l’exigent.
+
+Art. 57t
+
+Droits des personnes morales
+
+Les droits des personnes morales sont régis par les règles de procédure applicables.
+
+14. Loi du 24 mars 2000 sur le personnel de la Confédération64
+Art. 27, al. 2, phrase introductive
+Il peut traiter les données ci-après relatives au personnel qui sont nécessaires à
+l’exécution des tâches mentionnées à l’al. 1, y compris les données sensibles:
+2
+
+63
+64
+
+RS 152.3
+RS 172.220.1
+
+7440
+
+Protection des données. LF
+
+FF 2020
+
+Art. 27d, al. 2, phrase introductive, et 4, phrase introductive
+La CSPers peut traiter les données personnelles et les données sensibles ci-après
+qui concernent ses clients et sont nécessaires à l’exécution de ses tâches:
+2
+
+La CSPers peut rendre accessibles aux personnes et aux services ci-après les données mentionnées à l’al. 2, pour autant que l’exécution de leurs tâches l’exige:
+4
+
+15. Loi du 17 juin 2005 sur le Tribunal administratif fédéral 65
+Art. 35, let. b
+Abrogée
+
+16. Code civil66
+Art. 45a, al. 5, ch. 5
+5
+
+Le Conseil fédéral règle en collaboration avec les cantons:
+5.
+
+les mesures organisationnelles et techniques nécessaires pour
+assurer la protection et la sécurité des données ainsi que la surveillance du respect des dispositions de protection des données;
+
+17. Loi fédérale du 30 septembre 2016 sur les mesures de coercition à
+des fins d’assistance et les placements extrafamiliaux antérieurs à 198167
+Art. 6, al. 2
+Elle peut traiter des données sensibles au sens de l’art. 5, let. c, de la loi fédérale du
+25 septembre 2020 sur la protection des données68 si cela est nécessaire à l’exécution de ses tâches.
+2
+
+65
+66
+67
+68
+
+RS 173.32
+RS 210
+RS 211.223.13
+RS 235.1
+
+7441
+
+Protection des données. LF
+
+FF 2020
+
+18. Code des obligations69
+Art. 328b, 2e phrase
+... En outre, les dispositions de la loi fédérale du 25 septembre 2020
+sur la protection des données70 sont applicables.
+Art. 406g, al. 2
+Lors du traitement de données personnelles concernant le mandant,
+le mandataire est tenu à un devoir de discrétion; les dispositions de la
+loi fédérale du 25 septembre 2020 sur la protection des données71 sont
+réservées.
+2
+
+19. Loi fédérale du 23 mars 2001 sur le crédit à la consommation 72
+Art. 23, al. 3 et 4
+Le centre de renseignements est un organe fédéral au sens de l’art. 5, let. i, de la loi
+fédérale du 25 septembre 2020 sur la protection des données73. Le Conseil fédéral
+édicte les dispositions d’exécution.
+3
+
+Sous réserve des compétences prévues par la loi fédérale sur la protection des
+données, le centre de renseignements est soumis à la surveillance du département
+compétent.
+4
+
+20. Loi du 2 avril 1908 sur le contrat d’assurance74
+Art. 3, al. 1, let. g
+L’assureur doit, avant la conclusion du contrat d’assurance, renseigner le preneur
+de manière compréhensible sur son identité et sur les principaux éléments du contrat
+d’assurance. Il doit le renseigner sur:
+1
+
+g.
+
+69
+70
+71
+72
+73
+74
+
+Ne concerne que les textes allemand et italien.
+
+RS 220
+RS 235.1
+RS 235.1
+RS 221.214.1
+RS 235.1
+RS 221.229.1
+
+7442
+
+Protection des données. LF
+
+FF 2020
+
+21. Loi du 16 décembre 2005 sur la surveillance de la révision 75
+Art. 15b
+
+Traitement de données personnelles et de données concernant
+des personnes morales
+
+Pour accomplir leurs tâches légales, l’autorité de surveillance peut traiter des données personnelles et des données concernant des personnes morales, y compris des
+données sensibles au sens de la loi fédérale du 25 septembre 2020 sur la protection
+des données76 et des données sensibles concernant des personnes morales au sens de
+la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration77.
+
+22. Loi fédérale du 24 mars 2000 sur le traitement des données
+personnelles au Département fédéral des affaires étrangères78
+Art. 1, 2e phrase
+Abrogée
+Art. 2, al. 1 et 2, 1re phrase
+Les services compétents du département peuvent traiter des données sur les personnes participant à des engagements en faveur de la promotion de la paix, du renforcement des droits de l’homme et de l’aide humanitaire, à des fins de planification
+et d’organisation de ces engagements.
+1
+
+Ils peuvent également traiter des données sensibles sur la santé ou d’autres données
+personnelles permettant d’évaluer l’aptitude des personnes concernées à assumer un
+engagement au sens de l’al. 1. ...
+2
+
+Art. 4, al. 3, phrase introductive et let. b
+3
+
+Les données peuvent comprendre:
+b.
+
+Ne concerne que le texte allemand.
+
+Art. 5, al. 1, phrase introductive, et 3
+Pour l’accomplissement des obligations de droit international public de la Suisse,
+le Secrétariat d’État et la Mission permanente de la Suisse près les organisations
+internationales à Genève peuvent traiter des données personnelles concernant:
+1
+
+Les services compétents du département peuvent traiter des données sensibles,
+portant en particulier sur les mesures d’aide sociale et les poursuites ou sanctions
+pénales et administratives, pour remplir les obligations et les tâches visées aux al. 1
+3
+
+75
+76
+77
+78
+
+RS 221.302
+RS 235.1
+RS 172.010
+RS 235.2
+
+7443
+
+Protection des données. LF
+
+FF 2020
+
+et 2 et pour contribuer à régler des litiges dans lesquels sont impliquées les personnes, organisations ou institutions mentionnés à l’al. 1.
+Art. 6, let. a
+Le Conseil fédéral édicte des dispositions d’exécution relatives:
+a.
+
+à l’organisation et à l’exploitation des systèmes d’information;
+
+23. Loi fédérale du 19 décembre 1986 contre la concurrence déloyale79
+Art. 22, al. 2, 2e phrase
+... Les art. 16 et 17 de la loi fédérale du 25 septembre 2020 sur la protection des
+données80 s’appliquent pour le surplus.
+2
+
+24. Code de procédure civile81
+Art. 20, let. d
+Le tribunal du domicile ou du siège de l’une des parties est compétent pour statuer sur:
+d.
+
+les actions et requêtes fondées sur la loi fédérale du 25 septembre 2020 sur
+la protection des données (LPD)82.
+
+Art. 99, al. 3, let. d
+3
+
+Il n’y a pas lieu de fournir des sûretés:
+d.
+
+dans la procédure relative à un litige relevant de la LPD83.
+
+Art. 113, al. 2, let. g
+2
+
+Il n’est pas perçu de frais judiciaires pour:
+g.
+
+les litiges relevant de la LPD84.
+
+Art. 114, let. g
+Il n’est pas perçu de frais judiciaires dans la procédure au fond pour:
+g.
+79
+80
+81
+82
+83
+84
+85
+
+les litiges relevant de la LPD85.
+
+RS 241
+RS 235.1
+RS 272
+RS 235.1
+RS 235.1
+RS 235.1
+RS 235.1
+
+7444
+
+Protection des données. LF
+
+FF 2020
+
+Art. 243, al. 2, let. d
+2
+
+Elle s’applique quelle que soit la valeur litigieuse:
+d.
+
+aux litiges portant sur le droit d’accès selon l’art. 25 LPD86;
+
+Titre précédant l’art. 407e
+
+Chapitre 6
+Disposition transitoire de la modification du 25 septembre 2020
+Art. 407e
+Le nouveau droit est applicable aux procédures pendantes lors de l’entrée en vigueur
+de la modification du 25 septembre 2020.
+
+25. Loi fédérale du 18 décembre 1987 sur le droit international privé 87
+Art. 130, al. 3
+Les actions en exécution du droit d’accès ou de consultation par
+rapport à un traitement de données personnelles peuvent être intentées
+devant les tribunaux mentionnés à l’art. 129.
+3
+
+26. Code pénal88
+Remplacement d’une expression
+Aux art. 349c, 349e, 349g et 349h, «préposé» est remplacé par «PFPDT».
+Art. 179novies
+Soustraction
+de données
+personnelles
+
+86
+87
+88
+
+Celui qui aura soustrait des données personnelles sensibles qui ne sont
+pas accessibles à tout un chacun sera, sur plainte, puni d’une peine
+privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+RS 235.1
+RS 291
+RS 311.0
+
+7445
+
+Protection des données. LF
+
+FF 2020
+
+Insérer avant le titre 4
+Art. 179decies
+Usurpation
+d’identité
+
+Celui qui aura utilisé l’identité d’une autre personne sans son consentement dans le dessein de lui nuire ou de se procurer ou de procurer à
+un tiers un avantage illicite sera, sur plainte, puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire.
+Art. 349a, phrase introductive
+Les autorités fédérales compétentes ne sont en droit de communiquer
+des données personnelles que s’il existe une base légale au sens de
+l’art. 36, al. 1, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)89 ou dans les cas suivants:
+Art. 349c, al. 3
+Si l’autorité qui communique les données est une autorité fédérale,
+elle informe le Préposé fédéral à la protection des données et à la
+transparence (PFPDT) des catégories de communications de données
+personnelles effectuées sur la base de garanties spécifiques au sens de
+l’al. 2, let. c. Chaque communication est documentée.
+3
+
+Art. 349g, al. 1 et 3
+La personne concernée peut requérir du PFPDT qu’il vérifie si les
+éventuelles données la concernant sont traitées licitement dans les cas
+suivants:
+1
+
+a.
+
+son droit d’être informée d’un échange de données la concernant est restreint ou différé (art. 19 et 20 LPD90);
+
+b.
+
+son droit d’accès est rejeté, restreint ou différé (art. 25 et 26
+LPD);
+
+c.
+
+son droit de demander la rectification, la destruction ou
+l’effacement de données la concernant est rejeté partiellement
+ou totalement (art. 41, al. 2, let. a, LPD).
+
+Le PFPDT effectue la vérification demandée; il indique à la personne
+concernée soit qu’aucune donnée la concernant n’est traitée illicitement,
+soit qu’il a constaté une erreur relative au traitement des données personnelles et qu’il a ouvert une enquête conformément à l’art. 49 LPD.
+3
+
+89
+90
+
+RS 235.1
+RS 235.1
+
+7446
+
+Protection des données. LF
+
+FF 2020
+
+Art. 349h, al. 1 et 4
+La personne concernée qui rend vraisemblable qu’un échange de
+données personnelles la concernant pourrait être contraire à des prescriptions de protection des données personnelles peut demander au
+PFPDT l’ouverture d’une enquête au sens de l’art. 49 LPD91.
+1
+
+4
+
+Les art. 50 et 51 LPD s’appliquent pour le surplus.
+
+Art. 352, al. 2
+La LPD92 régit les échanges d’informations opérés en vue de rechercher des personnes disparues et d’identifier des inconnus de même que
+ceux qui sont effectués à des fins administratives.
+2
+
+Art. 355a, al. 1
+L’Office fédéral de la police (fedpol) et le Service de renseignement
+de la Confédération (SRC) peuvent transmettre des données personnelles à l’Office européen de police (Europol), y compris des données
+personnelles sensibles.
+1
+
+Art. 365, al. 1, 1re phrase
+L’Office fédéral de la justice gère, en collaboration avec d’autres autorités fédérales et les cantons (art. 367, al. 1), un casier judiciaire informatisé contenant des données sensibles relatives aux condamnations
+ainsi que des données sensibles relatives aux demandes d’extrait du
+casier judiciaire déposées dans le cadre d’enquêtes pénales en cours. ...
+1
+
+Art. 367, al. 3
+Le Conseil fédéral peut, si le nombre des demandes de renseignement le justifie, et après consultation du PFPDT, étendre le droit
+d’accès visé à l’al. 2 à d’autres autorités judiciaires et administratives
+de la Confédération et des cantons jusqu’à l’entrée en vigueur d’une
+loi fédérale.
+3
+
+91
+92
+
+RS 235.1
+RS 235.1
+
+7447
+
+Protection des données. LF
+
+FF 2020
+
+27. Loi fédérale du 22 mars 1974 sur le droit pénal administratif 93
+Titre précédant l’art. 18a
+
+Chapitre troisième: Protection des données personnelles
+Art. 18a
+A. Collecte de
+données personnelles
+
+Des données personnelles peuvent être collectées auprès de la personne concernée ou de façon reconnaissable pour elle, à moins que la
+procédure n’en soit mise en péril ou qu’il n’en résulte un volume de
+travail disproportionné.
+1
+
+Si des données personnelles sont collectées à l’insu de la personne
+concernée, celle-ci doit en être informée sans délai. L’autorité peut
+renoncer à cette information ou l’ajourner si un intérêt public ou privé
+prépondérant l’exige.
+2
+
+Art. 18b
+B. Traitement
+de données
+personnelles
+
+Lorsque l’autorité administrative fédérale traite des données personnelles, elle veille à distinguer dans la mesure du possible:
+a.
+
+les différentes catégories de personnes concernées;
+
+b.
+
+les données personnelles fondées sur des faits de celles fondées sur des appréciations personnelles.
+
+Art. 18c
+C. Communication et utilisation
+de données
+personnelles
+dans le cadre
+d’une procédure
+pendante
+
+L’autorité administrative fédérale peut communiquer des données personnelles relevant d’une procédure pénale administrative pendante
+pour permettre leur utilisation dans le cadre d’une autre procédure
+pendante, lorsqu’il y a lieu de présumer que ces données personnelles
+contribueront dans une notable mesure à l’élucidation des faits.
+Art. 18d
+
+D. Droit aux
+renseignements
+dans le cadre
+d’une procédure
+pendante
+
+93
+
+RS 313.0
+
+7448
+
+Tant que la procédure est pendante, les parties et les autres participants à la procédure peuvent, dans les limites de leur droit de consulter le dossier, obtenir les données personnelles qui les concernent.
+
+Protection des données. LF
+
+FF 2020
+
+Art. 18e
+E. Exactitude
+des données
+personnelles
+
+L’autorité administrative fédérale rectifie sans retard les données
+personnelles inexactes.
+1
+
+Elle informe immédiatement de la rectification de ces données l’autorité qui les lui a transmises ou qui les a mises à sa disposition ou à
+laquelle elles ont été communiquées.
+2
+
+28. Procédure pénale militaire du 23 mars 1979 94
+Titre précédant l’art. 25a
+
+Chapitre 6
+
+Protection des données personnelles
+
+Art. 25a
+
+Collecte de données personnelles
+
+Des données personnelles peuvent être collectées auprès de la personne concernée
+ou de façon reconnaissable pour elle, à moins que la procédure n’en soit mise en
+péril ou qu’il n’en résulte un volume de travail disproportionné.
+1
+
+Si des données personnelles sont collectées à l’insu de la personne concernée,
+celle-ci doit en être informée sans délai. L’autorité pénale militaire peut renoncer à
+cette information ou l’ajourner si un intérêt public ou privé prépondérant l’exige.
+2
+
+Art. 25b
+
+Traitement de données personnelles
+
+Lorsque l’autorité pénale militaire traite des données personnelles, elle veille à distinguer dans la mesure du possible:
+a.
+
+les différentes catégories de personnes concernées;
+
+b.
+
+les données personnelles fondées sur des faits de celles fondées sur des appréciations personnelles.
+
+Art. 25c
+
+Communication et utilisation de données personnelles dans le cadre
+d’une procédure pendante
+
+L’autorité pénale militaire peut communiquer des données personnelles relevant
+d’une procédure pénale militaire pendante pour permettre leur utilisation dans le
+cadre d’une autre procédure pendante, lorsqu’il y a lieu de présumer que ces données personnelles contribueront dans une notable mesure à l’élucidation des faits.
+
+94
+
+RS 322.1
+
+7449
+
+Protection des données. LF
+
+Art. 25d
+
+FF 2020
+
+Droit aux renseignements dans le cadre d’une procédure pendante
+
+Tant que la procédure est pendante, les parties et les autres participants à la procédure peuvent, dans les limites de leur droit de consulter le dossier, obtenir les données personnelles qui les concernent.
+Art. 25e
+1
+
+Exactitude des données personnelles
+
+L’autorité pénale militaire rectifie sans retard les données personnelles inexactes.
+
+Elle informe immédiatement de la rectification de ces données l’autorité qui les lui
+a transmises ou qui les a mises à sa disposition ou à laquelle elles ont été communiquées.
+2
+
+29. Loi du 20 mars 1981 sur l’entraide pénale internationale95
+Art. 11c, al. 2 à 4
+Lorsqu’une personne demande à l’office fédéral s’il a reçu une demande
+d’arrestation aux fins d’extradition, ce dernier l’informe qu’aucune donnée la concernant n’est traitée illicitement et qu’elle peut demander au Préposé fédéral à la
+protection des données et à la transparence (PFPDT) de vérifier si les éventuelles
+données la concernant sont traitées licitement.
+2
+
+Le PFPDT effectue la vérification demandée; il indique à la personne concernée
+soit qu’aucune donnée la concernant n’est traitée illicitement, soit qu’il a constaté
+une erreur relative au traitement des données personnelles et qu’il a ouvert une
+enquête conformément à l’art. 49 de la loi fédérale du 25 septembre 2020 sur la
+protection des données96.
+3
+
+4
+
+Ne concerne que les textes allemand et italien.
+
+30. Loi fédérale du 13 juin 2008 sur les systèmes d’information
+de police de la Confédération97
+Remplacement d’une expression
+Aux art. 8, al. 7, et 8a, al. 1, «préposé» est remplacé par «PFPDT».
+Art. 3, al. 2, 1re phrase
+Dans le cadre de la présente loi, les autorités fédérales de police sont habilitées à
+traiter des données personnelles, y compris des données sensibles, et à les communiquer aux autorités cantonales de police et de poursuite pénale ainsi qu’à d’autres
+autorités suisses ou étrangères. ...
+2
+
+95
+96
+97
+
+RS 351.1
+RS 235.1
+RS 361
+
+7450
+
+Protection des données. LF
+
+FF 2020
+
+Art. 5, titre et al. 2
+Traitement de données à des fins de contrôle interne
+2
+
+Abrogé
+
+Art. 7, al. 1
+Le droit d’accès est régi par les art. 25 et 26 de la loi fédérale du 25 septembre
+2020 sur la protection des données (LPD)98.
+1
+
+Art. 8, al. 2 et 3
+Le cas échéant, fedpol informe la personne concernée du report de sa réponse; il lui
+indique qu’elle peut demander au Préposé fédéral à la protection des données et à la
+transparence (PFPDT) qu’il vérifie si les éventuelles données la concernant sont
+traitées licitement et si des intérêts prépondérants liés au maintien du secret justifient
+le report.
+2
+
+Le PFPDT effectue la vérification demandée; il indique à la personne concernée
+soit qu’aucune donnée la concernant n’est traitée illicitement, soit qu’il a constaté
+une erreur relative au traitement des données personnelles ou au report de la réponse
+et qu’il a ouvert une enquête conformément à l’art. 49 LPD99.
+3
+
+Art. 8a, al. 2
+Le PFPDT effectue la vérification demandée; il indique à la personne concernée
+soit qu’aucune donnée la concernant n’est traitée illicitement, soit qu’il a constaté
+une erreur relative au traitement des données personnelles et qu’il a ouvert une
+enquête conformément à l’art. 49 LPD100.
+2
+
+Art. 18, al. 1, 1re phrase
+Fedpol exploite le système informatisé de gestion interne des affaires et des dossiers, qui peut contenir des données sensibles. ...
+1
+
+31. Loi du 20 juin 2003 sur les profils d’ADN 101
+Art. 12, al. 1
+Le Conseil fédéral désigne l’office fédéral responsable du système d’information
+(office) selon la loi fédérale du 25 septembre 2020 sur la protection des données 102.
+1
+
+98
+99
+100
+101
+102
+
+RS 235.1
+RS 235.1
+RS 235.1
+RS 363
+RS 235.1
+
+7451
+
+Protection des données. LF
+
+FF 2020
+
+Art. 15, al. 3
+Le droit d’être renseigné de même que les cas dans lesquels la communication de
+renseignements peut être refusée, restreinte ou différée sont régis par les art. 25 et 26
+de la loi fédérale du 25 septembre 2020 sur la protection des données103.
+3
+
+32. Loi du 4 octobre 1991 sur les EPF104
+Art. 36a, al. 1, 1re phrase
+Le Conseil des EPF, les EPF et les établissements de recherche exploitent chacun
+un système d’information concernant le personnel dans lequel des données sensibles
+peuvent également être traitées. ...
+1
+
+Art. 36b, al. 1 et 5, 2e phrase
+Pour la gestion des données concernant les candidats aux études, les étudiants, les
+candidats au doctorat et les auditeurs, chaque EPF exploite un système d’information permettant également de traiter les données sensibles.
+1
+
+... Seuls les services chargés de la gestion des études au sein de chaque EPF ont
+accès en ligne aux données sensibles.
+5
+
+Art. 36c
+
+Traitement des données
+
+Les EPF et les établissements de recherche peuvent traiter des données personnelles, y compris des données sensibles, dans le cadre de projets de recherche, dans la
+mesure où cela est nécessaire pour le projet de recherche concerné.
+1
+
+Ils assurent, ce faisant, le respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données105.
+2
+
+33. Loi du 17 juin 2011 sur l’encouragement du sport 106
+Art. 21, al. 3, phrase introductive
+Les organes visés à l’al. 2 sont habilités à traiter les données qu’ils recueillent dans
+le cadre de leurs activités de contrôle, y compris les données sensibles, et à les transmettre à l’autorité compétente dans les buts suivants:
+3
+
+103
+104
+105
+106
+
+RS 235.1
+RS 414.110
+RS 235.1
+RS 415.0
+
+7452
+
+Protection des données. LF
+
+FF 2020
+
+Art. 25, al. 1, phrase introductive, et 4
+L’autorité compétente en matière de lutte contre le dopage (art. 19) est habilitée à
+échanger des données personnelles, y compris des données sensibles, avec des organes de lutte contre le dopage étrangers ou internationaux reconnus, lorsque l’échange est nécessaire aux actes suivants:
+1
+
+L’autorité compétente en matière de lutte contre le dopage (art. 19) veille à ce que
+les données qu’elle communique ne soient pas transmises à des tiers non autorisés.
+Les art. 16 et 17 de la loi fédérale du 25 septembre 2020 sur la protection des données107 s’appliquent pour le surplus.
+4
+
+34. Loi fédérale du 19 juin 2015 sur les systèmes d’information
+de la Confédération dans le domaine du sport108
+Art. 1, al. 1, phrase introductive
+La présente loi règle le traitement des données personnelles (données), y compris
+des données sensibles, dans les systèmes d’information de l’Office fédéral du sport
+(OFSPO) par les services et personnes suivants:
+1
+
+Art. 4
+Abrogé
+Art. 9, phrase introductive
+Le système d’information national pour le sport contient toutes les données personnelles et informations nécessaires à l’accomplissement des tâches visées à l’art. 8, y
+compris des données sensibles, notamment:
+Art. 14, phrase introductive
+Le système d’information pour les données médicales contient toutes les données
+personnelles et informations nécessaires à l’accomplissement des tâches visées à
+l’art. 13, y compris des données sensibles, notamment:
+Art. 18, phrase introductive
+Le système d’information pour les résultats du diagnostic de performance contient
+toutes les données personnelles et informations nécessaires à l’accomplissement des
+tâches visées à l’art. 17, y compris des données sensibles, notamment:
+
+107
+108
+
+RS 235.1
+RS 415.1
+
+7453
+
+Protection des données. LF
+
+FF 2020
+
+Art. 22, phrase introductive
+Le système d’information de la HEFSM contient toutes les données personnelles et
+informations nécessaires à l’accomplissement des tâches visées à l’art. 21, y compris
+des données sensibles, notamment:
+Art. 26, phrase introductive
+Le système d’information pour l’évaluation des cours contient toutes les données
+personnelles et informations nécessaires à l’évaluation des cours et des prestations
+d’enseignement, y compris des données sensibles, notamment:
+Art. 32, phrase introductive
+Le système d’information de l’agence nationale de lutte contre le dopage contient
+toutes les données personnelles et informations nécessaires à la lutte contre le dopage, y compris des données sensibles, notamment:
+
+35. Loi du 9 octobre 1992 sur la statistique fédérale109
+Art. 5, al. 2, let. a, et 4, let. a
+Il peut déléguer la compétence d’ordonner des relevés à un département, à un groupement ou à un office lorsqu’il s’agit de:
+2
+
+a.
+
+relevés qui ne comportent pas de données personnelles ni de données concernant des personnes morales;
+
+D’autres organismes soumis à la présente loi selon l’art. 2, al. 2 ou 3, sont habilités
+à ordonner eux-mêmes:
+4
+
+a.
+
+des relevés qui ne comportent pas de données personnelles ni de données
+concernant des personnes morales;
+
+Art. 7, al. 2
+Il peut exiger le transfert de données enregistrées dans leurs banques de données si
+la base juridique applicable à ces banques de données n’en interdit pas expressément
+l’utilisation à des fins statistiques. Si ces données sont soumises à une obligation
+légale de garder le secret, il est interdit de les communiquer au sens de l’art. 19 de la
+présente loi et de l’art. 39 de la loi fédérale du 25 septembre 2020 sur la protection
+des données110.
+2
+
+Art. 10, al. 4 et 5, 2e phrase
+Pour permettre à l’office d’accomplir ses tâches, les unités administratives et les
+autres organismes, pour autant qu’ils soient soumis à l’art. 2, al. 3, de la présente loi,
+4
+
+109
+110
+
+RS 431.01
+RS 235.1
+
+7454
+
+Protection des données. LF
+
+FF 2020
+
+lui communiquent les bases et les résultats de leurs travaux statistiques; au besoin,
+ils lui fournissent aussi des données provenant de leurs banques de données et de
+leurs relevés.
+... L’office n’est pas autorisé à communiquer ces données en vertu de l’art. 19 de la
+présente loi et de l’art. 39 de la loi fédérale du 25 septembre 2020 sur la protection
+des données111.
+5
+
+Art. 12, al. 2
+L’office s’emploie à coordonner les statistiques fédérales et les statistiques cantonales, notamment pour harmoniser les programmes des relevés, et, en vue de leur
+traitement, les registres ou autres banques de données.
+2
+
+Art. 14, al. 1
+Les données collectées ou communiquées à des fins statistiques ne peuvent être
+utilisées à d’autres fins, à moins qu’une loi fédérale n’autorise expressément une
+autre utilisation ou que la personne physique ou morale concernée n’y ait consenti
+par écrit.
+1
+
+Art. 14a, al. 1, 2e phrase
+... Si des données personnelles sensibles ou des données sensibles concernant des
+personnes morales sont appariées ou si l’appariement de données permet d’établir
+les caractéristiques essentielles d’une personne physique ou morale, les données
+appariées doivent être effacées une fois les travaux statistiques d’exploitation terminés. ...
+1
+
+Art. 15, al. 1
+Tous les services traitant des données personnelles ou des données concernant des
+personnes morales provenant de la statistique fédérale ou qui lui sont destinées ont
+l’obligation de les protéger contre tout traitement abusif en prenant les mesures techniques et les mesures d’organisation qui s’imposent.
+1
+
+Art. 16, al. 1
+La protection des données de l’ensemble des travaux statistiques est régie par les
+dispositions de la présente loi. Les données personnelles sont en outre régies par les
+dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données112
+qui concernent les traitements aux fins de recherche, de planification et de statistique.
+1
+
+111
+112
+
+RS 235.1
+RS 235.1
+
+7455
+
+Protection des données. LF
+
+FF 2020
+
+Art. 19, al. 2, phrase introductive
+Les producteurs de statistiques de la Confédération sont en droit de communiquer
+des données personnelles et des données concernant des personnes morales à des
+services de statistique, à des institutions de recherche de la Confédération ou à des
+tiers, à des fins ne se rapportant pas à des personnes, notamment dans le cadre de la
+recherche, de la planification ou de la statistique, si:
+2
+
+36. Loi fédérale du 18 juin 2010 sur le numéro d’identification
+des entreprises113
+Art. 3, al. 1, let. d
+1
+
+On entend par:
+d.
+
+services IDE: les unités administratives fédérales, cantonales et communales, les établissements de droit public et les institutions privées chargées de
+tâches de droit public qui gèrent des banques de données concernant des
+entités IDE du fait de leur activité économique;
+
+Art. 5, al. 1, let. b
+1
+
+Les services IDE ont les obligations suivantes:
+b.
+
+utiliser l’IDE dans leurs banques de données;
+
+37. Loi du 18 décembre 1992 sur la Bibliothèque nationale 114
+Art. 2, al. 2, et art. 7, titre et phrase introductive
+Ne concerne que le texte allemand.
+
+38. Loi du 16 mars 2012 sur les espèces protégées115
+Art. 23, al. 2, 1re phrase
+Les données peuvent être communiquées en ligne si la législation étrangère assure
+un niveau de protection adéquat au sens de l’art. 16 de la loi fédérale du 25 septembre 2020 sur la protection des données116. ...
+2
+
+113
+114
+115
+116
+
+RS 431.03
+RS 432.21
+RS 453
+RS 235.1
+
+7456
+
+Protection des données. LF
+
+FF 2020
+
+39. Loi fédérale du 16 décembre 2005 sur la protection des animaux 117
+Art. 20c, al. 1, phrase introductive
+Les personnes suivantes peuvent traiter des données personnelles, y compris des
+données sensibles, et accéder à ces données en ligne, pour autant que cela soit nécessaire à l’accomplissement de leurs tâches légales:
+1
+
+40. Loi du 3 février 1995 sur l’armée 118
+Art. 31, al. 2, 2e phrase
+... Ils sont habilités à traiter des données personnelles, y compris des données sensibles, à condition et aussi longtemps que l’exécution de leurs tâches l’exige.
+2
+
+Art. 99, al. 2, 1re phrase, et 3, let. d
+Il est habilité à traiter, le cas échéant à l’insu de la personne concernée, des données personnelles, sensibles ou non, y compris des données personnelles qui permettent d’évaluer la menace qu’une personne représente, à condition et aussi longtemps
+que l’exécution de ses tâches l’exige. ...
+2
+
+3
+
+Le Conseil fédéral règle:
+d.
+
+les exceptions aux dispositions sur l’enregistrement des activités de traitement des données lorsque, à défaut, la recherche des informations serait
+compromise.
+
+Art. 100, al. 3, let. a et b, et 4, let. c, ch. 2
+3
+
+4
+
+Les organes responsables de la sécurité militaire sont autorisés:
+a.
+
+à traiter des données personnelles, sensibles ou non, y compris des données
+personnelles qui permettent d’évaluer la menace qu’une personne représente,
+à condition et aussi longtemps que leurs tâches l’exigent;
+
+b.
+
+à communiquer des données personnelles à l’étranger, pour autant que les
+conditions des art. 16 et 17 de la loi fédérale du 25 septembre 2020 sur la
+protection des données (LPD)119 soient remplies;
+
+Le Conseil fédéral règle:
+c.
+
+117
+118
+119
+
+en cas de service d’appui ou de service actif:
+2. les exceptions à l’obligation de déclarer les registres des activités de
+traitement au Préposé fédéral à la protection des données et à la transparence pour enregistrement (art. 12, al. 4, LPD) si cet enregistrement
+compromet la recherche d’informations.
+RS 455
+RS 510.10
+RS 235.1
+
+7457
+
+Protection des données. LF
+
+Art. 146
+
+FF 2020
+
+Systèmes d’information de l’armée
+
+Le traitement dans les systèmes d’information de l’armée et lors de l’engagement de
+moyens de surveillance de l’armée et de l’administration militaire de données sensibles et de données personnelles qui permettent d’évaluer la menace qu’une personne représente est réglé par la loi fédérale du 3 octobre 2008 sur les systèmes
+d’information de l’armée120.
+
+41. Loi du 5 octobre 2007 sur la géoinformation 121
+Art. 11
+
+Protection des données
+
+La loi fédérale du 25 septembre 2020 sur la protection des données122 s’applique à
+toutes les géodonnées de base relevant du droit fédéral. Les art. 12, al. 2, let. c, 14,
+al. 1 et 2, et 32, al. 2, let. d, de la présente loi et les dispositions d’exécution correspondantes sont réservés.
+1
+
+Le Conseil fédéral peut prévoir des exceptions à l’obligation de tenir un registre
+des activités de traitement lorsque les traitements présentent un risque limité d’atteinte aux droits fondamentaux de la personne concernée.
+2
+
+Il peut définir des niveaux d’autorisation d’accès contraignants pour les géodonnées de base relevant du droit fédéral.
+3
+
+42. Loi fédérale du 3 octobre 2008 sur les systèmes d’information
+de l’armée123
+Art. 1, al. 1, phrase introductive, et 3
+La présente loi règle le traitement de données personnelles (données), y compris de
+données sensibles, dans les systèmes d’information et lors de l’engagement de moyens de surveillance de l’armée et de l’administration militaire par:
+1
+
+Dans la mesure où la présente loi ne contient pas de dispositions spécifiques, la loi
+fédérale du 25 septembre 2020 sur la protection des données124 est applicable.
+3
+
+Art. 10, let. c
+Il est interdit de traiter les données sur:
+c.
+
+120
+121
+122
+123
+124
+
+l’origine raciale ou ethnique.
+
+RS 510.91
+RS 510.62
+RS 235.1
+RS 510.91
+RS 235.1
+
+7458
+
+Protection des données. LF
+
+FF 2020
+
+Art. 11, al. 2
+Lorsque la combinaison de données personnelles permet d’évaluer les caractéristiques essentielles d’une personne, les données combinées ne peuvent être conservées au-delà:
+2
+
+a.
+
+de la libération des obligations militaires, ou
+
+b.
+
+d’un délai de cinq ans à compter de la fin de l’engagement auprès du Groupement Défense.
+
+43. Loi fédérale du 13 décembre 1996 sur le matériel de guerre 125
+Art. 30, al. 2, 2e phrase
+... Il a le droit de traiter des données personnelles, sensibles ou non, y compris des
+données personnelles qui permettent d’évaluer le risque qu’une personne commette
+une infraction à la présente loi, dans la mesure et aussi longtemps que l’exécution de
+ses tâches l’exige.
+2
+
+44. Loi du 20 juin 1997 sur les armes126
+Art. 32e, al. 1 et 2
+Aucune donnée personnelle ne peut être communiquée à un État tiers si celui-ci
+n’assure pas un niveau de protection des données adéquat au sens de l’art. 16, al. 1,
+de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)127.
+1
+
+Des données personnelles peuvent être communiquées à un État tiers en dépit de
+l’absence d’un niveau de protection adéquat dans les cas suivants:
+2
+
+a.
+
+la personne concernée a donné son consentement au sens de l’art. 6, al. 6 et,
+le cas échéant, al. 7, LPD;
+
+b.
+
+la communication est nécessaire pour protéger la vie ou l’intégrité corporelle
+de la personne concernée et il n’est pas possible d’obtenir son consentement
+dans un délai raisonnable;
+
+c.
+
+la communication est indispensable à la sauvegarde d’un intérêt public prépondérant ou à la constatation, à l’exercice ou à la défense d’un droit devant
+un tribunal ou une autre autorité étrangère compétente.
+
+Art. 32g, 2e phrase
+Abrogée
+
+125
+126
+127
+
+RS 514.51
+RS 514.54
+RS 235.1
+
+7459
+
+Protection des données. LF
+
+FF 2020
+
+45. Loi fédérale du 4 octobre 2002 sur la protection de la population
+et sur la protection civile128
+Art. 72, al. 1, 2e phrase introductive et let. b, et 1bis, 2e phrase introductive et let. b
+1
+
+... Il peut traiter les données suivantes:
+b.
+
+1bis
+
+les données personnelles qui permettent de déterminer l’affectation à une
+fonction de base ou le potentiel de cadre.
+
+... Il peut traiter à cette fin les données suivantes:
+
+b.
+
+les données personnelles permettant de déterminer le potentiel de cadre ou
+de spécialiste.
+
+46. Loi du 7 octobre 2005 sur les finances129
+Art. 60c, al. 1, phrase introductive, et 3
+La CEPF traite, sur papier et dans un système d’information, les données concernant ses clients, y compris les données sensibles, dont elle a besoin pour s’acquitter
+de ses tâches, notamment pour:
+1
+
+Les employés de la CEPF peuvent, pour l’exécution de leurs tâches, transmettre
+des données personnelles, y compris des données sensibles, à leurs supérieurs directs, même si ces derniers ne sont pas des employés de la CEPF.
+3
+
+47. Loi du 28 juin 1967 sur le Contrôle des finances 130
+Art. 10, al. 3
+Ne concerne que les textes allemand et italien.
+
+48. Loi du 18 mars 2005 sur les douanes131
+Art. 38, al. 2
+Il peut rendre des décisions de taxation sous la forme d’une décision individuelle
+automatisée au sens de l’art. 21 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)132.
+2
+
+128
+129
+130
+131
+132
+
+RS 520.1
+RS 611.0
+RS 614.0
+RS 631.0
+RS 235.1
+
+7460
+
+Protection des données. LF
+
+FF 2020
+
+Art. 103, al. 1, phrase introductive, et 2
+L’AFD peut établir l’identité d’une personne en la photographiant ou en relevant
+ses données génétiques ou biométriques:
+1
+
+Le Conseil fédéral détermine les données génétiques et les données biométriques
+pouvant être relevées.
+2
+
+Art. 110, al. 1 et 2
+L’AFD peut traiter des données personnelles, y compris des données sensibles,
+pour:
+1
+
+a.
+
+fixer et percevoir des redevances;
+
+b.
+
+établir des analyses de risques;
+
+c.
+
+poursuivre et juger des infractions;
+
+d.
+
+traiter des demandes d’assistance administrative et d’entraide judiciaire;
+
+e.
+
+établir des statistiques;
+
+f.
+
+exécuter et analyser les activités de police dans le domaine du contrôle des
+personnes;
+
+g.
+
+exécuter et analyser l’exécution des actes législatifs de la Confédération
+autres que douaniers;
+
+h.
+
+exécuter et analyser les activités de lutte contre la criminalité.
+
+Elle peut gérer des systèmes d’information à cet effet. Elle est en outre autorisée à
+faire du profilage, y compris du profilage à risque élevé, au sens de la LPD 133 pour
+accomplir les tâches mentionnées à l’al. 1, let. a à c et e à h.
+2
+
+Art. 110a, al. 3, let. b
+3
+
+Le système d’information permet de traiter les données sensibles suivantes:
+b.
+
+les indications relatives à l’appartenance religieuse, pour autant que cela soit
+nécessaire, à titre exceptionnel, à la poursuite pénale;
+
+Art. 112, al. 2, phrase introductive, 4, let. b, et 6, 3e phrase
+Peuvent en particulier être communiquées les données et connexions de données
+suivantes, y compris des données sensibles et des données issues d’un profilage, y
+compris d’un profilage à risque élevé:
+2
+
+L’AFD peut rendre accessibles par procédure d’appel les données suivantes aux
+autorités mentionnées ci-après si elles sont nécessaires à l’exécution des actes législatifs que ces autorités doivent appliquer:
+4
+
+b.
+6
+
+abrogée
+
+... L’art. 16, al. 1, LPD134 est réservé.
+
+133
+
+RS 235.1
+
+7461
+
+Protection des données. LF
+
+Art. 113
+
+FF 2020
+
+Communication de données à des autorités étrangères
+
+L’AFD ne peut communiquer des données, y compris des données sensibles et des
+données issues d’un profilage, y compris d’un profilage à risque élevé, à des autorités d’autres États ainsi qu’à des organisations supranationales ou internationales
+(autorités étrangères), dans des cas d’espèce ou en procédure d’appel, que si un traité
+international le prévoit.
+Art. 114, al. 2
+Les autorités suisses fournissent à l’AFD les données, y compris des données sensibles et des données issues d’un profilage, y compris d’un profilage à risque élevé,
+qui sont nécessaires à l’exécution des actes législatifs qu’elle doit appliquer.
+2
+
+49. Loi du 12 juin 2009 sur la TVA135
+Art. 76, al. 1 et 3
+L’AFC est habilitée à traiter les données sensibles nécessaires à l’accomplissement
+de ses tâches légales, y compris les données relatives à des poursuites et à des sanctions administratives ou pénales.
+1
+
+Elle est également habilitée à faire du profilage, y compris du profilage à risque
+élevé, au sens de la loi fédérale du 25 septembre 2020 sur la protection des données136 pour l’accomplissement de ses tâches:
+3
+
+a.
+
+de vérification et de contrôle;
+
+b.
+
+de détermination de l’assujettissement;
+
+c.
+
+de perception de l’impôt;
+
+d.
+
+de prévention et de poursuite des infractions;
+
+e.
+
+d’analyse et d’établissement de profils de risques;
+
+f.
+
+d’établissement de statistiques.
+
+Art. 76a, al. 1, 3, let. g, et 4
+L’AFC exploite un système d’information pour le traitement de données personnelles et de données sensibles relatives aux poursuites et aux sanctions administratives et pénales.
+1
+
+Le système d’information peut contenir les données personnelles suivantes, données sensibles y comprises:
+3
+
+g.
+
+134
+135
+136
+
+abrogée
+
+RS 235.1
+RS 641.20
+RS 235.1
+
+7462
+
+Protection des données. LF
+
+FF 2020
+
+Le Préposé fédéral à la protection des données et à la transparence a accès au
+système d’information de l’AFC pour l’exercice de ses tâches de surveillance.
+4
+
+Art. 76b, al. 2
+L’AFC peut communiquer les données personnelles issues d’un profilage, y compris d’un profilage à risque élevé, au sens de l’art. 76, al. 3, ainsi que les données
+visées à l’art. 76a, al. 3, aux collaborateurs de l’AFD chargés de la perception et de
+l’encaissement de la TVA ou de l’exécution des procédures administratives ou
+pénales, ou leur donner accès à ces données en ligne, dans la mesure où
+l’accomplissement des tâches de ces collaborateurs l’exige.
+2
+
+50. Loi fédérale du 21 mars 1969 sur l’imposition du tabac 137
+Art. 18, al. 4
+La fixation du montant de l’impôt peut intervenir sous la forme d’une décision
+individuelle automatisée selon l’art. 21 de la loi fédérale du 25 septembre 2020 sur
+la protection des données138.
+4
+
+51. Loi fédérale du 6 octobre 2006 sur l’imposition de la bière 139
+Art. 17, al. 3, 2e phrase
+... La fixation du montant de l’impôt peut intervenir sous la forme d’une décision
+individuelle automatisée selon l’art. 21 de la loi fédérale du 25 septembre 2020 sur
+la protection des données140.
+3
+
+52. Loi du 21 juin 1996 sur l’imposition des huiles minérales141
+Art. 21, al. 2bis
+La fixation du montant de l’impôt peut intervenir sous la forme d’une décision
+individuelle automatisée selon l’art. 21 de la loi fédérale du 25 septembre 2020 sur
+la protection des données142.
+2bis
+
+137
+138
+139
+140
+141
+142
+
+RS 641.31
+RS 235.1
+RS 641.411
+RS 235.1
+RS 641.61
+RS 235.1
+
+7463
+
+Protection des données. LF
+
+FF 2020
+
+53. Loi du 19 décembre 1997 relative à une redevance sur le trafic
+des poids lourds143
+Art. 11, al. 4
+La taxation d’office peut intervenir sous la forme d’une décision individuelle automatisée selon l’art. 21 de la loi fédérale du 25 septembre 2020 sur la protection des
+données144.
+4
+
+54. Loi fédérale du 28 septembre 2012 sur l’assistance administrative
+internationale en matière fiscale145
+Art. 5a, 2e phrase
+... Ces dispositions doivent offrir au moins le même niveau de protection que la loi
+fédérale du 25 septembre 2020 sur la protection des données146.
+
+55. Loi fédérale 18 décembre 2015 sur l’échange international
+automatique de renseignements en matière fiscale147
+Art. 6, 2e phrase
+... Ces dispositions doivent offrir au moins le même niveau de protection que la loi
+fédérale du 25 septembre 2020 sur la protection des données148 et la présente loi.
+
+56. Loi du 30 septembre 2016 sur l’énergie149
+Art. 56, al. 1, phrase introductive
+Les informations, les données personnelles et les données concernant des personnes morales nécessaires aux analyses et au suivi visés à l’art. 55 ainsi qu’aux fins
+d’évaluation statistique sont fournies à l’OFEN, à sa demande, par les services
+suivants:
+1
+
+143
+144
+145
+146
+147
+148
+149
+
+RS 641.81
+RS 235.1
+RS 651.1
+RS 235.1
+RS 653.1
+RS 235.1
+RS 730.0
+
+7464
+
+Protection des données. LF
+
+FF 2020
+
+Art. 58, titre, al. 1 et 3
+Traitement des données personnelles et des données concernant
+des personnes morales
+Dans les limites des objectifs visés par la présente loi, les autorités fédérales compétentes et l’organe d’exécution visé à l’art. 64 peuvent traiter des données personnelles et des données concernant des personnes morales, y compris les données
+sensibles concernant des sanctions et les procédures correspondantes.
+1
+
+Le Conseil fédéral définit les données personnelles ainsi que les données concernant des personnes morales dont le traitement est autorisé et en fixe la durée de
+conservation.
+3
+
+Art. 59, titre, al. 1, phrases introductives, et 2, phrase introductive
+Communication de données personnelles et de données concernant
+les personnes morales
+Aux fins de transparence et d’information des consommateurs finaux, le Conseil
+fédéral peut obliger les entreprises de la branche énergétique à publier des données
+personnelles et des données concernant des personnes morales sous une forme
+anonymisée ou à les communiquer aux autorités fédérales compétentes. Cette obligation peut notamment porter sur les données suivantes:
+1
+
+Les autorités fédérales compétentes peuvent publier les données anonymisées
+visées à l’al. 1 sous une forme adéquate si les conditions suivantes sont réunies:
+2
+
+57. Loi du 21 mars 2003 sur l’énergie nucléaire 150
+Art. 24, al. 2
+Ce contrôle peut donner lieu au traitement de données sur la santé et l’aptitude
+psychique de ces personnes ainsi que de données sur leur mode de vie importantes
+pour la sécurité.
+2
+
+58. Loi du 24 juin 1902 sur les installations électriques 151
+Art. 25a, al. 2
+Elles peuvent procéder aux échanges de données nécessaires à l’exécution uniforme de la présente loi.
+2
+
+150
+151
+
+RS 732.1
+RS 734.0
+
+7465
+
+Protection des données. LF
+
+FF 2020
+
+59. Loi du 23 mars 2007 sur l’approvisionnement en électricité 152
+Art. 17c, al. 1
+La loi fédérale du 25 septembre 2020 sur la protection des données (LPD)153
+s’applique au traitement de données personnelles en lien avec des systèmes de
+mesure, de commande ou de réglage intelligents. La LPD s’applique par analogie
+aux traitements de données concernant des personnes morales.
+1
+
+Art. 27, al. 1
+Dans les limites des objectifs de la présente loi, l’OFEN et l’ElCom traitent des
+données personnelles et des données concernant des personnes morales, y compris
+les données sensibles concernant des poursuites ou des sanctions pénales (art. 29).
+1
+
+60. Loi fédérale du 19 décembre 1958 sur la circulation routière154
+Art. 76b, al. 3, 2e phrase
+... Elles sont habilitées à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour
+accomplir ces tâches.
+3
+
+61. Loi fédérale du 20 décembre 1957 sur les chemins de fer155
+Art. 16a
+
+Traitement de données par les concessionnaires
+
+Pour leurs activités relevant de la concession et de l’autorisation, les entreprises
+sont soumises aux art. 33 à 42 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)156. Si elles agissent selon le droit privé, elles sont assujetties
+aux art. 30 à 32 LPD.
+1
+
+Elles peuvent traiter des données personnelles, y compris des données sensibles, si
+cela est nécessaire à la sécurité de l’infrastructure, en particulier sa construction et son
+exploitation. Il en va de même des tiers qui assurent des tâches incombant au concessionnaire. Ce dernier répond du respect de la législation sur la protection des données.
+2
+
+Art. 37, al. 8
+8
+
+L’art. 9 LPD157 est applicable.
+
+152
+153
+154
+155
+156
+157
+
+RS 734.7
+RS 235.1
+RS 741.01
+RS 742.101
+RS 235.1
+RS 235.1
+
+7466
+
+Protection des données. LF
+
+FF 2020
+
+62. Loi du 20 mars 2009 sur le transport des voyageurs158
+Art. 54
+
+Traitements de données par les concessionnaires
+
+Pour leurs activités relevant de la concession et de l’autorisation, les entreprises
+sont soumises aux art. 33 à 42 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)159. Si elles agissent selon le droit privé, elles sont assujetties
+aux art. 30 à 32 LPD.
+1
+
+Elles peuvent traiter des données sensibles si cela est nécessaire au transport des
+voyageurs ou à l’exploitation ou encore à la sécurité des voyageurs, de l’exploitation
+ou de l’infrastructure. Il en va de même des tiers qui assurent des tâches incombant à
+l’entreprise titulaire d’une concession ou d’une autorisation au sens des art. 6 à 8.
+L’entreprise répond du respect de la législation sur la protection des données.
+2
+
+63. Loi fédérale du 18 juin 2010 sur les organes de sécurité des
+entreprises de transports publics160
+Art. 6, al. 3
+Les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des
+données161, notamment les art. 33 à 42 et 49 à 53, sont applicables au surplus.
+3
+
+64. Loi du 4 octobre 1963 sur les installations de transport
+par conduites162
+Art. 47a, al. 2
+Elles peuvent procéder aux échanges de données nécessaires à l’application uniforme de la présente loi.
+2
+
+158
+159
+160
+161
+162
+
+RS 745.1
+RS 235.1
+RS 745.2
+RS 235.1
+RS 746.1
+
+7467
+
+Protection des données. LF
+
+FF 2020
+
+65. Loi fédérale du 21 décembre 1948 sur l’aviation163
+Art. 21c, al. 1, let. b, et 1bis
+Les données suivantes relatives à des événements liés à la sûreté et
+aux individus potentiellement dangereux impliqués dans ces événements sont traitées dans le système d’information:
+1
+
+b.
+
+données personnelles nécessaires pour évaluer la menace pesant sur le trafic aérien commercial international, y compris
+les données sensibles, comme des informations sur l’état de
+santé, les condamnations ou les procédures pénales ou administratives en cours et sur l’appartenance à des groupes criminels ou terroristes;
+
+Fedpol est habilité à faire du profilage, y compris du profilage à
+risque élevé, au sens de la loi fédérale du 25 septembre 2020 sur la
+protection des données164 pour évaluer la menace que représentent les
+personnes visées à l’al. 1.
+1bis
+
+Art. 107a, al. 2, phrase introductive, 4, 2e phrase, et 5
+Ils traitent de données personnelles, y compris des données sensibles, concernant:
+2
+
+4
+
+... Ne concerne que le texte allemand.
+
+Pour accomplir les tâches qui leur incombent, les services qui traitent
+les données peuvent communiquer des données personnelles, y compris
+des données sensibles, aux autorités suisses et étrangères chargées de
+tâches correspondantes ainsi qu’à des organisations internationales, pour
+autant que les conditions de l’art. 16 de la loi fédérale du 25 septembre
+2020 sur la protection des données165 soient respectées.
+5
+
+66. Loi fédérale du 18 mars 2016 sur la surveillance de la
+correspondance par poste et télécommunication 166
+Art. 4
+
+Traitement de données personnelles
+
+Le Service, les autorités habilitées à ordonner une surveillance, les autorités habilitées à autoriser une surveillance de même que les fournisseurs de services postaux et
+de télécommunication peuvent traiter les données personnelles, y compris des données sensibles, qui leur sont nécessaires pour ordonner, autoriser et mettre en œuvre
+la surveillance.
+
+163
+164
+165
+166
+
+RS 748.0
+RS 235.1
+RS 235.1
+RS 780.1
+
+7468
+
+Protection des données. LF
+
+FF 2020
+
+Art. 10, al. 1, let. b
+En ce qui concerne les données collectées dans le cadre d’une procédure pénale ou
+de l’exécution d’une demande d’entraide judiciaire, sont applicables:
+1
+
+b.
+
+au droit d’accès aux données après la clôture de la procédure: la loi fédérale
+du 25 septembre 2020 sur la protection des données (LPD)167 si l’autorité
+saisie de la demande d’entraide judiciaire est une autorité fédérale, ou le
+droit cantonal si cette autorité est une autorité cantonale.
+
+Art. 13
+
+Responsabilité
+
+Les autorités ayant accès au système de traitement en vertu de l’art. 9 sont les responsables du traitement des données collectées lors de surveillances relevant de leur
+compétence.
+
+67. Loi du 17 décembre 2010 sur la poste168
+Art. 26, al. 1, 2, phrase introductive, et 3, 2e phrase
+La PostCom et les autres autorités chargées de l’exécution de la présente loi transmettent aux autres autorités de la Confédération et des cantons les données dont
+celles-ci ont besoin pour accomplir les tâches qui leur incombent de par la loi, y
+compris les données sensibles acquises au cours de procédures administratives ou de
+procédures pénales administratives.
+1
+
+Sous réserve d’accords internationaux comportant des dispositions contraires, la
+PostCom ne peut transmettre des données à des autorités étrangères chargées de la
+surveillance dans le domaine postal, y compris des données sensibles acquises au
+cours de procédures administratives ou de procédures pénales administratives,
+qu’aux conditions suivantes:
+2
+
+... Les données sensibles acquises au cours de procédures administratives ou de
+procédures pénales administratives en font partie.
+3
+
+Art. 28
+
+Traitement de données personnelles
+
+En vue de l’accomplissement de leurs tâches légales, la PostCom et l’organe de
+conciliation peuvent traiter des données personnelles, y compris des données sensibles concernant des poursuites ou des sanctions pénales.
+
+167
+168
+
+RS 235.1
+RS 783.0
+
+7469
+
+Protection des données. LF
+
+FF 2020
+
+68. Loi du 30 avril 1997 sur les télécommunications169
+Art. 13a, al. 1, 1re phrase
+La commission et l’office peuvent traiter les données personnelles, y compris les
+données sur les poursuites et sanctions administratives ou pénales, si ces données
+sont nécessaires à l’exécution des tâches qui leur incombent en vertu de la législation sur les télécommunications. ...
+1
+
+Art. 13b, al. 1, 2e phrase, 2, phrase introductive, et 4, 1 re phrase
+... Les données sensibles acquises au cours de procédures administratives ou de
+procédures pénales administratives font partie des données transmises. ...
+1
+
+Sous réserve d’accords internationaux comportant des dispositions contraires, la
+commission et l’office ne peuvent transmettre des données à des autorités étrangères
+chargées de tâches de surveillance dans le domaine des télécommunications, y compris des données sensibles acquises au cours de procédures administratives ou de
+procédures pénales administratives, que si ces autorités:
+2
+
+Les autorités suisses transmettent gratuitement à la commission et à l’office les
+données qui peuvent être utiles à l’application de la législation sur les télécommunications, y compris des données sensibles. ...
+4
+
+69. Loi fédérale du 24 mars 2006 sur la radio et la télévision 170
+Art. 69f, al. 1, 2e phrase
+... Le traitement des données est régi par les dispositions de la loi fédérale du 25
+septembre 2020 sur la protection des données (LPD)171 applicables aux organes
+fédéraux.
+1
+
+Art. 88, al. 2
+Le traitement des données est régi par les dispositions de la LPD172 applicables aux
+organes fédéraux.
+2
+
+169
+170
+171
+172
+
+RS 784.10
+RS 784.40
+RS 235.1
+RS 235.1
+
+7470
+
+Protection des données. LF
+
+FF 2020
+
+70. Loi du 30 septembre 2011 relative à la recherche sur
+l’être humain173
+Art. 42, al. 2
+Les données personnelles non génétiques liées à la santé ne peuvent être communiquées à l’étranger à des fins de recherche que si les conditions visées aux art. 16 et 17
+de la loi fédérale du 25 septembre 2020 sur la protection des données174 sont remplies.
+2
+
+71. Loi du 23 juin 2006 sur les professions médicales 175
+Art. 51, al. 3
+Le registre contient les données nécessaires pour atteindre les buts visés à l’al. 2.
+En font aussi partie les données sensibles au sens de l’art. 5, let. c, de la loi fédérale
+du 25 septembre 2020 sur la protection des données176.
+3
+
+72. Loi fédérale 30 septembre 2016 sur les professions de la santé177
+Art. 24, al. 2, 2e phrase
+... En font aussi partie les données sensibles au sens de l’art. 5, let. c, de la loi
+fédérale du 25 septembre 2020 sur la protection des données178.
+2
+
+73. Loi du 3 octobre 1951 sur les stupéfiants 179
+Art. 3f, al. 1
+Les autorités et les institutions chargées de veiller à l’exécution de la présente loi
+sont autorisées à traiter des données personnelles, y compris des données sensibles,
+afin de vérifier les conditions relatives au traitement des personnes dépendantes et
+leur suivi.
+1
+
+Art. 18c, 2e phrase
+Abrogée
+
+173
+174
+175
+176
+177
+178
+179
+
+RS 810.30
+RS 235.1
+RS 811.11
+RS 235.1
+RS 811.21
+RS 235.1
+RS 812.121
+
+7471
+
+Protection des données. LF
+
+FF 2020
+
+74. Loi du 15 décembre 2000 sur les produits thérapeutiques 180
+Art. 62a, al. 1, phrase introductive
+Les services de la Confédération et des cantons, les centres régionaux et les tiers
+chargés de tâches d’exécution peuvent, dans la mesure où ils en ont besoin pour
+accomplir les tâches qui leur incombent aux termes de la présente loi, traiter les
+données sensibles suivantes:
+1
+
+Art. 62b, al. 1
+Suite à une pesée des intérêts, l’institut et l’Administration fédérale des douanes
+(AFD) sont habilités à communiquer dans le cas d’espèce au titulaire d’une autorisation d’exploitation ou de mise sur le marché d’un médicament ou à quiconque
+met sur le marché un dispositif médical, des données confidentielles collectées en
+vertu de la présente loi, y compris des données sensibles au sens de l’art. 5, let. c,
+ch. 5, de la loi fédérale du 25 septembre 2020 sur la protection des données 181, si
+cette mesure paraît nécessaire pour mettre au jour et combattre un trafic illégal
+suspecté de produits thérapeutiques.
+1
+
+75. Loi du 28 septembre 2012 sur les épidémies 182
+Art. 60, al. 9, 1re phrase
+Le droit d’obtenir des renseignements sur les données figurant dans le système
+d’information et le droit de faire rectifier les données sont régies par les art. 25 et 41
+de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)183. ...
+9
+
+Art. 62, al. 1 et 3, phrase introductive et let. a et d
+Si cette mesure leur est nécessaire pour exécuter la présente loi, l’OFSP et les
+autorités cantonales compétentes peuvent communiquer des données personnelles, y
+compris des données concernant la santé, à des autorités étrangères ou à des organisations supranationales ou internationales qui accomplissent des tâches similaires si
+l’une des conditions suivantes est remplie:
+1
+
+a.
+
+la législation de l’État concerné ou ces organisations assurent un niveau de
+protection adéquat des données au sens de l’art. 16, al. 1, LPD184;
+
+b.
+
+les données personnelles sont communiquées au moyen de garanties spécifiques au sens de l’art. 16, al. 2, let. c, LPD.
+
+En dérogation à l’al. 1, il est possible de communiquer des données personnelles à
+l’étranger si l’une des conditions suivantes est remplie:
+3
+
+180
+181
+182
+183
+184
+
+RS 812.21
+RS 235.1
+RS 818.101
+RS 235.1
+RS 235.1
+
+7472
+
+Protection des données. LF
+
+FF 2020
+
+a.
+
+abrogée
+
+d.
+
+la communication est nécessaire en l’espèce pour protéger la vie ou l’intégrité corporelle de la personne concernée et il n’est pas possible d’obtenir
+son consentement dans un délai raisonnable.
+
+76. Loi fédérale du 18 mars 2016 sur l’enregistrement des maladies
+oncologiques185
+Art. 7, al. 2
+Le patient peut demander au responsable du traitement si des données le concernant sont traitées et, si tel est le cas, de quelles données il s’agit. Il n’est pas permis
+de restreindre son droit d’accès.
+2
+
+77. Loi du 13 mars 964 sur le travail186
+Art. 46, 2e phrase
+... Pour le surplus, la loi fédérale du 25 septembre 2020 sur la protection des données187 est applicable.
+
+78. Loi du 17 juin 2005 sur le travail au noir188
+Titre précédant l’art. 17
+
+Section 11
+
+Traitement de données et dispositions pénales
+
+Art. 17, titre et al. 1, phrase introductive, 2 et 4
+Traitement de données personnelles
+1
+
+L’organe de contrôle cantonal peut traiter les données personnelles suivantes:
+
+Les autorités cantonales compétentes chargées des sanctions visées à l’art. 13 sont
+habilitées à traiter les données des personnes physiques qui se sont vu infliger une
+sanction administrative ou pénale.
+2
+
+Les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des
+données189 relatives à l’exactitude des données et au droit d’accès sont applicables.
+4
+
+185
+186
+187
+188
+189
+
+RS 818.33
+RS 822.11
+RS 235.1
+RS 822.41
+RS 235.1
+
+7473
+
+Protection des données. LF
+
+Art. 17a
+
+FF 2020
+
+Traitement de données concernant des personnes morales
+
+L’organe de contrôle cantonal peut traiter les données suivantes concernant des
+personnes morales:
+1
+
+a.
+
+données contenues dans les procès-verbaux, dans la mesure où les contrôles
+ont mis au jour un ou plusieurs cas de non-respect des obligations d’annonce
+et d’autorisation mentionnées à l’art. 6;
+
+b.
+
+données communiquées à l’organe de contrôle cantonal par les autorités
+compétentes dans le domaine dont relève le contrôle.
+
+Les autorités cantonales compétentes chargées des sanctions visées à l’art. 13 sont
+habilitées à traiter les données concernant des personnes morales qui se sont vu infliger une sanction administrative ou pénale.
+2
+
+79. Loi fédérale du 6 octobre 1989 sur le service de l’emploi
+et la location de services190
+Art. 33a, al. 1, phrase introductive, et 3
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller
+l’exécution sont habilités à traiter ou à faire traiter les données personnelles qui leur
+sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:
+1
+
+Au surplus, les organes chargés d’appliquer la présente loi ou d’en contrôler ou
+surveiller l’exécution sont habilités à traiter ou à faire traiter des données personnelles qui permettent d’évaluer la situation personnelle et économique des bénéficiaires de prestations de conseil au sens de la présente loi.
+3
+
+Art. 35, al. 2, 3bis et 5, let. d
+Ce système d’information peut contenir des données personnelles, y compris des
+données sensibles au sens de l’art. 33a, al. 2.
+2
+
+L’échange de données personnelles, y compris les données sensibles, entre les
+systèmes d’information du service public de l’emploi et ceux de l’assurance-chômage (art. 83, al. 1, let. i, de la loi sur l’assurance-chômage) est autorisé dans la mesure
+où il est nécessaire à l’exécution de la présente loi et de la loi sur l’assurancechômage.
+3bis
+
+5
+
+Le Conseil fédéral règle:
+d.
+
+190
+
+l’accès aux données, notamment en déterminant les utilisateurs du système
+autorisés à traiter des données sensibles;
+
+RS 823.11
+
+7474
+
+Protection des données. LF
+
+Art. 35b
+
+FF 2020
+
+Registre des entreprises de placement et de location
+de services autorisées
+
+Avec l’aide des autorités cantonales compétentes, le SECO gère, dans un système
+d’information approprié, un registre des entreprises de placement et de location de
+services autorisées et de leurs responsables.
+1
+
+Ce registre peut contenir des données sensibles sur le retrait, l’annulation ou le
+refus d’une autorisation.
+2
+
+80. Loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse
+et survivants191
+Art. 49a, al. 1, phrase introductive, et 2
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller
+l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris
+les données sensibles, qui leur sont nécessaires pour accomplir les tâches qui leur sont
+assignées par la présente loi, notamment pour:
+1
+
+Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des
+données personnelles, notamment des données permettant d’évaluer la santé, la gravité
+de l’affection physique ou psychique, les besoins et la situation économique de la
+personne concernée.
+2
+
+81. Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle
+vieillesse, survivants et invalidité192
+Art. 85a, al. 1, phrase introductive, et 2
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller
+l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les tâches que
+leur assigne la présente loi, notamment pour:
+1
+
+Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des
+données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la
+personne assurée.
+2
+
+191
+192
+
+RS 831.10
+RS 831.40
+
+7475
+
+Protection des données. LF
+
+FF 2020
+
+82. Loi fédérale du 18 mars 1994 sur l’assurance-maladie193
+Art. 84, al. 1, phrase introductive, et 2
+Les organes chargés d’appliquer la présente loi ou la LSAMal 194 ou d’en contrôler
+ou surveiller l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les
+tâches que leur assignent la présente loi ou la LSAMal, notamment pour:
+1
+
+Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des
+données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la
+personne assurée.
+2
+
+83. Loi fédérale du 20 mars 1981 sur l’assurance-accidents195
+Art. 96, al. 1, phrase introductive, et 2
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller
+l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les tâches que
+leur assigne la présente loi, notamment pour:
+1
+
+Pour accomplir ces tâches, ils sont en outre habilités à faire du profilage, y compris
+du profilage à risque élevé, au sens de la loi fédérale du 25 septembre 2020 sur la
+protection des données (LPD)196 et à rendre des décisions individuelles automatisées
+selon l’art. 21 LPD.
+2
+
+84. Loi fédérale du 19 juin 1992 sur l’assurance militaire 197
+Art. 94a, al. 1, phrase introductive, et 2
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller
+l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les tâches que
+leur assigne la présente loi, notamment pour:
+1
+
+Pour accomplir ces tâches, ils sont en outre habilités à faire du profilage, y compris
+du profilage à risque élevé, au sens de la loi fédérale du 25 septembre 2020 sur la
+protection des données (LPD)198 et à rendre des décisions individuelles automatisées
+selon l’art. 21 LPD.
+2
+
+193
+194
+195
+196
+197
+198
+
+RS 832.10
+RS 832.12
+RS 832.20
+RS 235.1
+RS 833.1
+RS 235.1
+
+7476
+
+Protection des données. LF
+
+FF 2020
+
+85. Loi du 25 juin 1982 sur l’assurance-chômage199
+Art. 96b, al. 1, phrase introductive, et 2
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller
+l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir ces tâches que
+leur assigne la présente loi, notamment pour:
+1
+
+Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des
+données personnelles, notamment des données permettant d’évaluer la situation
+personnelle et économique des bénéficiaires de prestations de l’assurance-chômage.
+2
+
+Art. 96c, al. 2, phrase introductive, et 2bis
+Ils peuvent accéder aux données personnelles, y compris aux données sensibles,
+qui leur sont nécessaires pour accomplir les tâches suivantes, que leur assigne la
+présente loi:
+2
+
+L’échange de données personnelles, y compris les données sensibles, entre les
+systèmes d’information de l’assurance-chômage (art. 83, al. 1, let. i) et du service
+public de l’emploi (art. 35 LSE200) est autorisé dans la mesure où il est nécessaire à
+l’exécution de la présente loi et de la LSE.
+2bis
+
+86. Loi du 1er juillet 1966 sur les épizooties201
+Art. 54a, al. 3
+Dans le cadre de leurs tâches légales, les autorités d’exécution peuvent traiter des
+données sensibles et des profils d’exploitation.
+3
+
+87. Loi du 20 juin 1986 sur la chasse202
+Art. 22, al. 3, 1re et 2e phrases
+Il peut conserver ces données personnelles. À l’échéance du retrait de l’autorisation, il les efface et détruit les décisions cantonales correspondantes. ...
+3
+
+199
+200
+201
+202
+
+RS 837.0
+RS 823.11
+RS 916.40
+RS 922.0
+
+7477
+
+Protection des données. LF
+
+FF 2020
+
+88. Loi fédérale du 12 juin 2009 sur la sécurité des produits203
+Art. 13, al. 1
+Les organes d’exécution sont habilités à traiter des données personnelles, y compris les informations concernant les poursuites et les sanctions administratives et
+pénales.
+1
+
+89. Loi fédérale du 21 mars 2014 sur les produits de construction 204
+Art. 32, al. 2
+Les organes de surveillance sont habilités à traiter des données personnelles, y
+compris les données relatives aux poursuites et sanctions administratives ou pénales.
+Ils saisissent ces données dans la banque de données centrale relative à l’exécution
+de la surveillance du marché.
+2
+
+90. Loi fédérale du 29 septembre 2017 sur les jeux d’argent 205
+Art. 65, al. 2 et 2bis
+Si elle a des motifs suffisants de soupçonner une manipulation de compétition
+sportive, elle peut notamment communiquer les données suivantes, y compris des
+données sensibles relatives à l’existence de procédures pénales ou administratives,
+aux exploitants et organisations:
+2
+
+a.
+
+données personnelles concernant des parieurs;
+
+b.
+
+données personnelles permettant d’évaluer le comportement des personnes
+concernées en matière de paris sportifs.
+
+2bis
+
+Si le soupçon s’avère infondé, les données doivent être immédiatement effacées.
+
+Art. 101, al. 1
+Pour l’accomplissement de ses tâches légales, la CFMJ peut traiter des données
+personnelles, y compris des données sensibles relatives à la santé, aux mesures
+d’aide sociale, aux poursuites ou sanctions pénales et administratives, ainsi que des
+données personnelles permettant d’évaluer l’activité d’exploitants de jeux illégaux.
+1
+
+Art. 110
+
+Traitement des données
+
+Pour l’accomplissement de ses tâches légales, l’autorité intercantonale peut traiter
+des données personnelles, y compris des données sensibles relatives à la santé, aux
+203
+204
+205
+
+RS 930.11
+RS 933.0
+RS 935.51
+
+7478
+
+Protection des données. LF
+
+FF 2020
+
+mesures d’aide sociale, aux poursuites ou sanctions pénales et administratives, ainsi
+que des données personnelles permettant d’évaluer l’activité d’exploitants de jeux
+illégaux.
+
+91. Loi du 18 mars 2011 sur les professions de la psychologie206
+Art. 40, al. 1
+Le registre contient les données nécessaires à la poursuite des buts fixés. Les
+données sensibles au sens de l’art. 5, let. c, de la loi fédérale du 25 septembre 2020
+sur la protection des données207 en font partie.
+1
+
+92. Loi fédérale du 27 septembre 2019 sur les services d’identification
+électronique208
+Art. 16, al. 2, 2e phrase
+... Le traitement de données par un sous-traitant au sens de l’art. 9 de la loi fédérale
+du 25 septembre 2020 sur la protection des données209 est réservé.
+2
+
+Art. 30, al. 2
+Dans le cadre de l’accomplissement de ses tâches légales, elle peut traiter des
+données personnelles, y compris des données sensibles concernant des poursuites et
+sanctions pénales.
+2
+
+93. Loi fédérale du 6 octobre 1995 sur les entraves techniques au
+commerce210
+Art. 20b, al. 1
+Les organes d’exécution sont habilités à traiter des données personnelles, y compris les informations concernant les poursuites et les sanctions administratives et
+pénales.
+1
+
+206
+207
+208
+209
+210
+
+RS 935.81
+RS 235.1
+FF 2019 6227
+RS 235.1
+RS 946.51
+
+7479
+
+Protection des données. LF
+
+FF 2020
+
+94. Loi du 3 octobre 2003 sur la Banque nationale211
+Art. 14, al. 3
+L’administration fédérale des contributions fournit à la Banque nationale, pour que
+celle-ci accomplisse ses tâches statistiques, les bases et les résultats de ses travaux
+statistiques dans le domaine de la TVA et, au besoin, des données concernant la
+TVA provenant de ses dossiers et relevés. La Banque nationale ne peut pas transmettre ces données, nonobstant les art. 16, al. 4 et 4bis, 50a et 50b de la présente loi
+et l’art. 39 de la loi fédérale du 25 septembre 2020 sur la protection des données
+(LPD)212.
+3
+
+Art. 16, al. 4bis et 5
+La Banque nationale est autorisée, à des fins statistiques, à communiquer les
+données collectées sous une forme non agrégée à l’office fédéral de la statistique. Ce
+dernier n’est pas autorisé à transmettre ces données sans le consentement de la
+Banque nationale, nonobstant l’art. 39 LPD213.
+4bis
+
+5 Au surplus, les données concernant les personnes physiques sont régies par la LPD.
+
+Titre précédant l’art. 49
+
+Section 6
+Obligation de garder le secret, traitement de données personnelles et
+de données concernant des personnes morales, échange d’informations
+et responsabilité
+Art. 49a
+
+Traitements de données personnelles et de données concernant
+des personnes morales
+
+La Banque nationale peut traiter des données personnelles, y compris des données
+sensibles, ainsi que des données concernant des personnes morales pour l’accomplissement de ses tâches légales.
+
+95. Loi du 10 octobre 1997 sur le blanchiment d’argent 214
+Art. 29, al. 2, 2e phrase
+... Ces données comprennent notamment des informations financières ainsi que
+d’autres données sensibles collectées dans des procédures pénales, pénales administratives ou administratives, y compris dans des procédures pendantes.
+2
+
+211
+212
+213
+214
+
+RS 951.11
+RS 235.1
+RS 235.1
+RS 955.0
+
+7480
+
+Protection des données. LF
+
+Art. 33
+
+FF 2020
+
+Principes
+
+Le traitement des données personnelles est régi par la loi fédérale du 25 septembre
+2020 sur la protection des données215.
+Art. 34, titre et al. 1 à 3
+Dossiers et banques de données en rapport avec l’obligation
+de communiquer
+Les intermédiaires financiers gèrent des dossiers ou des banques de données séparés contenant tous les documents se rapportant aux communications.
+1
+
+Ils ne peuvent transmettre des données de ces dossiers et de ces banques de données qu’à la FINMA, à la CFMJ, à l’autorité intercantonale de surveillance et
+d’exécution visée à l’art. 105 LJAr216, à l’organisme de surveillance, aux organismes
+d’autorégulation, au bureau de communication et aux autorités de poursuite pénale.
+2
+
+Les personnes concernées n’ont pas de droit d’accès au sens de l’art. 25 de la loi
+fédérale du 25 septembre 2020 sur la protection des données217, d’une part, entre le
+moment où des informations sont communiquées en vertu de l’art. 9, al. 1, de la
+présente loi ou en vertu de l’art. 305ter, al. 2, CP218, et celui où le bureau de communication informe l’intermédiaire financier conformément à l’art. 23, al. 5 ou 6,
+d’autre part, tant que dure le blocage des avoirs prévu à l’art. 10.
+3
+
+96. Loi du 22 juin 2007 sur la surveillance des marchés financiers 219
+Art. 13a, al. 1, phrases introductives et let. a et a bis, et 2, phrase introductive
+La FINMA traite sur papier ou dans un ou plusieurs systèmes d’information les
+données de son personnel et de candidats à un poste qui sont nécessaires à
+l’accomplissement des tâches relevant de la présente loi. Elle peut confier le traitement de ces données à un sous-traitant. Les données personnelles traitées concernent
+notamment:
+1
+
+a.
+
+les procédures de recrutement;
+
+abis. la création, l’exécution et la fin des rapports de travail;
+Elle peut traiter les données de son personnel nécessaires à l’exécution des tâches
+visées à l’al. 1, y compris les données sensibles, à savoir:
+2
+
+215
+216
+217
+218
+219
+
+RS 235.1
+RS 935.51
+RS 235.1
+RS 311.0
+RS 956.1
+
+7481
+
+Protection des données. LF
+
+Art. 23
+
+FF 2020
+
+Traitement de données
+
+Dans le cadre de la surveillance prévue par la présente loi et les lois sur les marchés financiers, la FINMA peut traiter ou faire traiter des données personnelles, y
+compris des données sensibles.
+1
+
+2
+
+Elle peut le faire en particulier pour:
+a.
+
+le contrôle de l’assujetti;
+
+b.
+
+la surveillance;
+
+c.
+
+la conduite de procédures;
+
+d.
+
+l’évaluation des garanties d’une activité irréprochable;
+
+e.
+
+l’évaluation du comportement d’une personne qui exerce une activité pour
+l’assujetti ou sur le marché financier;
+
+f.
+
+l’entraide administrative et judiciaire nationale et internationale.
+
+Elle est habilitée à faire du profilage, y compris du profilage à risque élevé, au sens
+de la loi fédérale du 25 septembre 2020 sur la protection des données 220 pour
+l’évaluation du comportement d’une personne selon l’al. 2, let. e.
+3
+
+4
+
+Elle règle les modalités.
+
+Insérer avant le titre du chapitre 3
+Art. 23a
+
+Registre public
+
+La FINMA tient un registre des assujettis. Ce registre est accessible au public sous
+forme électronique.
+
+97. Loi fédérale du 19 mars 1976 sur la coopération au développement
+et l’aide humanitaire internationales221
+Art. 13a, al. 1, phrase introductive et let. g
+L’unité administrative compétente peut notamment traiter, s’agissant des personnes
+chargées d’appliquer des mesures ou concernées par des mesures prises en vertu de
+la présente loi, les données suivantes:
+1
+
+g.
+
+220
+221
+
+abrogée
+
+RS 235.1
+RS 974.0
+
+7482
+
+Protection des données. LF
+
+FF 2020
+
+98. Loi fédérale du 30 septembre 2016 sur la coopération avec
+les États d’Europe de l’Est222
+Art. 15, al. 2, phrase introductive
+II peut traiter les données suivantes relatives au personnel, y compris les données
+sensibles, si elles sont nécessaires à l’exécution des tâches mentionnées à l’al. 1:
+2
+
+222
+
+RS 974.1
+
+7483
+
+Protection des données. LF
+
+FF 2020
+
+Annexe 2
+(art. 73)
+
+Coordination avec d’autres actes
+1. Arrêté fédéral du 13 juin 2008 concernant l’approbation et
+la mise en œuvre des conventions relatives à la responsabilité civile
+dans le domaine de l’énergie nucléaire
+Quel que soit l’ordre dans lequel la présente modification de la loi fédérale du 18
+décembre 1987 sur le droit international privé (LDIP)223 (annexe 1, ch. II/25) ou la
+modification de la LDIP dans le cadre de l’arrêté fédéral du 13 juin 2008 concernant l’approbation et la mise en œuvre des conventions relatives à la responsabilité
+civile dans le domaine de l’énergie nucléaire (annexe, ch. II/3, de la loi fédérale du
+13 juin 2008 sur la responsabilité civile en matière nucléaire)224 entrent en vigueur,
+à l’entrée en vigueur du dernier des deux actes ou à leur entrée en vigueur simultanée, les dispositions ci-après de la LDIP ont la teneur suivante:
+Art. 130, al. 3
+Les règles de compétence prévues à l’al. 2 s’appliquent par analogie aux actions qui ne relèvent pas de la Convention de Paris. Dans
+un tel cas, si ni le lieu de l’accident ni l’installation nucléaire ne se
+situent en Suisse, l’action peut également être intentée dans le canton
+sur le territoire duquel le dommage est survenu. Si des dommages se
+sont produits dans différents cantons, le plus affecté par les conséquences de l’accident est compétent.
+3
+
+Art. 130a
+b. Droit d’accès ou
+de consultation par
+rapport à un traitement de données
+personnelles
+
+Les actions en exécution du droit d’accès ou de consultation par
+rapport à un traitement de données personnelles peuvent être intentées devant les tribunaux mentionnés à l’art. 129.
+
+2. Loi du 17 juin 2016 sur le casier judiciaire
+1. À l’entrée en vigueur de la présente loi, les dispositions ci-après de la loi fédérale
+du 17 juin 2016 sur le casier judiciaire (LCJ)225 ont la teneur suivante:
+Art. 3, al. 1
+1
+
+L’Office fédéral de la justice est l’organe fédéral responsable de VOSTRA.
+
+223
+224
+225
+
+RS 291
+FF 2008 4843
+FF 2016 4703
+
+7484
+
+Protection des données. LF
+
+FF 2020
+
+Art. 12, al. 2
+Les données pénales de VOSTRA ne peuvent pas être conservées dans une autre
+banque de données, à moins que cela ne soit nécessaire pour motiver une décision
+prise, une ordonnance rendue ou une étape de procédure engagée.
+2
+
+Art. 25, al. 1
+Lorsqu’une autorité consulte en ligne les données pénales du casier judiciaire, le
+nom de cette autorité, la date et l’heure de la consultation, son but, les données
+pénales consultées et les personnes auxquelles elles se rapportent sont automatiquement journalisés dans VOSTRA.
+1
+
+2. À l’entrée en vigueur de la LCJ226, les dispositions ci-après du code pénal
+(annexe 1, ch. II/26, de la présente loi) ont la teneur suivante:
+Art. 365, al. 1, 1re phrase, et 367, al. 3
+Sans objet ou abrogés
+
+3. Loi fédérale du 20 décembre 2019 sur la protection de la population
+et sur la protection civile
+À l’entrée en vigueur de la présente loi, la disposition ci-après de la loi fédérale du
+20 décembre 2019 sur la protection de la population et sur la protection civile227 a
+la teneur suivante:
+Art. 93, al. 1, 2e phrase introductive et let. b, et 2, 2e phrase introductive et let. b
+1
+
+... Il peut traiter les données suivantes:
+b.
+
+2
+
+les données personnelles qui permettent de déterminer l’affectation à une
+fonction de base ou le potentiel de cadre.
+
+... Il peut traiter à cette fin les données suivantes:
+b.
+
+226
+227
+
+les données personnelles permettant de déterminer le potentiel de cadre ou
+de spécialiste.
+
+FF 2016 4703
+FF 2019 8215
+
+7485
+
+Protection des données. LF
+
+FF 2020
+
+4. Modification du 19 juin 2020 de la loi du 25 juin 1982 sur
+l’assurance-chômage
+1. Quel que soit l’ordre dans lequel la présente modification de la loi fédérale du 6
+octobre 1989 sur le service de l’emploi et la location de services (LES)228 (annexe 1,
+ch. II/79) ou la modification de la LSE dans le cadre de la modification du 19 juin
+2020 de la loi du 25 juin 1982 sur l’assurance-chômage (annexe, ch. 1)229 entrent en
+vigueur, à l’entrée en vigueur du dernier des deux actes ou à leur entrée en vigueur
+simultanée, la disposition ci-après de la LSE a la teneur suivante:
+Art. 35, al. 2, 3bis et 5, let. d
+Des données personnelles, y compris des données sensibles au sens de l’art. 33a,
+al. 2, peuvent être traitées dans le système d’information visé à l’al. 1, let. a.
+2
+
+L’échange de données personnelles, y compris de données sensibles, entre les
+systèmes d’information du service public de l’emploi et ceux de l’assurancechômage est autorisé dans la mesure où il est nécessaire à l’exécution de la présente
+loi et de la LACI.
+3bis
+
+5
+
+Le Conseil fédéral règle:
+d.
+
+l’étendue des droits d’accès et de traitement de données personnelles, y
+compris des données sensibles, octroyés aux personnes, aux services et aux
+organes mentionnés aux al. 3 et 3ter;
+
+2. Quel que soit l’ordre dans lequel la présente modification de la loi du 25 juin
+1982 sur l’assurance-chômage (LACI)230 (annexe 1, ch. II/85) ou la modification du
+19 juin 2020 de la LACI (ch. I)231 entrent en vigueur, à l’entrée en vigueur du dernier des deux actes ou à leur entrée en vigueur simultanée, la disposition ci-après de
+la LACI a la teneur suivante:
+Art. 96c, al. 2 et 2bis
+2
+
+Abrogé
+
+L’échange de données personnelles, y compris de données sensibles, entre les
+systèmes d’information de l’assurance-chômage (art. 83, al. 1bis) et ceux du service
+public de l’emploi (art. 35 LSE) est autorisé dans la mesure où il est nécessaire à
+l’exécution de la présente loi et de la LSE.
+2bis
+
+228
+229
+230
+231
+
+RS 823.11
+FF 2020 5517
+RS 837.0
+FF 2020 5517
+
+7486
+
+Protection des données. LF
+
+FF 2020
+
+5. Modification du 21 juin 2019 de la loi fédérale du 6 octobre 2000 sur
+la partie générale du droit des assurances sociales
+Quel que soit l’ordre dans lequel la présente modification de la loi fédérale du 20
+décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)232 (annexe 1, ch.
+II/80) ou la modification de la LAVS dans le cadre de la modification du 21 juin
+2019 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (annexe, ch. 1)233 entrent en vigueur, à l’entrée en vigueur du dernier des deux actes ou à leur entrée en vigueur simultanée, les dispositions ci-après
+de la LAVS ont la teneur suivante:
+Art. 49a
+
+Systèmes d’information
+
+Le Conseil fédéral peut obliger les organes d’exécution à utiliser des systèmes
+d’information développés, après consultation des organes concernés, en vue de
+l’exécution des tâches définies à l’annexe II de l’Accord du 21 juin 1999 entre la
+Confédération suisse, d’une part, et la Communauté européenne et ses États
+membres, d’autre part, sur la libre circulation des personnes9234 (accord sur la libre
+circulation des personnes) et d’autres conventions internationales en matière de
+sécurité sociale.
+Art. 49b
+
+Traitement de données personnelles
+
+Les organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller
+l’exécution sont habilités à traiter ou à faire traiter les données personnelles, y compris
+les données sensibles, qui leur sont nécessaires pour accomplir les tâches qui leur sont
+assignées par la présente loi ou en vertu d’accords internationaux, notamment pour:
+1
+
+a.
+
+calculer et percevoir les cotisations;
+
+b.
+
+établir le droit aux prestations, les calculer, les allouer et les coordonner avec
+celles d’autres assurances sociales;
+
+c.
+
+établir le droit à des subventions, les calculer, les verser et en contrôler
+l’usage;
+
+d.
+
+faire valoir une prétention récursoire contre le tiers responsable;
+
+e.
+
+surveiller l’exécution de la présente loi;
+
+f.
+
+établir des statistiques;
+
+g.
+
+attribuer ou vérifier le numéro d’assuré AVS (numéro AVS).
+
+Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des
+données personnelles, notamment des données permettant d’évaluer la santé, la gravité
+de l’affection physique ou psychique, les besoins et la situation économique de la
+personne concernée.
+2
+
+232
+233
+234
+
+RS 831.10
+FF 2019 4299
+RS 0.142.112.681
+
+7487
+
+Protection des données. LF
+
+FF 2020
+
+6. Modification du 19 juin 2020 de la loi du 1 er juillet 1966
+sur les épizooties
+Quel que soit l’ordre dans lequel la présente modification de la loi du 1er juillet
+1966 sur les épizooties (LFE)235 (annexe 1, ch. II/86) ou la modification du 19 juin
+2020 de la LFE (ch. 1)236 entrent en vigueur, à l’entrée en vigueur du dernier des
+deux actes ou à leur entrée en vigueur simultanée, la disposition ci-après de la LFE
+a la teneur suivante:
+Art. 54a
+Abrogé
+
+235
+236
+
+RS 916.40
+FF 2020 5401
+
+7488
+
+

@@ -1,0 +1,2627 @@
+QU
+
+OF
+A
+
+T A F ERU
+
+NT
+
+BERMUDA
+DIGITAL ASSET BUSINESS ACT 2018
+2018 : 28
+TABLE OF CONTENTS
+PART 1
+PRELIMINARY
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Citation
+Interpretation
+Meaning of "director", "controller", "senior executive" and "associate"
+Carrying on digital asset business in Bermuda
+Authority’s statement of principles and guidance provision
+Codes of practice
+Prudential and other returns
+Authority may exempt or modify prudential standards or requirements or take
+necessary actions
+Advisory Panel
+PART 2
+LICENSING
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+
+Restriction on carrying on digital asset business without a licence
+Exemption order
+Digital asset business licence
+Grant and refusal of applications
+Determination of class of licence
+Display and registration of licence
+Fees
+Separate accounts
+Custody and protection of client assets
+Senior representative
+Senior representative to report certain events
+Head Office
+
+1
+
+DIGITAL ASSET BUSINESS ACT 2018
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+Material change to business
+Restriction of licence
+Revocation of licence
+Winding up on petition from the Authority
+Notice of restriction or revocation of licence
+Restriction in cases of urgency
+Directions to protect interests of clients
+Notification and confirmation of directions
+Surrender of licence
+PART 3
+AUDITED ACCOUNTS
+
+31
+32
+33
+
+Duty to prepare annual audited financial statements and accounts
+Appointment of auditors
+Auditor to communicate certain matters to Authority
+PART 4
+OBJECTIONS TO SHAREHOLDER CONTROLLERS
+
+34
+35
+36
+37
+38
+
+Notification of new or increased control
+Objection to new or increased control
+Objection to existing controller
+Contraventions by controller
+Restriction on sale of shares
+PART 5
+DISCIPLINARY MEASURES
+
+39
+40
+41
+42
+43
+44
+45
+46
+47
+
+Power to impose civil penalties for breach of requirements
+Civil penalties procedures
+Public censure
+Public censure procedure
+Prohibition orders
+Prohibition orders: procedures
+Applications relating to prohibition orders: procedures
+Determination of applications for variation, etc.
+Injunctions
+PART 6
+RIGHTS OF APPEAL
+
+48
+49
+50
+51
+52
+
+Rights of appeal
+Constitution of tribunals
+Determination of appeals
+Costs, procedure and evidence
+Further appeals on a point of law
+PART 7
+NOTICES AND INFORMATION
+
+53
+
+Warning notices
+
+2
+
+DIGITAL ASSET BUSINESS ACT 2018
+54
+55
+56
+57
+58
+59
+60
+
+Decision notices
+Notices of discontinuance
+Publication
+Notification of change of controller or officer
+Power to obtain information and reports
+General power to require production of documents
+Right of entry to obtain information and documents
+PART 8
+INVESTIGATIONS
+
+61
+62
+63
+64
+65
+
+Investigations on behalf of the Authority
+Investigations of suspected contraventions
+Power to require production of documents during investigation
+Powers of entry
+Obstruction of investigations
+PART 9
+CERTIFICATE OF COMPLIANCE
+
+66
+
+Certificates of compliance
+PART 10
+RESTRICTION ON DISCLOSURE OF INFORMATION
+
+67
+68
+69
+70
+
+Restricted information
+Disclosure for facilitating the discharge of functions of the Authority
+Disclosure for facilitating the discharge of functions by other authorities
+Information supplied to the Authority by relevant overseas authority
+PART 11
+MISCELLANEOUS AND SUPPLEMENTAL
+
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+
+Access to and maintenance of client transaction records
+False documents or information
+Offences
+Prohibition on use of words "digital asset business"
+Notices
+Service of notice on Authority
+Civil debt and civil penalties
+Regulations
+Transitional
+Consequential amendments
+Commencement
+SCHEDULE 1
+Minimum Criteria for Licensing
+SCHEDULE 2
+Consequential Amendments
+
+3
+
+DIGITAL ASSET BUSINESS ACT 2018
+WHEREAS it is expedient to make provision for the Bermuda Monetary Authority
+to regulate persons carrying on digital asset business and for the protection of the interests
+of clients or potential clients of persons carrying on digital asset business; and for purposes
+connected with those matters:
+Be it enacted by The Queen’s Most Excellent Majesty, by and with the advice and
+consent of the Senate and the House of Assembly of Bermuda, and by the authority of the
+same, as follows:
+PART 1
+PRELIMINARY
+Citation
+1
+This Act may be cited as the Digital Asset Business Act 2018.
+Interpretation
+2
+(1) In this Act, unless the context requires otherwise—
+“Authority” means the Bermuda Monetary Authority established under the
+Bermuda Monetary Authority Act 1969;
+“code of practice” means a code of practice issued by the Authority pursuant to
+section 6;
+“company” means a body corporate wherever incorporated;
+“controller” has the meaning given in section 3(3);
+“Court” means the Supreme Court;
+“custodial wallet provider” means provision of the services of storing or maintaining
+digital assets or a virtual wallet on behalf of a client;
+“cyber reporting event” means any act that results in unauthorized access to,
+disruption, or misuse of the electronic systems or information stored on such
+systems of a licensed undertaking including any breach of security leading to
+the loss or unlawful destruction or unauthorized disclosure of or access to such
+systems or information;
+“cyber security event” means any act or attempt, successful or unsuccessful, to
+gain unauthorized access to, disrupt, or misuse the electronic systems or
+information stored on such systems of a licensing undertaking;
+“decision notice” means a notice prepared in accordance with section 54;
+“digital asset” means anything that exists in binary format and comes with the right
+to use it and includes a digital representation of value that—
+(a) is used as a medium of exchange, unit of account, or store of value and is
+not legal tender, whether or not denominated in legal tender;
+
+4
+
+DIGITAL ASSET BUSINESS ACT 2018
+(b) is intended to represent assets such as debt or equity in the promoter;
+(c) is otherwise intended to represent any assets or rights associated with
+such assets; or
+(d) is intended to provide access to an application or service or product by
+means of distributed ledger technology;
+but does not include—
+(e) a transaction in which a person grants value as part of an affinity or
+rewards program, which value cannot be taken from or exchanged with the
+person for legal tender, bank credit or any digital asset; or
+(f) a digital representation of value issued by or on behalf of the publisher and
+used within an online game, game platform, or family of games sold by the
+same publisher or offered on the same game platform;
+“digital asset business” has the meaning given in subsection (2);
+“digital asset services vendor” means a person that—
+(a) under an agreement as part of its business—
+(i) can undertake a digital asset transaction on behalf of another person;
+(ii) has power of attorney over another person’s digital asset;
+(b) operates as a market maker for digital assets;
+“director” has the meaning given in section 3(2);
+“distributed ledger technology” means a database system in which—
+(a) information is recorded and consensually shared and synchronised across
+a network or multiple nodes; and
+(b) all copies of the database are regarded as equally authentic;
+“documents” includes information recorded in any form; and in relation to
+information recorded otherwise than in legible form, references to its
+production include references to producing a copy of the information in legible
+form;
+“exchange” means to assume control of digital assets from or on behalf of a client,
+to sell, trade, or convert—
+(a) digital assets for fiat currency, bank credit or one or more forms of digital
+assets; or
+(b) fiat currency or bank credit for one or more forms of digital assets;
+“financial statements” means the statements specified in subsection (1)(a), and the
+notes mentioned in subsection (1A), of section 84 of the Companies Act 1981
+in relation to a licensed undertaking that is a company;
+
+5
+
+DIGITAL ASSET BUSINESS ACT 2018
+“financial year” means the period not exceeding 53 weeks at the end of which the
+balance of an undertaking’s accounts is struck or, if no such balance is struck
+or a period of more than 53 weeks is employed for that purpose, then calendar
+year;
+“fiat currency” means currency issued by the relevant body in a country or by a
+government that is designated as legal tender in its country of issuance through
+amongst other things, government decree, regulation, or law;
+“fit and proper person” has the meaning assigned to the term in Schedule 1;
+“licence” means a licence issued by the Authority under section 13 and "licensee"
+and "licensed" shall be construed accordingly;
+“market maker” means a person conducting the business of trading in digital assets
+including, but not limited to, quoting buy and sell prices in furtherance of profit
+or gain on the bid offer spread;
+“minimum criteria” means the minimum criteria for licensing specified in Schedule
+1;
+“Minister” means the Minister of Finance;
+“officer” in relation to a licensed undertaking, includes a director, secretary, chief
+executive or senior executive of the licensed undertaking by whatever name
+called;
+“qualified custodian” means—
+(a) a bank (as such term is defined under the Bank and Deposit Companies
+Act 1999);
+(b) an undertaking licensed under the Trusts (Regulation of Trust Business)
+Act 2001; or
+(c) any other person recognized by the Authority for such purpose;
+“senior executive” has the meaning given in section 3(6);
+“share” has the meaning given in section 2 of the Companies Act 1981;
+“shareholder controller” has the meaning given in section 3(4);
+“subsidiary” has the meaning given in section 86 of the Companies Act 1981;
+“transfer” means to assume control of digital assets from or on behalf of a client for
+the purposes of—
+(a) crediting the digital assets to the account of another person;
+(b) moving the digital assets from one account of a client to another account
+of the same client;
+(c) relinquishing control of digital assets to another person;
+“undertaking” means a company;
+
+6
+
+DIGITAL ASSET BUSINESS ACT 2018
+“wallet” means a software program that stores private and public keys and interacts
+with distributed ledger technology to enable users to send, receive and monitor
+their digital assets;
+“warning notice” means a notice prepared in accordance with section 53.
+(2) Subject to section 4(5), in this Act, “digital asset business” means the business
+of providing any or all of the following digital asset business activities to the general
+public—
+(a) issuing, selling or redeeming virtual coins, tokens or any other form of
+digital asset;
+(b) operating as a payment service provider business utilising digital assets
+which includes the provision of services for the transfer of funds;
+(c) operating as an electronic exchange;
+(d) providing custodial wallet services;
+(e) operating as a digital asset services vendor.
+(3) The Minister may, after consultation with the Authority, by order amend
+subsection (2) by adding new provisions, or by amending, suspending or deleting any of the
+digital asset activities set out thereunder.
+(4) An order made under this section is subject to the negative resolution
+procedure.
+Meaning of "director", "controller", "senior executive" and "associate"
+3
+(1) In this Act, “director”, “controller”, “senior executive” and “associate” shall be
+construed in accordance with this section.
+(2) “Director”, in relation to an undertaking, includes an alternate director and any
+person who occupies the position of director, by whatever name called.
+(3) “Controller”, in relation to an undertaking, means—
+(a) a managing director of the undertaking or of another company of which the
+undertaking is a subsidiary;
+(b) a chief executive of the undertaking or of another company of which the
+undertaking is a subsidiary;
+(c) a person who satisfies the requirements of subsection (4);
+(d) a person in accordance with whose directions or instructions the directors
+of the undertaking or of another company of which the undertaking is a
+subsidiary or persons who are controllers of the undertaking by virtue of
+paragraph (c) (or any of them) are accustomed to act.
+(4) For the purpose of subsection (3)(c), a person is a shareholder controller in
+relation to an undertaking if, either alone or with any associate or associates—
+
+7
+
+DIGITAL ASSET BUSINESS ACT 2018
+(a) he holds 10% or more of the shares in the undertaking or another company
+of which it is a subsidiary company;
+(b) he is entitled to exercise or control the exercise of 10% or more of the voting
+power at any general meeting of the undertaking or another company of
+which it is such a subsidiary; or
+(c) he is able to exercise a significant influence over the management of the
+undertaking or another company of which the undertaking is such a
+subsidiary by virtue of—
+(i) a holding of shares in it; or
+(ii) an entitlement to exercise, or control the exercise of, the voting power
+at any general meeting of the undertaking, or as the case may be, the
+other company concerned.
+(5) In this Act, "majority shareholder controller" means a shareholder controller in
+whose case the percentage referred to in subsection 4(a) or (b) is 50 or more.
+(6) “Senior executive”, in relation to an undertaking, means a person (other than
+a chief executive) who, under the immediate authority of a director or chief executive of the
+undertaking—
+(a) exercises managerial functions; or
+(b) is responsible for maintaining accounts or other records of the
+undertaking.
+(7) In this section, “chief executive” in relation to an undertaking means a person
+who, either alone or jointly with one or more persons, is responsible under the immediate
+authority of the directors for the conduct of the business of the undertaking.
+(8) In this Act, “associate” in relation to a person entitled to exercise or control the
+exercise of voting power in a company, or in relation to a person holding shares in a
+company, means—
+(a) if that person is an individual—
+(i) the spouse, child, step-child or parent of that person;
+(ii) the trustees of any settlement under which that person has a life
+interest in possession;
+(iii) any company of which that person is a director;
+(iv) any person who is an employee or partner of that person;
+(b) if that person is a company—
+(i) any director of that company;
+(ii) any subsidiary of that company;
+(iii) any director or employee of any such subsidiary company;
+
+8
+
+DIGITAL ASSET BUSINESS ACT 2018
+(c) if that person has with any other person an agreement or arrangement with
+respect to the acquisition, holding or disposal of shares or other interests
+in that company or under which they undertake to act together in
+exercising their voting power in relation to it, that other person.
+(9) For the purpose of subsection (8), “settlement” includes any disposition or
+arrangement under which property is held in trust.
+Carrying on digital asset business in Bermuda
+4
+(1) For the purposes of this Act and subject to section 11, a person carries on
+digital asset business in Bermuda if—
+(a) it is incorporated or formed in Bermuda and carries on any digital asset
+activity set out under section 2(2); or
+(b) is incorporated or formed outside of Bermuda and carries on any digital
+asset business activity set out under section 2(2) in or from within
+Bermuda.
+(2) Notwithstanding subsection (1), a person shall be regarded as carrying on
+digital asset business in or from within Bermuda where such person has been specifically
+regarded for such purposes in accordance with an order made by the Minister under
+subsection (3).
+(3) The Minister, acting on the advice of the Authority, may make an order
+specifying the circumstances in which a person is to be regarded for the purpose of this
+section as—
+(a) carrying on digital asset business in Bermuda;
+(b) not carrying on digital asset business in Bermuda.
+(4) An order made under this section is subject to the negative resolution
+procedure.
+(5) This Act shall not apply to any entity owned by the Bermuda Government.
+Authority’s statement of principles and guidance provision
+5
+(1) The Authority shall, as soon as practicable after the coming into force of this
+Act, publish in such manner as it thinks fit a statement of principles in accordance with
+which it is acting or proposing to act—
+(a) in interpreting the minimum criteria and the grounds for revocation
+specified in section 24;
+(b) in exercising its power to grant, revoke or restrict a licence;
+(c) in exercising its power to obtain information and reports and to require
+production of documents;
+(d) in exercising its powers—
+(i) under section 39 to impose a civil penalty;
+
+9
+
+DIGITAL ASSET BUSINESS ACT 2018
+(ii) under section 41 to censure publicly;
+(iii) under section 43 to make a prohibition order; and
+(iv) under section 56 to publish information about any matter to which a
+decision notice relates.
+(2) If the Authority makes a material change to the principles, it shall publish a
+statement of the change or the revised statement of principles in the same manner as it
+published the statement under subsection (1).
+(3) The Authority may from time to time give guidance on the application of this
+Act and rules or regulations made under it.
+(4) The Authority may publish such guidance (which may be in the form of
+information and advice) in such manner as it thinks fit, including guidance in respect of
+access to, and maintenance of, client transaction records.
+Codes of practice
+6
+(1) The Authority may issue codes of practice in connection with the manner by
+which licensed undertakings shall carry on digital asset business.
+(2) Without prejudice to the generality of subsection (1), the Authority may issue
+codes of practice for the purpose of providing guidance as to the duties, requirements and
+standards to be complied with, and the procedures (whether as to identification, record
+keeping, internal reporting and training or otherwise) and sound principles to be observed
+by persons carrying on digital asset business.
+(3) Before issuing a code of practice, the Authority shall publish a draft of that
+Code in such manner as it thinks fit and shall consider any representations made to it about
+the draft.
+(4) Every licensed undertaking shall in the conduct of its business have regard to
+any code of practice issued by the Authority.
+(5) A failure on the part of a licensed undertaking to comply with the provisions of
+such a code shall be taken into account by the Authority in determining whether the
+business is being conducted in a prudent manner as required by paragraph 2 of Schedule
+1 (Minimum Criteria for Licensing).
+Prudential and other returns
+7
+(1) The Authority may make Rules prescribing prudential standards in relation
+to—
+(a) disclosures to clients;
+(b) risk management;
+(c) custody of client assets;
+(d) cybersecurity;
+(e) financial statements;
+
+10
+
+DIGITAL ASSET BUSINESS ACT 2018
+(f) statutory returns,
+which shall be complied with by all licensed undertakings.
+(2) The Authority may in such Rules or statutory returns prescribe standards that
+impose different requirements to be complied with by licensed undertakings in different
+situations or in respect of different activities.
+(3) Audited financial statements and accounts shall be in a prescribed form and
+different forms of return may be prescribed for undertakings holding different classes of
+licence.
+(4) Not later than four months after the close of its financial year every licensed
+undertaking shall file with the Authority any information or documents required in relation
+to any applicable Rule or statutory return required to be prepared by it under this section.
+(5) Every licensed undertaking shall keep a copy of the most recent Rule or return
+filed with the Authority at its head office for a period of not less than five years beginning
+with its filing date under subsection (4).
+(6) Every licensed undertaking that fails to file audited financial statements,
+accounts, any information or documents required in relation to a Rule or statutory return
+within the time specified in subsection (4) is liable to a civil penalty not exceeding $5,000
+for each week or part of a week that it is in default.
+Authority may exempt or modify prudential standards or requirements or take
+necessary actions
+8
+(1) The Authority may, where it has made a determination or on the application of
+a licensed undertaking, exempt it from the requirement to comply with any prudential
+standard or requirement applicable to it under this Act or modify any such prudential
+standard or requirement.
+(2) In granting an exemption or modification under this section the Authority may
+impose such conditions on the exemption or modification as it considers appropriate.
+(3) The Authority shall not grant an exemption or modification unless it is satisfied
+that it is appropriate to do so having regard to the nature, scale and complexity of the
+licensed undertaking.
+(4) The Authority may revoke an exemption or vary any modification granted under
+this section and shall serve notice on the licensed undertaking of its proposal to revoke its
+approval and the reason for its proposal.
+(5) A licensed undertaking served with a notice under subsection (4) may within a
+period of 28 days from the date of the notice make written representations to the Authority
+and where such representations have been made, the Authority shall take them into
+account in deciding whether to revoke its approval.
+(6) Without prejudice to its powers under subsection (1), the Authority where it
+has made a determination, may take any action necessary or desirable to protect the public,
+clients or potential clients of the licensed undertaking where the Authority concludes that
+due to the nature, scale and complexity and risk profile of the licensed undertaking, such
+
+11
+
+DIGITAL ASSET BUSINESS ACT 2018
+action is necessary and in the interest of the public or is required to be taken for the
+protection of clients or potential clients.
+(7) Before taking any such action under subsection (6), the Authority shall serve
+notice on the licensed undertaking giving its reasons therefor.
+(8) A licensed undertaking served with a notice under subsection (7) may, within
+a period of 28 days from the date of the notice, make written representations to the
+Authority; and where such representations are made, the Authority shall take them into
+account in deciding whether to take the proposed action.
+(9) The Authority shall notify a licensed undertaking of any actions it has taken.
+Advisory Panel
+9
+(1) The Authority may appoint a panel to advise it in relation to the effect of digital
+asset business on—
+(a) persons licensed or registered under the Insurance Act 1978, Banks and
+Deposit Companies Act 1999, Trusts (Regulation of Trust Business) Act
+2001, Investment Business Act 2003, Investment Funds Act 2006, Credit
+Unions Act 2010, Corporate Service Business Provider Act 2012 and
+Money Service Business Act 2016;
+(b) persons who conduct business with licensed or registered persons under
+subsection (a);
+(c) the economy of Bermuda;
+(d) digital asset business regulation.
+(2) In particular, the panel may advise the Authority about anything referred to it
+by the Authority.
+(3) The panel shall be appointed by the Authority and consist of—
+(a) one or more persons, who in the Authority’s opinion represents the
+interests of those persons under subsection (1)(a);
+(b) one or more persons, who in the Authority’s opinion have an expertise in
+law relating to the financial systems of Bermuda;
+(c) one or more persons, who in the Authority’s opinion has expertise in any
+or all of the digital asset business activities set out under section 2(2); or
+(d) one or more persons, holding such qualifications as the Authority deems
+appropriate.
+
+12
+
+DIGITAL ASSET BUSINESS ACT 2018
+PART 2
+LICENSING
+Restriction on carrying on digital asset business without a licence
+10
+(1) Subject to section 11, a person shall not carry on digital asset business in or
+from within Bermuda unless that person is for the time being a licensed undertaking in one
+of the classes specified in section 12(3).
+(2) The Authority may license an undertaking to carry on one or more of the
+following digital asset business activities for the period specified in the licence—
+(a) issuing, selling or redeeming virtual coins, tokens or any other form of
+digital assets;
+(b) operating as a payment service business utilising digital assets which
+includes the provision of services for the transfer of funds;
+(c) operating as an electronic exchange;
+(d) providing custodial wallet services;
+(e) operating as a digital assets services vendor.
+(3) A person who contravenes this section commits an offence and is liable—
+(a) on summary conviction, to a fine of $50,000 or to imprisonment for one
+year or to both such fine and imprisonment;
+(b) on conviction on indictment, to a fine of $250,000 or to imprisonment for
+five years or to both such fine and imprisonment.
+Exemption order
+11
+(1) Section 10 shall not apply to any person exempted by or under an exemption
+order issued in terms of this section.
+(2) The Minister acting on the advice of the Authority may issue an exemption
+order, which shall provide for—
+(a) a specified person;
+(b) persons falling within a specified class,
+to be exempt from the requirement of section 10.
+(3) An exemption order may provide for an exemption to have effect—
+(a) in respect of all digital asset business activities under section 2(2);
+(b) only in respect of one or more of such digital asset business activities;
+(c) in respect of specified circumstances.
+(4) An exemption order may be subject to conditions.
+
+13
+
+DIGITAL ASSET BUSINESS ACT 2018
+(5) The following activities shall not constitute digital asset business for the
+purposes of section 10(1)—
+(a) contributing connectivity software or computing power to a decentralized
+digital asset, or to a protocol governing transfer of the digital representation
+of value;
+(b) providing data storage or security services for a digital asset business, but
+is not otherwise engaged in digital asset business activity on behalf of other
+persons;
+(c) the provision of any digital asset business activity by an undertaking solely
+for the purpose of its business operations or the business operations of any
+subsidiary of it.
+(6) In subsection (3)(c), “specified” means specified by the exemption order.
+(7) An order made under this section is subject to the negative resolution
+procedure.
+Digital asset business licence
+12
+(1) An application for a digital asset business licence may be made to the
+Authority.
+(2) An application shall state the class of digital asset business licence required.
+(3) The classes of digital asset business licences referred to in subsection (2) which
+may be applied for under this Act are a—
+(a) class F licence, under which a person shall be licensed to provide any or
+all of the digital asset business activities under the definition of digital asset
+business; or
+(b) class M licence, under which a person shall be licensed to provide any or
+all of the digital asset business activities under the definition of digital asset
+business for a defined period determined by the Authority.
+(4) The Authority, where it has made a determination or on the application of a
+licensed undertaking, may extend the defined period of a class M licence for such additional
+period of time as it deems appropriate.
+(5) An application in respect of any extension to the defined period of a class M
+licence in accordance with subsection (4) shall be in such form as the Authority may direct,
+accompanied by such information as the Authority may require and the application fee of
+such amount prescribed by the Authority under the Bermuda Monetary Authority Act 1969.
+(6) An application shall be made in such manner as the Authority may direct and
+shall be accompanied by—
+(a) a business plan setting out the nature and scale of the digital asset
+business activity which is to be carried on by the applicant;
+
+14
+
+DIGITAL ASSET BUSINESS ACT 2018
+(b) particulars of the applicant’s arrangements for the management of the
+business;
+(c) policies and procedures to be adopted by the applicant to meet the
+obligations under this Act and the Proceeds of Crime (Anti-Money
+Laundering and Anti-Terrorist Financing) Regulations 2008;
+(d) such other information and documents as the Authority may reasonably
+require for the purpose of determining the application; and
+(e) an application fee which shall be an amount determined by the Authority
+commensurate to the nature, scale and complexity of the digital asset
+business to be carried on by the undertaking and as may be prescribed
+under the Bermuda Monetary Authority Act 1969.
+(7) An application may be withdrawn by notice in writing to the Authority at any
+time before it has determined the application.
+Grant and refusal of applications
+13
+(1) Subject to this section, the Authority may on an application duly made in
+accordance with section 12, and after being provided with all such information, documents
+and reports as it may reasonably require under that section, grant or refuse the application
+for a licence.
+(2) The Authority shall not grant an application unless it is satisfied that the
+minimum criteria set out in Schedule 1 are fulfilled with respect to the applicant.
+(3) A licence issued under this section may be subject to such limitations on the
+scope of the digital asset business activity or the manner of operating the digital asset
+business as the Authority may determine to be appropriate having regard to the nature and
+scale of the proposed business.
+(4) The Authority may where it has made a determination or on application made
+by a licensed undertaking, vary or remove any limitation imposed on the scope of its licence.
+(5) The Minister, acting on the advice of the Authority, may by order amend
+Schedule 1 by adding new criteria or by amending or deleting the criteria for the time being
+specified in the Schedule.
+Determination of class of licence
+14
+(1) Notwithstanding an application submitted by an undertaking under section 12,
+the Authority may determine whether an undertaking proposing to carry on digital asset
+business shall be issued a different class of licence.
+(2) The matters the Authority may take into account in its determination under
+subsection (1), are the—
+(a) interests of those clients or potential clients and of the public generally;
+and
+
+15
+
+DIGITAL ASSET BUSINESS ACT 2018
+(b) obligations the Authority is of the view should be imposed on the
+undertaking due to the nature of the digital asset business activities it
+intends to carry on.
+Display and registration of licence
+15
+(1) A licensed undertaking shall at all times keep the licence on display at its
+principal place of business in Bermuda.
+(2) The Authority shall publish on its website a list of every licensed undertaking
+and the class of licence issued to it.
+Fees
+16
+(1) A licensed undertaking shall pay such fee as may be determined by the
+Authority and prescribed under the Bermuda Monetary Authority Act 1969—
+(a) on the grant of a licence under section 13;
+(b) annually, before 31 March in every year following the year in which it was
+licensed under section 13;
+(c) at the time of making an application under section 8 in relation to
+exemption from or modification of, prudential rules or requirements;
+(d) at the time of making an application for an extension of a defined licence
+period under section 12(5);
+(e) at the time of making an application for variance of a direction under
+section 23(4).
+(2) Annual fees payable by all licensed undertakings in accordance with
+subsection (1)(b) shall apply to the twelve-month period ending on the 31 December of that
+year.
+(3) For each week or part of a week that a licensed undertaking fails to comply with
+a requirement imposed on it by subsection (1), it is liable to a civil penalty not exceeding
+$5,000.
+(4) The Authority, if satisfied that payment of the annual fee in whole or in part is
+inappropriate after taking into account the diminution in the level of digital asset business
+activity, may—
+(a) defer payment of all or part of the annual fee otherwise due, to such date
+in the future as it considers appropriate; or
+(b) remit all or part of the annual fee otherwise due, on such terms and
+conditions as it considers appropriate.
+Separate accounts
+17
+A licensed undertaking holding client assets shall keep its accounts in respect of
+such assets separate from any accounts kept in respect of any other business.
+
+16
+
+DIGITAL ASSET BUSINESS ACT 2018
+Custody and protection of client assets
+18
+(1) A licensed undertaking holding client assets shall maintain a surety bond or
+trust account, or indemnity insurance for the benefit of its client in such form and amount
+as is acceptable to the Authority for the protection of its clients or such other arrangements
+as the Authority may approve.
+(2) To the extent that a licensed undertaking maintains a trust account in
+accordance with this section, such trust account must be maintained with a qualified
+custodian.
+(3) A licensed undertaking that has custody of one or more digital assets for one
+or more clients must maintain in its custody a sufficient amount of each type of digital asset
+in order to meet its obligations to clients.
+(4) For the purposes of this section, the digital asset referred to is that which is—
+(a) held by the licensed undertaking for the client entitled to the digital assets;
+(b) not property or digital assets of the licensed undertaking; and
+(c) not subject to the claims of creditors of the licensed undertaking.
+Senior representative
+19
+(1) Every licensed undertaking shall appoint a senior representative that satisfies
+the requirements of subsection (2).
+(2) The senior representative shall be a person approved by the Authority to act in
+such capacity on behalf of the licensed undertaking.
+(3) The approved senior representative shall maintain an office in Bermuda.
+(4) At the time of licensing, the licensed undertaking shall provide written notice
+to the Authority of the—
+(a) location of the senior representative’s office;
+(b) particulars of the senior representative.
+(5) If any information required by notification in accordance with subsection (4) is
+altered, the licensed undertaking shall give particulars of the alteration in writing within 14
+days of the date the alteration was made.
+(6) Without reason acceptable to the Authority—
+(a) a licensed undertaking shall not terminate the appointment of its senior
+representative; and
+(b) a senior representative shall not cease to act as such, until it or he gives
+30 days’ notice in writing to the Authority of the intention to do so.
+(7) If a senior representative wilfully fails to give notice required in accordance with
+subsection (6) to the Authority he commits an offence.
+
+17
+
+DIGITAL ASSET BUSINESS ACT 2018
+Senior representative to report certain events
+20
+(1) A senior representative shall forthwith notify the Authority, in such manner as
+it may direct,—
+(a) on his reaching a view that there is a likelihood of the licensed undertaking
+for which he acts becoming insolvent; or
+(b) on its coming to his knowledge, or his having reason to believe, that an
+event to which this section applies has occurred.
+(2) Within 14 days of such notification, the senior representative shall furnish the
+Authority with a report in writing setting out all the particulars of the case that are available
+to him.
+(3) As respects any senior representative, this section applies to the following
+events, being events in which the licensed undertaking for which he acts as senior
+representative is involved, that is to say—
+(a) failure by the licensed undertaking to comply substantially with a
+condition imposed upon the licensed undertaking by the Authority;
+(b) failure by the licensed undertaking to comply with a modified provision, or
+with a condition, being a provision or condition specified in a direction
+given to the licensed undertaking by the Authority;
+(c) involvement of the licensed undertaking in any criminal proceedings
+whether in Bermuda or abroad;
+(d) the licensed undertaking ceasing to carry on digital asset business in or
+from within Bermuda;
+(e) a material change to the business of the licensed undertaking;
+(f) a cyber reporting event.
+Head Office
+21
+(1) Every licensed undertaking shall maintain a head office in Bermuda, satisfying
+the requirements of subsection (2).
+(2) The digital asset business of the licensed undertaking must be directed and
+managed from Bermuda and, in determining whether the licensed undertaking complies
+with this requirement, the Authority shall consider, inter alia, the factors set out in
+subsection (3).
+(3) The factors referred to in subsection (2) are—
+(a) where the strategy, risk management and operational decision making of
+the licensed undertaking occurs;
+(b) whether the presence of senior executives who are responsible for, and
+involved in, the decision making related to the digital asset business of the
+licensed undertakings are located in Bermuda;
+
+18
+
+DIGITAL ASSET BUSINESS ACT 2018
+(c) where meetings of the board of directors of the licensed undertaking occur.
+(4) Notwithstanding the considerations set out in subsection (3), the Authority
+may also have regard to the following matters—
+(a) the location where management of the licensed undertaking meets to effect
+policy decisions of the licensed undertaking;
+(b) the residence of the officers or employees of the licensed undertaking; or
+(c) the residence of one or more directors of the licensed undertaking in
+Bermuda.
+Material change to business
+22
+(1) No licensed undertaking shall effect a material change within the meaning of
+subsection (2) unless it has notified the Authority of such proposed material change as
+required under subsection (4).
+(2) For the purposes of subsection (1), the following changes are material—
+(a) any plan or proposal to introduce or offer a new product, service, or activity,
+or to make a material change to an existing product, service, or where
+applicable digital asset business activity;
+(b) amalgamation with or acquisition of another legal person;
+(c) sale of a subsidiary;
+(d) acquisition of controlling interest in an undertaking;
+(e) outsourcing of the functions of the digital asset business;
+(f) change to the most recent business plan submitted to the Authority.
+(3) A notice under this section shall be in such form, shall contain such
+information and shall be accompanied by such documents as the Authority may require.
+(4) The requirements referred to in subsection (1) are that—
+(a) the licensed undertaking has served on the Authority a notice in writing
+stating that the licensed undertaking intends to effect such a material
+change; and
+(b) either—
+(i) the Authority, before the end of the period of 30 days beginning with
+the date of service of that notice has notified the licensed undertaking
+in writing that there is no objection to the licensed undertaking effecting
+the material change; or
+(ii) that period has elapsed without the Authority having served the
+licensed undertaking with a preliminary written notice pursuant to
+subsection (8) to the material change.
+
+19
+
+DIGITAL ASSET BUSINESS ACT 2018
+(5) A notice under subsection (4)(a) shall contain such information as the
+Authority may direct and the Authority, after receiving such a notice from any person, may
+by notice in writing require it to provide such additional information or documents as the
+Authority may reasonably require for deciding whether to serve notice of objection.
+(6) Where additional information or documents are required from any person by a
+notice under subsection (5), the time between the giving of the notice and the receipt of the
+information or documents shall be added to the period mentioned in subsection (4)(b).
+(7) The Authority shall after receipt of a notification from a licensed undertaking
+under this section serve a notice of objection under this section on a person who has given
+notice under subsection (4)(a) unless it is satisfied—
+(a) that the interests of any clients of the licensed undertaking would not in
+any manner be threatened by the material change; and
+(b) without prejudice to paragraph (a) that, having regard to the material
+change the requirements of this Act would continue to be complied with
+or, if any of those requirements are not complied with, that the licensed
+undertaking concerned is likely to undertake adequate remedial action.
+(8) Before serving a notice of objection under this section the Authority shall serve
+the person concerned with a preliminary written notice stating that the Authority is
+considering service on that person of a notice of objection and that notice—
+(a) shall specify which of the matters mentioned in subsection (2) the
+Authority is not satisfied about and subject to subsection (6), the reasons
+for which it is not satisfied; and
+(b) shall give particulars of the rights conferred by subsection (4).
+(9) A person served with a notice under subsection (8) may, within a period of 28
+days beginning with the day on which the notice is served—
+(a) make written representations to the Authority; and
+(b) where such representations are made the Authority shall take them into
+account in deciding whether to serve a notice of objection.
+(10) A notice of objection under this section shall—
+(a) specify which of the matters mentioned in subsection (2) the Authority is
+not satisfied about and, subject to subsection (11), the reasons for which
+it is not satisfied; and
+(b) give particulars of the rights conferred by section 48.
+(11) Subsection (8)(a) shall not require the Authority to specify any reason which
+would in its opinion involve the disclosure of confidential information, which would be
+prejudicial to a third party.
+Restriction of licence
+23
+(1) Subject to section 26, the Authority may restrict a licence—
+
+20
+
+DIGITAL ASSET BUSINESS ACT 2018
+(a) if it is satisfied of the matters specified in paragraph (a), (b), (d) or (e) of
+section 24, but it appears to the Authority that the circumstances are not
+such as justify revocation;
+(b) if it is satisfied that a person has become a controller of a licensed
+undertaking in contravention of section 34 or has become or remains a
+controller after being given a notice of objection pursuant to section 35 or
+36;
+(c) in connection with the revocation of a licence—
+(i) when giving the undertaking notice that it proposes to revoke its
+licence; or
+(ii) at any time after such notice has been given to the undertaking; or
+(d) at any time after the licensed undertaking has served a notice surrendering
+its licence with effect from a later date.
+(2) The Authority may restrict a licence by imposing such conditions as it thinks
+desirable for the protection of the licensed undertaking’s clients or potential clients, and
+may in particular—
+(a) require the undertaking to take certain steps or to refrain from adopting or
+pursuing a particular course of action or to restrict the scope of its
+business activities in a particular way;
+(b) impose limitations on the acceptance of digital asset business;
+(c) prohibit the licensed undertaking from soliciting digital asset business
+either generally or from persons who are not already its clients;
+(d) prohibit the licensed undertaking from accepting new digital asset
+business;
+(e) prohibit the licensed undertaking
+transactions or class of transactions;
+
+from
+
+entering
+
+into
+
+any
+
+other
+
+(f) require the removal of any officer or controller;
+(g) specify requirements to be fulfilled otherwise than by action taken by the
+undertaking.
+(3) Any condition imposed under this section may be varied or withdrawn by the
+Authority.
+(4) The Authority may, where it has made a determination on its own or on the
+application of a licensed undertaking, vary any condition imposed on a licence.
+(5) The fact that a condition imposed under this section has not been complied
+with shall, where the restriction has been imposed pursuant to paragraphs (a) or (b) of
+subsection (1), be a ground for the revocation of the licence in question but shall not
+invalidate any transaction.
+
+21
+
+DIGITAL ASSET BUSINESS ACT 2018
+Revocation of licence
+Subject to section 25, the Authority may revoke the licence of a licensed
+24
+undertaking if the Authority is satisfied that—
+(a) any of the minimum criteria is not or has not been fulfilled, or may not be
+or may not have been fulfilled, in respect of the licensed undertaking;
+(b) the licensed undertaking has failed to comply with any obligation imposed
+on it by or under this Act or is carrying on business in a manner not
+authorised by its licence;
+(c) a person has become a majority shareholder controller of the licensed
+undertaking in contravention of section 34 or has become or remains such
+a controller after being given a notice of objection pursuant to section 35
+or 36;
+(d) the Authority has been provided with false, misleading or inaccurate
+information by or on behalf of the licensed undertaking or, in connection
+with an application for a licence, by or on behalf of a person who is or is to
+be an officer or controller of the undertaking;
+(e) the interests of the clients or potential clients of the licensed undertaking
+are in any way threatened; or
+(f) the fixed period of a class M licence has expired.
+Winding up on petition from the Authority
+25
+(1) On a petition presented by the Authority by virtue of this section, the Court
+may wind up a licensed undertaking in respect of which a licence is revoked, if the Court
+is of the opinion that it is just and equitable that the undertaking be wound up.
+(2) Part XIII (Winding Up) of the Companies Act 1981 shall apply to the winding
+up of a licensed undertaking under this section.
+Notice of restriction or revocation of licence
+26
+(1) Where the Authority proposes to—
+(a) restrict a licence under section 23(1);
+(b) vary a restriction imposed on a licence otherwise than with the agreement
+of the undertaking concerned; or
+(c) revoke a licence under section 24(a) to (f),
+the Authority shall give to the licensed undertaking concerned a warning notice under
+section 53.
+(2) Where—
+(a) the ground for a proposal to impose or vary a restriction or for a proposed
+revocation is that it appears to the Authority that the criterion in paragraph
+
+22
+
+DIGITAL ASSET BUSINESS ACT 2018
+1 of the Schedule 1 is not or has not been fulfilled, or may not be or may
+not have been fulfilled, in the case of any person; or
+(b) a proposed restriction consists of or includes a condition requiring the
+removal of any person as a controller or an officer,
+the Authority shall give that person a copy of the warning notice but the Authority may omit
+from such copy any matter which does not relate to him.
+(3) After giving a notice under subsection (1) and taking into account any
+representations made under section 53(2), the Authority shall decide whether—
+(a) to proceed with the action proposed in the notice;
+(b) to take no further action;
+(c) if the proposed action was to revoke the undertaking’s licence, to restrict
+its licence instead; or
+(d) if the proposed action was to restrict the undertaking’s licence or to vary
+the restrictions on a licence, to restrict it or to vary the restrictions in a
+different manner.
+(4) Once the Authority has made a decision under subsection (3), it shall forthwith
+provide either a decision notice under section 54 or a notice of discontinuance under section
+55, as the case may be.
+(5) The Authority shall publish in the Gazette, in such form as it thinks fit, notice
+of every revocation of a licence under the Act.
+Restriction in cases of urgency
+27
+(1) No notice need be given under section 26 in respect of the imposition or
+variation of a restriction on a licensed undertaking’s licence in any case in which the
+Authority considers that the restriction should be imposed or varied as a matter of urgency.
+(2) In any such case, the Authority may by written notice to the undertaking
+impose or vary the restriction.
+(3) Any such notice shall state the reason for which the Authority has acted and
+particulars of the rights conferred by subsection (5).
+(4) Section 23(2) shall apply to a notice under subsection (2) imposing or varying
+a restriction as it applies to a notice under section 23(1) in respect of a proposal to impose
+or vary a restriction; but the Authority may omit from a copy given to a person by virtue of
+this subsection any matter which does not relate to him.
+(5) A licensed undertaking to which a notice is given under this section of the
+imposition or variation of a restriction and a person who is given a copy of it by virtue of
+subsection (4) may within the period of 14 days beginning with the day on which the notice
+was given make representations to the Authority.
+
+23
+
+DIGITAL ASSET BUSINESS ACT 2018
+(6) After giving a notice under subsection (2) imposing or varying a restriction and
+taking into account any representations made in accordance with subsection (5), the
+Authority shall decide whether—
+(a) to confirm or rescind its original decision; or
+(b) to impose a different restriction or to vary the restriction in a different
+manner.
+(7) The Authority shall within the period of 28 days beginning with the day on
+which the notice was given under subsection (2) give the undertaking concerned written
+notice of its decision under subsection (6) and, except where the decision is to rescind the
+original decision, the notice shall state the reason for the decision.
+(8) Where the notice under subsection (7) is of a decision to take the action
+specified in subsection (6)(b), the notice under subsection (7) shall have the effect of
+imposing the restriction or making the variation specified in the notice with effect from the
+date on which it is given.
+Directions to protect interests of clients
+28
+(1) The Authority may give a licensed undertaking directions under this section at
+any time if it appears to the Authority that a licensed undertaking is in breach of any
+provision of this Act, regulations or rules applicable to it.
+(2) Directions under this section shall be such as appear to the Authority to be
+desirable for safeguarding the interests of the licensed undertaking’s clients or proposed
+clients.
+(3) A licensed undertaking which fails to comply with any requirement or
+contravenes any prohibition imposed on it by a direction under this section commits an
+offence and is liable—
+(a) on summary conviction, to a fine of $50,000;
+(b) on conviction on indictment, to a fine of $2,000,000.
+Notification and confirmation of directions
+29
+(1) A direction under section 28 shall be given by notice in writing and may be
+varied by a further direction; and a direction may be revoked by the Authority by a notice
+in writing to the licensed undertaking concerned.
+(2) A direction under section 28(1), except one varying a previous direction,
+shall—
+(a) state the reasons for which it is given and give particulars of the licensed
+undertaking’s rights under subsection (3) and section 48 where
+appropriate; and
+(b) cease to have effect at the end of the period which may be set out by the
+Authority in the notice.
+
+24
+
+DIGITAL ASSET BUSINESS ACT 2018
+(3) A licensed undertaking to which a direction is given under subsection (2) may,
+within the period of 14 days beginning with the day on which the direction is given, make
+written representations to the Authority; and the Authority shall take any such
+representations into account in deciding whether to confirm the direction.
+Surrender of licence
+30
+(1) A licensed undertaking with the prior approval of the Authority may surrender
+its licence by written notice to the Authority.
+(2) A surrender shall take effect on the date of the giving of approval by the
+Authority.
+(3) The surrender of a licence shall be irrevocable unless the Authority by notice
+in writing allows it to be withdrawn.
+PART 3
+AUDITED ACCOUNTS
+Duty to prepare annual audited financial statements and accounts
+31
+(1) Every licensed undertaking shall prepare annual audited financial statements
+or accounts as required by this section in respect of all transactions and balances relating
+to its business.
+(2) Financial statements must be audited by an approved auditor.
+(3) Prior to the appointment of an auditor, a licensed undertaking shall submit
+written particulars of such person to the Authority for approval.
+(4) Financial statements of licensed undertakings shall be audited by the approved
+auditor in accordance with generally accepted auditing standards for Canada, the United
+Kingdom, the United States of America, International Financial Reporting Standards or
+such standards as the Authority may recognise; and the approved auditor shall be required
+to provide an auditor’s report in respect thereof.
+(5) Not later than four months after the close of its financial year every licensed
+undertaking shall file a copy of its audited financial statements and auditor’s report or
+accounts with the Authority.
+(6) A licensed undertaking shall keep a copy of the most recent audited financial
+statements together with a copy of the auditor’s report thereon or accounts as the case may
+be, at its head office for a period of not less than five years beginning with its filing date
+under subsection (5).
+(7) Notwithstanding subsection (1), the Authority may require a licensed
+undertaking to prepare financial statements or accounts in such manner as it may direct.
+Appointment of auditors
+32
+(1) Every licensed undertaking shall annually appoint an approved auditor to
+audit its financial statements.
+
+25
+
+DIGITAL ASSET BUSINESS ACT 2018
+(2) If a licensed undertaking fails to appoint an approved auditor as required by
+subsection (1) or, at any time, fails to fill a vacancy for such auditor, the Authority may
+appoint an approved auditor and shall fix the remuneration to be paid by that digital asset
+business to such auditor.
+(3) A licensed undertaking shall forthwith give written notice to the Authority if
+it—
+(a) proposes to remove an auditor before the expiration of his term of office; or
+(b) proposes to replace an auditor at the expiration of the term of his office
+with a different auditor.
+(4) A licensed undertaking which fails to comply with this section commits an
+offence and is liable on summary conviction to a fine of $25,000.
+(5) For the purposes of this Part, “approved auditor” means an auditor who is a
+person entitled to practise as a public accountant and is a member of a professional body
+approved by the Authority for the purposes of this Act.
+(6) No person having an interest in any licensed undertaking otherwise than as a
+client, and no officer, servant or agent of any digital asset business shall be eligible for
+appointment as an approved auditor for that licensed undertaking; and any person
+appointed as such auditor to any licensed undertaking who subsequently acquires such
+interest or becomes an officer, servant or agent of that licensed undertaking shall cease to
+be an approved auditor.
+Auditor to communicate certain matters to Authority
+33
+(1) An auditor of a licensed undertaking shall in the circumstances specified in
+subsection (2) forthwith give written notice to the Authority of those matters.
+(2) The circumstances referred to in subsection (1) are—
+(a) his resignation before the expiration of his term of office;
+(b) his intention not to seek to be re-appointed;
+(c) a decision to include a modification of his report on the licensed
+undertaking’s financial statements and, in particular, a qualification or
+denial of his opinion, or the statement of an adverse opinion.
+(3) An auditor of a licensed undertaking shall forthwith give written notice to the
+Authority of any fact or matter of which he becomes aware which is likely to be of material
+significance for the discharge, in relation to the licensed undertaking of which he is an
+auditor, of the Authority’s functions under this Act.
+(4) An auditor who fails to comply with subsection (1) commits an offence and is
+liable on summary conviction to a fine of $25,000.
+
+26
+
+DIGITAL ASSET BUSINESS ACT 2018
+PART 4
+OBJECTIONS TO SHAREHOLDER CONTROLLERS
+Notification of new or increased control
+34
+(1) No person shall become a 10% shareholder controller or a majority shareholder
+controller of a licensed undertaking which is a company unless—
+(a) he has served on the Authority a written notice stating that he intends to
+become such a controller of the licensed undertaking; and
+(b) either the Authority has, before the end of the period of three months
+beginning with the date of service of that notice, notified him in writing that
+there is no objection to his becoming such a controller of the licensed
+undertaking, or that period has elapsed without the Authority having
+served him under section 35 a written notice of objection to his becoming
+such a controller of the licensed undertaking.
+(2) A notice under subsection (1)(a) shall contain such information as the
+Authority may direct and the Authority may, after receiving such a notice from any person,
+by notice in writing require him to provide such additional information or documents as the
+Authority may reasonably require for deciding whether to serve notice of objection.
+(3) Where additional information or documents are required from any person by a
+notice under subsection (2), the time between the giving of the notice and the receipt of the
+information or documents shall be added to the period mentioned in subsection (1)(b).
+Objection to new or increased control
+35
+(1) The Authority may serve a notice of objection under this section on a person
+who has given notice under section 34 unless it is satisfied—
+(a) that the person concerned is a fit and proper person to become a controller
+of the description in question of the licensed undertaking;
+(b) that the interests of clients and potential clients of the licensed
+undertaking would not be in any manner threatened by that person
+becoming a controller of that description of the licensed undertaking; and
+(c) without prejudice to paragraphs (a) and (b), that, having regard to that
+person’s likely influence on the licensed undertaking as a controller of the
+description in question, the criteria in Schedule 1 would continue to be
+fulfilled in the case of the licensed undertaking or, if any of those criteria
+is not fulfilled, that that person is likely to undertake adequate remedial
+action.
+(2) Before serving a notice of objection under this section, the Authority shall serve
+the person concerned with a preliminary written notice stating that the Authority is
+considering service on that person of a notice of objection and that notice—
+
+27
+
+DIGITAL ASSET BUSINESS ACT 2018
+(a) shall specify which of the matters mentioned in subsection (1) the
+Authority is not satisfied with and, subject to subsection (5), the reasons
+for which it is not satisfied; and
+(b) shall give particulars of the rights conferred by subsection (3).
+(3) A person served with a notice under subsection (2) may, within a period of 28
+days beginning with the day on which the notice is served, make written representations to
+the Authority; and where such representations are made the Authority shall take them into
+account in deciding whether to serve a notice of objection.
+(4) A notice of objection under this section shall—
+(a) specify which of the matters mentioned in subsection (1) the Authority is
+not satisfied with and, subject to subsection (5), the reasons for which it is
+not satisfied; and
+(b) give particulars of the rights conferred by section 48.
+(5) Subsections (2)(a) and (4)(a) shall not require the Authority to specify any
+reason which would in its opinion involve the disclosure of confidential information the
+disclosure of which would be prejudicial to a third party.
+(6) Where a person required to give a notice under section 34 in relation to
+becoming a controller of any description becomes a controller of that description without
+having given the notice, the Authority may serve him with a notice of objection under this
+section at any time within three months after becoming aware of his having done so and
+may, for the purpose of deciding whether to serve him with such a notice, require him by
+notice in writing to provide such information or documents as the Authority may reasonably
+require.
+(7) The period mentioned in section 34(1)(b) (with any extension under subsection
+(3) of that section) and the period mentioned in subsection (6) shall not expire, if they would
+otherwise do so, until 14 days after the end of the period within which representations can
+be made under subsection (3).
+Objection to existing controller
+36
+(1) Where it appears to the Authority that a person who is a controller of any
+description of a licensed undertaking is not or is no longer a fit and proper person to be
+such a controller of the licensed undertaking, it may serve him with a written notice of
+objection to his being such a controller of the licensed undertaking.
+(2) Before serving a notice of objection under this section, the Authority shall serve
+the person concerned with a preliminary written notice stating that the Authority is
+considering service on that person of a notice of objection and that notice shall—
+(a) subject to subsection (5), specify the reasons for which it appears to the
+Authority that the person in question is not or is no longer a fit and proper
+person as mentioned in subsection (1); and
+(b) give particulars of the rights conferred by subsection (3).
+
+28
+
+DIGITAL ASSET BUSINESS ACT 2018
+(3) A person served with a notice under subsection (2) may, within a period of 28
+days beginning with the day on which the notice is served, make written representations to
+the Authority; and where such representations are made the Authority shall take them into
+account in deciding whether to serve a notice of objection.
+(4) A notice of objection under this section shall—
+(a) subject to subsection (5), specify the reasons for which it appears to the
+Authority that the person in question is not or is no longer a fit and proper
+person as mentioned in subsection (1); and
+(b) give particulars of the rights conferred by section 48.
+(5) Subsections (2)(a) and (4)(a) shall not require the Authority to specify any
+reason which would in its opinion involve the disclosure of confidential information the
+disclosure of which would be prejudicial to a third party.
+Contraventions by controller
+37
+(1) Subject to subsection (2), any person who contravenes section 34 by—
+(a) failing to give the notice required by subsection (1)(a) of that section; or
+(b) becoming a controller of any description to which that section applies
+before the end of the period mentioned in subsection (1)(b) of that section
+in a case where the Authority has not served him with a preliminary notice
+under section 35(2),
+commits an offence.
+(2) A person shall not be guilty of an offence under subsection (1) if he shows that
+he did not know of the acts or circumstances by virtue of which he became a controller of
+the relevant description; but where any person becomes a controller of any such description
+without such knowledge and subsequently becomes aware of the fact that he has become
+such a controller he commits an offence unless he gives the Authority written notice of the
+fact that he has become such a controller within 14 days of becoming aware of the fact.
+(3) Any person who—
+(a) before the end of the period mentioned in section 34(1)(b), becomes a
+controller of any description to which that subsection applies after being
+served with a preliminary notice under section 35(2);
+(b) contravenes section 34 by becoming a controller of any description after
+being served with a notice of objection to his becoming a controller of that
+description; or
+(c) having become a controller of any description in contravention of that
+section (whether before or after being served with such notice of objection),
+continues to be such a controller after such a notice has been served on
+him,
+commits an offence.
+
+29
+
+DIGITAL ASSET BUSINESS ACT 2018
+(4) A person who commits an offence under subsection (1) is liable on summary
+conviction to a fine of $25,000.
+(5) A person who commits an offence under subsection (3) is liable—
+(a) on summary conviction, to a fine of $25,000 and in respect of an offence
+under paragraph (c) of that subsection, to a fine of $500 for each day on
+which the offence has continued;
+(b) on conviction on indictment, to a fine of $50,000 or to imprisonment for
+two years or to both such fine and imprisonment.
+Restriction on sale of shares
+38
+(1) The powers conferred by this section shall be exercisable where a person—
+(a) has contravened section 34 by becoming a controller of any description
+after being served with a notice of objection to his becoming a controller of
+that description;
+(b) having become a controller of any description in contravention of section
+34, continues to be one after a notice has been served on him; or
+(c) continues to be a controller of any description after being served under
+section 35 with a notice of objection to his being a controller of that
+description.
+(2) The Authority may by notice in writing served on the person concerned direct
+that any specified shares to which this section applies shall, until further notice, be subject
+to one or more of the following restrictions—
+(a) any transfer of, or agreement to transfer, those shares or, in the case of
+unissued shares, any transfer of or agreement to transfer the right to be
+issued with them, shall be void;
+(b) no voting rights shall be exercisable in respect of the shares;
+(c) no further shares shall be issued in right of them or in pursuance of any
+offer made to their holder; or
+(d) except in liquidation, no payment shall be made of any sums due from the
+undertaking on the shares, whether in respect of capital or otherwise.
+(3) The Court may, on the application of the Authority, order the sale of any
+specified shares to which this section applies and, if they are for the time being subject to
+any restrictions under subsection (2), that they shall cease to be subject to those
+restrictions.
+(4) No order shall be made under subsection (3) in a case where the notice of
+objection was served under section 35 or 36—
+(a) until the end of the period within which an appeal can be brought against
+the notice of objection; and
+(b) if an appeal is brought, until it has been determined or withdrawn.
+
+30
+
+DIGITAL ASSET BUSINESS ACT 2018
+(5) Where an order has been made under subsection (3), the Court may, on the
+application of the Authority, make such further order relating to the sale or transfer of the
+shares as it thinks fit.
+(6) Where shares are sold in pursuance of an order under this section, the
+proceeds of sale, less the costs of the sale, shall be paid into the Court for the benefit of the
+persons beneficially interested in them; and any such person may apply to the Court for
+the whole or part of the proceeds to be paid to him.
+(7) This section applies—
+(a) to all the shares in the licensed undertaking of which the person in
+question is a controller of the relevant description which are held by him
+or any associate of his and were not so held immediately before he became
+such a controller of the licensed undertaking; and
+(b) where the person in question became a controller of the relevant
+description as a result of the acquisition by him or any associate of his of
+shares in another company, to all the shares in that company which are
+held by him or any associate of his and were not so held before he became
+such a controller of that licensed undertaking.
+(8) A copy of the notice served on the person concerned under subsection (2) shall
+be served on the licensed undertaking or company to whose shares it relates and, if it relates
+to shares held by an associate of that person, on that associate.
+PART 5
+DISCIPLINARY MEASURES
+Power to impose civil penalties for breach of requirements
+39
+(1) Except as provided in section 7, 16, 57 or 66, every person who fails to comply
+with any requirement or contravenes any prohibition imposed by or under this Act is liable
+to such civil penalty not exceeding $10,000,000, as the Authority considers appropriate,
+for each such failure.
+(2) For the purposes of subsection (1), “appropriate” means effective, proportionate
+and dissuasive.
+(3) The Authority shall not impose a civil penalty where it is satisfied that the
+person concerned took all reasonable steps and exercised all due diligence to ensure that
+the requirement would be complied with.
+Civil penalties procedures
+40
+(1) If the Authority proposes to impose a civil penalty, it must give the licensed
+undertaking concerned a warning notice.
+(2) If the Authority decides to impose a civil penalty, it must give the licensed
+undertaking concerned a decision notice.
+
+31
+
+DIGITAL ASSET BUSINESS ACT 2018
+Public censure
+41
+(1) If the Authority considers that a licensed undertaking has contravened a
+requirement imposed on it by or under this Act, the Authority may publish a statement to
+that effect.
+(2) After a statement under this section is published, the Authority shall send a
+copy of it to the licensed undertaking.
+Public censure procedure
+42
+(1) If the Authority proposes to publish a statement in respect of a licensed
+undertaking under section 41, it must give the licensed undertaking a warning notice.
+(2) If the Authority decides to publish a statement under section 41 (whether or
+not in the terms proposed), it must give the licensed undertaking concerned a decision
+notice.
+Prohibition orders
+43
+(1) Subsection (2) applies if it appears to the Authority that an individual is not a
+fit and proper person to perform functions in relation to a regulated activity carried on by
+a person who is licensed by the Authority under this Act (“a regulated person”).
+(2) The Authority may make a prohibition order prohibiting the individual from
+performing a specified function, any function falling within a specified description, or any
+function.
+(3) A prohibition order may relate to—
+(a) a specified regulated activity, any regulated activity falling within a
+specified description, or all regulated activities;
+(b) regulated persons generally, or any person within a specified class of
+regulated persons.
+(4) In exercising its discretion to make a prohibition order under subsection (2),
+the Authority must have regard (among other things) to such factors, including assessment
+criteria, as the Authority may establish in a statement of principles.
+(5) A licensed undertaking must ensure that no function performed in relation to
+the carrying on of a regulated activity, is performed by an individual who is prohibited from
+performing that function by a prohibition order.
+(6) The Authority may, on the application of the individual named in a prohibition
+order, vary or revoke the order.
+(7) The Authority shall publish a prohibition order that is in effect, and every
+variation of such order, in such manner as it considers appropriate to bring the order to
+the attention of the public.
+(8) This section applies to the performance of functions in relation to a regulated
+activity carried on by a person who is an exempted person in relation to that activity as it
+
+32
+
+DIGITAL ASSET BUSINESS ACT 2018
+applies to the performance of functions in relation to a regulated activity carried on by a
+regulated person.
+(9) Any person who fails to comply with the terms of a prohibition order commits
+an offence and is liable—
+(a) on summary conviction, to a fine of $50,000 or to imprisonment for two
+years or to both such fine and imprisonment;
+(b) on conviction on indictment, to a fine of $200,000 or to imprisonment for
+four years or to both such fine and imprisonment.
+(10) In this section—
+“exempted person” means a person who is exempted in accordance with section 11
+from the requirement to hold a licence by or under this Act;
+“regulated activity” means any activity that is carried on by way of a business
+requiring licensing or other authority under any provision of this Act,
+regulations or orders made thereunder;
+“specified” means specified in the prohibition order.
+Prohibition orders: procedures
+44
+(1) If the Authority proposes to make a prohibition order, it must give the
+individual concerned a warning notice.
+(2) If the Authority decides to make a prohibition order, it must give the individual
+concerned a decision notice.
+Applications relating to prohibition orders: procedures
+45
+(1) This section applies to an application for the variation or revocation of a
+prohibition order.
+(2) If the Authority decides to grant the application, it must give the applicant
+written notice of its decision.
+(3) If the Authority decides to refuse the application, it must give the applicant a
+decision notice.
+Determination of applications for variation, etc.
+46
+(1) The Authority may grant an application made under section 45 if it is satisfied
+that the applicant is a fit and proper person to perform the function to which the application
+relates.
+(2) In deciding that question, the Authority may have regard (among other things)
+to whether the applicant—
+(a) has obtained a qualification;
+(b) has undergone, or is undergoing, training; or
+
+33
+
+DIGITAL ASSET BUSINESS ACT 2018
+(c) possesses a level of competence required in relation to persons performing
+functions of the kind to which the application relates.
+Injunctions
+47
+(1) If, on the application of the Authority, the Court is satisfied—
+(a) that there is a reasonable likelihood that any person will contravene a
+relevant requirement; or
+(b) that any person has contravened a relevant requirement and that there is
+a reasonable likelihood that the contravention will continue or be repeated,
+the Court may make an order restraining the contravention.
+(2) If, on the application of the Authority, the Court is satisfied—
+(a) that any person has contravened a relevant requirement; and
+(b) that there are steps which could be taken for remedying the contravention,
+the Court may make an order requiring that person, and any other person who appears to
+have been knowingly concerned in the contravention, to take such steps as the Court may
+direct to remedy it.
+(3) If, on the application of the Authority, the Court is satisfied that any person
+may have—
+(a) contravened a relevant requirement; or
+(b) been knowingly concerned in the contravention of such a requirement,
+the Court may make an order restraining such person from disposing of, or otherwise
+dealing with, any of his assets which it is satisfied the person is reasonably likely to dispose
+of or otherwise deal with.
+(4) In subsection (2), references to remedying a contravention include references
+to mitigating its effect.
+(5) “Relevant requirement”, in relation to an application by the Authority, means
+a requirement which is imposed by or under this Act.
+PART 6
+RIGHTS OF APPEAL
+Rights of appeal
+48
+(1) A licensed undertaking granted a Class F licence which is aggrieved by a
+decision of the Authority—
+(a) to restrict its licence, to restrict it in a particular manner or to vary any
+restrictions of its licence;
+(b) to revoke its licence;
+
+34
+
+DIGITAL ASSET BUSINESS ACT 2018
+(c) to impose a civil penalty under section 39;
+(d) to publish a statement in respect of it pursuant to section 41; or
+(e) to remove an officer or a controller pursuant to section 23,
+may appeal against the decision to the tribunal constituted in accordance with section 49
+(the tribunal).
+(2) Where—
+(a) the ground or a ground for a decision within subsection (1)(a) or (b) is that
+mentioned in section 26(2)(a); or
+(b) the effect of a decision within subsection (1)(a) is to require the removal of
+a person as an officer or a controller of an undertaking under subsection
+(1)(e),
+the officer or controller to whom the ground relates or whose removal is required may appeal
+to the tribunal against the finding that there is such a ground for the decision or, as the
+case may be, against the decision to require his removal.
+(3) Any person on whom a notice of objection is served under section 35 or 36 may
+appeal to the tribunal against the decision of the Authority to serve the notice; but this
+subsection does not apply to a person in any case in which he has failed to give a notice or
+become or continued to be a controller in circumstances in which his doing so constitutes
+an offence under subsection (1) and (3) of section 37.
+(4) Any individual in respect of whom a prohibition order has been made under
+section 43 may appeal to the tribunal.
+(5) Any person in respect of whom a decision notice has been issued refusing a
+revocation or variation of a prohibition order may appeal to the tribunal.
+(6) The tribunal may suspend the operation of a restriction or a variation of a
+restriction pending the determination of an appeal in respect of the decision.
+(7) The revocation of a licensed undertaking’s licence pursuant to a decision
+against which there is a right of appeal under this section shall not have effect—
+(a) until the end of the period within which the appeal can be brought; and
+(b) if such appeal is brought, until it is determined or withdrawn.
+Constitution of tribunals
+49
+(1) A tribunal shall be constituted in accordance with this section, where an appeal
+is brought under section 48, to determine the appeal.
+(2) The tribunal shall consist of a chairman or, in his absence, a deputy chairman
+and two other members.
+(3) The chairman and the deputy chairman shall be appointed by the Minister for
+a term not exceeding three years, and shall be barristers and attorneys of at least seven
+years’ standing.
+
+35
+
+DIGITAL ASSET BUSINESS ACT 2018
+(4) The two other members of the tribunal shall be selected by the chairman or, in
+his absence, the deputy chairman, from a panel of members appointed by the Minister
+under subsection (6), who shall be persons appearing to the chairman or, as the case may
+be, the deputy chairman, to have relevant experience.
+(5) During any period of time when the chairman or deputy chairman is absent
+from Bermuda or is for any other reason unable to act, the Minister may appoint another
+person to act in his place for the period of his absence or inability to act.
+(6) The Minister shall appoint a panel of not less than nine persons with relevant
+experience to serve as members of appeal tribunals.
+(7) A person shall not be eligible for appointment as chairman, deputy chairman
+or member of the tribunal if he is or has at any time during the period of two years ending
+with the date of his appointment been an officer, servant or agent of the Authority or of any
+licensed undertaking.
+Determination of appeals
+50
+(1) On an appeal made under section 48, the question for the determination of the
+tribunal shall be whether, for the reasons adduced by the appellant, the decision was
+unlawful or not justified by the evidence on which it was based.
+(2) On any such appeal, the tribunal may confirm or reverse the decision which is
+the subject of the appeal but shall not have power to vary it except that—
+(a) where the decision was to impose or vary any restriction, the tribunal may
+direct the Authority to impose different restrictions or to vary them in a
+different way; or
+(b) where the decision was to revoke a licence, the tribunal may direct the
+Authority to restrict it instead.
+(3) Notice of a tribunal’s determination, together with a statement of its reasons,
+shall be given to the appellant and to the Authority; and, unless the tribunal otherwise
+directs, the determination shall come into operation when the notice is given to the
+appellant and to the Authority.
+Costs, procedure and evidence
+51
+(1) A tribunal may give such directions as it thinks fit for the payment of costs or
+expenses by any party to the appeal.
+(2) The Minister may make regulations with respect to appeals and those
+regulations may in particular make provision—
+(a) as to the period within which and the manner in which such appeals are
+to be brought;
+(b) as to the manner in which such appeals are to be conducted, including
+provision for any hearing to be held in private and as to the persons entitled
+to appear on behalf of the parties;
+
+36
+
+DIGITAL ASSET BUSINESS ACT 2018
+(c) as to the procedure to be adopted where appeals are brought both by a
+licensed undertaking and by a person who is to be a controller or officer of
+a licensed undertaking, including provision for the hearing of the appeals
+together and for the mutual disclosure of information;
+(d) for requiring an appellant or the Authority to disclose or allow the
+inspection of documents in his or its custody or under his or its control;
+(e) for requiring any person, on tender of the necessary expenses of his
+attendance, to attend and give evidence or produce documents in his
+custody or under his control and for authorising the administration of
+oaths to witnesses;
+(f) for enabling an appellant to withdraw an appeal or the Authority to
+withdraw its opposition to an appeal and for the consequences of any such
+withdrawal;
+(g) for taxing or otherwise settling any costs or expenses which the tribunal
+directs to be paid and for the enforcement of any such direction;
+(h) for enabling any preliminary or incidental functions in relation to an appeal
+to be discharged by the chairman or, as the case may be, the deputy
+chairman of the tribunal; and
+(i) as to any other matter connected with such appeals.
+(3) Regulations made under subsection (2) shall be subject to the negative
+resolution procedure.
+(4) A person who, having been required in accordance with regulations made
+under this section to attend and give evidence, fails without reasonable excuse to attend or
+give evidence, commits an offence and is liable on summary conviction to a fine of $10,000.
+(5) A person who without reasonable excuse alters, suppresses, conceals, destroys
+or refuses to produce any document which he has been required to produce in accordance
+with regulations under this section, or which he is liable to be so required to produce,
+commits an offence and is liable—
+(a) on summary conviction, to a fine of $25,000 or to imprisonment for six
+months or to both such fine and imprisonment;
+(b) on conviction on indictment, to a fine of $50,000 or to imprisonment for
+two years or to both such fine and imprisonment.
+Further appeals on a point of law
+52
+(1) A licensed undertaking or other person who has appealed to a tribunal may
+appeal to the Court on any question of law arising from the decision on the appeal by the
+tribunal and an appeal on any such question shall also lie at the instance of the Authority;
+and if the Court is of the opinion that the decision was erroneous in any point of law it shall
+remit the matter to the tribunal for rehearing and determination by it.
+
+37
+
+DIGITAL ASSET BUSINESS ACT 2018
+(2) No appeal to the Court of Appeal shall be brought from a decision under
+subsection (1), except with leave of that court.
+PART 7
+NOTICES AND INFORMATION
+Warning notices
+53
+(1) A warning notice must—
+(a) state the action which the Authority proposes to take;
+(b) be in writing; and
+(c) give reasons for the proposed action.
+(2) The warning notice must specify a reasonable period (which may not be less
+than 14 days) within which the person to whom it is given may make representations to the
+Authority; and where such representations are made, the Authority shall take them into
+account in deciding whether to give a decision notice.
+(3) The Authority may extend the period specified in the notice.
+(4) A warning notice about a proposal to publish a statement under section 41
+must set out the terms of the statement.
+(5) A warning notice given under section 43 must set out the terms of the
+prohibition.
+Decision notices
+54
+(1) A decision notice must—
+(a) be in writing;
+(b) give reasons for the Authority’s decision to take the action to which the
+notice relates;
+(c) give its decision; and
+(d) give an indication of the right to appeal the decision to the tribunal under
+section 48.
+(2) A decision notice shall be given within 90 days beginning with the day on which
+a warning notice under section 53 was given; and if no decision notice under subsection (1)
+is given within that period, the Authority shall be treated as having at the end of that period
+given a notice of discontinuance under section 55.
+(3) A decision notice about the imposition of a civil penalty under section 39 must
+state the date when payment is required.
+(4) A decision notice about public censure under section 41 must—
+(a) set out the terms of the statement;
+
+38
+
+DIGITAL ASSET BUSINESS ACT 2018
+(b) give details of the manner in which, and the date on which, the statement
+will be published.
+(5) A decision notice about a prohibition order made under section 43(2) must—
+(a) name the individual to whom the prohibition order applies;
+(b) set out the terms of the order; and
+(c) be given to the individual named in the order.
+(6) A decision notice shall state the day on which it is to take effect.
+(7) The Authority may, before it takes the action to which a decision notice (“the
+original notice”) relates, give the person concerned a further decision notice which relates
+to different action in respect of the same matter.
+(8) The Authority may give a further decision notice as a result of subsection (7)
+only if the person to whom the original notice was given consents.
+(9) If the person to whom a decision notice under subsection (1) is given had the
+right to refer the matter to which the original decision notice related to the tribunal, he has
+that right as respects the decision notice under subsection (7).
+Notices of discontinuance
+55
+(1) Subject to section 54(2), if the Authority decides not to take the action proposed
+in a warning notice it must give a notice of discontinuance to the person to whom the
+warning notice was given.
+(2) A notice of discontinuance must identify the action which is being
+discontinued.
+Publication
+56
+(1) Subject to sections 26, 41 and 43, the Authority may publish such information
+about a matter to which a decision notice relates as it considers appropriate.
+(2) The Authority must not publish a decision notice under subsection (1)—
+(a) before notifying the person concerned; and
+(b) pending an appeal under section 49.
+Notification of change of controller or officer
+57
+(1) A licensed undertaking shall give written notice to the Authority of the fact of
+any person having become or ceased to be a controller or officer of the licensed undertaking.
+(2) A notice required to be given under subsection (1) shall be given before the end
+of the period of 14 days beginning with the day on which the licensed undertaking becomes
+aware of the relevant facts.
+(3) A licensed undertaking which fails to give a notice required by this section is
+liable to a civil penalty calculated in accordance with subsection (4).
+
+39
+
+DIGITAL ASSET BUSINESS ACT 2018
+(4) For each week or part of a week that a licensed undertaking fails to comply with
+a requirement imposed under subsection (1), it is liable to a civil penalty not exceeding
+$5,000.
+Power to obtain information and reports
+58
+(1) The Authority may by notice in writing served on a licensed undertaking—
+(a) require the undertaking to provide the Authority (or such person acting on
+behalf of the Authority as may be specified in the notice), at such time or
+times or at such intervals or in respect of such period or periods as may be
+so specified, with such information as the Authority may reasonably
+require for ensuring that the undertaking is complying with the provisions
+of this Act and any code of practice, and for safeguarding the interests of
+clients and potential clients of the undertaking;
+(b) require the undertaking to provide the Authority with a report, in such form
+as may be specified in the notice, by the undertaking’s auditor or by an
+accountant or other person with relevant professional skill in, or on any
+aspect of, any matter about which the Authority has required or could
+require the undertaking to provide information under paragraph (a).
+(2) The person appointed by a licensed undertaking to make any report required
+under subsection (1)(b) shall forthwith give written notice to the Authority of any fact or
+matter of which he becomes aware which is likely to be of material significance for the
+discharge, in relation to the licensed undertaking, of the functions of the Authority under
+this Act.
+General power to require production of documents
+59
+(1) The Authority may—
+(a) by notice in writing served on a licensed undertaking require it to produce,
+within such time and at such place as may be specified in the notice, such
+document or documents of such description as may be so specified;
+(b) authorise an officer, servant or agent of the Authority, producing such
+evidence of his authority, to require it to provide to him such information,
+or to produce to him such documents, as he may specify, being such
+information or documents as the Authority may reasonably require for the
+performance of its functions under this Act.
+(2) Where, by virtue of subsection (1), the Authority or any officer, servant or agent
+of the Authority has power to require the production of any documents from a licensed
+undertaking, the Authority or that officer, servant or agent shall have the like power to
+require the production of those documents from any person who appears to be in possession
+of them; but where any person from whom such production is required claims a lien on
+documents produced by him, the production shall be without prejudice to the lien.
+(3) The power under this section to require a licensed undertaking or other person
+to produce any documents includes power—
+
+40
+
+DIGITAL ASSET BUSINESS ACT 2018
+(a) if the documents are produced, to take copies of them or extracts from
+them and to require that undertaking or person, or any other person who
+is a present or past controller or officer of, or is or was at any time employed
+by or acting as an employee of, the licensed undertaking in question, to
+provide an explanation of any of them; and
+(b) if the documents are not produced, to require the person who was required
+to produce them to state, to the best of his knowledge and belief, where
+they are.
+(4) If it appears to the Authority to be desirable in the interests of the clients or
+potential clients of a licensed undertaking which is a company to do so, it may also exercise
+the powers conferred by section 58 and subsection (1) of this section in relation to any
+company which is or has at any relevant time been—
+(a) a parent company, subsidiary company or related company of that
+undertaking;
+(b) a subsidiary company of a parent company of that undertaking;
+(c) a parent company of a subsidiary company of that undertaking; or
+(d) a company in the case of which a shareholder controller of that
+undertaking, either alone or with any associate or associates, holds 50%
+or more of the shares or is entitled to exercise, or control the exercise of,
+more than 50% of the voting power at a general meeting.
+(5) The Authority may by notice in writing served on any person who is or is to be
+a controller or officer of a licensed undertaking require him to provide the Authority, within
+such time as may be specified in the notice, with such information or documents as the
+Authority may reasonably require for determining whether he is a fit and proper person to
+hold the particular position which he holds or is to hold.
+(6) Any person who without reasonable excuse fails to comply with a requirement
+imposed on him under this section commits an offence and is liable on summary conviction
+to a fine of $10,000 or to imprisonment for six months or to both such fine and
+imprisonment.
+(7) Nothing in this section shall require the disclosure or production by a person
+of information or documents which he would be entitled to refuse to disclose or produce on
+the grounds of legal professional privilege in proceedings in Bermuda.
+Right of entry to obtain information and documents
+60
+(1) Any officer, servant or agent of the Authority may, on producing if required
+evidence of his authority, enter any premises occupied by a person on whom a notice has
+been served under sections 58(1) and 59(1) for the purpose of obtaining there the
+information or documents required by that notice and of exercising the powers conferred
+by section 59(3).
+(2) Any officer, servant or agent of the Authority may, on producing if required
+evidence of his authority, enter any premises occupied by any person on whom a notice
+
+41
+
+DIGITAL ASSET BUSINESS ACT 2018
+could be served under sections 58(1) and 59(1) for the purpose of obtaining there such
+information or documents as are specified in the authority, but the Authority shall not
+authorise any person to act under this subsection unless it has reasonable cause to believe
+that if such a notice were served it would not be complied with or that any documents to
+which it would relate would be removed, tampered with or destroyed.
+(3) Any person who intentionally obstructs a person exercising rights conferred by
+this section commits an offence and is liable on summary conviction to a fine of $10,000 or
+to imprisonment for six months or to both such fine and imprisonment.
+PART 8
+INVESTIGATIONS
+Investigations on behalf of the Authority
+61
+(1) If it appears to the Authority desirable to do so in the interests of the clients or
+potential clients of a licensed undertaking, the Authority may appoint one or more
+competent persons to investigate and report to the Authority on—
+(a) the nature, conduct or state of the undertaking’s business or any
+particular aspect of it; or
+(b) the ownership or control of the undertaking, and the Authority shall give
+written notice of any such appointment to the undertaking concerned.
+(2) If a person appointed under subsection (1) thinks it necessary for the purposes
+of the investigation he is appointed to carry out, he may also investigate the business of any
+company which is or has at any relevant time been—
+(a) a parent company, subsidiary company or related company of the
+undertaking under investigation;
+(b) a subsidiary company or related company of a parent company of that
+undertaking;
+(c) a parent company of a subsidiary company of that undertaking; or
+(d) a company in the case of which a shareholder controller of that
+undertaking, either alone or with any associate or associates, holds 50%
+or more of the shares or is entitled to exercise, or control the exercise of,
+more than 50% of the voting power at a general meeting.
+(3) Where a person appointed under subsection (1) decides to investigate the
+business of any company by virtue of subsection (2), he shall give it written notice to that
+effect.
+(4) It shall be the duty of every person who is or was a controller, officer, employee,
+agent, banker, auditor or barrister and attorney of a licensed undertaking which is under
+investigation (whether by virtue of subsection (1) or (2)), or any person appointed to make
+a report in respect of that undertaking under section 58(1)(b)—
+
+42
+
+DIGITAL ASSET BUSINESS ACT 2018
+(a) to produce to the persons appointed under subsection (1), within such time
+and at such place as they may require, such documents, or documents of
+such description, as may be specified, being documents the production of
+which may be reasonably required for the investigation, which are in his
+custody or power;
+(b) to attend before the persons so appointed at such time and place as they
+may require and answer questions relevant to the investigation as the
+persons appointed under subsection (1) may require; and
+(c) otherwise to give the persons so appointed all assistance in connection with
+the investigation which he is reasonably able to give, and those persons
+may take copies of or extracts from any documents produced to them
+under paragraph (a).
+(5) For the purpose of exercising his powers under this section, a person appointed
+under subsection (1) may enter any premises occupied by a licensed undertaking which is
+being investigated by him under this section; but he shall not do so without prior notice in
+writing.
+(6) A person exercising powers by virtue of an appointment under this section
+shall, if so required, produce evidence of his authority.
+(7) Unless the Authority otherwise directs, the licensed undertaking under
+investigation shall pay to the Authority all expenses of, and incidental to, the investigation.
+(8) Any person who—
+(a) without reasonable excuse, fails to produce any documents which it is his
+duty to produce under subsection (4);
+(b) without reasonable excuse, fails to attend before the persons appointed
+under subsection (1) when required to do so;
+(c) without reasonable excuse, fails to answer any question which is put to
+him by persons so appointed with respect to a licensed undertaking which
+is under investigation or a company which is being investigated by virtue
+of subsection (2); or
+(d) intentionally obstructs a person in the exercise of the rights conferred by
+subsection (5),
+commits an offence and is liable on summary conviction to a fine of $10,000 or to
+imprisonment for six months or to both such fine and imprisonment.
+(9) A statement made by a person in compliance with a requirement imposed by
+virtue of this section shall not be used in evidence against him.
+(10) Nothing in this section shall require the disclosure or production by a person
+of information or documents which he would be entitled to refuse to disclose or produce on
+the grounds of legal professional privilege in proceedings in Bermuda.
+
+43
+
+DIGITAL ASSET BUSINESS ACT 2018
+Investigations of suspected contraventions
+62
+(1) The Authority may conduct an investigation if it appears to the Authority
+that—
+(a) a person may have contravened section 10;
+(b) any exempted person may have contravened any restriction or exemption
+or condition given under an exemption order under section 11;
+(c) an undertaking may have contravened a requirement imposed by or under
+this Act, regulations or orders made thereunder;
+(d) an individual may not be a fit and proper person to perform functions in
+relation to a regulated activity within the meaning of section 43.
+(2) The power conferred by subsection (1)(c) may be exercised in relation to a
+former licensed undertaking but only in relation to—
+(a) business carried on at any time when the undertaking was licensed under
+this Act; or
+(b) the ownership or control of an undertaking at any time when it was
+licensed under this Act.
+Power to require production of documents during investigation
+63
+(1) The Authority may by notice in writing require the person who is the subject of
+an investigation under section 62 (“the person under investigation”) or any person
+connected with the person under investigation—
+(a) to provide, at such place as may be specified in the notice and either
+forthwith or at such time as may be so specified, such information as the
+Authority may reasonably require for the purpose of the investigation;
+(b) to produce, at such place as may be specified in the notice and either
+forthwith or at such time as may be so specified, such documents, or
+documents of such description, as may be specified, being documents the
+production of which may be reasonably required for the investigation;
+(c) to attend at such place and time as may be specified in the notice and
+answer questions relevant to the enquiry as the Authority may require.
+(2) The Authority may by notice in writing require every person who is or was a
+controller, officer, employee, agent, banker, auditor or barrister and attorney of an
+undertaking which is under investigation by virtue of subsection (1)—
+(a) to produce to the Authority, within such time and at such place as the
+Authority may require, such documents, or documents of such
+description, as may be specified, being documents the production of which
+may be reasonably required for the investigation, which are in his custody
+or power;
+
+44
+
+DIGITAL ASSET BUSINESS ACT 2018
+(b) to attend before the Authority at such time and place as the Authority may
+require and answer questions relevant to the investigation as the Authority
+may require; and
+(c) to take such actions as the Authority may direct in connection with the
+investigation.
+(3) The Authority or a duly authorised officer, servant or agent of the Authority
+may take copies of or extracts from any documents produced under this section.
+(4) Any officer, servant or agent of the Authority may, on producing if required
+evidence of his authority, enter any premises occupied by a person on whom a notice has
+been served under subsection (1) for the purpose of obtaining there the information or
+documents required by the notice, putting the questions referred to in paragraph (c) of that
+subsection or exercising the powers conferred by subsection (3).
+(5) Any person who without reasonable excuse fails to comply with a requirement
+imposed on him under this section or intentionally obstructs a person in the exercise of the
+rights conferred by subsection (4) commits an offence and is liable on summary conviction
+to a fine of $10,000 or to imprisonment for six months or to both such fine and
+imprisonment.
+(6) A statement made by a person in compliance with a requirement imposed by
+virtue of this section shall not be used in evidence against him.
+(7) Nothing in this section shall require the disclosure or production by a person
+of information or documents which he would be entitled to refuse to disclose or produce on
+the grounds of legal professional privilege in proceedings in Bermuda.
+(8) For the purposes of this section, a person is connected with the person under
+investigation if such person is or has at any relevant time been—
+(a) a member of a group to which the person under investigation belongs;
+(b) a controller of the person under investigation;
+(c) a partner of a partnership of which the person under investigation is a
+member.
+Powers of entry
+64
+(1) A magistrate may issue a warrant under this section if satisfied on information
+on oath that the Authority is conducting an investigation under sections 61 and 62—
+(a) a person has failed to comply with a notice served on him under section
+63;
+(b) that there are reasonable grounds for suspecting the completeness of any
+information provided or documents produced by the person in response to
+a notice served on him under section 63; or
+(c) that there are reasonable grounds for suspecting that if a notice were
+served on the person under section 63 it would not be complied with or
+
+45
+
+DIGITAL ASSET BUSINESS ACT 2018
+that any documents to which it would relate would be removed, tampered
+with or destroyed.
+(2) A warrant under this section shall authorise any police officer not below the
+rank of inspector, together with any other person named in the warrant and any other police
+officers—
+(a) to enter any premises occupied by the person under investigation which
+are specified in the warrant, using such force as is reasonably necessary
+for the purpose;
+(b) to search the premises and take possession of any documents appearing
+to be such documents as are mentioned in subsection (1) or to take, in
+relation to any such documents, any other steps which may appear to be
+necessary for preserving them or preventing interference with them;
+(c) to take copies of or extracts from any such documents;
+(d) to require any person named in the warrant to answer questions relevant
+for determining whether that person is guilty of any such contravention as
+is mentioned in section 62.
+(3) A warrant under this section shall continue in force until the end of the period
+of one month beginning with the day on which it is issued.
+(4) Any documents of which possession is taken under this section may be
+retained—
+(a) for a period of three months; or
+(b) until the conclusion of proceedings, if within the period of three months
+referred to in paragraph (a), proceedings to which the documents are
+relevant are commenced against any person for any such contravention as
+is mentioned in section 62.
+(5) Any person who intentionally obstructs the exercise of any right conferred by
+a warrant issued under this section or fails without reasonable excuse to comply with any
+requirement imposed in accordance with subsection (2)(d) commits an offence and is
+liable—
+(a) on summary conviction, to a fine of $25,000 or to imprisonment for six
+months or to both such fine and imprisonment;
+(b) on conviction on indictment, to a fine of $50,000 or to imprisonment for
+two years or to both such fine and imprisonment.
+Obstruction of investigations
+65
+(1) A person who knows or suspects that an investigation is being or is likely to be
+carried out—
+(a) into a suspected contravention of section 10 or a term or condition of an
+exemption order made under section 11; or
+
+46
+
+DIGITAL ASSET BUSINESS ACT 2018
+(b) under section 62,
+commits an offence if he falsifies, conceals, destroys or otherwise disposes of, or causes or
+permits the falsification, concealment, destruction or disposal of, documents which he
+knows or suspects are or would be relevant to such an investigation unless he proves that
+he had no intention of concealing facts disclosed by the documents from persons carrying
+out such an investigation.
+(2) A person guilty of an offence under this section is liable—
+(a) on summary conviction, to a fine of $25,000 or to imprisonment for six
+months or to both such fine and imprisonment;
+(b) on conviction on indictment, to a fine of $50,000 or to imprisonment for
+two years or to both such fine and imprisonment.
+PART 9
+CERTIFICATE OF COMPLIANCE
+Certificates of compliance
+66
+(1) Every licensed undertaking shall, within four months from the end of its
+financial year, deliver to the Authority a certificate of compliance, signed by two directors,
+or one director and an officer of the undertaking, made up to the end of its financial year,
+certifying that to the best of their knowledge the undertaking has complied with the
+minimum criteria and codes of practice.
+(2) A licensed undertaking that fails to deliver a certificate as required by
+subsection (1) within the time specified therein is liable to a civil penalty not exceeding
+$5,000 for each week or part of a week that the undertaking is in default.
+PART 10
+RESTRICTION ON DISCLOSURE OF INFORMATION
+Restricted information
+67
+(1) Except as provided by sections 68, 69 and 70, no person who—
+(a) under or for the purposes of this Act, receives information relating to the
+business or other affairs of any person; and
+(b) obtains information directly or indirectly from a person who has received
+it as provided under paragraph (a),
+shall disclose the information without the consent of the person to whom it relates and (if
+different) the person from whom it was received as aforesaid.
+(2) This section does not apply to information which at the time of the disclosure
+is or has already been made available to the public from other sources or to information in
+
+47
+
+DIGITAL ASSET BUSINESS ACT 2018
+the form of a summary or collection of information so framed as not to enable information
+relating to any particular person to be ascertained from it.
+(3) Any person who discloses information in contravention of this section commits
+an offence and is liable—
+(a) on summary conviction, to a fine of $50,000 or to imprisonment for two
+years or to both such fine and imprisonment;
+(b) on conviction on indictment, to a fine of $100,000 or to imprisonment for
+five years or to both such fine and imprisonment.
+Disclosure for facilitating the discharge of functions of the Authority
+68
+(1) Section 67 does not preclude the disclosure of information in any case in which
+disclosure is for the purpose of enabling or assisting the Authority to discharge—
+(a) its functions under this Act; and
+(b) its functions under the Bermuda Monetary Authority Act 1969.
+(2) Without prejudice to the generality of subsection (1), section 67 does not
+preclude the disclosure of information by the Authority to the auditor or accountant of a
+licensed undertaking, or to the person appointed to make a report under section 59(1)(b) if
+it appears to the Authority that disclosing the information would enable or assist the
+Authority to discharge the functions mentioned in that section or would otherwise be in the
+interests of the clients or potential clients of a licensed undertaking.
+Disclosure for facilitating the discharge of functions by other authorities
+69
+(1) Section 67 does not preclude the disclosure of information to the Minister or
+other authority in Bermuda in any case in which the disclosure is for the purpose of
+enabling or assisting him or it to discharge his or its regulatory functions.
+(2) Section 67 does not preclude the disclosure of information for the purpose of
+enabling or assisting an authority in a country or territory outside Bermuda to exercise
+functions corresponding to the functions of the Authority under this Act.
+(3) Subsection (2) does not apply in relation to disclosures to an authority unless
+the Authority is satisfied that the authority is subject to restrictions on further disclosure
+at least equivalent to those imposed by sections 67 and 70 and this section.
+(4) Section 70 does not preclude the disclosure of information—
+(a) for the purpose of enabling or assisting a person to do anything which he
+is required to do in pursuance of a requirement imposed under section
+59(1)(b);
+(b) with a view to the undertaking of, or otherwise for the purposes of, any
+criminal proceedings, whether under this Act or any other Act;
+(c) in connection with any other proceedings arising out of this Act.
+
+48
+
+DIGITAL ASSET BUSINESS ACT 2018
+(5) Section 67 does not preclude the disclosure by the Authority to the Director of
+Public Prosecutions or a police officer not below the rank of inspector of information
+obtained pursuant to section 62, 63 or 64 or of information in the possession of the
+Authority as to any suspected contravention in relation to which the powers conferred by
+those sections are exercisable.
+(6) Information which is disclosed to a person in pursuance of this section shall
+not be used otherwise than for the purposes mentioned in this section.
+Information supplied to the Authority by relevant overseas authority
+70
+(1) Section 67 applies to information which has been supplied to the Authority for
+the purposes of any relevant functions by the relevant supervisory authority in a country
+or territory outside Bermuda.
+(2) Information supplied to the Authority as mentioned in subsection (1) shall not
+be disclosed except as provided by section 67 or—
+(a) for the purpose of enabling or assisting the Authority to discharge its
+functions under this Act; or
+(b) with a view to the undertaking of, or otherwise for the purpose of, criminal
+proceedings, whether under this Act or any other Act.
+(3) In this section—
+“relevant functions”, in relation to the Authority, means its functions under this
+Act;
+“relevant supervisory authority” means the authority discharging in a country or
+territory outside Bermuda functions corresponding to those of the Authority
+under this Act.
+PART 11
+MISCELLANEOUS AND SUPPLEMENTAL
+Access to and maintenance of client transaction records
+71
+(1) A licensed undertaking, where the Authority requires, must provide the
+Authority with online or automated real time read-only access to both its client and its own
+digital asset transaction records.
+(2) A licensed undertaking must maintain a record of both its client and its own
+transactions at its head office for a period of not less than five years beginning from the date
+the transaction occurred.
+False documents or information
+72
+(1) Any person who, for any purposes of this Act—
+(a) issues a document, or supplies information, which is false or misleading
+in a material respect; or
+
+49
+
+DIGITAL ASSET BUSINESS ACT 2018
+(b) signs a document which is false or misleading in a material respect; or
+(c) takes part in the preparation or issue of a document, or the supplying of
+information, which is false in a material respect,
+commits an offence.
+(2) A person who commits an offence under subsection (1) is liable—
+(a) on summary conviction, to a fine of $25,000 or to imprisonment for two
+years or to both such fine and imprisonment;
+(b) on conviction on indictment, to a fine of $50,000 or to imprisonment for
+four years or to both such fine and imprisonment.
+(3) It shall be a defence for a person charged with an offence under subsection (1)
+to prove—
+(a) if an individual, that he had no knowledge of the falsity or misleading
+character of the document or information, and took every reasonable
+precaution to ensure its accuracy; and
+(b) if not an individual, that every person acting on such person’s behalf had
+no such knowledge, and took every such reasonable precaution, as
+aforesaid.
+Offences
+73
+(1) Where an offence under this Act committed by a licensed undertaking is proved
+to have been committed with the consent or connivance of, or to be attributable to neglect
+on the part of, any officer of the licensed undertaking, or any person who was purporting
+to act in any such capacity, he, as well as the licensed undertaking, commits that offence
+and shall be liable to be proceeded against and punished accordingly unless such person
+shows that he took all reasonable steps to avoid the commission of an offence.
+(2) Where the affairs of a licensed undertaking are managed by its members,
+subsection (1) shall apply in relation to the acts and defaults of a member in connection
+with his functions of management as if he were a director of the licensed undertaking.
+Prohibition on use of words "digital asset business"
+74
+(1) No person carrying on business in or from Bermuda shall use any name which
+indicates or may reasonably be understood to indicate (whether in English or in any other
+language) that it is carrying on digital asset business unless it is a licensed undertaking
+under section 12.
+(2) Any person using a name in contravention of subsection (1) commits an offence
+and is liable on summary conviction to a fine of $5,000.
+Notices
+75
+(1) This section has effect in relation to any notice, direction or other document
+required or authorised by or under this Act to be given to or served on any person other
+than the Authority.
+
+50
+
+DIGITAL ASSET BUSINESS ACT 2018
+(2) Any such document may be given to or served on the person in question by—
+(a) delivering it to him;
+(b) leaving it at his principal place of business; or
+(c) sending it to him at that address by electronic or other similar means which
+produces a document containing the text of the communication.
+(3) Any such document may in the case of a company be given to or served by—
+(a) delivering it to the company’s principal place of business or registered office
+in Bermuda; or
+(b) sending it by registered post addressed to the company’s principal place of
+business.
+Service of notice on Authority
+76
+(1) No notice required by this Act to be given to or served on the Authority shall be
+regarded as given or served until it is received.
+(2) Subject to subsection (1), such notice may be given by electronic or other
+similar means which produces a document containing the text of the communication.
+Civil debt and civil penalties
+77
+(1) When a person is convicted of an offence under this Act, such person shall not
+also be liable to a civil penalty imposed by or under this Act in relation to the same matters.
+(2) A civil penalty levied pursuant to this Act may be recovered by the Authority
+as a civil debt.
+Regulations
+78
+(1) The Minister may, after consulting with the Authority, make regulations
+prescribing anything which may be prescribed under this Act and generally for the
+implementation of this Act.
+(2) Without prejudice to the generality of subsection (1), regulations may in
+particular provide with respect to any of the following matters—
+(a) any matter relating to the conduct of a digital asset business;
+(b) the requirement for any additional service or services to be deemed a digital
+asset business activity;
+(c) the preparation, adoption and implementation of processes or procedures
+relating to a digital asset business.
+(3) Regulations made under subsection (1) may—
+(a) prescribe penalties not exceeding $10,000 for any breach of the
+regulations;
+
+51
+
+DIGITAL ASSET BUSINESS ACT 2018
+(b) make such transitional, incidental or supplementary provision as appears
+to the Minister to be necessary or expedient.
+(4) Regulations made under this Act shall be subject to the negative resolution
+procedure.
+Transitional
+79
+(1) An undertaking carrying on digital asset business prior to the commencement
+of this Act shall be required to submit an application to the Authority in accordance with
+section 12 within two months of the date of commencement of this Act.
+(2) An undertaking is liable to pay the fee prescribed by virtue of section 12 on the
+issue of its licence under subsection (1), but is liable to pay the fee prescribed thereunder
+on or before 31 March and annually thereafter, and the provisions of section 16(3) shall
+apply in relation to failure to pay such fee.
+(3) Where the undertaking referred to in subsection (1) makes an application for
+a licence within two months from the date of commencement of this Act, it may continue
+to carry on digital asset business activities without a licence until that application is
+approved, declined or withdrawn.
+Consequential amendments
+The consequential amendments set forth in Schedule 2 have effect.
+80
+Commencement
+81
+(1) This Act shall come into operation on such day as the Minister may appoint by
+notice published in the Gazette.
+(2) The Minister may appoint different days for different provisions.
+
+52
+
+DIGITAL ASSET BUSINESS ACT 2018
+SCHEDULE 1
+(Section 13)
+MINIMUM CRITERIA FOR LICENSING
+Controllers and officers to be fit and proper persons
+1
+(1) Every person who is, or is to be, a controller or officer of the licensed
+undertaking is a fit and proper person to hold the particular position which he holds or is
+to hold.
+(2) In determining whether a person is a fit and proper person to hold any
+particular position, regard shall be had to his probity, to his competence and soundness of
+judgement for fulfilling the responsibilities of that position, to the diligence with which he
+is fulfilling or likely to fulfil those responsibilities and to whether the interests of clients or
+potential clients of the licensed undertaking are, or are likely to be, in any way threatened
+by his holding that position.
+(3) Without prejudice to the generality of the foregoing provisions, regard maybe
+had to the previous conduct and activities in business or financial matters of the person in
+question and, in particular, to any evidence that he has—
+(a) committed an offence involving fraud or other dishonesty, or violence;
+(b) contravened any provision made by or under any enactment appearing to
+the Authority to be designed for protecting members of the public against
+financial loss due to dishonesty, incompetence or malpractice by persons
+concerned in the provision of banking, insurance, investment or other
+financial services or the management of companies or against financial loss
+due to the conduct of discharged or undischarged bankrupts;
+(c) engaged in any business practices appearing to the Authority to be
+deceitful or oppressive or otherwise improper (whether lawful or not) or
+which otherwise reflect discredit on his method of conducting business;
+(d) engaged in or has been associated with any other business practices or
+otherwise conducted himself in such a way as to cast doubt on his
+competence and soundness of judgement.
+Business to be conducted in prudent manner
+2
+(1) The licensed undertaking shall conduct or, in the case of an undertaking which
+is not yet carrying on digital asset business, will conduct its business in a prudent manner.
+(2) In determining whether a licensed undertaking is conducting its business in a
+prudent manner, the Authority shall take into account any failure by the undertaking to
+comply with the provisions of—
+(a) this Act;
+(b) any applicable law, including the provisions of the law pertaining to antimoney laundering and anti-financing of terrorism as provided in the
+Proceeds of Crime Act 1997, the Anti-Terrorism (Financial and Other
+
+53
+
+DIGITAL ASSET BUSINESS ACT 2018
+Measures) Act 2004 and the Proceeds of Crime (Anti-Money Laundering
+and Anti-Terrorist Financing) Regulations 2008;
+(c) codes of practice issued by the Authority pursuant to section 6 of this Act;
+(d) international sanctions in effect in Bermuda.
+(3) A licensed undertaking shall not be regarded as conducting its business in a
+prudent manner unless it maintains or, as the case may be, will maintain minimum net
+assets of $100,000 or such amount as the Authority may direct taking into consideration
+the nature, size and complexity of the licensed undertaking.
+(4) A licensed undertaking shall not be regarded as conducting its business in a
+prudent manner unless it maintains or, as the case may be, will maintain adequate
+accounting and other records of its business and adequate systems of control of its business
+and records, and has developed policies and procedures pertaining to its obligations under
+this Act or any other Act.
+(5) Those records and systems shall not be regarded as adequate unless they are
+such as to enable the business of the licensed undertaking to be prudently managed and
+the licensed undertaking to comply with the duties imposed on it by or under this Act or
+other provisions of law.
+(6) A licensed undertaking shall not be regarded as conducting its business in a
+prudent manner unless it has effected a policy of insurance to cover risks inherent in the
+operation of its business of an amount commensurate with the nature and scale of its digital
+asset business or has implemented such other risk mitigation measures as the Authority
+may agree.
+(7) Subparagraphs (2) to (6) are without prejudice to the generality of
+subparagraph (1).
+Integrity and skill
+The business of the licensed undertaking is or, in the case of an undertaking which
+3
+is not yet carrying on digital asset business, will be carried on with integrity and the
+professional skills appropriate to the nature and scale of its activities.
+Corporate governance
+4
+(1) The licensed undertaking shall implement corporate governance policies and
+processes as the Authority considers appropriate given the nature, size, complexity and risk
+profile of the licensed company.
+(2) Without prejudice to subparagraph (1) the business of the licensed undertaking
+shall be—
+(a) effectively directed by at least two persons; and
+(b) under the oversight of such number of non-executive directors appointed
+as the Authority considers appropriate given the nature, size, complexity
+and risk profile of the licensed undertaking.
+
+54
+
+DIGITAL ASSET BUSINESS ACT 2018
+Consolidated supervision
+The position of the licensed undertaking within the structure of any group to which
+5
+it may belong shall be such that it will not obstruct the conduct of effective consolidated
+supervision.
+
+55
+
+DIGITAL ASSET BUSINESS ACT 2018
+SCHEDULE 2
+(Section 79)
+CONSEQUENTIAL AMENDMENTS
+Amends Bermuda Monetary Authority Act 1969
+The Bermuda Monetary Authority Act is amended—
+1
+(a) in the Third Schedule, by adding the words “Undertaking licensed under
+the Digital Asset Business Act 2018”;
+(b) in the Fourth Schedule, by adding—
+“
+
+Digital Asset Business Act 2018
+(1) Application fee pursuant to section 12
+(2) Grant of licence to carry on digital asset business pursuant to
+Section 16(1)(a)—
+(a) The fee payable by a licensed undertaking carrying on digital
+asset business in accordance with section 10(2)(a), shall be
+the lower of amounts calculated under paragraphs (i) and (ii)
+where—
+(i)
+
+equals $450,000; and
+
+(ii)
+
+equals the higher of $15,000 and 0.00075 multiplied by
+the estimated client receipts.
+
+(b) The fee payable by a licensed undertaking carrying on digital
+asset business in accordance with section 10(2)(b), shall be
+the lower of amounts calculated under paragraphs (i) and (ii)
+where—
+(i)
+
+equals $450,000; and
+
+(ii)
+
+equals the higher of $15,000 and 0.00075 multiplied by
+the estimated client receipts.
+
+(c) The fee payable by a licensed undertaking carrying on the
+digital asset business activity of maintaining custody of
+client private keys in accordance with section 10(2)(c) shall
+be—
+(i)
+
+the lower of amounts calculated under paragraphs (a)
+and (b) where—
+(a) equals $450,000; and
+(b) equals the higher of $150,000 and 0.00075
+multiplied by the estimated client receipts.
+
+56
+
+$2,266
+
+DIGITAL ASSET BUSINESS ACT 2018
+
+(ii)
+
+where a licensed undertaking does not carry on the
+digital asset business activity under paragraph (c)
+above, the fee payable shall be the lower of amounts
+calculated under paragraphs (a) and (b) where—
+(a) equals $450,000; and
+(b) equals the higher of $100,000 and 0.00075
+multiplied by the estimated client receipts.
+
+(d) The fee payable by a licensed undertaking carrying on the
+digital asset business activity under section 10(2)(d) shall be
+the lower of amounts calculated under paragraphs (i) and (ii)
+where—
+(i)
+
+equals $450,000; and
+
+(ii)
+
+equals the higher of $150,000 and 0.00075 multiplied
+by the estimated client receipts.
+
+(e) The fee payable by a licensed undertaking carrying on the
+digital asset business activity under section 10(2)(e), shall be
+the lower of amounts calculated under paragraphs (i) and (ii)
+where—
+(i)
+
+equals $450,000; and
+
+(ii)
+
+equals the higher of $15,000 and 0.00075 multiplied by
+the estimated client receipts.
+
+(3) Annual fee pursuant to section 16(1)(b)—
+(a) The annual fee payable by a licensed undertaking carrying
+on digital asset business in accordance with section 10(2)(a),
+shall be the lower of amounts calculated under paragraphs
+(i) and (ii) where—
+(i)
+
+equals $450,000; and
+
+(ii)
+
+equals the higher of $15,000 and 0.00075 multiplied by
+the estimated client receipts.
+
+(b) The annual fee payable by a licensed undertaking carrying
+on digital asset business in accordance with section 10(2)(b),
+shall be the lower of amounts calculated under paragraphs
+(i) and (ii) where—
+(i)
+
+equals $450,000; and
+
+(ii)
+
+equals the higher of $15,000 and 0.00075 multiplied by
+the estimated client receipts.
+
+(c) The annual fee payable by a licensed undertaking carrying
+on the digital asset business activity of maintaining custody
+of client private keys in accordance with section 10(2)(c)
+shall be—
+
+57
+
+DIGITAL ASSET BUSINESS ACT 2018
+
+(i)
+
+the lower of amounts calculated under paragraphs (a)
+and (b) where—
+(a) equals $450,000; and
+(b) equals the higher of $15,000 and 0.00075 multiplied
+by the estimated client receipts.
+
+(ii)
+
+where a licensed undertaking does not carry on the
+digital asset business activity under paragraph (c)
+above, the annual fee payable shall be the lower of
+amounts calculated under paragraphs (a) and (b)
+where—
+(a) equals $450,000; and
+(b) equals the higher of $100,000 and 0.00075
+multiplied by the estimated client receipts.
+
+(d) The annual fee payable by a licensed undertaking carrying
+on the digital asset business activity under section 10(2)(d)
+shall be the lower of amounts calculated under paragraphs
+(i) and (ii) where—
+(i)
+
+equals $450,000; and
+
+(ii)
+
+equals the higher of $15,000 and 0.00075 multiplied by
+the estimated client receipts.
+
+(e) The annual fee payable by a licensed undertaking carrying
+on the digital asset business activity under section 10(2)(e),
+shall be the lower of amounts calculated under paragraphs
+(i) and (ii) where—
+(i)
+
+equals $450,000; and
+
+(ii)
+
+equals the higher of $15,000 and 0.00075 multiplied by
+the estimated client receipts.
+
+(4) For the purposes of this Schedule—
+“client receipts” means gross revenue from digital asset business services
+provided to clients by a licensed undertaking;
+“estimated client receipts” means estimated gross revenue earned from
+digital asset business services provided to clients by a licensed
+undertaking for the next year.”.
+Amends Anti-Terrorism (Financial and Other Measures) Act 2004
+2
+The Anti-Terrorism (Financial and Other Measures) Act 2004 is amended, in section
+2 in the definition of “AML/ATF regulated financial institution”, by inserting the following
+new paragraph after paragraph (f)—
+
+58
+
+DIGITAL ASSET BUSINESS ACT 2018
+“(g) carries on digital asset business within the meaning of section 2(2)
+of the Digital Asset Business Act 2018;”.
+Amends Proceeds of Crime (Anti-Money Laundering and Anti-Terrorist Financing
+Supervision and Enforcement) Act 2008
+3
+The Proceeds of Crime (Anti-Money Laundering and Anti-Terrorist Financing
+Supervision and Enforcement) Act 2008 is amended in section 2(1)—
+(a) in the definition of “AML/ATF regulated financial institution”, by inserting
+the following subsection after subsection “(i)”—
+“(j) carries on digital asset business in accordance with section 2 of
+the Digital Asset Business Act 2018;”
+(b) in the definition of “regulatory Acts”, by inserting a new paragraph after
+paragraph (h) —
+“(i) Digital Asset Business Act 2018.”
+Amends Proceeds of Crime Act 1997
+The Proceeds of Crime Act 1997 is amended, in section 42A(1) in the definition of
+4
+“AML/ATF regulated financial institution”, by inserting the following paragraph after
+paragraph (h)—
+“(i) is a licensed undertaking carrying on digital asset business within
+the meaning of section 4 of the Digital Asset Business Act
+2018.”.
+Amends Proceeds of Crime (Anti-Money Laundering and Anti-Terrorist Financing)
+Regulations 2008
+5
+The Proceeds of Crime (Anti-Money Laundering and Anti-Terrorist Financing)
+Regulations 2008 are amended, in section 2(2) in the definition of “AML/ATF regulated
+financial institution”, by deleting “or” from the end of paragraph (h), deleting the full stop
+at the end of paragraph (i) and substituting “; or” and inserting after paragraph (i) the
+following—
+“(j) is a licensed undertaking carrying on digital asset business within
+the meaning of section 4 of the Digital Asset Business Act
+2018;”.
+[Assent Date: 25 June 2018]
+[Operative Date: 10 September 2018]
+
+59
+
+

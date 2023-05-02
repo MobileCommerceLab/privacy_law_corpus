@@ -1,0 +1,3864 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+PESURUHJAYA PERLINDUNGAN
+DATA PERIBADI
+
+ 
+
+Ref. No.
+CoP_UTL(E)
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN exercise of the powers conferred by Section 23(3) of the Personal Data
+Protection Act 2010 (Act 709), | hereby register the Code of Practice for the
+Utilities (Electricity) Class of Data User and it is applicable to all data users under
+
+the said class with immediate effect.
+
+Dated: ) 2 June 2016
+
+Ne
+
+ 
+
+(MAZMALEK BIN MOHAMAD)
+Personal Data Protection Commissioner, Malaysia
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709)
+
+Page |
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709)
+
+Page 2
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+1.1 Intreduction
+
+1.11
+
+The Personal Data Protection Act 2010 (PDPA), which came into effect on 15
+November 2013, requires a separate code of practice for each specific class of
+data users,
+
+In this Code, certain words are used. The meaning of those words are explained
+in Appendix J (Definitions) of this Code.
+
+This Code:-
+
+(a) is developed by the Data User under Section 23(1)\(b) of the PDPA and is
+applicable to the Utilities Sector (Electricity);
+
+(b) regulates Processing of Personal Data by Data User and safeguards the
+rights of the Data Subject and the Personal Data;
+
+(c) provides operational approach to the principles of data protection under
+the PDPA; and
+
+(d} applies fo all Personal Data and/or Sensitive Personal Data Processed by
+Data User.
+
+The PDP Commissioner recognises that each Data User has different business
+practices and operates from different business locations. The PDP
+Commissioner grants each Data User the discretion and general flexibility to
+respond to issues arising under this Code, provided that the PDP Commissioner
+must be consulted before any Data User implements any action outside the
+scope of this Code. The PDP Commissioner shall notify the Data User of any
+decision within reasonable period after consultation, failing which, it is deemed
+approved by the PDP Commissioner.
+
+This Code governs the relationship between:-
+
+(a) aData User and a Data Subject;
+
+(b) a Data User and a Data Processor; and
+
+(c) a Data User and its employees who Process Personal Data.
+
+As an explanatory note:-
+
+(a) TNB is licensed under the Electricity Supply Act 1990, to generate,
+transmit and distribute electricity throughout Peninsular Malaysia to all
+consumers of electricity, whether individual or corporate;
+
+ 
+
+Persona] Data Protection Act 2010 (Act 709) Page 3
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+1.2 Status
+
+1.2.1
+
+1.2.2
+
+1.2.3
+
+1.2.4
+
+1.2.5
+
+1.2.6
+
+(b} SESB is licensed under the Electricity Supply Act 1990, to generate,
+transmit and distribute electricity throughout Sabah and Federal Territory
+Labuan to all consumers of electricity, whether individual or corporate;
+
+(c) SESCO is licensed under Sarawak Electricity Ordinance (Chapter 50), to
+generate, transmit and distribute electricity throughout Sarawak to all
+consumers of electricity, whether individual or corporate; and
+
+(d) a Data User will not be regarded as having breached this Code, if a Data
+User is required to comply with all relevant or applicable laws, rules and
+regulations governing the electricity supply industry.
+
+This Code is effective once it is registered by the PDP Commissioner.
+
+This Code applies to all Personal Data that is in the possession or under the
+control of, or kept by a Data User.
+
+A Data User who fails to comply with this Code may be regarded having
+committed an offence, and once convicted, be liable to a fine not more than
+RM100,000 or to imprisonment for a term net more than one year or to both,
+under Section 29 of the PDPA.
+
+Data User must also comply with the minimum requirements of the security
+standards, retention standards, integrity standards and any standard(s) as may be
+issued by the PDP Commissioner from time to time.
+
+For the avoidance of doubt, in the event of any conflict between:
+
+(a) the standards issued by the PDP Commissioner;
+(b) this Code;
+
+(c) any other standard{s) (or their equivalent) set by the Industry Regulator of
+the Utilities Sector (Electricity); and/or
+
+(d) any other standard(s) (or their equivalent) as may be prescribed by the law;
+
+the document setting the higher standard will prevail to the extent of the
+conflict.
+
+In the event of any conflict between this Code and:-
+
+(a) any laws, rules or regulations applicable to the electricity supply industry; or
+
+(b) the terms or conditions of any licence or approvals issued or conditions
+imposed by the Industry Regulator;
+
+Data User is expected to comply with all laws, rules and regulations applicable to
+the electricity supply industry.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 4
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+1.2.7 Inthe event of any conflict between the English and National Language versions of
+the Code, the English version shall prevail.
+
+1.2.8 Examples provided in this Code are not intended to be exhaustive but are included
+for context and purposes of illustration.
+
+1.2.9 Appendix V provided in this Code are not intended to be exhaustive but may be
+amended from time to time as approved by the PDP Commissioner.
+
+1.2.10 Recommendations provided in this Code specifically under Appendix II and [V
+are not mandatory but are a guide on good practices that Data User is encouraged
+to adopt.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 5
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+2.1 Background
+
+2.1.1 Personal Data of the Data Subject includes:-
+
+(a)
+(b)
+(c)
+(d)
+(e)
+
+(f)
+(g)
+(h}
+
+(i)
+
+name;
+address;
+
+telephone number;
+email address;
+
+identification documents, such as Official Identification Documents, and
+information contained on it;
+
+photograph or video image;
+audio recording;
+
+all other information, whether verbal or Written, which identifies the Data .
+Subject; and
+
+all other contact detaiis or information related to item (a) to (k) provided by
+the Data Subject.
+
+In addition to the above list of Personal Data, the Data User may collect the
+following Personal Data from the employees of the Data User;
+
+(a)
+(b)
+
+fingerprint or DNA profile;
+
+information on education or work background; and
+
+(c) medical records or information.
+
+2.1.2 Personal Data is Collected by Data User through:-
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+account opening forms;
+
+account closing forms;
+
+change of particulars forms;
+
+electricity supply agreements;
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 6
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+(e)
+(f)
+
+image recorded through CCTV or other electronic media; and
+
+other information or documents provided by a Data Subject in Writing, over
+the telephone, electronically by Instant Messaging, email, or through the
+Data User’s Corporate Website.
+
+2.1.3 Section 5 of the PDPA sets out seven principles to be complied with by Data User
+when Processing:-
+
+(a)
+(b)
+(c)
+(d)
+(e)
+)
+(g)
+
+General Principle;
+
+Notice and Choice Principle;
+Disclosure Principle;
+Security Principle;
+Retention Principle;
+
+Data Integrity Principle; and
+
+Access Principle.
+
+2.2 General Principle (Section 6 of the PDPA)
+
+General
+
+2.2.1 Under the General Principle:-
+
+(a)
+
+(b)
+
+(c)
+
+consent should be obtained, except for situations described under 2.2.2;
+
+explicit consent is required for the Processing of Sensitive Personal Data as
+described under 4.2; and
+
+Personal Data must only be Collected or Processed;
+
+G) for a lawful purpose directly related to an activity of a Data User;
+(ii} necessary for or directly related to that purpose; and
+
+(iii) | adequate but not excessive in relation to that purpose.
+
+Example A: When submitting an application form for electricity supply, the
+Data Subject must provide the names of Data Subject’s family member and
+this will not be considered as excessive.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709} Page 7
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Consent
+
+2.2.2 Consent is not required if Processing is:-
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+()
+
+(f)
+
+requested by the Data Subject with a view to enter into a contract;
+
+Example A: Where a Data Subject applies for electricity supply, he must
+enter into a contract with the Data User.
+
+Example Al: Where a contractor appointed by the Data Subject, collects,
+submits and processes the Data Subject’s Personal Data to apply for
+electricity supply on behalf of the Data Subject.
+
+for the performance of a contract to which the Data Subject is a party;
+
+Example B: Where a Data Subject enters into a contract with a Data User
+in order to obtain electricity supply.
+
+to comply with any legal obligation to which the Data User is the subject,
+other than an obligation imposed by a contract;
+
+Example C: The consent of the Data Subject is not required if the
+Processing is due to a written request made to the Data User, by the
+Federal or State Government or other law enforcement authorities, to
+provide Personal Data of Data Subject, and such request complies with
+Malaysian laws or statutory rules and regulations.
+
+For example, a request from the Royal Malaysian Police, Inland Revenue
+Board of Malaysia, Malaysian Anti-Corruption Commission, Ministry of
+Domestic Trade, Co-operatives and Consumerism, Royal Malaysian
+Customs Department and Malaysia Department of Insolvency to obtain the
+Data Subject’s Personal Data for the purpose of investigation
+
+to protect the vital interests of the Data Subject;
+
+Example D: The consent of the Data Subject is not required if the
+Processing is due to the written request by the Royal Malaysian Police or
+the Data Subject’s spouse, parents and children in matters relating to life,
+death or security of the Data Subject.
+
+for the administration of justice; or
+Example E: The consent from the Data Subject is not required, if the
+
+Processing is for the purpose of litigation, mediation, arbitration,
+conciliation proceedings or any similar in nature.
+
+for the exercise of any functions conferred on any person by or under any
+law.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 8
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+2.2.3
+
+2.2.4
+
+2.2.5
+
+2.2.6
+
+Example F: The consent from the Data Subject is not required, if the Processing
+is fo comply with the court order.
+
+The PDP Regulations provide that consent, whether express or implied, must be
+obtained in any method capable of being recorded and maintained by a Data User.
+
+Examples of such methods include:-
+
+(a) signatures or clickable box indicating consent;
+(b) deemed consent;
+
+(c) verbal consent; or
+
+(d) consent by conduct/performance.
+
+Consent is deemed given by way of conduct/performance if:-
+
+(a) the Data Subject does not object to the Processing;
+
+(b) the Data Subject voluntarily Discloses Data Subject’s Personai Data; or
+(c) the Data Subject proceeds to use the services of the Data User.
+
+Verbal consent should be recorded either digitally (such as, through the use of call
+logger and recorder software) or by issuing a communication (such as, a letter, a
+form or an email from the Data User’s Corporate Website) to the Data Subject
+confirming that consent was given.
+
+For transactions between a Data User and a company, society, partnership,
+organisation or any other legal entity (“the Legai Entities’) which involves any
+Personal Data, it is the Legal Entities’ responsibility to obtain prior consent from
+the owner of the Personal Data. For avoidance of doubt, the Legal Entities shall
+warrant that consent from the owner of the Personal Data has been obtained in
+accordance with PDPA.
+
+Consent given on behalf of the Data Subject
+
+2.2.7
+
+Any consent given to a Data User shall bind the Data Subject if given:-
+
+(a) by the parent(s), legal guardian(s} or person(s) who has parental
+responsibility on the Data Subject, if the data subject is under the age of
+18; or
+
+(b) by a person who is appointed by a court to manage the affairs of the Data
+Subject or a person authorized in writing by the Data Subject to act on his
+behalf.
+
+2.3 Notice and Choice Principle (Section 7 of the PDPA)
+
+2.3.1
+
+Data User must Disclose their PDP Notice to Data Subject before or as soon as
+practicable after Collecting and Processing of Personal Data.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 9
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice ~ Utilities Sector (Electricity)
+
+2.3.2 The PDP Notice must contain:-
+
+(a}
+
+(b)
+
+(c)
+(d)
+
+(e)
+
+(
+
+(g)
+
+(h)
+
+that Personal Data of the Data Subject is being Processed by or on behalf of
+the Data User, and its description
+
+the purposes for which the Personal Data is being, or is to be, Collected and
+Processed;
+
+any available information on the source of Personal Data;
+
+the Data Subject’s right to access and to correct Data Subject’s Personal
+Data and how to contact the Data User for any inquiries/complaints. Data
+User shall at least provide the following;
+
+(i) designation of the contact person;
+(ii) ~~ phone number;
+
+(iii) = fax number (if any);
+
+(iv) email address (if any); and
+
+(v) such other related information.
+
+a description of Third Parties as described in Appendix V to whom Personal
+Data may be Disclosed and the reasons for Disclosure
+
+the choices and means the Data User offers the Data Subject for limiting
+the Processing of Data Subject’s Personal Data, including Personal Data
+relating to other persons who may be identified from that Personal Data;
+
+a statement whether the Disclosure of Personal Data is compulsory or
+voluntary; and.
+
+if the Disclosure of Personal Data by Data Subject is compulsory, the
+consequences of failing to do so.
+
+2.3.3. The PDP Notice must be issued by Data User in English and in National
+Language.
+
+Method of Communicating the PDP Notice
+
+2.34 The service of PDP Notice to the Data Subject shall be effected, by using one or
+more of these methods:-
+
+(a)
+(b)
+
+)
+
+by delivering the PDP Notice to the Data Subject; or
+
+by leaving the PDP Notice at the last-known address of residence or place of
+business of the Data Subject in a covered address to that Data Subject; or
+
+by forwarding the PDP Notice by posted in and A.R registered at later
+addressed to the Data Subject at Data Subject’s last-known address of
+residence of place of business; Where a person refuses or neglects to take
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 10
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+delivery of an A.R. registered letter, such PDP Notice shall be deemed to
+have been served to the Data Subject.
+
+2.3.5 The PDPA does not require proof that the PDP Notice is received and/or accepted
+by the Data Subject.
+
+2.4 Disclosure Principle (Section 8 of the PDPA)
+
+2.4.1 The Disclosure Principle is related to the Notice and Choice Principle and for the
+purpose for which Personal Data is Collected.
+
+Permitted Disclosures
+
+2.4.2 Subject to 2.4.3, no Personal Data shall be disclosed without the consent of the
+Data Subject for any purpose other than:-
+
+(a) the purpose declared at the point of Collection; or
+
+Example A: In the Process of supplying electricity, Data Subject’s Personal
+Data has to be provided to the Third Party to whom the Daia User has
+outsourced some of its activities.
+
+(b) for a purpose directly related to the purpose declared at the point of
+Collection (for example, a purpose closely associated to the primary
+
+purpose); or
+
+Example B: A Data Subject defaults on Data Subject’s electricity bill or tax
+invoice. The Data User Discloses the relevant particulars of the Data
+Subject and Data Subject’s debt to a solicitor or debt collection agent to
+recover the amounts outstanding.
+
+(c) to any party other than a third party of the class of third parties as specified
+in Appendix V. The Data User shall keep and maintain a list of Disclosure
+to third parties for the purposes of this paragraph in relation to Personal
+Data of the Subject Data that has been or is being Processed by the Data
+User.
+
+Extent of Disclosure of Personal Data
+
+ 
+
+2.4.3 Personal Data may be Disclosed for any purpose or to any person not mentioned
+under the PDP Notice under the following circumstances:-
+
+{a) the Data Subject has given Data Subject’s consent to the Disclosure;
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 11
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Example A: The Data User realises that consent is required and proceeds
+to write to the Data Subject requesting for such consent, which is then
+provided by the Data Subject.
+
+(b) to prevent or detect a crime, or for investigations;
+
+Example B; Where there has been a security breach within the Data User’s
+organization or premises, and the Data User proceeds to Disclose the
+information to a forensics specialist for internal investigation.
+
+(c) authorized by any law or court order;
+
+Example C: Where Disclosures are made by a Data User to regulatory
+authorities having jurisdiction over the Data User, or where Disclosure by
+the Data User is necessary to comply with a court order.
+
+(d} the Data User acted in the reasonable belief that the Data User had in law
+the right to Disclose the Personal Data to the other person;
+
+Example D: An injunction is served on the Data User in respect of a Data
+Subject’s account, requesting the Data User to Disclose Personal Data.
+
+Example Di: Where there is proclamation of sale, the Data User may
+Discioses Data Subject’s Personal Data to the successful bidder and/or
+Data Subject’s solicitor.
+
+(e) the Data User reasonably believed that the Data Subject will consent;
+
+Example E; For the payment of electricity bill or tax invoice, the Data User
+Discloses Personal Data to Data Subject’s family members.
+
+(f) the Disclosure was made in the public interest as determined by the
+Minister;
+
+Permitted Disclosure as requested by regulatory, statutory authority or as required by a
+court order
+
+2.4.4 Ifarequest for Disclosure is directed to a Data User by any regulatory or statutory
+authority, or where the Disclosure is required or authorised by or under any law or
+by an order of court, the Data User must:-
+
+(a) release the requested Personal Data upon receipt of Written request citing
+the relevant legal basis of the request; and
+
+(b) wherever appropriate, set conditions stipulating the permitted use of
+Personal Data and its return.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 12
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+2.5 Security Principle (Section 9 of the PDPA)
+
+2.5.1
+
+2.5.2
+
+2.5.3
+
+2.5.4
+
+Under the Security Principle, Data User should take practical steps in order to
+safeguard the confidentiality, integrity and availability of Personal Data within the
+control of a Data User. The steps include implementing appropriate
+administrative, physical and technical measures to protect Personal Data from any
+loss, misuse, modification, unauthorized or accidental access, Disclosure,
+alteration or destruction.
+
+The meaning of “practical steps” will vary from case to case, depending on the
+nature of Personal Data being Processed by the Data User and the degree of
+sensitivity attached to the Personal Data or the harm that the Data Subject might
+suffer due to its loss, misuse, modification, unauthorized or accidental access,
+Disclosure, alteration or destruction.
+
+Data User should take practical steps in implementing security measures to
+protect Personal Data within the control of a Data User, by taking into
+consideration of the following:-
+
+(a} the nature of Personal Data and the harm that would result from such loss,
+misuse, modification, unauthorized or accidental access, Disclosure,
+alteration or destruction;
+
+(b) _ the place or location where Personal Data is stored shall not be exposed to
+physical and natural threats,
+
+(c) any security measures incorporated into any equipment in which Personal
+Data is stored;
+
+(d) the measures taken for ensuring the reliability, integrity and competence of
+personnel having access to Personal Data; and
+
+(e) the measures taken for ensuring the secure transfer of Personal Data.
+
+The Data User shall assess their existing policies and implement measures,
+including but not limited to the following:
+
+(a) Administrative:-
+Gj)  Confidentiality/ Non-disclosure Agreement;
+(ii) | Supervision/ monitoring of personnel;
+(iii) Training and education plan for personnel;
+
+(b) Physical:-
+GQ) Door access system to control entry into and exit from premises
+where Persona] Data is stored;
+(ii) CCTV Gf required);
+(iit) 24 hours security surveillance (if required);
+_ (iv) for Personal Data that is processed manually, the measures include;
+
+. Filing the Personal Data in organised manner;
+. Keeping files containing Personal Data in locked storage
+facilities;
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 13
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+2.5.5
+
+° Keeping storage keys in a secure place/area; and
+* Recording the movement of storage keys.
+
+{c) Technical:-
+(i) Access authorisation systems;
+(11) Back-up/ Recovery System;
+Gii) Anti-virus and anti-malware software; and
+(iv) — Encryption (if required).
+
+In addition, a Data User should consider implementing disaster recovery plans
+and business continuity plans to effectively secure Personal Data against any
+possible disaster and business interruption. Periodical review and testing should
+be conducted by Data User to ensure the effectiveness of their disaster recovery
+and business continuity plans. Records of such review and testing should be
+maintained by Data User.
+
+Data Processor
+
+2.5.6
+
+2.5.7
+
+If a Data Processor is appointed by the Data User, such as an outsourced service
+provider, vendor or supplier, it is recommended that Data User uses reasonable
+efforts to include in its agreement with the Data Processor (whether in the form of
+a contract, letter or any formal written document):-
+
+(a) confidentiality, non-disclosure and security requirements;
+(b) conditions under which Personal Data may be Processed;
+
+(c) representations, undertakings, warranties and/or indemnities which are to be
+provided by the Data Processor;
+
+(d} security measures governing the Processing to be carried out as may be -
+
+contained in the Data User’s internal security policy and/or standards.
+
+Access to Data User’s premises or equipment must be on a need to basis and must
+not be given to anyone who is not an employee of the Data Processor, or for a
+purpose not related to the Processing of Personal Data, unless agreed by an
+employee authorised by the Data User.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 14
+
+ 
+
+ 
+Tn
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+2.6 Retention Principle (Section 10 of the PDPA)
+
+Retention of Personal Data
+
+2.6.1 The PDPA does not specify the applicable durations that Personal Data may be
+retained by a Data User as long as it is necessary to fulfil the purpose for which it
+was collected and in relation to the Data User’s business needs.
+
+2.6.2 If Personal Data is to be destroyed, Data User is required to permanently destroy
+or delete manual and electronic versions of Personal Data.
+
+2.6.3 In cases where a Data User needs to retain Personal Data beyond a specified
+statutory period, the Data User should be able to show a reasonable need to retain
+Personal Data beyond the applicable statutory period.
+
+Example A: The commencement of legal proceedings or investigations
+concerning the Data Subject would qualify as grounds for continuing to retain the
+Personal Data until the disposal/closure of the matter and the expiry of the
+retention period specific to the matter itself.
+
+2.6.4 The PDPA does not replace other provisions of Malaysian law that require the
+retention of information or documents for a specified minimum duration, such as,
+the Companies Act 1965, Income Tax Act 1967, Employment Act 1955, Sabah
+Labour Ordinance, Sarawak Labour Ordinance, the Limitation Act 1953, Sarawak
+Limitation Ordinance, and Sabah Limitation Ordinance (Cap 72). The PDPA and
+other applicable laws must be read together.
+
+2.6.5 Personal Data may be retained as long as it is required for the following
+purposes:-
+
+(a) legal proceedings or a regulatory or similar investigation or obligation to
+produce the said information;
+
+(b) acrime is suspected or detected; or
+(c) information is considered to be of potential historical importance,
+Provided that Data User shall not use the Personal Data retained for any other
+
+purposes. This requirement applies to both manual and electronic copies of
+documents containing Personal Data:
+
+Destruction of Personal Data
+
+2.6.6 “Destruction” is applicable to paper based Personal Data and “Permanent
+Deletion” is applicable to electronic based Personal Data.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 15
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+2.6.7
+
+2.6.8
+
+2.6.9
+
+2.6.10
+
+2.6.11
+
+2.6.12
+
+Personal Data which is physically archived is still subject to the provisions of the
+PDPA and will continue to remain so until it is destroyed, permanently deleted or
+anonymised. The Data User’s retention policies should address restricted access
+to and the destruction of Personal Data.
+
+Data User will need to utilise proper means to destroy Personal Data, such as,
+using a shredder machine or incinerating the discarded Personal Data.
+
+In terms of Personal Data stored on an electronic medium, the “permanent
+deletion” of the Personal Data will require the electronic media (such as, hard
+drive or a USB thumb drive) to be wiped clean once the data has been deleted.
+Data User is to take reasonable effort to permanently delete Personal Data from
+electronic media.
+
+Personal Data may also be retained for statistics or analysis basis provided that
+the Data Subject’s Personal Data has been anonymised.
+
+For inactive Personal Data, the Data User should have a disposal schedule for a
+period of 24 months. The disposal schedule should be properly maintained.
+
+The Data User should dispose personal data collection form which is used for
+commercial transaction within the period of 14 days, unless the form has legal
+value that relates to the commercial transaction.
+
+2.7 Data Integrity Principle (Section 11 of the PDPA)
+
+2.7.1
+
+Under the Data Integrity Principle, Data User must take reasonable steps to ensure
+that Personal Data is “accurate, complete, not misleading and kept up-to-date”,
+having regard to the purpose for which Personal Data was Collected and Processed.
+Data User are not required to verify the accuracy and completeness of Personal
+Data.
+
+Reasonable Steps
+
+2.7.2
+
+These “reasonable steps’ depend on the circumstances of each case and the
+purpose why Personal Data was Collected.
+
+Example A: Where Personal Data is retained by the Data User for issuing monthly
+electricity bills or tax invoices to the Data Subject, it is reasonable for the Daia
+User to ensure that the Personal Data remains correct by way of verifying the
+Personal Data based on Official Identification Documents from the Data Subject.
+However, it is unreasonable to expect the Data User to ensure that the address of
+the Data Subject is always kept up-to-date.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 16
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Example B: The Data User may remind the Data Subject to update the Personal
+Data by notifving the Data Subject through the electricity bill or tax invoice
+and/or Data User’s Corporate Websites, But it is the responsibility of the Data
+Subject to notify the Data User of any changes to the Personal Data.
+
+Personal Data is Accurate, Complete, Not Misleading and Kept Up-To-Date
+
+ 
+
+2.7.3 The Data Subject must take reasonable steps to ensure that Personal Data
+Processed in relation to a Data Subject is:-
+
+{a)
+(b)
+
+i)
+
+(d)
+
+Accurate — meaning that the Personal Data is captured correctly.
+
+Complete — meaning that there is no omission of details in the Data Subject
+Personal Data; for example, the information recorded by the Data User must
+correctly reflect the information given by the Data Subject.
+
+Not misleading — meaning that Personal Data Processed should not be
+ambiguous, deceiving or an oversight; for example, the marital status of the
+Data Subject should not be falsely reflected by the Data User.
+
+Kept up-to-date — meaning that the Data User should ensure that the
+Personal Data is the latest data given by the Data Subject; for example, the
+change of address made by the Data Subject must be recorded by the Data
+User.
+
+Complying with the Data Integrity Principle
+
+ 
+
+2.7.4 The following steps may be considered by Data User to comply with the Data
+Integrity Principle:-
+
+2.7.5
+
+2.7.6
+
+(a)
+
+(b)
+
+The Data User may require the Data Subject fo inform the Data User of any
+change to Data Subject’s Personal Data. The Data User will not be in breach
+of the Data Integrity Principle if the Data User is not informed by the Data
+Subject of changes to Data Subject’s Personal Data.
+
+The Data User will provide a Data Correction Request to update or correct
+Data Subject’s Personal Data at branches of the Data User and at other points
+of contact with Data Subject.
+
+The Data User will not be in breach of the Data Integrity Principle if the Personal
+Data provided by the Data Subject is inaccurate, incomplete, misleading and not
+up-to-date.
+
+The Data User need not update or correct Data Subject’s Personal Data based on
+information given by any party other than the Data Subject.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 17
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+2.7.7 The Data Integrity Principle will not be breached ift-
+
+(a) a Data User retains Personal Data which is historical in nature (for example,
+the previous address of the Data Subject); and
+
+(b) a Data User retains Personal Data that records events that happened in error
+(for example, where a Data Subject’s account was accidentally terminated
+
+but has since been reinstated, the Data User is permitted to retain all records
+as it accurately reflect the error).
+
+2.8 Access Principle (Section 12 of the PDPA)
+2.8.1 Under the Access Principle, Data Subject shall be given the following rights:-
+(a) the right to access to Data Subject’s Personal Data as set out in 3.1; and
+
+(b) the right to correct Data Subject’s Personal Data which is inaccurate,
+incomplete, misleading or not up-to-date as set out in 3.2.
+
+2.8.2 The right to access under 2.8.1 (a) can be refused by the Data User as stated in
+3.1.15.
+
+2.8.3 The right to correct under 2.8.1(b) can be refused by the Data User as stated in
+3.2.9.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 18
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+3.1 Right of Access to Personal Data (Section 30 of the PDPA)
+
+3.1.1
+
+Data Subject/Relevant Person has the right to access Data Subject’s Personal Data
+or Data Access Request (“DAR”) by;
+
+(a) using the form as set out in Appendix VI of this Code; and
+
+(b) if required, paying the prescribed fee under the PDP (Fees) Regulations as
+set out in 3.1.9.
+
+Data Subject/Relevant Person may only access Data Subject’s own Personal Data
+and must not be granted access to another person’s Personal Data.
+
+Where a Data Subject/Relevant Person does not require a copy of Personal Data,
+Data Subject/ Relevant Person shall inform the Data User in writing of the Data
+Subject’s intention upon making a DAR of the Data Subject’s Personal Data.
+
+Upon receiving the DAR, the Data User shail acknowledge the receipt of such
+request and must provide to the Data Subject/Relevant Person, a copy of the Data
+Subject’s Personal Data in an intelligible form.
+
+However, the Data User has the right to refuse DAR submitted by the Data
+Subject/Relevant Person as provided under 3.1.16.
+
+Data Subject/Relevant Person is entitled to access Data Subject’s Personal Data
+by submitting a DAR at the Data User’s premises.
+
+Data User need to submit a copy of Personal Data to the Data Subject/Relevant
+Person, within 21 Days from the date of receipt of such DAR, and shall be taken
+by the Data Subject/Relevant Person or by authorised representative at the counter
+where the proposed DAR is submitted.
+
+Where the initial 21 Days from the date of receipt of such DAR is insufficient,
+Data User must notify the Data Subject/Relevant Person in writing of any delay
+and an extension of not more than 14 Days from the date of receipt of such DAR
+is automatically granted to the Data User.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 19
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+3.1.9 Data User is entitled to charge the Data Subject/Relevant Person for each DAR
+
+submitted. The maximum fees payable by a Data Subject/Relevant Person for the
+a DAR are:-
+
+submission of
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a) For Personal Data with a copy 10
+
+(b) For Personal Data without a copy 2
+
+(c) For Sensitive Personal Data with a 30
+copy
+
+(d) For Sensitive Personal Data without a 5
+copy
+
+ 
+
+ 
+
+3.1.10 Where a Data Subject has more than one account with a Data User, and the Data
+Subject/Relevant Person requests access to Data Subject’s Personal Data for more
+than one account, the Data Subject/Relevant Person is required to submit a
+
+separate DAR
+
+for each account.
+
+3.1.11 If there is any request for a copy of electricity bill by the Data Subject/Relevant
+Person, Data User may charge the Data Subject/Relevant Person based on 3.1.9.
+
+DAR Processing
+
+3.1.12 Data User has the right to require the Data Subject/ Relevant Person to verify
+
+Data Subject’s identity to the Data User’s satisfaction ift-
+
+(a) the Data Subject’s identification details do not correspond with the Data
+Subject’s details kept by the Data User;
+
+(b} the Data Subject/Relevant Person does not pay the prescribed fees for the
+
+DAR; or
+
+(c) the Personal Data requested is not clearly specified in the DAR.
+
+3.1.13 Before Processing a DAR, the Data User may, if it is of the view that it is
+necessary and/or appropriate, contact the Data Subject/Relevant Person at Data
+Subject’s last known telephone number/facsimile number/e-mail address to
+confirm that the DAR is genuine (for example, where there is suspicion of
+deception/false or misleading information is provided/insufficient documentation
+
+provided).
+
+3.1.14 Where the Data User is uncertain as to exactly what Personal Data is being
+requested by the Data Subject/Relevant Person under the DAR, the Data User
+may request for further information, such as, account numbers, dates of
+
+communication or description of the interaction with the Data User.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709)
+
+Page 20
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+3.1.15 Once the Data User has obtained all the necessary information required to Process
+the DAR, the requested Personal Data must be provided to the Data
+Subject/Relevant Person or to authorised representative, except where a DAR
+may be rejected under the PDPA and as set out in 3.1.16.
+
+3.1.16 Data User has the right not to comply with or to reject a DAR if:-
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+D
+
+{g)
+(h)
+
+the DAR is requested by the Data Subject himself and the Data User is not
+supplied with necessary information as may reasonably require in order to
+satisfy the Data User as to the identity of the Data Subject (for example,
+Data Subject’s name, identification card number, address, and such other
+related information as the Data User may determine);
+
+the DAR is requested by the Relevant Person and the Data User is not
+supplied with such information as may reasonably require in order to satisfy
+the Data User;
+
+G) as to the identity of the Data Subject in relation to the Relevant
+Person; and
+
+(ii} as to the identity of the Relevant Person in relation to the Data
+Subject.
+
+the Data User is not supplied with such information as the Data User may
+reasonably require to locate the Personal Data to which the data access
+request relates;
+
+the burden or expense of providing access to the Personal Data is not
+proportionate to the risk to the Data Subject’s privacy (for example, if the
+time and cost to be incurred by the Data User is greater than the significance
+of the data requested under DAR);
+
+the Data User is unable to comply with the DAR without Disclosing another
+individual’s Personal Data, unless the individual has consented to the
+Disclosure to the Data Subject/Relevant Person, or unless the Data User
+knows it is reasonable to comply with the DAR without the consent of the
+other individual;
+
+if the DAR is made to the Data User but the processing of the Personal Data
+is controlled by the other data user to which the Data User is in such a way
+is prohibited from complying with the DAR, whether in whole or in part,
+except to any extent that the Data User can comply with the DAR without
+contravening the prohibition concerned;
+
+providing access would violate a court order;
+providing access would Disclose confidential commercial information;
+
+such access is regulated by a law other than the PDPA, such as, laws or
+regulations relating to the supply of electricity.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 21
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+3.1.17
+
+3.1.18
+
+3.1.19
+
+3.1.20
+
+3.1.21
+
+Where a Data User receives a verbal request to access Personal Data, the Data
+User is not required to respond to such request. However, the Data User should
+guide the Data Subject on the proper method of submitting a valid DAR and
+provide assistance as may be required by the Data Subject to submit a DAR.
+
+Data User must maintain a record of all DAR received and the decisions made on
+approving or not approving each DAR. This will enable the Data User to answer
+any enquiry from the Data Subject/Relevant Person or investigations by the PDP
+Commissioner.
+
+Where a Data User unable to comply with a DAR, the Data User is obliged within
+21 Days from the date of receipt of such DAR to provide the Data
+Subject/Relevant Person or Data Subject’s authorized representative with a
+written notice, with reasons for such refusal and subject to an extension of 14
+Days.
+
+The PDP Regulations provide that where a Data Subject does not require a copy
+of the Personal Data, the Data Subject must inform the Data User in writing of the
+Data Subject’s reasons for submitting the DAR. Data User may assume that the
+Data Subject is submitting the DAR to either:-
+
+(a) confirm whether or not the Data User retains any Personal Data in respect of
+the Data Subject; or
+
+(b) provide the Data Subject with details, but not a copy, of the requested
+Personal Data.
+
+A DAR needs to be specific as to the Personal Data that is being sought. in this
+context, a request for “all Personal Data” is not considered a valid DAR.
+
+3.2 Right to Correct Personal Data (Section 34 of the PDPA)
+
+3.2.1
+
+3.2.2
+
+3.2.3
+
+Data Subject/Relevant Person has the right to correct Data Subject’s Personal Data
+or Data Correction Request (“DCR”) by using the form as set out in Appendix VI
+of this Code.
+
+However, the Data User has the right to refuse DCR submitted by the Data
+Subject/Relevant Person as provided under 3.2.9.
+
+The Data Subject/ Relevant Person may submit a DCR to the Data User to correct
+Data Subject’s Personal Data at the Data User's premises, if:-
+
+(a) after receiving a copy of the Personal Data from the Data User under 3.1.4,
+the Data Subject knows that Data Subject’s Personal Data may be
+inaccurate, incomplete, misleading or not up-to-date; or
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 22
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+3.24
+
+3.2.5
+
+3.2.6
+
+3.2.7
+
+3.2.8
+
+3.2.9
+
+(b) the Data Subject knows that Data Subject’s Personal Data may be
+inaccurate, incomplete, misleading or not up-to-date.
+
+Data User must deliver a copy of the corrected Personal Data to the Data
+Subject/Relevant Person, within 2] Days from the date of receipt of the DCR, and
+to the Data Subject personally over the counter at which the DCR is submitted.
+
+Where the initial 21 Days from the date of receipt of the DCR is insufficient, the
+Data User shall by notice in writing inform the Data Subject of the delay and an
+extension of not more than 14 Days is granted to the Data User.
+
+Data User is not entitled to require any payment from the Data Subject for the
+DCR.
+
+Data User may request for supporting evidence from Data Subject before making
+any corrections under a DCR.
+
+If Personal Data has been Disclosed to a Third Party to a third party during the 12
+months immediately preceding the day on which the correction is made, the Data
+User must take practicable steps to supply the Third Party with a copy of the
+corrected Personal Data together with a written notice stating reasons for the
+correction. The corrected Personal Data shall be personally collected by the Third
+Party at the Data User’s premises.
+
+Data User has the right not to comply with or to refuse a DCR if:-
+
+(a) the DCR is requested by the Data Subject himself and the Data User is not
+supplied with necessary information as the Data User may reasonably
+require in order to satisfy the Data User as to the identity of the Data Subject
+(for example, Data Subject’s name, identification card number, address, and
+such other related information as the Data User may determine);
+
+(b) the DCR is requested by the Relevant Person and the Data User is not
+supplied with such information as may reasonably require in order to satisfy
+
+the Data User;
+(i) as to the identity of the Data Subject in relation to the Relevant Person;
+and
+
+(il) as to the identity of the Relevant Person in relation to the Data Subject,
+the Data User is unable to verify that the Data Subject is the person
+who submitted the DCR;
+
+(c) the data user is not supplied with such information as he may reasonably
+require to ascertain in what way the personal data to which the data
+correction request relates is Inaccurate, incomplete, misleading or not up-to-
+date:
+
+Example A: The Data Subject submits a DCR to correct Data Subject’s
+name but does not provide supporting documents from the National
+Registration Department.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 23
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+(d) the Data User is not satisfied that the personal data to which the data
+correction request relates is inaccurate, incomplete, misleading or not up-to-
+date;
+
+(ec) the data user is not satisfied that the correction which is the subject of the
+data correction request is accurate, complete, not misleading or up-to-date;
+or
+
+(f) ifthe DCR is made to the Data User but the processing of the Personal Data
+is controlled by the other data user to which the Data User is in such a way
+is prohibited from complying with the DCR, whether in whole or in part,
+except to any extent that the Data User can comply with the DCR without
+contravening the prohibition concerned;
+
+3.2.10 Data User must maintain a record of all DCR received and the decisions made on
+
+approving or not approving each DAR. This will enable the Data User to answer
+any enquiry from the Data Subject or investigations by the PDP Commissioner.
+
+3.2.11 Where a Data User unable to comply with a DCR, the Data User must, within 21
+
+Days from the date of receipt of such DCR to provide the Data Subject/Relevant
+Person with a written notice of the refusal to comply together with reasons subject
+to an extension of 14 Days.
+
+3.3 Right to Prevent Processing Likely to Cause Damage or Distress (Section 42 of the
+
+PDPA)
+
+3.3.1
+
+3.3.2
+
+3.3.3
+
+Data Subject may, at any time, request in Writing that the Data User ceases or not
+begins the Processing of Personal Data. The Data Subject must give reasons that
+such Processing causes or is likely to cause substantial and unwarranted damage
+or distress to the Data Subject.
+
+Under 3.3.1, “unwarranted” and “substantial damage or distress” may be
+illustrated as set out below:-
+
+(a) “substantial damage” includes financial loss suffered by the Data Subject;
+
+(b) “substantial distress” includes emotional or mental trauma suffered by the
+Data Subject; and
+
+(c) “unwarranted” means that the damage or distress suffered by the Data
+Subject is not justifiable.
+
+The Data Subject does not have the right to prevent Processing where:-
+
+(a) the Data Subject has consented to the Processing; or
+(b} the Processing is necessary; :
+
+(i) for the performance of a contract that the Data Subject has entered into;
+
+(ii) to take steps at the request of the Data Subject with a view to entering
+into a contract;
+
+(iii) for compliance with legal obligations that apply to the Data User, other
+than a contractual obligation; or
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 24
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+3.3.4
+
+3.3.5
+
+3.3.6
+
+3.3.7
+
+3.3.8
+
+(iv) to protect the Data Subject’s vital interests, which mean matters
+relating to life, death or security of a Data Subject.
+
+The Data User may consider the following before deciding to comply or not to
+comply with a Data Subject Notice:-
+
+(a} the Data Subject is required to provide valid reasons that the damage or
+distress caused will be “substantial” and “unwarranted”; and/or
+
+(b) ifthe Data User feels that any damage or distress caused to the Data Subject
+is warranted or is not substantial, the Data User is entitled to not comply
+with the request. However, the Data User must provide the Data Subject
+with reasons for the refusal.
+
+Upon receiving a Data Subject Notice, the Data User must, within 21 Days,
+provide that Data Subject with a Written notice:-
+
+(a) | stating that the Data User has complied or intends to comply with the Data
+Subject Notice; or
+
+(b) stating the reasons of not to comply with the Data Subject Notice which is
+unjustified and the extent, if any, to which the Data User has complied or
+intends to comply.
+
+If the Data User decides not to comply with the Data Subject Notice, the Data
+Subject may submit an application to the PDP Commissioner to require the Data
+User to comply with the Data Subject Notice.
+
+The PDP Commissioner may require the Data User to comply with the Data
+Subject Notice, if the PDP Commissioner is satisfied that the Data Subject Notice
+is justified or justified to any extent,
+
+A Data User who fails to comply with the requirement of the PDP Commissioner
+under 3.3.7 commits an offence and shall, on conviction, be liable to a fine not
+exceeding two hundred thousand ringgit or to imprisonment for a term not
+exceeding two years or to both.
+
+3.4 Right to Prevent Processing for Purposes of Direct Marketing (Section 43 of the PDPA)
+
+3.4.1
+
+The PDPA permits Data User to conduct Direct Marketing to Data Subjects:-
+(a) if explicit consent is obtained from the Data Subject;
+
+(b) for the Collection of Personal Data for sale of products or provision of
+services;
+
+(c) if the Data Subject is informed of the identity of Direct Marketing
+organisations and the purpose of Collection and Disclosure;
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 25
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+3.4.2
+
+3.4.3
+
+3.4.4
+
+(dj) if the products and services offered to the Data Subject are similar to
+products and services generally provided by the Data User; and
+
+{e) the Data User has provided an opt-out facility for the Data Subject during
+the Collection of the Personal Data.
+
+However, marketing materials that are not directed at particular individuals but
+are instead sent to all customers of a Data User or to an entire category/type of
+customers of a Data User will not be considered Direct Marketing for purposes of
+the PDPA and this Code.
+
+Example A: Including marketing/promotional inserts in electricity bills or tax
+invoices issued to all customers of a Data User does not amount to Direct
+Marketing.
+
+Example B: Directing promotional material to selected Data Subjects with a
+record of prompt payment of electricity bills or tax invoices does not amount to
+Direct Marketing.
+
+Data User are permitted to communicate advertising or marketing materials to a
+
+Data Subject by using that Personal Data (for example, name, address, mobile
+
+phone numbers, e-mail address), which was provided by:-
+
+(a) the Data Subject when signing up for products or services of the Data User;
+or
+
+(b}) Data Subjects who are not customers of the Data User, but who have
+expressed an interest in the products or services of the Data User (for
+example, where the Data Subject calls up the customer service department
+of a Data User making enquiries in respect of its products and services);
+
+if the Data User obtained consent from the Data Subject before commencing
+Direct Marketing.
+
+For Direct Marketing, Data User are permitted to obtain Personal Data of
+individuals, who are not their customers or with whom they do not have a pre-
+existing relationship, from Third Party sources. However, Data User must take
+practical steps to ensure that consent is obtained from those individuals for
+Collection or Disclosure for Direct Marketing.
+
+However, Data User are not prevented from contacting Data Subject for Direct
+Marketing, if the Data User provides an opt-out facility, to allow or not allow the
+use of Personal Data for Direct Marketing.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 26
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+3.4.5
+
+3.4.6
+
+3.4.7
+
+Data Subject may, at any time, provide a Written notice to the Data User to
+require the Data User, within a reasonable time frame, to stop or not to start the
+Processing of Personal Data for Direct Marketing. The Data User must comply
+with such Written notice.
+
+If the Data User refuses to comply with such Written notice, the Data Subject may
+request the PDP Commissioner to direct compliance by the Data User.
+
+If the PDP Commissioner is satisfied with the complaint from the Data Subject,
+the PDP Commissioner may require the Data User to comply with the Written
+notice from the Data Subject.
+
+3.5 Right to Withdraw Consent to the Processing of Personal Data (Section 38 of the PDPA)
+
+3.5.1
+
+Upon receiving the Data Subject’s Notice withdrawing consent to process Data
+Subject’s Personal Data, the Data User may still Process Personal Data if the
+withdrawal of consent would affect the rights and obligations of the Data User
+under contract or legislation, as set out below:-
+
+(a) the right to be paid for services rendered, for example, the settlement of all
+electricity bills or tax invoices, overdue payments and cases on electricity
+theft;
+
+(b) the right to bring and maintain legal proceedings against the Data Subject;
+
+(c) the right to commence or continue with internal investigations involving the
+Data Subject;
+
+(d) the obligation to maintain Personal Data for such durations as required
+under applicable legislation; for example, to retain Personal Data under the
+National Archive Act 2003; and
+
+{e) the conduct of internal audits, risk management and/or fulfilment of legal or
+regulatory reporting requirements.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 27
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+4.1 Personal Data
+
+4.1.1 Data User has access to information from different individuals during its day to
+day operations. However, not all information is considered to be Personal Data.
+
+4.1.2 The following information is not considered to be Personal Data, therefore it is
+not covered under PDPA and this Code:-
+
+(a) data relating to deceased persons;
+
+(b) data relating to a company, society, partnership, organisation or any other
+legal entity;
+
+(c) aggregated and/or anonymised data (no name basis) wherein the person is
+non-identifiable.
+
+(d} electronically archived and /or backed up data.
+
+41.3. The Data User does not require consent for Processing in the following
+situations:-
+(a) consent of Data User’s employee to Process that employee’s Personal Data
+
+(b)
+
+(c)
+
+as part of that employee’s employment contract with the Data User, since
+such Processing is deemed to be consented to by that employee;
+
+Data User may request Data Subject to provide Personal Data relating to the
+Data Subject’s family members and Data User are not required to obtain
+consent from the family members for purposes relating to supply of
+electricity; and
+
+Data User does not require consent from vendors/suppliers, contractors,
+consultants and/or contract counterparties for information on their officers,
+employees, authorised signatories, directors or shareholders for the
+provision of goods or services to or by a Data User.
+
+4.2 Sensitive Personal Data
+
+4.2.1 Certain Personal Data can be classified as Sensitive Personal Data. Sensitive
+Personal Data consists of information related to the following:-
+
+(a)
+(b)
+(c)
+(d)
+(e)
+
+the physical or mental health or condition of Data Subject;
+
+the political opinions of Data Subject;
+the religious beliefs or other beliefs of a similar nature of Data Subject;
+the commission or alleged commission of any offence by Data Subject; or
+
+any other Personal Data determined by the Minister.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 28
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+4.2.2 Processing of Sensitive Personal Data is only allowed under the following
+circumstances:-
+
+(a)
+
+(b)
+
+(c)
+
+with the explicit consent of the Data Subject;
+Example Al: Data Subject provides identification card to be photocopied
+or scanned by the Data User for supply application or obtaining the
+
+services of Data Users.
+
+Example A2. Explicit consent by conduct of Data Subject by voluntarily
+provides the Sensitive Personal Data to Data User.
+
+Example A3; Data Subject provides verbal statement giving consent for the
+Processing of Personal Data which being recorded and maintained.
+
+if the Processing is necessary for any of the following purposes:-
+
+a) for the performance of any right or obligation which is conferred or
+imposed by law on the Data User in connection with employment;
+
+(i) sin order to protect the vital interests of another person, in a case
+where consent by or on behalf of the Data Subject has been
+unreasonably withheld;
+
+(iii) for medical purposes;
+
+(iv) any legal proceedings;
+
+(v) obtaining legal advice;
+
+(vi) establishing, exercising or defending legal rights;
+
+(vii) administration of justice;
+
+(viii) exercise of the functions conferred on any person by or under any
+Written law;
+
+(ix) for any other purposes as the Minister thinks fit; or
+
+the information contained in the Personal Data has been made public as a
+result of steps deliberately taken by the Data Subject.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 29
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+4.3 Refund of Deposits
+
+4.3.1
+
+4.3.2
+
+4.3.3
+
+The Data Subject may have deposited money with a Data User during the opening
+of an account. The Data User, upon receiving an account closing form from the
+Data Subject, must refund to the Data Subject the deposit either by way of cash,
+postal order, electronic fund transfer or cheque. However, the deposit may not be
+successfully refunded:-
+
+(a) ifthe correspondence addresses provided by the Data Subject is incorrect or
+incomplete;
+
+(b) if the contact number of the Data Subject is inactive or incorrect; or
+
+(c) ifthe Data Subject changes Data Subject’s address or contact details without
+notifying the Data User.
+
+Money deposited must be refunded by the Data User upon receiving a discharge
+and indemnity letter submitted by a family member of the Data Subject together
+with sufficient supporting documents as proof of family relationship.
+
+The Data Subject must notify the Data User of any inaccuracy in any document
+containing Data Subject’s Personal Data and the Data Subject must submit a DCR
+to the Data User.
+
+4.4 Appointment of Meter Reader
+
+441
+
+4.4.2
+
+Data User may appoint a meter reader who is not the employee of the Data User
+to conduct meter reading.
+
+If a Data User appoints a meter reader to Process Personal Data, it is
+recommended that the Data User used reasonable efforts to ensure that their
+agreement with the meter reader (whether in the form of a contract, letter or any
+formal written document) include:-
+
+(a) confidentiality, non-disclosure and security requirements;
+(b) the conditions under which Personal Data may be Processed;
+
+(c) the representations, undertakings, warranties and/or indemnities which are to
+be provided by the meter reader;
+
+(d) the technical and organizational security measures governing the Processing
+to be carried out as may be contained in the Data User’ internal security
+policy and/or standards; and
+
+(e} the deletion, destruction and/or return of Personal Data that is under the
+control of the meter reader upon completion or termination of the contract,
+unless Data User decides otherwise.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 30
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+4.5 Certificate of Registration
+
+4.5.1
+
+4.5.2
+
+4.5.3
+
+Data User shall display copy of the Certificate of Registration certified by the
+PDP Commissioner at the principal place of business of each branch of the Data
+User.
+
+A “branch” means any office operated by the Data User where interaction occurs
+with Data Subject. However, kiosks, exchanges, offices where there is no
+interaction with the Data User, premises operated by marketing agents or dealers
+and premises of the Data Processor are not considered to be a branch for purposes
+of this Code.
+
+The Data User may display the Certificate of Registration on notice boards within
+the premises, on electronic displays, on the screens of self-service terminals and
+on the Corporate Websites of the Data User.
+
+4.6 Transfer of Personal Data
+
+4.6.1
+
+4.6.2
+
+The PDPA prohibits the transfer of Personal Data by a Data User to a place
+outside Malaysia without the consent of Data Subject. However, Personal Data
+may be transferred to a country with sufficient data protection laws or for the
+exercise of any functions conferred on any person by or under any law.
+
+However, the Data User may still transfer Personal Data to a place outside
+Malaysia if:-
+
+(a) the Data Subject has granted Data Subject’s consent;
+
+(b) the transfer is necessary for the performance of a contract between the Data
+User and the Data Subject;
+
+(c) the transfer is necessary to perform a contract between a Data User and the
+Third Party;
+
+(d) the transfer is for legal proceedings or obtaining legal advice;
+
+(e) the Data User have reasonable grounds to believe:-
+
+@ the transfer is for the avoidance or mitigation of adverse action
+against the Data Subject;
+
+(ii) it is not practicable to obtain the consent in Writing of the Data
+Subject to that transfer; and
+
+(iii) the Data Subject would have given Data Subject’s consent if it was
+practicable to obtain such consent,
+
+(f) the Data User have taken reasonable precautions to ensure Personal Data
+will not be Processed in amy manner which contravenes the PDPA;
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 31
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+4.6.3
+
+4.6.4
+
+4.6.5
+
+4.6.6
+
+(g) the transfer is necessary to protect the vital interests of the Data Subject;
+
+(h) the transfer is necessary as being in public interest as determined by the
+Minister; or
+
+(i) the transfer is to a country specified by the Minister.
+
+The transfer of Personal Data via removable media device and cloud computing
+service is not permitted unless authorized in writing by an authorized officer of
+the organization's highest management of Data User.
+
+The transfer of Personal Data via removable media device and cloud computing
+service should be recorded.
+
+The transfer of Personal Data via cloud computing service must comply with the
+principles of personal data protection in Malaysia and other countries that have
+laws which is substantially similar personal data protection legislation or that
+serves the same purposes as PDPA.
+
+The transfer of Personal Data conventionally via mail, hand delivery, fax and so
+on should be recorded.
+
+4.7 Installation of CCTV
+
+A471
+
+4.7.2
+
+4.7.3
+
+CCTV recordings may be made for purposes of safety, security monitoring or
+investigations.
+
+The owner, operator and/or manager of the Data User’s premises installed with
+CCTV must display a notice that is visible to all persons on, or outside the
+premises, informing the public of the CCTV operation and the purposes of its
+installation.
+
+The notice shall:-
+(a) be in English or in National Language;
+
+(b} be visible and noticeable at all entry and exit points of the Data User’
+premises, especially within the CCTV surveillance zones; and
+
+(c) describe the purpose of recording and contact details of the person
+responsible for CCTV recording.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 32
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+4.7.4
+
+A sample of the notice appears below:-
+
+In English:
+
+Security Notice: These premises are under 24-hour CCTV camera surveillance.
+Images are recorded for the purpose of crime prevention and public safety. For
+further information please contact [+].
+
+in National Language:
+
+Notis Keselamatan: Premis ini adalah di bawah pengawasan 24 jam kamera
+CCTV. Imej dirakam adalah bagi tujuan pencegahan jenayah dan keselamatan
+awam, Untuk maklumat lanjut, sila hubungi [+].
+
+4.8 Retention of Identification Documents
+
+4.8.1
+
+4.8.2
+
+Before entering the Data User’s premises, a Data Subject may be required to
+surrender Data Subject’s Official Identification Documents, which may be
+photecopied or scanned and retained by the Data User.
+
+If a Data Subject’s Official Identification Documents is to be retained, for the
+duration of which the Data Subject is in the Data User’s premises, this must be
+done in accordance with the National Registration Regulations 1990, the
+Protected Areas and Protected Places Act 1959 and the Police Act 1967 and only
+
+. an auxiliary policeman (polis bantuan) may do so.
+
+4.9 Electricity Bill or Tax Invoice
+
+4.9.1
+
+Personal Data Disclosed on the electricity bill or tax invoice of the Data User
+are:-
+
+(a) name of the Data Subject;
+
+(b) billing address of the account holder or the address of the account holder’s
+premises;
+
+(c} information relating to the consumption of the electricity;
+(d) information relating to the billing amount; and
+
+(e) information relating to the account and contract of the account holder.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 33
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Persona! Data Protection Code of Practice - Utilities Sector (Electricity)
+
+492 The electricity bill or tax invoice will be issued to the following persons:-
+(a) the account holder;
+(b) the registered owner of the premises; or
+(c) the tenant of the premises.
+
+4.9.3 The electricity bill or tax invoice will be delivered to:-
+(a) the address of the premises; or
+(b) the address registered by the account holder.
+
+4.94 Personal Data on the electricity bill or tax invoice may be Disclosed to the meter
+reader, account holder, tenant of the premises, and to anybody who receives the
+electricity bill or tax invoice at the premises or at the address registered by the
+account holder.
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 34
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+5.1 Policies and Procedures
+
+5.1.1 Itis recommended that Data User develop and implement policies and procedures
+specifying what should be done by, what should not be done by and standards
+expected of employees in their day-to-day work when dealing with Personal Data.
+
+5.1.2 In developing and implementing policies and procedures, it is recommended that
+Data User take the following points into consideration:-
+
+(a) the policies and procedures are to be communicated to Data User’s
+employees; and
+
+(b) relevant Data User’s employees be provided with training in relation to the
+policies and procedures, the PDPA, PDP Regulations and this Code.
+
+5.2 Training and Awareness
+
+5.2.1 Data User are required to implement appropriate training or awareness
+mechanisms for relevant Data User’s employees to ensure that they understand
+the relevance of the policies and procedures to their roles and responsibilities.
+
+5.2.2. Awareness of relevant Personal Data policy and procedures should form part of
+every Data User’s employee’s introduction to the company.
+
+5.3. Control Measure
+
+5.3.1 Data User are required to implement control measures to prevent the loss or
+compromise of the Personal Data in situations where policies and procedures are
+not followed by employees.
+
+5.3.2 An effective control measure should cover:-
+(a) an employee’s access rights to Personal Data; and
+
+(b) the implementation of security measures to prevent Personal Data breaches
+by employees.
+
+5.3.3 In order to mitigate data security risks, Data User’s employees’ access to Personal
+Data must be well controlled and employees must only be provided with access to
+Personal Data on a need to basis. This includes but not limited to the following;
+
+(a) To terminate the access rights of employees to Personal Data when the
+employees leave the organisation, resign, retire, are terminated, laid off,
+contract of employment have expired and/or when the employees are no
+longer required to Process the Personal Data;
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 35
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+(b) To provide a user ID and password for employees who are authorized to
+access Personal Data; and
+
+(c) To revoke/deactivate the user ID and password immediately when
+employees who are authorized to access personal data are no longer required
+to handle Personai Data.
+
+5.3.4 The Data User should control and limit the access rights of employees to Personal
+Data for the purpose of collecting, processing and storing personal data.
+
+5.3.5 The Data User must register all employees involved in the Processing of Personal
+Data.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 36
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+6.1 Compliance
+
+6.1.1
+
+6.2. Monitoring
+
+6.2.1
+
+6.2.2
+
+6.2.3
+
+6.2.4
+
+6.2.5
+
+Data User must develop and implement appropriate compliance policies,
+procedures and a framework to ensure compliance with the PDPA and this Code.
+
+Data User will monitor its compliance with this Code and the PDPA by:-
+(a) implementing an internal monitoring framework; and
+
+(b) conducting self-audits.
+
+Upon identifying shortcomings and weaknesses in the implementation of the
+compliance framework, the Data User must ensure that appropriate remedial
+action is taken as soon as reasonably possible and the Data User shail resolve
+such shortcomings and weaknesses within 90 days from the date it was
+discovered.
+
+It is recommended that Data User:-
+
+(a) implement a reporting system by key persons within the organization (for
+example, the officer(s) responsible for Personal Data protection, heads of
+business units and relevant key employees) to the senior management of
+the Data User, to review and assess the status of implementation of the
+PDPA and this Code to monitor issues, address shortcomings and track
+progress; and
+
+(b) conduct periodic self-audits to identify issues in relation to compliance
+with the PDPA and this Code.
+
+This Code shall be administered by representation of all the Data User in a forum.
+
+The Data User should meet with each other and if necessary, together with the
+PDP Commissioner at least once a year in order to discuss issues arising under
+this Code and other related matters.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709} Page 37
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+6.3 Amendment
+
+6.3.1
+
+6.3.2
+
+This Code may be amended, revised or updated to include all changes in the law.
+AIl such amendments, revisions or updates will be notified to Data User, in
+writing, by the PDP Commissioner.
+
+Amendments to this Code may be made if:-
+
+(a)
+
+(b)
+
+(©)
+
+there are amendments to the PDPA or the PDP Regulations which will
+affect the implementation of this Code,
+
+the PDP Commissioner makes amendments on Data Subject’s own accord;
+and/or
+
+Data User make recommendations for amendments to the PDP
+Commissioner based on the results of this Code review.
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 38
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+7.1 All Data User must comply with this Code.
+
+7.2 Data User must develop and implement appropriate policies and procedures to
+comply with this Code.
+
+7.3. A Data Processing flowchart is set out in Appendix LI of this Code and it is to be used
+as a guide and initial reference only as to whether consent is needed for Personal Data
+to be Processed.
+
+74 Any DAR or DCR must be submitted through the form as detailed in Appendix VI,
+which form may be changed by the Data User with the approval of the PDP
+Commissioner.
+
+7.5 For any questions regarding the implementation of this Code by a Data User:-
+
+(a) for TNB, please refer to Part 1.0 of Appendix. VII;
+(b) for SESB, please refer to Part 2.0 of Appendix VH; and
+
+{c) for SESCO, please refer to Part 3.0 of Appendix VII.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 39
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Appendix I
+DEFINITIONS
+
+ee
+
+ae
+2
+SU Abe cae pane ee
+
+es
+
+ae =
+
+OE 2
+PE OI CI
+
+PENCE ae ee ce
+
+S Ses
+
+z See
+REBECA
+oe a ye
+5 aie
+
+oe
+ee
+
+a)
+
+x Eo,
+Pe CE
+ce
+
+OF
+PIGEON Ouse rey ee ee
+ee
+
+pee
+
+Re US Ge
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709)
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+S
+: Eo
+
+coe fe
+
+ee
+ig
+
+2
+oa
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 41
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ee
+:
+
+cS
+
+ce Wil |
+
+SO JOES: Hy ical y
+
+ee
+
+ee
+
+oo
+
+oe
+
+ODER
+EOP Gre
+
+Ce ee
+
+SAN
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 42
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+een
+
+2
+ee
+2 b Snes LE ie CISER OF AS
+RE OREN Sa z PEERS : ss EOE CONE
+o m1 ‘otic s eee
+Be : x ss
+
+eS FRIES
+ae eee
+
+Pere oF Bee
+ee
+
+SO
+helow eal ciol
+
+pera SASS z |
+
+ce
+2 CS Ni
+
+_
+ .
+
+s ata S|
+
+eee
+
+See eee
+
+See
+
+Be é
+Oe
+See
+
+es See
+Be
+eee
+
+ee a
+peace es RI:
+ee
+
+S oe
+Se
+Bee i
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 43
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Ne |
+oe
+
+ae
+
+ee
+
+Ee
+oe
+
+SEE es z : Hs EEE CRs
+RES i GEES
+Pee - oe
+
+CEEO
+ieeh cana ae asecmes ee
+i
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 44
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+PERSONAL DATA PROCESSING FLOWCHART
+
+ 
+
+ 
+
+Request for Information
+
+ 
+
+ 
+
+ 
+
+v
+General
+Data
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix I
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+Consent?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+       
+   
+  
+   
+
+Do
+conditions
+under
+Section 40
+
+apply?
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No
+
+ 
+
+ 
+
+ 
+
+ 
+
+STOP- No
+
+Processing allowed
+
+ 
+
+ 
+
+ 
+
+Do conditions|
+
+   
+
+No
+
+ 
+
+ 
+
+ 
+
+under Section
+6(2)& (3)
+apply?
+
+    
+  
+ 
+
+ 
+
+ 
+
+Yes
+
+ 
+
+ 
+
+ 
+
+ 
+
+y
+
+ 
+
+ 
+
+Information CAN be
+processed
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709)
+
+Page 45
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personai Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Appendix I
+WHAT SHOULD BE DONE UNDER THE PDPA
+
+Each Data User must:-
+
+1)
+2)
+
+3)
+
+4)
+
+5)
+
+5)
+
+1)
+
+8)
+
+9)
+
+Comply with the PDPA and this Code.
+Determine if consent is required before Processing Personal Data.
+
+Obtain free, prior and informed consent from the Data Subject to Process Data Subject’s
+Personal Data, if required.
+
+Obtain written consent before Processing Sensitive Personal Data, such as race, political
+opinion, religious belief, trade union membership, physical or mental health, sexual life or
+criminal offences.
+
+Data User should alert all Data Subject to the PDP Notice;
+
+Data User should state clearly in all Data Subject documents, the purpose(s} for which
+Personal Data is Collected and Processed;
+
+Inform the Data Subject how Personal Data is Processed and by whom, in English or in
+National Language.
+
+Ensure that Personal Data is Processed through software and hardware that has been approved
+and provided by the Data User.
+
+Be aware that the PDPA covers all Personal Data in any form, except in the following
+conditions:~
+
+& data relating to deceased persons;
+> data relating to a company, society, partnership, organization or any other legal entity; or
+
+>» aggregated and/or anonymised data (no name basis) wherein the person is non-
+identifiable.
+
+10} Retain Personal Data only if and when necessary.
+
+11} Ensure Personal Data is kept accurate and up-to-date.
+
+12} Inform the Data Subject what, why, how and for how long, Data Subject’s Personal Data is
+
+kept. .
+
+13} Keep Personal Data confidential and protect the rights of the Data Subject under the PDPA.
+
+14} Be careful about Disclosing Personal Data to Third Parties unless permitted by law or with
+
+Written consent from the Data Subject.
+
+15) Enter into a contract with confidentiality and non-disclosure clauses before Disclosing
+
+Personal Data to Third Parties.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 46
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+16) Permanentiy destroy hard copy and soft copy of Personal Data which is no longer required.
+
+17) Maintain a database of all Personal Data retained and keep a record of all Personal Data
+destroyed.
+
+18) Establish a systematic system for the Collection of Personal Data to facilitate inspection by
+the PDP Commissioner.
+
+19) Process Personal Data on a “no name’ basis for statistical analysis.
+20) Allow the Data Subject to update or correct Data Subject’s Personal Data.
+21} Collect Personal Data only when it is necessary.
+
+22) Specify which fields are necessary to be filled up, when Collecting Personal Data by
+electronic transactions.
+
+23) Allow the Data Subject fo use or not to use auto-completion facilities for forms or passwords
+in the Data User’s Corporate Website.
+
+24) Ensure their security system and technical protection is up-to-date.
+
+25) Assess the risks of a security breach and its potential harm to the Data Subject and have a
+management plan to deal with such security breaches.
+
+26) Analyse the risk before contracting any online services company or any other counterparty
+before Disclosing any Personal Data.
+
+27) Ensure that employees only have access to Personal Data that he/ she has access to while
+he/she is still an employee of the Data User.
+
+28) Make all information on Personal Data policy and procedures available to Data User’s
+employee in English and in National Language.
+
+29) Be careful when using Corporate Email, telephone, facsimile, Instant Messaging or other
+forms of communication for sending confidential or unencrypted Personal Data.
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 47
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Appendix IV
+WHAT SHOULD NOT BE DONE UNDER THE PDPA
+
+Each Data User must not:-
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+8)
+
+Disclose any Personal Data through the telephone, Internet, Instant Messaging, electronic
+communication, in Writing or verbally unless consent is obtained from the Data Subject.
+
+Transfer any Personal Data outside of Malaysia unless consent is obtained from the Data
+Subject or if it is permissible under the law.
+
+Allow open access to or leave unattended any hard copy or soft copy of Personal Data.
+
+Use Personal Data for any purpose other than why it was Collected, without consent from the
+Data Subject.
+
+Ask a Data Subject to provide the Official Identification Documents or its particulars except
+where necessary to provide products or services to the Data Subject.
+
+Mislead the Data Subject about Data Subject’s choices or about how Data Subject’s Personal
+Data will be used.
+
+Collect Personal Data, especially Sensitive Personal Data, before a contract with the Data
+Subject is formed.
+
+Reveal password or user identification to unauthorized persons.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 48
+
+ 
+
+ 
+
+ 
+ 
+
+Personal Data Protection Code of Practice ~ Utilities Sector (Electricity)
+Appendix V
+LIST OF DISCLOSURES
+
+(This Appendix is not intended to be exhaustive but may be amended from time to time as
+approved by the PDP Commissioner)
+
+ 
+
+NO. THIRD PARTIES
+
+ 
+
+1. | Financial institutions, merchants, VISA International Services Association, MasterCard
+International Incorporated and other card associations (in relation to credit cards issue to Data
+Subject) for the purpose of payment of electricity bill or other services of the Data User
+
+ 
+
+2. | Postal providers which provide postal services to the Data User
+
+ 
+
+3. | Telecommunication providers which provides telecommunication services to the Data User
+
+ 
+
+4, | Service providers which assist the Data User in processing the services that the Data User
+requested
+
+ 
+
+5. | Agents/ contractors/ consultants/ vendors/ external auditors/ counsellor/ data processor appointed
+by the Data User
+
+ 
+
+6. | Approved bodies where employees contributions are remitted:
+
+e Social Security Organisation (SOCSO)
+
+Battulmal
+
+« Pusat Zakat
+
+Lembaga Tabung Haji
+
+Yayasan Pembangunan Ekonomi Islam Malaysia (YaPEIM)
+Employees Provident Fund (EPF)
+
+e Koperasi Wawasan Pekerja-Pekerja Berhad (KOWAJA)
+Koperasi TNB
+
+e Insurer/ Broker
+
+ 
+
+ 
+
+7. | Close family members of Data Subject:
+
+e Father
+
+e Mother
+
+e Husband
+e Wife
+
+e Siblings
+
+ 
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 49
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+Federal Government or State Government requesting information from the Data User. The
+following are the examples stated, as such it is including but not limited to as below:
+
+Department of Islamic Development Malaysia
+
+Department of Legal Aid Malaysia
+
+Department of Statistics Malaysia
+
+Director of Electricity Supply for Sarawak
+
+Energy Commission of Malaysia
+
+Immigration Department of Malaysia
+
+Inland Revenue Board of Malaysia (matters relating to income tax)
+Majlis Amanah Rakyat under the Ministry of Rural and Regional Development
+Malaysian Anti-Corruption Commission
+
+Malaysia Department of Insolvency
+
+Ministry of Domestic Trade, Co-operatives and Consumerism
+Ministry of Finance Malaysia
+
+Ministry of Health
+
+Ministry of Human Resources Malaysia
+
+Royal Malaysian Customs Department (matters relating to GST)
+Royal Malaysia Police
+
+Security Commission
+
+Syariah Judiciary Department Malaysia
+
+Jabatan Agama
+
+Majlis Perbandaran
+
+Majlis Daerah
+
+Majlis Agama Islam Negeri
+
+The National Higher Education Fund Corporation (PTPTN)
+
+The National Film Development Corporation Malaysia (FINAS)
+
+ 
+
+Wholly owned subsidiaries of the Data User
+
+ 
+
+10.
+
+Tenant and/or owner of the premises where the electricity is supplied (whom is not a registered
+consumer)
+
+ 
+
+Ht,
+
+Panel lawyers/ legal advisors appointed by the Data User
+
+ 
+
+12.
+
+Panel doctors/ clinics/ hospitals/ pharmacists appointed by the Data User
+
+ 
+
+13.
+
+Meter reader/ disconnector of electricity supply outsourced by the Data User
+
+ 
+
+ 
+
+14.
+
+ 
+
+Any person connected to the enforcement or preservation on the Data User’s right under the
+agreements which have been entered with the Data User
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 50
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15, | Company and organisation that assist the Data User in providing value services that the Data
+Subject requested
+
+16. | Any person notified and authorised by the Data Subject
+
+17. | Any person intending to settle the outstanding amount in relation to the Data User services to the
+Data Subject
+
+18. | The relevant authority where the Data User has the obligation towards it as stipulated as follows:
+e Director of Electricity Supply for Sarawak
+e Energy Commission of Malaysia
+
+19. | Where Data Users are required or authorised by any court order / tribunal or authority whether
+government or quasi government with jurisdiction over the Data User
+
+20. | Any person/ company appointed by the Data User to recover the outstanding debt of the Data User
+
+21. | Data User advisers (including but not limited to accountants, auditors, lawyers or other
+professional advisers) as authorised by Data Subject
+
+22. | To the parties that Data User required or permitted by law
+
+23. | To the parties that the Data User may transfer rights and obligations pursuant to the agreement
+endorsed with the Data Subject
+
+24. | Proclamation of sales
+
+ 
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 51
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+Appendix VI
+DATA ACCESS REQUEST / DATA CORRECTION REQUEST FORM
+PERSONAL DATA ACCESS REQUEST FORM
+
+For the purpose of this form, Data Subject/Relevant Person {as defined under the Personal Data
+Protection Act 2010) must provide a copy of identification card (NRIC) or passport, authorisation
+letter by the Data Subject and other relevant supporting document as required by us. Please note that,
+we may not be able to process your request in the event of the personal data provided is inaccurate,
+mcomplete, misleading or not up to date in the first place. A request to access personal data is subject
+to a fee and also to requirements under Personal Data Protection Act 2010.
+
+Full Name as per NRIC
+New NRIC (Attach co
+*House Phone
+
+*Office Phone
+
+Mobile phone
+
+A: Particulars of Data Subject
+Full Name as per NRIC
+
+New NRIC (Attach co
+
+B: Particulars of Relevant Person
+Full Name as NRIC
+
+New NRIC (Attach co
+
+Address
+
+*House Phone
+
+*Office Phone
+
+Mobile phone
+
+*Non-mandatory information
+
+ 
+
+ACCESS OF DATA SUBJECT’S PERSONAL DATA
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 52
+
+ 
+
+ 
+
+ 
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Do you need a copy of the Personal Data? (Please tick (x) in the relevant box below)
+
+ 
+
+ 
+
+ 
+
+a Yes
+g (a) | Personal Data 10
+0 (b) | Sensitive Personal 30
+
+ 
+
+ 
+
+ 
+
+Data
+
+ 
+
+ 
+
+ 
+
+o No
+
+ 
+
+ 
+
+a (a) Personal Data
+o (b) Sensitive Personal 5
+Data
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Declaration by the Data Subject
+
+hereby certify that the information given in this
+form and any documents submitted are true and
+accurate.
+
+ 
+
+Declaration by the Relevant Person
+
+hereby certify that the information given in this
+form and any documents submitted are true and
+accurate. I, hereby agreed that you may contact
+the Data Subject to verify my identity.
+
+ 
+
+ 
+
+Note: If GST is imposed on the Fee, the Data Subject will pay for all GST.
+
+ 
+
+Personal Data Protection Act 2010 (Act 709)
+
+Page 53
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+PERSONAL DATA CORRECTION REQUEST FORM
+
+For the purpose of this form, Data Subject/Relevant Person (as defined under the Personal Data
+Protection Act 2010) must provide a copy of identification card (NRIC) or passport, authorization
+letter by the Data Subject and other relevant supporting document as required by us. Please note that,
+we may not be able to process your request in the event of the personal data provided is inaccurate,
+incomplete, misleading or not up to date in the first place. A request to correct personal data is subject
+to the requirements under Personal Data Protection Act 2010.
+
+      
+
+SECTION I: TO BE FILLED IN BY DATA SUBJEC
+Full Name as per
+NRIC
+
+New NRIC
+
+(Attach copy}
+*House Phone
+*Office Phone
+
+Mobile Phone
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A: Particulars of Data Subject
+
+ 
+
+Full Name as per
+NRIC
+
+New NRIC
+(Attach copy)
+
+B : Particular of Relevant Person
+Full Name as per
+NRIC
+
+New NRIC
+(Attach copy)
+Address
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*House Phone
+*Office Phone
+Mobile Phone
+*Non-mandatory information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CORRECTION OF DATA SUBJECT’S PERSONAL DATA
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709) Page 54
+
+ 
+
+ 
+
+ 
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+ 
+
+ 
+
+Declaration by the Data Subject
+
+hereby certify that the information given in this
+form and any documents submitted are true
+and accurate.
+
+ 
+
+Declaration by the Relevant Person
+
+hereby certify that the information given in this
+form and any documents submitted are true and
+accurate. I, hereby agreed that you may contact the
+Data Subject to verify my identity.
+
+ 
+
+ 
+
+ 
+
+Personal Data Protection Act 2010 (Act 709)
+
+Page 55
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Personal Data Protection Code of Practice - Utilities Sector (Electricity)
+
+Appendix VII
+
+IMPORTANT CONTACT DETAILS
+
+1.0 Tenaga Nasional Berhad (TNB)
+
+Address
+Telephone
+
+Fax
+Corporate
+Email
+Corporate
+Website
+
+Tenaga Nasional Berhad, No 129, Jalan Bangsar, 59200 Kuala
+Lumpur
+
+603 2296 5566 (Headquarters) (8am to 5.15pm on business days)
+1-300-88-5454 (8am to 11pm daily)
+
+03-2283 3686
+
+tnbcareline@tnb.com.my
+
+www.tnb.com.my
+
+2.0 Sabah Electricity Sdn. Bhd. (SESB)
+
+Address
+Telephone
+
+Fax
+Corporate
+Email
+Corporate
+Website
+
+Wisma SESB, Jalan Tunku Abdul Rahman, 88673 Kota Kinabalu,
+Sabah, Malaysia.
+
+088-515000 (8am to 5.15pm on business days)
+
+15454 (Careline)
+
+6 088-282314
+
+talk2us(@sesb.com.my
+
+www.sesb.com.my
+
+3.0 Syarikat SESCO Berhad (SESCO)
+
+Address
+Careline
+
+Fax
+
+Corporate
+Email
+
+Corporate
+Website
+
+Wisma SESCO, Jalan Bako, 93763 Petra Jaya, Kuching.
+1300-88-3111 (Customer Care Centre)
+
+6 082-313588 (Technical and Billing enquiries)
+
+6 082-341063 (Corporate Information)
+customercare@sarawakenergy.com.my (Technical and Billing
+enquiries)
+
+corpcomm@sarawakenergy.com.my (Corporate Information)
+http:/Awww.sarawakenergy.com.my
+
+ 
+
+Personal Data Protection Act 2010 (Act 709)
+
+Page 56
+
+ 
+
+ 
+
+ 
+

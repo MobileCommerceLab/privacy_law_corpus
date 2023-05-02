@@ -1,0 +1,1899 @@
+235.1
+English is not an official language of the Swiss Confederation. This translation is
+provided for information purposes only and has no legal force.
+
+Federal Act
+on Data Protection
+(FADP)
+of 19 June 1992 (Status as of 1 March 2019)
+
+The Federal Assembly of the Swiss Confederation,
+based on Articles 95, 122 and 173 paragraph 2 of the Federal Constitution1,2
+and having regard to the Federal Council Dispatch dated 23 March 19883,
+decrees:
+
+Section 1
+
+Aim, Scope and Definitions
+
+Art. 1
+
+Aim
+
+This Act aims to protect the privacy and the fundamental rights of persons when
+their data is processed.
+Art. 2
+
+Scope
+
+This Act applies to the processing of data pertaining to natural persons and legal
+persons by:
+
+1
+
+2
+
+a.
+
+private persons;
+
+b.
+
+federal bodies.
+
+It does not apply to:
+a.
+
+personal data that is processed by a natural person exclusively for personal
+use and which is not disclosed to outsiders;
+
+b.
+
+deliberations of the Federal Assembly and in parliamentary committees;
+
+AS 1993 1945
+1
+SR 101
+2
+Amended by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+3
+BBl 1988 II 413
+
+1
+
+235.1
+
+Data Protection
+
+c.
+
+pending civil proceedings, criminal proceedings, international mutual assistance proceedings and proceedings under constitutional or under administrative law, with the exception of administrative proceedings of first instance;
+
+d.
+
+public registers based on private law;
+
+e.
+
+personal data processed by the International Committee of the Red Cross.
+
+Art. 3
+
+Definitions
+
+The following definitions apply:
+
+4
+5
+
+2
+
+a.
+
+personal data (data): all information relating to an identified or identifiable
+person;
+
+b.
+
+data subjects: natural or legal persons whose data is processed;
+
+c.
+
+sensitive personal data: data on:
+1. religious, ideological, political or trade union-related views or activities,
+2. health, the intimate sphere or the racial origin,
+3. social security measures,
+4. administrative or criminal proceedings and sanctions;
+
+d.
+
+personality profile: a collection of data that permits an assessment of essential characteristics of the personality of a natural person;
+
+e.
+
+processing: any operation with personal data, irrespective of the means applied and the procedure, and in particular the collection, storage, use, revision, disclosure, archiving or destruction of data;
+
+f.
+
+disclosure: making personal data accessible, for example by permitting access, transmission or publication;
+
+g.
+
+data file: any set of personal data that is structured in such a way that the data is accessible by data subject;
+
+h.
+
+federal bodies: federal authorities and services as well as persons who are
+entrusted with federal public tasks;
+
+i.4
+
+controller of the data file: private persons or federal bodies that decide on the
+purpose and content of a data file;
+
+j.5
+
+formal enactment:
+1. federal acts,
+2. decrees of international organisations that are binding on Switzerland
+and international treaties containing legal rules that are approved by the
+Federal Assembly;
+
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+
+Data Protection. FA
+
+235.1
+
+k.6 …
+
+Section 2
+
+General Data Protection Provisions
+
+Art. 4
+
+Principles
+
+1
+
+Personal data may only be processed lawfully.7
+
+2
+
+Its processing must be carried out in good faith and must be proportionate.
+
+Personal data may only be processed for the purpose indicated at the time of collection, that is evident from the circumstances, or that is provided for by law.
+
+3
+
+The collection of personal data and in particular the purpose of its processing must
+be evident to the data subject.8
+
+4
+
+If the consent of the data subject is required for the processing of personal data,
+such consent is valid only if given voluntarily on the provision of adequate information. Additionally, consent must be given expressly in the case of processing of
+sensitive personal data or personality profiles.9
+
+5
+
+Art. 5
+
+Correctness of the data
+
+Anyone who processes personal data must make certain that it is correct. He must
+take all reasonable measures to ensure that data that is incorrect or incomplete in
+view of the purpose of its collection is either corrected or destroyed.10
+
+1
+
+2
+
+Any data subject may request that incorrect data be corrected.
+
+Art. 611
+
+Cross-border disclosure
+
+Personal data may not be disclosed abroad if the privacy of the data subjects would
+be seriously endangered thereby, in particular due to the absence of legislation that
+guarantees adequate protection.
+
+1
+
+In the absence of legislation that guarantees adequate protection, personal data may
+be disclosed abroad only if:
+
+2
+
+6
+7
+8
+9
+10
+11
+
+Repealed by No I of the FA of 24 March 2006, with effect from 1 Jan. 2008
+(AS 2007 4983; BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Inserted by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Inserted by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Second sentence inserted by No I of the FA of 24 March 2006, in force since 1 Jan. 2008
+(AS 2007 4983; BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+
+3
+
+235.1
+
+Data Protection
+
+a.
+
+sufficient safeguards, in particular contractual clauses, ensure an adequate
+level of protection abroad;
+
+b.
+
+the data subject has consented in the specific case;
+
+c.
+
+the processing is directly connected with the conclusion or the performance
+of a contract and the personal data is that of a contractual party;
+
+d.
+
+disclosure is essential in the specific case in order either to safeguard an
+overriding public interest or for the establishment, exercise or enforcement of
+legal claims before the courts;
+
+e.
+
+disclosure is required in the specific case in order to protect the life or the
+physical integrity of the data subject;
+
+f.
+
+the data subject has made the data generally accessible and has not expressly
+prohibited its processing;
+
+g.
+
+disclosure is made within the same legal person or company or between legal
+persons or companies that are under the same management, provided those
+involved are subject to data protection rules that ensure an adequate level of
+protection.
+
+The Federal Data Protection and Information Commissioner (the Commissioner,
+Art. 26) must be informed of the safeguards under paragraph 2 letter a and the data
+protection rules under paragraph 2 letter g. The Federal Council regulates the details
+of this duty to provide information.
+
+3
+
+Art. 7
+
+Data security
+
+Personal data must be protected against unauthorised processing through adequate
+technical and organisational measures.
+1
+
+The Federal Council issues detailed provisions on the minimum standards for data
+security.
+
+2
+
+Art. 7a12
+Art. 8
+
+Right to information
+
+Any person may request information from the controller of a data file as to whether
+data concerning them is being processed.
+
+1
+
+2
+
+The controller of a data file must notify the data subject:13
+
+12
+
+13
+
+4
+
+Inserted by No I of the FA of 24 March 2006 (AS 2007 4983; BBl 2003 2101). Repealed
+by No 3 of the FA of 19 March 2010 on the Implementation of Framework Decision
+2008/977/JHA on the protection of personal data processed in the framework of police
+and judicial cooperation in criminal matters, with effect from 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+
+Data Protection. FA
+
+235.1
+
+a.14 of all available data concerning the subject in the data file, including the
+available information on the source of the data;
+b.
+
+the purpose of and if applicable the legal basis for the processing as well as
+the categories of the personal data processed, the other parties involved with
+the file and the data recipient.
+
+The controller of a data file may arrange for data on the health of the data subject to
+be communicated by a doctor designated by the subject.
+
+3
+
+If the controller of a data file has personal data processed by a third party, the
+controller remains under an obligation to provide information. The third party is
+under an obligation to provide information if he does not disclose the identity of the
+controller or if the controller is not domiciled in Switzerland.
+
+4
+
+The information must normally be provided in writing, in the form of a printout or
+a photocopy, and is free of charge. The Federal Council regulates exceptions.
+
+5
+
+6
+
+No one may waive the right to information in advance.
+
+Art. 915
+
+Limitation of the duty to provide information
+
+The controller of a data file may refuse, restrict or defer the provision of information where:
+
+1
+
+a.
+
+a formal enactment so provides;
+
+b.
+
+this is required to protect the overriding interests of third parties.
+
+A federal body may further refuse, restrict or defer the provision of information
+where:
+
+2
+
+a.
+
+this is required to protect overriding public interests, and in particular the internal or external security of the Confederation;
+
+b.
+
+the information would jeopardise the outcome of a criminal investigation or
+any other investigation proceedings.
+
+As soon as the reason for refusing, restricting or deferring the provision of information ceases to apply, the federal body must provide the information unless this is
+impossible or only possible with disproportionate inconvenience or expense.
+
+3
+
+The private controller of a data file may further refuse, restrict or defer the provision of information where his own overriding interests so require and he does not
+disclose the personal data to third parties.
+
+4
+
+The controller of a data file must indicate the reason why he has refused, restricted
+or deferred access to information.
+
+5
+
+14
+15
+
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+
+5
+
+235.1
+
+Data Protection
+
+Art. 10
+
+Limitations of the right to information for journalists
+
+The controller of a data file that is used exclusively for publication in the edited
+section of a periodically published medium may refuse to provide information, limit
+the information or defer its provision provided:
+
+1
+
+a.
+
+the personal data reveals the sources of the information;
+
+b.
+
+access to the drafts of publications would have to be given;
+
+c.
+
+the freedom of the public to form its opinion would be prejudiced.
+
+Journalists may also refuse restrict or defer information if the data file is being used
+exclusively as a personal work aid.
+
+2
+
+Art. 10a16
+
+Data processing by third parties
+
+The processing of personal data may be assigned to third parties by agreement or
+by law if:
+
+1
+
+a.
+
+the data is processed only in the manner permitted for the instructing party
+itself; and
+
+b.
+
+it is not prohibited by a statutory or contractual duty of confidentiality.
+
+The instructing party must in particular ensure that the third party guarantees data
+security.
+
+2
+
+3
+
+Third parties may claim the same justification as the instructing party.
+
+Art. 1117
+
+Certification procedure
+
+In order to improve data protection and data security, the manufacturers of data
+processing systems or programs as well as private persons or federal bodies that
+process personal data may submit their systems, procedures and organisation for
+evaluation by recognised independent certification organisations.
+
+1
+
+The Federal Council shall issue regulations on the recognition of certification
+procedures and the introduction of a data protection quality label. In doing so, it shall
+take account of international law and the internationally recognised technical standards.
+
+2
+
+Art. 11a18
+
+Register of data files
+
+The Commissioner maintains a register of data files that is accessible online. Anyone may consult the register.
+
+1
+
+16
+17
+18
+
+6
+
+Inserted by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Inserted by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+
+Data Protection. FA
+
+235.1
+
+Federal bodies must declare all their data files to the Commissioner in order to have
+them registered.
+
+2
+
+3
+
+4
+
+Private persons must declare their data files if:
+a.
+
+they regularly process sensitive personal data or personality profiles; or
+
+b.
+
+they regularly disclose personal data to third parties.
+
+The data files must be declared before they are opened.
+
+In derogation from the provisions in paragraphs 2 and 3, the controller of data files
+is not required to declare his files if:
+
+5
+
+a.
+
+private persons are processing the data in terms of a statutory obligation;
+
+b.
+
+the Federal Council has exempted the processing from the registration requirement because it does not prejudice the rights of the data subjects;
+
+c.
+
+he uses the data exclusively for publication in the edited section of a periodically published medium and does not pass on any data to third parties without informing the data subjects;
+
+d.
+
+the data is processed by journalists who use the data file exclusively as a personal work aid;
+
+e.
+
+he has designated a data protection officer who independently monitors internal compliance with data protection regulations and maintains a list of the
+data files;
+
+f.
+
+he has acquired a data protection quality mark under a certification procedure
+in accordance with Article 11 and has notified the Commissioner of the result of the evaluation.
+
+The Federal Council regulates the modalities for the declaration of data files for
+registration, the maintenance and the publication of the register, the appointment and
+duties of the data protection officer under paragraph 5 letter e and the publication of
+a list of controllers of data files that are relieved of the reporting obligation under
+paragraph 5 letters e and f.
+
+6
+
+Section 3
+
+Processing of Personal Data by Private Persons
+
+Art. 12
+
+Breaches of privacy
+
+Anyone who processes personal data must not unlawfully breach the privacy of the
+data subjects in doing so.
+
+1
+
+2
+
+In particular, he must not:
+a.
+
+process personal data in contravention of the principles of Articles 4, 5 paragraph 1 and 7 paragraph 1;
+
+b.
+
+process data pertaining to a person against that person’s express wish without
+justification;
+
+7
+
+235.1
+c.
+
+Data Protection
+
+disclose sensitive personal data or personality profiles to third parties without
+justification.19
+
+3 Normally there is no breach of privacy if the data subject has made the data generally accessible and has not expressly prohibited its processing.
+
+Art. 13
+
+Justification
+
+A breach of privacy is unlawful unless it is justified by the consent of the injured
+party, by an overriding private or public interest or by law.
+1
+
+An overriding interest of the person processing the data shall in particular be considered if that person:
+
+2
+
+a.
+
+processes personal data in direct connection with the conclusion or the performance of a contract and the personal data is that of a contractual party;
+
+b.
+
+is or intends to be in commercial competition with another and for this purpose processes personal data without disclosing the data to third parties;
+
+c.
+
+process data that is neither sensitive personal data nor a personality profile in
+order to verify the creditworthiness of another, and discloses such data to
+third parties only if the data is required for the conclusion or the performance
+of a contract with the data subject;
+
+d.
+
+processes personal data on a professional basis exclusively for publication in
+the edited section of a periodically published medium;
+
+e.
+
+processes personal data for purposes not relating to a specific person, in particular for the purposes of research, planning and statistics and publishes the
+results in such a manner that the data subjects may not be identified;
+
+f.
+
+collects data on a person of public interest, provided the data relates to the
+public activities of that person.
+
+Art. 1420
+
+Duty to provide information on the collection of sensitive personal
+data and personality profiles
+
+The controller of the data file is obliged to inform the data subject of the collection
+of sensitive personal data or personality profiles; this duty to provide information
+also applies where the data is collected from third parties.
+
+1
+
+2
+
+The data subject must be notified as a minimum of the following:
+a.
+
+19
+20
+
+8
+
+the controller of the data file;
+
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+
+Data Protection. FA
+
+b.
+
+the purpose of the processing;
+
+c.
+
+the categories of data recipients if a disclosure of data is planned.
+
+235.1
+
+If the data is not collected from the data subject, the data subject must be informed
+at the latest when the data is stored or if the data is not stored, on its first disclosure
+to a third party.
+
+3
+
+The duty of the controller of the data file to provide information ceases to apply if
+the data subject has already been informed or, in cases under paragraph 3, if:
+
+4
+
+a.
+
+the storage or the disclosure of the data is expressly provided for by law; or
+
+b.
+
+the provision of information is not possible or possible only with disproportionate inconvenience or expense.
+
+The controller of the data file may refuse, restrict or defer the provision of information subject to the requirements of Article 9 paragraphs 1 and 4.
+
+5
+
+Art. 1521
+
+Legal claims
+
+Actions relating to protection of privacy are governed by Articles 28, 28a and 28l
+of the Civil Code22. The plaintiff may in particular request that data processing be
+stopped, that no data be disclosed to third parties, or that the personal data be corrected or destroyed.
+
+1
+
+Where it is impossible to demonstrate that personal data is accurate or inaccurate,
+the plaintiff may request that a note to this effect be added to the data.
+
+2
+
+3 The plaintiff may request that notification of third parties or the publication of the
+correction, destruction, blocking, and in particular the prohibition of disclosure to
+third parties, the marking of the data as disputed or the court judgment.
+4 Actions on the enforcement of a right to information shall be decided by the courts
+in a simplified procedure under the Civil Procedure Code of 19 December 200823.
+
+Section 4
+
+Processing of Personal Data by Federal Bodies
+
+Art. 16
+
+Responsible body and controls24
+
+The federal body that processes or arranges for the processing of personal data in
+fulfilment of its tasks is responsible for data protection.
+
+1
+
+21
+22
+23
+24
+
+Amended by Annex 1 No II 14 of the Civil Procedure Code of 19 Dec. 2008, in force
+since 1 Jan. 2011 (AS 2010 1739; BBl 2006 7221).
+SR 210
+SR 272
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+
+9
+
+235.1
+
+Data Protection
+
+If federal bodies process personal data together with other federal bodies, with
+cantonal bodies or with private persons, the Federal Council may specifically regulate the control of and responsibility for data protection.25
+
+2
+
+Art. 17
+1
+
+Legal basis
+
+Federal bodies may process personal data if there is a statutory basis for doing so.
+
+They may process sensitive personal data and personality profiles only if a formal
+enactment expressly provides therefor or if, by way of exception:
+
+2
+
+a.
+
+such processing is essential for a task clearly defined in a formal enactment;
+
+b.
+
+the Federal Council authorises processing in an individual case because the
+rights of the data subject are not endangered; or
+
+c.
+
+the data subject has given his consent in an individual case or made his data
+general accessible and has not expressly prohibited its processing.26
+
+Art. 17a27
+
+Automated data processing in pilot projects
+
+The Federal Council may, having consulted the Commissioner and before a formal
+enactment comes into force, approve the automated processing of sensitive personal
+data or personality profiles if:
+
+1
+
+a.
+
+the tasks that require such processing required are regulated in a formal enactment;
+
+b.
+
+adequate measures are taken to prevent breaches of privacy;
+
+c.
+
+a test phase before the formal enactment comes into force is indispensable
+for the practical implementation of data processing.
+
+A test phase may be mandatory for the practical implementation of data processing
+if:
+
+2
+
+25
+26
+27
+
+10
+
+a.
+
+the fulfilment of a task requires technical innovations, the effects of which
+must first be evaluated;
+
+b.
+
+the fulfilment of a task requires significant organisational or technical
+measures, the effectiveness of which must first be tested, in particular in the
+case of cooperation between federal and the cantonal bodies; or
+
+c.
+
+processing requires that sensitive personal data or personality profiles be
+transmitted online to cantonal authorities.
+
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Inserted by No I of the FA of 24 March 2006 (AS 2006 4873; BBl 2003 2101,
+2006 3547). Amended by No I of the FA of 24 March 2006, in force since 15 Dec. 2006
+(AS 2007 4983; BBl 2003 2101).
+
+Data Protection. FA
+
+235.1
+
+The Federal Council shall regulate the modalities of automated data processing in
+an ordinance.
+
+3
+
+The competent federal body shall provide the Federal Council with an evaluation
+report at the latest within two years of the pilot system coming into operation. The
+report contains a proposal on whether the processing should be continued or terminated.
+
+4
+
+5 Automated data processing must be terminated in every case if within five years of
+the pilot systems coming into operation no formal enactment has come in force that
+contains the required legal basis.
+
+Art. 18
+
+Collection of personal data
+
+In the case of systematic surveys, in particular by means of questionnaires, the
+federal organ shall disclose the purpose of and the legal basis for the processing, and
+the categories of persons involved with the data file and of the data recipients.
+
+1
+
+2
+
+…28
+
+Art. 18a29
+
+Duty to provide information on the collection of personal data
+
+Federal bodies are obliged to inform the data subject of the collection of personal
+data; this duty to provide information also applies where the data is collected from
+third parties.
+
+1
+
+2
+
+The data subject must be notified as a minimum of the following:
+a.
+
+the controller of the data file;
+
+b.
+
+the purpose of processing;
+
+c.
+
+the categories of the data recipients where a disclosure of data is planned;
+
+d.
+
+the right to information in accordance with Article 8;
+
+e.
+
+the consequences of the refusal of the data subject to provide the requested
+personal data.
+
+If the data is not collected from the data subject, the data subject must be informed
+at the latest when the data is stored or if the data is not stored, on its first disclosure
+to a third party.
+
+3
+
+The duty of the controller of the data file to provide information ceases to apply if
+the data subject has already been informed or, in cases under paragraph 3, if:
+
+4
+
+a.
+
+28
+29
+
+the storage or the disclosure of the data is expressly provided for by law; or
+
+Repealed by No I of the FA of 24 March 2006, with effect from 1 Jan. 2008
+(AS 2007 4983; BBl 2003 2101).
+Inserted by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+
+11
+
+235.1
+b.
+
+Data Protection
+
+the provision of information is not possible or possible only with disproportionate inconvenience or expense.
+
+If the duty to provide information would compromise the competitiveness of a
+federal body, the Federal Council may limit the application of the duty to the collection of sensitive personal data and personality profiles.
+
+5
+
+Art. 18b30
+
+Restriction of the duty to provide information
+
+Federal bodies may refuse, restrict or defer the provision of information subject to
+the requirements of Article 9 paragraphs 1 and 2.
+
+1
+
+As soon as the reason for refusal, restriction or deferral ceases to apply, the federal
+bodies are bound by the duty to provide information unless compliance is not possible or possible only with disproportionate inconvenience or expense.
+
+2
+
+Art. 19
+
+Disclosure of personal data
+
+Federal bodies may disclose personal data if there is legal basis for doing so in
+accordance with Article 17 or if:31
+
+1
+
+a.
+
+the data is indispensable to the recipient in the individual case for the fulfilment of his statutory task;
+
+b.32 the data subject has consented in the individual case;
+c.33 the data subject has made the data generally accessible and has not expressly
+prohibited disclosure; or
+d.
+
+the recipient demonstrates credibly that the data subject is withholding consent or blocking disclosure in order to prevent the enforcement of legal
+claims or the safeguarding of other legitimate interests; the data subject must
+if possible be given the opportunity to comment beforehand.
+
+1bis Federal bodies may also disclose personal data within the terms of the official
+information disclosed to the general public, either ex officio or based on the Freedom
+of Information Act of 17 December 200434 if:
+
+30
+
+31
+32
+33
+34
+
+12
+
+Inserted by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387; BBl 2009 6749).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+SR 152.3
+
+Data Protection. FA
+
+235.1
+
+a.
+
+the personal data concerned is connected with the fulfilment of public duties;
+and
+
+b.
+
+there is an overriding public interest in its disclosure.35
+
+Federal bodies may on request also disclose the name, first name, address and date
+of birth of a person if the requirements of paragraph1 are not fulfilled.
+
+2
+
+Federal bodies may make personal data accessible online if this is expressly provided for. Sensitive personal data and personality profiles may be made accessible
+online only if this is expressly provided for in a formal enactment.36
+
+3
+
+3bis Federal bodies may make personal data generally accessible by means of automated information and communication services if a legal basis is provided for the
+publication of such data or if they make information accessible to the general public
+on the basis of paragraph1bis. If there is no longer a public interest in the accessibility
+of such data, the data concerned must be removed from the automated information
+and communication service.37
+4 The
+
+federal body shall refuse or restrict disclosure, or make it subject to conditions
+
+if:
+a.
+
+essential public interests or clearly legitimate interests of a data subject so
+require or
+
+b.
+
+statutory duties of confidentiality or special data protection regulations so
+require.
+
+Art. 20
+
+Blocking disclosure
+
+A data subject that credibly demonstrates a legitimate interest may request the
+federal body concerned to block the disclosure of certain personal data.
+
+1
+
+2
+
+3
+
+The federal body shall refuse to block disclosure or lift the block if:
+a.
+
+there is a legal duty of disclosure; or
+
+b.
+
+the fulfilment of its task would otherwise be prejudiced.
+
+Any blocking of disclosure is subject to Article 19 paragraph 1bis.38
+
+35
+36
+37
+38
+
+Inserted by Annex No 4 of the Freedom of Information Act of 17 Dec. 2004, in force
+since 1 July 2006 (AS 2006 2319; BBl 2003 1963).
+Second sentence according to No I of the FA of 24 March 2006, with effect from
+1 Jan. 2008 (AS 2007 4983; BBl 2003 2101).
+Inserted by Annex No 4 of the Freedom of Information Act of 17 Dec. 2004, in force
+since 1 July 2006 (AS 2006 2319; BBl 2003 1963).
+Inserted by Annex No 4 of the Freedom of Information Act of 17 Dec. 2004, in force
+since 1 July 2006 (AS 2006 2319; BBl 2003 1963).
+
+13
+
+235.1
+
+Data Protection
+
+Art. 2139
+
+Offering documents to the Federal Archives
+
+In accordance with the Archiving Act of 26 June 199840, federal bodies shall offer
+the Federal Archives all personal data that is no longer in constant use.
+1
+
+The federal bodies shall destroy personal data designated by the Federal Archives
+as not being of archival value unless it:
+
+2
+
+a.
+
+is rendered anonymous;
+
+b.41
+
+must be preserved on evidentiary or security grounds or in order to safeguard
+the legitimate interests of the data subject.
+
+Art. 22
+
+Processing for research, planning and statistics
+
+Federal bodies may process personal data for purposes not related to specific persons, and in particular for research, planning and statistics, if:
+
+1
+
+2
+
+a.
+
+the data is rendered anonymous, as soon as the purpose of the processing
+permits;
+
+b.
+
+the recipient only discloses the data with the consent of the federal body and
+
+c.
+
+the results are published in such a manner that the data subjects may not be
+identified.
+
+The requirements of the following provisions need not be fulfilled:
+a.
+
+Article 4 paragraph 3 on the purpose of processing
+
+b.
+
+Article17 paragraph 2 on the legal basis for the processing of sensitive personal data and personality profiles;
+
+c.
+
+Article 19 paragraph 1 on the disclosure of personal data.
+
+Art. 23
+
+Private law activities of federal bodies
+
+If a federal body acts under private law, the provisions for the processing of personal data by private persons apply.
+
+1
+
+2
+
+Supervision is governed by the provisions on federal bodies.
+
+39
+40
+41
+
+14
+
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+SR 152.1
+Amended by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+
+Data Protection. FA
+
+235.1
+
+Art. 2442
+Art. 25
+1
+
+Claims and procedure
+
+Anyone with a legitimate interest may request the federal body concerned to:
+a.
+
+refrain from processing personal data unlawfully;
+
+b.
+
+eliminate the consequences of unlawful processing;
+
+c.
+
+ascertain whether processing is unlawful.
+
+If it is not possible to prove the accuracy or the inaccuracy of personal data, the
+federal body must mark the data correspondingly.
+
+2
+
+3
+
+The applicant may in particular request that the federal body:
+a.
+
+corrects or destroys the personal data or blocks its disclosure to third parties;
+
+b.
+
+communicates its decision to third parties, in particular on the correction, destruction, blocking of the data or marking of the data as disputed, or publishes the decision.
+
+The procedure is governed by the Federal Act of 20 December 196843 on Administrative Procedure (Administrative Procedure Act). The exceptions contained in
+Articles 2 and 3 of the Administrative Procedure Act do not apply.
+
+4
+
+5
+
+…44
+
+Art. 25bis 45
+
+Procedure in the event of the disclosure of official
+documents containing personal data
+
+For as long as proceedings relating to access to official documents within the meaning of the Freedom of Information Act of 17 December 200446 that contain personal
+data are ongoing, the data subject may within the terms of such proceedings claim
+the rights accorded to him on the basis of Article 25 of this Act in relation to those
+documents that are the subject matter of the access proceedings.
+
+42
+43
+44
+45
+46
+
+Repealed by Art. 31 of the FA of 21 March 1997 on Measures to Safeguard Internal
+Security, with effect from 1 July 1998 (AS 1998 1546; BBl 1994 II 1127).
+SR 172.021
+Repealed by Annex No 26 of the Administrative Court Act of 17 June 2005, with effect
+from 1 Jan. 2007 (AS 2006 2197; BBl 2001 4202).
+Inserted by Annex No 4 of the Freedom of Information Act of 17 Dec. 2004, in force
+since 1 July 2006 (AS 2006 2319; BBl 2003 1963).
+SR 152.3
+
+15
+
+235.1
+
+Data Protection
+
+Section 5
+
+Federal Data Protection and Information Commissioner
+
+Art. 2647
+
+Appointment and status
+
+The Commissioner is appointed by the Federal Council for a term of office of four
+years. The appointment must be approved by the Federal Assembly.
+
+1
+
+1bis This term of office shall be extended automatically unless the Federal Council
+has issued an order no less than six months before its expiry based on materially
+adequate grounds that the term of office should not be extended.48
+
+The employment relationship is governed by the Federal Personnel Act of 24
+March 200049, unless this Act provides otherwise.
+
+2
+
+The Commissioner shall exercise his duties independently, without receiving
+directives from any authority.50 He is assigned to the Federal Chancellery for administrative purposes.
+3
+
+3
+
+He has a permanent secretariat and his own budget. He appoints his own staff.
+
+The Commissioner is not subject to the system of assessment under Article 4
+paragraph 3 of the Federal Personnel Act of 24 March 2000.
+
+5
+
+Art. 26a51
+1
+
+Reappointment and termination of the term of office
+
+The Commissioner’s term of office may be extended twice.52
+
+47
+
+48
+
+49
+50
+
+51
+
+52
+
+16
+
+Amended by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+Amended by No II 1 of the FA of 28 Sept. 2018 on the Implementation of Directive (EU)
+2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or
+prosecution of criminal offences or the execution of criminal penalties, in force since
+1 March 2019 (AS 2019 625; BBl 2017 6941).
+SR 172.220.1
+Amended by No II 1 of the FA of 28 Sept. 2018 on the Implementation of Directive (EU)
+2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or
+prosecution of criminal offences or the execution of criminal penalties, in force since
+1 March 2019 (AS 2019 625; BBl 2017 6941).
+Inserted by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+Amended by No II 1 of the FA of 28 Sept. 2018 on the Implementation of Directive (EU)
+2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or
+prosecution of criminal offences or the execution of criminal penalties, in force since
+1 March 2019 (AS 2019 625; BBl 2017 6941).
+
+Data Protection. FA
+
+235.1
+
+1bis This term of office shall be extended automatically unless the Federal Council
+has issued an order based on materially adequate grounds that the term of office
+should not be extended.53
+
+The Commissioner may request the Federal Council to be discharged from office at
+the end of any month subject to six months advance notice.
+
+2
+
+The Federal Council may dismiss the Commissioner from office before the expiry
+of his term of office if he:
+
+3
+
+a.
+
+wilfully or through gross negligence seriously violates his duties of office; or
+
+b.
+
+he is permanently unable to fulfil his duties of office.
+
+Art. 26b54
+1
+
+Secondary occupation
+
+The Commissioner may not carry on another occupation.
+
+2
+
+The Federal Council may permit the Commissioner to carry on another occupation
+provided this does not compromise his independence and standing. The decision
+shall be published.
+Art. 27
+
+Supervision of federal bodies
+
+The Commissioner55 supervises compliance by federal bodies with this Act and
+other federal data protection regulations of the Confederation. The Federal Council is
+excluded from such supervision.
+1
+
+The Commissioner investigates cases either on his own initiative or at the request
+of a third party.
+
+2
+
+3 In investigating cases, he may request the production of files, obtain information
+and arrange for processed data to be shown to him. The federal bodies must assist in
+determining the facts of any case. The right to refuse to testify under Article 16 of
+the Administrative Procedure Act56 applies by analogy.
+
+53
+
+54
+
+55
+
+56
+
+Inserted by No II 1 of the FA of 28 Sept. 2018 on the Implementation of Directive (EU)
+2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or
+prosecution of criminal offences or the execution of criminal penalties, in force since
+1 March 2019 (AS 2019 625; BBl 2017 6941).
+Inserted by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters (AS 2010 3387 3418; BBl 2009 6749).
+Amended by No II 1 of the FA of 28 Sept. 2018 on the Implementation of Directive (EU)
+2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or
+prosecution of criminal offences or the execution of criminal penalties, in force since
+1 March 2019 (AS 2019 625; BBl 2017 6941).
+Term in accordance with Annex No 4 of the Freedom of Information Act of 17 Dec. 2004,
+in force since 1 July 2006 (AS 2006 2319; BBl 2003 1963). This amendment is taken into
+account throughout this Act.
+SR 172.021
+
+17
+
+235.1
+
+Data Protection
+
+If the investigation reveals that data protection regulations are being breached, the
+Commissioner shall recommend that the federal body concerned change the method
+of processing or abandon the processing. He informs the department concerned or
+the Federal Chancellery of his recommendation.
+
+4
+
+If a recommendation is not complied with or is rejected, he may refer the matter to
+the department or to the Federal Chancellery for a decision. The decision is communicated to the data subjects in the form of a ruling.57
+
+5
+
+The Commissioner has a right of appeal against the ruling under paragraph 5 and
+against the decision of the appeal authority.58
+
+6
+
+Art. 28
+
+Advice to private persons
+
+The Commissioner advises private persons on data protection matters.
+Art. 29
+
+Investigations and recommendations in the private sector
+
+The Commissioner shall investigate cases in more detail on his own initiative or at
+the request of a third party if:
+
+1
+
+a.
+
+methods of processing are capable of breaching the privacy of larger number
+of persons (system errors);
+
+b.59 data files must be registered (Art. 11a);
+c.60 there is a duty to provide information in terms of Article 6 paragraph 3.
+To this end, he may request files, obtain information and arrange for processed data
+to be shown to him. The right to refuse to testify under Article 16 of the Administrative Procedure Act61 applies by analogy.
+
+2
+
+On the basis of his investigations, the Commissioner may recommend that the
+method of processing be changed or abandoned.
+
+3
+
+If a recommendation made by the Commissioner is not complied with or is rejected, he may refer the matter to the Federal Administrative Court for a decision. He
+has the right to appeal against this decision.62
+
+4
+
+57
+58
+59
+60
+61
+62
+
+18
+
+Second sentence according to No I of the FA of 24 March 2006, in force since 1 Jan. 2008
+(AS 2007 4983; BBl 2003 2101).
+Inserted by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+SR 172.021
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+
+Data Protection. FA
+
+Art. 30
+
+235.1
+
+Information
+
+The Commissioner shall submit a report to the Federal Assembly at regular intervals and as required. He shall provide the Federal Council with a copy of the report
+at the same time. The regular reports are published.63
+
+1
+
+In cases of general interest, he informs the general public of his findings and recommendations. He may only publish personal data subject to official secrecy with
+consent of the authority responsible. If it refuses its consent, the President of the
+division of the Federal Administrative Court responsible for data protection makes
+the final decision.64
+
+2
+
+Art. 31
+1
+
+Additional tasks
+
+The Commissioner has the following additional tasks in particular:65
+a.
+
+he assists federal and cantonal bodies on data protection issues;
+
+b.
+
+he provides an opinion on draft federal legislation and on other federal
+measures that are relevant to data protection;
+
+c.
+
+he cooperates with domestic and foreign data protection authorities;
+
+d.66
+
+he provides an expert opinion on the extent to which foreign data protection
+legislation guarantees adequate protection;
+
+e.67 he examines safeguards and data protection rules notified to him under Article 6 paragraph 3;
+f.68 he examines the certification procedure under Article11 and may issue recommendations in accordance with Article 27 paragraph 4 or Article 29 paragraph 3;.
+g.69 he carries out the tasks assigned to him under the Freedom of Information
+Act of 17 December 200470;
+
+63
+
+64
+65
+66
+67
+
+68
+69
+70
+
+Amended by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+Wording of sentence according to Annex No 26 of the Administrative Court Act of
+17 June 2005, in force since 1 Jan. 2007 (AS 2006 2197 1069; BBl 2001 4202).
+Amended by Annex No 4 of the Freedom of Information Act of 17 Dec. 2004, in force
+since 1 July 2006 (AS 2006 2319; BBl 2003 1963).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Inserted by Annex No 4 of the Freedom of Information Act of 17 Dec. 2004
+(AS 2006 2319; BBl 2003 1963). Amended by No I of the FA of 24 March 2006, in force
+since 1 Jan. 2008 (AS 2007 4983; BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+SR 152.3
+
+19
+
+235.1
+
+Data Protection
+
+h.71 he shall raise the level of public awareness of data protection matters.
+He may also advise bodies of the Federal Administration even if, in accordance
+with Article 2 paragraph 2 letters c and d, this Act does not apply. The bodies of the
+Federal Administration may permit him to inspect their files.
+
+2
+
+Art. 3272
+
+Section 673
+
+Legal Protection
+
+Art. 33
+Legal protection is governed by the general provisions on the administration of
+federal justice.
+
+1
+
+If the Commissioner establishes in a case investigation under Article 27 paragraph 2 or under Article 29 paragraph 1 that the data subjects are threatened with a
+disadvantage that cannot be easily remedied, he may apply to the President of the
+division of the Federal Administrative Court responsible for data protection for
+interim measures to be taken. The procedure is governed by analogy by Articles 79–
+84 of the Federal Act of 4 December 194774 on Federal Civil Procedure.
+
+2
+
+Section 7
+
+Criminal Provisions
+
+Art. 34
+
+Breach of obligations to provide information, to register or
+to cooperate
+
+1
+
+On complaint, private persons are liable to a fine if they:75
+
+71
+
+72
+73
+74
+75
+
+20
+
+a.
+
+breach their obligations under Articles 8–10 and 14, in that they wilfully
+provide false or incomplete information; or
+
+b.
+
+wilfully fail:
+1. to inform the data subject in accordance with Article 14 paragraph 1, or
+
+Inserted by No II 1 of the FA of 28 Sept. 2018 on the Implementation of Directive (EU)
+2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or
+prosecution of criminal offences or the execution of criminal penalties, in force since
+1 March 2019 (AS 2019 625; BBl 2017 6941).
+Repealed by Annex No I of the FA of 30 Sept. 2011 on Research involving Human
+Beings, with effect from 1 Jan. 2014 (AS 2013 3215; BBl 2009 8045).
+Amended by Annex No 26 des Administrative Court Act of 17 June 2005, in force since
+1 Jan. 2007 (AS 2006 2197 1069; BBl 2001 4202).
+SR 273
+Amended by Art. 333 of the Criminal Code in the version of the FA of 13 Dec. 2002, in
+force since 1 Jan. 2007 (AS 2006 3459; BBl 1999 1979).
+
+Data Protection. FA
+
+2.
+2
+
+235.1
+
+to provide information required under Article 14 paragraph 2.76
+
+Private persons are liable to a fine77 if they wilfully:
+a.78 fail to provide information in accordance with Article 6 paragraph 3 or to declare files in accordance with Article11a or who in doing so wilfully provide
+false information; or
+b.
+
+provide the Commissioner with false information in the course of a case investigation (Art. 29) or who refuse to cooperate.
+
+Art. 35
+
+Breach of professional confidentiality
+
+Anyone who without authorisation wilfully discloses confidential, sensitive personal data or personality profiles that have come to their knowledge in the course of
+their professional activities where such activities require the knowledge of such data
+is, on complaint, liable to a fine.79
+1
+
+The same penalties apply to anyone who without authorisation wilfully discloses
+confidential, sensitive personal data or personality profiles that have come to their
+knowledge in the course of their activities for a person bound by professional confidentiality or in the course of training with such a person.
+
+2
+
+The unauthorised disclosure of confidential, sensitive personal data or personality
+profiles remains an offence after termination of such professional activities or training.
+
+3
+
+Section 8
+
+Final Provisions
+
+Art. 36
+
+Implementation
+
+1
+
+The Federal Council shall issue the implementing provisions.
+
+2
+
+…80
+
+It may provide for derogations from Articles 8 and 9 in relation to the provision of
+information by Swiss diplomatic and consular representations abroad.
+
+3
+
+76
+
+77
+78
+79
+80
+
+Amended by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+Amended by Art. 333 of the Criminal Code in the version of the FA of 13 Dec. 2002, in
+force since 1 Jan. 2007 (AS 2006 3459; BBl 1999 1979).
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008 (AS 2007 4983;
+BBl 2003 2101).
+Amended by Art. 333 of the Criminal Code in the version of the FA of 13 Dec. 2002, in
+force since 1 Jan. 2007 (AS 2006 3459; BBl 1999 1979).
+Repealed by Art. 25 of the Archiving Act of 26 June 1998, with effect from 1 Oct. 1999
+(AS 1999 2243; BBl 1997 II 941).
+
+21
+
+235.1
+4
+
+Data Protection
+
+It may also specify:
+a.
+
+which data files require processing regulations;
+
+b.
+
+the requirements under which a federal body may arrange for the processing
+of personal data by a third party or for a third party;
+
+c.
+
+how the means of identification of persons may be used.
+
+It may conclude international treaties on data protection provided they comply with
+the principles of this Act.
+
+5
+
+It regulates how data files must be secured where the data may constitute a danger
+to life and limb for the data subjects in the event of war or other crisis.
+
+6
+
+Art. 37
+
+Implementation by the cantons
+
+Unless there are cantonal data protection regulations that ensure an adequate level
+of protection, Articles 1–11a, 16, 17, 18–22 and 25 paragraphs 1–3 of this Act apply
+to the processing of personal data by cantonal bodies in the implementation of federal law.81
+1
+
+The cantons shall appoint a controlling body to ensure compliance with data protection requirements. Articles 27, 30 and 31 are applicable in an analogous manner.
+
+2
+
+Art. 38
+
+Transitional provisions
+
+The controllers of data files must register existing data files that must be registered
+under Article 11 within one year of the commencement of this Act at the latest.
+1
+
+They must take the required measures within one year of the commencement of this
+Act to be able to provide the information required under Article 8.
+
+2
+
+Federal bodies may continue to use an existing data file with sensitive personal data
+or with personality profiles until 31 December 2000 without fulfilling the requirements of Article 17 paragraph 2.82
+
+3
+
+In matters relating to asylum and foreign nationals, the period mentioned in paragraph 3 is extended until the commencement of the totally revised Asylum Act of
+
+4
+
+81
+82
+
+22
+
+Amended by No I of the FA of 24 March 2006, in force since 1 Jan. 2008
+(AS 2007 4983; BBl 2003 2101).
+Amended by No I of the FD of 26 June 1998, in force until 31 Dec. 2000 (AS 1998 1586;
+BBl 1998 1579 1583).
+
+Data Protection. FA
+
+235.1
+
+26 June 199883 and the amendments to the Federal Act of 26 March 193184 on the
+Residence and Permanent Settlement of Foreign Nationals.85
+Art. 38a86
+
+Transitional provision to the Amendment of 19 March 2010
+
+The appointment of the Commissioner and the termination of his employment relationship are subject to the previous law until the end of the legislative period in
+which this amendment comes into force.
+Art. 39
+
+Referendum and commencement
+
+1
+
+This Act is subject to an optional referendum.
+
+2
+
+The Federal Council determines the date on which this Act comes into force.
+
+Commencement Date: 1 July 199387
+
+Final Provision of the Amendment of 24 March 200688
+Within a year of the commencement of this Act, the controllers of data files must
+take the required measures to inform data subjects in accordance with Article 4
+paragraph 4 and Article 7a.
+
+83
+84
+
+85
+86
+
+87
+88
+
+SR 142.31
+[BS 1 121; AS 1949 221, 1987 1665, 1988 332, 1990 1587 Art. 3 para. 2, 1991 362 No II
+11 1034 No III, 1995 146, 1999 1111 2262 Annex No 1, 2000 1891 No IV 2, 2002 685
+No I 1 701 No I 1 3988 Annex No 3, 2003 4557 Annex No II 2, 2004 1633 No I 1 4655
+No I 1, 2005 5685 Annex No 2, 2006 979 Art. 2 No 1 1931 Art. 18 No 1 2197 Annex
+No 3 3459 Annex No 1 4745 Annex No 1, 2007 359 Annex No 1. AS 2007 5437 Annex
+No I]
+Inserted by No II of the FD of 20 June 1997, in force since 1 Jan. 1998 (AS 1997 2372;
+BBl 1997 I 877). The Acts mentioned come into force on 1 Oct. 1999.
+Inserted by No 3 of the FA of 19 March 2010 on the Implementation of Framework
+Decision 2008/977/JHA on the protection of personal data processed in the framework of
+police and judicial cooperation in criminal matters, in force since 1 Dec. 2010
+(AS 2010 3387 3418; BBl 2009 6749).
+FCD of 14 June 1993 (AS 1993 1958).
+AS 2007 4983
+
+23
+
+235.1
+
+Data Protection
+
+Annex
+
+Amendment of Federal Acts
+…89
+
+89
+
+24
+
+The amendments may be consulted under AS 1993 1945.
+
+

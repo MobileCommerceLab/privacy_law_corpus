@@ -1,0 +1,2759 @@
+Privacy Regulation 2013
+Select Legislative Instrument No. 262, 2013
+I, Quentin Bryce AC CVO, Governor-General of the Commonwealth of
+Australia, acting with the advice of the Federal Executive Council, make
+the following regulation under the Privacy Act 1988.
+
+Dated 12 December 2013
+
+Quentin Bryce
+
+Governor-General
+By Her Excellency’s Command
+
+George Brandis QC
+
+Attorney-General
+
+OPC60178 - A
+
+Federal Register of Legislative Instruments F2013L02126
+
+Federal Register of Legislative Instruments F2013L02126
+
+Contents
+Part 1—Preliminary
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+1
+Name of regulation ............................................................................ 1
+Commencement ................................................................................. 1
+Authority ........................................................................................... 1
+Schedule(s) ........................................................................................ 1
+Definitions ......................................................................................... 1
+Consumer credit liability information................................................ 3
+Small business operators treated as organisations ............................. 3
+State authorities treated as organisations ........................................... 4
+State instrumentality treated as an organisation ................................. 4
+Meaning of credit provider ................................................................ 4
+Meaning of credit reporting business................................................. 5
+Meaning of repayment history information ....................................... 5
+Agencies to be treated as organisations ............................................. 5
+Permitted disclosure of credit information to a credit
+reporting body ................................................................................... 6
+
+Part 2—Australian Privacy Principles
+15
+16
+17
+18
+19
+
+7
+Exceptions to Australian Privacy Principle 9.1 ................................. 7
+Exceptions to Australian Privacy Principle 9.2 ................................. 7
+Exceptions to Australian Privacy Principle 9.2—Centrelink
+Confirmation eServices (customer confirmation) .............................. 7
+Exceptions to Australian Privacy Principle 9.2—Centrelink
+Confirmation eServices (income confirmation)................................. 8
+Exceptions to Australian Privacy Principle 9.2—Centrelink
+Confirmation eServices (superannuation confirmation) .................... 8
+
+Part 3—Privacy Advisory Committee
+20
+
+Part 4—Secrecy
+21
+
+10
+Travelling allowance—within Australia .......................................... 10
+11
+Designated secrecy provisions ......................................................... 11
+
+Part 5—Transitional
+22
+
+i
+OPC60178 - A
+
+12
+Transitional...................................................................................... 12
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Schedule 1—Agencies
+
+13
+
+Schedule 2—Centrelink Confirmation eServices
+(customer confirmation)—prescribed
+organisations
+
+16
+
+Part 1—Organisations that may use or disclose Customer
+Reference Numbers
+
+16
+
+Part 2—Organisations that may use or disclose DVA File
+Numbers
+
+19
+
+Schedule 3—Centrelink Confirmation eServices
+(income confirmation)—prescribed
+organisations
+
+20
+
+Schedule 4—Centrelink Confirmation eServices
+(superannuation confirmation)—
+prescribed organisations
+
+29
+
+Schedule 5—Repeals
+
+31
+
+Privacy (Private Sector) Regulations 2001
+
+31
+
+Privacy Regulations 2006
+
+31
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+ii
+
+Preliminary Part 1
+
+Section 1
+
+Part 1—Preliminary
+1 Name of regulation
+This regulation is the Privacy Regulation 2013.
+
+2 Commencement
+This regulation commences on 12 March 2014.
+
+3 Authority
+This regulation is made under the Privacy Act 1988.
+
+4 Schedule(s)
+Each instrument that is specified in a Schedule to this instrument is
+amended or repealed as set out in the applicable items in the
+Schedule concerned, and any other item in a Schedule to this
+instrument has effect according to its terms.
+
+5 Definitions
+In this regulation:
+Act means the Privacy Act 1988.
+agency means an agency that is:
+(a) an agency within the meaning of subsection 6(1) of the Act;
+or
+(b) an agency mentioned in:
+(i) Schedule 1; or
+(ii) Schedule 1 to the Financial Management and
+Accountability Regulations 1997; or
+(iii) subregulation 4(1) of the Commonwealth Authorities
+and Companies Regulations 1997; or
+(iv) Part 1 of Schedule 1 to the Commonwealth Authorities
+and Companies Regulations 1997; or
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+1
+
+Part 1 Preliminary
+
+Section 5
+(c) an agency in relation to which the Minister is satisfied that
+the events mentioned in paragraphs 100(2)(a) and (b) of the
+Act have occurred.
+Ausgrid means the body established by the Energy Services
+Corporations Act 1995 (NSW).
+AustralianSuper means AustralianSuper Pty Ltd, ABN
+65 714 394 898, and includes a payroll contractor of
+AustralianSuper.
+AvSuper means AvSuper Pty Ltd, ABN 84 421 446 069, and
+includes a payroll contractor of AvSuper.
+Centrelink program has the meaning given by section 40 of the
+Human Services (Centrelink) Act 1997.
+Customer Reference Number means the number assigned to an
+individual, in relation to a Centrelink program, by the Department
+administered by the Minister who administers the Human Services
+(Centrelink) Act 1997.
+DVA File Number means the file number assigned to an individual
+by the Department administered by the Minister who administers
+the Veterans’ Entitlements Act 1986.
+Endeavour Energy means the body established by the Energy
+Services Corporations Act 1995 (NSW).
+Essential Energy means the body established by the Energy
+Services Corporations Act 1995 (NSW).
+HomeStart Finance means the body established by regulation 4 of
+the Housing and Urban Development (Administrative
+Arrangements) (HomeStart Finance) Regulations 1995 (SA).
+payroll contractor, of an organisation (the principal organisation),
+means an organisation that is responsible, under a contract, for
+processing, on behalf of the principal organisation, any payments
+received by, or on behalf of, the principal organisation from an
+agency, its agent or its contracted service provider for the benefit
+of an individual employed, or formerly employed, by the agency.
+
+2
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Preliminary Part 1
+
+Section 6
+payroll number, assigned to an individual by an agency, means the
+identifier assigned to the individual by the agency, its agent or its
+contracted service provider for the purpose of providing salary and
+other employment benefits to the individual.
+residential tenancy database means a database that:
+(a) stores personal information in relation to an individual’s
+occupation of residential premises as a tenant; and
+(b) can be accessed by a person other than the operator of the
+database or a person acting for the operator.
+
+6 Consumer credit liability information
+For paragraph (e) of the definition of consumer credit liability
+information in subsection 6(1) of the Act, the terms or conditions
+of the consumer credit are the following:
+(a) how the principal and interest on the consumer credit are to
+be paid, namely whether:
+(i) the principal and interest are to be paid in full; or
+(ii) the principal and interest are to be paid, leaving a
+residual unpaid amount of principal and interest at the
+end of the term of the consumer credit; or
+(iii) only the interest is to be paid;
+(b) whether the term of the consumer credit is fixed or revolving;
+(c) if the term of the consumer credit is fixed—the length of the
+term;
+(d) whether the individual is a guarantor to another individual in
+relation to the other individual’s credit;
+(e) whether the consumer credit is secured or unsecured;
+(f) any variation to any of the terms or conditions mentioned in
+paragraphs (a) to (e).
+
+7 Small business operators treated as organisations
+(1) For subsection 6E(2) of the Act, a small business operator that
+operates a residential tenancy database is prescribed.
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+3
+
+Part 1 Preliminary
+
+Section 8
+(2) For subsection 6E(2) of the Act, the following acts or practices of a
+small business operator of the kind mentioned in subsection (1) are
+prescribed:
+(a) an act done, or a practice engaged in, in connection with
+collecting personal information for the purpose of
+establishing or maintaining a residential tenancy database;
+(b) an act done, or a practice engaged in, in connection with
+maintaining personal information on a residential tenancy
+database;
+(c) an act done, or a practice engaged in, in connection with
+using or disclosing personal information that is stored on a
+residential tenancy database.
+
+8 State authorities treated as organisations
+For subsection 6F(1) of the Act, the following authorities of New
+South Wales are prescribed:
+(a) Essential Energy;
+(b) Ausgrid;
+(c) Endeavour Energy.
+
+9 State instrumentality treated as an organisation
+(1) For subsection 6F(1) of the Act, HomeStart Finance, an authority
+of South Australia, is prescribed.
+(2) Australian Privacy Principle 11.2 does not apply to HomeStart
+Finance.
+
+10 Meaning of credit provider
+(1) For subparagraph 6G(1)(d)(ii) of the Act, Indigenous Business
+Australia is a credit provider.
+(2) For subsection 6G(6) of the Act, an organisation or small business
+operator is not a credit provider in relation to an individual if the
+organisation or small business operator acts in the capacity of a
+current or prospective landlord of the individual.
+
+4
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Preliminary Part 1
+
+Section 11
+
+11 Meaning of credit reporting business
+(1) For subsection 6P(4) of the Act, a business or undertaking is not a
+credit reporting business if the business or undertaking is in a class
+of businesses or undertakings that:
+(a) provides personal information to a credit provider; and
+(b) provides the information to:
+(i) verify an individual’s identity; or
+(ii) validate other information relating to the individual’s
+financial position (such as real property assets) that the
+individual provides to the credit provider.
+(2) A class of businesses or undertakings complies with
+paragraph (1)(b) if the class of businesses or undertakings:
+(a) compiles information about the individual from sources,
+including publicly available sources; and
+(b) provides the information to the credit provider to assist the
+credit provider to:
+(i) verify the individual’s identity; or
+(ii) verify that the individual owns the real estate or other
+assets that the individual claims to own; or
+(iii) validate the individual’s claimed financial position (in
+relation to the value of the individual’s assets).
+
+12 Meaning of repayment history information
+For paragraph 6V(2)(a) of the Act, an individual will be taken to
+have not met an obligation to make a monthly payment that is due
+and payable in relation to consumer credit if the individual misses
+any or all repayments due in a month, irrespective of the actual
+payment cycle for that obligation.
+
+13 Agencies to be treated as organisations
+For subsection 7A(2) of the Act, the Australian Government
+Solicitor is prescribed.
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+5
+
+Part 1 Preliminary
+
+Section 14
+14 Permitted disclosure of credit information to a credit reporting
+body
+For subparagraphs 21D(2)(a)(i) and 21D(3)(c)(i) of the Act,
+Indigenous Business Australia is prescribed.
+
+6
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Australian Privacy Principles Part 2
+
+Section 15
+
+Part 2—Australian Privacy Principles
+15 Exceptions to Australian Privacy Principle 9.1
+For subclause 9.3 of the Australian Privacy Principles:
+(a) AvSuper is a prescribed organisation; and
+(b) the payroll number assigned to an individual by Airservices
+Australia, or the Civil Aviation Safety Authority, is a
+prescribed identifier; and
+(c) the prescribed circumstance is that the payroll number is
+adopted by AvSuper to provide a superannuation service to
+the individual.
+
+16 Exceptions to Australian Privacy Principle 9.2
+For subclause 9.3 of the Australian Privacy Principles:
+(a) AustralianSuper and AvSuper are each a prescribed
+organisation; and
+(b) the payroll number assigned to an individual by an agency is
+a prescribed identifier; and
+(c) the prescribed circumstance is that the payroll number is used
+or disclosed by AustralianSuper or AvSuper to provide a
+superannuation service to the individual.
+
+17 Exceptions to Australian Privacy Principle 9.2—Centrelink
+Confirmation eServices (customer confirmation)
+Customer Reference Number
+(1) For subclause 9.3 of the Australian Privacy Principles:
+(a) an organisation mentioned in Part 1 of Schedule 2 is a
+prescribed organisation; and
+(b) a Customer Reference Number is a prescribed identifier; and
+(c) the prescribed circumstance is that the prescribed
+organisation uses or discloses an individual’s prescribed
+identifier, with the individual’s consent, to access Centrelink
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+7
+
+Part 2 Australian Privacy Principles
+
+Section 18
+Confirmation eServices to enquire whether the individual is
+entitled to receive a concession.
+DVA File Number
+(2) For subclause 9.3 of the Australian Privacy Principles:
+(a) an organisation mentioned in Part 2 of Schedule 2 is a
+prescribed organisation; and
+(b) a DVA File Number is a prescribed identifier; and
+(c) the prescribed circumstance is that the prescribed
+organisation uses or discloses an individual’s prescribed
+identifier, with the individual’s consent, to access Centrelink
+Confirmation eServices to enquire whether the individual is
+entitled to receive a concession.
+
+18 Exceptions to Australian Privacy Principle 9.2—Centrelink
+Confirmation eServices (income confirmation)
+For subclause 9.3 of the Australian Privacy Principles:
+(a) an organisation mentioned in Schedule 3 is a prescribed
+organisation; and
+(b) a Customer Reference Number is a prescribed identifier; and
+(c) the prescribed circumstance is that the prescribed
+organisation uses or discloses an individual’s prescribed
+identifier, with the individual’s consent, to access Centrelink
+Confirmation eServices to enquire whether the individual is
+entitled to receive a service or assistance.
+
+19 Exceptions to Australian Privacy Principle 9.2—Centrelink
+Confirmation eServices (superannuation confirmation)
+For subclause 9.3 of the Australian Privacy Principles:
+(a) an organisation mentioned in Schedule 4 is a prescribed
+organisation; and
+(b) a Customer Reference Number is a prescribed identifier; and
+(c) the prescribed circumstance is that the prescribed
+organisation uses or discloses an individual’s prescribed
+identifier, with the individual’s consent, to access Centrelink
+Confirmation eServices to enquire whether the individual is
+8
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Australian Privacy Principles Part 2
+
+Section 19
+entitled to the early release of superannuation on the ground
+of financial hardship.
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+9
+
+Part 3 Privacy Advisory Committee
+
+Section 20
+
+Part 3—Privacy Advisory Committee
+20 Travelling allowance—within Australia
+For section 88 of the Act, the travelling allowance payable to an
+appointed member is:
+(a) the amount that would be payable to the member if clause 3.3
+of the Remuneration Tribunal Determination 2004/03
+applied; or
+(b) the amount that would be payable to the member if clause 3.4
+of the Remuneration Tribunal Determination 2004/03
+applied, at the tier 2 rate.
+
+10
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Secrecy Part 4
+
+Section 21
+
+Part 4—Secrecy
+21 Designated secrecy provisions
+For paragraph 80P(7)(d) of the Act, the following provisions of the
+Census and Statistics Act 1905 are prescribed:
+(a) section 19;
+(b) section 19A.
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+11
+
+Part 5 Transitional
+
+Section 22
+
+Part 5—Transitional
+22 Transitional
+For item 19 of Schedule 6 to the Privacy Amendment (Enhancing
+Privacy Protection) Act 2012, section 18K of the Act applies to
+information mentioned in that section that has not been disclosed
+on or after 12 March 2014 and before 1 April 2014.
+
+12
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Agencies Schedule 1
+
+Schedule 1—Agencies
+Note:
+
+See section 5.
+
+Specified agencies
+Item
+
+Agency
+
+1
+
+Airservices Australia
+
+2
+
+Albury-Wodonga Development Corporation
+
+3
+
+Anindilyakwa Land Council
+
+4
+
+Army and Air Force Canteen Service
+
+5
+
+Attorney-General’s Department
+
+6
+
+Australia Council for the Arts
+
+7
+
+Australia Japan Foundation
+
+8
+
+Australian Broadcasting Corporation
+
+9
+
+Australian Commission on Safety and Quality in Health Care
+
+10
+
+Australian Curriculum, Assessment and Reporting Authority
+
+11
+
+Australian Film Television and Radio School
+
+12
+
+Australian Fisheries Management Authority
+
+13
+
+Australian Hearing
+
+14
+
+Australian Heritage Council
+
+15
+
+Australian Industry Development Corporation
+
+16
+
+Australian Institute for Teaching and School Leadership Ltd
+
+17
+
+Australian Institute of Aboriginal and Torres Strait Islander Studies
+
+18
+
+Australian Maritime College
+
+19
+
+Australian Military Forces Relief Trust Fund
+
+20
+
+Australian National University
+
+21
+
+Australian Pesticides and Veterinary Medicines Authority
+
+22
+
+Australian Reinsurance Pool Corporation
+
+23
+
+Australian Renewable Energy Agency
+
+24
+
+Australian Reward Investment Alliance
+
+25
+
+Australian Sports Commission
+
+26
+
+Biosecurity Advisory Council
+
+27
+
+Central Land Council
+
+28
+
+Civil Aviation Safety Authority
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+13
+
+Schedule 1 Agencies
+
+Specified agencies
+Item
+
+Agency
+
+29
+
+Classification Board
+
+30
+
+Classification Review Board
+
+31
+
+Clean Energy Finance Corporation
+
+32
+
+Clean Energy Regulator
+
+33
+
+Coal Mining Industry (Long Service Leave Funding) Corporation
+
+34
+
+Commonwealth Superannuation Corporation
+
+35
+
+Cotton Research and Development Corporation
+
+36
+
+CRS Australia
+
+37
+
+Defence Force Retirement and Death Benefits Authority
+
+38
+
+Department of Agriculture
+
+39
+
+Department of Communications
+
+40
+
+Department of Defence
+
+41
+
+Department of Education
+
+42
+
+Department of Employment
+
+43
+
+Department of Finance
+
+44
+
+Department of Foreign Affairs and Trade
+
+45
+
+Department of Health
+
+46
+
+Department of Human Services
+
+47
+
+Department of Immigration and Border Protection
+
+48
+
+Department of Industry
+
+49
+
+Department of Infrastructure and Regional Development
+
+50
+
+Department of Parliamentary Services
+
+51
+
+Department of Social Services
+
+52
+
+Department of the Environment
+
+53
+
+Department of the House of Representatives
+
+54
+
+Department of the Prime Minister and Cabinet
+
+55
+
+Department of the Senate
+
+56
+
+Department of the Treasury
+
+57
+
+Department of Veterans’ Affairs
+
+58
+
+Fisheries Research and Development Corporation
+
+59
+
+Food Standards Australia New Zealand
+
+60
+
+Forest and Wood Products Australia
+
+14
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Agencies Schedule 1
+
+Specified agencies
+Item
+
+Agency
+
+61
+
+Grape and Wine Research and Development Corporation
+
+62
+
+Health Workforce Australia
+
+63
+
+Indigenous Business Australia
+
+64
+
+Indigenous Land Corporation
+
+65
+
+National Disability Insurance Scheme Launch Transition Agency
+
+66
+
+National Film and Sound Archive of Australia
+
+67
+
+National Library of Australia
+
+68
+
+National Measurement Institute
+
+69
+
+National Native Title Tribunal
+
+70
+
+National Portrait Gallery of Australia
+
+71
+
+National Transport Commission
+
+72
+
+Northern Land Council
+
+73
+
+Parliamentary Budget Office
+
+74
+
+Private Health Insurance Administration Council
+
+75
+
+Repatriation Commission
+
+76
+
+Royal Australian Air Force Veterans’ Residences Trust Fund
+
+77
+
+Royal Australian Air Force Welfare Trust Fund
+
+78
+
+Royal Australian Navy Central Canteens Board
+
+79
+
+Royal Australian Navy Relief Trust Fund
+
+80
+
+Rural Industries Research and Development Corporation
+
+81
+
+Screen Australia
+
+82
+
+Social Security Appeals Tribunal
+
+83
+
+Special Broadcasting Service Corporation
+
+84
+
+Sugar Research and Development Corporation
+
+85
+
+Tiwi Land Council
+
+86
+
+Torres Strait Regional Authority
+
+87
+
+Veterans’ Review Board
+
+88
+
+Wheat Export Authority
+
+89
+
+Wine Australia Corporation
+
+90
+
+Wreck Bay Aboriginal Community Council
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+15
+
+Schedule 2 Centrelink Confirmation eServices (customer confirmation)—prescribed
+organisations
+Part 1 Organisations that may use or disclose Customer Reference Numbers
+
+Schedule 2—Centrelink Confirmation
+eServices (customer confirmation)—
+prescribed organisations
+Note:
+
+See section 17.
+
+Part 1—Organisations that may use or disclose
+Customer Reference Numbers
+Centrelink Confirmation eServices (customer confirmation)
+Item
+
+Prescribed organisation that may use or disclose Customer Reference
+Number
+
+1
+
+Actew Corporation Limited, ABN 86 069 381 960
+
+2
+
+Actew Retail Ltd & AGL ACT Retail Investments Pty Ltd, ABN
+46 221 314 841
+
+3
+
+Alinta Energy Retail Sales Pty Ltd, ABN 22 149 658 300
+
+4
+
+Aurora Energy Pty Ltd, ABN 85 082 464 622
+
+5
+
+Ausgrid, ABN 67 505 337 385
+
+6
+
+Australian Catholic University Limited, ABN 15 050 192 660
+
+7
+
+Australian Power and Gas Pty Limited, ABN 26 118 609 813
+
+8
+
+Blind Citizens Australia, ABN 90 006 985 226
+
+9
+
+Brightwater Care Group (Inc), ABN 23 445 460 050
+
+10
+
+Bunbury Cathedral Grammar School Inc, ABN 36 007 093 540
+
+11
+
+Catholic Education Office Diocese Of Parramatta, ABN 86 875 623 906
+
+12
+
+Catholic Schools Office—Newcastle, ABN 79 469 343 054
+
+13
+
+Central Area Region Training Scheme (Inc), ABN 18 046 791 543
+
+14
+
+Central SEQ Distributor-Retailer Authority, ABN 86 673 835 011
+
+15
+
+City West Water Corporation, ABN 70 066 902 467
+
+16
+
+Click Energy Pty Ltd, ABN 41 116 567 492
+
+17
+
+Djerriwarrh Employment & Education Services Inc., ABN 57 816 895 087
+
+18
+
+Dodo Power & Gas Pty Ltd, ABN 15 123 155 840
+
+19
+
+Early Childhood Management Services Inc, ABN 13 012 989 761
+
+20
+
+East Gippsland Region Water Corporation, ABN 40 096 764 586
+
+21
+
+Endeavour Energy, ABN 59 253 130 878
+
+16
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Centrelink Confirmation eServices (customer confirmation)—prescribed organisations
+Schedule 2
+Organisations that may use or disclose Customer Reference Numbers Part 1
+Centrelink Confirmation eServices (customer confirmation)
+Item
+
+Prescribed organisation that may use or disclose Customer Reference
+Number
+
+22
+
+EnergyAustralia Pty Ltd, ABN 99 086 014 968
+
+23
+
+ERM Power Retail Pty Ltd, ABN 87 126 175 460
+
+24
+
+Essential Energy, ABN 37 428 185 226
+
+25
+
+Foundation Housing Ltd, ABN 78 115 629 662
+
+26
+
+Great Southern Rail Limited, ABN 59 079 476 949
+
+27
+
+Hearing Retail Group Pty Limited, ABN 93 113 235 779
+
+28
+
+HGT Australia Limited, ABN 25 001 868 542
+
+29
+
+IPower 2 Pty Limited & IPower Pty Limited, ABN 67 269 241 237
+
+30
+
+Kingston Capital Limited, ABN 35 093 837 640
+
+31
+
+Kununurra Waringarri Aboriginal Corporation, ABN 62 195 764 089
+
+32
+
+Lady Gowrie Tasmania Incorporated, ABN 34 730 372 717
+
+33
+
+Lumo Energy Australia Pty Ltd, ABN 69 100 528 327
+
+34
+
+Mater Dei College, ABN 32 341 893 835
+
+35
+
+Medibank Health Solutions Telehealth Pty Limited, ABN 40 069 396 792
+
+36
+
+Metro Tasmania Pty Ltd, ABN 30 081 467 281
+
+37
+
+Momentum Energy Pty Limited, ABN 42 100 569 159
+
+38
+
+Murrumbidgee Local Health District, ABN 71 172 428 618
+
+39
+
+Option One Pty Ltd, ABN 90 110 370 726
+
+40
+
+Origin Energy Electricity Limited, ABN 33 071 052 287
+
+41
+
+Origin Energy Retail Limited, ABN 22 078 868 425
+
+42
+
+Origin Energy (Vic) Pty Limited, ABN 11 086 013 283
+
+43
+
+Palmerston Association Inc, ABN 38 789 840 948
+
+44
+
+Plan B Wealth Management Ltd, ABN 42 052 834 634
+
+45
+
+Powerdirect Pty Ltd, ABN 28 067 609 803
+
+46
+
+RACV Road Service Pty Ltd, ABN 67 077 207 268
+
+47
+
+Red Energy Pty. Limited, ABN 60 107 479 372
+
+48
+
+Ruah Community Services, ABN 98 065 827 787
+
+49
+
+Share & Care Community Services Group Incorporated, ABN 37 835 103 986
+
+50
+
+Society of St Vincent de Paul WA Inc, ABN 18 332 550 061
+
+51
+
+Sonic Innovations Pty Ltd, ABN 86 007 608 460
+
+52
+
+South Eastern Sydney and Illawarra Area Health Service, ABN
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+17
+
+Schedule 2 Centrelink Confirmation eServices (customer confirmation)—prescribed
+organisations
+Part 1 Organisations that may use or disclose Customer Reference Numbers
+Centrelink Confirmation eServices (customer confirmation)
+Item
+
+Prescribed organisation that may use or disclose Customer Reference
+Number
+78 390 886 131
+
+53
+
+South East Water Corporation, ABN 89 066 902 547
+
+54
+
+Southern Cross Care (WA) Inc, ABN 55 046 572 944
+
+55
+
+Southern NSW Local Health District, ABN 94 495 894 851
+
+56
+
+Starlight Children’s Foundation Australia, ABN 80 931 522 157
+
+57
+
+St John’s Regional College, ABN 29 766 938 476
+
+58
+
+Sun Retail Pty Ltd, ABN 97 078 848 549
+
+59
+
+Sydney South West Area Health Service, ABN 55 338 004 696
+
+60
+
+Tasmanian Water and Sewerage Corporation (Northern Region) Pty Limited,
+ABN 13 133 655 062
+
+61
+
+Tasmanian Water and Sewerage Corporation (North-Western Region) Pty
+Limited, ABN 90 133 655 008
+
+62
+
+Tasmanian Water and Sewerage Corporation (Southern Region) Pty Ltd, ABN
+65 133 654 976
+
+63
+
+Telstra Corporation Limited, ABN 33 051 775 556
+
+64
+
+Try Australia Children’s Services, ABN 17 157 351 722
+
+65
+
+UnitingCare West, ABN 75 467 729 203
+
+66
+
+Uniting Church in Australia Frontier Services, ABN 77 231 384 646
+
+67
+
+Workventures Ltd., ABN 74 002 721 217
+
+68
+
+Yarra Valley Water Corporation, ABN 93 066 902 501
+
+69
+
+Yura Yungi Aboriginal Medical Service, ABN 77 043 932 146
+
+18
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Centrelink Confirmation eServices (customer confirmation)—prescribed organisations
+Schedule 2
+Organisations that may use or disclose DVA File Numbers Part 2
+
+Part 2—Organisations that may use or disclose
+DVA File Numbers
+Centrelink Confirmation eServices (customer confirmation)
+Item
+
+Prescribed organisation that may use or disclose DVA File Numbers
+
+1
+
+Alinta Energy Retail Sales Pty Ltd, ABN 22 149 658 300
+
+2
+
+Aurora Energy Pty Ltd, ABN 85 082 464 622
+
+3
+
+Blind Citizens Australia, ABN 90 006 985 226
+
+4
+
+Catholic Education Office Diocese Of Parramatta, ABN 86 875 623 906
+
+5
+
+City West Water Corporation, ABN 70 066 902 467
+
+6
+
+East Gippsland Region Water Corporation, ABN 40 096 764 586
+
+7
+
+Essential Energy, ABN 37 428 185 226
+
+8
+
+Great Southern Rail Limited, ABN 59 079 476 949
+
+9
+
+IPower 2 Pty Limited & IPower Pty Limited, ABN 67 269 241 237
+
+10
+
+Momentum Energy Pty Limited, ABN 42 100 569 159
+
+11
+
+Murrumbidgee Local Health District, ABN 71 172 428 618
+
+12
+
+Origin Energy Electricity Limited, ABN 33 071 052 287
+
+13
+
+Origin Energy Retail Limited, ABN 22 078 868 425
+
+14
+
+Origin Energy (Vic) Pty Limited, ABN 11 086 013 283
+
+15
+
+Red Energy Pty. Limited, ABN 60 107 479 372
+
+16
+
+South East Water Corporation, ABN 89 066 902 547
+
+17
+
+Southern NSW Local Health District, ABN 94 495 894 851
+
+18
+
+Sun Retail Pty Ltd, ABN 97 078 848 549
+
+19
+
+Telstra Corporation Limited, ABN 33 051 775 556
+
+20
+
+Yarra Valley Water Corporation, ABN 93 066 902 501
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+19
+
+Schedule 3 Centrelink Confirmation eServices (income confirmation)—prescribed
+organisations
+
+Schedule 3—Centrelink Confirmation
+eServices (income confirmation)—
+prescribed organisations
+Note:
+
+See section 18.
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+1
+
+4Walls Ltd, ABN 28 123 318 767
+
+2
+
+Aboriginal Family Support Services Inc, ABN 82 853 278 164
+
+3
+
+Aboriginal Housing Victoria, ABN 38 006 210 546
+
+4
+
+Aboriginal Legal Rights Movement Inc, ABN 32 942 723 464
+
+5
+
+Access Community Housing Company Ltd, ABN 89 123 037 070
+
+6
+
+Access Housing Association Inc, ABN 16 950 706 234
+
+7
+
+Affordable Community Housing Limited, ABN 16 127 713 731
+
+8
+
+Aged Care & Housing Group Inc, ABN99 437 071 895
+
+9
+
+Agencies for South West Accommodation Inc, ABN 29 138 143 911
+
+10
+
+Anglican Community Care Incorporated, ABN 53 440 436 445
+
+11
+
+Anglicare—Central Queensland Limited, ABN 76 088 159 335
+
+12
+
+Anglicare North Queensland Limited, ABN 86 094 640 552
+
+13
+
+Anglicare SA Incorporated, ABN 69 187 578 153
+
+14
+
+Anglicare Tasmania Inc, ABN 90 979 742 836
+
+15
+
+Anglicare Victoria, ABN 97 397 067 466
+
+16
+
+Anglicare WA, ABN 32 797 454 970
+
+17
+
+Anglicare Youth and Family Services, ABN 59 434 950 963
+
+18
+
+Arafemi Victoria Inc, ABN 21 094 487 229
+
+19
+
+Argyle Community Housing Association Inc, ABN 23 018 325 659
+
+20
+
+Australian Catholic University Limited, ABN 15 050 192 660
+
+21
+
+Australian Community Support Organisation Inc, ABN 43 037 816 628
+
+22
+
+Australian Red Cross Society, ABN 50 169 561 394
+
+23
+
+Bailey, David Stuart John, ABN 85 007 802 251
+
+24
+
+Ballarat Community Health, ABN 98 227 492 950
+
+25
+
+Baptist Care Inc, ABN 17 138 445 819
+
+20
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Centrelink Confirmation eServices (income confirmation)—prescribed organisations
+Schedule 3
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+26
+
+Baptist Care (SA) Incorporated, ABN 81 257 754 846
+
+27
+
+Baptist Community Services—NSW & ACT, ABN 90 000 049 525
+
+28
+
+Baptist Community Services (SA) Inc, ABN 18 410 025 243
+
+29
+
+Bedford Group Incorporated, ABN 27 553 554 594
+
+30
+
+Berry Street Victoria Incorporated, ABN 24 719 196 762
+
+31
+
+Bethanie Housing Ltd, ABN 35 129 681 376
+
+32
+
+Bethany Community Support Inc, ABN 38 633 820 168
+
+33
+
+BJ & KA Paget and Associates Pty. Ltd., ABN 65 011 073 902
+
+34
+
+Boroondara Aged Services Society, ABN 66 004 574 547
+
+35
+
+Bric Housing, ABN 60 128 191 882
+
+36
+
+Bridge Housing Limited, ABN 55 760 055 094
+
+37
+
+Brightwater Care Group (Inc), ABN 23 445 460 050
+
+38
+
+Brisbane Green Heart Citysmart Pty Ltd, ABN 28 099 480 010
+
+39
+
+Brisbane Housing Company Limited, ABN 75 101 263 834
+
+40
+
+Brotherhood of St Laurence, ABN 24 603 467 024
+
+41
+
+Bundaberg Housing Services Inc, ABN 48 460 615 148
+
+42
+
+Cape York Partnerships for Welfare Reform Pty Ltd, ABN 72 070 475 311
+
+43
+
+CatholicCare Archdiocese of Melbourne, ABN 42 795 179 778
+
+44
+
+Catholic Diocese of Port Pirie Inc, ABN 59 649 630 183
+
+45
+
+Catholic Family Services, ABN 21 578 907 988
+
+46
+
+Centacare Catholic Diocese of Ballarat Inc, ABN 51 857 084 361
+
+47
+
+Centacare Tasmania, ABN 79 984 899 862
+
+48
+
+Central Queensland University, ABN 39 181 103 288
+
+49
+
+Centrecare Inc, ABN 98 651 609 161
+
+50
+
+Centric Wealth Advisers Ltd, ABN 88 090 684 521
+
+51
+
+Child & Family Services Ballarat Inc, ABN 83 786 843 940
+
+52
+
+Churches of Christ Qld Churches of Christ Care Executive Directors Office,
+ABN 22 304 038 262
+
+53
+
+Coast2Bay Housing Group Ltd, ABN 32 127 308 856
+
+54
+
+Coast to Country Housing Company, ABN 62 146 455 398
+
+55
+
+Colony 47 Inc, ABN 50 935 329 686
+
+56
+
+Common Equity Housing Limited, ABN 97 006 546 658
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+21
+
+Schedule 3 Centrelink Confirmation eServices (income confirmation)—prescribed
+organisations
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+57
+
+Commonwealth Financial Planning Limited, ABN 65 003 900 169
+
+58
+
+Community Connections (Victoria) Limited., ABN 23 083 100 118
+
+59
+
+Community Housing Canberra Ltd, ABN 46 081 354 752
+
+60
+
+Community Housing Mid North Coast Inc, ABN 40 773 081 960
+
+61
+
+Community Programs Incorporated, ABN 90 346 683 679
+
+62
+
+Connections UnitingCare, ABN 90 676 577 035
+
+63
+
+Cua Financial Planning Pty Ltd, ABN 60 010 003 853
+
+64
+
+Dandenong & District Aboriginal Co Operative Ltd, ABN 34 256 073 685
+
+65
+
+Djerriwarrh Employment & Education Services Inc., ABN 57 816 895 087
+
+66
+
+Dominic College, ABN 46 218 331 249
+
+67
+
+EACH, ABN 46 197 549 317
+
+68
+
+Eastern Suburbs Rental Housing Association Ltd, ABN 86 002 744 836
+
+69
+
+Edith Cowan University, ABN 54 361 485 361
+
+70
+
+ERM Power Retail Pty Ltd, ABN 87 126 175 460
+
+71
+
+Financial Foundations Australia Pty. Ltd., ABN 56 006 829 116
+
+72
+
+Foundation Housing Ltd, ABN 78 115 629 662
+
+73
+
+FSG Australia, ABN 73 112 839 184
+
+74
+
+Fusion Australia Ltd, ABN 26 001 273 105
+
+75
+
+Garrigal Housing Association Limited, ABN 50 002 732 023
+
+76
+
+Geelong Ethnic Communities Council Inc, ABN 29 252 806 279
+
+77
+
+Gippsland & East Gippsland Aboriginal Cooperative Ltd, ABN
+56 690 276 207
+
+78
+
+Gippsland Lakes Community Health, ABN 39 041 514 660
+
+79
+
+Gisborne and District Community Health and Hospital Board Inc., ABN
+18 087 702 537
+
+80
+
+Goldsborough Financial Services Pty Ltd, ABN 89 064 640 142
+
+81
+
+Good Shepherd Youth & Family Service, ABN 61 354 551 576
+
+82
+
+Goulburn Valley Family Care Inc, ABN 99 572 820 584
+
+83
+
+Hanover Welfare Services, ABN 89 742 307 083
+
+84
+
+Harrison Community Services, ABN 61 737 393 012
+
+85
+
+HealthShare (NSW), ABN 65 697 563 521
+
+86
+
+Hills Community Support Group, ABN 84 378 990 136
+
+22
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Centrelink Confirmation eServices (income confirmation)—prescribed organisations
+Schedule 3
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+87
+
+HomeGround Services, ABN 92 102 547 393
+
+88
+
+Horizon Housing Company Ltd, ABN 57 061 035 050
+
+89
+
+Housing Choices Australia Limited, ABN 23 385 731 870
+
+90
+
+Housing Plus, ABN 83 147 459 461
+
+91
+
+Hume Community Housing Association Co Ltd, ABN 66 647 041 988
+
+92
+
+Hutt Street Centre, ABN 75 055 179 354
+
+93
+
+Indigenous Business Australia, ABN 25 192 932 833
+
+94
+
+Inner Northern Community Housing Brisbane Association Inc, ABN
+76 004 196 068
+
+95
+
+Intework Inc, ABN 79 872 326 186
+
+96
+
+Jesuit Social Services Limited, ABN 72 005 269 554
+
+97
+
+Junction Support Services Inc, ABN 67 446 414 611
+
+98
+
+Keystart Loans Ltd, ABN 27 009 427 034
+
+99
+
+Kildonan Uniting Care, ABN 11 805 856 055
+
+100
+
+Kingston Capital Limited, ABN 35 093 837 640
+
+101
+
+Kununurra Waringarri Aboriginal Corporation, ABN 62 195 764 089
+
+102
+
+Latrobe Regional Hospital, ABN 18 128 843 652
+
+103
+
+Launceston City Mission Inc, ABN 77 205 956 084
+
+104
+
+Life Without Barriers, ABN 15 101 252 171
+
+105
+
+Link Housing Ltd, ABN 62 003 084 928
+
+106
+
+Loddon Mallee Housing Services Limited, ABN 28 081 883 623
+
+107
+
+Lumen Christi College, ABN 27 976 824 064
+
+108
+
+Lutheran Church of Australia Queensland District (Lutheran Community
+Care), ABN 48 471 699 609
+
+109
+
+Lutheran Community Care, ABN 26 735 070 692
+
+110
+
+Lutheran Community Housing Support Unit Inc, ABN 48 933 624 228
+
+111
+
+Mackillop Family Services Limited, ABN 79 078 299 288
+
+112
+
+Magnitude Group Pty Ltd, ABN 54 086 266 202
+
+113
+
+Marrickville Community Training Centre Inc, ABN 26 046 112 702
+
+114
+
+Matrix on Board Pty Limited, ABN 62 097 186 797
+
+115
+
+Melbourne Anglican Trust Corporation, ABN 82 862 724 352
+
+116
+
+Melbourne Citymission, ABN 56 161 846 149
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+23
+
+Schedule 3 Centrelink Confirmation eServices (income confirmation)—prescribed
+organisations
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+117
+
+Mental Illness Fellowship Victoria, ABN 93 093 357 165
+
+118
+
+Mercy Public Hospitals Inc., ABN 74 762 230 429
+
+119
+
+Metropolitan Association Towards Community Housing Inc, ABN
+98 061 424 336
+
+120
+
+Micah Projects Inc, ABN 76 409 721 192
+
+121
+
+Migrant Resource Centre of SA Inc, ABN 42 131 904 410
+
+122
+
+Mildura Aboriginal Corporation Incorporated, ABN 54 334 685 198
+
+123
+
+Mission Australia, ABN 15 000 002 522
+
+124
+
+Mission Australia Housing Limited, ABN 13 003 683 261
+
+125
+
+Moira Inc, ABN 22 729 829 472
+
+126
+
+Moir, Lars Ian, ABN 21 674 752 832
+
+127
+
+Monashlink Community Health Service Limited, ABN 72 071 671 178
+
+128
+
+Multicultural Development Association Inc, ABN 41 372 481 576
+
+129
+
+Multilink Community Services Inc, ABN 21 728 003 819
+
+130
+
+Murdi Paaki Regional Housing Corporation Limited, ABN 42 463 324 744
+
+131
+
+Nadrasca Ltd, ABN 90 125 235 047
+
+132
+
+National Australia Bank Limited, ABN 12 004 044 937
+
+133
+
+Ngaanyatjarra Council Aboriginal Corporation, ABN 88 304 990 870
+
+134
+
+Ngaanyatjarra Pitjantjatjara Yankunytjatjara Women’s Council (Aboriginal
+Corporation), ABN 77 902 127 562
+
+135
+
+Njernda Aboriginal Corporation, ABN 17 334 858 388
+
+136
+
+Odyssey House; Victoria, ABN 11 005 583 960
+
+137
+
+Offenders Aid and Rehabilitation Services of SA Inc, ABN 28 020 001 923
+
+138
+
+Outcare Inc, ABN 16 838 467 261
+
+139
+
+Ozcare, ABN 58 072 422 925
+
+140
+
+Ozplan Financial Services Pty Ltd, ABN 35 005 391 202
+
+141
+
+Pacific Link Housing Limited, ABN 82 074 394 648
+
+142
+
+Pajoda Investments Pty Ltd, ABN 33 127 407 238
+
+143
+
+Palmerston Association Inc, ABN 38 789 840 948
+
+144
+
+Peace Lutheran Church Gatton, ABN 31 545 166 079
+
+145
+
+Perks Wealth Management Pty Ltd, ABN 88 086 643 058
+
+146
+
+Pilbara Meta Maya Regional Aboriginal Corporation, ABN63 954 974 254
+
+24
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Centrelink Confirmation eServices (income confirmation)—prescribed organisations
+Schedule 3
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+147
+
+Plan B Wealth Management Ltd, ABN 42 052 834 634
+
+148
+
+Plenty Valley Community Health Ltd, ABN 48 243 677 427
+
+149
+
+Port Phillip Housing Association Limited, ABN 13 116 093 004
+
+150
+
+Prahran Mission, ABN 77 812 307 472
+
+151
+
+Prescott Securities Ltd, ABN 12 096 919 603
+
+152
+
+Quadrant First Pty Ltd, ABN 78 102 167 877
+
+153
+
+Quantum Support Services Inc, ABN 18 274 439 046
+
+154
+
+Queensland Tertiary Admissions Centre Limited, ABN 28 050 542 633
+
+155
+
+Red Shield Housing Association Inc, ABN 77 314 872 022
+
+156
+
+Resolve FM Pty Limited, ABN 16 054 527 865
+
+157
+
+RI Advice Group Pty Limited, ABN 23 001 774 125
+
+158
+
+Roman Catholic Church for the Archdiocese of Canberra and Goulburn as
+trustees for CatholicCare, ABN 90 046 512 373
+
+159
+
+Roman Catholic Trust Corporation for the Diocese of Townsville, ABN
+18 410 990 342
+
+160
+
+Royal District Nursing Service Limited, ABN 49 052 188 717
+
+161
+
+Ruah Community Services, ABN 98 065 827 787
+
+162
+
+Rumbalara Aboriginal Cooperative Limited, ABN 84 530 647 942
+
+163
+
+Rural Housing Network, ABN 82 965 609 218
+
+164
+
+Sacred Heart Mission St Kilda Inc, ABN 62 843 874 179
+
+165
+
+Senses Foundation (Incorporated), ABN 93 169 195 127
+
+166
+
+Service to Youth Council Inc, ABN 97 342 246 844
+
+167
+
+Shadforth Financial Group Limited, ABN 27 127 508 472
+
+168
+
+Share & Care Community Services Group Incorporated, ABN 37 835 103 986
+
+169
+
+Silky Oaks Children’s Haven, ABN 72 083 136 809
+
+170
+
+SMF Wealth Management Pty Ltd, ABN 72 081 257 221
+
+171
+
+Society of St Vincent de Paul Pty Ltd, ABN 81 008 552 967
+
+172
+
+Society of St Vincent de Paul WA Inc, ABN 18 332 550 061
+
+173
+
+Somerville Foundation Inc, ABN 95 794 292 020
+
+174
+
+Southern Cross Care (WA) Inc, ABN 55 046 572 944
+
+175
+
+Southern Junction Community Services Incorporated, ABN 79 036 584 364
+
+176
+
+Southern Youth & Family Services Association Inc, ABN 70 244 601 731
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+25
+
+Schedule 3 Centrelink Confirmation eServices (income confirmation)—prescribed
+organisations
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+177
+
+State Trustees Limited, ABN 68 064 593 148
+
+178
+
+St Bartholomew’s House Inc, ABN 92 491 228 162
+
+179
+
+St Basil’s Homes for the Aged in SA (Vasileias) Inc, ABN 62 788 605 234
+
+180
+
+St George Community Housing Limited, ABN 32 565 549 842
+
+181
+
+St Luke’s Anglicare, ABN 99 087 209 729
+
+182
+
+St Vincent de Paul Society (NT) Inc, ABN 11 300 386 527
+
+183
+
+St Vincent de Paul Society Queensland, ABN 14 211 506 904
+
+184
+
+St Vincent de Paul Society (SA) Inc, ABN 73 591 401 592
+
+185
+
+St Vincent de Paul Society (Tasmania) Inc., ABN 41 003 138 898
+
+186
+
+St Vincent de Paul Society Victoria Inc, ABN 28 911 702 061
+
+187
+
+Sydney Anglican Home Mission Society Council, ABN 88 851 368 006
+
+188
+
+Tangentyere Council Inc, ABN 81 688 672 692
+
+189
+
+The Corporation of the Roman Catholic Bishops of Queensland, ABN
+57 525 935 419
+
+190
+
+The Corporation of the Synod of the Diocese of Brisbane, ABN
+55 966 095 680
+
+191
+
+The Corporation of the Trustees of the Roman Catholic Archdiocese of
+Brisbane, ABN 35 020 644 975
+
+192
+
+The Flinders University of South Australia, ABN 65 542 596 200
+
+193
+
+The North Coast Community Housing Company Ltd, ABN 97 002 685 761
+
+194
+
+The Richmond Fellowship of Tasmania Incorporated, ABN 77 939 851 973
+
+195
+
+The Salvation Army Australia Southern Territory Social Work, ABN
+53 678 533 122
+
+196
+
+The Salvation Army (QLD) Property Trust, ABN 32 234 126 186
+
+197
+
+The Smith Family, ABN 28 000 030 179
+
+198
+
+The Synod of the Diocese of the NT Inc, ABN 61 187 402 536
+
+199
+
+The Trustee for Robert Stary Business Trust & The Trustee for The Norton
+Family Trust, ABN 88 748 900 182
+
+200
+
+The Trustee for Swanton & Davidson Unit Trust, ABN 61 397 061 165
+
+201
+
+The Trustee for The Salvation Army (NT) Property Trust, ABN
+65 906 613 779
+
+202
+
+The Trustee for The Salvation Army (SA) Property Trust, ABN
+13 320 346 330
+
+26
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Centrelink Confirmation eServices (income confirmation)—prescribed organisations
+Schedule 3
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+203
+
+The Trustee for The Salvation Army (Tasmania) Property Trust, ABN
+94 917 169 560
+
+204
+
+The Trustee for The Salvation Army Victoria Property Trust, ABN
+64 472 238 844
+
+205
+
+The Trustees of the Society of St Vincent de Paul (NSW), ABN
+46 472 591 335
+
+206
+
+The Uniting Church in Australia Property Trust (Victoria) UnitingCare
+Gippsland, ABN 27 198 905 226
+
+207
+
+Top End Association for Mental Health Inc., ABN 16 345 352 064
+
+208
+
+Traditional Credit Union Limited, ABN 50 087 650 922
+
+209
+
+UCA—Parramatta Mission, ABN 42 266 391 917
+
+210
+
+UnitingCare Ballarat Parish Mission, ABN 15 562 419 440
+
+211
+
+Unitingcare Community, ABN 28 728 322 186
+
+212
+
+Uniting Care Regen, ABN 96 525 412 680
+
+213
+
+UnitingCare Wesley Adelaide Incorporated, ABN 33 174 490 373
+
+214
+
+Uniting Care Wesley Bowden Incorporated, ABN 65 440 352 199
+
+215
+
+UnitingCare Wesley Country SA Inc, ABN 32 415 186 787
+
+216
+
+UnitingCare Wesley Port Adelaide Incorporated, ABN 29 335 570 988
+
+217
+
+UnitingCare West, ABN 75 467 729 203
+
+218
+
+Uniting Church in Australia Frontier Services, ABN 77 231 384 646
+
+219
+
+Unity Housing Company Ltd, ABN 12 130 704 648
+
+220
+
+Universities Admissions Centre (NSW & ACT) Pty Limited, ABN
+19 070 055 935
+
+221
+
+Upper Murray Family Care Inc., ABN 99 081 624 768
+
+222
+
+Victorian Association for the Care and Resettlement of Offenders, ABN
+47 004 426 162
+
+223
+
+VincentCare Victoria, ABN 53 094 807 280
+
+224
+
+WA Council on Addictions, ABN 95 867 354 052
+
+225
+
+Warren Graham and Murphy Pty Ltd, ABN 89 126 243 061
+
+226
+
+WAYSS Ltd, ABN 38 080 191 108
+
+227
+
+Wealth Managers Pty Ltd, ABN 27 086 558 134
+
+228
+
+Wentworth Community Housing Limited, ABN 50 003 076 337
+
+229
+
+Wesley Mission Brisbane, ABN 28 746 881 862
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+27
+
+Schedule 3 Centrelink Confirmation eServices (income confirmation)—prescribed
+organisations
+
+Centrelink Confirmation eServices (income confirmation)
+Item
+
+Prescribed organisation
+
+230
+
+Wesley Mission Victoria, ABN 81 098 317 125
+
+231
+
+Westcare Incorporated, ABN 72 662 454 226
+
+232
+
+Western Region Health Centre Ltd., ABN 41 004 616 997
+
+233
+
+Whitsunday Housing Company Ltd, ABN 15 126 757 186
+
+234
+
+WHK Financial Planning Pty Ltd, ABN 51 060 092 631
+
+235
+
+Wimmera Uniting Care, ABN 63 638 645 369
+
+236
+
+Wintringham, ABN 97 007 293 478
+
+237
+
+Women’s Housing Company Ltd, ABN 38 002 704 056
+
+238
+
+Yarra Community Housing Limited, ABN 73 076 581 112
+
+239
+
+YWCA Victoria, ABN 39 004 068 106
+
+28
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Centrelink Confirmation eServices (superannuation confirmation)—prescribed
+organisations Schedule 4
+
+Schedule 4—Centrelink Confirmation
+eServices (superannuation
+confirmation)—prescribed
+organisations
+Note:
+
+See section 19.
+
+Centrelink Confirmation eServices (superannuation confirmation)
+Item
+
+Prescribed organisation
+
+1
+
+AMP Services Limited, ABN 50 081 143 786
+
+2
+
+AON Hewitt Limited, ABN 48 002 288 646
+
+3
+
+ASGARD Capital Management Ltd, ABN 92 009 279 592
+
+4
+
+Australian Administration Services Pty. Limited, ABN 62 003 429 114
+
+5
+
+Avanteos Investments Limited, ABN 20 096 259 979
+
+6
+
+Catholic Church Insurance Limited, ABN 76 000 005 210
+
+7
+
+Colonial First State Investments Limited, ABN 98 002 348 352
+
+8
+
+Community Connections (Victoria) Limited., ABN 23 083 100 118
+
+9
+
+Finium Trustees Ltd, ABN 91 062 389 673
+
+10
+
+I.O.O.F. Investment Management Limited, ABN 53 006 695 021
+
+11
+
+Kildonan Uniting Care, ABN 11 805 856 055
+
+12
+
+Meat Industry Employees Superannuation Fund, ABN 17 317 520 544
+
+13
+
+Mercer (Australia) Pty Ltd, ABN 32 005 315 917
+
+14
+
+MLC Investments Limited, ABN 30 002 641 661
+
+15
+
+MLC Lifetime Company Limited, ABN 94 000 000 420
+
+16
+
+MLC Limited, ABN 90 000 000 402
+
+17
+
+National Australia Financial Management Ltd, ABN 56 000 176 116
+
+18
+
+Onepath Custodians Pty Limited, ABN 12 008 508 496
+
+19
+
+Portfolio Planning Services Managed Superannuation Plan, ABN
+88 902 678 055
+
+20
+
+Precision Administration Services Pty Ltd, ABN 47 098 977 667
+
+21
+
+S.M.F. Funds Management Ltd., ABN 23 009 564 354
+
+22
+
+SMF Wealth Management Pty Ltd, ABN 72 081 257 221
+
+23
+
+State Trustees Limited, ABN 68 064 593 148
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+29
+
+Schedule 4 Centrelink Confirmation eServices (superannuation confirmation)—
+prescribed organisations
+
+Centrelink Confirmation eServices (superannuation confirmation)
+Item
+
+Prescribed organisation
+
+24
+
+Statewide Financial Management Services Ltd., ABN 69 092 109 209
+
+25
+
+Suncorp Portfolio Services Limited, ABN 61 063 427 958
+
+26
+
+Superpartners Pty Ltd, ABN 57 078 907 883
+
+27
+
+The Australian Superannuation Group (WA) Pty Ltd, ABN 61 082 510 236
+
+28
+
+The Trustee for Catholic Superannuation Fund, ABN 50 237 896 957
+
+29
+
+The Trustee for Club Super, ABN 12 737 334 298
+
+30
+
+The Trustee for Local Super, ABN 92 930 911 098
+
+31
+
+The Trustee for MAP Superannuation Plan Div II, ABN 71 603 157 863
+
+32
+
+The Trustee for Nationwide Superannuation Fund, ABN 15 201 768 813
+
+33
+
+The Trustee for Zurich Master Superannuation Fund, ABN 33 632 838 393
+
+30
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+No. 262, 2013
+
+Repeals Schedule 5
+
+Schedule 5—Repeals
+Privacy (Private Sector) Regulations 2001
+1 The whole of the Regulations
+Repeal the Regulations.
+
+Privacy Regulations 2006
+2 The whole of the Regulations
+Repeal the Regulations.
+
+No. 262, 2013
+OPC60178 - A
+
+Privacy Regulation 2013
+
+Federal Register of Legislative Instruments F2013L02126
+
+31
+
+

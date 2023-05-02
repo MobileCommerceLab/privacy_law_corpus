@@ -1,0 +1,858 @@
+Accueil
+
+À Propos de GuiLaw
+
+Contactez-Nous
+
+Favoris
+
+0
+
+Shares
+rechercher un mot-clef, une expression
+
+RECHERCHER
+
+Loi relative à la Cybersécurité et la Protection des
+Données à Caractère Personnel
+
+! Coin des
+utilisateurs
+
+Add to favorites
+
+Favoris
+Your favorites will be here.
+
+Loi L/2016/037/AN du 28 Juillet 2016, Relative à la Cybersécurité et la Protection des Données à Caractère Personnel en République de
+Guinée
+
+"
+"
+
+Première Partie : Cyber-Sécurité
+
+"
+
+Préambule
+
+Titre I: Dispositions Générales
+Chapitre I: Terminologie
+Article 1er
+Au sens de la présente Loi, les termes ci-dessous sont entendus de la manière suivante :
+Cybercriminalité : ensemble des infractions pénales qui se commettent au moyen ou sur un réseau de télécommunications ou un
+système d’information.
+Communication électronique : tout service ou moyen d’émission, de transmission ou de réception de signes, de signaux, d’écrits,
+de sons, d’images, ou de vidéos par voie électromagnétique, optique, ou par tout autre procédé, mis à la disposition du public ou
+d’une catégorie de public.
+Technologies de l’Information et de la Communication (TIC) : technologies employées pour recueillir, stocker, utiliser et
+envoyer des informations, et incluant celles qui impliquent l’utilisation des ordinateurs ou de tout autre système de communication
+et de télécommunications.
+Données informatiques ou données (tout court) : toute représentation de faits, d’informations ou de concepts, sous une forme
+assimilable à un traitement informatique, ou un programme de nature à faire exécuter une fonction par un système d’information.
+Système informatique : tout dispositif isolé ou non, tout ensemble de dispositifs interconnectés assurant en tout ou partie, un
+traitement automatisé de données en exécution d’un programme;
+Infrastructures critiques : les installations physiques et des technologies de l’information et de communication, notamment
+électroniques, les réseaux, les services et les actifs, qui en cas d’arrêt ou de destruction, peuvent avoir de graves incidences sur la
+santé, la sécurité ou le bien-être social ou économique des citoyens, et/ou le fonctionnement correct ou continu des services de
+l’Etat.
+Données à caractère personnel : toute information de quelque nature qu’elle soit et indépendamment de son support, y compris
+le son et l’image relative à une personne identifiée ou identifiable directement ou indirectement, à travers un numéro
+d’identification ou à un ou plusieurs éléments spécifiques, relatifs à son identité physique, physiologique, génétique, psychique,
+culturelle, sociale, ou économique.
+Données sensibles : toutes données à caractère personnel, relatives aux opinions ou activités religieuse, philosophique, politique,
+syndicale, à la vie sexuelle ou raciale, à la santé, aux mesures d’ordre social, aux poursuites, aux sanctions pénales ou
+administratives.
+Données relatives aux abonnés : toute information sous forme de données informatiques ou sous toute autre forme, détenue par
+un fournisseur de services, notamment de communications électroniques/tic, et se rapportant aux abonnés de ses services, autres
+que des données relatives au trafic ou au contenu, et permettant d’établir sur la base d’un contrat ou d’un arrangement de services :
+* Le type de services de communication, les dispositions techniques prises à cet effet, et la durée du service ;
+* L’identité, l’adresse postale ou géographique, le numéro de téléphone ou tout autre numéro d’accès, l’adresse email, les informations
+relatives à la localisation, la facturation et à l’endroit où se trouvent les équipements de communication.
+– Données relatives au trafic : toutes données relatives à une communication passant par un système d’information, produites par ce
+dernier en tant qu’élément de la chaîne de communication, indiquant l’origine, la destination, l’itinéraire, l’heure, la date, la taille, et la
+durée de la communication ou le type de service sous-jacent.
+–
+
+Atteinte à la dignité humaine : toute atteinte, hors les cas d’attentat à la vie, d’atteinte à l’intégrité ou à la liberté, qui a pour effet
+
+essentiel de traiter la personne comme une chose, comme un animal, ou comme un être auquel serait dénié tout droit.
+– Racisme et xénophobe : tout écrit, toute image ou toute autre représentation d’idées ou de théories qui préconise ou encourage la
+haine, la discrimination ou la violence contre une personne ou un groupe de personnes, en raison de la race, de la couleur, de
+l’ascendance, de l’origine géographique, de l’ethnie ou de la religion, dans la mesure où cette dernière sert de prétexte à l’un ou à l’autre
+de ces éléments ou qui incite à de tels actes ;
+– Mineur : toute personne âgée de moins de 18 ans, selon le Code Pénal guinéen.
+– Pornographie infantile : toute donnée quelle qu’en soit la nature ou la forme, représentant de manière visuelle un mineur se livrant à
+un agissement sexuellement explicite ou des images représentant un mineur se livrant à un comportement sexuellement explicite ;
+– Pays tiers : tout Etat non-membre de la CEDEAO ;
+– SMS : Sigle anglo-saxon, signifiant ‘Short Message Service (en Français : service de message court) ;
+– Surveillance : toute activité faisant appel à des moyens techniques ou électroniques, en vue de détecter, d’observer, de copier ou
+d’enregistrer les mouvements, images, paroles, écrits, ou l’état d’un objet ou d’une personne fixe ou mobile.
+– Personne : toute personne physique ou morale, à l’exception des personnes morales de L’Etat et de ses services déconcentrés ou autres
+démembrements, des collectivités locales ou décentralisées, des établissements et des institutions publiques.
+– CERT : Centre de veille, d’alerte et de réponse aux attaques informatiques.
+Pour les termes non définis par la présente loi, les définitions données par les instruments juridiques de la CEDEAO, de l’Union
+Africaine ou de l’Union Internationale des Télécommunications, prévalent sur toutes autres définitions.
+Chapitre II: Objet et Champ d'Application
+Article 2
+La présente Loi a pour objet, de définir les règles et mécanismes visant à lutter contre la cybercriminalité et créer ainsi un environnement
+favorable, propice et sécuritaire dans le cyberespace, mais également de permettre à la République de Guinée de se conformer à ses
+engagements communautaires et internationaux en matière de cyber-sécurité.
+Article 3
+Sont soumises aux dispositions de la présente Loi, les infractions relatives à la cybercriminalité commises sur le territoire de la
+République de Guinée, ainsi que les infractions pénales dont la constatation sur ledit territoire requiert la collecte d’une preuve
+électronique; et ce, quels que soient les auteurs des infractions, qu’il s’agisse de personnes physiques (citoyens guinéens ou étrangers) ou
+de personnes morales (à l’exception de l’Etat, des collectivités locales ou décentralisées, des établissements, des institutions ou
+administrations publiques), dès lors que ces personnes se trouvent, exercent, ou évoluent sur le territoire national. Toutefois, l’exception
+concernant l’Etat, les collectivités locales ou décentralisées, les établissements ou administrations publiques, ne portent que sur la
+personne morale, et ne fait d’aucune manière, obstacle à l’application des dispositions de la présente Loi aux agents de cette personne
+morale, qui commettraient des cyber-infractions.
+En outre, la responsabilité pénale des personnes morales sujettes à l’application de la présente Loi, n’exclut pas celle de leurs dirigeants
+ou représentants personnes physiques, en cas de commission de l’une quelconque des infractions prévues par ladite Loi.
+Titre II: Infractions aux Technologies de l'Information et de la Communication et aux Communications Electroniques ou Commises à travers
+ces Technologies et Communications
+Chapitre III: Accès et Maintien Non-Autorisés dans les Systèmes Informatiques
+Article 4
+Quiconque accède ou tente d’accéder frauduleusement à tout ou partie d’un système informatique, pour quelles que raisons que soient,
+commet une infraction condamnée et punie par la Loi.
+Article 5
+Est puni d’un emprisonnement d’un (1) an à cinq (5) ans et d’une amende de 60.000.000 à 130.000.000 de Francs guinéens quiconque
+tente d’accéder frauduleusement à tout ou partie d’un système informatique.
+Toute personne complice de la commission de cette infraction, sera punie des mêmes peines.
+Article 6
+Quiconque se maintient ou tente de se maintenir frauduleusement dans tout ou partie d’un système informatique, sera puni d’un
+emprisonnement de deux (2) ans à cinq (5) ans et d’une amende de 80.000.000 à 150.000.000 de Francs guinéens.
+Toute personne complice de la commission de cette infraction, sera punie des mêmes peines.
+Chapitre IV: Entrave au Fonctionnement des Systèmes Informatiques et Introduction Frauduleuse de Données dans les Systèmes
+Informatiques
+Article 7
+L’entrave au bon fonctionnement et/ou la falsification des données d’un système informatique constitue un acte de cybercriminalité et
+sera puni par la Loi.
+Article 8
+Quiconque entrave, fausse ou tente d’entraver ou de fausser le fonctionnement d’un système informatique, sera puni d’un
+emprisonnement de trois (3) ans à six (6) ans et d’une amende de 100.000.000 à 500.000.000 de Francs Guinéens. Toute personne
+complice de la commission de cette infraction, sera punie des mêmes peines.
+Article 9
+Quiconque introduit ou tente d’introduire frauduleusement des données dans un système informatique, sera puni d’un emprisonnement
+de trois (3) ans à six (6) ans et d’une amende de 100.000.000 à 500.000.000 de Francs Guinéens.
+Toute personne complice pour la commission de cette infraction, sera punie des mêmes peines.
+Chapitre V: Interception Frauduleuse, Modification et Falsification de Données Informatiques
+Article 10
+L’interception frauduleuse et/ou la modification non autorisée des données informatiques constitue une infraction prévue et punie par la
+Loi.
+Article 11
+Quiconque intercepte ou tente d’intercepter frauduleusement par des moyens techniques des données informatiques lors de leur
+transmission non publique à destination, en provenance ou à l’intérieur d’un système informatique, sera puni d’un emprisonnement de
+cinq (5) ans à dix (10) ans et d’une amende de 500.000.000 à 1.000.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction, sera punie des mêmes peines.
+Article 12
+Quiconque altère ou tente d’altérer, modifie ou tente de modifier, supprime ou tente de supprimer frauduleusement des données
+informatisées, sera puni d’un emprisonnement de cinq (5) ans à dix (10) ans et d’une amende de 500.000.000 à I .000.000.000 de Francs
+Guinéens.
+Toute personne complice de la commission de cette infraction, sera punie des mêmes peines.
+Article 13
+Qui -orgue produit ou fabrique un ensemble de données par l’introduction, la modification, l’altération ou la suppression frauduleuse de
+données informatiques, engendrant des données contrefaites, dans l’intention qu’elles soient prises en compte ou utilisées à des fins
+légales comme si elles étaient originales, sera puni d’un emprisonnement de cinq (5) ans à dix (10) ans et d’une amende de 500.000.000
+à 1.000. 000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction, sera punie des mêmes peines.
+Chapitre VI: Fraude Informatique, Traitement Frauduleux de Données à Caractère Personnel, Usage de Données Falsifiées
+Article 14
+L’usage de données frauduleusement obtenues est puni par la Loi.
+Article 15
+Quiconque fait usage ou tente de faire usage, en connaissance de cause, de données frauduleusement obtenues, sera puni d’un
+emprisonnement de deux (2) ans à cinq (5) ans et d’une amende de 300.000.000 à 600. 000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 16
+Quiconque obtient frauduleusement, pour soi-même ou pour autrui, un avantage quelconque, par l’introduction, l’utilisation, la
+modification, l’altération ou la suppression de données informatiques ou par toute forme d’atteinte au fonctionnement d’un système
+informatique, sera puni d’un emprisonnement de deux (2) ans à cinq (5) ans et d’une amende de 400.000.000 à 700.000.000 de Francs
+Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Chapitre VII: Détention d'un Equipment pour Commettre des Infractions Cybercriminelles et Commission des Infractions
+Informatiques à travers des Associations spécifiquement formées à cet effet ou par Entente Préalable
+Article 17
+La détention frauduleuse d’un équipement de télécommunications à connecter sur un réseau ouvert au public ou un réseau privé
+constitue une infraction punie par la Loi.
+Article 18
+La détention frauduleuse d’un mot de passe dans l’intention de s’introduire frauduleusement dans un système informatique est une
+infraction punie par la Loi.
+Article 19
+Quiconque, dans l’intention de commettre l’une des infractions prévues par la présente Loi, importe, vend, produit, détient, diffuse, offre,
+cède, ou met à disposition, en connaissance de cause :
+* Un équipement, un dispositif ou un programme informatique,
+* Un mot de passe, un code d’accès ou des données informatiques similaires,
+Sera puni d’un emprisonnement d’un (1) an à trois (03) ans et d’une amende de 150.000.000 à 550.000.000 de Francs guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 20
+Quiconque participe, ou tente de participer à une association spécifiquement formée ou à une entente préalablement établie en vue de
+commettre ou de préparer l’une quelconque des infractions prévues par la présente Loi ou assimilée, se rend coupable de délit, et sera
+puni d’un emprisonnement de trois (3) ans à cinq (5) ans et d’une amende de 1.000.000.000 à 1.500.000.000 de Francs Guinéens.
+Chapitre VIII: Production, Importation ou Exportation, Possession et Facilitation d'Accès à des Images ou des Representations à
+Caratère Pornographique Infantile
+Article 21
+L’enregistrement, la diffusion, la transmission ou la représentation d’images à caractère de pornographie infantile constitue un délit et par
+la Loi.
+Article 22
+Quiconque produit, enregistre, met à disposition, diffuse, transmet une image ou une représentation présentant un caractère de
+pornographie infantile par le biais d’un système informatique ou d’un moyen de stockage de données informatiques, se rend coupable de
+‘délit’, et sera puni d’un emprisonnement de cinq (5) ans à dix (10) ans et d’une amende de 700.000.000 à 1.000.000.000 de Francs
+Guinéens. Toute personne complice de la commission de cette infraction sera punie des mêmes peines, mais également toute personne
+qui tenterait de commettre cette infraction.
+Article 23
+Quiconque se procure ou procure à autrui, importe ou fait importer, exporte ou fait exporter une image ou une représentation présentant
+un caractère de pornographie infantile par le biais d’un système informatique ou d’un moyen de stockage de données informatiques, sera
+puni d’un emprisonnement de cinq (5) ans à dix (10) ans et d’une amende de 700.000.000 à 1.000.000.000 de Francs Guinéens. Toute
+personne complice pour la commission de cette infraction, sera punie des mêmes peines, au même titre que toute personne qui tenterait
+de commettre cette infraction.
+Article 24
+Quiconque possède intentionnellement une image ou une représentation présentant un caractère de pornographie infantile par le biais
+d’un système informatique ou d’un moyen de stockage de données informatiques, sera puni d’un emprisonnement de deux (2) ans à cinq
+(5) ans et d’une amende de 250.000.000 à 500.000.000 de Francs Guinéens ou de l’une de ces deux peines seulement.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 25
+Quiconque facilite l’accès à des images, des documents, du son ou des représentations présentant un caractère pornographique à un
+mineur, sera puni d’un emprisonnement de deux (2) ans à cinq (5) ans et d’une amende de 250.000.000 à 500.000.000 de Francs
+Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines, au même titre que toute personne qui
+tenterait de commettre cette infraction.
+Chapitre IX: Disposition d'Images ou d'Ecrits de Nature Raciste ou Xénophobe par le biais d'un Système Informatique, Injures,
+Menaces, et Négationnisme à travers le Système Informatique
+Article 26
+Le téléchargement, la diffusion et la mise à disposition de messages, de photos, d’écrits, de dessins ou toute autre représentation de
+théories ou d’idées, de nature raciste ou xénophobe, par le biais d’un système informatique, se rend coupable de délit puni par la Loi.
+Article 27
+Quiconque crée, télécharge, diffuse ou met à disposition sous quelque forme que ce soit des messages, photos, écrits, dessins ou toute
+autre représentation de théories ou d’idées, de nature raciste ou xénophobe, par le biais d’un système informatique, se rend coupable de
+délit, et sera puni d’un emprisonnement de cinq (5) ans dix (10) ans et d’une amende de 100.000.000 à 300.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 28
+Quiconque porte des menaces notamment de violence ou de mort par le biais d’un système informatique, sera puni d’un emprisonnement
+d’un (01) an à cinq (5) ans et d’une amende de 30.000.000 à 100.000.000 de Francs Guinéens.
+Et lorsque ces menaces sont commises envers une personne en raison de son appartenance à un groupe donné, de sa race, de sa couleur,
+de son ascendance, de sa filiation, de sa religion, de son origine, de sa nationalité, de son ethnie, dans la mesure où cette appartenance
+sert de prétexte à une telle menace, l’auteur de ces menaces sera puni d’un emprisonnement de trois (3) ans à huit (8) ans et d’une
+amende de 100.000.000 à 500.000.000 de Francs Guinéens.
+Toute personne complice de la commission de l’une de ces infractions sera punie des mêmes peines.
+Article 29
+Quiconque émet une injure, une expression outrageante, tout terme de mépris ou toute invective qui ne renferme l’imputation d’aucun
+fait par le biais d’un système informatique, sera puni d’un emprisonnement de (6) mois à un (1) an et d’une amende de 40.000.000 à
+120.000.000 de Francs Guinéens.
+Et lorsque ces infractions sont commises envers une personne en raison de son appartenance à un groupe donné, de sa race, de sa
+couleur, de son ascendance, de sa filiation, de sa religion, de son origine, de sa nationalité, de son ethnie, dans la mesure où cette
+appartenance sert de prétexte à une telle injure, son auteur sera puni d’un emprisonnement de trois (3) ans à huit (8) ans et d’une amende
+de 80.000.000 à 250.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 30
+Quiconque nie, approuve, ou justifie de manière intentionnelle des faits constitutifs de génocide et/ou de crimes contre l’humanité par le
+biais d’un système informatique, se rend coupable de délit, et sera puni d’un emprisonnement de cinq (5) ans à dix (10) ans et d’une
+amende de 400.000.000 à 1.000.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Chapitre X: Atteintes et Menaces à l'Ordre et à la Sécurité Publics; à la Sécurité, l'Intégrité et la Dignité des Individus par le biais d'un
+Système Informatique
+Article 31
+La production, la diffusion, la mise à disposition d’autrui des données de nature à troubler l’ordre ou la sécurité publics ou à porter
+atteinte à la dignité humaine par le biais d’un système informatique, se rend coupable de délit, et sera puni par la Loi.
+Article 32
+Quiconque produit, diffuse ou met à disposition d’autrui des données de nature à troubler l’ordre ou la sécurité publics ou à porter
+atteinte à la dignité humaine par le biais d’un système informatique, se rend coupable de délit, et sera puni d’un emprisonnement de six
+(6) mois à cinq (5) ans et d’une amende de 20.000.000 à 300.000.000 de Francs Guinéens.
+Cette peine pourra être aggravée en fonction de l’ampleur de l’infraction et du préjudice causé. Toute personne complice pour la
+commission de cette infraction, sera punie des mêmes peines.
+Article 33
+Quiconque diffuse ou met à disposition d’autrui par le biais d’un système informatique, sauf à destination des personnes autorisées, un
+mode d’emploi ou un procédé permettant la fabrication de moyens de destruction de nature à porter atteinte à la vie humaine, aux biens,
+et/ou à l’environnement, se rend coupable d’acte de terrorisme, et sera puni d’un emprisonnement de trois (3) ans à un (05) ans et d’une
+amende de 500.000.000 à 1.000.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 34
+Quiconque diffuse ou met à disposition d’autrui par le biais d’un système informatique, des informations ou procédés d’incitation au
+suicide, se rend coupable d’incitation au crime, et sera puni d’un emprisonnement de deux (2) ans à sept (7) ans et d’une amende de
+100.000.000 à 350.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 35
+Quiconque communique ou divulgue par le biais d’un système informatique, une fausse information tendant à faire croire qu’une
+destruction, une dégradation ou une détérioration de biens ou une atteinte aux personnes a été commise ou va être commise sera puni
+d’un emprisonnement de six (6) mois à trois (3) ans et d’une amende de 20.000.000 à 100.000.000 de Francs Guinéens ou de l’une de
+ces deux peines seulement.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Quiconque communique ou divulgue par le biais d’un système informatique, une fausse information tendant à faire croire à un sinistre
+ou à toute autre situation d’urgence, sera au même titre que tout complice, puni des mêmes peines que celles prévues à l’alinéa 1er du
+présent Article.
+Article 36
+Quiconque menace de commettre par le biais d’un système informatique, une destruction, une dégradation ou une détérioration de biens
+ou une atteinte aux personnes, lorsqu’elle est matérialisée par un écrit, une image, une vidéo, un son ou toute autre donnée, se rend
+coupable de menace terroriste, et sera puni d’un emprisonnement de quatre (4) ans à dix (10) ans et d’une amende de 100.000.000 à
+450.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 37
+Est coupable de trahison et sera puni de l’emprisonnement à vie, tout citoyen de nationalité guinéenne, résidant sur le territoire de la
+République de Guinée ou en dehors, qui :
+Livre ou s’assure de la possession d’un renseignement, d’un document, d’un procédé ou d’une donnée informatique, devant
+pourtant être tenus « secret » dans l’intérêt de la défense nationale, en vue de les livrer à un pays étranger, à tout individu, ou à
+toute organisation qui porte atteinte ou viole ou est susceptible de porter atteinte ou de violer les intérêts fondamentaux de la
+République de Guinée, à travers les systèmes informatiques ;
+Détruit ou laisse détruire un renseignement, un document, un procédé ou une donnée informatique, devant pourtant être tenus «
+secret » dans l’intérêt de la défense nationale, en vue de favoriser un pays étranger ou toute autre personne physique ou morale
+Etrangère.
+Article 38
+Est coupable d’espionnage et sera puni de l’emprisonnement à vie, tout étranger (citoyen non guinéen) résidant sur le territoire de la
+République de Guinée ou en dehors, qui ;
+Livre ou s’assure de la possession d’un renseignement, d’un document, d’un procédé ou d’une donnée informatique, devant
+pourtant être tenus « secret » dans l’intérêt de la défense nationale, en vue de les livrer à
+Un pays étranger ou à une personne physique ou morale étrangère, par le biais d’un système informatique ;
+Détruit ou laisse détruire un renseignement, un document, un procédé ou une donnée informatique, devant pourtant être tenus «
+secret » dans l’intérêt de la défense nationale, en vue de favoriser un pays étranger ou toute autre personne physique ou morale
+étrangère.
+Chapitre XI: Infractions Classiques de Droit Commun commises sur ou par le biais des Systèmes, Logiciels et Programmes
+Informatiques
+Article 39
+Le fait d’utiliser ou de tenter d’utiliser les systèmes informatiques en vue de commettre des infractions de droit commun telles que le vol,
+l’escroquerie, le recel, l’abus de confiance, l’extorsion de fonds, le blanchiment de capitaux, constituent des circonstances aggravantes, et
+sont assimilées à des délits punis par la Loi.
+Article 40
+Quiconque tente d’utiliser les systèmes informatiques en vue de commettre des infractions de droit commun telles que le vol,
+l’escroquerie, le recel, l’abus de confiance, l’extorsion de fonds, le blanchiment de capitaux sera puni d’un emprisonnement d’un (1) an à
+deux (2) ans et d’une amende de 100.000.000à 1.000.000.000 de Francs Guinéens. Le montant de cette amende pourra toutefois, âtre
+revu à la hausse, selon l’ampleur de l’infraction et du préjudice qui en résulte.
+Le fait d’utiliser ou de tenter d’utiliser les systèmes informatiques en vue de commettre des actes de terrorisme est lui, assimilable à un
+crime, entraînant selon l’ampleur de l’infraction, sera punie de (15) ans à la réclusion criminelle à perpétuité.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 41
+Quiconque commet ou tente de commettre un acte de terrorisme visant des données, logiciels et/ou programmes informatiques pourrait
+être assimilé à un crime, entraînant selon l’ampleur de l’infraction, un emprisonnement de cinq (05) ans à dix (10) ans et une amende de
+500.000.000 à 3.000.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Chapitre XII: Infractions en Matière de Données à Caractère Personnel commises sur ou par le biais des Systèmes Informatiques et en
+Matière de Cryptologie
+Article 42
+L’utilisation frauduleuse d’éléments d’identification d’une personne physique ou morale, du contenu d’une conversation électronique,
+même par omission ou négligence, constitue une violation de la vie privée et punie par la Loi.
+Article 43
+Quiconque utilise ou tente d’utiliser frauduleusement un ou des éléments d’identification d’une personne physique ou morale ou procède
+ou fait procéder, même par omission ou négligence, à des traitements, à une conservation, à un détournement, à la mise à disposition ou
+divulgation à autrui de données à caractère personnel sans autorisation préalable de la personne concernée ou de l’autorité compétente ou
+en violation des règles et formalités prévues en la matière, par les dispositions relatives à la protection des données à caractère personnel,
+sera puni d’un emprisonnement de un (1) an à deux (2) ans et d’une amende de 75.000.000 à 300.000.000 de Francs Guinéens. Ces
+peines peuvent être aggravées selon l’ampleur de l’infraction et l’étendue du préjudice.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 44
+Lorsque la divulgation de données à caractère personnel sans autorisation de l’intéressé ou de l’autorité compétente, porte atteinte à la
+considération, à la dignité, à l’honneur de l’intéressé ou à l’intimité de sa vie privée, l’auteur de l’infraction, sera au même titre que tout
+complice, puni d’un emprisonnement de deux (2) ans à dix (10) ans et d’une amende de 100.000,000 à 400. 000.000 de Francs Guinéens
+ou de l’une de ces deux peines seulement. Les mêmes peines sont applicables à la tentative de cette infraction.
+La victime ou ses ayant-droits pourront en outre, engager une action civile (dommages-intérêts) pour la réparation du préjudice subi.
+Toutefois, lorsque la divulgation prévue à l’alinéa précédent du présent article et ayant entraîné les conséquences mentionnées dans ledit
+article, a été commise par imprudence, omission, ou négligence, la peine d’emprisonnement et l’amende pour l’auteur ou tout complice,
+seront respectivement réduites de six (6) mois à cinq (5) ans et d’une amende de 20.000.000 à 75.000.000 de Francs Guinéens.
+Article 45
+Quiconque utilise, possède, offre, vend, met à disposition, transmet en toute connaissance de cause par le biais d’un système
+informatique, de fausses données d’identification, sera puni d’un (1) an à deux (2) ans et d’une amende de 80.000.000 à 175.000.000 de
+Francs Guinéens.
+Toute personne complice de la commission de cette infraction des mêmes peines.
+Article 46
+Quiconque réalise ou tente de réaliser de fausses données d’identification par le biais d’un système informatique, se rend coupable de
+délit, et sera puni d’un (1) an à deux (2) ans et d’une amende de 150.000.000 à 250.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 47
+Quiconque procède à la prospection directe à l’aide de tout moyen de communication utilisant, sous quelque forme que ce soit, les
+données à caractère personnel d’une personne physique qui n’a pas exprimé par écrit son consentement préalable à recevoir de telles
+prospections ou qui s’y est formellement opposé, sera puni d’un emprisonnement d’un (1) an à deux (2) ans et d’une amende de
+30.000.000 à 200.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 48
+Quiconque utilise des procédés illicites d’envoi de messages électroniques non sollicités en recourant à une collecte de données à
+caractère personnel, sera puni d’un emprisonnement de deux (2) ans à cinq (5) ans et d’une amende de 60.000.000 à 230.000.000 de
+Francs Guinéens, Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 49
+Quiconque dissimule l’identité de la personne pour le compte de laquelle une offre commerciale est émise ou mentionne une offre sans
+rapport avec le service ou la prestation proposée, sera puni d’un emprisonnement de cinq (5) mois à deux (2) ans et d’une amende de
+10.000.000 à 50.000.000 de Francs Guinéens ou de l’une de ces deux peines seulement.
+Article 50
+Quiconque procède à un traitement de données à caractère personnel par un moyen frauduleux, déloyal ou illicite, se rend coupable de
+délit, et sera puni d’un emprisonnement de deux (2) ans à trois (3) ans et d’une amende de 75,000.000 à 900.000.000 de Francs
+Guinéens.
+La peine ne peut toutefois, être inférieure à 300.000.000 de Francs Guinéens, lorsque le traitement frauduleux des données ça été fait en
+vue de l’envoi de messages électroniques non sollicités par une personne morale, à l’exception de l’Etat, des collectivités locales ou
+décentralisées et des établissements publics.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 51
+Quiconque utilise les éléments d’identification d’une personne physique ou morale dans le but de tromper les destinataires d’un message
+électronique ou les usagers d’un site internet en vue de les emmener à communiquer des données à caractère personnelles ou des
+informations confidentielles, se rend coupable de délit, et sera puni d’un emprisonnement d’un (1) an à deux (2) ans et d’une amende de
+100.000.000 à 1.100.000.000 de Francs Guinéens.
+La peine d’emprisonnement ne saurait être cependant inférieure à deux (2) ans et l’amende inférieure à 500.000.000 de Francs Guinéens,
+lorsque les données à caractère personnel ou les informations confidentielles communiquées, ont servi au détournement de fonds publics
+ou privés. Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 52
+Quiconque prend ou tente de prendre frauduleusement connaissance d’une information à l’intérieur d’un système informatique, ou copie
+frauduleusement une information à partir d’un tel système, ou encore soustrait frauduleusement le support physique sur lequel se trouve
+une est coupable de vol d’information.
+Quiconque commet un vol d’information se rend coupable de délit, et sera puni d’un emprisonnement d’un (1) an à deux (2) d’une
+amende de 75 000.000 à 150.000.000 de Francs guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 53
+La production, la vente, l’obtention pour utilisation, l’importation, la diffusion, ou d’autres formes de mise à d’un dispositif, opérés de
+manière illégale, illicite et/ou intentionnelle, y compris d’un programme informatique, principalement conçu ou adapté pour permettre la
+commission d’un vol d’information, ou l’usage d’un mot de passe, d’un code d’accès ou de données informatiques similaires permettant
+r à tout ou partie d’un système informatique , dans l’intention qu’ils soient utilisés afin de commettre l’une ou l’autre des infractions
+prévues par la présente Loi, est punie des peines prévues pour l’infraction elle-même ou pour l’infraction la plus sévèrement réprimée
+d’entre elles.
+Article 54
+Lorsque les faits punis par la présente Loi portent sur un système informatique ou un programme de traitement de données protégé par
+un code secret, la peine encourue ne peut être inférieure à cinq (05) ans d’emprisonnement.
+Article 55
+Quiconque, de mauvaise foi, ouvre, supprime, retarde, ou détourne des correspondances électroniques, arrivées ou non à destination et
+adressées à un tiers, ou en prend frauduleusement connaissance, sera puni d’un emprisonnement d’un (1) an à cinq (5) ans et d’une
+amende de 40.000.000 à 180.000.000 de Francs Guinéens.
+Est puni des mêmes peines, quiconque, de mauvaise foi, intercepte, détourne, utilise ou divulgue des correspondances électroniques
+émises, transmises ou reçues par la voie des télécommunications ou procède à l’installation d’appareils conçus pour réaliser de telles
+interceptions.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 56
+Quiconque, en dehors des cas prévus par la présente Loi, met ou conserve sur support ou mémoire informatique, sans le consentement
+exprès de l’intéressé, des données à caractère personnel qui, directement ou indirectement, font apparaître l’origine, la race, l’ethnie, les
+opinions politiques, philosophiques ou religieuses, ou les appartenances syndicales, ou qui sont relatives à la santé ou à l’orientation
+sexuelle de celui-ci ou à toutes autres informations qui lui sont inhérentes et de nature sensible ou strictement personnelles, sera puni
+d’un emprisonnement d’un (1) an à sept (7) ans et d’une amende de 30 ()00.000 à 150 000.000 de Francs Guinéens ou de l’une de ces
+deux peines seulement.
+Article 57
+Quiconque ne respecte pas l’interdiction d’exercer la profession de prestataire de cryptologie ou l’obligation de retrait des moyens de
+cryptologie, sera puni d’un emprisonnement d’un (1) an à cinq (5) ans et d’une amende de 150.000.000 à 600.000.000 de Francs
+Guinéens ou de l’une de ces deux peines seulement.
+Chapitre XIII: Infractions en matière de Propriété Intellectuelle dans et à travers les Systems Informatiques
+Article 58
+Quiconque commet une atteinte à la propriété intellectuelle au moyen d’un système informatique, sera puni d’un emprisonnement de
+deux (2) ans à dix (10) ans et d’une amende de 100.000.000 à 900.000.000 de Francs Guinéens ou de l’une de ces deux peines
+seulement. Ces peines pourront être alourdies selon l’ampleur de l’infraction et l’étendue du préjudice.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Constitue une atteinte à la propriété intellectuelle.
+Le fait, sans autorisation de l’auteur ou de ses ayant-droits, de reproduire, de représenter ou de mettre à la disposition du public sur
+un système informatique ou un support numérique ou analogique, intégralement ou partiellement, une œuvre de l’esprit protégée
+par un droit d’auteur ou un droit voisin ;
+Le fait, sans autorisation de l’auteur ou de ses ayant-droits, de traduire ou d’adapter une œuvre de l’esprit par le biais d’un
+programme informatique ou de mettre cette traduction ou adaptation sur un système informatique ou un support numérique ou
+analogique à la disposition du public ;
+Le fait, sans autorisation de l’auteur ou de ses ayant-droits de reproduire, d’utiliser, de vendre, de dénaturer, de dénigrer une
+marque, une raison sociale, un nom commercial, un nom de domaine Internet ou tout autre signe distinctif appartenant à un tiers
+par le biais d’un système informatique ouvert au public ou par le biais d’un programme informatique ou sur un support numérique
+ou analogique ;
+Le fait en toute connaissance de cause, d’exploiter par reproduction ou représentation, une œuvre de l’esprit mise de façon illicite à
+disposition du public sur un réseau de communication électronique ;
+Le fait en toute connaissance de cause, et sans droit, de vendre, de mettre à disposition du public par reproduction ou
+représentation, un bien ou un produit protégé par un brevet d’invention.
+Article 59
+Ne constituent pas une atteinte à la propriété intellectuelle lorsqu’elles sont réalisées par le biais d’un système ou un programme
+informatique ou électronique :
+Les copies ou reproductions d’œuvre de l’esprit strictement réservées à l’usage privé du copiste et non destinées à une utilisation
+collective, à l’exception des copies des œuvres d’art destinées à être utilisées pour des fins identiques ou similaires à celles pour
+lesquelles l’œuvre d’art a été créée ;
+Les analyses et courtes citations, sous réserve que soient clairement indiqués les noms de l’auteur de l’œuvre et de la source,
+justifiées par le caractère critique, polémique, pédagogique, scientifique ou d’information de l’œuvre à laquelle elles sont
+incorporées ;
+La parodie et la caricature de l’œuvre originale réalisée sans intention de nuire à l’image et à l’honorabilité de l’auteur de ladite
+œuvre ;
+Les copies ou reproductions provisoires présentant un caractère transitoire et accessoires lorsqu’elles sont une partie intégrante et
+essentielle d’un procédé technique et qu’elles ont pour objet de permettre la transmission ou l’utilisation licite de l’œuvre sur un
+système informatique ou électronique ;
+La reproduction et la représentation réalisées à des fins non lucratives par des personnes morales de droit public et par des
+établissements ouverts au public, telles que les bibliothèques, les services d’archives, les musées, les centres de documentation et
+les espaces culturels multimédias , en vue d’une consultation de l’œuvre à titre strictement personnel par des personnes atteintes
+d’une ou plusieurs déficiences de leurs fonctions motrices, physiques, sensorielles, mentales, cognitives ou psychiques, et dont le
+niveau d’incapacité est reconnu dans un certificat médical dûment établi à cet effet ;
+La reproduction d’une œuvre effectuée à des fins de conservation ou destinée à préserver les conditions de sa consultation sur
+place par des bibliothèques accessibles au public, par des musées ou par des services d’archives, sous réserve que ceux-ci ne
+recherchent aucun avantage économique ou commercial ;
+La reproduction et la représentation d’œuvre de l’esprit réalisée à des fins exclusivement pédagogiques par les enseignants et les
+chercheurs dans le cadre strict de leurs enseignements ou de leurs recherches pour leurs élèves et étudiants ou pour d’autres
+chercheurs et enseignants directement concernés, sous réserve que cette reproduction ou représentation ne donne lieu à une
+exploitation commerciale ou lucrative.
+Article 60
+L’auteur d’une œuvre de l’esprit ou ses ayant-droits peuvent faire obstacle à la copie de l’œuvre en limitant le droit de copie reconnu par
+la présente Loi, notamment par la mise en œuvre de mesures techniques de protection, lorsque la mise en œuvre du droit de copie porte
+atteinte à l’exploitation normale de l’œuvre ou entraîne un préjudice injustifié aux intérêts de l’auteur.
+Il est entendu par mesures techniques de protection, toute technologie, technique, dispositif, composant qui, dans le cadre normal de son
+fonctionnement, accomplit la fonction de contrôle des utilisations de l’œuvre ou de limitation des copies de l’œuvre concernée.
+Toutefois, l’usager doit être clairement informé de l’existence des mesures techniques de protection qu’il acquière ou utilise, et sur les
+fonctions de ces mesures techniques, notamment si elles interdisent- ou non l’usage de l’œuvre sur d’autres systèmes informatiques ou
+d’exploitation.
+Article 61
+Le titulaire d’un service d’accès à Internet ou à tout réseau de communication électronique, est tenu de veiller à ce que cet accès ne soit
+pas utilisé à des fins manifestement illicites, notamment de reproduction ou de représentation d’œuvres de l’esprit sans l’autorisation de
+leurs auteurs ou des ayant-droits.
+A défaut, il se rend coupable de complicité par fourniture de moyen, et par conséquent répréhensible.
+Chapitre XIV: Infractions en Matière de Jeux Transferts d'Argent et autres Agissements Illicites sur les Réseaux de Communications
+Electroniques
+Article 62
+L’organisation des jeux d’argent sur les réseaux de communications électroniques, est placée sous un régime de réglementation et de
+régulations strictes de l’Etat, impliquant la fourniture d’une licence ou d’une autorisation préalable à toute activité de cette nature.
+A ce titre, Quiconque, sans autorisation préalable de l’Etat ou de ses services concernés, organise des jeux d’argent illicites en ligne
+notamment les jeux de hasard, de loterie illicite, de publicité de loterie prohibée, de prise de paris illicites ou de tous autres jeux dont la
+mise en œuvre requiert une autorisation préalable, sera puni d’un emprisonnement d’un (1) an à cinq
+(5) ans et d’une amende de 75.000.000 à 1.000.000.000 de Francs Guinéens.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 63
+Sont interdits sur les réseaux de communications électroniques, les transferts d’argent par cartes de paiement ou par virement ou par tout
+autre moyen de paiement effectués par des personnes physiques ou morales dans le cadre de jeux d’argent illicites.
+Les établissements bancaires et financiers opérant sur le territoire Guinéen, doivent veiller au respect de cette interdiction, et notifier à ce
+
+Profil
+
+titre aux autorités compétentes.
+Article 64
+Quiconque ne respecte pas l’interdiction de transfert d’argent mentionnée à l’Article 63 précédent, sera puni d’un emprisonnement d’un
+(1) an à deux (2) ans et d’une amende de 75.000.000 à 1.500.000.000 de Francs Guinéens. Ces peines pourront être alourdies selon
+l’ampleur de l’infraction et l’étendue du préjudice.
+Toute personne complice de la commission de cette infraction des mêmes peines.
+Lorsque cette interdiction est violée par une personne morale (à l’exception de l’Etat, des collectivités locales ou décentralisées, des
+établissements et institutions publics, leurs agents restent quant à eux responsables), la peine d’emprisonnement et l’amende encourues
+sont portées au double. Les mêmes peines sont applicables à tout complice.
+Si le transfert est effectué à destination de l’étranger, ce fait est également constitutif d’une infraction à la réglementation régissant les
+transactions financières notamment internationales et le contrôle des changes, et assimilable à un délit, sans préjudice de I’application
+des sanctions prévues par ladite réglementation.
+La personne (physique ou morale) auteur de cette infraction tout comme son complice, sera punie d’un emprisonnement de deux (2) ans
+à cinq (5) ans et d’une amende de 200.000.000 à 2.000.000.000 de Francs Guinéens. Cette amende pourra être aggravée en fonction de
+l’ampleur de l’infraction et du préjudice qui en résulte.
+Article 65
+Outre la structure guinéenne en charge de la lutte contre la Cybercriminalité (pour les sanctions pécuniaires), les juridictions nationales
+sont compétentes, pour constater et]ou punir les infractions lorsque les activités de jeux d’argent illicites sont offertes à partir du
+territoire national ou sont accessibles aux utilisateurs des réseaux de communications électroniques à partir du territoire national et qu’il
+existe un lien suffisant, substantiel ou significatif entre la prestation illicite offerte aux utilisateurs des réseaux de communications en
+ligne et le territoire national, notamment par la langue utilisée, la monnaie employée, les produits proposés, le nom de domaine utilisé
+par le site proposant ladite prestation.
+Chapitre XV: Responsabilite des Prestataires Techniques de Service en Ligne
+Article 66
+L’ouverture d’un cyber-café est, conformément aux dispositions de la Loi relative aux Télécommunications et aux Technologies de
+l’Information en République de Guinée, soumise à l’Agrément ou un acte de reconnaissance d’activités préalable de l’Autorité de
+Régulation des Postes et Télécommunications.
+Article 67
+L’accès au service Internet à partir de cyber-cafés est soumis à l’identification préalable des usagers. Les exploitants de cyber-cafés sont
+tenus de procéder à cette identification préalable, dont les modalités seront fixées par Arrête du Ministre en charge des Postes, des
+Télécommunications et de l’Economie Numérique.
+Article 68
+Tout mineur de moins de douze (12) ans ne peut accéder à un cyber- café, qu’accompagné d’un adulte.
+Article 69
+L’accès de tout mineur de moins de dix-huit (18) ans à un cyber-café, doit être un accès limité, qui exclue l’accès aux sites web à
+caractère pornographique, violent, raciste, haineux ou dégradant et de manière générale, tous les sites web portant atteinte à la dignité
+humaine ou incitant à l’incivisme.
+Article 70
+Les personnes dont l’activité est d’offrir un service de communication en ligne doivent rendre possible l’existence de moyens techniques
+permettant de restreindre l’accès à certains services ou de les sélectionner, et d’informer leurs abonnés ou leurs usagers de l’existence de
+ces moyens.
+Article 71
+Quiconque ne respecte pas cette obligation de rendre possible l’existence des moyens visés à l’Article 70 précédent, et/ou viole
+l’obligation d’information de l’existence de ces moyens à ses abonnés ou usagers, sera puni d’une amende de 20.000.000 à 100.000.000
+de Francs Guinéens. Et le dirigeant ou le(s) propriétaire(s) de cet opérateur ou prestataire de services de communications en ligne, sont
+passibles de six (6) mois à trois (3) ans d’emprisonnement.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+En outre, le fournisseur de services offrant un accès à des services de communication ou assurant à titre gratuit ou onéreux le stockage
+permanent pour mise à disposition de contenus, est tenu sur décision de l’autorité compétente, de suspendre immédiatement l’accès
+auxdits services ou contenus.
+Article 72
+Les personnes physiques ou morales qui offrent un accès à des services de communication en ligne ou qui assurent même à titre gratuit,
+pour mise à disposition du public par des services de communication en ligne, le stockage de signaux, d’écrits, d’images, de sons ou de
+messages de toute nature fournis par des destinataires de ces services, ne peuvent voir leur responsabilité civile et/ou pénale engagée, du
+fait des activités ou des informations stockées à la demande d’un destinataire de ces services :
+Si elles n’avaient effectivement, de bonne foi et en aucun moment, pas eu connaissance de leur caractère illicite ou de faits et
+circonstances faisant apparaître ce caractère ;
+Si dès le moment où elles ont eu connaissance de ce caractère illicite, elles ont agi promptement pour retirer ces données ou en
+rendre l’accès impossible ;
+Si le retrait de ces données n’a pas été ordonné par l’autorité compétente.
+Article 73
+La connaissance des faits litigieux est présumée acquise par les personnes indiquées à l’article 72 précédent, dès lors qu’il leur est notifié
+par la victime ou par toute personne intéressée les activités illicites ou les faits et circonstances faisant apparaître ce caractère d’illicéité.
+Cependant, pour être prise en considération, la notification par les personnes précitées, doit comporter les éléments suivants : – si la
+personne auteur de la notification est une personne physique ses nom, prénom, profession, domicile, nationalité, date et lieu de naissance,
+et ses coordonnées téléphonique et électronique (email).
+si la personne auteur de la notification est une personne morale:
+Sa dénomination, son siège social, et ses coordonnées téléphonique et électronique (email, site web).
+Les nom, prénom, domicile, et dans la mesure du possible la profession, nationalité, date et lieu de naissance, et les coordonnées
+téléphonique et électronique (email). Du destinataire du service en cause et s’il S’agit d’une personne morale, sa dénomination,
+son siège social, et ses coordonnées téléphonique et électronique (email, site web) ;
+La description des faits litigieux et leur localisation précise sur le réseau ;
+Les droits et motifs pour lesquels le retrait du contenu litigieux est requis ;
+La copie de la correspondance adressée à l’auteur ou à défaut à l’éditeur des informations ou activités litigieuses demandant leur
+interruption, leur retrait ou modification, ou la justification que l’auteur ou l’éditeur n’a pas pu être contacté.
+Article 74
+La procédure de notification des faits ou activités illicites prévue à l’article 73 de la présente Loi, n’a pas pour effet d’engager la
+responsabilité d’une des personnes concernées par les exceptions visées audit article.
+Article 75
+Quiconque présente s de mauvaise foi, aux personnes visées à l’Article 73 de la présente Loi, un contenu ou une activité, comme étant
+illicite, dans le but d’en obtenir le retrait ou de faire en cesser la diffusion, sera puni d’un emprisonnement d’un (1) an à cinq (5) ans et
+d’une amende de 15.000.000 à 75.000.000 de Francs Guinéens ou de l’une de ces deux peines seulement.
+Toute personne complice de la commission de cette infraction sera punie des mêmes peines.
+Article 76
+Les personnes mentionnées à l’Article 73 de la présente Loi, ne sont pas obligées de surveiller les informations qu’elles transmettent ou
+stockent, ni de rechercher des faits ou circonstances révélant des activités illicites. Toutefois, l’autorité compétente, peut requérir de ces
+personnes, de procéder à une surveillance ciblée et temporaire des activités réalisées par le biais de leurs services.
+Article 77
+Les fournisseurs d’accès internet ont l’obligation de mettre en place un dispositif facilement accessible et visible sur leur site internet,
+permettant à toute personne intéressée, de porter à leur connaissance, ce type d’activités illicites. Ils sont aussi tenus de rendre publics,
+les moyens dédiés à cette lutte.
+En outre, ils ont l’obligation d’informer sans délai et par tous moyens admissibles l’autorité compétente et éventuellement l’autorité
+judiciaire compétente ou toute autre autorité compétente, de toutes activités illicites exercées par des destinataires de leurs services, qui
+leur sont signalées par des tiers ou qu’ils auraient eux-mêmes constaté ou soupçonné.
+Tout manquement à l’une quelconque des obligations mentionnées aux alinéas le’ et 2 du présent Article, expose son auteur, au même
+titre que son complice, à un emprisonnement de un (1) an à cinq (5) ans et d’une amende de 15.000.000 à 100.000.000 de Francs
+Guinéens.
+Article 78
+Les autorités compétentes, peuvent prescrire ou ordonner à toute personne mentionnée à l’Article 73 de la présente Loi, la mise en œuvre
+de toutes mesures ou solutions propres à prévenir ou à faire cesser un dommage occasionné par le contenu d’un service de
+communication électronique, notamment la collecte ou l’enregistrement des faits ou données répréhensibles.
+Toute violation de cette prescription ou de cet ordre, expose son auteur et tout complice, à un emprisonnement d’un (1) an à cinq (5) ans
+et à une amende de 60.000.000 à 300.000.000 de Francs Guinéens.
+Article 79
+Les personnes mentionnées à l’Article 73 de la présente Loi , sont tenues de détenir et de conserver sur une durée comprise entre trois (3)
+et cinq (05) ans en fonction de l’importance des données, les données informatiques pouvant permettre d’identifier quiconque a contribué
+à la création d’un contenu ou de l’un des contenus des services dont elles sont prestataires, conformément aux dispositions légales ou
+réglementaires relatives à la protection des données à caractère personnel.
+Toutefois, au cas où la durée mentionnée à l’alinéa le’ ci-dessus est contraire ou en violation des prescriptions prévues en la matière par
+la législation ou la réglementation relative à la protection des données à caractère personnel, les règles prévues par cette législation ou
+cette réglementation auront la primauté.
+Article 80
+Les personnes mentionnées à l’Article 73 de la présente Loi, ont l’obligation de mettre en ligne à la disposition du public, leurs propres
+données permettant de les identifier lorsque leurs services sont offerts à partir du territoire national ou sont accessibles à partir de ce
+territoire et destinés aux utilisateurs des réseaux de communications en ligne dudit territoire. Ces données d’identification doivent
+comporter les éléments suivants :
+S’il s’agit de personnes physiques : leurs nom, prénom(s), domicile, date et lieu de naissance, nationalité, adresse postale et
+géographique, numéro de téléphone, adresse électronique (email) ; et si elles sont assujetties à l’inscription au Registre du
+Commerce et du Crédit mobilier ou au répertoire des métiers, les références de cette inscription.
+S’il s’agit de personnes morales : leur dénomination sociale et l’adresse postale et géographique du siège social, leur numéro de
+téléphone, leur adresse électronique (email site web) ; et si elles sont assujetties à l’inscription au Registre du Commerce et du
+Crédit mobilier ou au répertoire des métiers, les références de cette inscription, ainsi que le montant et la répartition de leur capital
+social. En outre, si elle est assujettie à la Direction Nationale des Impôts et à la taxe sur la valeur ajoutée, son numéro
+d’identification fiscal (code NIF) et sa clé TVA.
+Si son activité est soumise à un régime d’autorisation, le nom et l’adresse de l’autorité ayant délivré celle-ci. Si elle est membre
+d’une profession réglementée, la référence aux règles professionnelles applicables, son titre professionnel, l’Etat membre dans
+lequel il a été octroyé ainsi que le nom de l’ordre ou de l’organisme professionnel auprès duquel elle est inscrite. Toutefois, les
+personnes exerçant à titre non professionnel un service de communication électronique, sont autorisées à ne fournir au public, afin
+de préserver leur anonymat, que le nom, la dénomination sociale, et l’adresse des personnes visées à l’Article 73 de la présente Loi
+sous réserve toutefois d’avoir satisfait au préalable auprès de ces dernières, à son obligation d’identification dans les conditions cidessus énumérées
+Article 81
+Quiconque, personne physique dirigeant de droit ou de fait d’une personne morale exerçant l’une des activités énumérées à l’Article 73
+de la ‘présente Loi, ne satisfait pas aux obligations prévues aux Articles 78 et 80 de cette Loi, sera puni d’un emprisonnement de six (6)
+mois à quatre (4) ans et d’une amende de 10.000.000 à 100.000.000 de Francs Guinéens. Toute personne complice de la commission de
+cette infraction sera punie des mêmes peines.
+Article 82
+Toute personne assurant une activité de transmission de contenus sur un réseau de télécommunications ou de fourniture d’accès à un
+réseau de télécommunications, ne peut voir sa responsabilité civile et/ou pénale engagée en raison de ces contenus, que dans l’un des cas
+suivants :
+Lorsqu’elle est à l’origine de la demande de transmission litigieuse ;
+Lorsqu’elle sélectionne le destinataire de la transmission ;
+Lorsqu’elle sélectionne ou modifie les contenus faisant l’objet de transmission.
+Article 83
+Toute personne assurant dans le but de rendre plus efficace leur transmission ultérieure, une activité de stockage automatique,
+intermédiaire et temporaire des contenus qu’un prestataire transmet, ne peut voir sa responsabilité civile et/ou pénale engagée en raison
+de ces contenus, que si :
+Elle a modifié ces contenus, et ne s’est pas conformée à leurs conditions d’accès et aux règles usuelles concernant leur mise à jour
+ou entravé l’utilisation licite et usuelle de la technologie utilisée pour obtenir des données ;
+Elle n’a pas agi avec promptitude pour retirer des contenus qu’elle a Stockés ou pour en rendre l’accès impossible, dès qu’elle a
+effectivement eu connaissance, soit du fait que les contenus transmis initialement ont été retirés du réseau, soit du fait que l’accès
+aux contenus transmis initialement a été rendu impossible, soit du fait que l’autorité compétente a prescrit ou ordonné de retirer du
+réseau les contenus transmis initialement ou d’en rendre l’accès impossible.
+Chapitre XVI: Sanctions Relatives aux Refus de Communications Requises par les Autorités Compétentes
+Article 84
+Le refus de communication à la structure guinéenne en charge de la Cyber-sécurité, à l’autorité judiciaire compétente ou toute autorité
+publique des données d’identification ou en général de toute information mentionnée ou requise en vertu des dispositions de la présente
+Loi ou de ses textes d’application subséquents, expose l’auteur et tout complice, à 2.000.000 de Francs Guinéens par jour de retard
+(montant qui sera porté au double au bout d’une semaine), et à une peine d’emprisonnement de un (1 ) an à cinq (5) ans, ou à l’une de
+ces deux peines seulement.
+Chapitre XVII: Sanctions Spécifiques aux Infractions a la Présente Loi Commises par les Personnes Morales
+Article 85
+Lorsque les infractions à la présente Loi sont commises par les personnes morales (à l’exception de l’Etat et ses services déconcentrés,
+des collectivités locales ou décentralisée et des institutions et établissements publics), les amendes et peines d’emprisonnement prévues
+par ladite loi, sont portées :
+Du double au quintuple pour l’amende, selon l’ampleur de l’infraction et l’étendue du préjudice, et’,
+Au double en ce qui concerne la peine d’emprisonnement du représentant ou dirigeant de la personne morale ou de son
+propriétaire ou de ses actionnaires, au cas où cette aggravation de sanction n’aurait pas été initialement et explicitement prévue.
+Chapitre XVIII: Sanctions Complémentaires aux Infractions à la Présente Loi, Récidive et Publication des Sanctions
+Article 86
+Sans préjudice de l’application des dispositions prévues en la matière par le Code Pénal guinéen ou par les Lois sur la protection des
+données à caractère personnel, sur les transactions électroniques, sur la cryptologie et/ou par leurs textes d’application, les personnes
+(physiques ou morales) condamnées ou sanctionnées (amendes ou peines de prison) pour les infractions prévues par la présente Loi,
+encourent également sur ordonnance du juge compétent, les peines complémentaires et non exhaustives suivantes:
+L’interdiction pour une durée de cinq (5) ans d’exercer une fonction publique, ou d’exercer l’activité sociale ou professionnelle
+dans l’exercice de laquelle ou à l’occasion de laquelle l’infraction a été commise ou de toutes autres activités sociales ou
+professionnelles, l’auteur de l’infraction ou son complice, serait raisonnablement susceptible de commettre à nouveau l’une
+quelconque des infractions prévues par la présente Loi ;
+L’interdiction temporaire ou définitive de séjour sur le territoire de la République de Guinée ;
+La privation de ses droits, notamment l’inéligibilité pour toutes fonctions de représentation syndicale, locale ou nationale ;
+L’exclusion provisoire ou définitive de toute possibilité de concourir ou d’être recrutée à tout processus (appel d’offres,
+consultations ou manifestations d’intérêt), relatif à un marché public ;
+L’interdiction temporaire ou définitive de procéder à un appel public à l’épargne ;
+L’interdiction d’émettre des messages ne communication numérique ou électronique ;
+L’interdiction à titre provisoire ou définitif de l’accès au site ayant servi à commettre une infraction au système informatique, voire
+l’interdiction d’héberger ce site ;
+L’interdiction d’émettre des chèques autres que ceux qui permettent de procéder à des retraits de fonds par le tireur auprès du tiré
+ou ceux qui sont certifiés ;
+L’interdiction d’utiliser des cartes bancaires ou toutes autres formes de paiement électroniques ;
+La dissolution de la Société ou de l’organisation, dans le cadre des personnes morales.
+Article 87
+En cas de récidive aux infractions prévues dans le cadre de la présente Loi, les peines et amendes prévues aux Articles 4 à 77 seront
+alourdies, et pourront aller du double au quintuple pour les amendes, et au double pour les peines d’emprisonnement.
+Les sanctions complémentaires suscitées et non exhaustives, pourront également être appliquées et aggravées au niveau de leur teneur, à
+la discrétion de l’autorité judiciaire compétente. La récidive est entendue au sens de la présente Loi, comme la commission à nouveau
+d’une infraction déjà commise par le passé ou d’une autre des infractions prévues par ladite Loi (qui n’aurait pas obligatoirement été déjà
+commise).
+Article 88
+Les sanctions (pécuniaires, de prison, ou administratives) prononcées à l’encontre des auteurs (personnes morales ou physiques)
+d’infractions aux dispositions de la présente Loi ou de leurs complices, devront être publiées au moins au Journal Officiel de la
+République.
+Titre III: Dispositions Institutionnelles
+Chapitre XIX: Organes(s) ou Institution(s) Responsables de la Lutte Contre la Cybercriminalité et de la bonne Application de la
+Présente Loi
+Article 89
+Le Centre de sécurité des systèmes d’information (CERT) est chargé de la prévention (veille), de l’alerte, des Investigations, de la
+recherche, de la détection, de la riposte, du déferrement des suspects, auteurs et leurs complices, de la certification, de la sensibilisation
+et de la formation en matière de lutte et de répression contre les menaces et infractions aux technologies de l’information et de la
+communications notamment les systèmes informatiques et les communications électroniques en République de Guinée.
+Cette structure est l’organe principalement responsable de la lutte et de la répression contre la cybercriminalité en République de Guinée
+et dispose à cet égard de tous les pouvoirs requis à cet effet. Des dispositions réglementaires fixeront les modes de fonctionnement du
+CERT.
+Article 90
+La politique stratégique, les objectifs, les plans d’actions et les programmes de lutte contre la cyber délinquance sont soumis à
+l’appréciation et à la validation conjointes des Ministres en charge des Postes, des Télécommunications, de l’Economie Numérique, de la
+Justice et de la Sécurité et si besoin est, de la Défense Nationale, de l’Economie et des Finances, du Commerce et du Gouverneur de la
+Banque Centrale.
+Article 91
+Chaque agent ou collaborateur de l’autorité compétente, doit préalablement à sa prise de fonction, prêter serment devant le Premier
+Président de la Cour d’Appel.
+Chapitre XX: Autres Mécanismes et Acteurs Importants dans la Lutte contre la Cybercriminalité
+Article 92
+Le Ministre des Postes, des Télécommunications et de It Economie Numérique, en collaboration avec les autres départements concernés
+devra prendre toutes mesures, Décisions utiles et nécessaires, visant à favoriser l’installation et l’opérationnalisation dans de brefs délais
+à compter de la promulgation de la présente Loi, d’une Plateforme de lutte contre la cybercriminalité (CERT) au sein de chaque secteur
+socio-économique de la Guinée (Opérateurs de Téléphonie, Fournisseurs d f Accès Internet, Banques, Assurances, Universités publiques
+ou privées, Hôpitaux, Industries d’extraction ou autres Industries de production et de services etc.), afin de leur permettre de renforcer les
+synergies et mutualiser leurs efforts pour une meilleure lutte contre la cybercriminalité au sein de leurs secteurs d’activités respectifs.
+Article 93
+Ces plateformes sectorielles de lutte contre la cybercriminalité, vectrices d’efficacité dans la lutte contre la cybercriminalité à l’échelle
+du territoire national, seront placées sous la coordination du Centre National de sécurité des systèmes d’information.
+Titre IV: Règles Procédurales en Matière de Cybercriminalité et Moyens de Preuves
+Article 94
+Les Agents assermentés du centre pour la sécurité des systèmes d’information ou les Officiers de Police Judiciaire sur réquisition ou mandat
+du parquet et sur décision de l’autorité judiciaire compétente selon le cas, peuvent en cas de soupçon fondé ou d’infraction avérée :
+Procéder à des perquisitions ou accéder à tout système informatique, en vue de la manifestation de la vérité ;
+Procéder à la saisie conservatoire ou à la confiscation définitive des équipements, supports, matériels, logiciels, programmes, données,
+documents, ayant servi à la commission de l’infraction ou qui étaient destinés à la commission d’une infraction (tentative) ;
+Procéder à la mise sous scellés des locaux ayant abrité la commission de l’infraction ou qui étaient destinés à la commission d’une
+infraction (tentative).
+En l’absence de volonté, ou en cas d’inutilité ou d’impossibilité de procéder à la saisie du support électronique, les données de même nature
+que celles qui sont nécessaires à la compréhension du système, devront néanmoins faire l’objet de copies sur des supports de stockage
+informatique et être placées sous scellés.
+Les actions précitées, ne sauraient cependant être mises en œuvre, en violation des dispositions du Code de Procédure Pénale qui seraient
+prévues en la matière.
+Si les copies évoquées à l’alinéa 2 du présent Article sont réalisées notamment dans le cadre des actions visées par ledit Article, il peut être
+procédé sur décision du juge compétent, à l’effacement définitif sur le support qui n’a pas été placé sous-main de justice, des données
+informatiques dont la détention ou l’usage est illégal (notamment au regard des impératifs de protection des données à caractère personnel) ou
+dangereux pour la sécurité des personnes et des biens.
+Article 95
+Lorsque des systèmes informatiques, des supports informatiques, ou des locaux ayant servi à la commission d’une infraction ou d’une
+tentative d’infraction au sens de la présente loi, sont mis sous scellés, ils ne peuvent être rouverts que selon les modalités prévues par le Code
+de Procédure Pénale.
+Article 96
+Les perquisitions, enquêtes ou accès par les agents ou services compétents à tout système d’information, ne peuvent être opérés en violation
+des règles prescrites par le Code Pénal et de Procédure Pénale en vigueur en République de Guinée, à l’exception des cas ou situations
+consécutifs d’un risque ou d’un péril imminent et/ou d’une atteinte grave pour la santé, la sécurité et/ou le bon fonctionnement de l’Etat, ou
+d’un citoyen.
+Les Agents assermentés peuvent à cet effet, librement procéder, seuls ou avec le concours d’autres Officiers de Police Judiciaire ou des forces
+de défense et de sécurité en général, à des contrôles inopinés, investigations, perquisitions, saisies, arrestations, déferrements de suspects et de
+leurs complices ou plus généralement, exercer tous pouvoirs de police administrative et judiciaire dans le cyberespace, dont la mise en œuvre
+pourrait s’avérer utile ou fondamentale pour la défense des intérêts fondamentaux de la nation, ou la sécurité, la tranquillité et la santé des
+citoyens.
+Toutefois, ces agents demeureront pénalement et civilement responsables de tous abus qu’ils commettraient au cours de l’exercice de ces
+mesures d’exception.
+Article 97
+Lorsque les nécessités de l’information l’exigent et lorsqu’il y a des raisons sérieuses de craindre la disparition de données informatiques
+archivées valant preuve ou commencement de preuve, l’autorité compétente, peut faire injonction à toute personne intéressée, de conserver et
+de protéger dans le secret l’intégrité des données en sa possession ou sous son contrôle, dans un délai maximum de dix (10) ans à compter de
+la date de notification de l’injonction.
+Article 98
+L’écrit électronique est admis comme preuve en matière de cybercriminalité, à condition toutefois que la personne dont émane l’écrit puisse
+être dûment identifiée, et que l’écrit soit établi et conservé, dans des conditions de nature à en garantir l’intégrité.
+Article 99
+Les données relatives aux abonnés doivent être conservées par les opérateurs de systèmes informatiques ou les prestataires de services de
+communications électroniques et protégées dans leur intégrité, pendant une durée minimale de cinq (5) ans.
+Lorsqu’il est impossible de retrouver l’auteur d’une communication électronique pour défaut de conservation des données relatives aux
+abonnés ou pour perte de l’intégrité desdites données, l’opérateur du système informatique ou le prestataire du service de communications
+électroniques, encourt une amende de 150.000.000 à 700.000.000 de Francs Guinéens.
+Article 100
+Lorsque dans le cadre d’une enquête ou d’une instruction, il existe des raisons de penser que des données informatiques spécifiées, y compris
+des données relatives aux abonnés et au trafic, stockées au moyen d’un système informatique, sont susceptibles de perte ou de modification,
+l’autorité compétente peut procéder ou faire procéder à la conservation immédiate desdites données. Une telle décision peut être également
+ordonnée par l’autorité judiciaire compétente.
+La personne physique ou morale à qui injonction est faite, doit conserver et protéger l’intégrité desdites données pendant une durée aussi
+brigue que le terrips nécessaire peur l’instruction ou pour l’enquête.
+Article 101
+L’autorité publique compétente peut requérir :
+De toute personne (physique ou morale), l’obligation de communiquer des données spécifiées, en sa possession ou sous son contrôle,
+qui sont stockées dans un système informatique ou un support de stockage informatique ;
+D’un opérateur de systèmes informatiques ou d’un prestataire de services de communications électroniques, de communiquer les
+données spécifiées, relatives au trafic et aux abonnés en sa possession ou sous son contrôle.
+Article 102
+L’autorité publique compétente peut au cours d’une perquisition ou d’investigations, accéder à un système informatique ou à un support de
+stockage numérique et à des données relatives à l’enquête en cours et stockées dans ledit système ou ledit support se trouvant sur les lieux de
+la perquisition ou des investigations.
+Cet accès peut également porter sur des données relatives à l’enquête en cours et stockées dans un autre système informatique n’étant pas
+forcément sur les lieux de la perquisition ou des investigations, dès lors que ces données sont accessibles à partir du système initial ou
+disponibles pour le système initial.
+S’il est avéré que ces données, accessibles à partir du système initial, ou disponibles pour le système initial, sont stockées dans un autre
+système informatique situé hors du territoire de la République de Guinée, elles peuvent et doivent être recueillies par l’autorité publique
+compétente, sous réserve cependant du respect des engagements internationaux de la République de Guinée.
+Cet accès ne devrait en outre pas se faire, en violation des dispositions du Code de Procédure Pénale qui seraient prévues en la matière.
+Article 103
+L’autorité publique compétente peut, sous réserve du respect de toutes dispositions du Code de Procédure Pénale qui seraient prévues à cet
+effet :
+collecter ou enregistrer par tout moyen technique les données relatives au trafic ou au contenu associées à des communications
+spécifiques transmises sur le territoire guinéen au moyen d’un système informatique ;
+obliger un opérateur de systèmes informatiques ou un prestataire de services de communications électroniques, dans le cadre de ses
+capacités techniques existantes: à collecter ou enregistrer par tout moyen technique ou prêter auxdites Autorités son concours et son
+assistance pour collecter et enregistrer en temps réel, les données relatives au trafic ou au contenu associées à des communications
+transmises sur le territoire guinéen au moyen d’un système informatique.
+Article 104
+Les surcoûts identifiables et spécifiques, nécessaires à la mise en œuvre par l’opérateur d’un système informatique ou un prestataire de
+services de communications électroniques de l’assistance précisée aux articles précédents de la présente Loi, et éventuellement exposés par
+ledit opérateur ou prestataire, devront faire l’objet d’une compensation financière par I’autorité financière compétente.
+Article 105
+Quiconque refuse de déférer aux demandes et réquisitions légales et régulières (en vertu des dispositions de la présente Loi et de ses textes
+d’application) de l’autorité publique et de ses agents assermentés et aux demandes et réquisitions des autorités judiciaires compétentes
+(Procureur de la République, Juge d’instruction) sera puni d’un emprisonnement de six (6) mois à deux (2) ans et d’une amende de 15.000.000
+à 100.000.000 de Francs Guinéens.
+Lorsque l’auteur de cette infraction est une personne morale, elle encourt une amende de 150.000.000 à 800.000.000 de Francs Guinéens, sans
+préjudice de l’application des autres sanctions.
+Titre V: Coopération Technique, Policière et Judiciaire pour la lutte contre la Cybercriminalité
+Article 106
+Le Cyberespace n’ayant pas de frontière et entraînant de nombreux et complexes défis pour la recherche et la riposte aux infractions qui la
+caractérisent, et qui constituent en outre de sérieuses menaces à la sécurité, à l’ordre public et au développement économique national ainsi
+qu’à la quiétude et à la sécurité des citoyens nécessitant par là même une coopération accrue entre les différents dans cette lutte (Etats,
+Organisations régionales ou internationales, instituts de standardisation ou de normalisation…), une collaboration accrue est nécessaire entre
+les Ministères de la Justice, de la Sécurité, des Postes, Télécommunications et de l’Economie Numérique, ainsi que l’Autorité de Régulation
+des Postes et Télécommunications.
+Titre VI: Prescriptions en Matiere d'Infractions Cybercriminelles
+Article 107
+Les prescriptions concernant les infractions relatives au cyberespace et définies dans la présente Loi, suivent le même régime que ceux prévus
+par les Codes Pénal et de Procédure Pénale en vigueur en République de Guinée.
+Titre VII: Dispositions Finales
+Article 108
+Les infractions prévues par la présente Loi ne sont pas exhaustives en matière de cybercriminalité et pourront à cet égard, pour celles non
+prévues par ladite Loi, être définies, et sanctionnées dans le cadre des textes subséquents qui seront pris pour son application.
+Les sanctions prévues dans le cadre de la présente Loi, pourront aussi, en tant que de besoin, être élargies ou aggravées.
+Les sanctions en matière de cybercriminalité seront en outre complétées et renforcées par les sanctions prévues par les Lois spécifiques sur les
+transactions électroniques, sur la protection des données à caractère personnel, sur la cryptologie et/ou par leurs textes d’application.
+Article 109
+Les modalités d’application de la présente Loi, seront prises par Décret ou Arrêté du Ministre en charge des Postes des Télécommunications et
+de l’Economie Numérique.
+
+Deuxième Partie : La Protection Des Données à Caractère Personnel
+
+"
+
+Signature
+
+"
+
+© Copyright 2019 Guilaw
+
+#
+
+

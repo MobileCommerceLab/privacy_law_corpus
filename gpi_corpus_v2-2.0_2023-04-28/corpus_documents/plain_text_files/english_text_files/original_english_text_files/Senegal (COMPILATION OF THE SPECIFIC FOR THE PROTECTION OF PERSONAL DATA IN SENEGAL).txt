@@ -1,0 +1,1772 @@
+REPUBLIC OF SENEGAL
+
+LAWS, REGULATIONS AND COMMUNITY MEASURES RELATIVE TO THE
+
+PERTSONNAL DATA PROTECTION IN SENEGAL
+
+COMPILATION OF THE SPECIFIC FOR THE PROTECTION OF
+PERSONAL DATA IN SENEGAL
+
+1. LAW N 2008-12 OF JANUARY 25TH, 2008 CONCERNING PERSONAL
+DATA PROTECTION
+
+2. DECREE N 2008-721 OF JUNE 30TH, 2008 CONCERNING LAW
+ENFORCEMENT N 2008-12 OF JANUARY 25TH, 2008 CONCERNING THE
+PERSONAL DATA PROTECTION
+
+3. LAW N 2008 - 11 OF JANUARY 25TH, 2008 CONCERNING THE
+CYBERCRIME
+
+1
+
+LAW N 2008-12 OF JANUARY 25TH, 2008 CONCERNING THE PERSONAL
+DATA PRORACTION
+PREAMBLE
+With the development of computer science and its applications, the traditional
+domain of privacy grows is daily enriched by new items. Integral part of these
+elements, personal data turn to be highly desired resources. Their treatment must
+take place "respecting the rights, fundamental freedoms, and the dignity of the
+individuals". Therefore, the legislation on the personal data turns out to be an
+instrument of general protection towards the fundamental rights and freedoms.
+Despite starting of the governmental Intranet, the development of the appeal to IT
+in the administration, in the private sector and its use by the people, the
+digitalization of the electoral file and the national ID card, so pulling the
+generation, the collection and the personal data processing, the Senegalese
+substantive law does not fix the frame and the legal regime of these operations.
+The aim of the present bill is to fill this gap in the law.
+Taking as a basis the guiding principles for the regulations of computerized files
+containing personal data promulgated by the UN General Assembly in 1990, the
+European requirements regarding data transfer to third countries and the
+fundamental principles dedicated by the guidance law on the information society,
+the present bill on the personal data protection indicated abbreviated as (LDCP)
+offers another high level of protection.
+The bill on the personal data protection organizes diverse diets of protection and
+settles the question of the institutional anchoring by creating an independent
+authority loaded with the implementation of the diets of protection.
+The present bill includes seven (7) chapters.
+The first chapter, on general arrangements relative to the personal, fixed data
+protection the object of the law, confined its scope and defines the various used
+terms.
+The chapter II establishes an independent called authority "Committee of the
+Personal data" (CDP). She guarantees the respect for private life in the processing
+of personal data.
+The chapter III fixes the various modalities of personal data processing.
+
+2
+
+The chapter IV concerns the rights of the person the personal data of which are
+the object of a treatment.
+The chapter V is concerning the obligations of the person in charge of personal
+data processing.
+The chapter VI is concerning the penal capacities. Unless otherwise stipulated,
+the present bill sends back to the penal code for the incrimination and the
+repression of breaches of its capacities.
+The chapter VII puts the passing and final capacities. By these, dispensations are
+put for certain existing files and the effective date of the personal data protection
+law is indicated according to the type of considered data.
+FIRST CHAPTER: GENERAL CAPACITIES
+SECTION PREMIERE: OBJECT OF THE LAW ON THE PERSONAL DATA
+First article:
+The present law has for object to set up a device allowing fighting against
+invasions of privacy susceptible to be engendered by the collection, the treatment,
+the transmission, the storage and the use of the personal data.
+She guarantees that any treatment, in any form whatsoever, respects the liberties
+and the fundamental rights of the physical persons; she also takes into account the
+privileges of the State, the rights of local authorities, interests of companies and
+civil society.
+She watches that the technologies of information and the Communication (ICTS)
+do not strike a blow to personal freedoms or public, in particular in the private
+life.
+Article 71 of the decree:
+When the Committee of the personal data notices that the implementation of a personal
+data processing, pulls a violation of the fundamental rights and the liberties mentioned in
+the 1st article of the law on the personal data, his President can call out, by every possible
+means, to the person in charge of the aforementioned treatment.
+Article 72 of the decree:
+When a treatment is made for the State, of a legal entity of public law or a legal entity of
+private law managing a public service, the President of the Committee of the personal data
+informs, as soon as possible, the Prime Minister of the noticed violation.
+
+3
+
+SECTION II: SCOPE OF THE LAW ON THE PERSONAL DATA
+Article 2:
+Are subjected to the present law:
+1) Any collection, any treatment, any transmission, any storage and any use of
+the personal data by a natural person, by the State, the local authorities, the
+moral persons of public law or private law;
+2) Any automated treatment or not of data contained or called to appear in a
+file, with the exception of treatments mentioned in the article 3 of the
+present law;
+3) Any implemented treatment by a person in charge such as defined in the
+article 4.14 of the present law on the Senegalese territory or in any place
+where the Senegalese law applies;
+4) Any implemented treatment by a person in charge, established or not on
+the Senegalese territory, which resorts to ways of treatment situated on the
+Senegalese territory, with the exception of the ways which are used only for
+purposes of transit on this territory. In the cases aimed at the previous
+paragraph, the person in charge of the treatment has to appoint a
+representative established on the Senegalese territory, without prejudice of
+actions which can be introduced against him/her;
+5) Any data processing concerning the law and order, the defense, the search
+and the pursuit of penal breaches or the safety of the State, even bound to
+an important economic or financial interest of the State, subject to the
+dispensations which defines the present law and specific provisions on the
+subject fixed by other laws.
+Article 3 :
+This Act does not apply to:
+1) Data processing carried out by an individual in the exclusive setting of
+personal or household activity, provided that the data are not intended for
+systematic communication to third parties or dissemination;
+2) Temporary copies made in the course of technical transfer activities
+and providing access to a digital network for the automatic, intermediate
+and transient data and the sole purpose of allowing other recipients of the
+service the best access possible to the transmitted information.
+SECTION III: DEFINITIONS
+Article 4:
+In the sense of the present law, we hear by:
+1) Code of conduct: any project rules, in particular the charters of use,
+developed by the person in charge of the treatment, in accordance with the
+present law, to establish a correct use of the computing resources, the
+4
+
+Internet and the electronic communications of the concerned structure and
+approved by the Committee of the Personal data;
+2) Electronic communications: broadcasts, transmissions or receptions of
+signs, signals, papers, images or sounds, by electronic or magnetic way;
+3) Temporary copies: data copied temporarily in a dedicated space, for a timelimited duration, for the needs for the purposes of the operation processing
+software.
+4) Consent of the person concerned any event will express, unequivocal, free,
+specific and informed by the person concerned or his legal representative,
+legal or conventional, agrees that his personal data are subject to manual
+processing or mail;
+5) Recipient of a treatment of personal data: Any person entitled to receive
+such data other than the data subject, the controller, the processor and the
+persons who, by reason of their duties, are responsible for processing the
+data. However, public authorities legally empowered within a particular
+mission or exercise a right of communication may request the controller to
+communicate their personal data ;
+6) Personal data: any relative information for one person identified or
+recognizable physical appearance directly or indirectly, in reference to a
+number of identification or in reference to one or several elements,
+appropriate to his physical, physiological, genetic, psychic, cultural, social
+or economic identity;
+7) Genetic data Any data concerning the hereditary characteristics of an
+individual or a group of related individuals ;
+8) Critical data: all the personal data relative to the opinions or the religious
+activities , philosophic, political, labor-union activities, to the sexual or
+racial life, to the health, to the measures of social order, to the pursuits, to
+the penal or administrative penalties;
+9) Data in the field of health: Any information relating to the physical and
+mental state of a person, including genetic data above;
+10) File of personal data: Any structured set of data accessible according to
+specific criteria that whether centralized, decentralized or dispersed on a
+functional or geographical basis;
+11) Interconnection of personal data: any connection mechanism consisting
+linking of data processed for a specified with other data processed for the
+same or purposes or linked by one or more controllers purpose;
+12) Third country: any State other than Senegal;
+13) Nobody concerned: every natural person who is the object of a personal
+data processing;
+14) Direct prospecting: any request made by means of the sending of message,
+whatever is the support or the in particular commercial, political or
+charitable nature, intended to promote, directly or indirectly, the
+properties, the services or the image of a person selling the properties or
+5
+
+supplying with services;
+15) Responsible for the processing: the natural or legal person, public or
+private, any other organism or association which, alone or jointly with
+others, decides to collect and to process personal data and determines the
+purposes.
+16) Subcontractor: any natural or legal entity, public or private, any other body
+or association which processes data for the person in charge of the
+treatment;
+17) Remote service: any value-added service offer, leaning on
+telecommunications and\or on computing, to allow, in an interactive way
+and at a distance, for one person physical or moral, public or private, the
+possibility of making activities, steps or formalities, etc.
+18) Third: any natural or legal entity, public or private, any other body or
+association other than the concerned person, the person in charge of the
+treatment, the subcontractor and the people which, placed under the direct
+authority of the person in charge of the treatment or the subcontractor, are
+authorized to process the data;
+19) Personal data processing: any operation or set of operations planned in the
+article 2 of the present law made or not by means of automated processes or
+not, and applied to data, such as the collection, the exploitation, the
+recording, the organization, the preservation, the adaptation, the
+modification, the extraction, the protection, the copy, the consultation, the
+use, the communication by transmission, the distribution or any other
+shape of provision, the link or the interconnection, as well as the locking,
+the encryption, the disappearance or the destruction of the personal data.
+First article of the decree:
+We hear by:
+1) Charters of use: any document setting the general out the terms and conditions
+of personal data processing as well as the rights and the obligations of the
+person in charge of the treatment and the user of this one;
+2) Committee of the personal data: the name of the Committee of personal Data
+protection (CDP) planned by the article 5 of the law on the personal data;
+3) Anonymous personal data: data that can be correlated with an identified or
+identifiable;
+4) Coded personal data: the data can be correlated with an identified or identifiable
+person only through a predefined code ;
+5) Personal data processed for historical, statistical or scientific purpose: any
+transaction collection and processing of personal data for scientific
+purposes, General information, assistance in planning and decision-making;
+6) Access right: the right for every person to obtain information on data
+concerning him and to obtain a copy;
+6
+
+7) Right to information: The right of every person whether data relating to him are
+being processed and to obtain from the controller the information thereon ;
+8) Right of rectification: The right of everyone to require the data controller to
+rectify, complete, update, lock or delete data relating to him that are inaccurate,
+incomplete, ambiguous, outdated or whose collection, use , communication or
+storage is forbidden ;
+9) Later treatment of personal data: the hypothesis where the person in charge of a
+personal data processing, in the context of its usual and legitimate activities,
+wishes to reuse himself these data or communicate them.
+CHAPITRE II: COMMITTEE FOR THE PROTECTION OF PERSONAL DATA
+SECTION FIRST: STATUS, COMPOSITION AND ORGANIZATION
+
+Article 5:
+It is created a Committee of Personal Data Protection called "Committee of the
+Personal data" in summary the "CDP".
+The Committee of Personal Data is an independent authority asked to ensure that
+the personal data processing is implemented in accordance with the provisions of
+the present law.
+She informs concerned people and the persons in charge of treatment of their
+rights and duties and makes sure that ICT do not contain in terms of civil liberties
+and privacy.
+Article 6:
+The Committee of the Personal is composed of eleven (11) members, selected
+because of their legal and\or technical skill, as follows:
+1) Three (3) personalities appointed by the President of the Republic;
+2) One (1) deputy appointed by the President of the National Assembly;
+3) One (1) senator appointed by the President of the Senate;
+4) One (1) representing employers' organizations appointed by the Secretary
+in charge of professional organizations, subject to provisions of the article 9
+of the present law;
+5) A magistrate member of council of State indicated on proposal of the
+President of the Council of State;
+6) A member magistrate of the Highest Court of Appeal indicated on proposal
+of the First President of the Highest Court of Appeal;
+7) A lawyer indicated by the President of the bar of the order of the lawyers of
+Senegal;
+8) A representative of the organizations of defense of man's rights indicated
+by Minister of Justice, Lord Chancellor, on proposal of the High
+commission to human rights and to the Promotion of the Peace;
+7
+
+9) The Branch manager Of the Computing of the State (ADIE).
+Members of the Committee of Personal data are appointed by decree.
+Government Commissioner, appointed by the Prime Minister, is registered with
+the Committee of the Personal data. Government Commissioner is summoned to
+all the sessions of the Committee, in the same conditions as the members of this
+one. He informs the Committee about the orientations of the government and
+about the motivations of the administration concerning the implementation of
+treatments but does not vote.
+Article 7 of the decree:
+In application of the paragraph 3 of Article 6 of the law on personal data, Government
+Commissioner is registered with the Committee of the personal data in particular for:
+1) Receive a copy of the request for an opinion or authorization presented for the
+State, a legal entity under public law or private entity of private law managing
+a public service;
+2) Provide upon request, a copy of any statement, notice or request permission
+3) Provide upon request, written or oral observations on any statement, notice or
+request permission;
+4) Establish annually, before December 31st, a report to the Prime Minister on the
+personal data processing made for the State, of a legal entity under public law
+or a legal entity in private law managing a public service.
+In case of absence or in case of hindrance, Government Commissioner is replaced by
+a substitute appointed according to provisions of the article 6 of the law on personal
+data. Summoned under the same conditions as other members of the Committee of
+the personal data, its absence cannot prevent the holding of the works of the
+Committee.
+Government Commissioner is appointed for a term of two (2) the years, renewable
+only once.
+Article 8 of the decree:
+The proposals for appointment of members of the Commission of personal data
+referred to in Articles 6 and following of the law on personal data, for the
+appointment of new members and the reappointment of the members in office,
+should be addressed within six months prior to the expiration of the term thereof.
+Article 7:
+The President of the Republic appoint among the members of the Committee of
+Personal data, the President of the aforementioned Committee. The President is
+assisted by a vice-president elected by the Committee of the Personal data.
+
+8
+
+The Committee of the Personal data has services placed under the authority of his
+President. She has; besides, a staff provided by the State and can provide in agents
+recruitment according to the provisions of the Labor code.
+The sworn agents, according to the paragraph 2 of the article 11 of the present law
+and who can be called to participate in the implementation of the missions of
+check mentioned in the article 25 of the present law must be authorized by the
+Committee there. This authorization does not dispense the application of
+capacities defining the procedures authorizing the access to the secrets protected
+by the law.
+Article 3 of the decree:
+The members of the Committee of the personal data meet in plenary session on summons of the
+President. Failing that, the summons is of right at the request of the majority of the members of
+the Committee of the personal data.
+The summons, specifying the agenda, can be made by electronic way.
+The sessions of the Committee of the personal data are not public.
+Article 4 of the decree:
+The election of the vice-president has to take place during the first meeting of the Committee of
+the personal data.
+The President of the Committee of the personal data can delegate some of his powers to the vicepresident or to his collaborators, the members of the aforementioned Committee.
+Article 8:
+The mandate of the members of the Committee of the Personal data is four (4) the
+years renewable once. With the exception of the President, the members of the
+Committee of the Personal data do not perform their function on an exclusive
+basis. The members of the Committee of the Personal data are irremovable during
+the duration of their mandate.
+He can be ended the functions of member, that in case of resignation or in case of
+hindrance noticed by the Committee of the Personal data in the conditions
+planned by decree.
+The members of the Committee of the Personal data are subjected to the
+professional secrecy according to the current texts.
+The Committee of the Personal data establishes an internal rules which specifies,
+in particular, rules relative to deliberations, to instruction and to presentation of
+files.
+
+9
+
+Miss an arrangement on the renewal of the members;
+Rules relative to the organization and to the functioning of the Committee are
+fixed by decree.
+Article 2 of the decree:
+The President of the Committee of the personal data assumes the daily management of the
+aforementioned Committee, manages the secretarial department, chairs the meetings in his
+various trainings or delegates another member to this end.
+[…
+Article 5 of the decree:
+The Committee of the personal data establishes its internal rules, according to the
+paragraph 4 of the article 8 of the law on the personal data within one month after its
+installation.
+Article 6 of the decree:
+The Committee of the personal data can validly deliberate that if the majority of his
+members at least are present. The votes take place freehand and all the decisions are
+adopted in the absolute majority of the present members.
+In case of parity of votes, that of the President or, if he is prevented, of his deputy, is
+dominating. Every session of the Committee of the personal data gives rise to a report
+signed by the members of the Committee having sat.
+Article 9:
+The membership of the Committee of the Personal data is incompatible with the
+membership of the Government, the exercise of the functions of company
+directors, the detention of participation in the companies of the IT sector or the
+telecommunications.
+Any member of the Committee of the Personal data has to inform this one of the
+direct or indirect interests that it holds or comes to hold, functions which it
+exercises or comes to practice and of any mandate which it holds or comes to hold
+within a legal entity.
+Where necessary, the committee takes all the useful capacities to assure the
+independence and the impartiality of his members. A code of conduct is set up by
+the committee for that purpose.
+Article 10:
+If in the course of mandate the president or the member of the Committee of the
+Personal data stops performing its functions, he is preceded to his replacement in
+the conditions planned by articles 6 - 8 of the present law.
+
+10
+
+The mandate of the successor so indicated is limited to the period remaining to
+run. The latter can be indicated for a single mandate.
+Article 11:
+The members of the Committee of the Personal data, before their taking office,
+lend in front of the Court of Appeal of Dakar sitting in solemn audience the oath
+by which the content follows: "I swear solemnly of well and faithfully to fill my
+function of member of the Committee of personal Data protection, in any
+independence and impartiality in a deserving and loyal way and to keep the secret
+of deliberations".
+Other agents chosen by the Committee of the Personal data take the oath in front
+of the regional court of Dakar in these terms: "I swear of well and loyally to fill my
+functions of agent of the" Committee of the Personal data "in any independence
+and impartiality, and to keep the secret of deliberations.
+Article 2 of the decree:
+[…]
+He (the President of the Committee) is in charge of organizing, as soon as possible, in
+application of provisions of the article 11 of the law on the personal data, the swearing-in of
+the members and agents were chosen by the Committee of the personal data.
+Article 12:
+The members of the Committee of the Personal data enjoy a total immunity for the
+opinions emitted in the exercise or on the occasion of the exercise of their function.
+In the exercise of their allocation, the members of the Committee of the Personal
+data receive instruction of no authority.
+Article 13:
+The members of the Committee of the Personal data perceive compensations fixed
+by decree.
+Article 14:
+The Committee of the Personal data enjoys the autonomy of management. The
+budget is prepared by the President and adopted by the Committee of the
+Personal data.
+The President of the Committee of the Personal data is the regulator of the budget,
+he applies the rules of the public accounting.
+
+11
+
+Article 15:
+For the fulfillment of its missions, the Committee of the Personal data receives a
+budgetary subsidy of the State.
+The Committee of the Personal data can receive from gift or subsidy of an
+individual, a body or a foreign State that through a structure of cooperation of the
+State of Senegal.
+SECTION II: ATTRIBUTIONS OF THE "COMMITTEE OF THE PERSONAL DATA"
+Article 16:
+The Committee of the Personal data exercises the following missions:
+1) She watches that the personal data processing is implemented according to
+the capacities of the present law.
+2) She informs the concerned people and the persons in charge of treatment of
+their rights and duties. For that purpose,
+a) She receives the preliminary formalities in the creation of personal
+data processing;
+b) She receives the complaints, the petitions and the complaints relative
+to the implementation of the personal data processing and informs
+their authors of consequences given to these;
+c) She informs immediately public prosecutor of the breaches whose
+knowledge she has;
+d) She can, by particular decision, ask one or several of her members or
+agents of her services to proceed to checks concerning any treatment
+and, where necessary, to obtain copies of any document or
+information medium useful for her mission;
+e) She can, in the conditions defined to articles 29 - 32 of the present
+law to pronounce a penalty towards a person in charge of treatment;
+f) She answers any demand of opinion.
+3) She approves the charters of use which are presented to him;
+4) She holds a directory of the personal data processing at the disposal of the
+public;
+5) She advises the people and the bodies which resort to the personal data
+processing or which proceed to tries or experiences likely to end in such
+treatments;
+6) She authorizes, in the conditions planned by the present law, the crossborder transfers of personal data;
+7) She presents to the government any suggestion susceptible to simplify and
+to improve the legal and statutory framework towards the data processing;
+8) She cooperates with the authorities of personal data protection of the third
+countries, participates in the international negotiations regarding personal
+12
+
+data protection;
+9) She publishes the granted authorizations and the notices emitted in the
+directory of the personal data processing;
+10) She establishes every year an annual report put back to the President of the
+Republic and to the President of the National Assembly.
+Article 10 of the decree:
+The Committee of the personal data is competent to formulate any useful
+recommendations to watch that the personal data processing is implemented according
+to the provisions of above-mentioned law as well as those of the present decree.
+Article 11 of the decree:
+With the exception of the information interesting the safety of the State, the defense or
+the law and order, the directory of the personal data processing, is open to the public
+according to the following modalities:
+1) The consultation in premises of the Committee of the personal data according to
+days and hours fixed by the President of the aforementioned Committee;
+2) The consultation by means of a demand, in an form of extract, sent to the
+Committee of the personal data;
+3) The consultation on quite different support planned by the Committee of the
+personal data.
+The consultation of the directory of the personal data processing is free.
+SECTION III:
+
+FORMALITES PREREQUISITES HAS THE IMPLEMENTATION OF THE DATA
+
+PROCESSING HAS CARACTERE STAFF
+
+Article 17:
+Are exempted from the preliminary formalities planned to following articles:
+1) Treatments mentioned in the article 3 of the present law;
+2) Treatments having for only object the maintained of a record which, by
+virtue of legal or statutory measures, is exclusively intended for the
+information of the public and is opened to the consultation of this one or
+every person proving a justifiable interest;
+3) The implemented treatments by an association or any non-profit
+organization and with religious, philosophic, political or labor-union
+character since these data correspond to the object of this association or this
+body, since they concern only their members and since they should not be
+communicated with thirds.
+
+13
+
+Article 22 of the decree:
+The exemption of preliminary formalities planned by the article 17 of the law on the personal
+data does not exempt the person in charge of the treatment to respect the principles put by the
+above-mentioned law to guarantee the rights of the concerned people.
+Article 18:
+Except the cases planned to articles 17, 20 and 21 of the present law, the personal
+data processing are the object of a statement with the Committee of the Personal
+data. The Committee gives evidence by an acknowledgement of receipt of any
+statement. She frees, within one (1) month, a receipt which allows the applicant to
+put in work the treatment without exempting him however from any of the
+responsibilities. This deadline can be once extended on decision motivated of the
+Committee.
+The statement, in compliance with a model established by the Committee, contains
+the commitment which the treatment satisfies the requirements of the law.
+However, only the reception of the receipt gives the right to the implementation of
+a treatment.
+Article 21 of the decree:
+The person in charge of the treatment undertakes to realize a statement in compliance with
+the reality of the envisaged treatment.
+Article 24 of the decree:
+When the statement satisfies the prescriptions of the law on the personal data, the
+Committee of the personal data frees the receipt planned in the article 18 of the abovementioned law.
+The declaratory formalities are considered carried out as from the delivery of the receipt
+aimed at the previous paragraph of the present article. The treatment can then be
+implemented by the declarer under its responsibility.
+When the receipt is freed by electronic way, the person in charge of the treatment can ask
+for it for a copy on paper base.
+Article 19:
+For the most common categories of personal data processing of which the
+implementation may not infringe on privacy or in the liberties, the Committee of
+the Personal data establishes and publishes standards intended to simplify or to
+exempt the obligation to report.
+These standards can take into account the codes of conduct approved by the
+Committee of the Personal data.
+
+14
+
+Article 23 of the decree:
+Can be the object of a simplified statement the implemented personal data processing:
+1) By the bodies public and deprived for the management of their staffs;
+2) On the scene of work for the management of the access controls in premises,
+schedules and the restoration;
+3) Within the framework of the use of services of fixed and mobile telephony on the
+scene of work.
+Article 26 of the decree:
+The Committee of the personal data can define models of forms simplified for the demands
+of opinion, ratification of the charters of use, statements and authorization, matched, where
+necessary, appendices intended to complete the information. The standards intended to
+simplify or to exempt the obligation to report established by the Committee of the personal
+data in application of the article 19 of the law on the personal data are published to the
+Gazette.
+Except as otherwise provided, forms can be removed free of charge with the Committee of
+the personal data
+Article 431-17 Penal code:
+Whoever will have, even by carelessness, proceeded or makes proceed to personal data
+processing without having respected the preliminary formalities in their implementation
+statutory on the personal data, will be punished for a detention of one (1) the year in seven (7)
+the years and of a fine from 500.000 francs to 10.000.000 francs or one of these two
+punishments only.
+Article 431-19 Penal code:
+When he was proceeded or made proceed to a personal data processing in the conditions
+planned by the article 19 of the law on the data personal aforesaid, whoever will not have
+respected, including by carelessness, the simplified standards or exemption established for that
+purpose by the Committee of the Personal data, will be punished for one of the detention of one
+(1) the year in seven (7) the years and of a fine from 500.000 francs to 10.000.000 francs or one
+of these two punishments only.
+Article 20:
+Are implemented after authorization of the Committee of the Personal data:
+1) The personal data processing concerning genetic data and search in the
+field of the health;
+2) The personal data processing concerning data relative to breaches,
+condemnations or measures of security;
+3) The personal data processing having for object an interconnection of files,
+such as defined in the article 54 of the present law;
+
+15
+
+4) Treatments concerning a national number of identification or quite different
+identifier of general reach;
+5) The personal data processing containing biometric data;
+6) The personal data processing having a motive for public interest in
+particular in fine history, statistical or scientific.
+Article 431-20 Penal code:
+Whoever will have, except the cases where the treatment was authorized in the statutory
+conditions on the data personal aforesaid, proceeded or made proceed to a personal data
+processing including among the data which concerns the number of registration of the people in
+the national directory of identification of the physical persons, will be punished for a detention
+of one (1) the year in seven (7) the years and of a fine from 500.000 francs to 10.000.000 francs
+or one of these two punishments only.
+Article 431-25 Penal code:
+Whoever will have, except the statutory cases, put or kept on support or IT report of the
+personal data concerning breaches, condemnations or measures of security, will be punished for
+the same punishments.
+Article 431-30 Penal code:
+Whoever will have collected, on the occasion of their recording, on the occasion of their
+classification, on the occasion of their transmission or on the occasion of another shape of
+treatment, personal data the disclosure of which would have the effect of striking a blow in view
+of the interested or at the intimacy of its private life, carried, without authorization of the
+interested, these data in the knowledge of a third which has no quality to receive them, will be
+punished for a detention of one (1) the year in seven (7) the years and of a fine from 500.000
+francs to 10.000.000 francs or one of these two punishments only.
+When the disclosure planned in the previous paragraph of the present article was committed by
+carelessness or carelessness, the person in charge will be punished for a detention of six (6)
+month in five (5) the years and of a fine from 300.000 francs to 5.000.000 francs or one of these
+two punishments only.
+In the cases planned in both paragraphs of the present article, the pursuit can be exercised only
+on complaint of the victim, her legal representative or his legal successors.
+Article 21:
+Except the cases where they must be authorized by the law and contrary to
+previous articles, treatments automated of name specific information operated for
+the State, for the public institution or for the local authority or for the legal entity
+of private law managing a public service are decided by statutory act taken after
+opinion motivated of the Committee of the Personal data.
+These treatments carry on:
+16
+
+1) The safety of the State, the defense or the law and order;
+2) The prevention, the search, the observation or the pursuit of the penal
+breaches or the execution of the penal condemnations or the measures of
+security;
+3) The population census;
+4) The personal data revealing, directly or indirectly, the racial, ethnic or
+regional origins, the filiation, the political, philosophic or religious beliefs or
+the labor-union membership of the people, or who are relative to the health
+or to the sexual life of these when they are not of the article 22.3 of the
+present law;
+5) The treatment of salaries, pensions, taxes, taxes and other liquidations
+Article 25 of the decree:
+L be authorization requests, presented in application of articles 20 or 21 of the law on the
+personal data, have to contain, where necessary, in appendix, the statutory act authorizing
+the envisaged treatment.
+Article 431-24 Penal code:
+Whoever will have, except the statutory cases, put or kept on support or IT memory, without
+the express consent of the interested, personal data which, directly or indirectly, reveal the
+racial or ethnic origin, the political, philosophic or religious beliefs, or the labor-union
+memberships, or which are relative to the health or to the sexual orientation of this one, will be
+punished for a detention of one (1) the year in seven (7) the years and of a fine from 500.000
+francs to 10.000.000 francs or one of these two punishments only. The capacities of the first
+point of the present article are applicable to treatments not automated of personal data
+the implementation of which does not limit itself to the exercise of exclusively
+personal activities.
+
+SECTION IV: COMMON CAPACITIES
+Article 22:
+The demands of opinion, the statements and authorization requests have to
+specify:
+1) The identity and the address of the person in charge of the treatment or, if
+this one is not established on the national territory, those of his
+representative duly appointed;
+2) One or several ends of the treatment as well as the general description of its
+functions;
+3) The envisaged interconnections or any other forms of getting in touch with
+other treatments;
+4) The handled personal data, their origin and the categories of people
+
+17
+
+concerned by the treatment;
+5) The shelf life of the handled information;
+6) One or several services asked to put in work the treatment as well as the
+categories of people who, because of their functions or for the needs for the
+service, have directly access to the registered data;
+7) The addressees authorized to receive communication of the data;
+8) The function of the person or the service beside of which practices the
+access right;
+9) Capacities taken to assure the safety of treatments and data;
+10) The indication of the appeal to a subcontractor;
+11) The transfers of personal data envisaged aimed at a third country, subject to
+a reciprocity.
+The person in charge of a treatment already declared or authorized introduces a
+new demand with the Committee of the Personal data in case of change affecting
+the information mentioned in the previous paragraph. Besides, he has to inform
+the Committee of the Personal data in case of abolition of the treatment.
+Article 27 of the decree:
+The demands of opinion, ratification of the charters of use, statements and authorization
+are presented by the person in charge of the treatment or by the person having quality to
+represent him.
+When the person in charge of the treatment is a natural person but acting for a legal entity,
+the authority of which he recovers must be mentioned.
+Article 31 of the decree:
+The person in charge of the treatment informs the Committee of the personal data within one
+month and according to the modalities defined in the article 28 of the present decree of any
+abolition of the treatment.
+In case of modification, affecting the information mentioned in the article 22 of the law on the
+personal data, the person in charge of the formless treatment the Committee of the within a
+fortnight working personal data.
+Article 431-29 Penal code:
+Whoever, holding personal data on the occasion of their recording, on the occasion of their
+classification, on the occasion of their transmission or on the occasion of any other shape of
+treatment, will have diverted this information of their end such as defined by the legislative
+arrangement, the statutory act or the decision of the Committee of the Personal data
+authorizing the automated treatment, or by the preliminary statements in the implementation
+of this treatment, will be punished for a detention of one (1) the year in seven (7) the years and
+of a fine from 500.000 francs to 10.000.000 francs or one of these two punishments only.
+
+18
+
+Article 23:
+The Committee of the Personal data pronounces within two (2) month as from the
+reception of the asking for opinion or authorization. However, this deadline can
+be once extended on decision motivated of the Committee. When the Committee
+of the Personal data did not pronounce for these deadlines, the authorization is
+considered favorable.
+Article 29 of the decree:
+The date in the opinion of reception, in the opinion of the signature of the discharge or the
+electronic acknowledgement of receipt fixes the starting point of the deadline which the
+Committee of the personal data has to notify its notices and authorizations in application of
+the article 23 of the law on the personal data. In case continuation of this deadline, the
+Committee of the personal data notifies it to the person in charge of the treatment.
+Article 24:
+The opinion, the statement or the authorization request can be sent to the
+Committee of the Personal data by electronic way or by mail way. The Committee
+of the Personal data frees a receipt of reception, if necessary by electronic way.
+The Committee of the Personal data can be seized by every person, acting by itself,
+by the intervention of its lawyer or by anybody else physical or moral duly
+appointed.
+Article 28 of the decree:
+The demands of opinion, ratification of the charters of use, statement and authorization are
+sent to the Committee of the personal data, either by registered letter, or by electronic way
+but with acknowledgement of receipt which can be sent by the same way.
+Failing that, they can be directly put down with the Committee against receipt
+Article 30 of the decree:
+Any decision of the Committee of the personal data is motivated and notified to the person
+in charge of the treatment as well as to all other concerned people, according to the
+modalities defined in the article 28 of the present decree.
+The deliberations of the Committee of the personal data are published to the Gazette.
+SECTION V: CONTROLS AND ADMINISTRATIVE PENALTIES AND PECUNIARY
+Article 25:
+The members of the Committee of the Personal data as well as the sworn agents of
+service have access, in the conditions planned by the article 45 and following ones
+of the Code of criminal procedure, for the exercise of their missions, to places,
+premises, surrounding walls, installations or establishments being of use to the
+19
+
+implementation of a personal data processing and who are business, with the
+exception of the parts of these allocated to the private place of residence.
+Territorially competent Public prosecutor is beforehand informed about it.
+Article 15 of the decree:
+In case of operation of control, territorially competent Public prosecutor is informed about it
+beforehand at the latest twenty four (24) hours before the date in which the control on the spot
+has to take place. This opinion specifies the date, the hour, the place and the object of the
+control. The people in charge of the control have to present their orders and, where necessary,
+their authorization to proceed to that controls
+Article 12 of the decree:
+The Committee of the personal data fixes the list of the people asked to proceed to the
+controls planned by the article 25 of the law on the personal data. This list can be
+reorganized at any time by the Committee of the personal data.
+Article 13 of the decree:
+The operation of control, that it is on site or on summons, is decided by a decision of the
+Committee of the personal data which specifies:
+1) The name and the address of the person in charge of the concerned treatment;
+2) The name of the reporter and the other controllers in charge of the operation;
+3) The object as well as the duration of the operation.
+Article 26:
+In case of opposition of the person in charge of places, the visit can take place only
+with the authorization of the President of the Regional Court in the spring of
+which are situated premises to be visited or of the judge delegated by him.
+This magistrate is seized at the request of the President of the Committee of the
+Personal data. He rules by a motivated prescription, according to capacities
+planned to articles 820-1 - 820-9 of the code of civil procedure. The procedure is
+without compulsory representation.
+Article 14 of the decree:
+No controller can be indicated to control with a body in the breast of which he held, during 5
+years preceding the control, a direct or indirect interest performed the functions, the
+professional activity or the elective mandate.
+Article 16 of the decree:
+
+20
+
+Every control, that it is on site or on summons, has to be the object of a report which expresses
+the nature, in the daytime, the hour and the place of the made controls. The report indicates the
+object of the operation, the members of the Committee of the personal data having participated
+in this one, the met people, where necessary, their statements, the demands formulated by the
+controllers as well as the possible met difficulties.
+The inventory of rooms and documents the people of which in charge of the control took copy is
+annexed to the report signed by the people in charge of the control and by the person in charge
+either of places, or of treatments, or by every nominee by this one.
+In case of refusal or in case of absence of the person in charge of places or treatments, he is
+mentioned it in the statement of insolvency established by the controllers.
+When the visit was not able to take place, the report mentions the motives which prevented or
+hindered his progress.
+When the visit takes place with the authorization and under the control of the judge according
+to the article 26 of the law over the personal data, a copy of the report of the visit is sent to him
+by the President of the committee of the personal data.
+Article 17 of the decree:
+When the Committee of the personal data proceeds to controls, at the request of an authority of
+a third country exercising skills similar to his, she informs the person in charge about it of the
+treatment.
+Article 18 of the decree:
+The people in charge of the control can summon and hear every person susceptible to supply
+them any useful information or justification for the fulfillment of their mission.
+The summons, sent by registered letter or delivered personally against receipt, has to reach at
+least seven days before the date of the hearing.
+The summons reminds to the summoned person that it is entitled be attended of an advice of its
+choice.
+The refusal to answer a summons of the people in charge of the control must be mentioned on
+report.
+Article 19 of the decree:
+When a person questioned within the framework of the controls made by the Committee of the
+personal data brings into conflict the professional secrecy, he is mentioned this opposition on
+the established report.
+The Report has to mention legal or statutory measures governing the called professional
+secrecy.
+
+21
+
+Article 431-31 Penal code:
+Will be punished for detention from six months to two years and for a fine from 200.000 francs
+to 1.000.000 francs or for one of these two punishments only, whoever will have hindered the
+action of the Committee of the Personal data:
+1) Either by opposing the exercise of missions entrusted to his members or to the agents
+authorized in law enforcement on the personal data;
+2) Either by refusing to communicate with his members or with the agents authorized in
+law enforcement on the personal data, the information and the documents useful for
+their mission, or by hiding the aforementioned documents or the information, or by
+removing them;
+3) Either by communicating information which are not in accordance with the contents of
+the recordings such as he was as the demand was formulated where which do not
+present these contents under a directly accessible shape
+Article 27:
+The members of the Committee of the Personal data and the agents mentioned in
+the article 25 of the present law can ask for communication of any documents
+necessary for the fulfillment of their mission, whatever is the support, and to take
+it copy. Ils peuvent recueillir, sur place ou sur convocation, tout renseignement et
+toute justification utiles. Ils peuvent accéder aux programmes informatiques et aux
+données, demander la transcription de tout traitement dans des documents
+appropriés directement utilisables pour les besoins du contrôle. Ils peuvent être
+assistés par des experts choisis par la Commission des Données Personnelles.
+Article 9 of Decree :
+The President of the Commission of the personal data may involve one or several experts under
+Article 27 of the law on personal data. Experts whose assistance is requested by the
+Commission of personal data are compensated according to the provisions of the Procurement
+Code. When control operations require access to personal medical data, the Commission
+Personal Data means a doctor on a list provided annually by the College of Physicians of
+Senegal to require the disclosure of such data. The expert report submitted to the President of
+the Commission of personal data with a copy to the controller.
+Article 28 :
+It is prepared contradictorily minutes of verifications and surveys conducted
+under the preceding articles.
+Article 29 :
+The Commission Personal Data may impose the following measures :
+1) a warning to the controller does not comply with the obligations under
+this Act.
+2) an injunction to stop the alleged breach within the time fixed.
+22
+
+Article 67 of Decree :
+The notice provided for by Article 29 of the Law on personal data, or specify the deficiencies
+found, sets the time after which the controller is required to have been discontinued or
+deficiencies found . If the controller is domiciled in a third country, the Commission shall take
+into account and apply to the competent administrative authorities. This period runs from the
+date of receipt, by registered letter, the controller of the notice.
+Article 30 :
+If the controller does not comply with the notice that was sent to him, the
+Commission Personal Data may pronounce against him after an adversarial
+procedure, the following sanctions :
+1) temporary withdrawal of the authorization granted for a period of three
+(3) months from the expiry of which the withdrawal becomes final ;
+2) a monetary fine of one (1) 1000000-100 (100) million CFA Franc ;
+Recovery of all penalties shall be in accordance with the laws relating to the
+collection of debts owed to the State.
+Article 68 of Decree :
+The Commission may impose personal data in respect of any data controller has not met its
+obligations, a penalty, as provided by Article 30 of the Law on personal data, except where the
+processing is implemented by the State, a legal entity under public law or a legal person in
+private law managing a public service.
+Article 69 of Decree :
+The penalty imposed by the Commission of personal data under Article 68 of this Decree shall
+be reasoned and notified to the controller.
+Article 70 of Decree :
+When the Commission issues a personal data penalty became final before the criminal court
+final decision on the same facts, it may order that the penalty imposed is added to or deducted
+from the fine he utters.
+Article 431-18 Penal Code:
+Whoever even negligently undertaken or to a treatment that has been the extent provided in
+paragraph 1 of Article 30 of the Law on personal data, shall be punished with imprisonment of
+one (1) year seven (7) years and a fine of 500,000 francs to 10 million francs or one of these
+penalties.
+
+23
+
+Article 31 :
+In an emergency, when the implementation of a treatment or use of personal data
+implies a violation of rights and freedoms, the Commission on Personal Data, after
+an adversarial procedure, decides :
+1) Interruption of implementation of treatment for a maximum of three (3)
+months ;
+2)
+lock certain personal data processed for a maximum period of three
+months ;
+3) Temporary or permanent treatment contrary to the provisions of this Act
+prohibition.
+Article 73 of Decree :
+The Commission may request personal data to the competent courts to order any necessary
+security measure. In case of emergency, in accordance with Article 31 of the Law on personal
+data, the Chairman of the Commission may request personal data, by way of interim order, the
+order of competent jurisdiction, if any under penalty, any security measures necessary to
+protect the rights and freedoms protected.
+Article 74 of Decree :
+If risk of sanctions other than warning, the controller is informed of the date of the meeting of
+the Commission for personal data agenda of which is inscribed his case and the faculty is
+offered to be heard, he or his representative. The convening of the data, performed under the
+terms of Article 28 of this Decree, must be received at least fifteen days before the date
+mentioned in the preceding paragraph. In case of emergency, call the controller must to have
+been received no later than eight days before the date of hearing before the Board of personal
+data.
+Article 75 of Decree :
+Any decision to sanction by the Commission of the personal data sets considerations of law or
+fact on which it is based as well as ways and time limits. Publication in the Official Journal of
+the penalty decision made within the period of one month from the date on which the sanction
+becomes final.
+Article 32 :
+Sanctions and decisions taken by the Commission Personal Data
+appeal before the Council of State.
+
+are subject to
+
+CHAPTER III: REQUIREMENTS FOR TREATMENT OF CONDITIONS OF
+PERSONAL DATA
+SECTION ONE : BASIC PRINCIPLES GOVERNING
+
+THE PROCESSING OF PERSONAL DATA
+
+24
+
+Article 33 :
+The treatment of personal data is considered legitimate if the data subject gives his
+consent.
+However, there may be exceptions to this requirement of consent
+when processing is necessary:
+1) For compliance with a legal obligation to which the controller is subject ;
+2) The execution of a task in the public interest or in the exercise of official
+authority vested in the controller or the third party to whom the data are
+disclosed ;
+3) The execution of a contract to which the data subject is party or in the
+execution of pre-contractual measures taken in the application;
+4)
+To safeguard the interests or fundamental rights and freedoms of the
+person concerned.
+Article 32 of Decree :
+Any processing of personal data is prohibited where the consent of the person concerned is not
+obtained.
+Article 34 :
+The collection, recording, processing, storage and transmission of personal data
+must be lawfully, fairly and not fraudulent.
+Article 431-22 Penal Code:
+Whoever collected personal data by fraudulent means dishonest or illegal shall be punished by
+imprisonment of one (1) year seven (7) years and a fine of 500,000 francs to 10 million francs
+or one of these two penalties.
+Article 35 :
+The data must be collected for specified, explicit and legitimate purposes and
+cannot be further processed in a way incompatible with those purposes.
+They must be adequate, relevant and not excessive in relation to the purposes for
+which they are collected and further processed.
+They must be kept for a period that does not exceed the period necessary for the
+purposes for which it was collected or processed. Beyond the period required, the
+data cannot be a conservation view that responds specifically to a processing for
+historical, statistical or research under the law.
+
+25
+
+Article 20 of Decree :
+The purpose of the proposed treatment and the nature of the data collected determine the rules
+applicable to any treatment.
+Article 37 of Decree :
+When the responsible treatment of personal data collected for specified, explicit and legitimate
+communicate this data to a third party called for further processing in particular for historical,
+statistical or scientific purposes, such data are prior to their communication, anonymised or
+coded by said officer or by any competent authority.
+Article 38 of Decree :
+The results of the treatment of personal data for historical, statistical or scientific purposes shall
+not be made public in a form which permits identification of the person concerned, unless:
+1)
+2)
+
+The person concerned has given express consent ;
+Publication of non-anonymous data and unencrypted personal information is
+limited to data which are manifestly made public by the data subject.
+Article 39 of the Decree :
+
+Commission of personal data is competent to decide on the historical, statistical or scientific
+nature of personal data.
+Article 40 of the Decree :
+Articles 37 and 38 of this Decree shall not apply to any processing of data concerning public
+security, defense, investigation and prosecution of criminal offenses or the security of the State.
+Article 43 Decree :
+Transfer, provided within a group of companies or address multiple recipients for the same
+categories of data and the same purpose, may be a joint statement.
+Article 431-27 Penal Code:
+Whoever kept of personal data beyond the time necessary character under Article 35 of the Law
+on personal data, unless this is done to conservation of historical, statistical or scientific
+purposes as provided by law, shall be punished by imprisonment of one (1) year seven (7) years
+and a fine of 500,000 francs to 10 million francs or one of these penalties.
+Article 431-28 Penal Code:
+Whoever, except in cases provided by law, treaty for purposes other than for historical,
+statistical or scientific use of personal data stored beyond the period required under Article 35
+of the Law on Personal Data Staff will be punished with the same penalties.
+
+26
+
+Article 36:
+The data must be accurate and, where necessary, updated. All reasonable
+measures should be taken to ensure that inaccurate or incomplete, having regard
+to the purposes for which they are collected and further processed, are erased or
+rectified.
+Article 37:
+The principle of transparency requires mandatory information from the controller
+on the personal data.
+Article 38 :
+The personal data shall be treated as confidential and shall be protected in
+accordance with Article 71 of this law, in particular where the processing involves
+the transmission of data over a network.
+Article 39:
+When processing is implemented on behalf of the controller, it must choose a
+processor providing sufficient guarantees. It is the responsibility of the treatment
+as well as sub-contractor to ensure compliance with the security measures defined
+by section 71 of this Act.
+Treatment conducted on behalf of the controller must be governed by a contract or
+legal act documented binding the processor to the controller and stipulating in
+particular that the subcontractor acts only on the single instruction of the
+controller and that the obligations under this section shall also be borne by the
+latter.
+Article 64 of Decree :
+A data controller can process personal data by a subcontractor character when said data
+protection is guaranteed. However, it remains responsible and must ensure that the data are
+processed in accordance with the provisions in force, particularly with respect to their use and
+disclosure.
+SECTION
+
+II:
+
+SPECIFIC PRINCIPLES FOR THE TREATMENT OF CERTAIN CATEGORIES OF
+
+PERSONAL DATA
+
+Article 40:
+It is forbidden to any collection and treatment revealing racial, ethnic or regional
+affiliation, political opinions, religious or philosophical beliefs, trade union
+membership, sex life, genetic or more data generally those relating to the health of
+the person concerned.
+
+27
+
+Article 41 :
+The prohibition laid down in the preceding article shall not apply to the following
+types of treatments when:
+1)
+Processing personal data relates to data which are manifestly made
+public by the data subject;
+2)
+The data subject has given his consent in writing, regardless of the
+medium, such treatment and in accordance with the legislation in force;
+3) The treatment of personal data is necessary to protect the vital interests of
+the data subject or of another person where the data subject is physically or
+legally incapable of giving consent ;
+4) Processing is necessary for the establishment, exercise or defense of legal
+claims. However, genetic data may only be processed to verify the existence
+of a genetic link under the administration of evidence in court, for the
+identification of a person, the prevention or suppression of an offense
+specific criminal ;
+5) Judicial proceedings or a criminal investigation is open;
+6) The treatment of personal data is necessary for reasons of public interest,
+particularly for historical, statistical or scientific ;
+7) The processing is necessary for the execution of a contract to which the
+data subject is party or performance to take steps at the request of the
+person concerned during the initiation ;
+8)
+The processing is necessary for compliance with a legal or regulatory
+obligation to which the controller is subject ;
+9) The processing is necessary for the performance of a task in the public
+interest or is made by a public authority or assigned by a public authority
+to the controller or a third party to whom the data are disclosed ;
+10) Processing is carried out within the framework of the legitimate activities
+of a foundation, association or any other non-profit organization with a
+political, philosophical, religious, fraternal or union. However, treatment
+must relate only to members of the body or to persons who have regular
+contact with her connection with its purposes and that the data are not
+disclosed to third parties without the consent of the persons concerned.
+Article 42:
+The processing of data relating to offenses, criminal convictions or security
+measures may be implemented by :
+1)
+Courts, public authorities and corporations managing a public service,
+acting within their legal powers ;
+2)
+Judicial officers for the strict requirements of carrying out the tasks
+entrusted to them by law.
+
+28
+
+Article 43 :
+Processing of personal data for the purposes of health character is legitimate
+only when:
+1) The person concerned has given his consent;
+2) It relates to data which are manifestly made public by the data subject ;
+3) Necessary to protect the vital interests of the data subject or of another
+person where it is physically or legally incapable of giving his consent;
+4) Necessary for the achievement of a goal set by or under the law ;
+5) Necessary for the promotion and protection of public health, including
+screening ;
+6) It is necessary for the prevention of a real danger or the suppression of a
+specific criminal offense ;
+7) It is necessary for the establishment, exercise or defense of legal claims ;
+8) It is necessary for the purposes of preventive medicine, medical diagnosis,
+the provision of care or treatment or the person concerned, or his parent or
+when the health care act in the interests of the person concerned. The data
+are processed under the supervision of a professional health care that is
+subject to professional secrecy.
+Article 33 of Decree :
+The file requests for review or approval of treatments personal data on genetic data and
+research in the medical field includes:
+1)
+
+The identity and address of the controller and the person responsible for the
+research, their titles, experience and duties, the categories of persons who will be
+called to implement the treatment and those who have access to data collected;
+
+2)
+
+The research protocol or relevant elements, including specifying the objective of
+the research, the categories of persons concerned, the method of observation or
+investigation chosen, the origin and nature of personal data collected and
+justification the use thereof, the duration and modalities of organization of
+research, the method of analysis;
+
+3)
+
+appropriate, opinions previously rendered by scientific bodies or ethical ;
+
+4)
+
+characteristics of the proposed treatment;
+
+5)
+
+where appropriate, scientific and technical justification of any request for
+waiver of the requirement of encoding data for the identification of stakeholders
+and the justification of any request for exemption from the prohibition of said
+data storage beyond the time required to search.
+
+Any modification of these elements is brought to the attention of the Commission of
+personal data.
+
+29
+
+Article 34 of Decree :
+The starting point of the period fixed by this provision was postponed to the date of receipt of
+additional information requested by the Commission of personal data when the file is
+incomplete.
+Article 431-26 Penal Code:
+When processing personal data have to end research in the field of health, shall be punished
+with the same penalties, anyone who has completed a treatment:
+1)
+
+without first individually informed persons on whose behalf the personal data is
+collected or transferred their right of access, rectification and opposition of the nature of
+the transmitted data and the recipients thereof as well as arrangements for their
+treatment, preservation and protection;
+
+2)
+
+despite the opposition of the person concerned, or when required by law, in the absence
+of informed and express consent of the person, or in the case of a deceased person,
+despite the refusal expressed by it in his lifetime.
+
+Article 44 :
+The personal data relating to health are collected from the person concerned. They
+can be collected from other sources only if the collection is necessary for the
+processing or that the person concerned is not able to provide the data itself.
+Article 35 Decree :
+Unless waived by the Commission of the personal data, the collection of information under
+Article 44 of the Law on personal data takes place under the following conditions:
+1)
+
+When personal data are collected directly from people interested in writing
+questionnaire thereof or if the covering letter is marked read this information;
+
+2)
+
+When personal data are collected orally, the person who conducts the survey give
+or previously sent to interested persons a document containing such information;
+
+3)
+
+Where the personal data were originally collected for a purpose other than the
+proposed treatment, the health professional responsible for its therapeutic inform the
+person concerned in writing.
+
+Article 45:
+The treatment of personal data carried out for purposes of journalism, research or
+artistic or literary expression is recognized when it is implemented solely for
+literary and artistic expression or exercise, on a professional basis, of activity
+journalist or researcher, in compliance with the ethical rules of the profession s s.
+Article 46 :
+The provisions of this Act shall not preclude the application of the laws relating to
+the press or by broadcasting and the Penal Code which stipulate the conditions for
+
+30
+
+exercising the right of reply and prevent, hinder, repair and, appropriate,
+penalizing offenses against privacy and reputation of individuals.
+Article 47:
+It is forbidden to carry out direct marketing using all means of communication
+using any form whatsoever, the personal data of an individual who has not
+expressed its consent to receive such surveys.
+Article 48 :
+No court decision involving assessment the behavior of a person cannot be based
+on automated processing of personal data intended to evaluate certain aspects of
+his personality.
+No decision which produces legal effects in respect of a person may be taken
+based solely on automated processing of personal data for defining the profile of
+the person concerned or to evaluate certain aspects of his personality.
+Are not regarded as taken based solely on automated processing of personal data,
+the decisions taken in the context of the conclusion or performance of a contract
+and for which the person concerned has been able submit its comments or those
+satisfying the demands of the person concerned.
+Article 49 :
+The data controller cannot transfer personal data to a third country if the state
+provides an adequate level of protection of privacy, freedom and fundamental
+rights of individuals with regard to the treatment of these data are or may be
+subject.
+Before any transfer of personal data to a third country, the controller must first
+inform the Commission of Personal Data.
+Before any processing of personal data from abroad, the Commission Personal
+Data must first verify that the controller provides an adequate level of protection
+of privacy, freedom and fundamental rights of individuals with regard to the
+treatment under this Act.
+The adequacy of the level of protection provided by a controller is assessed
+according including security measures which are applied thereto as provided in
+this Act, the characteristics of the treatment, such as its purpose, duration and the
+nature, origin and destination of the processed data.
+
+31
+
+Article 42 Decree :
+Pursuant to Article 49 of the Law on personal data, the controller enters in the manner set out
+in Article 28 of this Decree, the Commission personal data before the first data transfer to a
+third countries. Statement of the controller must specify :
+1)
+
+The name and address of the person submitting the data;
+
+2)
+
+The name and address of the recipient of the data;
+
+3)
+
+The name and the description of the file;
+
+4)
+
+Categories of personal data transferred;
+
+5)
+
+The people involved and their approximate number;
+
+6)
+
+The purpose of data processing carried out by the recipient;
+
+7)
+
+Mode and frequency of planned shipments;
+
+8)
+
+The date of the first transfer.
+
+Any change in the information reported by the controller must be declared to the
+Commission of personal data within fifteen working days.
+Article 50:
+The data controller may transfer personal data to a third country does not meet
+the conditions laid down in Article previous spot if the transfer is not massive
+and that the person to whom the data relate has expressly agreed to transfer or if
+the transfer is necessary for one of the following conditions :
+1) To safeguard the life of this person ;
+2) to safeguard the public interest;
+3) Compliance obligations for ensuring the establishment, exercise or defense
+of legal claims;
+4)
+Execution of a contract between the data controller and the person
+concerned, or to take steps at the request of the latter.
+Article 51:
+The Commission Personal Data may authorize, on the basis of a reasoned request,
+a transfer or a set of transfers of data to third countries which do not ensure an
+adequate level of protection, this when the controller provides adequate with
+respect to the protection of privacy, freedom and fundamental rights of the
+persons concerned and the exercise of the corresponding rights guarantees.
+Article 44 Decree :
+Commission of personal data establishes a list of states that have legislation on personal data
+equivalent and makes it available to anyone who wishes to transfer personal data to third
+countries. This publication does not relieve the controller of any of its responsibilities
+
+32
+
+Article 52:
+Any person acting under the authority of the controller or in the subcontractor and
+the subcontractor himself, and who has access to personal data must not process
+them except on instructions from the controller.
+SECTION III : INTERCONNECTION OF FILES CONTAINING PERSONAL DATA
+Article 53 :
+The interconnection of files referred to in section 22.3 of this Act within one or
+more legal entities managing a public service and whose aims correspond to
+different public interests should be subject to authorization by the Commission
+Personal Data.
+It is the same for treatments implemented by the State for the purpose of making
+available to users of the administration one or more remote services within the
+framework of e-government.
+The interconnection of files within individuals whose main purposes are different
+is also subject to Commission approval of Personal Data.
+Article 54 :
+The interconnection of files must achieve legal or statutory objectives of legitimate
+interest to those responsible for treatment. It cannot lead to discrimination or
+reduction of rights, freedoms and guarantees for the persons concerned or be
+accompanied by appropriate security measures and shall take into account the
+principle of relevance of data subject to interconnection.
+Article 55 :
+The application for leave to interconnection under section 22.3 of this Act includes
+any information :
+1) The nature of the personal data on interconnection ;
+2) The purpose for which interconnection is considered necessary ;
+3) The period for which interconnection is permitted ;
+4) Where applicable, the conditions and terms under the more effective
+protection of rights and freedoms, including the right to privacy of the
+persons concerned or third parties.
+Article 56 :
+The authorization may be renewed after a request from the controllers.
+Article 57 :
+The applications for leave to interconnection and interconnection authorizations
+are included in the repertoire of treatments mentioned in Article 16-4 of this Act.
+
+33
+
+CHAPTER IV
+: RIGHTS GRANTED TO THE PERSON WHOSE DATA
+SUBJECT TO TREATMENT
+FIRST SECTION: RIGHT TO INFORMATION
+Article 58:
+When personal data are collected directly from the data subject, the controller
+must provide it, at the latest, during the collection and whatever means and media
+used the following information:
+1) The identity of the controller and, where appropriate, his representative;
+2)
+The purpose or purposes of the processing for which the data are
+intended;
+3) Categories of data concerned;
+4) Or the recipients or categories of recipients to whom the data might be
+disclosed;
+5) Knowing if the answer to the questions are obligatory or voluntary, as well
+as the possible consequences of failure to reply ;
+6) Being able to ask not to be included in the file ;
+7) The existence of a right of access to data relating to and correction of data ;
+8) The duration of data retention ;
+9) If necessary, transfer personal data envisaged to abroad.
+Article 36 Decree :
+Those admitted in institutions or centers that are engaged in the prevention, diagnosis and
+treatment giving rise to the transmission of personal data to a treatment whose end medical
+research are aware of the particulars prescribed by Articles 58 and following of the law on
+personal data by submitting a document or by any other appropriate means. However, this
+information may not be issued if, for legitimate that the doctor appreciates reasons, the patient
+is left in ignorance of a serious diagnosis or prognosis. Exemptions from the obligation to
+inform individuals of the use of their data for research purposes Medical mentioned in the
+application for authorization to the Commission of personal data.
+Article 45 of Decree :
+The information to be provided by the controller, in accordance with Article 58 of the Law on
+personal data can be delivered by any means, including by:
+1)
+
+E-mail or on paper;
+
+2)
+
+Display or electronic form;
+
+3)
+
+Announcement in a suitable medium;
+
+4)
+
+Or during a personal interview.
+
+34
+
+Article 46 of Decree :
+If the data are collected by questionnaire, the following information must be listed on the
+questionnaire:
+1)
+
+The identity of the controller, or that of his representative;
+
+2)
+
+The aim pursued by the treatment;
+
+3)
+
+The compulsory or optional nature of the responses;
+
+4)
+
+Access, opposition, rectification and deletion rights.
+Article 47 of Decree :
+
+When the data were originally collected for another purpose, the controller shall inform the
+person concerned, unless it is already informed. When the controller is unable to do so, he must
+prove to the Commission of personal data.
+Article 59 :
+When personal data are not collected from the data subject, the information
+referred to in Article 58 of this Act shall be transmitted to that person at the time of
+data recording or, if their communication is envisaged, the later during the first
+communication.
+Article 60:
+The provisions of section 58 of this Act shall not apply:
+1) the data collected and used during treatment implemented on behalf of
+the State and the security interests of the State, defense, public safety or the
+object the enforcement of criminal convictions or security measures , to the
+extent that such limitation is necessary to meet the purposes of the
+processing;
+2)
+When the processing is necessary for the prevention, investigation,
+detection and prosecution of any offense;
+3)
+When treatment is necessary to take into account an important economic
+or financial interest of the State, including in, monetary budget areas,
+customs and taxation.
+Article 61 :
+Anyone using electronic communications networks must be informed clearly and
+comprehensively by the controller or his representative :
+1)
+The purpose of any action to access, by electronic transmission, the
+information stored in the terminal equipment connection, or to register, in
+the same way, information in the terminal equipment connection ;
+2) Means at its disposal to oppose it.
+
+35
+
+These provisions do not apply if access to the information stored in the terminal
+equipment of the user or the inclusion of information in the user equipment :
+1) Or has the exclusive purpose of enabling or facilitating electronic
+communication ;
+2) Is strictly necessary for the provision of a service online communication at
+the express request of the user.
+SECTION II : RIGHT OF ACCESS
+Article 62 :
+Any person proving his identity has the right to request, in writing, regardless of
+the medium, the data controller of personal data, to provide:
+1) Information to know and challenge treatment;
+2) Confirmation that personal data relating to him are or are not subject to
+this treatment;
+3) Communication in an accessible form of personal data concerning him as
+well as any available information as to the origin thereof;
+4)
+Information about the purposes of the processing, the categories of
+personal data processed and the recipients or categories of recipients to
+whom the data are disclosed ;
+5) Where applicable, information on transfers of personal data under
+consideration to a third country.
+Article 48 of Decree :
+Everyone has the right to be informed of the data concerning it, by sending a written request
+for access to information, signed and dated, regardless of the support request:
+1)
+
+Either the controller or his representative in Senegal or any of its agents or
+employees;
+
+2)
+
+Or subcontractor processing of personal data, which shall communicate the
+appropriate character, one of the persons mentioned in paragraph 1 of this
+Article.
+
+However, any improper application will be deemed inadmissible, either by the controller or
+by the Commission of personal data, in accordance with Article 66 of the law on personal
+data.
+Article 49 of Decree :
+The application referred to in Article 48 of this Decree shall contain : Name, surname, date of
+birth, nationality of the person concerned, and a photocopy of the identity card, passport or
+document in lieu thereof. The access to information request also contains and to the extent that
+the applicant has this information:
+
+36
+
+1)
+2)
+
+The circumstances or cause of making knowledge of disputed data and
+corrections may require ;
+The designation of the authority or department concerned.
+
+The Commission may request personal information to the person concerned any additional
+information it considers useful.
+Article 50 of Decree :
+Failing elements referred to in Article 49 of this Decree, the demand for access to information
+may be considered inadmissible. The response of the controller of the data must be made in
+writing.
+Article 51 Decree :
+If multiple controllers data jointly manage one or multiple files, the right of access to
+information can be exercised at each of them, unless one of them is considered responsible for all
+treatments. If the person sought is not authorized to disclose the information requested, it shall
+transmit the request to the appropriate person as soon as possible.
+Article 63:
+A copy of the personal data concerning him is issued to the person concerned at
+his request. The controller can make the issue of such copy to the payment of a
+sum not exceeding the cost of reproduction.
+If risk of concealment or disappearance of personal data, the person concerned
+may inform the Commission of Personal Data taking any measure to avoid such
+concealment or disappearance.
+Article 64:
+Any person who in the exercise of his right of access has serious reasons to assume
+that the data have been communicated are not consistent with the data processed
+may inform the Commission of Personal Data which makes the necessary checks.
+Article 65 :
+The right to access a patient is exercised by the patient himself or through a
+physician designated. In case of death of the patient, the spouse not legally
+separated and children, in the case of a minor, his parents may exercise through a
+doctor appointed by them, the right of access.
+Article 66 :
+The controller may oppose grossly unfair demands, including their number,
+repetitive or systematic. In case of dispute, the burden of proof of patent
+unreasonableness applications is the responsibility of the treatment to which they
+are addressed.
+
+37
+
+Article 67 :
+Notwithstanding Articles 62 and following of this law, when treatment interested
+in security, defense or public security, the right of access is exercised under the
+following conditions :
+1)
+The request is sent to the Commission on Personal Data who shall
+appoint one of its members who belong or have belonged to the State
+Council or the Supreme Court to conduct the necessary investigations. It
+may be another agent of the Commission on Personal Data attends. It is
+notified that the applicant has carried out the checks ;
+2) When the Commission Personal Data in accordance with the controller
+finds, that the communication data contained therein do not question its
+aims, the state security, defense or public safety, these data can be
+communicated to the applicant ;
+3) When treatment is likely to include information the disclosure of which
+would not put into question the purpose assigned to it, the regulatory act
+establishing the file may provide that such information may be
+communicated to the applicant by the file handler directly entered.
+Article 41 of Decree :
+Pursuant to Article 67 of the Law on personal data, when the controller opposes the
+communication to the applicant of all or part of the information concerning, rectification or
+deletion of such information, the Commission Personal data shall inform the person concerned
+of the audits. The Commission mentions this opposition personal data in its annual report.
+Article 53 of Decree :
+Equitable participation fee in favor of the Commission of personal data may exceptionally be
+requested when:
+1)
+
+Requested information has already been communicated to the applicant within six
+months preceding the application, and that it can justify a legitimate interest, such
+as the modification of said data;
+
+2) The submission of information causes a considerable amount of work for the
+Commission of personal data.
+The detailed rules for the fee shall be determined by decision of the Commission of personal
+data.
+Article 54 Decree :
+Pursuant to Article 65 of the Law on personal data, viewing data of a deceased person is
+granted when the applicant has established an interest in the consultation and no overriding
+interest of relatives of the died or third parties otherwise. Interest is established in case of close
+relationship or marriage with the deceased.
+
+38
+
+Article 55 of the Decree :
+At the conclusion of any audit, the Commission personal data can rectify, erase the personal
+data already processed or insert other. It can also prohibit disclosure of personal data or
+recommendations it deems necessary.
+Article 56 of Decree :
+Minutes prepared by the Commission of personal data shall specify the period after which the
+controller is required to have been discontinued or deficiencies found. At the expiration of this
+period, the controller concerned shall notify in writing to the said Commission of the action
+taken in the decisions that were taken.
+Article 57 of Decree :
+Commission of personal data has a period of four months from the date of notification to decide
+on any request for access to information. In case of request for additional information to the
+applicant, the period defined in this Article shall run from the date of receipt by the
+Commission of such personal data such information. When the Commission personal data seek
+advice from an authority exercising similar powers to his own in a third country, the same
+period runs from the receipt by said Commission the information requested.
+SECTION III : RIGHT OPPOSITION
+Article 68:
+Any individual has the right to oppose, for legitimate reasons that the personal
+data relating to him being processed.
+She has the right, on the one hand, to be informed before personal data are
+concerning for the first time to third parties or used on behalf of third parties for
+exploration and, secondly, to be expressly offered the right to object free of charge
+to such disclosures or uses.
+The provisions of the first paragraph of this Article shall not apply if the treatment
+meets a legal requirement.
+Article 58 of Decree :
+When personal data are collected by writing to the person concerned, the controller asks it on
+the document by which it collects data, if it wishes to exercise the right of objection under
+Article 68 of the law on personal data.
+Article 59 of Decree :
+When personal data is collected from the person other than in writing, the controller asks it if it
+wishes to exercise the right to object. In this case, the application must be achieved no later than
+
+39
+
+one month after the collection of these data by any technical means, which keeps evidence that
+the person concerned has had the opportunity to exercise his right to object. In the absence of
+communication of this document, the right of opposition applies right.
+Article 60 of Decree :
+When personal data are not obtained from the data subject, the controller asked, regardless of
+the medium, whether it wishes to exercise the right of opposition.
+Article 61 of Decree :
+When personal data are intended to be used by the controller for the purposes of prospecting,
+including commercial, the right of opposition may be exercised without any justification.
+Article 431-23 Penal Code:
+Whoever undertaken or to a processing personal data relating to an individual despite the
+opposition of the person in accordance with Article 68 of the Law on personal data, where
+treatment meets marketing purposes including commercial, or where the opposition is based on
+legitimate grounds, shall be punished by imprisonment of one (1) year seven (7) years and a
+fine of 500,000 francs to 10 million francs or the one of these two penalties.
+SECTION IV : RIGHT OF RECTIFICATION AND DELETION
+Article 69 : Any person proving his identity may require the data controller that
+are, as appropriate, rectified, completed, updated, deleted or locked the personal
+data relating to him which is inaccurate, incomplete, equivocal, or whose
+collection, use, disclosure or storage is prohibited.
+When he so requests in writing, regardless of the medium, the controller must
+justify, without cost to the applicant, it has made the operations required under
+the preceding paragraph within a period of one (1) month after the registration of
+the request.
+In case of dispute, the burden of proof is on the controller to which exercise of the
+right of access.
+If data has been transferred to another party, the controller must perform the
+necessary procedures to notify him of the transactions it conducted in accordance
+with the first paragraph.
+Article 52 Decree :
+Requests for rectification, cancellation or prohibition of personal data or communication of an
+opposition based on the provisions of the law on personal data, shall be submitted to the same
+
+40
+
+persons mentioned in Article 48 of this Decree. Applications under this section shall be
+addressed to the persons concerned in accordance with Article 28 of this Decree.
+Article 62 of Decree :
+When a person makes an application to rectify or delete data relating to the controller or the
+Commission of personal data must notify in writing the arrangements.
+CHAPTER V: OBLIGATIONS OF RESPONSIBLE FOR TREATMENT OF
+PERSONAL DATA
+FIRST SECTION: DUTY OF CONFIDENTIALITY
+Article 70 :
+The treatment of personal data is confidential. It is performed only by persons
+acting under the authority of the controller and only on his instructions.
+To carry out the treatment, the manager must choose people with, in terms of
+preserving the confidentiality of data, all warranties as technical and legal
+knowledge of personal integrity. E OMMITMENT written persons required to
+process such data to comply with this Act shall be signed.
+The contract between the subcontractor to the controller includes an indication of
+the obligations of the subcontract for the protection of the security and
+confidentiality of data and provides that the subcontractor can act only on
+instructions from treatment.
+Article 63 of Decree :
+The controller of personal data ensures the confidentiality, availability and accuracy of data
+collected in order to guarantee the appropriate protection of data processed
+SECTION II: SAFETY REQUIREMENT
+Article 71:
+The controller shall take all necessary precautions regarding the nature of the data
+and, in particular, to prevent them from being distorted, damaged, or that
+unauthorized parties have access. It shall, in particular, any measure to:
+1) Ensure that the use of an automated data processing, authorized persons
+have access only to personal data under their jurisdiction;
+2) Guarantee that can be verified and ascertained the identity of the third
+parties to whom personal data may be transmitted;
+
+41
+
+3)
+
+guarantee that can be checked and recorded a posteriori identity of
+persons having access to the information system and what data has been
+read or entered into the system, when and by whom ;
+4)
+prevent any unauthorized person from having access to premises and
+equipment used for data processing;
+5)
+Prevent data media from being read, copied, modified, destroyed or
+removed by unauthorized persons;
+6) Prevent the unauthorized use of any data in the information system and
+introduction unauthorized inspection, modification or deletion of stored
+data;
+7)
+Prevent processing systems data can be used by unauthorized persons
+using data communication equipment people;
+8) Prevent, in the data communication and transport of data media, the data
+can be read, copied, modified or deleted in an unauthorized manner;
+9) Safeguard data by creating backup copies of security ;
+10) Cool and if necessary convert data for long-term storage.
+Article 65 of Decree :
+The controller of personal data takes security measures to protect computer systems and
+networks against the risks:
+1)
+
+Accidental or unauthorized use of personal data destruction;
+
+2)
+
+Technical errors ;
+
+3)
+
+Forgery, theft or misuse of personal data.
+Article 431-21 Penal Code:
+
+Whoever undertaken or to a processing personal data without implementing the measures
+prescribed in article 71 of the Law on personal data above, shall be punished by imprisonment
+of one (1) year seven (7) years and a fine of 500,000 francs to 10 million francs or one of these
+penalties.
+SECTION III: KEEPING REQUIREMENTS
+Article 72:
+The personal data may not be retained beyond the time necessary in order to be
+processed for historical, statistical or scientific purposes.
+Article 66 of Decree :
+At the expiration of the period of retention provided for treatment relating to personal data,
+said data must be destroyed, erased, deleted or archived as provided by the laws in force
+concerning archiving of administrative documents.
+
+42
+
+Article 73 :
+Without the express consent of the data subject, the personal data collected by
+providers of certification services to the needs of the rescue and conservation
+certificates related to electronic signatures must be directly from the person
+concerned and can be processed only for the purposes for which they were
+collected.
+SECTION IV OBLIGATION TO SUSTAINABILITY
+Article 74 :
+The controller shall take all appropriate measures to ensure that personal data
+processed can be exploited regardless of the support used. It should particularly
+ensure that the evolution of technology will not be an obstacle to exploitation.
+CHAPTER VI
+
+: CRIMINAL PROVISIONS
+
+Article 75 :
+Infringements of the provisions of this Act are defined and punishable under the
+Penal Code and the Law on cybercrime.
+CHAPTER VII
+
+TRANSITIONAL AND FINAL PROVISIONS
+
+Article 76:
+As a transitional measure, the data processing made on behalf of the State, a
+public institution, a local authority or a legal person in private law and managing
+a public already created services are not subject that a declaration to the
+Commission Personal Data in accordance with Article 18 of this Act.
+Article 77:
+As of the date of entry into force of this Act, all data processing shall meet the
+requirements thereof, within the time hereinafter :
+1) two (2) years for data processing made on behalf of the State, a public
+institution, a local authority or a legal person in private law managing a
+public service
+2) one (1) year for the treatment of personal data carried out on behalf of
+persons other than those subject to the provisions of the preceding
+paragraph.
+Article 78 :
+Due to the specificity of the material, the application of this Act to the law
+establishing the national identity card scanned Senegalese measures will be a
+special regulation.
+
+43
+
+The modalities of application of this Act shall be made by decree.
+
+Made in Dakar, January 25, 2008
+
+Abdoulaye WADE
+By the President of the Republic
+Prime Minister
+Sheikh Hadjibou SOUMARE
+
+44
+
+
