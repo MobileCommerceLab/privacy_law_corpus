@@ -6,7 +6,7 @@ import openpyxl
 import statistics
 
 workbook = Workbook()
-workbook.save(filename="GPI-word-count-original.xlsx")
+workbook.save(filename="GPI-word-count-native-english.xlsx")
 
 wb = openpyxl.Workbook() 
 sheet = wb.active
@@ -53,8 +53,8 @@ for i in range(0,len1):
     c5 = sheet['C'+str(i+2)]
     c5.value = count
 
-workbook.save(filename="GPI-word-count-original.xlsx")
-wb.save("GPI-word-count-original.xlsx")
+workbook.save(filename="GPI-word-count-native-english.xlsx")
+wb.save("GPI-word-count-native-english.xlsx")
 
 
 ####WORD COUNT EXCEL FILE FOR TRANSLATED DOCUMENTS####
