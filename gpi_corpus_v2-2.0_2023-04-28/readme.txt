@@ -35,7 +35,8 @@ The corpus download contains the following subdirectories and files:
                 - [english_translated_text_files]: TXTs of all GPIs that were not originally found in English and required translation to English, using a third party translation service. 
                 - [original_english_text_files]: TXTs of all GPIs that were originally in English.
             - [non_english_text_files]: TXTs of GPIs that were not originally in English, provided in their original respective languages.
-    - [gpi_corpus_metadata.csv]: Metadata for GPIs.
+    - [gpi_corpus_metadata.csv]: Metadata for GPIs in CSV format.
+    - [gpi_corpus_metadata.xlsx]: Metadata for GPIs in excel format.
     - [readme.txt]: This file; documentation for the corpus.
 
 Metadata Columns
@@ -48,6 +49,9 @@ Notes: There are documents included in the corpus that apply to more than one co
 
 Key Law Original Title
 Column Description: This column contains the original language title of the document described in this record. In the case of documents originally presented in English, the English title is presented here.
+
+Key Law Corpus Identifier
+Column Description: This column contains the file name of the document present in the corpus.
 
 Key Law English Translated Title
 Column Description: This column contains the English language translated title of the document described in this record, if the original language of this record is one other than English. 
