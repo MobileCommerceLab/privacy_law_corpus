@@ -2,7 +2,7 @@ Order of Running the Code:
 ---------------------------
 
 1. First run the File-Chunking.py code on the files in the corpus. A new set of files will be generated and will be saved into the path you have given
-2. Run the NLTK code now, with the .txt files generated in the previous step as input files
+2. Run the NLTK-Topic-Modeling.py code now, with the .txt files generated in the previous step as input files
 3. Run the NLTK-Output-Formatting.py code on the NLTK output file. The topics will be formatted neatly, and will be written into a .txt file
 
 
