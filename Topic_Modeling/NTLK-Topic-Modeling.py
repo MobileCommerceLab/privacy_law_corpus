@@ -38,14 +38,14 @@ def preprocess_text(text):
 
 ### Read all the names of the text documents from the given path and stores the "path+filename.txt" values in doc
 docs =list()
-p1="F:/Native_English_Documents"
+p1="F:/Native_English_Documents"  ## Change Path
 dir_list_1 = os.listdir(p1)
 len1 = len(dir_list_1)
 for i in range(0,len1): #len1):
     path = p1 + "/" + dir_list_1[i]
     docs.append(str(path))
 
-p2="F:/Translated_English_Documents"
+p2="F:/Translated_English_Documents"  ## Change Path
 dir_list_2 = os.listdir(p2)
 len2 = len(dir_list_2)
 for i in range(0,len2): #len1):
@@ -82,7 +82,7 @@ import pyLDAvis
 
 # Visualize the topics
 pyLDAvis.enable_notebook()
-LDAvis_data_filepath = os.path.join('F:/ldavis_report_'+str(num_topics))
+LDAvis_data_filepath = os.path.join('F:/ldavis_report_'+str(num_topics))  ## Change path
 
 ## Statement must be true for the output report to be generated
 if 1 == 1:
@@ -92,5 +92,5 @@ if 1 == 1:
 # load the pre-prepared pyLDAvis data from disk
 with open(LDAvis_data_filepath, 'rb') as f:
     LDAvis_prepared = pickle.load(f)
-pyLDAvis.save_html(LDAvis_prepared, 'F:/ldavis_report_'+ str(num_topics) +'.html')
+pyLDAvis.save_html(LDAvis_prepared, 'F:/ldavis_report_'+ str(num_topics) +'.html')  ## Change Path
 LDAvis_prepared
