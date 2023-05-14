@@ -191,7 +191,7 @@ print("location:",location)
 print("contact",contact)
 print("miscellaneous",misc)
 
-total = len1/100
+total = (len1+len2)/100
 final_graph_list = [finance/total, work/total, health/total, biometric/total, genetic/total, bio/total, race/total, belief/total, tech/total, tracking/total, govt/total, location/total, contact/total, misc/total]
 
 import matplotlib.pyplot as plt
