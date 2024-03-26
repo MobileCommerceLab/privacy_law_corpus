@@ -1,18 +1,18 @@
-Government Privacy Instructions (GPI) Corpus Manual V1.0 Release – June 20, 2022 
+Priavcy Law Corpus v2.0 – March 26, 2024
 
 Usage Information
 
 The corpus metadata is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic license (CC BY-NC-SA 2.0). Inquiries about commercial licensing should be directed to Prof. Shomir Wilson (shomir@psu.edu). If you use the corpus (i.e., the collection of documents or the metadata) toward a publication, you must cite the following paper:
 
-Sonu Gupta, Ellen Poplavska, Nora O'Toole, Siddhant Arora, Thomas Norton, Norman Sadeh, and Shomir Wilson. (2022). Creation and Analysis of an International Corpus of Privacy Laws. arXiv preprint arXiv:2206.14169.
-URL: https://arxiv.org/abs/2206.14169
+Creation and Analysis of an International Corpus of Privacy Laws. Sonu Gupta, Geetika Gopi, Harish Balaji, Ellen Poplavska, Nora O'Toole, Siddhant Arora, Thomas Norton, Norman Sadeh, and Shomir Wilson. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), May 20-25, 2024.
 
-The above paper is also important reading for understanding the structure and contents of the corpus.
+The above paper is also important for understanding the structure and contents of the corpus.
 
 The corpus is provided as-is, without guarantees of reliability or completeness. For questions about the corpus, please contact Prof. Shomir Wilson (shomir@psu.edu). 
 
 Version History
 
+[March 26, 2024]: This 2.0 release of the corpus contains many updates to the corpus contents in conjunction with the LREC-COLING 2024 paper about it. The name has also changed, from the Government Privacy Instructions Corpus to the Privacy Law Corpus.
 [June 20, 2022]: The first release (V1.0) of the GPI Corpus, corresponding with imminent release of the ArXiv paper.
 
 Overview
