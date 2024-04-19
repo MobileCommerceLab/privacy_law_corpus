@@ -1,0 +1,499 @@
+Français
+
+
+
+Search priv.gc.ca
+
+For individuals
+Home
+
+
+
+Privacy topics
+
+For businesses
+
+
+Identities
+
+
+
+For federal institutions
+
+Report a concern
+
+OPC actions and decisions
+
+About the OPC
+
+Identi*cation and authentication
+
+Table of Contents
+
+Guidelines for identi.cation and authentication
+
+Identi/cation and Authentication: A
+Primer
+
+June 2016
+
+Identity, Identity Attributes, and
+Identi/ers
+
+These guidelines are intended to help organizations subject to the Personal Information Protection and
+Electronic Documents Act (PIPEDA) identify and authenticate individuals in a manner that balances the right
+to privacy and protection of personal information with the need of organizations to collect, use and disclose
+personal information for legitimate purposes.
+
+Identi/cation
+Authentication and Authentication
+Factors
+
+Trust is an essential component of Canada's economy and the global digital economy. Mutually bene*cial
+interactions between organizations and individuals serve to engender that trust.
+
+Assurances and Authorization
+
+Whether in the physical world or online, many organizations develop processes to manage their
+interactions with individuals. As these processes often involve the collection, use and disclosure of
+personal information, organizations are responsible for treating that personal information with care and for
+protecting it in compliance with Canada's privacy laws.
+
+Guidelines for Identi/cation and
+Authentication
+Only identify when necessary
+Determine what identity attributes are
+necessary to authorize a transaction
+Inform individuals and obtain the
+appropriate form of consent before
+identi/cation
+Only authenticate when necessary
+Ensure the level of authentication is
+commensurate with risks
+Ensure employees are properly trained
+Maintain appropriate transaction records
+Continually assess threats and mitigate
+risks
+Protect personal information
+Rely on trusted identity documents or
+credentials
+
+The Personal Information Protection and Electronic Documents Act (PIPEDA) is Canada's private sector
+privacy law. It requires organizations engaged in commercial activities to collect, use or disclose personal
+information with the knowledge and consent of the individual, except in speci*c circumstances. It requires
+organizations to specify the purposes of collecting personal information and limit collection and use to
+those purposes. Organizations are also required to protect personal information with appropriate security
+safeguards.
+Identi*cation and authentication processes can contribute to mutually bene*cial interactions and the
+protection of privacy but only if they are appropriately designed. An organization needs enough
+information about an individual to authorize a legitimate transaction, but needs to ensure that it does not
+collect, use, retain or disclose personal information that is not necessary for that purpose. Requiring
+individuals to unnecessarily go through identi*cation and/or authentication processes, or implementing
+overly cumbersome processes, can not only be privacy intrusive but can work against mutually bene*cial
+interactions.
+This document is intended to help organizations devise methods of identifying and authenticating
+individuals in ways that respect the fair information practices in PIPEDA. It is intended to replace the
+Guidelines for Identi*cation and Authentication the OPC released in 2006.
+By respecting individuals' personal information and protecting privacy, we hope that organizations will
+continue to contribute to mutually bene*cial interactions, while further strengthening trust in Canada's
+economy, particularly our increasingly digital economy.
+
+Identi.cation and Authentication: A Primer
+
+Rely on trusted parties when
+outsourcing identity management
+
+The terms identiCcation and authentication are frequently used interchangeably but in fact mean different
+things. Put very simply, identi*cation involves a claim or statement of identity: "I am John Doe," "I am the
+customer associated with this account." Authentication is a veri*cation of that claim.
+
+Permit individuals to control their
+identi/cation and authentication
+information
+Consider the use of biometrics carefully
+
+Identity, Identity Attributes, and Identi.ers
+An individual's identity can be de*ned as the sum of all the characteristics that make up who an individual
+is, such as their name, birthday, where they live or other information. These characteristics are called
+identity attributes.
+
+Related content
+
+An identity attribute can also be an identi*er. For example, an individual may be referred to by their name
+or by a number that is assigned to them. An identi*er may be common (i.e., more than one person can
+have the same birth date) or it may be unique in that it only pertains to one individual.
+
+Guidance on Managing Family
+Member/Household Accounts
+
+These concepts, and their distinctions, are important to keep in mind when considering how to develop
+and implement proper identi*cation and authentication processes.
+
+Photo Identi*cation Guidance
+
+Identi.cation
+
+Settlement between the Privacy
+Commissioner of Canada and Canad
+Corporation of Manitoba Ltd.
+
+Identi*cation typically occurs when an individual *rst enrolls or registers with an organization. Establishing
+identity is the process of linking an identi*er to an individual so that he or she can be remembered.
+Identifying an individual allows an organization to ensure, for example, that an individual's transactions are
+associated with their account, and that their records are retrievable.
+Depending on legal requirements and the nature of a business, the identi*er that is attached to the
+individual need not be a "real world" identi*er such as a name (e.g., John Doe). It could be an identi*er
+created for the purposes of the interaction (e.g., customer A167). Both are identity attributes used as
+identi*ers to identify an individual - but they are distinguishable by how much they reveal about an
+individual's actual identity.
+Some transactions (face-to-face cash retail sales, for example) may be concluded in complete anonymity.
+Others may require an individual to divulge only some information or identity attributes. In some cases,
+legal requirements may require that the organization know exactly with whom it is dealing (i.e., banks and
+other organizations subject to the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, for
+example).
+
+Authentication and Authentication Factors
+When someone presents themselves to an organization, or their website, and claims to be a customer with
+whom the business has a relationship, the organization may need to authenticate that claim.
+There are different ways to authenticate an individual's identity. Those are:
+Something that is known to the individual (for example, a password, a personal identi*cation number
+or PIN, an account number, favourite colour, name of *rst pet);
+Something that the individual has (for example, a bankcard, token, identity card, public-key digital
+certi*cate); and,
+Something that the individual is (or does) (for example, a biometric, such as a facial image, retina
+scan, voice print or gait).
+In some cases, one of these factors may be used alone to authenticate an individual; in others,
+combinations may be used. For example:
+Access to e-mail using a password: This represents a single-factor authentication process that relies
+on something the individual knows.
+Access to a physically secure area using an identity card with an embedded chip (a smartcard) and a
+hand-scan biometric: This represents a two-factor authentication process: it relies on something the
+individual has (the smartcard) and something the individual is (the biometric).
+Access to a secure area using a valid magnetic strip card, a four-digit PIN code and a hand-scan
+biometric: This represents a three-factor authentication process: it relies on something that the
+individual has (the card), something that the individual knows (the PIN), and something that the
+individual is (the biometric.)
+Authentication based on two elements from the same category, for example an account number and a
+password-both things that someone knows-is more appropriately referred to as multi-layer authentication,
+not multi-factor authentication.
+In addition to the authentication factors listed above, other data such as behaviours or actions that an
+individual takes (for example, logs on to their account from a certain computer, uses their credit card in a
+certain location, or conducts web searches) may assist in authenticating an individual.
+
+Assurances and Authorization
+Identi*cation and authentication are fundamentally about the management of risk:
+The risk to the organization of, through bad identi*cation or authentication practices, either denying
+access to a legitimate customer or giving access to an impostor; or,
+The risk to individuals that their personal information is lost or inappropriately disclosed, and that
+their identity, *nances, or privacy are compromised.
+Organizations need assurances that individuals legitimately possess the necessary identity attributes to
+complete a legitimate transaction. Similarly, individuals need to be assured that only the right people are
+accessing their account, or conducting transactions using their identi*cation, whether face-to-face or
+online.
+Once an individual's identity is properly authenticated, or veri*ed, the organization may authorize a
+transaction.
+
+Guidelines for Identi.cation and Authentication
+There is no one-size-*ts-all approach to identi*cation or authentication. As stated above, these guidelines
+are intended to help organizations develop appropriate identi*cation and authentication processes.
+Although the guidelines are intended to address identi*cation and authentication of individuals by
+organizations, organizations should also have appropriate processes in place to authenticate employees
+who have access to customer or client personal information.
+
+Only identify when necessary
+If there is no legal requirement to do so, or the organization does not intend to maintain an ongoing
+relationship with an individual, it likely does not need to identify an individual.
+Organizations should ask themselves if they need to collect, store, and/or share personal information to
+authorize transactions. In other words, is identi*cation necessary to ful*ll the transaction? Can the
+transaction be authorized in a way that is just as secure without collecting any personal information?
+
+Case in Point
+In PIPEDA Case Summary #2008-396, the personal information collection and recording practices
+exceeded what was required to verify age and permit entry into the premises. Also see the Summary
+of the Settlement for this case.
+
+Should organizations determine that identi*cation is necessary for their purposes, it is also important to
+consider for how long personal information should be retained and how it should be destroyed when it is
+no longer required for those purposes. See the OPC's Principles and Best Practices for Personal
+Information Retention and Disposal for further details.
+
+Determine what identity attributes are necessary to authorize a transaction
+If an organization does determine that it needs to identify individuals to authorize transactions, the next
+question to ask is: what is the minimum amount of information required to ful*ll that purpose?
+Organizations should ask themselves whether the transaction could be authorized in a way that is secure
+without collecting unnecessary personal information. For example, rather than collecting and storing a
+person's full date of birth, a partial date of birth or attestation that someone is over a certain age may be
+all that is required.
+It is also important to avoid, where ever possible, using numbers such as a driver's licence number or
+social insurance number as an identi*er as they were created for different purposes. For more information,
+see our Guidelines on the collection of driver's licence numbers in the retail sector and our Best practices
+for the use of Social Insurance Numbers in the Private Sector.
+
+Inform individuals and obtain the appropriate form of consent before
+identi.cation
+Identifying individuals without their knowledge or consent limits their control over their personal
+information and is contrary to the law. Organizations should therefore seek to inform individuals why their
+information is being collected.
+Consent is strongly tied to the principle that information should only be used for the purposes for which it
+was collected. If an individual provides personal information for identi*cation or authentication purposes,
+and it is envisioned that that information will be used for other purposes-such as personalizing or
+enhancing the customer experience, targeted advertising, communicating product updates, or engaging in
+other forms of relationship building-individuals should be informed of those purposes and their consent
+obtained before or at the time of collection. In many instances, individuals should also be able to obtain
+the service for which they signed up without having to agree to these other uses.
+Advances in technology have led to newer, less transparent ways of identifying individuals. For example, by
+analyzing metadata-data about data-individuals may be identi*ed without them directly providing
+information about themselves. (See the OPC's Legal and Technical Overview of Metadata and Privacy).
+Metadata could be collected through cookies or web beacons (See the OPC's Frequently Asked Questions
+on Cookies); device *ngerprinting which involves collecting enough information about a device to uniquely
+distinguish it from other devices; or signals monitoring, which uses cellular, Wi-Fi, or Bluetooth signals to
+uniquely distinguish a device and monitor its location. Since a device is typically associated with the
+individual who owns or uses it, such technologies can also be used to identify individuals without them
+being aware.
+Without informing individuals or obtaining their consent, such activities may be viewed as being more akin
+to surveillance and pro*ling than promoting mutually bene*cial interactions that build trust in Canada's
+economy.
+For guidance on different ways of obtaining consent, depending on the circumstances, please refer to the
+OPC's Guidelines for Online Consent.
+
+Only authenticate when necessary
+An individual should only be authenticated by an organization when it is necessary for the purposes of the
+transaction. Even if there is a preexisting relationship between an organization and an individual (i.e., the
+individual has gone through the identi*cation process), their identi*cation may not need to be veri*ed in
+every instance.
+If an individual does need to be authenticated, personal information should only be disclosed to that
+person once the organization is assured that the individual is who they say they are.
+
+Case in Point
+In PIPEDA Case Summary #2003-155, the transaction did not require authentication and personal
+information was inappropriately disclosed.
+
+Ensure the level of authentication is commensurate with risks
+The stringency of authentication processes should be commensurate with the risks to the organization as
+well as to the individual. The higher the risks the higher the assurances an organization will likely need to
+authorize a transaction. As such, the use of more authentication factors or layers may be appropriate. For
+example:
+A simple single-factor authentication process may be appropriate to allow an individual to obtain
+access to voice mail or to check the account balance of a loyalty program;
+Obtaining an account balance for a utility bill may require an account or membership number and a
+numeric access code, (i.e., multi-layer single-factor authentication); or,
+Financial services that permit the issuing of payment instructions and making transfers to thirdparties may require a multi-factor or multi-layer authentication process.
+
+Case in Point
+In PIPEDA Case Summary #2002-40, it was found that the collection of additional information was
+not necessary to establish identity to limit *nancial risk.
+In PIPEDA Case Summary #2009-012, it was found that additional information could have been
+collected to verify identity and prevent identity theft.
+In PIPEDA Case Summary #2003-185, the collection of several authentication factors was
+reasonable for an organization that handled sensitive cargo.
+
+While the number of authentication factors is important so is their quality. Authenticators should not be
+easily replicated or spoofed. Processes that use commonly known or easily discoverable identity
+attributes (i.e., birth dates), or one-factor authentication, are more easily taken advantage of by persons
+who know the individual.
+
+Case in Point
+In PIPEDA Case Summary #2012-006, a family member who lacked the authority to modify the
+account was able to do so by impersonating his stepfather.
+
+Organizations should also avoid weak authentication processes, by requiring, for example, passwords that
+are difcult to guess.
+
+Ensure employees are properly trained
+According to Principles 4.1.4 and 4.7.4 of PIPEDA organizations are required to train staff about the
+organization's privacy policies and practices, and to make their employees aware of the importance of
+maintaining the con*dentiality of personal information.
+As such, organizations should ensure that all customer service representatives, data processors, and all
+other employees who have access to personal information receive appropriate training on the importance
+of protecting customers' personal information, including the importance of protecting it from unauthorized
+access and disclosure. Organizations should provide ongoing training on identi*cation authentication
+policies and processes.
+
+Case in Point
+In PIPEDA Case Summary #2007-381, a fraudulent transaction could have been prevented with better
+employee training, as well as proper transactions records.
+
+Maintain appropriate transaction records
+The authentication process should maintain reliable audit records of authentication transactions including
+the date, time and the outcome. Maintaining such records can assist in assessing risk, as well as
+demonstrating compliance with applicable privacy laws. The level of detail in the audit logs, as well as the
+retention period for data, should regect the risks associated with the information or service. Audit records
+should record attempted and failed authentications, but should not contain the actual authentication
+information (i.e., passwords).
+As well, audit records need to be protected since they can create data trails that can reveal information
+about the individual. Such metadata, when linked with other identifying information, could constitute
+personal information under PIPEDA. Audit logs should therefore be treated with the same protections as
+other personal information.
+
+Continually assess threats and mitigate risks
+Organizations should regularly reassess risks and threats for each service delivery touch point and deploy
+appropriate risk mitigation measures, including adjusting the strength of authentication processes, to
+address changing threats. This entails keeping abreast of changes in business practices and technologies
+that either strengthen existing authentication processes or undermine them.
+For example, organizations should have systems and procedures in place to address man-in-the-middle
+attacks where a fraudulent actor intercepts communication between an organization and an individual.
+Organizations should also have plans in place to address phishing, where a malicious actor attempts to
+trick an individual into thinking that he/she is interacting with a real organization.
+In addition to the due diligence required of organizations to mitigate risk, it is also important that
+individuals play a part in protecting their personal information by maintaining up-to-date anti-virus, antispam, and *rewall programs, and by not sharing their PINs or passwords. At the same time, organizations
+should not overlook more conventional low-tech threats.
+
+Case in Point
+In PIPEDA Case Summary #2012-004, an imposter used social engineering techniques to gain
+access to an account.
+PIPEDA Case Summary #2007-372 demonstrates the importance of adapting policies and practices
+to mitigate new risks and ensuring employees are properly trained and follow customer
+authentication procedures in order to adequately protect personal information.
+
+Protect personal information
+Organizations should have policies and practices in place to manage risks to the personal information they
+hold. Security safeguards must take into account the sensitivity of the personal information and the risks
+associated with it. For more information see our Securing Personal Information Self-Assessment Tool.
+Given the potentially sensitive nature of identity information, organizations should also have a plan to
+notify individuals should there be a security breach so that those individuals can take the necessary steps
+to protect themselves from identity theft. For more information see Respond to a privacy breach at your
+business.
+It is important to note that S-4 (The Digital Privacy Act) received royal assent in June 2015 and that the
+amendments dealing with breach reporting, noti*cation and recordkeeping will be brought into force once
+the related regulations outlining speci*c requirements are developed and in place.
+
+Rely on trusted identity documents or credentials
+As a means of authentication, identity documents or credentials (for example, identity cards, drivers'
+licences, passports, etc.) can be used with more con*dence when their genuineness can be veri*ed. In
+general, the issuer of the document is in the best position to assess the appropriate reliance to place on a
+credential.
+Ideally, they should only be used for their original intended purpose. In other situations, an organization
+should only rely on them when it has some assurance of the integrity of the issuance process. For
+example, relying on a driver's licence from a foreign country may entail more risks than relying on a licence
+issued in Canada. Organizations may also rely on e-credentials or tokens from trusted sources, preferably
+if they have already entered into agreements with them.
+
+Rely on trusted parties when outsourcing identity management
+Under PIPEDA, an organization is responsible for personal information under its control, including
+information that has been transferred to a third party for processing.
+Therefore, in situations where an organization outsources identi*cation or authentication functions to a
+third party, primary responsibility for ensuring the adequacy of the processes remains with the
+organization providing the service to the individual. This means that the organization remains accountable,
+through contractual or other means, for ensuring that identi*cation and authentication processes meet its
+requirements and reliably protects its customers' personal information.
+Organizations that outsource identity management to third parties should inform their customers' of this
+practice. Third party organizations that act as identity management providers should also collect, use or
+disclose personal information in accordance with these guidelines.
+
+Permit individuals to control their identi.cation and authentication
+information
+Organizations should offer individuals options to manage their identi*cation and authentication
+information. When possible, individuals should be allowed to choose their:
+Own identi*er and should not be required to only use their name. However, there may be situations,
+for example, when opening a bank account, where organizations are required to collect speci*c
+information and the use of a nickname or other alternative identi*er is not possible;
+Passwords or PINs, including those that exceed a standard minimum length and complexity; and,
+Questions and answers where personal preferences are used for authentication.
+Where reasonable and appropriate in the circumstances, organizations should also provide enhanced
+authentication processes to individuals who request them.
+
+Consider the use of biometrics carefully
+Before considering the use of biometrics (such as automated facial recognition technology, retina scans,
+*ngerprints, hand-scans) in their identity management systems, companies should consider whether they
+are necessary, effective, and proportional to the potential privacy risks, and whether there is a less privacy
+invasive way to identify or authenticate an individual. See Data at your Fingertips: Biometric and the
+Challenges to Privacy for an overview of privacy issues related to biometrics.
+Although they can be strong identi*ers (i.e., a *ngerprint is a unique and persistent identi*er that
+corresponds to one individual the vast majority of times) they are far from being a panacea. For example,
+faces change over time, *ngerprints can be worn down, and a person's gait can be altered by an accident
+or injury. Depending on how unique and persistent a biometric is, and how effective the technology used is
+at data matching, automated recognitions systems may produce false-positives or false-negatives.
+Unlike a password, if a biometric is stolen or compromised it is very difcult, if not impossible, to change. If
+there is a risk that a biometric could be compromised, it should not be used for authentication on its own it should be used with another authenticator, such as something only the individual has or knows.
+When appropriate, biometric information should be locally stored (i.e., on a device) rather than in a central
+database. Centralized storage heightens the risk of data loss or the inappropriate cross-linking of data
+across systems. Local storage, such as mobile phones or smart cards, by contrast, gives individuals more
+control over their personal information.
+By its very nature biometric information is sensitive information and should be protected by appropriate
+safeguards, including for example, encryption.
+
+Case in Point
+In PIPEDA Report of Findings # 2011-012, the immediate transformation of a biometric into an
+encrypted binary template rendered the biometric difcult to interpret by other parties or applied to
+other purposes. The raw data-the biometric image-was not retained.
+In PIPEDA Case Summary #2004-281, a biometric was converted into "a matrix of numbers that
+represent the behavioural and physical characteristics of the way the individual speaks." The
+representations were stored in a secure database and access was highly restricted.
+
+Organizations should always seek explicit consent to collect biometric information and give individuals the
+choice not to use their biometric information for identi*cation or authentication purposes when there are
+reasonable alternatives.
+
+Report a problem or mistake on this page
+
+Was this page helpful?
+
+Date modi*ed: 2016-06-22
+
+About the OPC
+
+OPC news
+
+Your privacy
+
+Contact us
+
+The Privacy Commissioner of
+Canada is an Agent of Parliament
+whose mission is to protect and
+promote privacy rights.
+
+Get updates about the OPC’s
+announcements and activities, as
+well as the events in which we
+participate.
+
+We respect your privacy
+
+If you have a question, concerns
+about your privacy or want to *le a
+complaint against an organization,
+we are here to help.
+
+Who we are
+
+News and announcements
+
+What we do
+
+Privacy events
+
+OPC operational reports
+
+Speeches
+
+Publications
+Working at the OPC
+
+Read our Privacy policy and Terms
+and conditions of use to *nd out
+more about your privacy and rights
+when using the priv.gc.ca website or
+contacting the Ofce of the Privacy
+Commissioner of Canada.
+
+Contact the OPC
+
+Stay connected
+
+Transparency
+
+! OPC Blog
+
+Proactive disclosure
+
+" OPC LinkedIn
+# OPC RSS feeds
+$ OPC Twitter
+% OPC YouTube channel
+
+Top of Page
+
+&
+
+

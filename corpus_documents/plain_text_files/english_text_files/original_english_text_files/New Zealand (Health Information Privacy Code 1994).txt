@@ -1,0 +1,3111 @@
+Health
+Information
+Privacy
+Code
+1994
+Incorporating
+Amendments No 2, No 3, No 4, No 5, No 6, No 7,
+No 8 and No 9
+
+Privacy Commissioner
+Te Mana Matapono Matatapu
+
+NEW ZEALAND
+This version of the code applies from 28 September 2017
+and incorporates the changes made by Amendments No 2,
+No 3, No 4, No 5, No 6, No 7, No 8 and No 9.
+
+Health Information Privacy Code 1994
+CONTENTS
+Issuance………………………………………………………………………………………….. 2
+PART 1: PRELIMINARY
+1.
+2.
+3.
+4.
+
+Title……………………………………………………………………………………………. 3
+Commencement…………………………………………………………………………….. 3
+Interpretation………………………………………………………………………………… 3
+Application of code…………………………………………………………………………. 5
+PART 2: HEALTH INFORMATION PRIVACY RULES
+
+5.
+
+Health information privacy rules…………………………………………………………… 8
+Rule 1: Purpose of collection of health information……………………………………… 8
+Rule 2: Source of health information……………………………………………………… 9
+Rule 3: Collection of health information from individual……………………………….. 11
+Rule 4: Manner of collection of health information ……………………………………. 13
+Rule 5: Storage and security of health information …………………………………… 14
+Rule 6: Access to personal health information ………………………………………… 15
+Rule 7: Correction of health information ……………………………………………….. 16
+Rule 8: Accuracy, etc, of health information to be checked before use…………... 17
+Rule 9: Retention of health information ………………………………………………… 18
+Rule 10: Limits on use of health information …………………………………………… 19
+Rule 11: Limits on disclosure of health information ………………………………….... 21
+Rule 12: Unique Identifiers………………………………………………………………. 25
+PART 3: MISCELLANEOUS
+
+6.
+7.
+
+Charges…………………………………………………………………………………….. 27
+Complaints of breach of code……………………………………………………………. 27
+SCHEDULES
+
+Schedule 1: Specified health agencies………………………………………………………. 29
+Schedule 2: Agencies approved to assign NHI number…………………………………… 30
+Schedule 3: Use and disclosure of information derived from newborn babies’
+blood spot samples……………………………………………………………… 31
+APPENDIX
+Appendix: Extracts from enactments………………………………………………………… 33
+Legislative history………………………………………………………………………………. 54
+This version of the code includes various notes which are set out in italics. This material
+CREDIT REPORTING PRIVACY CODE 2004
+is not part of the code but is included to assist users of the code. Reference must always
+be made to the rules or clauses themselves.
+1
+
+Health Information Privacy Code 1994
+I, BRUCE HOULTON SLANE, Privacy Commissioner, having given notice in accordance
+with section 48(1) of the Privacy Act 1993 of my intention to issue a code of practice and
+having satisfied the requirements of the subsection, now issue under section 46 of the Act
+the Health Information Privacy Code 1994.
+
+Issued by me at Auckland on 28 June 1994.
+
+THE SEAL of the
+Privacy Commissioner was
+affixed to this code of practice
+by the Privacy Commissioner
+
+)
+)
+)
+)
+
+[L.S.]
+
+B H SLANE
+Privacy Commissioner
+Note: A code of practice issued under section 46 of the Privacy Act 1993 is deemed to be a
+disallowable instrument for the purposes of the Legislation Act 2012 – Privacy Act, section 50.
+Note: This edition is consolidated as at 28 September 2017. It incorporates Amendments No 2, 3, 4,
+5, 6, 7, 8 and 9. Amendment No 1 was a temporary amendment which is now spent.
+Note: Minor changes have been made to this edition of the Health Information Privacy Code
+consistent with the editorial and formatting changes permitted under sections 24 to 26 of the
+Legislation Act 2012. These changes do not modify the effect of the Code.
+In particular, changes have been made to the following:
+ punctuation (e.g. semicolons are not used after definitions)
+ parts numbered with Roman numerals are replaced with Arabic numerals, and all crossreferences are changed accordingly
+ Obvious errors have been corrected (e.g. errors in number, cross-referencing, and
+alphabetical ordering)
+
+2
+
+Part 1: Preliminary
+1.
+
+Title
+
+This code of practice may be referred to as the Health Information Privacy Code 1994.
+
+2.
+
+[Commencement]
+
+[This code is to come into force on 30 July 1994.]
+Note: Clause 2(2) was revoked, and clause 2(1) according renumbered as clause 2, by
+Amendment No 5. Amendment No 5 also altered the heading of clause 2 from “Commencement
+and Review” to “Commencement”.
+Note: Provisions affected by Amendments No 2, No 3, No 4, No 5, No 6, No 7, No 8 and No 9
+had commencement dates given in these amendments. These amendments commenced as
+follows:
+
+Amendment No 2 – 30 July 1995
+
+Amendment No 3 – 30 September 1998
+
+Amendment No 4 – 10 April 2000
+
+Amendment No 5 – 30 July 2000
+
+Amendment No 6 – 1 November 2007
+
+Amendment No 7 – 30 April 2013
+
+Amendment No 8 – 15 October 2015
+
+Amendment No 9 – 28 September 2017.
+
+3.
+
+Interpretation
+
+In this code:
+commencement, in relation to this code, means the coming into force of the code
+[disability services includes goods, services, and facilities (a)
+
+provided to people with disabilities for their care or support or to promote their
+inclusion and participation in society, and independence; or
+
+(b)
+
+provided for purposes related or incidental to the care or support of people with
+disabilities or to the promotion of the inclusion and participation in society, and
+independence of such people]
+
+Note: The definition of ‘disability services’ was substituted by Amendment No 6.
+
+[ethics committee means:
+(a)
+
+the Ethics Committee of the Health Research Council of New Zealand or an ethics
+committee approved by that committee;
+
+(b)
+
+the National Advisory Committee on Health and Disability Support Services
+Ethics;
+3
+
+(c)
+
+an ethics committee required to operate in accordance with the currently
+applicable Operational Standard for Ethics Committees promulgated by the
+Ministry of Health; or
+
+(d)
+
+an ethics committee established by, or pursuant to, any enactment]
+
+Note: The definition of ‘ethics committee’ was substituted by Amendment No 6.
+
+health agency means an agency referred to in subclause 4(2) and, for the purposes of
+rules 5 to 11, is to be taken to include:
+(a)
+
+where an agency holds health information obtained in the course of providing
+health or disability services but no longer provides such services - that agency;
+and
+
+(b)
+
+with respect to any health information held by a health agency (being a natural
+person) at the time of the person’s death - his or her personal representative
+
+health information means information to which this code applies under clause 4(1)
+[health practitioner has the meaning given to it by section 5(1) of the Health
+Practitioners Competence Assurance Act 2003]
+Note: The definition of ‘health practitioner’ was inserted by Amendment No 6.
+
+[health professional body means an authority empowered to exercise registration and
+disciplinary powers under the Health Practitioners Competence Assurance Act 2003]
+Note: The definition for ‘health professional body’ was inserted by Amendment No 2 and
+substituted by Amendment No 6.
+
+[…]
+Note: Amendment No 2 substituted the definition for ‘health registration statue’ with a definition
+for ‘health registration enactment’. Amendment No 6 revoked the definition of ‘health registration
+enactment’.
+
+[health services means personal health services and public health services]
+Note: The definition of ‘health services’ was substituted by Amendment No 6.
+
+health training institution means a school, faculty, or department referred to in
+paragraph [4(2)(d)]
+Note: An error in the paragraph referred to in the definition of ‘health training institution’ has been
+corrected.
+
+[…]
+Note: An amended definition of ‘hospital’ was inserted by Amendment No 4. The definition of
+‘hospital’ was revoked by Amendment No 6.
+
+[personal health services means goods, services and facilities provided to an
+individual for the purpose of improving or protecting the health of that individual, whether
+4
+
+or not they are also provided for another purpose; and includes goods, services, and
+facilities provided for related or incidental purposes]
+Note: The definition of ‘personal health services’ was inserted by Amendment No 6.
+
+principal caregiver, in relation to any individual, means the friend of the individual or
+the member of the individual’s family group or whãnau who is most evidently and
+directly concerned with the oversight of the individual’s care and welfare
+[public health services means goods, services, and facilities provided for the purpose
+of improving, promoting, or protecting public health or preventing population-wide
+disease, disability, or injury; and includes –
+(a)
+
+regulatory functions relating to health or disability matters; and
+
+(b)
+
+health protection and health promotion services; and
+
+(c)
+
+goods, services and facilities provided for related or incidental functions or
+purposes]
+
+Note: The definition of ‘public health services’ was inserted by Amendment No 6.
+
+[…]
+Note: An amended definition for ‘registered health professional’ was inserted by Amendment No
+2. The definition for ‘registered health professional’ was revoked by Amendment No 6.
+
+representative, in relation to an individual, means:
+(a)
+
+where that individual is dead, that individual’s personal representative;
+
+(b)
+
+where the individual is under the age of 16 years, that individual’s parent or
+guardian; or
+
+(c)
+
+where the individual, not being an individual referred to in paragraphs (a) or (b), is
+unable to give his or her consent or authority, or exercise his or her rights, a
+person appearing to be lawfully acting on the individual’s behalf or in his or her
+interests
+
+rule means a rule set out in clause 5
+the Act means the Privacy Act 1993
+Note: Clause 3(2) was revoked, and clause 3(1) according renumbered as clause 3, by
+Amendment No 5.
+
+4.
+
+Application of code
+
+(1)
+
+This code applies to the following information or classes of information about an
+identifiable individual:
+(a)
+
+information about the health of that individual, including his or her medical
+history;
+5
+
+[(2)
+
+(b)
+
+information about any disabilities that individual has, or has had;
+
+(c)
+
+information about any health services or disability services that are being
+provided, or have been provided, to that individual;
+
+(d)
+
+information provided by that individual in connection with the donation, by
+that individual, of any body part or any bodily substance of that individual or
+derived from the testing or examination of any body part, or any bodily
+substance of that individual; or
+
+(e)
+
+information about that individual which is collected before or in the course of,
+and incidental to, the provision of any health service or disability service to
+that individual.
+
+This code applies in relation to the following agencies or classes of agency:
+Health and disability service providers
+(a)
+
+an agency which provides health or disability services;
+
+(b)
+
+with a larger agency, a division or administrative unit (including an individual)
+which provides health or disability services to employees of the agency or
+some other limited class of persons;
+
+(c)
+
+a person who is approved as a counsellor for the purposes of the [[Accident
+Compensation Act 2001]];
+Note: Clause 4(2)(c) was amended by Amendment No 6 and by Amendment No 8.
+
+Training, registration, and discipline of health professionals, etc
+(d)
+
+a school, faculty or department of a tertiary educational institution which
+provide the training or a component of the training necessary for the
+registration of a [health practitioner];
+Note: Clause 4(2)(d) was amended by Amendment No 6.
+
+(e)
+
+an agency having statutory responsibility for the registration of any [health
+practitioners];
+Note: Clause 4(2)(e) was amended by Amendment No 6.
+
+(f)
+
+a health professional body;
+
+(g)
+
+persons appointed or designated under the Health and Disability
+Commissioner Act 1994;
+
+Health insurance, etc
+(h)
+
+[…]
+Note: Clause 4(2)(h) was revoked by Amendment No 6.
+
+6
+
+(i)
+
+an agency which provides health, disability, accident or medical insurance,
+or which provides claims management services in relation to such
+insurance, but only in respect of providing that insurance or those services;
+
+(j)
+
+an accredited employer under the [[Accident Compensation Act 2001]];
+Note: Clause 4(2)(j) was amended by Amendment No 6.
+
+Other
+(k)
+
+an agency which provides services in respect of health information, including
+an agency which provides those services under an agreement with another
+agency;
+
+(l)
+
+a district inspector, deputy district inspector or official visitor appointed
+pursuant to section 94 of the Mental Health (Compulsory Assessment and
+Treatment) Act 1992;
+
+[(la) a district inspector or deputy district inspector appointed pursuant to section
+144 of the Intellectual Disability (Compulsory Care and Rehabilitation) Act
+2003;]
+Note: Clause 4(2)(la) was inserted by Amendment No 6.
+
+(m)
+
+an agency which manufactures, sells, or supplies medicines, medical
+devices or related products;
+
+(n)
+
+an agency which provides health and disability services consumer advocacy
+services;
+
+[(o)
+
+the department responsible for the administration of the Coroners Act 2006,
+but only in respect of information contained in documents referred to in
+section 29(1) of that Act;]
+Note: Clause 4(2)(o) was substituted by Amendment No 6.
+
+(p)
+
+the agencies specified in Schedule 1.]
+
+Note: Subclause 4(2) was substituted in its entirety by Amendment No 5.
+
+7
+
+Part 2: Health Information Privacy Rules
+
+5.
+
+Health information privacy rules
+
+The information privacy principles are modified in accordance with the Act by the
+following rules which apply to health information and health agencies:
+Rule 1
+Purpose of Collection of Health Information
+Health information must not be collected by any health agency unless:
+(a)
+
+the information is collected for a lawful purpose connected with a function or
+activity of the health agency; and
+
+(b)
+
+the collection of the information is necessary for that purpose.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+8
+
+Rule 2
+Source of Health Information
+(1)
+
+Where a health agency collects health information, the health agency must collect
+the information directly from the individual concerned.
+
+(2)
+
+It is not necessary for a health agency to comply with subrule (1) if the agency
+believes on reasonable grounds:
+(a)
+
+that the individual concerned authorises collection of the information from
+someone else having been made aware of the matters set out in subrule
+3(1);
+
+(b)
+
+that the individual is unable to give his or her authority and the health
+agency having made the individual’s representative aware of the matters set
+out in subrule 3(1) collects the information from the representative or the
+representative authorises collection from someone else;
+
+(c)
+
+that compliance would:
+(i)
+prejudice the interests of the individual concerned;
+(ii) prejudice the purposes of collection; or
+(iii) prejudice the safety of any individual;
+
+(d)
+
+that compliance is not reasonably practicable in the circumstances of the
+particular case;
+
+(e)
+
+that the collection is for the purpose of assembling a family or genetic history
+of an individual and is collected directly from that individual;
+
+(f)
+
+that the information is publicly available information;
+
+(g)
+
+that the information:
+(i)
+will not be used in a form in which the individual concerned is
+identified;
+(ii) will be used for statistical purposes and will not be published in a form
+that could reasonably be expected to identify the individual concerned;
+or
+(iii) will be used for research purposes (for which approval by an ethics
+committee, if required, has been given) and will not be published in a
+form that could reasonably be expected to identify the individual
+concerned;
+
+(h)
+
+that non-compliance is necessary:
+(i)
+to avoid prejudice to the maintenance of the law by any public sector
+agency, including the prevention, detection, investigation, prosecution,
+and punishment of offences;
+(ii) for the protection of the public revenue; or
+(iii) for the conduct of proceedings before any court or tribunal (being
+proceedings that have been commenced or are reasonably in
+contemplation); or
+
+9
+
+(i)
+
+that the collection is in accordance with an authority granted under section
+54 of the Act.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+10
+
+Rule 3
+Collection of Health Information from Individual
+(1)
+
+Where a health agency collects health information directly from the individual
+concerned, or from the individual’s representative, the health agency must take
+such steps as are, in the circumstances, reasonable to ensure that the individual
+concerned (and the representative if collection is from the representative) is aware
+of:
+(a)
+
+the fact that the information is being collected;
+
+(b)
+
+the purpose for which the information is being collected;
+
+(c)
+
+the intended recipients of the information;
+
+(d)
+
+the name and address of:
+(i)
+the health agency that is collecting the information; and
+(ii) the agency that will hold the information;
+
+(e)
+
+whether or not the supply of the information is voluntary or mandatory and if
+mandatory the particular law under which it is required;
+
+(f)
+
+the consequences (if any) for that individual if all or any part of the requested
+information is not provided; and
+
+(g)
+
+the rights of access to, and correction of, health information provided by
+rules 6 and 7.
+
+(2)
+
+The steps referred to in subrule (1) must be taken before the information is
+collected or, if that is not practicable, as soon as practicable after it is collected.
+
+(3)
+
+A health agency is not required to take the steps referred to in subrule (1) in
+relation to the collection of information from an individual, or the individual’s
+representative, if that agency has taken those steps in relation to the collection,
+from that individual or that representative, of the same information or information
+of the same kind for the same or a related purpose, on a recent previous
+occasion.
+
+(4)
+
+It is not necessary for a health agency to comply with subrule (1) if the agency
+believes on reasonable grounds:
+(a)
+
+[…]
+Note: Subrule 3(4)(a) was revoked by Amendment No 4.
+
+(b)
+
+that compliance would:
+(i)
+prejudice the interests of the individual concerned; or
+(ii) prejudice the purposes of collection;
+
+(c)
+
+that compliance is not reasonably practicable in the circumstances of the
+particular case; or
+
+11
+
+(d)
+
+that non-compliance is necessary to avoid prejudice to the maintenance of
+the law by any public sector agency, including the prevention, detection,
+investigation, prosecution, and punishment of offences.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+12
+
+Rule 4
+Manner of Collection of Health Information
+Health information must not be collected by a health agency:
+(a)
+
+by unlawful means; or
+
+(b)
+
+by means that, in the circumstances of the case:
+(i)
+are unfair; or
+(ii) intrude to an unreasonable extent upon the personal affairs of the individual
+concerned.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+13
+
+Rule 5
+Storage and Security of Health Information
+(1)
+
+(2)
+
+A health agency that holds health information must ensure:
+(a)
+
+that the information is protected, by such security safeguards as it is
+reasonable in the circumstances to take, against:
+(i)
+loss;
+(ii) access, use, modification, or disclosure, except with the authority of
+the agency; and
+(iii) other misuse;
+
+(b)
+
+that if it is necessary for the information to be given to a person in
+connection with the provision of a service to the health agency, including any
+storing, processing, or destruction of the information, everything reasonably
+within the power of the health agency is done to prevent unauthorised use or
+unauthorised disclosure of the information; and
+
+(c)
+
+that, where a document containing health information is not to be kept, the
+document is disposed of in a manner that preserves the privacy of the
+individual.
+
+This rule applies to health information obtained before or after the commencement
+of this code.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+14
+
+Rule 6
+Access to Personal Health Information
+(1)
+
+Where a health agency holds health information in such a way that it can readily
+be retrieved, the individual concerned is entitled:
+(a)
+
+to obtain from the agency confirmation of whether or not the agency holds
+such health information; and
+
+(b)
+
+to have access to that health information.
+
+(2)
+
+Where, in accordance with subrule (1)(b), an individual is given access to health
+information, the individual must be advised that, under rule 7, the individual may
+request the correction of that information.
+
+(3)
+
+The application of this rule is subject to:
+
+(4)
+
+(a)
+
+Part 4 of the Act (which sets out reasons for withholding information);
+
+(b)
+
+Part 5 of the Act (which sets out procedural provisions relating to access to
+information); and
+
+(c)
+
+clause 6 (which concerns charges).
+
+This rule applies to health information obtained before or after the commencement
+of this code.
+
+Note: This rule is subject to provisions in enactments which authorise or require personal
+information to be made available or Acts which prohibit, restrict, or regulate the availability of
+personal information: Privacy Act, sections 7(1) and (2). Under section 7(3) it is also subject to
+certain regulations which prohibit, restrict or regulate the availability of personal information.
+
+15
+
+Rule 7
+Correction of Health Information
+(1)
+
+Where a health agency holds health information, the individual concerned is
+entitled:
+(a)
+
+to request correction of the information; and
+
+(b)
+
+to request that there be attached to the information a statement of the
+correction sought but not made.
+
+(2)
+
+A health agency that holds health information must, if so requested or on its own
+initiative, take such steps (if any) to correct the information as are, in the
+circumstances, reasonable to ensure that, having regard to the purposes for which
+the information may lawfully be used, it is accurate, up to date, complete, and not
+misleading.
+
+(3)
+
+Where an agency that holds health information is not willing to correct the
+information in accordance with such a request, the agency must, if so requested,
+take such steps (if any) as are reasonable to attach to the information, in such a
+manner that it will always be read with the information, any statement provided by
+the individual of the correction sought.
+
+(4)
+
+Where the agency has taken steps under subrule (2) or (3), the agency must, if
+reasonably practicable, inform each person or body or agency to whom the health
+information has been disclosed of those steps.
+
+(5)
+
+Where an agency receives a request made under subrule (1), the agency must
+inform the individual concerned of the action taken as a result of the request.
+
+(6)
+
+The application of this rule is subject to the provisions of Part 5 of the Act (which
+sets out procedural provisions relating to correction of information).
+
+(7)
+
+This rule applies to health information obtained before or after the commencement
+of this code.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+16
+
+Rule 8
+Accuracy etc of Health Information to be Checked Before Use
+(1)
+
+A health agency that holds health information must not use that information
+without taking such steps (if any) as are, in the circumstances, reasonable to
+ensure that, having regard to the purpose for which the information is proposed to
+be used, the information is accurate, up to date, complete, relevant and not
+misleading.
+
+(2)
+
+This rule applies to health information obtained before or after the commencement
+of this code.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+17
+
+Rule 9
+Retention of Health Information
+(1)
+
+A health agency that holds health information must not keep that information for
+longer than is required for the purposes for which the information may lawfully be
+used.
+
+(2)
+
+Subrule (1) does not prohibit any agency from keeping any document that
+contains health information the retention of which is necessary or desirable for the
+purposes of providing health services or disability services to the individual
+concerned.
+
+(3)
+
+This rule applies to health information obtained before or after the commencement
+of this code.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+18
+
+Rule 10
+Limits on Use of Health Information
+(1)
+
+A health agency that holds health information obtained in connection with one
+purpose must not use the information for any other purpose unless the health
+agency believes on reasonable grounds:
+(a)
+
+that the use of the information for that other purpose is authorised by:
+(i)
+the individual concerned; or
+(ii) the individual’s representative where the individual is unable to give his
+or her authority under this rule;
+
+(b)
+
+that the purpose for which the information is used is directly related to the
+purpose in connection with which the information was obtained;
+
+(c)
+
+that the source of the information is a publicly available publication [and that,
+in the circumstances of the case, it would not be unfair or unreasonable to
+use the information];
+Note: Subrule 10(1)(c) was amended by Amendment No 8.
+
+(d)
+
+that the use of the information for that other purpose is necessary to prevent
+or lessen a serious […] threat to:
+(i)
+public health or public safety; or
+(ii) the life or health of the individual concerned or another individual;
+Note: Subrule 10(1)(d) was amended by Amendment No 7.
+
+(e)
+
+that the information:
+(i)
+is used in a form in which the individual concerned is not identified;
+(ii) is used for statistical purposes and will not be published in a form that
+could reasonably be expected to identify the individual concerned; or
+(iii) is used for research purposes (for which approval by an ethics
+committee, if required, has been given) and will not be published in a
+form that could reasonably be expected to identify the individual
+concerned;
+
+(f)
+
+that non-compliance is necessary:
+(i)
+to avoid prejudice to the maintenance of the law by any public sector
+agency, including the prevention, detection, investigation, prosecution,
+and punishment of offences; or
+(ii) for the conduct of proceedings before any court or tribunal (being
+proceedings that have been commenced or are reasonably in
+contemplation);
+
+(g)
+
+that the use of the information is in accordance with an authority granted
+under section 54 of the Act.
+
+[(1A) A health agency that holds health information that was obtained from the testing or
+examination of a blood sample collected in connection with the Newborn
+Metabolic Screening Programme shall not use that information unless it believes,
+on reasonable grounds, that the use is in accordance with Schedule 3.]
+19
+
+Note: Subrule 10(1A) was inserted by Amendment No 7.
+
+(2)
+
+This rule does not apply to health information obtained before [1 July 1993].
+Note: Subrule 10(2) was amended by Amendment No 2.
+
+Note: An action is not in breach of this rule if it is authorised or required by or under law: Privacy
+Act, section 7(4).
+
+20
+
+Rule 11
+Limits on Disclosure of Health Information
+(1)
+
+A health agency that holds health information must not disclose the information
+unless the agency believes, on reasonable grounds:
+(a)
+
+that the disclosure is to:
+(i)
+the individual concerned; or
+(ii) the individual’s representative where the individual is dead or is unable
+to exercise his or her rights under these rules;
+
+(b)
+
+that the disclosure is authorised by:
+(i)
+the individual concerned; or
+(ii) the individual’s representative where the individual is dead or is unable
+to give his or her authority under this rule;
+
+(c)
+
+that the disclosure of the information is one of the purposes in connection
+with which the information was obtained;
+
+(d)
+
+that the source of the information is a publicly available publication [and that,
+in the circumstances of the case, it would not be unfair or unreasonable to
+disclose the information];
+Note: Subrule 11(1)(d) was amended by Amendment No 8.
+
+(e)
+
+the information is information in general terms concerning the presence,
+location, and condition and progress of the patient in a hospital, on the day
+on which the information is disclosed, and the disclosure is not contrary to
+the express request of the individual or his or her representative; [..]
+Note: Subrule 11(1)I was amended by Amendment No 4.
+
+(f)
+
+that the information to be disclosed concerns only the fact of death and the
+disclosure is by a [health practitioner] or by a person authorised by a health
+agency, to a person nominated by the individual concerned, or the
+individual’s representative, partner, spouse, principal caregiver, next of kin,
+whānau, close relative, or other person whom it is reasonable in the
+circumstances to inform; [or]
+Note: Subrule 11(1)(f) was amended by Amendment No 4 and Amendment No 6.
+
+[(g)
+
+the information to be disclosed concerns only the fact that an individual is to
+be, or has been, released from compulsory status under the Mental Health
+(Compulsory Assessment and Treatment) Act 1992 and the disclosure is to
+the individual’s principal caregiver.]
+Note: Subrule 11(1)(g) was inserted by Amendment No 3.
+
+(2)
+
+Compliance with paragraph (1)(b) is not necessary if the health agency believes
+on reasonable grounds that it is either not desirable or not practicable to obtain
+authorisation from the individual concerned and:
+
+21
+
+(a)
+
+that the disclosure of the information is directly related to one of the
+purposes in connection with which the information was obtained;
+
+(b)
+
+that the information is disclosed by a [health practitioner] to a person
+nominated by the individual concerned or to the principal caregiver or a near
+relative of the individual concerned in accordance with recognised
+professional practice and the disclosure is not contrary to the express
+request of the individual or his or her representative;
+Note: Subrule 11(2)(b) was amended by Amendment No 6.
+
+(c)
+
+that the information:
+(i)
+is to be used in a form in which the individual concerned is not
+identified;
+(ii) is to be used for statistical purposes and will not be published in a form
+that could reasonably be expected to identify the individual concerned;
+or
+(iii) is to be used for research purposes (for which approval by an ethics
+committee, if required, has been given) and will not be published in a
+form that could reasonably be expected to identify the individual
+concerned;
+
+(d)
+
+that the disclosure of the information is necessary to prevent or lessen a
+serious […] threat to:
+(i)
+public health or public safety; or
+(ii) the life or health of the individual concerned or another individual;
+Note: Subrule 11(2)(d) was amended by Amendment No 7.
+
+[(da) the disclosure of the information is necessary to enable an intelligence and
+security agency to perform any of its functions;]
+Note: Subrule 11(2)(da) was amended by Amendment No 9.
+Note: See Intelligence and Security Act 2017, ss 10-16, for the functions of
+intelligence and security agencies.
+Note: Intelligence and Security Act, section 122(3) provides that the Director-General
+of an intelligence and security agency may certify that he or she believes on
+reasonable grounds that the disclosure is necessary, for the purpose of enabling an
+agency to decide whether to disclose the information.
+
+(e)
+
+that the disclosure of the information is essential to facilitate the sale or other
+disposition of a business as a going concern;
+
+(f)
+
+that the information to be disclosed briefly describes only the nature of
+injuries of an individual sustained in an accident and that individual’s identity
+and the disclosure is:
+(i)
+by a person authorised by the person in charge of a hospital;
+(ii) to a person a person authorised by the person in charge of a news
+medium;
+
+22
+
+for the purpose of publication or broadcast in connection with the news
+activities of that news medium and the disclosure is not contrary to the
+express request of the individual concerned or his or her representative;
+(g)
+
+that the disclosure of the information:
+(i)
+is required for the purpose of identifying whether an individual is
+suitable to be involved in health education and so that individuals so
+identified may be able to be contacted to seek their authority in
+accordance with paragraph (1)(b); and
+(ii) is by a person authorised by the health agency to a person authorised
+by a health training institution;
+
+(h)
+
+that the disclosure of the information:
+(i)
+is required for the purpose of a professionally recognised accreditation
+of a health or disability service;
+(ii) is required for a professionally recognised external quality assurance
+programme; or
+(iii) is required for risk management assessment and the disclosure is
+solely to a person engaged by the agency for the purpose of assessing
+the agency’s risk;
+and the information will not be published in a form which could reasonably
+be expected to identify any individual nor disclosed by the accreditation
+quality assurance or risk management organisation to third parties except as
+required by law;
+
+(i)
+
+that non-compliance is necessary:
+(i)
+to avoid prejudice to the maintenance of the law by any public sector
+agency, including the prevention, detection, investigation, prosecution
+and punishment of offences; or
+(ii) for the conduct of proceedings before any court or tribunal (being
+proceedings that have been commenced or are reasonably in
+contemplation);
+
+(j)
+
+that the individual concerned is or is likely to become dependent upon a
+controlled drug, prescription medicine, or restricted medicine and the
+disclosure is by a [health practitioner] to a Medical Officer of Health for the
+purposes of section 20 of the Misuse of Drugs Act 1975 or section 49A of
+the Medicines Act 1981; or
+Note: Subrule 11(2)(j) was amended by Amendment No 6.
+
+(k)
+
+that the disclosure of the information is in accordance with an authority
+granted under section 54 of the Act.
+
+[(2A) A health agency that holds health information that was obtained from the testing or
+examination of a blood sample collected in connection with the Newborn
+Metabolic Screening Programme shall not disclose that information unless it
+believes, on reasonable grounds, that the disclosure is in accordance with
+Schedule 3.]
+Note: Subrule 11(2A) was inserted by Amendment No 7.
+
+23
+
+(3)
+
+Disclosure under subrule (2) is permitted only to the extent necessary for the
+particular purpose.
+
+(4)
+
+Where under section 22F(1) of the Health Act 1956, the individual concerned or a
+representative of that individual requests the disclosure of health information to
+that individual or representative, a health agency:
+(a)
+
+must treat any request by that individual as if it were a health information
+privacy request made under rule 6; and
+
+(b)
+
+may refuse to disclose information to the representative if:
+(i)
+the disclosure of the information would be contrary to the individual’s
+interests;
+(ii) the agency has reasonable grounds for believing that the individual
+does not or would not wish the information to be disclosed; or
+(iii) there would be good grounds for withholding the information under
+Part IV of the Act if the request had been made by the individual
+concerned.
+
+(5)
+
+This rule applies to health information about living or deceased persons obtained
+before or after the commencement of this code.
+
+[(6)
+
+Despite subrule (5), a health agency is exempted from compliance with this rule in
+respect of health information about an identifiable deceased person who has been
+dead for not less than 20 years.]
+Note: An amended subrule 11(6) was inserted by Amendment No 3.
+
+Note: Except as provided in subrule 11(4), nothing in this rule derogates from any provision in an
+enactment which authorises or requires information to be made available, prohibits or restricts
+the availability of health information, or regulates the manner in which health information may be
+obtained or made available: Privacy Act 1993, section 7. Note also that rule 11, unlike the other
+rules, applies not only to information about living individuals, but also about deceased persons:
+Privacy Act 1993, section 46(6).
+
+24
+
+Rule 12
+Unique Identifiers
+(1)
+
+A health agency must not assign a unique identifier to an individual unless the
+assignment of that identifier is necessary to enable the health agency to carry out
+any one or more of its functions efficiently.
+
+(2)
+
+A health agency must not assign to an individual a unique identifier that, to that
+agency’s knowledge, has been assigned to that individual by another agency,
+unless:
+(a)
+
+those 2 agencies are associated persons within the meaning of [[subpart YB
+of the Income Tax Act 2007]]; or
+Note: Subrule 12(2)(a) was amended by Amendment No 3 and by Amendment No
+8.
+
+(b)
+[(3)
+
+it is permitted by subrule (3) or (4).
+
+The following agencies may assign the same National Health Index number to an
+individual:
+(a)
+
+any agency authorised expressly by an enactment; or
+
+(b)
+
+any agency or class of agencies listed in Schedule 2]
+
+Note: Subrule 12(3) was substituted by Amendment No 5.
+
+[(4)
+
+Notwithstanding subrule (2) any health agency may assign to a health practitioner
+as a unique identifier:
+(i)
+
+the registration number assigned to that individual by the relevant health
+professional body; or
+
+(ii)
+
+the Common Provider Number assigned to that individual by the Ministry of
+Health.]
+
+Note: Subrule 12(4) was initially substituted by Amendment No 6. The current wording of
+subrule 12(4) was substituted by Amendment No 7.
+
+(5)
+
+A health agency that assigns unique identifiers to individuals must take all
+reasonable steps to ensure that unique identifiers are assigned only to individuals
+whose identity is clearly established.
+
+(6)
+
+A health agency must not require an individual to disclose any unique identifier
+assigned to that individual unless the disclosure is for one of the purposes in
+connection with which that unique identifier was assigned or for a purpose that is
+directly related to one of those purposes.
+
+(7)
+
+Subrules (1) to (5) do not apply in relation to the assignment of unique identifiers
+before the commencement of this code.
+
+25
+
+(8)
+
+Subrule (6) applies to any unique identifier, whether assigned before or after the
+commencement of this code.
+
+Note: An action is not a breach of this rule if it is authorised or required by or under law: Privacy
+Act 1993, section 7(4).
+
+26
+
+Part 3: Miscellaneous
+6.
+
+Charges
+
+(1)
+
+For the purposes of charging under section 35 of the Act in relation to information
+privacy requests concerning health information, a health agency that is not a
+public sector health agency must not require the payment, by or on behalf of any
+individual who wishes to make a request, of any charges in respect of a matter
+referred to in paragraphs 35(1)(a) to (f) of the Act except in accordance with this
+clause.
+
+(2)
+
+Where an individual makes an information privacy request to a health agency that
+is not a public sector health agency, the agency may, unless prohibited by law
+other than the Act or this code, make a reasonable charge:
+(a)
+
+where, on a particular day, that agency has made health information
+available to that individual in response to a request, for making the same or
+substantially the same health information available in accordance with any
+subsequent request within a period of 12 months after that day; or
+
+(b)
+
+for providing a copy of an x-ray, a video recording[, an MRI scan
+photograph, a PET scan photograph] or a CAT scan photograph.
+Note: Clause 6(2)(b) was amended by Amendment No 6.
+
+(3)
+
+Where an agency intends to make a charge under subclause (2) and the amount
+of the charge is likely to exceed $30, the agency must provide the individual with
+an estimate of the charge before dealing with the request.
+
+7.
+
+Complaints of breach of code
+
+[(1)
+
+Every health agency must designate a person or persons to deal with complaints
+alleging a breach of this code and facilitate the fair, simple, speedy, and efficient
+resolution of complaints.
+
+(2)
+
+Every health agency to which this subclause applies must have a complaints
+procedure which provides that:
+(a)
+
+when a complaint of a breach of this code is received:
+(i)
+the complaint is acknowledged in writing within 5 working days of
+receipt, unless it has been resolved to the satisfaction of the
+complainant within that period;
+(ii) the complainant is informed of any relevant internal and external
+complaints procedures; and
+(iii) the complaint and the actions of the health agency regarding that
+complaint are documented; and
+
+(b)
+
+within 10 working days of acknowledging the complaint, the agency must:
+(i)
+decide whether it:
+27
+
+(ii)
+
+(c)
+
+(A) accepts that the complaint is justified; or
+(B) does not accept that the complaint is justified; or
+if it decides that more time is needed to investigate the complaint:
+(A) determine how much additional time is needed; and
+(B) if that additional time is more than 20 working days, inform the
+complainant of that determination and of the reasons for it; and
+
+as soon as practicable after the agency decides whether or not it accepts
+that a complaint is justified, it must inform the complainant of:
+(i)
+the reasons for the decision;
+(ii) any actions the agency proposes to take;
+(iii) any appeal procedure the agency has in place; and
+(iv) the right to complain to the Privacy Commissioner.
+
+(3)
+
+Subclause (2) applies to any health agency specified in clause 4(2)(a), (c), (d), (e),
+(h), (i), (j), and (k) or items 6 and 8 of Schedule 1.
+
+(4)
+
+Nothing in this clause is to limit or restrict any provision of Part 4, 5, 8, or 9 of the
+Act or sections 55 to 57.
+
+Note: The original clause 7 (“privacy officers”) was revoked by Amendment No 3. The present
+clause 7 was inserted by Amendment No 5.
+
+8.
+
+[…]
+
+Note: The original clause 8 (“complaints of breach of code”) was revoked by Amendment No 5.
+
+28
+
+[Schedule 1
+SPECIFIED HEALTH AGENCIES
+
+1.
+
+Ministry of Health
+
+2.
+
+Health Research Council
+
+3.
+
+[…]
+Note: Paragraph 3 was revoked by Amendment No 8.
+
+[4.
+
+Institute of Environment Science and Research Limited]
+Note: Paragraph 4 was substituted by Amendment No 6.
+
+5.
+
+The Interchurch Council on Hospital Chaplaincy
+
+[6.
+
+New Zealand Health Partnerships Limited]
+Note: Paragraph 6 was substituted by Amendment No 8.
+
+7.
+
+[…]
+Note: Paragraph 7 was revoked by Amendment No 8.
+
+8.
+
+Accident Compensation Corporation
+
+[9.
+
+The Regulator under the Accident Insurance Act 1998 and the [Accident
+Compensation Act 2001]]]
+Note: Paragraph 9 was substituted by Amendment No 6 and amended by Amendment No
+8.
+
+Note: The original Schedule 1 (“HEALTH REGISTRATION STATUTES”) was revoked by
+Amendment No 2. The present Schedule 1 was inserted by Amendment No 5.
+
+29
+
+[Schedule 2
+AGENCIES APPROVED TO ASSIGN NHI NUMBER
+1.
+
+Ministry of Health
+
+2.
+
+District Health Boards
+
+3.
+
+Hospitals
+
+4.
+
+Primary Health Organisations
+
+5.
+
+Independent Practitioner Associations
+
+6.
+
+Health Practitioners
+
+7.
+
+New Zealand Blood Service
+
+8.
+
+Accident Compensation Corporation
+
+9.
+
+Department of Corrections Health Services
+
+10.
+
+New Zealand Defence Force Health Services
+
+11.
+
+Pharmaceutical Management Agency of New Zealand
+
+[11A. MedicAlert Foundation – New Zealand Incorporated]
+Note: Paragraph 11A was inserted by Amendment No 7.
+
+12.
+
+Any health agency which has a contract with the Accident Compensation
+Corporation or a District Health Board or the Ministry of Health to provide health or
+disability services.]
+
+Note: The original Schedule 2 (“SPECIFIED HEALTH AGENCIES”) was revoked by Amendment
+No 5. The present Schedule 2 was inserted by Amendment No 5 and substituted by Amendment
+No 6.
+
+30
+
+[Schedule 3
+USE AND DISCLOSURE OF INFORMATION DERIVED FROM
+NEWBORN BABIES’ BLOOD SPOT SAMPLES
+Schedule 3 sets standards for how health information derived from the blood spot
+samples collected for the Newborn Metabolic Screening Programme may be used and
+disclosed.
+All uses and disclosures of derived information must be:
+
+
+
+1.
+
+for one of the permitted primary or permitted secondary purposes; or
+authorised by the individual concerned or his or her representative; or
+authorised by a close available relative where the individual is deceased or
+under 16.
+Interpretation
+In this Schedule:
+close available relative has the meaning given to it by section 10 of the Human
+Tissue Act 2008
+derived information means health information that was obtained from testing or
+examination of a blood sample collected in connection with the Newborn
+Metabolic Screening Programme
+permitted primary purpose means a purpose directly connected with conducting
+and administering the Newborn Metabolic Screening Programme, including to:
+(a)
+
+conduct initial and repeat screening for metabolic or genetic disorders of
+blood samples taken from newborn babies;
+
+(b)
+
+conduct quality assurance and audit; and
+
+(c)
+
+develop new screening procedures
+
+permitted secondary purpose means to:
+(a)
+
+assist the New Zealand Police in an investigation where biological material,
+a body part or a body has been discovered and no other avenue of
+identifying a person who is deceased or missing is practicable;
+
+(b)
+
+conduct testing, intending to benefit the individual concerned or his or her
+family, that is authorised by:
+(i)
+the individual concerned or his or her representative; or
+(ii) a close available relative where the individual is dead or under 16;
+
+(c)
+
+conduct an inquiry pursuant to Part 3 of the Coroners Act 2006;
+
+(d)
+
+comply with a search warrant or court order;
+31
+
+2.
+
+(e)
+
+comply with a notice in writing from the chairperson of a mortality review
+committee pursuant to Schedule 5 of the New Zealand Public Health and
+Disability Act 2000;
+
+(f)
+
+carry out research for which approval by an ethics committee and the
+Ministry of Health has been given.
+
+Use and disclosure of derived information
+Any health agency that holds derived information about an individual must not use
+or disclose the information unless it believes, on reasonable grounds, that:
+(a)
+
+the individual concerned or his or her representative has authorised the use
+or disclosure of derived information about himself or herself; or
+
+(b)
+
+where the individual is deceased or under 16, a representative or close
+available relative has authorised the use or disclosure of the individual’s
+derived information; or
+
+(c)
+
+the derived information is to be used or disclosed for a permitted primary
+purpose or a permitted secondary purpose.]
+
+Note: The original Schedule 3 (“AGENCIES APPROVED TO ASSIGN NHI NUMBER”) was
+revoked by Amendment No 5. The present Schedule 3 was inserted by Amendment no 7.
+
+32
+
+Appendix
+Extracts from enactments
+Extracts are reprinted from the following statutes and regulations:
+Privacy Act 1993 ss. 2-4, 7, 27-30, 32-45, 54, 126…………………………………… 33
+Children, Young Persons, and their Families Act 1989 ss. 15-16………………... 46
+Evidence Act 2006 s. 59…………………………………………………………………. 46
+Health Act 1956 ss. 22C, 22D, 22F, 22G, 22H………………………………………… 47
+Health (Retention of Health Information) Regulations 1996 regs. 3, 5, 6, 11…… 51
+Medicines Act 1981 s. 49A……………………………………………………………… 51
+Misuse of Drugs Act 1975 s. 20………………………………………………………… 52
+New Zealand Bill of Rights Act 1990 ss. 10-11……………………………………… 53
+Note: The reprinted extracts are believed to be correct as at October 2015. However, it is
+prudent, if proposing to rely on a provision in law, to check with an official published version of
+the statute to check for errors, amendments and repeals. Official copies of legislation can be
+found at http://legislation.govt.nz/.
+
+Extracts from Privacy Act 1993
+Note: To assist users of the code certain subsections, not of relevant in the health sector, have
+been omitted. Where reference is made to a particular principle, the corresponding rule in the
+code is shown in square brackets. For example, “principle 6” is shown as “[rule 6]”. Similar
+reference to clause 6 of the code is substituted in sections 35 and 40.
+
+2
+
+INTERPRETATION
+
+(1)
+
+In this Act, unless the context otherwise requires,—
+action includes failure to act; and also includes any policy or practice
+agency —
+(a)
+
+(b)
+
+means any person or body of persons, whether corporate or unincorporate,
+and whether in the public sector or the private sector; and, for the avoidance
+of doubt, includes a department; but
+does not include —
+(i)
+the Sovereign; or
+(ii) the Governor-General or the Administrator of the Government; or
+(iii) the House of Representatives; or
+(iv) a member of Parliament in his or her official capacity; or
+(v) the Parliamentary Service Commission; or
+(vi) the Parliamentary Service, except in relation to personal information
+33
+
+(vii)
+(viii)
+(ix)
+(x)
+(xi)
+(xii)
+
+(xiii)
+(xiv)
+
+about any employee or former employee of that agency in his or her
+capacity as such an employee; or
+in relation to its judicial functions, a court; or
+in relation to its judicial functions, a tribunal; or
+an Ombudsman; or
+a Royal Commission; or
+a commission of inquiry appointed by an Order in Council made under
+the Commissions of Inquiry Act 1908; or
+a commission of inquiry or board of inquiry or court of inquiry or
+committee of inquiry appointed, pursuant to, and not by, any provision
+of an Act, to inquire into a specified matter; or
+in relation to its news activities, any news medium; or
+an inquiry to which section 6 of the Inquiries Act 2013 applies
+
+collect does not include receipt of unsolicited information
+Commissioner means the Privacy Commissioner referred to in section 12 of this
+Act and appointed in accordance with section 28(1)(b) of the Crown Entities Act
+2004
+correct, in relation to personal information, means to alter that information by way
+of correction, deletion, or addition; and correction has a corresponding meaning
+document means a document in any form; and includes—
+(a)
+(b)
+
+(c)
+(d)
+(e)
+
+any writing on any material:
+any information recorded or stored by means of any tape recorder,
+computer, or other device; and any material subsequently derived from
+information so recorded or stored:
+any label, marking, or other writing that identifies or describes any thing of
+which it forms part, or to which it is attached by any means:
+any book, map, plan, graph, or drawing:
+any photograph, film, negative, tape, or other device in which 1 or more
+visual images are embodied so as to be capable (with or without the aid of
+some other equipment) of being reproduced
+
+individual means a natural person, other than a deceased natural person
+individual concerned, in relation to personal information, means the individual to
+whom the information relates
+information privacy request has the meaning given to it by section 33
+intelligence and security agency means –
+(a) the New Zealand Security Intelligence Service:
+(b) the Government Communications Security Bureau
+news activity means—
+(a)
+
+the gathering of news, or the preparation or compiling of articles or
+programmes of or concerning news, observations on news, or current
+34
+
+(b)
+
+affairs, for the purposes of dissemination to the public or any section of the
+public:
+the dissemination, to the public or any section of the public, of any article or
+programme of or concerning—
+(i)
+news:
+(ii) observations on news:
+(iii) current affairs
+
+news medium means any agency whose business, or part of whose business,
+consists of a news activity; but, in relation to principles 6 and 7, does not include
+Radio New Zealand Limited or Television New Zealand Limited
+publicly available information means personal information that is contained in a
+publicly available publication
+publicly available publication means a magazine, book, newspaper, or other
+publication that is or will be generally available to members of the public; and
+includes a public register
+serious threat, for the purposes of [subrule 10(1)(d) or 11(2)(d)], means a threat
+that an agency reasonably believes to be a serious threat having regard to all of
+the following:
+(a)
+(b)
+(c)
+
+the likelihood of the threat being realised; and
+the severity of the consequences if the threat is realised; and
+the time at which the threat may be realised
+
+unique identifier means an identifier—
+(a)
+(b)
+
+that is assigned to an individual by an agency for the purposes of the
+operations of the agency; and
+that uniquely identifies that individual in relation to that agency;—
+
+but, for the avoidance of doubt, does not include an individual’s name used to
+identify that individual
+working day means any day of the week other than—
+(a)
+
+Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day,
+the Sovereign’s birthday, and Waitangi Day; and
+(ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following
+Monday; and
+(b) a day in the period commencing with 25 December in any year and ending
+with 15 January in the following year.
+3
+
+INFORMATION HELD BY AN AGENCY
+
+(1)
+
+Subject to subsection (2), information that is held by an officer or employee or
+member of an agency in that person’s capacity as such an officer or employee or
+member or in that person’s capacity as a statutory officer shall be deemed, for the
+purposes of this Act, to be held by the agency of which that person is an officer or
+employee or member.
+35
+
+(2)
+
+Nothing in subsection (1) applies in respect of any information that any officer or
+employee or member of a public sector agency would not hold but for that
+person’s membership of, or connection with, a body other than a public sector
+agency, except where that membership or connection is in that person’s capacity
+as an officer or an employee or a member of that public sector agency or as a
+statutory officer.
+
+(3)
+
+Nothing in subsection (1) applies in respect of any information that any officer or
+employee or member of any agency (not being a public sector agency) would not
+hold but for that person’s membership of, or connection with, any other agency,
+except where that membership or connection is in that person’s capacity as an
+officer or an employee or a member of that first-mentioned agency.
+
+(4)
+
+For the purposes of this Act, where an agency holds information—
+(a)
+(b)
+(c)
+
+solely as agent; or
+for the sole purpose of safe custody; or
+for the sole purpose of processing the information on behalf of another
+agency,—
+
+and does not use or disclose the information for its own purposes, the information
+shall be deemed to be held by the agency on whose behalf that information is so
+held or, as the case may be, is so processed.
+4
+
+ACTIONS OF, AND DISCLOSURE OF INFORMATION TO, STAFF OF
+AGENCY, ETC
+For the purposes of this Act, an action done by, or information disclosed to, a
+person employed by, or in the service of, an agency in the performance of the
+duties of the person’s employment shall be treated as having been done by, or
+disclosed to, the agency.
+
+7
+
+SAVINGS
+
+(1)
+
+Nothing in [rule 6] or [rule 11] derogates from any provision that is contained in
+any enactment and that authorises or requires personal information to be made
+available.
+
+(2)
+
+Nothing in [rule 6] or [rule 11] derogates from any provision that is contained in
+any other Act of Parliament and that—
+(a)
+(b)
+
+(3)
+
+imposes a prohibition or restriction in relation to the availability of personal
+information; or
+regulates the manner in which personal information may be obtained or
+made available.
+
+Nothing in [rule 6] or [rule 11] derogates from any provision—
+
+36
+
+(a)
+
+(b)
+
+that is contained in any legislative instrument within the meaning of the
+Legislation Act 2012 made by Order in Council and in force—
+(i)
+in so far as those [rules] apply to a department, a Minister, an
+organisation, or a public sector agency (as defined in paragraph (b) of
+the definition of that term in section 2(1)) that is established for the
+purposes of assisting or advising, or performing functions connected
+with, a department, a Minister, or an organisation, immediately before
+1 July 1983; and
+(ii) in so far as those [rules] apply to a local authority or a public sector
+agency (as so defined) that is established for the purposes of assisting
+or advising, or performing functions connected with, a local authority,
+immediately before 1 March 1988; and
+(iii) in so far as those [rules] apply to any other agency, immediately before
+1 July 1993; and
+that—
+(i)
+imposes a prohibition or restriction in relation to the availability of
+personal information; or
+(ii) regulates the manner in which personal information may be obtained
+or made available.
+
+(4)
+
+An action is not a breach of any of [rules 1 to 5, 7 to 10, and 12] if that action is
+authorised or required by or under law.
+
+(5)
+
+[omitted].
+
+(6)
+
+Subject to the provisions of Part 7, nothing in any of the [health information privacy
+rules] shall apply in respect of a public register.
+
+PART 4: GOOD
+INFORMATION
+
+REASONS
+
+FOR
+
+REFUSING
+
+ACCESS
+
+TO
+
+PERSONAL
+
+Note: Section 27(2), concerning international relations, and section 29(1)(g), concerning
+information held by Radio NZ and TVNZ, have been omitted as being of little relevant to users of
+the Code
+
+27
+
+SECURITY, DEFENCE, INTERNATIONAL RELATIONS, ETC
+
+(1)
+
+An agency may refuse to disclose any information requested pursuant to [rule 6] if
+the disclosure of the information would be likely—
+(a)
+(b)
+
+(c)
+
+to prejudice the security or defence of New Zealand or the international
+relations of the Government of New Zealand; or
+to prejudice the entrusting of information to the Government of New Zealand
+on a basis of confidence by—
+(i)
+the Government of any other country or any agency of such a
+Government; or
+(ii) any international organisation; or
+to prejudice the maintenance of the law, including the prevention,
+investigation, and detection of offences, and the right to a fair trial; or
+37
+
+(d)
+
+to endanger the safety of any individual.
+
+(2)
+
+[omitted]
+
+28
+
+TRADE SECRETS
+
+(1)
+
+Subject to subsection (2), an agency may refuse to disclose any information
+requested pursuant to [rule 6] if the withholding of the information is necessary to
+protect information where the making available of the information—
+(a)
+(b)
+
+would disclose a trade secret; or
+would be likely unreasonably to prejudice the commercial position of the
+person who supplied or who is the subject of the information.
+
+(2)
+
+Information may not be withheld under subsection (1) if, in the circumstances of
+the particular case, the withholding of that information is outweighed by other
+considerations which render it desirable, in the public interest, to make the
+information available.
+
+29
+
+OTHER REASONS FOR REFUSAL OF REQUESTS
+
+(1)
+
+An agency may refuse to disclose any information requested pursuant to [rule 6]
+if—
+(a)
+(b)
+
+(c)
+
+(d)
+(e)
+
+(f)
+(g)
+(h)
+
+(i)
+
+the disclosure of the information would involve the unwarranted disclosure of
+the affairs of another individual or of a deceased individual; or
+the disclosure of the information or of information identifying the person who
+supplied it, being evaluative material, would breach an express or implied
+promise—
+(i)
+which was made to the person who supplied the information; and
+(ii) which was to the effect that the information or the identity of the person
+who supplied it or both would be held in confidence; or
+after consultation undertaken (where practicable) by or on behalf of the
+agency with an individual’s medical practitioner, the agency is satisfied
+that—
+(i)
+the information relates to that individual; and
+(ii) the disclosure of the information (being information that relates to the
+physical or mental health of the individual who requested it) would be
+likely to prejudice the physical or mental health of that individual; or
+in the case of an individual under the age of 16, the disclosure of that
+information would be contrary to that individual’s interests; or
+the disclosure of that information (being information in respect of an
+individual who has been convicted of an offence or is or has been detained
+in custody) would be likely to prejudice the safe custody or the rehabilitation
+of that individual; or
+the disclosure of the information would breach legal professional privilege; or
+[omitted]
+the disclosure of the information, being information contained in material
+placed in any library or museum or archive, would breach a condition subject
+to which that material was so placed; or
+the disclosure of the information would constitute contempt of court or of the
+House of Representatives; or
+38
+
+(ia)
+
+(j)
+(2)
+
+An agency may refuse a request made pursuant to [rule 6] if—
+(a)
+(b)
+(c)
+
+(3)
+
+the request is made by a defendant or a defendant’s agent and is—
+(i)
+for information that could be sought by the defendant under the
+Criminal Disclosure Act 2008; or
+(ii) for information that could be sought by the defendant under that Act
+and that has been disclosed to, or withheld from, the defendant under
+that Act; or
+the request is frivolous or vexatious, or the information requested is trivial.
+
+the information requested is not readily retrievable; or
+the information requested does not exist or cannot be found; or
+the information requested is not held by the agency and the person dealing
+with the request has no grounds for believing that the information is either—
+(i)
+held by another agency; or
+(ii) connected more closely with the functions or activities of another
+agency.
+
+For the purposes of subsection (1)(b), the term evaluative material means
+evaluative or opinion material compiled solely—
+(a)
+
+(b)
+(c)
+
+for the purpose of determining the suitability, eligibility, or qualifications of
+the individual to whom the material relates—
+(i)
+for employment or for appointment to office; or
+(ii) for promotion in employment or office or for continuance in
+employment or office; or
+(iii) for removal from employment or office; or
+(iv) for the awarding of contracts, awards, scholarships, honours, or other
+benefits; or
+for the purpose of determining whether any contract, award, scholarship,
+honour, or benefit should be continued, modified, or cancelled; or
+for the purpose of deciding whether to insure any individual or property or to
+continue or renew the insurance of any individual or property.
+
+(4)
+
+In subsection (1)(c), medical practitioner means a health practitioner who is, or
+is deemed to be, registered with the Medical Council of New Zealand continued by
+section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as
+a practitioner of the profession of medicine.
+
+30
+
+REFUSAL NOT PERMITTED FOR ANY OTHER REASON
+Subject to sections 7, 31, and 32, no reasons other than 1 or more of the reasons
+set out in sections 27 to 29 justifies a refusal to disclose any information requested
+pursuant to [rule 6].
+
+32
+
+INFORMATION CONCERNING EXISTENCE OF CERTAIN INFORMATION
+Where a request made pursuant to [rule 6] relates to information to which section
+27 or section 28 applies, or would, if it existed, apply, the agency dealing with the
+request may, if it is satisfied that the interest protected by section 27 or section 28
+would be likely to be prejudiced by the disclosure of the existence or non39
+
+existence of such information, give notice in writing to the applicant that it neither
+confirms nor denies the existence or non-existence of that information.
+PART 5: PROCDEURAL PROVISIONS RELATING
+CORRECTION OF PERSONAL INFORMATION
+33
+
+TO
+
+ACCESS TO
+
+AND
+
+APPLICATION
+This Part applies to the following requests (in this Act referred to as information
+privacy requests):
+(a)
+(b)
+(c)
+
+34
+
+a request made pursuant to [subrule 6(1)(a)] to obtain confirmation of
+whether or not an agency holds personal information:
+a request made pursuant to [subrule 6(1)(b)] to be given access to personal
+information:
+a request made pursuant to [subrule 7(1)] for correction of personal
+information.
+
+INDIVIDUALS MAY MAKE INFORMATION PRIVACY REQUESTS
+An information privacy request may be made only by an individual.
+
+35
+
+CHARGES
+
+(1)
+
+Subject to section 36, a public sector agency shall not require the payment, by
+or on behalf of any individual who wishes to make an information privacy request,
+of any charge in respect of—
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+
+(2)
+
+Subject to subsection (4), an agency that is not a public sector agency shall not
+require the payment, by or on behalf of any individual who wishes to make an
+information privacy request, of any charge in respect of—
+(a)
+(b)
+(c)
+(d)
+
+(3)
+
+the provision of assistance in accordance with section 38; or
+the making of the request to that agency; or
+the transfer of the request to any other agency; or
+the processing of the request, including deciding whether or not the request
+is to be granted and, if so, in what manner; or
+the making available of information in compliance, in whole or in part, with
+the request; or
+in the case of a request made pursuant to [subrule 7(1)],—
+(i)
+the correction of any information in compliance, in whole or in part,
+with the request; or
+(ii) the attaching, to any information, of a statement of any correction
+sought but not made.
+
+the provision of assistance in accordance with section 38; or
+the making of the request to that agency; or
+the transfer of the request to any other agency; or
+the processing of the request, including deciding whether or not the request
+is to be granted and, if so, in what manner.
+
+[omitted]
+40
+
+(4)
+
+[omitted]
+
+(5)
+
+Any charge fixed by an agency pursuant to [clause 6 of the code] or pursuant to
+an authority granted pursuant to section 36 in respect of an information privacy
+request shall be reasonable, and (in the case of a charge fixed in respect of the
+making available of information) regard may be had to the cost of the labour and
+materials involved in making information available in accordance with the request
+and to any costs incurred pursuant to a request of the applicant for the request to
+be treated as urgent.
+
+(6)
+
+The provisions of subsections (3) to (5), in so far as they relate to the fixing, by
+any agency that is not a public sector agency, of any charge in respect of any
+information privacy request, shall apply subject to any provisions to the contrary in
+any code of practice issued under section 46 and for the time being in force.
+
+36
+
+COMMISSIONER MAY AUTHORISE PUBLIC SECTOR AGENCY TO CHARGE
+
+(1)
+
+Where a public sector agency satisfies the Commissioner that the agency is
+commercially disadvantaged, in comparison with any competitor in the private
+sector, by reason that the agency is prevented, by subsection (1) of section 35,
+from imposing a charge in respect of any of the matters referred to in paragraph
+(e) or paragraph (f) of that subsection, the Commissioner may authorise that
+agency to impose a charge in respect of either or both of those matters.
+
+(1A) The Commissioner may authorise a public sector agency to impose a charge in
+respect of the matter referred to in section 35(1)(e) if the information privacy
+request is received from, or on behalf of, an individual who—
+(a)
+(b)
+
+is residing outside New Zealand; and
+is not a New Zealand citizen or a permanent resident of New Zealand.
+
+(2)
+
+The Commissioner may impose in respect of any authority granted pursuant to
+subsection (1) or (1A) such conditions as the Commissioner thinks fit.
+
+(3)
+
+The Commissioner may, at any time, revoke any authority granted to an agency
+pursuant to subsection (1) or (1A), but shall not revoke any such authority without
+giving the agency an opportunity to be heard.
+
+37
+
+URGENCY
+If an individual making an information privacy request asks that his or her request
+be treated as urgent, that individual shall give his or her reasons why the request
+should be treated as urgent.
+
+38
+
+ASSISTANCE
+It is the duty of every agency to give reasonable assistance to an individual,
+who—
+(a)
+
+wishes to make an information privacy request; or
+41
+
+(b)
+(c)
+
+in making such a request, has not made the request in accordance with the
+requirements of this Act; or
+has not made his or her request to the appropriate agency,—
+
+to make a request in a manner that is in accordance with the requirements of this
+Act or to direct his or her request to the appropriate agency.
+39
+
+TRANSFER OF REQUESTS
+Where—
+(a)
+(b)
+
+an information privacy request is made to an agency or is transferred to an
+agency in accordance with this section; and
+the information to which the request relates—
+(i)
+is not held by the agency but is believed by the person dealing with the
+request to be held by another agency; or
+(ii) is believed by the person dealing with the request to be more closely
+connected with the functions or activities of another agency,—
+
+the agency to which the request is made shall promptly, and in any case not later
+than 10 working days after the day on which the request is received, transfer the
+request to the other agency and inform the individual making the request
+accordingly.
+40
+
+DECISIONS ON REQUESTS
+
+(1)
+
+Subject to this Act, the agency to which an information privacy request is made or
+transferred in accordance with this Act shall, as soon as reasonably practicable,
+and in any case not later than 20 working days after the day on which the request
+is received by that agency,—
+(a)
+(b)
+
+decide whether the request is to be granted and, if it is to be granted, in what
+manner and, subject to [clause 6 of the code], for what charge (if any); and
+give or post to the individual who made the request notice of the decision on
+the request.
+
+(2)
+
+Where any charge is imposed, the agency may require the whole or part of the
+charge to be paid in advance.
+
+(3)
+
+Where an information privacy request is made or transferred to a department, the
+decision on that request shall be made by the chief executive of that department
+or an officer or employee of that department authorised by that chief executive,
+unless that request is transferred in accordance with section 39 to another
+agency.
+
+(4)
+
+Nothing in subsection (3) prevents the chief executive of a department or any
+officer or employee of a department from consulting a Minister or any other person
+in relation to the decision that the chief executive or officer or employee proposes
+to make on any information privacy request made or transferred to the department
+in accordance with this Act.
+
+42
+
+41
+
+EXTENSION OF TIME LIMITS
+
+(1)
+
+Where an information privacy request is made or transferred to an agency, the
+agency may extend the time limit set out in section 39 or section 40(1) in respect
+of the request if—
+(a)
+
+(b)
+
+the request is for a large quantity of information or necessitates a search
+through a large quantity of information, and meeting the original time limit
+would unreasonably interfere with the operations of the agency; or
+consultations necessary to make a decision on the request are such that a
+proper response to the request cannot reasonably be made within the
+original time limit.
+
+(2)
+
+Any extension under subsection (1) shall be for a reasonable period of time having
+regard to the circumstances.
+
+(3)
+
+The extension shall be effected by giving or posting notice of the extension to the
+individual who made the request within 20 working days after the day on which the
+request is received.
+
+(4)
+
+The notice effecting the extension shall—
+(a)
+(b)
+(c)
+
+(d)
+
+specify the period of the extension; and
+give the reasons for the extension; and
+state that the individual who made the request for the information has the
+right, under section 67, to make a complaint to the Commissioner about the
+extension; and
+contain such other information as is necessary.
+
+42
+
+DOCUMENTS
+
+(1)
+
+Where the information in respect of which an information privacy request is made
+by any individual is comprised in a document, that information may be made
+available in 1 or more of the following ways:
+(a)
+(b)
+(c)
+
+(d)
+
+(e)
+(f)
+(2)
+
+by giving the individual a reasonable opportunity to inspect the document; or
+by providing the individual with a copy of the document; or
+in the case of a document that is an article or thing from which sounds or
+visual images are capable of being reproduced, by making arrangements for
+the individual to hear or view those sounds or visual images; or
+in the case of a document by which words are recorded in a manner in
+which they are capable of being reproduced in the form of sound or in which
+words are contained in the form of shorthand writing or in codified form, by
+providing the individual with a written transcript of the words recorded or
+contained in the document; or
+by giving an excerpt or summary of the contents; or
+by furnishing oral information about its contents.
+
+Subject to section 43, the agency shall make the information available in the way
+preferred by the individual requesting it unless to do so would—
+(a)
+
+impair efficient administration; or
+43
+
+(b)
+(c)
+
+(3)
+
+be contrary to any legal duty of the agency in respect of the document; or
+prejudice the interests protected by section 27 or section 28 or section 29
+and (in the case of the interests protected by section 28) there is no
+countervailing public interest.
+
+Where the information is not provided in the way preferred by the individual
+requesting it, the agency shall, subject to section 32, give to that individual—
+(a)
+(b)
+
+the reason for not providing the information in that way; and
+if that individual so requests, the grounds in support of that reason, unless
+the giving of those grounds would itself prejudice the interests protected by
+section 27 or section 28 or section 29 and (in the case of the interests
+protected by section 28) there is no countervailing public interest.
+
+43
+
+DELETION OF INFORMATION FROM DOCUMENTS
+
+(1)
+
+Where the information in respect of which an information privacy request is made
+is comprised in a document and there is good reason for withholding some of the
+information contained in that document, the other information in that document
+may be made available by making a copy of that document available with such
+deletions or alterations as are necessary.
+
+(2)
+
+Where a copy of a document is made available under subsection (1), the agency
+shall, subject to section 32, give to the individual—
+(a)
+(b)
+
+44
+
+the reason for withholding the information; and
+if the individual so requests, the grounds in support of that reason, unless
+the giving of those grounds would itself prejudice the interests protected by
+section 27 or section 28 or section 29 and (in the case of the interests
+protected by section 28) there is no countervailing public interest.
+
+REASON FOR REFUSAL TO BE GIVEN
+Where an information privacy request made by an individual is refused, the
+agency shall,—
+(a)
+
+(b)
+
+45
+
+subject to section 32, give to the individual—
+(i)
+the reason for its refusal; and
+(ii) if the individual so requests, the grounds in support of that reason,
+unless the giving of those grounds would itself prejudice the interests
+protected by section 27 or section 28 or section 29 and (in the case of
+the interests protected by section 28) there is no countervailing public
+interest; and
+give to the individual information concerning the individual’s right, by way of
+complaint under section 67 to the Commissioner, to seek an investigation
+and review of the refusal.
+
+PRECAUTIONS
+Where an information privacy request is made pursuant to subclause (1)(b) of
+[rule 6], the agency—
+44
+
+(a)
+(b)
+
+(c)
+
+shall not give access to that information unless it is satisfied concerning the
+identity of the individual making the request; and
+shall ensure, by the adoption of appropriate procedures, that any information
+intended for an individual is received—
+(i)
+only by that individual; or
+(ii) where the request is made by an agent of the individual, only by that
+individual or his or her agent; and
+shall ensure that, where the request is made by an agent of the individual,
+the agent has the written authority of that individual to obtain the information
+or is otherwise properly authorised by that individual to obtain the
+information.
+
+54
+
+COMMISSIONER MAY AUTHORISE COLLECTION, USE, OR DISCLOSURE
+OF PERSONAL INFORMATION
+
+(1)
+
+The Commissioner may authorise an agency to collect, use, or disclose personal
+information, even though that collection, use, or disclosure would otherwise be in
+breach of [rule 2 or rule 10 or rule 11], if the Commissioner is satisfied that, in the
+special circumstances of the case,—
+(a)
+
+(b)
+
+the public interest in that collection or, as the case requires, that use or that
+disclosure outweighs, to a substantial degree, any interference with the
+privacy of the individual that could result from that collection or, as the case
+requires, that use or that disclosure; or
+that collection or, as the case requires, that use or that disclosure involves a
+clear benefit to the individual concerned that outweighs any interference with
+the privacy of the individual that could result from that collection or, as the
+case requires, that use or that disclosure.
+
+(2)
+
+The Commissioner may impose in respect of any authority granted under
+subsection (1) such conditions as the Commissioner thinks fit.
+
+(3)
+
+The Commissioner shall not grant an authority under subsection (1) in respect of
+the collection, use, or disclosure of any personal information for any purpose if the
+individual concerned has refused to authorise the collection or, as the case
+requires, the use or disclosure of the information for that purpose.
+
+126 LIABILITY OF EMPLOYER AND PRINCIPALS
+(1)
+
+Subject to subsection (4), anything done or omitted by a person as the employee
+of another person shall, for the purposes of this Act, be treated as done or omitted
+by that other person as well as by the first-mentioned person, whether or not it
+was done with that other person’s knowledge or approval.
+
+(2)
+
+Anything done or omitted by a person as the agent of another person shall, for the
+purposes of this Act, be treated as done or omitted by that other person as well as
+by the first-mentioned person, unless it is done or omitted without that other
+person’s express or implied authority, precedent or subsequent.
+
+(3)
+
+Anything done or omitted by a person as a member of any agency shall, for the
+purposes of this Act, be treated as done or omitted by that agency as well as by
+45
+
+the first-mentioned person, unless it is done or omitted without that agency’s
+express or implied authority, precedent or subsequent.
+(4)
+
+In proceedings under this Act against any person in respect of an act alleged to
+have been done by an employee of that person, it shall be a defence for that
+person to prove that he or she or it took such steps as were reasonably
+practicable to prevent the employee from doing that act, or from doing as an
+employee of that person acts of that description.
+
+Extracts from Children, Young Persons, and Their Families Act
+1989
+15
+
+REPORTING OF ILL-TREATMENT OR NEGLECT OF CHILD OR YOUNG
+PERSON
+Any person who believes that any child or young person has been, or is likely to
+be, harmed (whether physically, emotionally, or sexually), ill-treated, abused,
+neglected, or deprived may report the matter to a social worker or a constable.
+
+16
+
+PROTECTION OF PERSON REPORTING ILL-TREATMENT OR NEGLECT OF
+CHILD OR YOUNG PERSON
+No civil, criminal, or disciplinary proceedings shall lie against any person in
+respect of the disclosure or supply, or the manner of the disclosure or supply, by
+that person pursuant to section 15 of information concerning a child or young
+person (whether or not that information also concerns any other person), unless
+the information was disclosed or supplied in bad faith.
+
+Extracts from Evidence Act 2006
+59
+
+PRIVILEGE IN CRIMINAL PROCEEDINGS FOR INFORMATION OBTAINED BY
+MEDICAL PRACTITIONERS AND CLINICAL PSYCHOLOGISTS
+
+(1)
+
+This section—
+(a)
+
+(b)
+
+(2)
+
+applies to a person who consults or is examined by a medical
+practitioner or a clinical psychologist for drug dependency or any other
+condition or behaviour that may manifest itself in criminal conduct; but
+does not apply in the case of a person who has been required by an
+order of a Judge, or by other lawful authority, to submit himself or
+herself to the medical practitioner or clinical psychologist for any
+examination, test, or for any other purpose.
+
+A person has a privilege in a criminal proceeding in respect of any
+communication made by the person to a medical practitioner or clinical
+psychologist that the person believes is necessary to enable the medical
+practitioner or clinical psychologist to examine, treat, or care for the person
+for drug dependency or any other condition or behaviour that may manifest
+itself in criminal conduct.
+
+46
+
+(3)
+
+A person has a privilege in a criminal proceeding in respect of information
+obtained by a medical practitioner or clinical psychologist as a result of
+consulting with or examining the person to enable the medical practitioner or
+clinical psychologist to examine, treat, or care for the person for drug
+dependency or any other condition or behaviour that may manifest itself in
+criminal conduct.
+
+(4)
+
+A person has a privilege in a criminal proceeding in respect of information
+consisting of a prescription, or notes of a prescription, for treatment
+prescribed by a medical practitioner or clinical psychologist as a result of
+consulting with or examining the person to enable the medical practitioner or
+clinical psychologist to treat or care for the person for drug dependency or
+any other condition or behaviour that may manifest itself in criminal conduct.
+
+(5)
+
+A reference in this section to a communication to or information obtained by a
+medical practitioner or a clinical psychologist is to be taken to include a
+reference to a communication to or information obtained by a person acting in
+a professional capacity on behalf of a medical practitioner or clinical
+psychologist in the course of the examination or treatment of, or care for, the
+person by that medical practitioner or clinical psychologist.
+
+(6)
+
+In this section,—
+clinical psychologist means a health practitioner—
+(a)
+
+(b)
+
+who is, or is deemed to be, registered with the Psychologists Board
+continued by section 114(1)(a) of the Health Practitioners Competence
+Assurance Act 2003 as a practitioner of the profession of psychology;
+and
+who is by his or her scope of practice permitted to diagnose and treat
+persons suffering from mental and emotional problems
+
+drug dependency means the state of periodic or chronic intoxication produced by
+the repeated consumption, smoking, or other use of a controlled drug (as defined
+in section 2(1) of the Misuse of Drugs Act 1975) detrimental to the user, and
+involving a compulsive desire to continue consuming, smoking, or otherwise using
+the drug or a tendency to increase the dose of the drug.
+
+Extracts from Health Act 1956
+22C DISCLOSURE OF HEALTH INFORMATION
+(1)
+
+Any person (being an agency that provides services or arranges the provision of
+services) may disclose health information—
+(a)
+
+(b)
+
+if that information—
+(i)
+is required by any person specified in subsection (2); and
+(ii) is required (or, in the case of the purpose set out in paragraph (j) of
+that subsection, is essential) for the purpose set out in that subsection
+in relation to the person so specified; or
+if that disclosure is permitted—
+47
+
+(i)
+(ii)
+
+(2)
+
+The persons and purposes referred to in subsection (1)(a) are as follows:
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+(g)
+
+(h)
+
+(i)
+(j)
+
+(3)
+
+by or under a code of practice issued under section 46 of the Privacy
+Act 1993; or
+if no such code of practice applies in relation to the information, by any
+of the information privacy principles set out in section 6 of that Act.
+
+any medical officer of a prison within the meaning of the Corrections Act
+2004, for the purposes of exercising or performing any of that person’s
+powers, duties, or functions under that Act:
+any probation officer within the meaning of the Corrections Act 2004, for the
+purposes of exercising or performing any of that person’s powers, duties, or
+functions under any enactment:
+a Social Worker or a Care and Protection Co-ordinator within the meaning of
+the Children, Young Persons, and Their Families Act 1989, for the purposes
+of exercising or performing any of that person’s powers, duties, or functions
+under that Act:
+any employee of the department for the time being responsible for the
+administration of the Social Security Act 1964, for the purposes of
+administering section 75 of the Social Security Act 1964:
+any member of the New Zealand Defence Force, for the purposes of
+administering the Armed Forces Discipline Act 1971 or the Defence Act
+1990:
+any constable, for the purposes of exercising or performing any of that
+person’s powers, duties, or functions:
+any employee of the Ministry of Health, for the purposes of—
+(i)
+administering this Act or the Hospitals Act 1957; or
+(ii) compiling statistics for health purposes:
+any employee of the Ministry of Agriculture and Forestry authorised by the
+chief executive of that Ministry to receive the information, for the purposes of
+administering the Meat Act 1981 or the Animal Products Act 1999:
+any employee of the New Zealand Transport Agency, for statistical or
+research purposes in relation to road safety or the environment:
+any employee of a district health board, for the purposes of exercising or
+performing any of that board’s powers, duties, or functions under the New
+Zealand Public Health and Disability Act 2000.
+
+For the purposes of principle 11(d) of the Privacy Act 1993, the disclosure of
+health information about an individual may be authorised—
+(a)
+(b)
+
+by that individual personally, if he or she has attained the age of 16 years; or
+by a representative of that individual.
+
+22D DUTY TO PROVIDE HEALTH INFORMATION
+(1)
+
+The Minister may at any time, by notice in writing, require any district health board
+to provide, in such manner as may from time to time be required, such returns or
+other information as is specified in the notice concerning the condition or
+treatment of, or the services provided to, any individuals in order to obtain
+statistics for health purposes or for the purposes of advancing health knowledge,
+health education, or health research.
+48
+
+(2)
+
+Subject to subsection (3), it is the duty of a district health board to provide the
+returns or other information specified in a notice given to it under subsection (1)
+within such time, and in such form, as is specified in the notice.
+
+(3)
+
+No information that would enable the identification of an individual may be
+provided under this section unless—
+(a)
+(b)
+
+(4)
+
+the individual consents to the provision of such information; or
+the identifying information is essential for the purposes for which the
+information is sought.
+
+For the purposes of subsection (3)(a), consent to the provision of information may
+be given—
+(a)
+(b)
+
+by the individual personally, if he or she has attained the age of 16 years; or
+by a representative of that individual.
+
+22F COMMUNICATION OF INFORMATION FOR DIAGNOSTIC AND OTHER
+PURPOSES
+(1)
+
+Every person who holds health information of any kind shall, at the request of the
+individual about whom the information is held, or a representative of that
+individual, or any other person that is providing, or is to provide, services to that
+individual, disclose that information to that individual or, as the case requires, to
+that representative or to that other person.
+
+(2)
+
+A person that holds health information may refuse to disclose that information
+under this section if—
+(a)
+(b)
+
+(c)
+
+(3)
+
+that person has a lawful excuse for not disclosing that information; or
+where the information is requested by someone other than the individual
+about whom it is held (not being a representative of that individual), the
+holder of the information has reasonable grounds for believing that that
+individual does not wish the information to be disclosed; or
+refusal is authorised by a code of practice issued under section 46 of the
+Privacy Act 1993.
+
+For the purposes of subsection (2)(a), neither—
+(a)
+(b)
+(c)
+
+the fact that any payment due to the holder of any information or to any
+other person has not been made; nor
+the need to avoid prejudice to the commercial position of the holder of any
+information or of any other person; nor
+the fact that disclosure is not permitted under any of the information privacy
+principles set out in section 6 of the Privacy Act 1993—
+
+shall constitute a lawful excuse for not disclosing information under this section.
+(4)
+
+Where any person refuses to disclose health information in response to a request
+made under this section, the person whose request is refused may make a
+complaint to the Privacy Commissioner under Part 8 of the Privacy Act 1993, and
+that Part of that Act, so far as applicable and with all necessary modifications,
+49
+
+shall apply in relation to that complaint as if the refusal to which the complaint
+relates were a refusal to make information available in response to an information
+privacy request within the meaning of that Act.
+(5)
+
+Nothing in subsection (4) limits any other remedy that is available to any person
+who is aggrieved by any refusal to disclose information under this section.
+
+22G INSPECTION OF RECORDS
+(1)
+
+In this section, provider means a person who has claimed payment for services
+from 1 or more of the following:
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+
+(2)
+
+Every provider must, forthwith after a request by the Director-General or the chief
+executive of a district health board or of Health Benefits Limited, make available
+any records of the provider that relate to the services concerned for inspection—
+(a)
+
+(b)
+(3)
+
+the Ministry of Health:
+a district health board:
+the Health Funding Authority or a person authorised by the Health Funding
+Authority to make payments:
+a regional health authority or a person authorised by a regional health
+authority to make payments:
+a hospital and health service:
+a Crown health enterprise:
+an area health board:
+a hospital board:
+the Department of Health.
+
+by a person authorised in writing by the Director-General or the chief
+executive of the district health board or Health Benefits Limited (as the case
+may be) for this purpose, being a person who holds a professional
+qualification relevant to the services provided by the provider or any other
+person the Director-General or the chief executive considers appropriate;
+and
+for the purpose of verifying the claim for payment.
+
+Any person authorised in accordance with subsection (2) to inspect the records of
+a provider may copy or take notes of those records for the purposes of the
+inspection.
+
+22H ANONYMOUS HEALTH INFORMATION
+Notwithstanding any enactment, rule of law, or other obligation, any person may
+supply to any other person health information that does not enable the
+identification of the individual to whom the information relates.
+
+50
+
+Extracts from Health
+Regulations 1996
+
+(Retention
+
+of
+
+Health
+
+Information)
+
+3
+
+GENERAL EFFECT
+
+(1)
+
+The general effect of these regulations is to impose an obligation on providers
+of services to retain, for a minimum period, health information relating to
+identifiable individuals.
+
+(2)
+
+That obligation is imposed on the provider that for the time being holds the
+health information, even though the information may have been transferred to
+that provider.
+
+5
+
+DEFINITION OF MINIMUM RETENTION PERIOD
+In these regulations, unless the context otherwise requires, minimum
+retention period, in relation to health information that relates to an identifiable
+individual, means a period of 10 years beginning on the day after the date
+shown in the health information as the most recent date on which a provider
+provided services to that individual.
+
+6
+
+HEALTH INFORMATION TO BE KEPT FOR MINIMUM RETENTION
+PERIOD
+
+(1)
+
+Subject to subclause (2) and to regulations 7, 8, and 9, every provider that
+holds health information shall retain that health information for the minimum
+retention period.
+
+(2)
+
+Subclause (1) does not prevent a provider from transferring health information
+that relates to an identifiable individual to,—
+(a)
+(b)
+(c)
+
+another provider; or
+the individual to whom the information relates; or
+if that individual is dead, the personal representative of that individual.
+
+11
+
+OFFENCE
+
+(1)
+
+Every provider commits an offence who fails, without reasonable excuse, to
+comply with regulation 6(1).
+
+(2)
+
+Every provider who commits an offence against subclause (1) is liable on
+conviction to a fine not exceeding $500.
+
+Extracts from Medicines Act 1981
+49A STATEMENTS REGARDING PERSONS DEPENDENT ON PRESCRIPTION
+MEDICINES OR RESTRICTED MEDICINES
+(1)
+
+If a Medical Officer of Health has reason to believe that any person is or is
+likely to become dependent on any prescription medicine or restricted
+51
+
+medicine, the Medical Officer of Health may, for the purpose of preventing or
+restricting the supply of prescription medicines or restricted medicines to that
+person, or of assisting in the cure or mitigation or avoidance of the
+dependence of that person, publish statements relating to that person to all or
+any of the members of all or any of the classes of persons set out in
+subsection (3).
+(2)
+
+Every statement made under subsection (1) shall be privileged unless the
+publication is proved to be made with malice.
+
+(3)
+
+The classes of persons referred to in subsection (1) are as follows:
+(a)
+(b)
+
+officers:
+officers and employees of any district health board established by or
+under section 19 of the New Zealand Public Health and Disability Act
+2000:
+(c) people providing, or employed in providing, hospital care (within the
+meaning of the Health and Disability Services (Safety) Act 2001):
+(d) managers of prisons within the meaning of the Corrections Act 2004:
+(e) managers and superintendents of institutions within the meaning of the
+Alcoholism and Drug Addiction Act 1966:
+(f)
+authorised prescribers:
+(g) delegated prescribers:
+(ga) [Repealed]
+(gb) [Repealed]
+(h) Police employees:
+(i)
+persons who deal in prescription medicines or restricted medicines in
+the course of business.
+(4)
+
+Nothing in subsection (1) or subsection (2) shall limit or affect any right or
+duty that a Medical Officer of Health may otherwise possess to publish a
+statement to any person.
+
+(5)
+
+Every person commits an offence against this Act who, except in the course
+of duty as a member of a class set out in subsection (3) or as an officer or
+servant of the Crown, publishes any information obtained, whether by that
+person or any other person, from a statement made pursuant to subsection
+(1), or any comment on any such statement.
+
+Extracts from Misuse of Drugs Act 1975
+20
+
+STATEMENTS REGARDING DRUG DEPENDENT PERSONS
+
+(1)
+
+If a Medical Officer of Health has reason to believe that any person is or is
+likely to become dependent on any controlled drug, he may, for the purpose
+of preventing or restricting the supply of controlled drugs to that person, or of
+assisting in the cure or mitigation or avoidance of the dependence of that
+person, publish statements relating to that person to all or any of the
+members of all or any of the classes of persons set out in subsection (3).
+
+(2)
+
+Every statement made under subsection (1) shall be privileged unless the
+publication is proved to be made with malice.
+52
+
+(3)
+
+The classes of persons referred to in subsection (1) are as follows:
+(a)
+
+employees of any district health board established by or under the New
+Zealand Public Health and Disability Act 2000:
+(aa) [Repealed]
+(b) a hospital care operator within the meaning of section 58(4) of the
+Health and Disability Services (Safety) Act 2001:
+(c) managers of prisons within the meaning of the Corrections Act 2004:
+(d) managers and superintendents of institutions within the meaning of the
+Alcoholism and Drug Addiction Act 1966:
+(e) medical practitioners:
+(f)
+dentists:
+(fa) midwives:
+(fb) designated prescribers:
+(fc) nurse practitioners:
+(fd) optometrists:
+(g) Police employees:
+(h) persons who deal in controlled drugs in the course of business.
+(4)
+
+Nothing in subsection (1) or subsection (2) shall limit or affect any right or
+duty which a Medical Officer of Health may otherwise possess to publish a
+statement to any person.
+
+(5)
+
+Every person commits an offence against this Act who, except in the course
+of duty as a member of a class set out in subsection (3) or as an officer or
+servant of the Crown, publishes any information obtained, whether by him or
+any other person, from a statement made pursuant to subsection (1), or any
+comment on any such statement.
+
+Extracts from New Zealand Bill of Rights Act 1990
+10
+
+Right not to be subjected to medical or scientific experimentation
+Every person has the right not to be subjected to medical or scientific
+experimentation without that person's consent.
+
+11
+
+Right to refuse to undergo medical treatment
+Everyone has the right to refuse to undergo any medical treatment.
+
+53
+
+Legislative history:
+28 June 1994
+12 July 1994
+30 July 1994
+26 June 1995
+29 July 1995
+30 July 1995
+24 August 1998
+30 September 1998
+1 March 2000
+10 April 2000
+6 June 2000
+30 July 2000
+17 September 2007
+1 November 2007
+18 March 2013
+30 April 2013
+9 September 2015
+15 October 2015
+25 August 2017
+28 September 2017
+
+Code issued
+Amendment No 1 (Temporary) issued
+Code commenced, Amendment No 1 (Temporary) commenced.
+Amendment No 2 issued
+Amendment No 1 (Temporary) expired
+Amendment No 2 commenced
+Amendment No 3 issued
+Amendment No 3 commenced
+Amendment No 4 issued
+Amendment No 4 commenced
+Amendment No 5 issued
+Amendment No 5 commenced
+Amendment No 6 issued
+Amendment No 6 commenced
+Amendment No 7 issued
+Amendment No 7 commenced
+Amendment No 8 issued
+Amendment No 8 commenced
+Amendment No 9 issued
+Amendment No 9 commenced.
+
+Health Information Privacy Code 1994
+This consolidation: September 2017
+Available to download at www.privacy.org.nz
+
+Office of the Privacy Commissioner
+PO Box 10094
+Wellington 6143
+0800 803 909
+54
+
+

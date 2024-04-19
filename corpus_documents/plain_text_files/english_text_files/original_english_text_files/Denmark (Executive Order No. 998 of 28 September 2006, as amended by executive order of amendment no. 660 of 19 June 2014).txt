@@ -1,0 +1,1174 @@
+Basket
+
+Get Email Updates
+
+OUR BRANDS:
+
+Home
+
+Practice Areas
+
+Associations
+Jurisdictions
+
+Compare & Research
+
+Latest BrieGngs
+
+Business Sectors
+
+Denmark: Data Protection Laws and Regulations 2020
+
+Latest News
+
+GLG Events
+
+Videos
+
+Partner Events
+
+Login
+Contributors
+
+Hot off the press
+
+ICLG - Data Protection Laws and Regulations - Denmark covers common
+issues including relevant legislation and competent authorities, territorial scope,
+key principles, individual rights, registration formalities, appointment of a data
+protection o9cer and of processors - in 39 jurisdictions.
+Published: 06/07/2020
+28/05/2021
+
+25/05/2021
+
+20/05/2021
+
+Securitisation
+
+Anti
+Money
+Laundering
+
+Aviation
+Finance &
+Leasing
+
+ICLG.com > Practice Areas > Data Protection > Denmark
+
+Chapter Content
+
+Read this chapter FREE
+
+Free Access
+
+To download this chapter FREE
+1. Relevant Legislation and Competent Authorities
+
+Register or log in here
+
+2. DeJnitions
+3. Territorial Scope
+4. Key Principles
+
+Buy Chapter in PDF format
+
+£100
+
+Buy the Book in PDF format
+
+£295
+
+5. Individual Rights
+6. Registration Formalities and Prior Approval
+
+Other Denmark Chapters
+
+7. Appointment of a Data Protection OScer
+8. Appointment of Processors
+
+Aviation Law
+Competition Litigation
+
+9. Marketing
+
+Construction & Engineering Law
+
+10. Cookies
+
+Corporate Governance
+
+11. Restrictions on International Data Transfers
+
+Corporate Investigations
+
+12. Whistle-blower Hotlines
+
+Employment & Labour Law
+Fintech
+
+13. CCTV
+
+Gambling
+
+14. Employee Monitoring
+
+Insurance & Reinsurance
+
+15. Data Security and Data Breach
+
+Litigation & Dispute Resolution
+
+16. Enforcement and Sanctions
+17. E-discovery / Disclosure to Foreign Law Enforcement Agencies
+18. Trends and Developments
+
+Mergers & Acquisitions
+Pharmaceutical Advertising
+Private Client
+Public Investment Funds
+Shipping Law
+
+1. Relevant Legislation and Competent Authorities
+
+1.1
+
+What is the principal data protection legislation?
+
+Since 25 May 2018, the principal data protection legislation in the EU has been Regulation (EU) 2016/679 (the
+“General Data Protection Regulation” or “GDPR”). The GDPR repealed Directive 95/46/EC (the “Data Protection
+Directive”) and has led to increased (though not total) harmonisation of data protection law across the EU
+Member States.
+1.2
+
+Is there any other general legislation that impacts data protection?
+
+On 23 May 2018, the Act on supplementary provisions to the regulation on the protection of natural persons
+with regard to the processing of personal data and on the free movement of such data (the “Data Protection
+Act” or the “DP Act”) was adopted and enforced.
+Executive Order of 9 December 2011 (the “Cookie Order”) implements the ePrivacy Directive 2002/58/EC (as
+amended by Directive 2009/136/EC) (the “ePrivacy Directive”), which provides a speci[c set of privacy rules to
+harmonise the processing of personal data by the telecoms sector. In January 2017, the European
+Commission published a proposal for an ePrivacy regulation (the “ePrivacy Regulation”) that would harmonise
+the applicable rules across the EU. In September 2017, the Council of the European Union published proposed
+revisions to the draft. The ePrivacy Regulation is awaiting Parliament’s position in [rst reading.
+Act no. 128 on Electronic Communications Networks and Services of 7 February 2014 (the “Tele Act”) and
+Executive Order on the retention and storage of tra9c data by providers of electronic communications
+networks and services, no. 988 of 28 September 2006, as amended by executive order of amendment no. 660
+of 19 June 2014 (the “Retention Order”), implement parts of Directive 2006/24/EC on the retention of data
+generated or processed in connection with the provision of publicly available electronic communications
+services or of public communications networks and amending Directive 2002/58/EC.
+1.3
+
+Is there any sector-speciJc legislation that impacts data protection?
+
+Yes, there is sector-speci[c data protection regulation in the following sectors:
+the health sector;
+the telecommunications sector;
+the [nancial sector; and
+the criminal enforcement [eld.
+1.4
+
+What authority(ies) are responsible for data protection?
+
+Principally, the Danish Data Protection Agency (the “DPA”) is the supervisory authority with responsibility for
+compliance with the GDPR and the DP Act.
+The Danish Court Administration supervises the processing of data carried out for the courts when they do not
+act in their capacity of courts.
+The Danish Business Authority is the supervisory authority for the regulation on cookies and
+telecommunication.
+
+2. DeJnitions
+
+2.1
+
+Please provide the key deJnitions used in the relevant legislation:
+“Personal Data” means any information relating to an identi[ed or identi[able natural person; an
+identi[able natural person is one who can be identi[ed, directly or indirectly, in particular by reference to
+an identi[er such as a name, an identi[cation number, location data, an online identi[er or to one or
+more factors speci[c to the physical, physiological, genetic, mental, economic, cultural or social identity
+of that natural person.
+“Processing” means any operation or set of operations which is performed on personal data or on sets
+of personal data, whether or not by automated means, such as collection, recording, organisation,
+structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission,
+dissemination or otherwise making available, alignment or combination, restriction, erasure or
+destruction.
+“Controller” means the natural or legal person, public authority, agency or other body which, alone or
+jointly with others, determines the purposes and means of the processing of personal data.
+“Processor” means a natural or legal person, public authority, agency or other body which processes
+personal data on behalf of the controller.
+“Data Subject” means an individual who is the subject of the relevant personal data.
+“Sensitive Personal Data” are personal data revealing racial or ethnic origin, political opinions, religious
+or philosophical beliefs, trade-union membership, data concerning health or sex life and sexual
+orientation, genetic data or biometric data.
+“Data Breach” means a breach of security leading to the accidental or unlawful destruction, loss,
+alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise
+processed.
+
+3. Territorial Scope
+
+3.1
+
+Do the data protection laws apply to businesses established in other jurisdictions? If so, in what
+
+circumstances would a business established in another jurisdiction be subject to those laws?
+The GDPR applies to businesses that are established in any EU Member State, and that process personal data
+(either as a controller or processor, and regardless of whether or not the processing takes place in the EU) in
+the context of that establishment.
+A business that is not established in any Member State, but is subject to the laws of a Member State by virtue
+of public international law, is also subject to the GDPR.
+The GDPR applies to businesses outside the EU if they (either as controller or processor) process the personal
+data of EU residents in relation to: (i) the offering of goods or services (whether or not in return for payment) to
+EU residents; or (ii) the monitoring of the behaviour of EU residents (to the extent that such behaviour takes
+place in the EU).
+Further, the GDPR applies to businesses established outside the EU if they monitor the behaviour of EU
+residents (to the extent such behaviour takes place in the EU).
+
+4. Key Principles
+
+4.1
+
+What are the key principles that apply to the processing of personal data?
+
+Transparency
+Personal data must be processed lawfully, fairly and in a transparent manner. Controllers must provide certain
+minimum information to data subjects regarding the collection and further processing of their personal data.
+Such information must be provided in a concise, transparent, intelligible and easily accessible form, using clear
+and plain language.
+Lawful basis for processing
+Processing of personal data is lawful only if, and to the extent that, it is permitted under EU data protection
+law. The GDPR provides an exhaustive list of legal bases on which personal data may be processed, of which
+the following are the most relevant for businesses: (i) prior, freely given, speci[c, informed and unambiguous
+consent of the data subject; (ii) contractual necessity (i.e., the processing is necessary for the performance of
+a contract to which the data subject is a party, or for the purposes of pre-contractual measures taken at the
+data subject’s request); (iii) compliance with legal obligations (i.e., the controller has a legal obligation, under
+the laws of the EU or an EU Member State, to perform the relevant processing); or (iv) legitimate interests (i.e.,
+the processing is necessary for the purposes of legitimate interests pursued by the controller, except where
+the controller’s interests are overridden by the interests, fundamental rights or freedoms of the affected data
+subjects).
+Please note that businesses require stronger grounds to process sensitive personal data. The processing of
+sensitive personal data is only permitted under certain conditions, of which the most relevant for businesses
+are: (i) explicit consent of the affected data subject; (ii) the processing is necessary in the context of
+employment law; or (iii) the processing is necessary for the establishment, exercise or defence of legal claims.
+Purpose limitation
+Personal data may only be collected for speci[ed, explicit and legitimate purposes and must not be further
+processed in a manner that is incompatible with those purposes. If a controller wishes to use the relevant
+personal data in a manner that is incompatible with the purposes for which they were initially collected, it
+must: (i) inform the data subject of such new processing; and (ii) be able to rely on a lawful basis as set out
+above.
+Data minimisation
+Personal data must be adequate, relevant and limited to what is necessary in relation to the purposes for
+which those data are processed. A business should only process the personal data that it actually needs to
+process in order to achieve its processing purposes.
+Retention
+Personal data must be kept in a form that permits identi[cation of data subjects for no longer than is
+necessary for the purposes for which the personal data are processed.
+Accuracy
+Personal data must be accurate and, where necessary, kept up to date. A business must take every
+reasonable step to ensure that personal data that are inaccurate are either erased or recti[ed without delay.
+Data security
+Personal data must be processed in a manner that ensures appropriate security of those data, including
+protection against unauthorised or unlawful processing and against accidental loss, destruction or damage,
+using appropriate technical or organisational measures.
+Accountability
+The controller is responsible for, and must be able to demonstrate, compliance with the data protection
+principles set out above.
+
+5. Individual Rights
+
+5.1
+
+What are the key rights that individuals have in relation to the processing of their personal data?
+
+Right of access to data/copies of data
+A data subject has the right to obtain from a controller the following information in respect of the data
+subject’s personal data: (i) con[rmation of whether, and where, the controller is processing the data subject’s
+personal data; (ii) information about the purposes of the processing; (iii) information about the categories of
+data being processed; (iv) information about the categories of recipients with whom the data may be shared;
+(v) information about the period for which the data will be stored (or the criteria used to determine that period);
+(vi) information about the existence of the rights to erasure, to recti[cation, to restriction of processing and to
+object to processing; (vii) information about the existence of the right to complain to the relevant data
+protection authority; (viii) where the data were not collected from the data subject, information as to the source
+of the data; and (ix) information about the existence of, and an explanation of the logic involved in, any
+automated processing that has a signi[cant effect on the data subject.
+Additionally, the data subject may request a copy of the personal data being processed.
+Right to rectiJcation of errors
+Controllers must ensure that inaccurate or incomplete data are erased or recti[ed. Data subjects have the
+right to recti[cation of inaccurate personal data.
+Right to deletion/right to be forgotten
+Data subjects have the right to erasure of their personal data (the “right to be forgotten”) if: (i) the data are no
+longer needed for their original purpose (and no new lawful purpose exists); (ii) the lawful basis for the
+processing is the data subject’s consent, the data subject withdraws that consent, and no other lawful ground
+exists; (iii) the data subject exercises the right to object, and the controller has no overriding grounds for
+continuing the processing; (iv) the data have been processed unlawfully; or (v) erasure is necessary for
+compliance with EU law or national data protection law.
+Right to object to processing
+Data subjects have the right to object, on grounds relating to their particular situation, to the processing of
+personal data where the basis for that processing is either public interest or legitimate interest of the
+controller. The controller must cease such processing unless it demonstrates compelling legitimate grounds
+for the processing which override the interests, rights and freedoms of the relevant data subject or requires the
+data in order to establish, exercise or defend legal rights.
+Right to restrict processing
+Data subjects have the right to restrict the processing of personal data, which means that the data may only be
+held by the controller, and may only be used for limited purposes if: (i) the accuracy of the data is contested
+(and only for as long as it takes to verify that accuracy); (ii) the processing is unlawful and the data subject
+requests restriction (as opposed to exercising the right to erasure); (iii) the controller no longer needs the data
+for their original purpose, but the data are still required by the controller to establish, exercise or defend legal
+rights; or (iv) veri[cation of overriding grounds is pending, in the context of an erasure request.
+Right to data portability
+Data subjects have a right to receive a copy of their personal data in a commonly used machine-readable
+format, and transfer their personal data from one controller to another or have the data transmitted directly
+between controllers.
+Right to withdraw consent
+A data subject has the right to withdraw their consent at any time. The withdrawal of consent does not affect
+the lawfulness of processing based on consent before its withdrawal. Prior to giving consent, the data subject
+must be informed of the right to withdraw consent. It must be as easy to withdraw consent as to give it.
+Right to object to marketing
+Data subjects have the right to object to the processing of personal data for the purpose of direct marketing,
+including pro[ling.
+Right to complain to the relevant data protection authority(ies)
+Data subjects have the right to lodge complaints concerning the processing of their personal data with the
+Danish Data Protection Agency, if the data subjects live in Denmark or the alleged infringement occurred in
+Denmark.
+Right to basic information
+Data subjects have the right to be provided with information on the identity of the controller, the reasons for
+processing their personal data and other relevant information necessary to ensure the fair and transparent
+processing of personal data.
+
+6. Registration Formalities and Prior Approval
+
+6.1
+
+Is there a legal obligation on businesses to register with or notify the data protection authority (or any
+
+other governmental body) in respect of its processing activities?
+According to the DP Act, private data controllers shall obtain an authorisation from the DPA prior to the
+processing of personal data where the processing of data is carried out:
+i. for the purpose of warning others against having business relations or accepting employment with a certain
+data subject;
+ii. for the purpose of commercial disclosure of data for the assessment of [nancial standing and
+creditworthiness; or
+iii. exclusively for the purpose of operating legal information systems. Amendments also require authorisation.
+The DPA will lay down terms for the processing.
+According to the Danish Act on information databases operated by the mass media, mass media shall notify
+the DPA of editorial information databases and publicly available information databases.
+6.2
+
+If such registration/notiJcation is needed, must it be speciJc (e.g., listing all processing activities,
+
+categories of data, etc.) or can it be general (e.g., providing a broad description of the relevant processing
+activities)?
+The controller shall provide the DPA with speci[c information on the processing, e.g., “listing all processing
+activities, categories of data”, cf. question 6.5.
+6.3
+
+On what basis are registrations/notiJcations made (e.g., per legal entity, per processing purpose, per
+
+data category, per system or database)?
+Registrations and noti[cations are made according to the processing purpose.
+6.4
+
+Who must register with/notify the data protection authority (e.g., local legal entities, foreign legal
+
+entities subject to the relevant data protection legislation, representative or branch oSces of foreign legal
+entities subject to the relevant data protection legislation)?
+In very few cases, private controllers have an obligation to notify the DPA and obtain approval prior to
+processing personal data for speci[c purposes.
+6.5
+
+What information must be included in the registration/notiJcation (e.g., details of the notifying entity,
+
+affected categories of individuals, affected categories of personal data, processing purposes)?
+An authorisation application requires information on:
+name and contact details of the controller (including any joint controller, representative and data
+protection o9cer);
+purpose and a general description of the processing;
+categories of data subjects;
+categories of personal data;
+categories of recipients;
+where applicable, transfers of personal data to a third country;
+retention period; and
+technical and organisational security measures.
+6.6
+
+What are the sanctions for failure to register/notify where required?
+
+The provisions on noti[cation of the DPA are based on Article 36, subsection 5 of the GDPR, and the sanctions
+for non-compliance with the obligation to obtain an authorisation follow the sanction for non-compliance with
+Article 36, subsection 5.
+The purpose of the mass media noti[cation is to exclude the mass media information databases from the
+scope of the GDPR and DP Act.
+There are no sanctions for mass media’s failure to notify the DPA of the information databases. If a mass
+media organisation fails to notify the DPA, the media’s processing of personal data in the information database
+will be subject to the DP Act and the GDPR.
+6.7
+
+What is the fee per registration/notiJcation (if applicable)?
+
+There is no registration fee.
+6.8
+
+How frequently must registrations/notiJcations be renewed (if applicable)?
+
+Registrations/noti[cations must be renewed when any amendments are made.
+6.9
+
+Is any prior approval required from the data protection regulator?
+
+According to the DP Act, prior approval is only required for disclosure of personal data processed for the sole
+purpose of statistical or scienti[c studies of signi[cant importance to society, if disclosure to a third party is
+for: (i) the purpose of processing outside the territorial scope of the GDPR; (ii) processing that relates to
+biological material; or (iii) the purpose of publication in a recognised scienti[c journal or similar, cf. question
+6.1.
+6.10
+
+Can the registration/notiJcation be completed online?
+
+No, it requires a positive approval from the DPA.
+6.11
+
+Is there a publicly available list of completed registrations/notiJcations?
+
+No, but the application and the authorisation can be subject to requests of subject access according to the
+Danish Publicity Act.
+6.12
+
+How long does a typical registration/notiJcation process take?
+
+It takes a minimum of six months, sometimes longer. There is a very small number of cases at this point.
+
+7. Appointment of a Data Protection OScer
+
+7.1
+
+Is the appointment of a Data Protection OScer mandatory or optional? If the appointment of a Data
+
+Protection OScer is only mandatory in some circumstances, please identify those circumstances.
+The appointment of a Data Protection O9cer for controllers or processors is only mandatory in some
+circumstances, including where there is: (i) large-scale regular and systematic monitoring of individuals; or (ii)
+large-scale processing of sensitive personal data.
+Where a business designates a Data Protection O9cer voluntarily, the requirements of the GDPR apply as
+though the appointment were mandatory.
+7.2
+
+What are the sanctions for failing to appoint a Data Protection OScer where required?
+
+In the circumstances where appointment of a Data Protection O9cer is mandatory, failure to comply may
+result in the wide range of penalties available under the GDPR.
+7.3
+
+Is the Data Protection OScer protected from disciplinary measures, or other employment
+
+consequences, in respect of his or her role as a Data Protection OScer?
+Yes, and hence the appointed Data Protection O9cer should not be dismissed or penalised for performing
+tasks and should report directly to the highest management level of the controller or processor.
+7.4
+
+Can a business appoint a single Data Protection OScer to cover multiple entities?
+
+A single Data Protection O9cer is permitted by a group of undertakings provided that the Data Protection
+O9cer is easily accessible from each establishment.
+7.5
+
+Please describe any speciJc qualiJcations for the Data Protection OScer required by law.
+
+The Data Protection O9cer should be appointed on the basis of professional qualities and should have an
+expert knowledge of data protection law and practices. While this is not strictly de[ned, it is clear that the level
+of expertise required will depend on the circumstances. For example, the involvement of large volumes of
+sensitive personal data will require a higher level of knowledge.
+7.6
+
+What are the responsibilities of the Data Protection OScer as required by law or best practice?
+
+A Data Protection O9cer should be involved in all issues which relate to the protection of personal data. The
+GDPR outlines the minimum tasks required by the Data Protection O9cer, which include: (i) informing the
+controller, processor and their relevant employees who process data of their obligations under the GDPR; (ii)
+monitoring compliance with the GDPR, national data protection legislation and internal policies in relation to
+the processing of personal data including internal audits; (iii) advising on data protection impact assessments
+and the training of staff; and (iv) co-operating with the data protection authority and acting as the authority’s
+primary contact point for issues related to data processing.
+7.7
+
+Must the appointment of a Data Protection OScer be registered/notiJed to the relevant data
+
+protection authority(ies)?
+Yes, the controller or processor must notify the data protection authority of the contact details of the
+designated Data Protection O9cer.
+7.8
+
+Must the Data Protection OScer be named in a public-facing privacy notice or equivalent document?
+
+The Data Protection O9cer does not necessarily need to be named in the public-facing privacy notice.
+However, the contact details of the Data Protection O9cer must be noti[ed to the data subject when personal
+data relating to that data subject are collected. As a matter of good practice, the Article 29 Working Party (the
+“WP29”) (now the European Data Protection Board (the “EDPB”)) recommended in its 2017 guidance on Data
+Protection O9cers that both the data protection authority and employees should be noti[ed of the name and
+contact details of the Data Protection O9cer.
+
+8. Appointment of Processors
+
+8.1
+
+If a business appoints a processor to process personal data on its behalf, must the business enter
+
+into any form of agreement with that processor?
+Yes. The business that appoints a processor to process personal data on its behalf, is required to enter into an
+agreement with the processor which sets out the subject matter for processing, the duration of processing, the
+nature and purpose of processing, the types of personal data and categories of data subjects, and the
+obligations and rights of the controller (i.e., the business).
+It is essential that the processor appointed by the business complies with the GDPR.
+8.2
+
+If it is necessary to enter into an agreement, what are the formalities of that agreement (e.g., in
+
+writing, signed, etc.) and what issues must it address (e.g., only processing personal data in accordance with
+relevant instructions, keeping personal data secure, etc.)?
+The processor must be appointed under a binding agreement in writing. The contractual terms must stipulate
+that the processor: (i) only acts on the documented instructions of the controller; (ii) imposes con[dentiality
+obligations on all employees; (iii) ensures the security of personal data that it processes; (iv) abides by the
+rules of regarding the appointment of sub-processors; (v) implements measures to assist the controller with
+guaranteeing the rights of data subjects; (vi) assists the controller in obtaining approval from the relevant data
+protection authority; (vii) either returns or destroys the personal data at the end of the relationship (except as
+required by EU or Member State law); and (viii) provides the controller with all information necessary to
+demonstrate compliance with the GDPR.
+
+9. Marketing
+
+9.1
+
+Please describe any legislative restrictions on the sending of electronic direct marketing (e.g., for
+
+marketing by email or SMS, is there a requirement to obtain prior opt-in consent of the recipient?).
+According to the Danish Marketing Practices Act, it is required to obtain a prior opt-in consent from the
+recipient. There are some modi[cations for customers of the trader.
+9.2
+
+Are these restrictions only applicable to business-to-consumer marketing, or do they also apply in a
+
+business-to-business context?
+The restrictions are applicable to both business-to-consumer marketing and business-to-business marketing.
+9.3
+
+Please describe any legislative restrictions on the sending of marketing via other means (e.g., for
+
+marketing by telephone, a national opt-out register must be checked in advance; for marketing by post, there
+are no consent or opt-out requirements, etc.).
+The national opt-out register “Robinsonlisten” must be checked in advance before marketing by telephone and
+post.
+Marketing by telephone is legal without consent, when the sole purpose is to sell:
+Books.
+Subscriptions to newspapers and magazines.
+Insurance.
+Rescue services and healthcare subscriptions.
+Marketing by telephone is legal where it is business-to-business.
+9.4
+
+Do the restrictions noted above apply to marketing sent from other jurisdictions?
+
+Yes, European and other international traders must comply with the Danish Marketing Practices Act when
+sending direct marketing to Danish consumers.
+9.5
+
+Is/are the relevant data protection authority(ies) active in enforcement of breaches of marketing
+
+restrictions?
+The supervision authority of the Marketing Practices Act is the Danish Consumer Ombudsman.
+The Danish Consumer Ombudsman is very active in the enforcement of breaches of marketing restrictions.
+9.6
+
+Is it lawful to purchase marketing lists from third parties? If so, are there any best practice
+
+recommendations on using such lists?
+Yes, it is lawful to purchase such lists. However, the receiving party must comply with the Marketing Practices
+Act. The disclosing party shall comply with Section 13 of the DP Act, which states that an enterprise may not
+disclose data concerning a consumer to another enterprise for the purpose of direct marketing or use such
+data on behalf of another enterprise for such marketing purpose unless the consumer has given explicit
+consent. Consent shall be obtained in accordance with the rules laid down in Section 10 of the Marketing
+Practices Act.
+On certain conditions pursuant to Section 13 of the DP Act, disclosure of general data on customers which
+form the basis for classi[cation into customer categories may take place without consent. It is a condition
+that the information can be processed according to Article 6 (1)(f) of the GDPR. It is required that the data
+controller, prior to disclosure, controls whether the data subjects have opted out of marketing via the opt-out
+list/Robinsonlisten.
+Data controllers who sell lists of groups of persons for direct marketing purposes or who print addresses or
+distribute messages to such groups on behalf of a third party may only process:
+i. data concerning name, address, position, occupation, email address, telephone and fax number;
+ii. data contained in trade registers which according to law, or provisions laid down by law, are intended for
+public information; and
+iii. other data if the data subject has given explicit consent. Consent according to Section 13 must be obtained
+in accordance with Section 10 of the Danish Marketing Practices Act.
+9.7
+
+What are the maximum penalties for sending marketing communications in breach of applicable
+
+restrictions?
+When calculating a [ne for unlawful direct marketing (spam), the following calculation model applies:
+Up to 100 spam mails/SMS will trigger a [ne of DKK 10,000. For over 100 spam mail/SMS, an additional [ne
+of DKK 100 for each mail will be given. Thus, the penalty for 60 spam mails/SMS will be DKK 10,000, and for
+140 spam mails/SMS the [ne will be DKK 14,000.
+However, the starting point could derogate in the upward and downward direction if there are aggravating or
+mitigating circumstances in the speci[c case.
+In our knowledge, the maximum penalty for sending unlawful direct marketing is DKK 800,000 (approx. EUR
+107,100).
+
+10. Cookies
+
+10.1
+
+Please describe any legislative restrictions on the use of cookies (or similar technologies).
+
+In November 2009, the European Commission adopted Directive 2009/136/EC (“2009 Directive”), which
+amended Directive 2002/58/EC, also known as the e-Privacy Directive. This amendment has been
+implemented into Danish law by way of Executive Order no. 1148 of 9 December 2011 (the “Cookie Order”).
+The Cookie Order implements Article 5 of the ePrivacy Directive. Pursuant to Article 5 of the EU ePrivacy
+Directive, the storage of cookies (or other data) on an end user’s device requires prior consent (the applicable
+standard of consent is derived from the GDPR).
+On 1 October 2019 the European Court of Justice delivered its judgment in C673/17 (Bundesverband der
+Verbraucherzentralen und Verbraucherverbände – Verbraucherzentrale Bundesverband eV vs Planet49 GmbH).
+The judgment concerns a German company, Planet49, which held an online competition. Participation in the
+competition was conditioned upon the user giving the company their name and address while simultaneously
+consenting to receiving marketing from several companies. The user had to check a box concerning consent
+to participating in the competition. Participation in the competition was, however, not conditioned upon the
+user giving to consent to cookies. Despite this, there was a pre-checked box concerning consent to tracking
+cookies. As such, the user had to actively uncheck the box if they did not wish to consent.
+The judgment addresses two questions: 1) the validity of consent to cookies obtained by using a pre-checked
+box; and 2) what information companies must give users in relation to the use of cookies.
+With the judgment, the European Court of Justice establishes that consent obtained by using a pre-checked
+box is not valid since an active action from the user is required.
+Cookies can only be used if the user has given consent and has been informed about, inter alia, the purpose of
+the processing. This applies regardless of whether personal data is being processed or not. Consent must, to
+be valid, constitute an active action from the user. This means that consent is invalid if it was obtained by
+using a pre-checked box or by inactivity.
+The European Court of Justice also establishes that a cookie policy must contain information about the
+duration of the functioning of the cookies and information about whether third parties are in a position to gain
+access to the cookies or not.
+After this judgment, the Danish legal guideline on the Cookie Order was updated on 10 December 2019 and
+implemented the ruling. Three requirements must be met before consent is valid: 1) the consent must be
+given before cookies are stored; 2) the consent must be active; and 3) the consent must be informed.
+If cookies involve the processing of Personal Data, the Cookie Order as well as the GDPR and the DP Act must
+be complied with. The DPA has issued a guideline on cookies in February 2020 where it is stated that: 1) the
+consent must be active; 2) the purpose(s) of the processing must be transparent; 3) it must be easy for the
+visitor of the website to give consent to some purposes and not give consent to others; 4) it must be easy to
+refuse to give consent; and 5) the owner of the website must be able to document what a visitor has
+consented to and how the consent was obtained.
+The Danish Business Authority is the supervisory authority regarding the regulation on the use of cookies. The
+DPA is also a relevant authority if the use of cookies involves the processing of Personal Data (which is often
+the case); cf. question 10.3.
+The EU Commission intends to pass a new ePrivacy Regulation that will replace the respective national
+legislation in the EU Member States.
+10.2
+
+Do the applicable restrictions (if any) distinguish between different types of cookies? If so, what are
+
+the relevant factors?
+There are essentially four different types of cookies:
+1. technically necessary;
+2. functional;
+3. statistical; and
+4. marketing cookies.
+Technical cookies (1) which are necessary to perform a service explicitly requested by the user are not
+regulated by the Cookie Order. Consent to technically necessary cookies is not required, as these help the
+website to function. Such cookies make a website functional by enabling basic features such as page
+navigation and access to secure areas of the website. Speci[cally, these cookies can be divided into two
+categories: (a) cookies necessary for data transmission so that the website does not break; and (b) cookies
+that must be there to ful[l the purpose of the website, such as an electronic shopping cart on a webshop and
+booking systems. Technical cookies also include cookies that ensure that a username and password must
+only be entered once if requested by the user.
+Functional cookies (2) allow you to store information that changes the way the website looks or behaves; for
+example, a preferred language or region.
+Statistical cookies (3) help the website owner understand how visitors interact with the website by collecting
+and reporting information.
+Marketing cookies (4) are used to track visitors across websites and the intention is to serve advertisements
+that are relevant and engaged to the individual user and are therefore valuable to publishers and third-party
+advertisers.
+10.3
+
+To date, has/have the relevant data protection authority(ies) taken any enforcement action in relation
+
+to cookies?
+Yes, the DPA has expressed serious criticism of processing of personal data in connection with the display of
+banner advertisements on the website of a public authority (a weather report service) without consent (11
+February 2020).
+10.4
+
+What are the maximum penalties for breaches of applicable cookie restrictions?
+
+This is not applicable. The level of [nes is not capped.
+
+11. Restrictions on International Data Transfers
+
+11.1
+
+Please describe any restrictions on the transfer of personal data to other jurisdictions.
+
+Data transfers to other jurisdictions that are not within the European Economic Area (the “EEA”) can only take
+place if the transfer is to an “Adequate Jurisdiction” (as speci[ed by the EU Commission), the business has
+implemented one of the required safeguards as speci[ed by the GDPR, or one of the derogations speci[ed in
+the GDPR applies to the relevant transfer. The EDPB Guidelines (2/2018) set out that a “layered approach”
+should be taken with respect to these transfer mechanisms. If the transfer is not to an Adequate Jurisdiction,
+the data exporter should [rst explore the possibility of implementing one of the safeguards provided for in the
+GDPR before relying on a derogation.
+11.2
+
+Please describe the mechanisms businesses typically utilise to transfer personal data abroad in
+
+compliance with applicable transfer restrictions (e.g., consent of the data subject, performance of a contract
+with the data subject, approved contractual clauses, compliance with legal obligations, etc.).
+When transferring personal data to a country other than an Adequate Jurisdiction, businesses must ensure
+that there are appropriate safeguards on the data transfer, as prescribed by the GDPR. The GDPR offers a
+number of ways to ensure compliance for international data transfers, of which one is consent of the relevant
+data subject. Other common options are the use of Standard Contractual Clauses or Binding Corporate Rules
+(“BCRs”).
+Businesses can adopt the Standard Contractual Clauses drafted by the EU Commission – these are available
+for transfers between controllers, and transfers between a controller (as exporter) and a processor (as
+importer). International data transfers may also take place on the basis of contracts agreed between the data
+exporter and data importer provided that they conform to the protections outlined in the GDPR, and they have
+prior approval by the relevant data protection authority.
+International data transfers within a group of businesses can be safeguarded by the implementation of BCRs.
+The BCRs will always need approval from the relevant data protection authority. Most importantly, the BCRs
+will need to include a mechanism to ensure they are legally binding and enforced by every member in the group
+of businesses. Among other things, the BCRs must set out the group structure of the businesses, the
+proposed data transfers and their purpose, the rights of data subjects, the mechanisms that will be
+implemented to ensure compliance with the GDPR and the relevant complainant procedures.
+Transfer of personal data to the USA is also possible if the data importer has signed up to the EU-US Privacy
+Shield Framework, which was designed by the US Department of Commerce and the EU Commission to
+provide businesses in the EU and the US with a mechanism to comply with data protection requirements when
+transferring personal data from the EU to the US.
+11.3
+
+Do transfers of personal data to other jurisdictions require registration/notiJcation or prior approval
+
+from the relevant data protection authority(ies)? Please describe which types of transfers require approval or
+notiJcation, what those steps involve, and how long they typically take.
+It is likely that the international data transfer will require prior approval from the relevant data protection
+authority unless they have already established a GDPR-compliant mechanism as set out above for such
+transfers.
+In any case, most of the safeguards outlined in the GDPR will need initial approval from the data protection
+authority, such as the establishment of BCRs.
+
+12. Whistle-blower Hotlines
+
+12.1
+
+What is the permitted scope of corporate whistle-blower hotlines (e.g., restrictions on the types of
+
+issues that may be reported, the persons who may submit a report, the persons whom a report may concern,
+etc.)?
+Internal whistle-blowing schemes are generally established in pursuance of a concern to implement proper
+corporate governance principles in the daily functioning of businesses. Whistle-blowing is designed as an
+additional mechanism for employees to report misconduct internally through a speci[c channel and
+supplements a business’ regular information and reporting channels, such as employee representatives, line
+management, quality-control personnel or internal auditors who are employed precisely to report such
+misconduct.
+The WP29 has limited its Opinion 1/2006 on the application of EU data protection rules to internal whistleblowing schemes to the [elds of accounting, internal accounting controls, auditing matters, [ght against
+bribery, banking and [nancial crime. The scope of corporate whistle-blower hotlines, however, does not need
+to be limited to any particular issues. In the Opinion, it is recommended that the business responsible for the
+whistle-blowing scheme should carefully assess whether it might be appropriate to limit the number of
+persons eligible for reporting alleged misconduct through the whistle-blowing scheme and whether it might be
+appropriate to limit the number of persons who may be reported through the scheme; in particular, in the light
+of the seriousness of the alleged offences reported.
+According to the former Danish Act on Processing of Personal Data, the DPA issued a guideline on the
+processing of personal data in connection with whistle-blower systems. According to the guideline, a
+company may process information relating to corporate crime, safety-at-work issues, and violation of rules
+that may have a serious consequence for employees such as sexual harassment or violence. Additionally,
+information that it would be mandatory to report under the US Sarbanes-Oxley Act may, in the opinion of the
+DPA, be legally processed in a whistle-blower system. Special categories of information, such as information
+pertaining to an employee’s criminal records, may be processed. However, sensitive information – cf. Article 9
+of the GDPR – may not be processed. According to several corporate rules, some entities are obliged to
+establish whistle-blower schemes. The DPA approves that these types of whistle-blower schemes may be
+legally processed.
+12.2
+
+Is anonymous reporting prohibited, strongly discouraged, or generally permitted? If it is prohibited or
+
+discouraged, how do businesses typically address this issue?
+Anonymous reporting is not prohibited under EU data protection law; however, it raises problems as regards
+the essential requirement that personal data should only be collected fairly. In Opinion 1/2006, the WP29
+considered that only identi[ed reports should be advertised in order to satisfy this requirement. Businesses
+should not encourage or advertise the fact that anonymous reports may be made through a whistle-blower
+scheme.
+An individual who intends to report to a whistle-blowing system should be aware that he/she will not suffer
+due to his/her action. The whistle-blower, at the time of establishing the [rst contact with the scheme, should
+be informed that his/her identity will be kept con[dential at all the stages of the process, and in particular will
+not be disclosed to third parties, such as the incriminated person or to the employee’s line management. If,
+despite this information, the person reporting to the scheme still wants to remain anonymous, the report will
+be accepted into the scheme. Whistle-blowers should be informed that their identity may need to be disclosed
+to the relevant people involved in any further investigation or subsequent judicial proceedings instigated as a
+result of any enquiry conducted by the whistle-blowing scheme.
+
+13. CCTV
+
+13.1
+
+Does the use of CCTV require separate registration/notiJcation or prior approval from the relevant
+
+data protection authority(ies), and/or any speciJc form of public notice (e.g., a high-visibility sign)?
+A data protection impact assessment (“DPIA”) must be undertaken with assistance from the Data Protection
+O9cer when there is systematic monitoring of a publicly accessible area on a large scale. If the DPIA
+suggests that the processing would result in a high risk to the rights and freedoms of individuals prior to any
+action being taken by the controller, the controller must consult the data protection authority.
+During the course of a consultation, the controller must provide information on the responsibilities of the
+controller and/or processors involved, the purpose of the intended processing, a copy of the DPIA, the
+safeguards provided by the GDPR to protect the rights and freedoms of data subjects and, where applicable,
+the contact details of the Data Protection O9cer.
+If the data protection authority is of the opinion that the CCTV monitoring would infringe the GDPR, it has to
+provide written advice to the controller within eight weeks of the request of a consultation and can use any of
+its wider investigative, advisory and corrective powers outlined in the GDPR.
+Danish Act no. 1190 of 11 October 2007 regarding CCTV is supervised by the Danish National Police. The Act
+regulates private controllers’ use of CCTV. The Act has speci[c provisions regarding the transfer of personal
+data from CCTV.
+13.2
+
+Are there limits on the purposes for which CCTV data may be used?
+
+Yes, CCTV may only be used for the purpose of preventing crime and for security purposes.
+
+14. Employee Monitoring
+
+14.1
+
+What types of employee monitoring are permitted (if any), and in what circumstances?
+
+Employees can be monitored when the following conditions are met:
+The monitoring is justi[ed for operational reasons and according to a fair purpose.
+The monitoring is not offensive to the employees.
+The monitoring does not cause losses or signi[cant disadvantages.
+The monitoring is proportional according to its purpose.
+The employee shall be given six weeks’ notice. If the purpose or operational reasons make it necessary,
+monitoring can be initiated without notice.
+Examples of employee monitoring include email and internet access, CCTV, time recorders, etc.
+14.2
+
+Is consent or notice required? Describe how employers typically obtain consent or provide notice.
+
+Notice is required, and the notice is typically given in connection with the employment agreement.
+14.3
+
+To what extent do works councils/trade unions/employee representatives need to be notiJed or
+
+consulted?
+If the company has a work council, such work council should be noti[ed; alternatively, the union representative.
+It is recommended that an actual local agreement be concluded on the control measures and on any
+consequences of an infringement.
+
+15. Data Security and Data Breach
+
+15.1
+
+Is there a general obligation to ensure the security of personal data? If so, which entities are
+
+responsible for ensuring that data are kept secure (e.g., controllers, processors, etc.)?
+Yes. Personal data must be processed in a way which ensures security and safeguards against unauthorised
+or unlawful processing, accidental loss, destruction and damage of the data.
+Both controllers and processors must ensure they have appropriate technical and organisational measures to
+meet the requirements of the GDPR. Depending on the security risk, this may include: the encryption of
+personal data; the ability to ensure the ongoing con[dentiality, integrity and resilience of processing systems;
+an ability to restore access to data following a technical or physical incident; and a process for regularly
+testing and evaluating the technical and organisational measures for ensuring the security of processing.
+15.2
+
+Is there a legal requirement to report data breaches to the relevant data protection authority(ies)? If
+
+so, describe what details must be reported, to whom, and within what timeframe. If no legal requirement
+exists, describe under what circumstances the relevant data protection authority(ies) expect(s) voluntary
+breach reporting.
+The controller is responsible for reporting a personal data breach without undue delay (and in any case within
+72 hours of [rst becoming aware of the breach) to the relevant data protection authority, unless the breach is
+unlikely to result in a risk to the rights and freedoms of the data subject(s). A processor must notify any data
+breach to the controller without undue delay.
+The noti[cation must include the nature of the personal data breach, including the categories and number of
+data subjects concerned, the name and contact details of the Data Protection O9cer or relevant point of
+contact, the likely consequences of the breach, and the measures taken to address the breach, including
+attempts to mitigate possible adverse effects.
+15.3
+
+Is there a legal requirement to report data breaches to affected data subjects? If so, describe what
+
+details must be reported, to whom, and within what timeframe. If no legal requirement exists, describe under
+what circumstances the relevant data protection authority(ies) expect(s) voluntary breach reporting.
+Controllers have a legal requirement to communicate the breach to the data subject, without undue delay, if the
+breach is likely to result in a high risk to the rights and freedoms of the data subject.
+The noti[cation must include the name and contact details of the Data Protection O9cer (or point of contact),
+the likely consequences of the breach, and any measures taken to remedy or mitigate the breach.
+The controller may be exempt from notifying the data subject if the risk of harm is remote (e.g., because the
+affected data is encrypted), the controller has taken measures to minimise the risk of harm (e.g., suspending
+affected accounts) or the noti[cation requires a disproportionate effort (e.g., a public notice of the breach).
+15.4
+
+What are the maximum penalties for data security breaches?
+
+The maximum penalty is the higher of EUR 20 million or 4% of worldwide turnover.
+
+16. Enforcement and Sanctions
+
+16.1
+
+Describe the enforcement powers of the data protection authority(ies).
+
+Investigatory/Enforcement
+
+Civil/Administrative Sanction
+
+Power
+
+Investigative Powers
+
+The DPA has wide powers to order the controller
+
+Criminal Sanction
+
+N/A
+
+and the processor to provide any information it
+requires for the performance of its tasks, to
+conduct investigations in the form of data
+protection audits, to carry out review on certi[cates
+issued pursuant to the GDPR, to notify the
+controller or processor of alleged infringement of
+the GDPR, to access all personal data and all
+information necessary for the performance of
+controllers’ or processors’ tasks and access to the
+premises of the data including any data processing
+equipment.
+
+Corrective Powers
+
+The DPA has a wide range of powers including to
+
+N/A
+
+issue warnings or reprimands for non-compliance,
+to order the controller to disclose a personal data
+breach to the data subject, to impose a permanent
+or temporary ban on processing, to withdraw a
+certi[cation and to recommend a [ne (as below).
+
+Authorisation and Advisory
+
+The DPA has a wide range of powers to advise the
+
+Powers
+
+controller, accredit certi[cation bodies and to
+
+N/A
+
+authorise certi[cates, contractual clauses,
+administrative arrangements and binding corporate
+rules as outlined in the GDPR.
+The opinion of the DPA shall be obtained of
+legislative proposals, executive orders, circulars or
+similar general regulations that affect the
+protection of privacy in connection with the
+processing of personal data.
+
+Imposition of administrative
+
+The legal system of Denmark does not allow for
+
+[nes for infringements of
+
+administrative [nes as set out in the GDPR.
+
+speci[ed GDPR provisions
+
+However, the GDPR states that the competent
+
+N/A
+
+national courts should take into account the
+recommendation by the supervisory authority
+initiating the [ne. In any event, the [nes imposed
+should be effective, proportionate and dissuasive.
+The GDPR provides for administrative [nes which
+can be EUR 20 million or up to 4% of the business’
+worldwide annual turnover of the proceeding
+[nancial year, and the Danish courts are bound by
+this.
+
+Non-compliance with a data
+
+As mentioned above, the Danish legal system does
+
+protection authority
+
+not allow for administrative [nes as set out in the
+
+N/A
+
+GDPR.
+Therefore, the DPA may not impose [nes for noncompliance, but could instead recommend a [ne
+and [le a police report after which the prosecution
+must conduct the case and the [nal [ne is imposed
+by competent national courts as a criminal penalty.
+Also, the DPA may [le a civil case with the Danish
+courts.
+
+16.2
+
+Does the data protection authority have the power to issue a ban on a particular processing activity?
+
+If so, does such a ban require a court order?
+The GDPR entitles the relevant data protection authority to impose a temporary or de[nitive limitation
+including a ban on processing.
+The DP Act may in exceptional cases prohibit, restrict, or suspend the transfer to a third country or an
+international organisation of information according to Article 9(1) of the GDPR in cases where a decision has
+not been adopted concerning the adequacy of the level of protection under Article 45 of the GDPR.
+16.3
+
+Describe the data protection authority’s approach to exercising those powers, with examples of
+
+recent cases.
+As mentioned in question 16.1, the DPA is not authorised to give administrative [nes but can instead
+recommend a [ne and [le a police report, after which the prosecution must conduct the case, and competent
+national courts impose the [nal [ne.
+The DPA has, at this time (March 2020), [led two police reports. The [rst case concerns a Danish taxi
+company, where the DPA recommended a [ne of DKK 1.2 million (approximately EUR 160,590) in March 2019.
+The violation regards the lack of deletion, and approximately 9 million taxi trips were allegedly unlawfully
+processed. Further, allegedly the company’s procedure for anonymising personal data was inadequate, and
+the company has not been able to document the erasure made in the systems and the procedures for this.
+The second case concerns a company where the DPA recommended a [ne of DKK 1.5 million (approximately
+EUR 200,750) in June 2019. The violation also regards the failure of deletion, and in this case, it was personal
+data regarding 385,000 customers. The company had been processing personal data for a longer period than
+necessary for the purposes for which they were processed. In order to ensure that the personal data were not
+kept longer than necessary, the company should have complied with their time limits established by the
+company.
+The DPA can issue reprimands where processing operations have infringed provisions of the GDPR or order a
+company to bring processing operations into compliance with the GDPR.
+The DPA has been active in the enforcement within its authorisation, and there are at this point many decisions
+from the DPA where the DPA either has issued reprimands or ordered a company to bring processing
+operations into compliance with the rules.
+In general, the decisions are about:
+The principles of the processing of personal data (see the two cases mentioned above).
+The basis of the processing. The DPA has, for example, prohibited a company from recording telephone
+conversations without obtaining a consent to do so, as they decided that the processing could not be
+done within the purposes of the legitimate interests pursued by the company.
+The rights of the data subject. For example, the DPA has issued severe reprimands where a company
+could not erase a data subject, and it was not su9cient that the inaccurate personal data were recti[ed.
+Security of processing. The DPA has issued a reprimand to a company over the use of the encryption
+form TLS (encryption in the transport layer) without further control. This was not a su9cient security
+measure and, therefore, when sending con[dential and sensitive information, forced TLS must be used.
+Noti[cation of a personal data breach to the supervisory authority. For example, the DPA has ordered a
+company to communicate the personal data breach to the data subject.
+The lack of designation of a Data Protection O9cer.
+16.4
+
+Does the data protection authority ever exercise its powers against businesses established in other
+
+jurisdictions? If so, how is this enforced?
+The “one-stop shop” mechanism of the GDPR regulates where the Danish DPA has jurisdiction in another
+Member State.
+In October 2019, the DPA ordered an international company to bring processing operations into compliance
+with the provisions of the GDPR regarding the deletion of personal data about a British data subject. The DPA
+issued reprimands to this company regarding the processing of personal data that did not comply with the
+GDPR. The company had a practice where it requested passport identi[cation from data subjects trying to
+exercise their rights under the GDPR without making a speci[c assessment on whether there is reasonable
+doubt as to the identity of the data subject.
+This is the [rst case which the Danish DPA has decided as the lead supervisory authority under the “one-stopshop mechanism” in connection with cross-border processing of personal data.
+
+17. E-discovery / Disclosure to Foreign Law Enforcement Agencies
+
+17.1
+
+How do businesses typically respond to foreign e-discovery requests, or requests for disclosure from
+
+foreign law enforcement agencies?
+Foreign law enforcement authorities requesting information from Danish entities, etc., must send a letter
+rogatory to the Danish law enforcement authorities regarding the information needed. In this case, the Danish
+law enforcement authorities may try to get a court order or to obtain acknowledgment of a foreign court order.
+A Danish data controller is only permitted to disclose personal data according to the regulation on processing
+of personal data (primarily, the GDPR or the DP Act).
+17.2
+
+What guidance has/have the data protection authority(ies) issued?
+
+There is no speci[c guidance on the subject.
+
+18. Trends and Developments
+
+18.1
+
+What enforcement trends have emerged during the previous 12 months? Describe any relevant case
+
+law.
+For relevant case law, please see question 16.3 above.
+
+We have noted the following trends from the DPA:
+The DPA has stated that the [rst police report was [led because of the considerable amount of
+personal data which were stored without valid purposes.
+In one case, the DPA considered reporting a high school to the police, as the answers of the high school
+were incomplete and they provided connicting information. However, after consulting the high school,
+the case was su9ciently disclosed, and the DPA only expressed severe reprimands.
+In one case regarding the lack of data protection agreements, the DPA stated that it was a mitigating
+factor that the data controller, a public authority, had a clear overview of where it had not entered into
+data processing agreements and where content needed to be updated. Further, during the visit at the
+public authority, the DPA had the impression that the public authority had, in general, initiated several
+measures for ensuring compliance with the rules, and that the lack was mainly due to the long
+implementation time of the measures concerned.
+18.2
+
+What “hot topics” are currently a focus for the data protection regulator?
+
+As of March 2020, the DPA had not yet published its focus areas for 2020, but the focus areas for the latter
+half of 2019 are:
+Data processors.
+
+Contributors
+
+Daily monitoring.
+Data processing in connection with employment.
+Automated individual decision-making, including pro[ling.
+
+Christine Jans
+Synch
+
+CORONAVIRUS UPDATE
+
+TESTIMONIALS
+
+CONTACT US
+
+ABOUT US
+
+CAREERS
+
+CONTRIBUTOR LOGIN
+
+Heidi Højmark Helveg
+The Inter natio nal Co m parative Legal G u ides and the Inter natio nal Bu siness Repo r ts are pu blished by: G lo bal Legal G ro u p
+
+CO:PLAY
+
+Global Legal Group
+me congratulate you for bringing out this very useful publication, which
+“ Let
+gives the user the comparative position at a glance. This publication is very
+
+59 Tanner Street, London SE1 3PL, UK
+
+handy for corporate clients and professionals, who deal with mergers and
+
+customer.ser vice@glgroup.co.uk | +44 207 367 0720
+
+acquisitions.
+Premnath Rai - PREMNATH RAI ASSOCIATES, New Delhi, India
+
+Follow us on LinkedIn
+
+“
+
+© 2002-2021 Co py r ight: ICLG . c o m | Ou r Pr ivac y
+
+We use cookies to maximise functionality and improve your experience More
+Set my
+info
+preferences
+
+Unlock 3 FREE PDF chapters by registering with us FREE
+
+Log in
+
+Register with us FREE
+
+I understand
+
+

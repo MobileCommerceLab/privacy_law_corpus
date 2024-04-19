@@ -1,0 +1,1188 @@
+LAWS OF KENYA
+
+THE NATIONAL PAYMENT SYSTEM ACT, 2011
+
+NO. 39 OF 2011
+
+Published by the National Council for Law Reporting
+with the Authority of the Attorney-General
+www.kenyalaw.org
+
+2
+
+NO. 39
+
+National Payment System
+
+THE NATIONAL PAYMENT SYSTEM ACT, 2011
+No. 39 of 2011
+ARRANGEMENT OF SECTIONS
+Section
+PART I—PRELIMINARY
+1—Short title and commencement.
+2—Interpretation.
+PART II—PROVISIONS ON DESIGNATION
+3—Designation of payment system.
+4—Amendment to constitution and rules of designated
+payment systems.
+5—Inspection of constitution and rules of designated
+payment systems.
+6—Designation of payment instrument.
+PART III—PROVISIONS RELATING TO OPERATORS
+7—Recognition of a payment system management body.
+8—Objects, etc of recognised payment system management
+body.
+9—Effecting settlement.
+10—Clearing provisions.
+11—Payments to third parties.
+12—Authorisation of Payment Service Providers (PSP's)
+13—Application for authorisation
+14—Renewal of authorisation
+157—Revocation of authorisation
+16—Netting agreements and rules.
+PART IV—PROVISIONS ON REGULATION AND SUPERVISION
+17—Powers and functions of the Central Bank.
+IS—Prohibition of issuance of payment instruments.
+19—Participation by the Central Bank.
+20—Provision of information to the Central Bank.
+21—Settlement of disputes.
+22—Power of Central Bank to advise and direct.
+23—Audits and inspection.
+
+NO. 39
+
+National Payment System
+
+24—Reports.
+PART V—MISCELLANEOUS
+25—Utilization of assets of a designated payment system
+participant.
+26—Retention of records.
+27—Use of confidential information for personal gain.
+28—Priority of certain instruments on winding up.
+29—Misleading advertisements
+30—Relief from prosecution.
+31—Regulations and guidelines.
+32—Transition.
+33—Savirlgs.
+
+3
+
+4
+
+NO. 39
+
+National Payment System
+
+THE NATIONAL PAYMENT SYSTEM ACT, 2011
+No. 39 of 2011
+Date of Assent: 2nd December, 2011
+Date of Commencement: By Notice
+AN ACT of Parliament to make provision for the regulation
+and supervision of payment systems and payment
+service providers, and for connected purposes
+ENACTED by the Parliament of Kenya, as follows—
+PART I—PRELIMINARY
+Short title and commencement.
+1. This Act may be cited as the National Payment System
+Act, 2011, and shall come into force on such date as the Minister
+may, by notice in the Gazette, appoint.
+Interpretation.
+2. In this Act, unless the context otherwise requires—
+―bank‖ has the meaning assigned to it in the Banking Act,
+Cap. 488;
+―business day’ means any day, other than a Sunday, a public
+holiday declared in accordance with the Public Holidays Act, Cap.
+110, or a day declared to be a bank holiday under the Banking Act,
+Cap. 488, on which the institutions and the Central Bank are open
+to the public for carrying on business functions;
+―Central Bank‖ means the Central Bank of Kenya established
+under the Central Bank of Kenya Act (Cap. 491);
+―Central Bank of Kenya settlement system‖ means a
+settlement system established and operated by, or under the
+control of, the Central Bank;
+―Central Bank of Kenya settlement system participant‖
+means—
+(a) the Central Bank;
+
+NO. 39
+
+National Payment System
+
+5
+
+(b) a bank, an institution or a branch of a foreign institution; or
+(c) a designated payment system operator, that participates
+in the Central Bank of Kenya settlement system.
+―clear‖ means the exchange of payment instructions, and
+―clearing‖ shall be construed accordingly;
+―clearing, netting and settlement agreements‖ means written
+agreements with regard to clearing, netting or settlement
+concluded between the Central Bank of Kenya settlement system
+participants or settlement system participants;
+―designated payment instrument‖ means
+instrument designated in accordance with section 6;
+
+a
+
+payment
+
+―designated payment system‖ means a payment system
+designated in accordance with section 3‖;
+―designated payment system operator‖ means an operator of
+a designated payment system‖ ;
+―designated payment system participant‖ means a person
+who is―
+(a) a participant in a designated payment system; or
+(b) a designated payment system operator;
+―failure to settle‖ means the inability of a settlement system
+participant to meet its settlement obligations in a clearing house;
+―institution‖ means a bank, mortgage finance company or a
+financial institution as defined in the Banking Act, Cap. 488 or a
+deposit-taking microfinance business as defined in the
+Microfinance Act, No. 19 of 2006 or any other body which the
+Minister may, in consultation with the Central Bank, declare, by
+notice in the Gazette, to be an institution for the purposes of this
+Act;
+―Minister‖ means the minister for the time being responsible
+for matters relating to finance;
+―netting‖ means the determination of the net payment
+obligations between two or more settlement system participants
+within a payment clearing house or the determination of the net
+settlement obligations between two or more settlement system
+
+6
+
+NO. 39
+
+National Payment System
+
+participants within a settlement system;
+―payment clearing house‖ means an arrangement between
+two or more Central Bank settlement system participants,
+excluding a designated payment system operator, governing the
+clearing of payment instructions between those Central Bank
+settlement system participants;
+―payment clearing house system operator‖ means a person,
+other than a designated payment system operator, who clears on
+behalf of any two or more Central Bank settlement system
+participants;
+―payment instrument‖ means any instrument, whether
+tangible or intangible, that enables a person to obtain money,
+goods or services, or to otherwise make payment;
+―payment instruction‖ means an instruction to a settlement
+system participant to transfer funds or make a payment;
+―payment obligation‖ means an indebtedness that is owed by
+one settlement system participant to another as a result of the
+clearing of one or more payment instructions;
+―payment service provider‖ means:—
+(i) a person, company or organisation acting as
+provider in relation to sending, receiving, storing or
+processing of payments or the provision of other
+services in relation to payment services through
+any electronic system;
+(ii) a person, company or organisation which owns,
+possesses, operates, manages or controls a public
+switched network for the provision of payment
+services; or
+(iii) any other person, company or organization that
+processes or stores data on behalf of such
+payment service providers or users of such
+payment services;
+―payment system‖ means a system or arrangement that
+enables payments to be effected between a payer and a
+beneficiary, or facilitates the circulation of money, and includes any
+instruments and procedures that relate to the system;
+
+NO. 39
+
+National Payment System
+
+―payment system management body‖ means a body
+recognized by the Central Bank in accordance with section 7 ;
+―person‖ includes any legal entity including a trust;
+―settlement‖ means discharge of settlement obligations;
+―settlement instruction‖ means an instruction given to a
+settlement system by a settlement system participant or by a
+payment clearing house system operator on behalf of a Central
+Bank settlement system participant to effect settlement of one or
+more payment obligations, or to discharge any other obligation of
+one system participant to another system participant;
+―settlement obligation‖ means an indebtedness that is owed
+by one settlement system participant to another as a result of one
+or more settlement instructions;
+―system operator‖ means a person, other than a designated
+payment system operator, authorized in terms of section 8 (2) (c)
+to provide services to any two or more persons in respect of
+payment instructions;
+―settlement system‖ means a system established and
+operated by the Central Bank for the discharge of payment or
+settlement obligations, or the discharge of payment and settlement
+obligations, between system participants in that system;
+―settlement system participant‖ means—
+(a) a Central Bank of Kenya settlement system participant; or
+(b) a designated payment system participant; and
+―systemic risk‖ means the risk that failure of one or more
+settlement system participants, for whatever reason, to meet their
+payment obligations or their settlement obligations may result in
+any or all of the other settlement system participants being unable
+to meet their respective payment or settlement obligations.
+PART II—PROVISIONS ON DESIGNATION
+Designation of a payment system
+3. (1) The Central Bank may, by notice in the Gazette,
+designate a payment system for the purposes of this Act, if it is of
+
+7
+
+8
+
+NO. 39
+
+National Payment System
+
+the opinion that―
+(a) the payment system poses systemic risk;
+(b) the designation is necessary to protect the interest of the
+public; or
+(c) such designation is in the interest of the integrity of the
+payment system.
+(2) The notice designating a payment system under
+subsection (1) shall specify―
+(a) the payment system that is the subject of the designation;
+(b) the operator of the payment system that is the subject of
+the designation; and
+(c) any terms and conditions to which the designation may be
+subject.
+(3) The Central Bank shall give a written notice of designation
+of a payment system to the operator of the payment system that is
+the subject of designation.
+(4) The Central Bank may revoke or vary any designation
+made under this section by―
+(a) amending or revoking any condition to which the
+designation may be subject; or
+(b) making the designation subject to a new condition or
+conditions.
+(5) In determining whether or not to revoke or vary a
+designation, the Central Bank may have regard to any or all of the
+following matters
+(a) failure by the designated payment system to comply with
+any condition to which the designation may be subject;
+(b) whether or not the designated payment system has
+ceased to operate;
+(c) whether or not the designated payment system operator
+has knowingly furnished information or documents which
+are false or misleading in any material respect to the
+Central Bank in connection with the designation of the
+system;
+
+NO. 39
+
+National Payment System
+
+(d) whether or not it is in the public interest to revoke the
+designation;
+(e) any other matter that the Central Bank may deem
+appropriate.
+(6) The revocation of a designation or the variation of the
+conditions to which a designation is subject shall not―
+(a) have retroactive effect;
+(b) affect the validity or enforceability of the rules of the
+designated payment system, nor shall it affect any
+payment to or out of the account of a payment system
+participant or netting or settlement that took place, prior
+to the coming into effect of such revocation or variation.
+(7) Revocation of designation of a payment system or
+variation of conditions thereof, if any, shall be by notice in the
+Gazette, and advice thereof shall be given in writing to the
+designated payment system operator.
+(8) Without prejudice to Section 32 (1), an operator of a
+payment system shall, upon advice by the Central Bank to that
+effect, and within such period as the Bank may prescribe, apply for
+the designation of the payment system under this Act.
+(9) A person who, upon receipt of advice from the Central
+Bank in accordance with subsection (8)―
+(a) fails or refuses to apply for designation of a payment
+system in accordance with the advice; and
+(b) continues to operate a payment system that has not been
+designated under this Act commits an offence.
+Amendment to constitution and rules of designated payment
+system.
+4. No amendment to the constitution of any designated
+payment system, or to the rules governing the system, shall have
+effect until they have been approved by the Central Bank.
+
+9
+
+10
+
+NO. 39
+
+National Payment System
+
+Inspection of constitution and rules of designated payment
+system.
+5. The constitution of every designated payment system and
+the rules governing the system, together with any amendment to
+that constitution and those rules, shall be kept at—
+(a) the offices of the Central Bank; and
+(b) the head office in Kenya of every participant in the
+system,
+and shall be open for inspection by members of the public at all
+times during normal office hours.
+Designation of payment instrument.
+6. (1) The Central Bank may, by notice in the Gazette,
+designate a payment instrument for purposes of this Act, if the
+Bank is of the opinion that—
+(a) the payment instrument is of widespread use as a means
+of making payment and may affect the payment systems
+of Kenya;
+(b) the designation is necessary to protect the interests of the
+public; or
+(c) such designation is in the interest of the integrity of the
+payment instrument.
+(2) The notice designating a payment instrument under
+subsection (1) shall specify—
+(a) the payment instrument that is the subject of the
+designation;
+(b) the issuer of the payment instrument that is the subject of
+the designation; and
+(c) any terms and conditions to which the designation may be
+subject.
+(3) Where a payment instrument has been Gazetted for
+designation, pursuant to subsection (1) and (2), the issuer of that
+
+NO. 39
+
+National Payment System
+
+payment instrument shall comply with such requirements as the
+Central Bank may specify.
+(4) The Central Bank shall give a written notice of designation
+of a payment instrument to the issuer of the payment instrument
+that has been designated pursuant to section 6(1).
+(5) The Central Bank may revoke or vary any designation of
+a payment instrument granted under section 6(1) if, in the opinion
+of the Central Bank, the issuer of designated payment instrument
+has—
+(a) contravened any of the provisions of this Act or
+regulations made thereunder;
+(b) contravened any restriction or condition to which the
+designation is subject;
+(c) failed to comply with any regulations, guidelines, circulars,
+notices or standards issued by the Central Bank under
+this Act;
+(d) made a false, incorrect or misleading statement in the
+documents or information submitted under subsection
+(3);
+(e) ceased issuing the payment instrument for a continuous
+period of six months;
+(f) goes into liquidation or is wound up or is otherwise
+dissolved;
+(g) it is in the public interest to vary or revoke the designation;
+(h) there exists any other ground which in the opinion of the
+Central Bank warrants variation or revocation.
+(6) The Central Bank shall, before making a decision to
+revoke the designation under subsection (5), offer the issuer of a
+designated payment instrument a reasonable opportunity to make
+representations.
+(7) The revocation of a designation or the variation of
+conditions to which a designation is subject shall not have
+retroactive effect.
+
+11
+
+12
+
+NO. 39
+
+National Payment System
+
+(8) Revocation of designation of a payment instrument or
+variation of conditions thereof, if any, shall be by notice in the
+Gazette, and written advice thereof shall be given to the
+designated payment instrument issuer.
+(9) Without prejudice to section 32 (1), an issuer of a
+payment instrument shall, upon written advice from the Central
+Bank to that effect, and within such period the Bank may prescribe,
+apply for the designation of the payment instrument under this Act.
+(10) A person who, upon receipt of advice by the Central
+Bank in accordance with subsection (9)—
+(a) fails or refuses to apply for designation of a payment
+instrument in accordance with the advice commits an
+offence and is liable, on conviction, to a fine not
+exceeding one million shillings, or to imprisonment for a
+term not exceeding five years, or both; and
+(b) continues to issue a payment instrument that has not
+been designated under this Act, commits an offence and
+is liable to a fine not exceeding five hundred thousand
+shillings or to imprisonment for a term not exceeding
+three years or both.
+PART III—PROVISIONS RELATING TO OPERATORS
+Recognition of a payment system management body.
+7. (1) The Central Bank shall, upon designation of a payment
+system under this Act, automatically recognize the management
+body of such payment system.
+(2) A payment system management body recognized
+pursuant to the provisions of this section shall be subject to the
+guidelines that may be issued by the Central Bank from time to
+time.
+(3) Where a payment system management body recognised
+under subsection (1) oversees only one designated payment
+system, the recognition of the payment system management body
+shall stand revoked upon revocation of designation of the payment
+system:
+Provided that, where a recognised payment system
+management body manages several designated payment
+systems, the revocation of designation of any one of the payment
+systems shall not affect the recognition status of the payment
+
+NO. 39
+
+National Payment System
+
+system management body with respect to the payment systems
+whose designation has not been revoked.
+Objects, etc of recognized payment system management
+body.
+8. (1) A recognised payment system management body shall
+manage and regulate, in relation to its members, all matters
+affecting payment instructions, and in connection with those
+objects, shall—
+(a) provide a forum for the consideration of matters of policy
+and mutual interest concerning its members;
+(b) act as a medium for communication by its members with
+the Government, the Central Bank, any financial or other
+exchange, other public bodies, authorities and officials,
+the news media, the general public and other private
+associations and institutions; and
+(c) deal with and promote any other matter of interest to its
+members and foster co-operation among them.
+(2) In addition to any other provisions, the rules of a
+recognised payment system management body shall empower
+that body—
+(a) to admit members and to regulate, control and with the
+approval of the Central Bank terminate membership;
+(b) to constitute, establish or dissolve any body, committee or
+forum consisting of its members and which has an
+impact on, interacts with, has access to or makes use of
+any payment, clearing or settlement systems or
+operations;
+(c) to—
+(i) recommend for approval by the Central Bank criteria
+subject to which any person is to be granted limited
+membership of the payment system management
+body or is to be authorized to act as a system
+operator or a payment clearing house system
+operator within a payment system; and
+
+13
+
+14
+
+NO. 39
+
+National Payment System
+
+(ii) authorize that person to act as a system operator or
+payment clearing house system operator in
+accordance with that criteria; and
+(d) to recommend for approval by the Central Bank criteria
+subject to and in accordance with which a member who
+is also a Central Bank settlement system participant may
+be authorized to—
+(i) allow a bank, an institution or a branch of a foreign
+institution that is not a Central Bank settlement
+system participant to clear; or
+(ii) clear on behalf of a bank, an institution or a branch
+of a foreign institution that is not a Central Bank
+settlement system participant:
+Provided that the member shall settle payment obligations on
+behalf of such bank, an institution or branch of a foreign institution
+referred to in subparagraphs (i) and(ii).
+Effecting settlement.
+9. (1) Settlement shall be effected by payment of money or
+by means of entries passed through the Central Bank settlement
+system or a designated payment system.
+(2) A settlement that has been effected by payment of money
+or by means of an entry to the credit of the account maintained by
+a settlement system participant in the Central Bank settlement
+system or a designated payment system shall be final and
+irrevocable.
+(3) An entry to or payment out of the account of a designated
+payment system participant to settle a payment or settlement
+obligation in a designated payment system shall be final and
+irrevocable.
+Clearing provisions.
+10. (1) A person shall not clear payment instructions unless
+that person is—
+(a) a Central Bank settlement system participant; or
+(b) a bank, an institution or a branch of a foreign institution
+that is allowed to clear in terms of section 8 (2) (d) (i).
+
+NO. 39
+
+National Payment System
+
+(2) A person who contravenes the provisions of subsection
+(1) commits an offence and shall be liable, on conviction, to a fine
+not exceeding five hundred thousand shillings or imprisonment for
+a term not exceeding three years, or both.
+Payments to third parties.
+11. A person may, as a regular feature of that person’s
+business, accept money or payment instructions from any other
+person for purposes of making payment on behalf of that other
+person to whom that payment is due, if—
+(a) the first-mentioned person is the Central Bank, a bank, an
+institution or a branch of a foreign institution, a payment
+service provider or a designated payment system
+operator; or
+(b) the first-mentioned person is the Postal Corporation of
+Kenya established under the Postal Corporation of Kenya
+Act, 1998, No. 3 of 1998, the Kenya Post Office Savings
+Bank established under the Kenya Post Office Savings
+Bank Act, Cap. 493B, a building society established
+under the Building Societies Act, Cap. 489; and
+(c) the money is accepted or payment is made in accordance
+with directives issued by the Central Bank from time to
+time in accordance with section 22.
+Authorisation of payment service provider.
+12. (1) No person shall, in Kenya conduct the business of a
+payment service provider except an authorized payment service
+provider.
+(2) A person who contravenes the provisions of subsection
+(1) commits an offence and shall, on conviction be liable to a fine
+not exceeding five hundred thousand shillings, or to imprisonment
+for a term not exceeding three years, or to both.
+Application for authorisation.
+13. (1) A person proposing to transact the business of a
+payment service provider shall, before commencing such
+business, apply to the Bank for authorization.
+(2) An application under this section shall be made in the
+prescribed form and shall be forwarded to the Bank together with
+the prescribed fee.
+
+15
+
+16
+
+NO. 39
+
+National Payment System
+
+(3) In considering an application for authorization, the Bank
+may require to be satisfied as to the financial condition and history
+of the applicant, the character of its management, the adequacy of
+its capital structure and the convenience and needs of the area to
+be served and the public interest which will be served by granting
+of the authorisation.
+(4) The Bank may, subject to the payment of the prescribed
+fee and to such conditions as it may consider necessary, grant
+authorization to the applicant
+(5) Where authorization has been granted under this section,
+the Bank may add, vary, or substitute conditions attached thereto.
+(6) An authorisation issued under this section shall, unless
+earlier revoked, be valid for twelve months next following the date
+of issue:
+Provided that where an application for its renewal is made
+under this section, the authorisation shall be deemed to continue in
+force until the application for renewal is determined.
+Renewal of authorisation.
+14. (1) An authorisation made under section 13 may on
+expiry be renewed for a further period of twelve months:
+Provided that where an authorised payment service provider
+fails to commence business in Kenya within six months of the
+grant of authorisation, the authorized payment service provider
+shall, if still intending to conduct payment service business in
+Kenya, apply for authorization as if the first authorisation had never
+been granted.
+(2) An application for the renewal of an authorization shall—
+(a) be made in the prescribed form and forwarded to the Bank
+together with the prescribed fee;
+(b) be lodged with the Bank at least two months prior to the
+expiry of the authorisation.
+(3) An application for renewal of an authorization shall be
+considered in accordance with the provisions of section 13.
+
+NO. 39
+
+National Payment System
+
+Revocation of authorisation.
+15. (1) Subject to sub-section (2), the Bank may, by notice in
+writing to an authorised payment service provider, revoke or
+suspend an authorisation for such period as it may specify, if the
+authorised payment service provider—
+(a) ceases to carry on business in Kenya or goes into
+liquidation or is wound up, or is otherwise dissolved;
+(b) fails to comply with the provisions of this Act or any
+condition attached to an authorisation; or
+(c) conducts business in a manner detrimental to the best
+interests of the public.
+(2) Before revoking or suspending an authorization under this
+section, the Bank shall give an authorized payment service
+provider, not less than fourteen days notice in writing and shall
+consider any representations made to it in writing by the
+authorised payment service provider within that period.
+Netting agreements and rules.
+16. (1) The provisions of this section shall apply despite any
+provision to the contrary relating to insolvency in the Companies
+Act, Cap. 486, the Banking Act, Cap. 488, the Building Societies
+Act, Cap. 489, the Co-operative Societies Act, 1997, No. 12 of
+1997 or the Microfinance Act, 2006, No. 19 of 2006.
+(2) If a settlement system participant is wound up or placed
+under statutory management, or a receiver manager or similar
+official is appointed to run a settlement system participant—
+(a) any provision contained in a written netting agreement,
+the settlement system rules or clearing, netting and
+settlement agreements to which that settlement system
+participant is a party, or any netting rules and practices
+applicable to the settlement system participant in relation
+to such agreements shall be binding upon the liquidator,
+statutory manager or receiver manager, as the case may
+be, in respect of any payment or settlement obligation—
+(i) which has been determined through netting prior to
+the issue of the winding–up order, or the
+
+17
+
+18
+
+NO. 39
+
+National Payment System
+
+appointment of the statutory manager, or receiver
+manager, as the case may be; and
+(ii) which is to be discharged on or after the date of the
+winding-up order, statutory management order or
+the appointment of a receiver manager, as the case
+may be, or the discharge of which was overdue on
+the date of the winding-up order, receivership order
+or appointment of the statutory manager, as the
+case may be; and
+(b) the liquidator, statutory manager or receiver manager
+shall be bound by any payment or settlement that is final
+and irrevocable in accordance with section 9 (2) or (3).
+(3) A receiver manager or similar official appointed to run a
+settlement system participant shall give written notice to the
+Central Bank to withdraw such participant’s participation in the
+Central Bank settlement system, in which event such settlement
+system participant shall no longer be entitled to clear or participate
+in the Central Bank settlement system, other than for purposes of
+discharging payment or settlement obligations in accordance with
+the settlement system rules or clearing, netting and settlement
+agreements to which that settlement system participant is a party,
+or any rules and practices applicable to the settlement system
+participant in relation to such agreements.
+(4) When an application for the winding-up of a Central Bank
+settlement system participant is made, a copy of—
+(a) the application for winding-up as filed in court; and
+(c) any subsequent winding-up order, if it is granted,
+shall be lodged with the Central Bank as soon as practicable.
+(5) Where the Central Bank settlement system participant in
+respect of whom an application for winding up is made is a
+designated payment system participant, Central Bank shall, as
+soon as practicable after having received a copy of the application
+for winding up in accordance with subsection (4) (a), notify the
+operator of the payment system.
+(6) If a settlement system participant is wound up, the
+liquidator or similar official is bound by—
+
+NO. 39
+
+National Payment System
+
+(a) any provision contained in the rules of the settlement
+system or in clearing, netting and settlement agreements
+to which that settlement system participant is a party, or
+any rules and practices applicable to the settlement
+system participant in relation to such agreements; and
+(b) any payment or settlement that is final and irrevocable in
+accordance with section 9 (2) or (3).
+(7) A settlement system participant in respect of whom a
+copy of a winding-up order has been lodged with the Central Bank
+in accordance with subsection (4) shall no longer be entitled to
+clear or participate in any settlement system, other than for
+purposes of discharging payment or settlement obligations in
+accordance with the rules of the settlement system or clearing,
+netting and settlement agreements to which that settlement system
+participant is a party, or any rules and practices applicable to the
+settlement system participant in relation to such agreements.
+(8) Notwithstanding any other law, a court shall not recognize
+or give effect to—
+(a) an order of a court exercising jurisdiction under the law of
+insolvency in a place outside Kenya; or
+(b) an act of a person appointed in a place outside Kenya to
+perform a function under the law of insolvency there,
+in so far as the making of the order or doing of the act would be
+prohibited under this Act for a court in Kenya, or a receiver
+manager or similar official, or liquidator or similar official.
+PART IV—PROVISIONS ON REGULATION AND SUPERVISION
+Powers and functions of the Central Bank.
+17. (1) Notwithstanding subsection (2), the Central Bank
+shall, in the exercise of its role of formulating and implementing
+such policies as best promote the establishment, regulation and
+supervision of efficient and effective payment, clearing and
+settlement systems, exercise all the powers and perform all the
+functions conferred and imposed on it by this Act, the Central Bank
+of Kenya Act, Cap. 49, and any other law.
+
+19
+
+20
+
+NO. 39
+
+National Payment System
+
+(2) For the proper exercise of its powers and efficient
+performance of its functions under this Act, the Central Bank may,
+in writing and on such conditions as it deems necessary—
+(a) delegate to any of its officers the exercise of any of its
+powers under this Act; or
+(b) authorize any such officer to perform any of its functions
+under this Act.
+(3) Any delegation of a power or the performance of a
+function under subsection (2)—
+(a) shall not prevent the Central Bank from exercising that
+power or performing that function; and
+(b) may at any time be withdrawn in writing by the Central
+Bank.
+Prohibition of issuance of payment instruments.
+18. (1) The Central Bank may, by order in the Gazette,
+prohibit any person from issuing or using any payment instrument
+if—
+(a) the issuing or use of the payment instrument is
+detrimental to the reliable, safe, efficient and smooth
+operation of a national payment system; or
+(b) the prohibition is in the interest of the public.
+(2) The Central Bank may, in considering whether to prohibit
+any person from issuing or using any payment instrument under
+subsection (1), inspect the premises, equipment, machinery,
+apparatus, books or other documents, or accounts and
+transactions of the issuer or user of the payment instrument, upon
+giving reasonable written notice to the issuer or user.
+(3) The Central Bank shall, before issuing an order of
+prohibition under subsection (1), offer the issuer or user of a
+payment instrument a reasonable opportunity to make
+representations on the impending prohibition.
+Participation by the Central Bank.
+19. (1) The Central Bank may do all or any of the following in
+relation to a designated payment system or to such payment
+
+NO. 39
+
+National Payment System
+
+system and its clearing house—
+(a) be a participant and enforce any failure to settle
+arrangement;
+(b) act as a custodian of a settlement participant’s settlement
+assets or act as a settlement agent.
+(c) regulate and supervise such system(s).
+(2) The Central Bank may provide any additional services it
+considers desirable, including facilities for clearing financial effects
+to designated payment system participants.
+Provision of information to the Central Bank.
+20. (1) A person shall, upon being required to do so, provide
+the Central Bank with such information relating to a payment
+system or payment instrument, in such form and at such times as
+the Central Bank may prescribe.
+(2) In addition to any information that is required to be
+provided to the Central Bank under the Banking Act, Cap. 488
+relating to banks, the management of every designated payment
+system, and every participant in the system, shall provide the
+Central Bank with such reports, returns and other information, at
+such times and in such form as the Central Bank may prescribe,
+regarding—
+(a) the volumes and values of payment instructions cleared in
+the system;
+(b) the volumes or values of the participant’s payment
+obligations and settlement obligations; and
+(c) any other information regarding the operation of the
+system as the Central Bank may require.
+(3) Subject to subsection (4), any information—
+(a) obtained by the Central Bank in accordance with
+subsection (1); and
+(b) identifying a Central Bank settlement system participant,
+
+21
+
+22
+
+NO. 39
+
+National Payment System
+
+shall be confidential and shall not be disclosed by any director or
+officer of the Central Bank to any person, except to an officer of
+the Central Bank who requires that information for purposes of the
+execution of his duties under this Act, the Central Bank of Kenya
+Act (Cap. 491), the Banking Act, Cap. 488, the Building Societies
+Act, Cap. 489, the Microfinance Act, 2006, No. 19 of 2006 or the
+Proceeds of Crime and Anti-Money Laundering Act, 2009, No. 9 of
+2009.
+(4) Notwithstanding the provisions of subsection (3), the
+Central Bank may disclose any information—
+(a) of which the disclosure is necessary to protect the
+integrity, effectiveness or security of the payment
+system, or if required by law to do so; or
+(b) to any monetary authority or financial regulatory authority,
+within or outside Kenya, where such information is
+reasonably required for the proper discharge of the
+functions of the Central Bank or the requesting monetary
+authority or financial regulatory authority.
+(5) A person who contravenes the provisions of subsections
+(1), (2) or (3) commits an offence and shall be liable on conviction,
+to a fine not exceeding five hundred thousand shillings, or to
+imprisonment for a term not exceeding one year, or both.
+(6) Notwithstanding the provisions of subsection (5), no duty
+to which—
+(a) a participant or its officers may be subject, shall be
+breached by reason of the disclosure in good faith, of
+any information under sub-section (1) and (2) in the
+course of the performance of its duties and no action
+shall lie against the participant or any of its officers on
+account of such disclosure;
+(b) the Central Bank or its officers may be subject, shall be
+breached by reason of the disclosure in good faith, of
+any information under sub-section (4) (a) and (b) in the
+course of the performance of its duties and no action
+shall lie against the Central Bank or any of its officers on
+account of such disclosure.
+
+NO. 39
+
+National Payment System
+
+Settlement of disputes.
+21. (1) If any Central Bank settlement system participant
+considers itself aggrieved by a decision taken by the Central Bank
+under any provision of this Act, the matter shall be deemed to
+constitute a dispute between that Central Bank settlement system
+participant and the Central Bank, which dispute shall be settled as
+provided in this section.
+(2) The Central Bank settlement system participant
+concerned shall, within ninety days after the decision of the Central
+Bank, in writing, furnish the Central Bank with full particulars of the
+grievance, and thereafter the Central Bank settlement system
+participant and the Central Bank shall endeavour to settle the
+dispute within seven business days of the receipt by the Central
+Bank of those particulars.
+(3) If the Central Bank settlement system participant and the
+Central Bank do not settle the dispute as provided for under
+subsection (2), they shall refer the dispute to mediation within a
+further period of ten business days.
+(4) The following provisions shall apply to mediation under
+subsection 3—
+(a) the Central Bank settlement system participant concerned
+and the Central Bank shall agree on a mediator;
+(b) the mediator shall familiarize himself with the position held
+by the Central Bank settlement system participant
+concerned and the Central Bank, respectively;
+(c) the mediator, the Central Bank settlement system
+participant concerned and the Central Bank shall discuss
+the dispute at a meeting attended by them all;
+(d) the Central Bank settlement system participant concerned
+and the Central Bank shall, at or following such meeting,
+and with the aid of the mediator, attempt to settle the
+dispute by consensus; and
+(e) the Central Bank settlement system participant concerned
+and the Central Bank shall share the mediator’s costs in
+such proportion as they may agree.
+(5) If the Central Bank settlement system participant
+
+23
+
+24
+
+NO. 39
+
+National Payment System
+
+concerned and the Central Bank are unable to settle the dispute by
+consensus in accordance with subsection (2) or (4), the dispute
+shall be referred—
+(a) to a single arbitrator to be agreed upon by the Central
+Bank settlement system participant and the Central
+Bank; or
+(b) failing such agreement, to an arbitrator appointed, at the
+request of the Central Bank settlement system
+participant or the Central Bank, by a recognised body
+concerned with the facilitation and promotion of the
+resolution of disputes by means of mediation or
+arbitration.
+(6) An arbitrator referred to in subsection (5) shall, as far as
+possible, be a person appointed on account of his knowledge of
+the law and payment systems.
+(7) The provisions of the Arbitration Act, 1995, No. 4 of 1995
+or any revisions thereof, shall apply, mutatis mutandis, to an
+arbitration undertaken in accordance with subsection (5).
+(8) The decision of the arbitrator shall be final and binding on
+the Central Bank settlement system participant concerned and the
+Central Bank.
+Power of Central Bank to advise and direct.
+22. (1) The Central Bank may, from time to time, issue
+directives to any person regarding a payment system or a payment
+instrument on the application of the provisions of this Act.
+(2) In considering whether or not to issue a directive in
+accordance with subsection (1), the Central Bank may have regard
+to any or all of the following aspects—
+(a) that reasonable grounds exist to believe that any person is
+engaging in, or is about to engage in, any act, omission
+or course of conduct, with respect to the payment system
+or payment instrument, that results or is likely to result in
+systemic risk;
+(b) that reasonable grounds exist to believe that any person is
+engaging in, or is about to engage in, any act, omission
+or course of conduct, that compromises or is likely to
+compromise the integrity, effectiveness, efficiency or
+security of the payment system or payment instrument;
+
+NO. 39
+
+National Payment System
+
+(c) the public interest;
+(d) the integrity, effectiveness, efficiency or security of the
+payment system or payment instrument;
+(e) national financial stability;
+(f) any other matter that the Central Bank may consider
+appropriate.
+(3) The Central Bank may, in writing, over and above any
+directive contemplated in subsection (1), issue a directive to a
+person requiring the person, to—
+(a) cease or refrain from engaging in the act, omission or
+course of conduct or perform such other acts as are
+necessary to remedy the situation;
+(b) perform such acts as are necessary to comply with the
+directive or to effect the changes; or
+(c) provide the Central Bank with such information and
+documents relating to the matter as specified in the
+directive.
+(4) The Central Bank may cancel, in writing, any directive
+issued under this Act.
+(5) In considering whether or not to cancel a directive in
+accordance with subsection (4), the Central Bank shall have
+regard to the factors referred to in subsection (2).
+(6) A directive issued by the Central Bank shall not have any
+retroactive effect.
+(7) Any person who neglects, refuses or fails to comply with a
+directive issued under subsection (1) or (3) commits an offence
+and shall be liable on conviction to a fine not exceeding five
+hundred thousand shillings, or to imprisonment for a term not
+exceeding three years, or both.
+(8) A person who receives a directive pursuant to the
+provisions of this section shall comply with the directive within such
+period as may be specified in the directive.
+
+25
+
+26
+
+NO. 39
+
+National Payment System
+
+Audits and inspection.
+23. (1) The Central Bank shall, for the purposes of carrying
+out its functions under this Act, conduct audits and inspections of a
+designated payment system or of an issuer of a designated
+payment instrument.
+(2) Every designated payment system participant or the
+issuer of a designated payment instrument shall, as may be
+required by the Central Bank, assist the Central Bank to the extent
+necessary, to enable the Central Bank carry out an audit or
+inspection.
+Reports.
+24. The Central Bank shall prepare and submit to the
+Minister—
+(a) such reports as the Minister may require; and
+(b) such periodic reports, and at such intervals, as it
+considers appropriate,
+on the operations of every designated payment system or
+designated payment instrument.
+PART V—MISCELLANEOUS
+Utilization of assets of a designated payment system
+participant.
+25. Despite anything to the contrary in any law relating to
+insolvency, any asset of a designated payment system participant
+which was provided prior to the issue of any order for that
+settlement system participant’s winding-up by that participant to
+the Central Bank, or the designated payment system operator, as
+security for a loan in respect of its settlement obligations, may be
+utilized by the Central Bank or the designated payment system
+operator, as the case may be, to the extent required for the
+discharge of the settlement obligations of the payment system
+participants.
+Retention of records.
+26. (1) Notwithstanding anything to the contrary in any law
+relating to the retention of records, the Central Bank, the Central
+Bank settlement system participants, payment clearing house
+system operators and system operators, shall retain all records
+
+NO. 39
+
+National Payment System
+
+obtained by them during the course of the operations and
+administration of a payment system or the issuance of a payment
+instrument, for a period of seven years from the date of each
+particular record.
+(2) The retention of records under subsection (1) may be
+effected by electronic means.
+Use of confidential information for personal gain.
+27. (1) Subject to subsection (2), if—
+(a) any officer or employee of the Central Bank; or
+(b) any member or employee of a payment system
+management body,
+for his personal gain, makes use of any information which he has
+acquired in the performance of his functions under this Act, or
+under the constitution or rules of any designated payment system,
+and which relates to the affairs of a particular institution, he
+commits an offence and is liable on conviction to a fine not
+exceeding five hundred thousand shillings, or imprisonment for a
+term not exceeding one year, or both.
+(2) It shall be a defence to a charge under subsection (1) for
+the person charged to show that the information which he used
+was generally known to members of the public or to a substantial
+section of the public.
+Priority of certain instruments on winding up.
+28. (1) In this section, ―priority payment instruction‖ means a
+money order, bank draft or similar payment instruction issued,
+directly or indirectly, by a participant in a designated payment
+system, but does not include an instrument issued by one such
+participant to another for the purpose of effecting a payment
+between them.
+(2) Notwithstanding anything to the contrary in the
+Companies Act, Cap. 486 or any law relating to insolvency, but
+subject to this section, where a participant in a designated
+payment system is wound up under the Companies Act, Cap. 486
+unpaid priority payment instructions that were drawn on the
+participant and cleared through the payment system before the
+making of the winding-up order shall be paid from the participant’s
+assets, and shall rank in preference above any other unsecured
+claim against the assets.
+
+27
+
+28
+
+NO. 39
+
+National Payment System
+
+(3) No payment shall be made pursuant to subsection (2) in
+preference to any other claim against any assets unless a request
+for such payment has been made within sixty days after the
+making of the winding up order in regard to the participant
+concerned.
+(4) Subsection (2) shall not be construed as permitting a
+payment instruction to be settled in preference to any other claim
+against any assets, where the instruction was drawn on or certified
+or issued by the participant concerned with a view to giving the
+drawee of the instruction a preference over the participant’s other
+creditors.
+Misleading advertisements
+29. (1) Any person who issues an advertisement, brochure,
+circular or in any way makes representations inviting any person to
+participate in a payment system or in the issuance and usage of a
+payment instrument which—
+(a) falsely represents that he is designated to operate the
+payment system or issue the payment instrument under
+the provisions of this Act;
+(b) falsely represents that he is recognised to manage a
+payment system under the provisions of this Act; or
+(c) is issued contrary to the provisions of this Act,
+commits an offence and is liable on conviction to a fine not
+exceeding five hundred thousand shillings or imprisonment for a
+term not exceeding one year, or both.
+(2) The Central Bank may at any time direct any person to
+withdraw, amend or refrain from issuing any advertisement,
+brochure, circular or making or desist from making any other
+representation relating to participation in the payment system or
+issuance of a payment instrument, which in its sole discretion, it
+considers to be misleading.
+Relief from prosecution.
+30. No action shall lie against the Central Bank or any of its
+officers or other persons appointed or authorized to perform any
+function under this Act, in respect of anything done or omitted to
+be done by him in good faith in the exercise or performance of any
+power, authority, or function conferred or imposed on him under
+this Act.
+
+NO. 39
+
+National Payment System
+
+Regulations and guidelines.
+31. (1) The Minister may make regulations generally for the
+better carrying into effect the provisions of this Act.
+(2) The Central Bank may—
+(a) prescribe anything which under this Act may be
+prescribed;
+(b) subject to this Act, issue guidelines in respect of any
+matter relating to the administration or enforcement of
+this Act; and
+(c) prescribe monetary fines for payment system operators,
+issuers of payment instruments or authorized payment
+service providers, which shall not exceed one million
+shillings.
+Transition.
+32. (1) Any person who, immediately before the coming into
+force of this Act, was—
+(a) operating a system for―
+(i) the clearing of payment instructions;
+(ii) the netting or settlement of obligations arising from
+the clearing of payment instructions; or
+(b) issuing a payment instrument; or
+(c) conducting the business of a payment service provider.
+may continue to operate the system or issue the payment
+instrument or conduct the business of a payment service provider
+for six months after the commencement of this Act, even if the
+system or the payment instrument has not been designated or the
+payment service provider has not been authorized by the Central
+Bank under this Act:
+Provided that, after the commencement of this Act,
+
+29
+
+30
+
+NO. 39
+
+National Payment System
+
+(a) the operator of an undesignated payment system or the
+issuer of an undesignated payment instrument shall,
+upon advice by the Central Bank, apply to the Central
+Bank for designation of the payment system or
+instrument and, if his application is declined before the
+six-month period has elapsed, the applicant shall cease
+to operate the system or issue the instrument forthwith;
+and
+(b) the provider of an unauthorized payment service shall
+apply to the Central Bank for authorisation and if the
+application is declined before the six month period has
+elapsed, the provider shall cease to conduct the
+business of a payment service provider forthwith.
+(2) A person who continues to operate an undesignated
+payment system, or to issue an undesignated payment instrument,
+after the expiry of six months from the date of commencement of
+this Act commits an offence and is liable, on conviction, to a fine
+not exceeding one million shillings, or to imprisonment for a term
+not exceeding five years, or both.
+(3) A person who continues to provide an unauthorized
+payment service after the expiry of six months from the
+commencement of this Act commits an offence and is liable, on
+conviction, to a fine not exceeding five hundred thousand shillings
+or to imprisonment for a term not exceeding three years or both.
+Savings.
+33. An issuer of a payment instrument who is licensed under
+the Banking Act, Cap. 488, the Building Societies Act, Cap. 489,
+the Kenya Post Office Savings Bank Act, Cap. 493B, the Postal
+Corporation of Kenya Act, 1998, No.3 of 1998 and the
+Microfinance Act, 2006, No.19 of 2006 shall be deemed to have
+met the requirements under section 6(4).
+
+

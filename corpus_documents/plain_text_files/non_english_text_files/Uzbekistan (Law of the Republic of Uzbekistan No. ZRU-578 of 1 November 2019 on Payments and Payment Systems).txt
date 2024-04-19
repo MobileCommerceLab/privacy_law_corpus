@@ -1,0 +1,965 @@
+!
+
+Ру
+
+Ўз
+
+O‘z|Ру
+
+"
+
+#
+
+$
+
+
+
+O‘RQ-578 01.11.2019
+
+Hozirgi vaqtda mazkur hujjatga o‘zgartirish kiritilmoqda
+
+O‘ZBEKISTON RESPUBLIKASINING QONUNI
+TO‘LOVLAR VA TO‘LOV TIZIMLARI TO‘G‘RISIDA
+Qonunchilik palatasi tomonidan 2019-yil 19-sentabrda qabul qilingan
+Senat tomonidan 2019-yil 11-oktabrda ma’qullangan
+1-bob. Umumiy qoidalar
+1-modda. Ushbu Qonunning maqsadi
+Ushbu Qonunning maqsadi to‘lovlar va to‘lov tizimlari sohasidagi munosabatlarni tartibga solishdan iborat.
+2-modda. Ushbu Qonunning qo‘llanilish sohasi
+Ushbu Qonunning amal qilishi to‘lov xizmatlarini yetkazib beruvchi va to‘lov xizmatlaridan foydalanuvchi bo‘lgan jismoniy va yuridik shaxslar o‘rtasida
+to‘lovlarni amalga oshirish hamda to‘lov xizmatlari ko‘rsatish chog‘ida yuzaga keladigan munosabatlarga nisbatan tatbiq etiladi.
+Ushbu Qonunning amal qilishi kripto-aktivlarga doir operatsiyalarga nisbatan tatbiq etilmaydi.
+3-modda. To‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun hujjatlari
+To‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun hujjatlari ushbu Qonun va boshqa qonun hujjatlaridan iboratdir.
+Agar O‘zbekiston Respublikasining xalqaro shartnomasida O‘zbekiston Respublikasining to‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun hujjatlarida nazarda
+tutilganidan boshqacha qoidalar belgilangan bo‘lsa, xalqaro shartnoma qoidalari qo‘llaniladi.
+4-modda. Asosiy tushunchalar
+Ushbu Qonunda quyidagi asosiy tushunchalar qo‘llaniladi:
+benefitsiar — pul mablag‘larini oluvchi shaxs;
+valyutalash sanasi — tashabbuskor tomonidan to‘lov hujjatida ko‘rsatilgan, benefitsiarning bank hisobvarag‘iga pul mablag‘lari o‘tkazilishi kerak bo‘lgan
+sana;
+identifikatsiya vositasi — farmoyishni jo‘natuvchining elektron raqamli imzosi yoki harflar, raqamlar yoki ramzlar uyg‘unligidan iborat noyob identifikator
+yoxud to‘lov xizmatlarini yetkazib beruvchi tomonidan to‘lov xizmatlaridan foydalanuvchini identifikatsiyalash uchun belgilangan hamda u bilan kelishilgan boshqa
+identifikator (shaxsiy parol, bir martalik identifikatsiya kodi, biometrik identifikatsiyalash vositasi);
+kliring — to‘lov tizimi ishtirokchilarining pulga doir o‘zaro talablari va majburiyatlarini yig‘ish, taqqoslash hamda hisobga o‘tkazish jarayoni;
+masofaviy xizmat ko‘rsatish tizimi — elektron xizmatlardan foydalanish uchun to‘lov xizmatlaridan foydalanuvchi va ushbu xizmatlarni yetkazib beruvchi
+o‘rtasidagi aloqani ta’minlaydigan telekommunikatsiya vositalari, raqamli va axborot texnologiyalari, dasturiy ta’minot va uskunalar majmui;
+operatsiya kuni — farmoyishlarni qabul qilish va ularga ishlov berish amalga oshiriladigan vaqtning davri;
+tashabbuskor — to‘lovni amalga oshirish uchun farmoyish bergan shaxs;
+to‘lov — pul majburiyatini naqd pul mablag‘lari bilan bajarish yoxud pul mablag‘larini to‘lov vositalaridan foydalangan holda o‘tkazish;
+to‘lov agenti — bank yoki to‘lov tashkiloti bilan to‘lov xizmatlari ko‘rsatish uchun agentlik shartnomasini tuzgan, bank hisoblanmaydigan yuridik shaxs;
+to‘lov vositasi — to‘lovni amalga oshirish uchun asos bo‘ladigan yoki foydalaniladigan to‘lov hujjati yoki elektron to‘lov vositasi;
+to‘lov subagenti — to‘lov agenti bilan to‘lov xizmatlarini ko‘rsatish bo‘yicha subagentlik shartnomasini tuzgan, bank hisoblanmaydigan yuridik shaxs yoki
+yakka tartibdagi tadbirkor;
+to‘lov tashkiloti — bank hisoblanmaydigan, to‘lov xizmatlarini ko‘rsatish bo‘yicha faoliyatni amalga oshirishga vakolatli bo‘lgan yuridik shaxs;
+to‘lovchi — to‘lov kimning hisobidan amalga oshirilayotgan bo‘lsa, o‘sha shaxs;
+to‘lov xizmati — to‘lov xizmatini yetkazib beruvchining to‘lov xizmatlaridan foydalanuvchiga ko‘rsatadigan xizmati;
+to‘lov xizmatlari bozori — to‘lov xizmatlarini ko‘rsatish va ulardan foydalanish, shuningdek to‘lov vositalarini chiqarish va ulardan foydalanish bilan bog‘liq
+munosabatlar majmui;
+to‘lov xizmatlaridan foydalanuvchi — to‘lov xizmatlarini yetkazib beruvchining to‘lov xizmatlaridan foydalanadigan jismoniy va yuridik shaxs;
+farmoyish — to‘lov tashabbuskorining to‘lov xizmatlarini yetkazib beruvchiga to‘lovni amalga oshirish to‘g‘risidagi ko‘rsatmasi bo‘lib, u elektron to‘lov
+vositasidan yoki masofaviy xizmat ko‘rsatish tizimidan foydalanilganda to‘lov hujjatlari shaklida yoki to‘lov xizmatlaridan foydalanuvchining roziligi ko‘rinishida
+ifodalanadi;
+elektron pullar — elektron pullar emitentining elektron shaklda saqlanadigan hamda elektron pullar tizimida to‘lov vositasi sifatida qabul qilinadigan shartsiz
+va chaqirib olinmaydigan pul majburiyatlari.
+2-bob. To‘lov tizimlari
+5-modda. To‘lov tizimi va to‘lov tizimining ishtirokchilari
+To‘lov tizimi to‘lovlarni to‘lov tizimining operatori, to‘lov tizimi ishtirokchilari va (yoki) to‘lov tashkilotlarining to‘lov tizimi operatori tomonidan belgilangan
+to‘lov tizimining tartib-taomillarini, infratuzilmasini va qoidalarini qo‘llash vositasida hamkorlik qilish yo‘li bilan amalga oshirishni ta’minlaydigan munosabatlar
+majmuidir.
+To‘lov tizimi operatori bilan hisob-kitoblarni amalga oshiruvchi va to‘lov tizimida ishtirok etish to‘g‘risida shartnoma tuzgan banklar to‘lov tizimining
+ishtirokchilari hisoblanadi.
+6-modda. To‘lov tizimlarining turlari, ularning muhimligini aniqlash mezonlari
+To‘lov tizimlari muhim to‘lov tizimlari va boshqa to‘lov tizimlariga bo‘linadi.
+Agar to‘lov tizimining uzluksiz ishlashi O‘zbekiston Respublikasi to‘lov xizmatlari bozorining barqaror faoliyat ko‘rsatishiga yordam bersa, uning ishidagi
+to‘xtalishlar (uzilishlar) esa O‘zbekiston Respublikasi to‘lov xizmatlari bozorida tavakkalchiliklarning paydo bo‘lishiga olib kelishi mumkin bo‘lsa, O‘zbekiston
+Respublikasi Markaziy banki (bundan buyon matnda Markaziy bank deb yuritiladi) ushbu to‘lov tizimini muhim to‘lov tizimi jumlasiga kiritadi.
+Agar to‘lov tizimi to‘lov xizmatlari bozorining Markaziy bank tomonidan mazkur bozor uchun belgilangan miqdordan ko‘p ulushini egallagan bo‘lsa va (yoki)
+to‘lovlar to‘lov tizimi orqali O‘zbekiston Respublikasi hududida Markaziy bank tomonidan belgilanadigan ko‘rsatkichlardan kam bo‘lmagan hajmda bir yil davomida
+amalga oshirilsa, bu tizim muhim to‘lov tizimi jumlasiga kiradi.
+Ushbu moddaning ikkinchi va uchinchi qismlarida keltirilgan to‘lov tizimlarining tavsiflariga mos kelmaydigan to‘lov tizimlari boshqa to‘lov tizimlari
+hisoblanadi.
+7-modda. To‘lov tizimining operatori
+O‘zbekiston Respublikasi hududida to‘lov tizimining ishlashini ta’minlash bo‘yicha faoliyatni amalga oshiruvchi yuridik shaxs to‘lov tizimining operatoridir.
+To‘lov tizimining operatori bo‘lmagan yuridik shaxs o‘z nomida va (yoki) tovar belgisida “to‘lov tizimi” degan so‘zlarni hamda mazkur so‘zlardan hosil
+bo‘lgan, to‘lov tizimining ishlashini ta’minlash bo‘yicha faoliyatni ushbu yuridik shaxs amalga oshirayotganligini taxmin qilish imkonini beradigan so‘zlardan
+foydalanish huquqiga ega emas.
+To‘lov tizimining operatori:
+to‘lov tizimining qoidalarini belgilaydi va to‘lov tizimining ishtirokchilari tomonidan ularga rioya etilishi ustidan nazoratni amalga oshiradi;
+to‘lov tizimi ishtirokchilarining (ishtirokchilariga) to‘lovga va axborotga doir xabarlariga ishlov berilishini hamda ushbu xabarlarning berilishini,
+farmoyishlarning yakka tartibda bajarilishini yoki kliringni amalga oshiradi;
+to‘lov tizimining ishtirokchisi bilan to‘lov tizimida ishtirok etish to‘g‘risida shartnoma tuzadi;
+to‘lov tizimi infratuzilmasining ishlab turishini ta’minlaydi;
+axborot xavfsizligi talablariga va to‘lov tizimining uzluksiz ishlash choralariga rioya qilinishini ta’minlaydi;
+to‘lov tizimining ishtirokchilari o‘zlariga ko‘rsatiladigan xizmatlardan teng va ochiq holda foydalanishini ta’minlaydi.
+To‘lov tizimining operatori to‘lov tizimi to‘g‘risida axborot taqdim etganda to‘lov tizimining operatori faoliyatini amalga oshirishga doir o‘z litsenziyasi
+raqamini ko‘rsatishi shart.
+8-modda. To‘lov tizimining qoidalari
+To‘lov tizimining qoidalari quyidagilarni o‘z ichiga olishi kerak:
+to‘lov tizimining ishlash tartib-taomillari, shu jumladan to‘lov tizimida to‘lovlarni amalga oshirish, to‘lov xabarnomalari formatlarining qo‘llanilish tartibi,
+to‘lov tizimining ish jadvali va to‘lov tizimidagi tavakkalchiliklarni boshqarish tizimi;
+to‘lov tizimi operatori ko‘rsatayotgan xizmatlarning va to‘lov tizimida amalga oshirilayotgan operatsiyalarning tavsifi;
+to‘lov tizimida ishtirok etish shartlari;
+to‘lov tizimi ishtirokchilarining to‘lov tizimi operatori bilan hamkorligi tartibi;
+to‘lov bo‘yicha farmoyishni chaqirib olish tartib-taomili;
+to‘lov tizimi ishtirokchilarining to‘lovga qobiliyatsizligini hal etish tartibi;
+axborot xavfsizligi talablariga rioya etish tartibi;
+to‘lov tizimi qoidalarini buzganlik uchun to‘lov tizimi ishtirokchisiga nisbatan qo‘llaniladigan choralar.
+To‘lov tizimining qoidalariga ushbu to‘lov tizimi ishtirokchilarining boshqa to‘lov tizimlarida ishtirok etishini, shuningdek mazkur to‘lov tizimining
+infratuzilmasiga xizmat ko‘rsatuvchi shaxslarning boshqa to‘lov tizimlariga xizmat ko‘rsatishini (bundan ushbu to‘lov tizimi operatorining xodimlari bo‘lgan shaxslar
+mustasno) cheklovchi shartlarni kiritish taqiqlanadi.
+To‘lov tizimining qoidalari, ushbu qoidalarga doir o‘zgartish va qo‘shimchalar, to‘lov tizimi operatorining tariflari (xizmatlari qiymati) hamda bu tariflarning
+(xizmatlar qiymatining) barcha o‘zgarishlari to‘g‘risidagi ma’lumotlar to‘lov tizimi operatori tomonidan tasdiqlanganidan so‘ng uch ish kuni mobaynida to‘lov tizimi
+operatorining rasmiy veb-saytida e’lon qilinishi lozim.
+To‘lov tizimining qoidalari, ushbu qoidalarga doir o‘zgartish va qo‘shimchalar, to‘lov tizimi operatorining tariflari (xizmatlari qiymati) hamda bu tariflarning
+(xizmatlar qiymatining) barcha o‘zgarishlari to‘lov tizimi operatorining rasmiy veb-saytida e’lon qilinganidan so‘ng o‘n besh kun o‘tgach to‘lov tizimi operatori va
+ishtirokchilari tomonidan qo‘llaniladi.
+To‘lov tizimlarining operatorlari o‘z to‘lov tizimlarining hamkorligi to‘g‘risidagi shartnomalarni, basharti to‘lov tizimlarining qoidalarida bunday hamkorlik
+tartibi aks ettirilgan bo‘lsa, tuzishi mumkin.
+To‘lov tizimining operatori Markaziy bankka:
+to‘lov tizimining qoidalariga kiritilgan o‘zgartish va qo‘shimchalar to‘g‘risidagi ma’lumotlarni ushbu o‘zgartish hamda qo‘shimchalar amalga kiritiladigan
+sanaga qadar o‘n besh ish kunidan kechiktirmay;
+to‘lov tizimi operatori tariflarining (xizmatlari qiymatining) o‘zgarishi to‘g‘risidagi ma’lumotlarni ushbu o‘zgarishlar amalga kiritiladigan sanaga qadar o‘n
+besh ish kunidan kechiktirmay taqdim etadi.
+9-modda. To‘lov tizimidagi tavakkalchiliklarni boshqarish tizimi
+To‘lov tizimidagi tavakkalchiliklarni boshqarish tizimi tavakkalchiliklarni aniqlash, monitoring qilish va boshqarish, shuningdek to‘lov tizimining uzluksiz
+ishlashini ta’minlash tartib-taomillarini belgilaydi hamda to‘lov tizimi operatorining faoliyatini tiklash rejasini o‘z ichiga oladi.
+To‘lov tizimidagi tavakkalchiliklarni boshqarish usullari to‘lov tizimini tashkil etish xususiyatlari, tavakkalchiliklarni boshqarish modeli, to‘lov kliringiga va
+hisob-kitobga oid tartib-taomillar, pul mablag‘lari o‘tkazmalarining soni hamda ularning summalari, yakuniy hisob-kitob vaqti hisobga olingan holda to‘lov tizimi
+operatori tomonidan belgilanadi.
+To‘lov tizimidagi tavakkalchiliklarni boshqarish tizimi tavakkalchiliklarni boshqarishning quyidagi usullarini nazarda tutishi mumkin:
+tavakkalchilik darajasi hisobga olingan holda to‘lov tizimi ishtirokchilari majburiyatlarining eng yuqori miqdorlarini (limitlarini) belgilash;
+bankdagi alohida depozit hisobvaraqda to‘lov tizimining kafolatli jamg‘armasini tashkil etish;
+to‘lov tizimi ishtirokchilarining farmoyishlari navbatma-navbat bajarilishini boshqarish;
+to‘lov tizimida hisob-kitobni ish kuni davomida amalga oshirish;
+hisob-kitobni to‘lov tizimi ishtirokchilari taqdim etgan pul mablag‘lari doirasida amalga oshirish;
+kredit berish imkoniyatini ta’minlash.
+10-modda. Muhim to‘lov tizimi operatori
+Muhim to‘lov tizimi operatori ushbu Qonunning 7-moddasida ko‘rsatilgan shartlarga qo‘shimcha ravishda:
+to‘lov tizimi ishtirokchilarining va to‘lov xizmatlaridan foydalanuvchilarning ehtiyojlarini ko‘rsatiladigan xizmatlar sifati ularni qanoatlantirishi nuqtai
+nazaridan tahlil qiladi;
+to‘lov tizimi ishtirokchilari va to‘lov xizmatlaridan foydalanuvchilar bilan ikki tomonlama aloqa mexanizmining ishlashini ta’minlaydi;
+to‘lov tizimi ishtirokchilarining va to‘lov xizmatlaridan foydalanuvchilarning qanoatlanganligi nuqtai nazaridan to‘lov tizimi faoliyatining samaradorligini
+hisobot yilida ikki tomonlama aloqa mexanizmi vositasida kelib tushgan murojaatlar va so‘rovlarni ko‘rib chiqish natijalarini hisobga olgan holda tahlil qilish
+natijalarini o‘z rasmiy veb-saytida bir yilda bir marta, hisobot davridan keyingi birinchi chorakdan kechiktirmay e’lon qiladi;
+muhim to‘lov tizimining ishlashini o‘zini o‘zi baholashdan o‘tkazadi;
+to‘lov tizimining tavakkalchiliklarni boshqarish organini tashkil etadi va tavakkalchiliklarni boshqarishning kamida ikki usulidan foydalanadi;
+ichki hujjatlarida:
+1) to‘lov tizimining tavakkalchiliklarini boshqarish organining ishlash reglamentini, shu jumladan uning vakolatlarini;
+2) to‘lov tizimi ishtirokchilarining ko‘rsatilayotgan xizmatlar sifatiga bo‘lgan ehtiyojlari qanoatlantirilishi baholanayotgan to‘lov tizimi ishining
+samaradorligini ta’minlash mezonlarini;
+3) to‘lov tizimi ishtirokchilari bilan nizolarni sudgacha hal qilish tartibini belgilaydi.
+Ushbu moddada ko‘rsatilgan hujjatlar tasdiqlanganidan keyin uch ish kuni mobaynida muhim to‘lov tizimi operatori tomonidan o‘z rasmiy veb-saytida e’lon
+qilinadi.
+11-modda. Muhim to‘lov tizimining ishlashini o‘zini o‘zi baholashdan o‘tkazish
+Muhim to‘lov tizimining operatori tomonidan mazkur to‘lov tizimining ushbu Qonun talablariga va xalqaro standartlarga muvofiqligini aniqlash maqsadida
+amalga oshiriladigan chora-tadbirlar majmui muhim to‘lov tizimining ishlashini o‘zini o‘zi baholashdan o‘tkazish hisoblanadi.
+Muhim to‘lov tizimining operatori to‘lov tizimining ishlashini uning xalqaro standartlarga muvofiqligi nuqtai nazaridan uch yilda kamida bir marta o‘zini o‘zi
+baholashdan o‘tkazadi.
+Muhim to‘lov tizimi operatori muhim to‘lov tizimining ishlashini o‘zini o‘zi baholashdan o‘tkazish natijalarini Markaziy bankka taqdim etadi va o‘zini o‘zi
+baholash tugallanganidan keyin uch ish kuni mobaynida o‘z rasmiy veb-saytida e’lon qiladi.
+12-modda. To‘lov tizimidagi to‘lovlarning yakunlanganligi
+To‘lovlar pul mablag‘lari qaysi ishtirokchining foydasini ko‘zlab amalga oshirilgan bo‘lsa, o‘sha ishtirokchining hisobiga o‘tkazilgandan so‘ng to‘lov tizimida
+yakunlangan deb hisoblanadi.
+To‘lov tizimining ishtirokchisi bank hisobvarag‘i bo‘yicha xarajatlar operatsiyalarini to‘xtatib turish va (yoki) mijozning bank hisobvarag‘idagi pul
+mablag‘larini xatlash to‘g‘risidagi vakolatli davlat organlarining qarorlarini olguniga qadar ushbu ishtirokchi tomonidan to‘lov tizimiga yo‘naltirilgan to‘lovlar chaqirib
+olinmaydigan va uzil-kesil to‘lovlardir. Mazkur to‘lovlar bajarilishi va yakuniga yetkazilishi lozim.
+3-bob. To‘lov xizmatlari bozori
+13-modda. To‘lov xizmatlarini yetkazib beruvchilar
+To‘lov xizmatlarini yetkazib beruvchilar quyidagilardan iborat:
+Markaziy bank;
+banklar;
+to‘lov tashkilotlari;
+to‘lov agentlari;
+to‘lov subagentlari.
+Ushbu Qonunda banklar to‘lov tashkilotlari, to‘lov agentlari va to‘lov subagentlari sifatida ko‘rib chiqilmaydi.
+14-modda. To‘lov xizmatlarining turlari
+Quyidagilar bo‘yicha xizmatlar ko‘rsatish to‘lov xizmatlari jumlasiga kiradi:
+bank hisobvarag‘idan foydalangan holda to‘lovlarni qabul qilish va amalga oshirish;
+naqd pul mablag‘larini bank hisobvaraqlariga, shu jumladan uchinchi shaxslarning hisobvaraqlariga o‘tkazish uchun qabul qilish;
+to‘lovchi tomonidan bank hisobvarag‘ini ochmagan holda to‘lovni amalga oshirish uchun naqd pul mablag‘larini qabul qilish;
+elektron pullarni chiqarish va qoplash;
+bank kartalarini chiqarish;
+elektron pullarni va bank kartalarini realizatsiya qilish;
+elektron pullardan foydalangan holda amalga oshiriladigan to‘lovlarni qabul qilish va bu to‘lovlarga ishlov berish;
+elektron shakldagi to‘lovlarga ishlov berish va to‘lovni amalga oshirish uchun zarur axborotni bankka berish yoki mazkur to‘lovlar bo‘yicha pul mablag‘larini
+qabul qilish;
+pul o‘tkazmalari tizimi orqali pul mablag‘larini qabul qilish va amalga oshirish.
+Quyidagilar bo‘yicha xizmatlar ko‘rsatish to‘lov xizmatlari jumlasiga kirmaydi:
+to‘lovchi qaysi shaxs oldida to‘lov xizmatlarini yetkazib beruvchining ishtirokisiz amalga oshiriladigan majburiyatlarga ega bo‘lsa, o‘sha shaxsga to‘lovni
+amalga oshiruvchi shaxs tomonidan naqd pul mablag‘larini berish;
+banknotlarni, tangalarni va qimmatliklarni inkassatsiya qilish;
+bank hisobvarag‘ini ochmagan holda naqd chet el valyutasi bilan ayirboshlash operatsiyalarini amalga oshirish;
+uchinchi shaxslar ishtirokisiz qabul qilingan to‘lovlar bo‘yicha pul mablag‘larini to‘lov xizmatlarini yetkazib beruvchi tomonidan benefitsiar foydasiga
+o‘tkazishni amalga oshirish chog‘ida yuridik shaxs bo‘lgan benefitsiar, yakka tartibdagi tadbirkor va to‘lov xizmatlarini yetkazib beruvchi o‘rtasidagi axborotkommunikatsiyaga oid va texnologik hamkorlikni ta’minlash.
+15-modda. To‘lov xizmatlari ko‘rsatish
+To‘lov xizmatlari:
+Markaziy bank;
+banklar;
+to‘lov tashkiloti, bundan naqd pul mablag‘larini bank hisobvaraqlariga o‘tkazish uchun qabul qilish, elektron pullarni va bank kartalarini chiqarish xizmatlari
+mustasno;
+banklar va to‘lov tashkilotlari uchun ruxsat etilgan to‘lov xizmatlarining turlari doirasida to‘lov agenti hamda to‘lov subagenti tomonidan ko‘rsatiladi.
+To‘lov xizmatlaridan foydalanuvchi o‘z bank hisobvarag‘iga xizmat ko‘rsatadigan to‘lov xizmatlarini yetkazib beruvchining masofaviy xizmat ko‘rsatish
+tizimidan foydalanishga yoki boshqa to‘lov xizmatlarini yetkazib beruvchining xizmatlaridan foydalanishga, basharti to‘lov xizmatlarini yetkazib beruvchida bunday
+foydalanishning texnik imkoniyatlari mavjud bo‘lsa, axborot xavfsizligi va to‘lov xizmatlaridan barcha yetkazib beruvchilar teng foydalanishini ta’minlashga doir
+talablarga rioya etgan holda haqli bo‘ladi.
+O‘zbekiston Respublikasi hududida to‘lov xizmatlarini Markaziy bankning tegishli litsenziyasisiz ko‘rsatish taqiqlanadi. Ushbu talab to‘lov agentlarining va
+to‘lov subagentlarining faoliyatiga nisbatan tatbiq etilmaydi.
+To‘lov tashkiloti to‘lov xizmatlarini ko‘rsatish bo‘yicha agentlik shartnomasi asosida to‘lov agenti yoki to‘lov subagenti sifatida to‘lov xizmatlarini ko‘rsatish
+bo‘yicha faoliyatni amalga oshirishga haqli.
+To‘lov tashkiloti o‘z faoliyati haqidagi axborotni taqdim etishda o‘zining litsenziya raqamini ko‘rsatishi shart.
+16-modda. To‘lov xizmatlari ko‘rsatishga doir shartnoma
+To‘lov xizmati to‘lov xizmatlaridan foydalanuvchi va to‘lov xizmatlarini yetkazib beruvchi o‘rtasida tuzilgan shartnoma, shu jumladan ommaviy oferta
+tarzidagi shartnoma asosida ko‘rsatiladi. To‘lov xizmatlari ko‘rsatishga doir shartnomada quyidagilar bo‘lishi kerak:
+ko‘rsatiladigan to‘lov xizmatlarining turlari va umumiy xususiyati;
+to‘lov xizmatlarini ko‘rsatish tartibi va muddati;
+undiriladigan yig‘imlarning va vositachilik haqlarining miqdorlari;
+to‘lov xizmatlari haqidagi axborotni taqdim etish tartibi;
+ruxsat etilmagan to‘lovlardan himoyalanish harakatlarining tartibi;
+to‘lov xizmatlarini yetkazib beruvchining to‘lov xizmatlari ko‘rsatishni rad etish huquqiga ega bo‘lish shartlari;
+ruxsat etilmagan to‘lovlar bo‘yicha masalalarni hal etish tartibi;
+to‘lov xizmatlaridan foydalanuvchining shartnomani bekor qilish huquqi;
+e’tirozlar bildirish va nizolarni hal etish tartibi;
+to‘lov xizmatlaridan foydalanuvchining farmoyishlarini bajarishni asossiz ravishda rad etganlik yoki lozim darajada bajarmaganlik uchun zararning o‘rnini
+qoplash tartibi va zararning o‘rnini qoplash bo‘yicha to‘lovlarning miqdori.
+To‘lov xizmatlari ko‘rsatishga doir shartnomada to‘lov xizmatlari ko‘rsatish uchun zarur bo‘lgan qo‘shimcha shartlar nazarda tutilishi mumkin.
+To‘lov xizmatlarini yetkazib beruvchi o‘zi va to‘lov xizmatlaridan foydalanuvchi o‘rtasida shartnoma tuzilgan sanada belgilangan ko‘rsatiladigan to‘lov
+xizmatlari bo‘yicha vositachilik haqi miqdorlarini bir tomonlama tartibda oshirish tomonga o‘zgartirishga haqli emas. Bundan xalqaro to‘lovlarni amalga oshirish
+chog‘ida undiriladigan vositachilik haqlari mustasno bo‘lib, bu haqlarning o‘zgarganligi to‘g‘risida to‘lov xizmatlarini yetkazib beruvchi to‘lov xizmatlaridan
+foydalanuvchini shartnomada nazarda tutilgan tartibda va muddatlarda xabardor qiladi.
+17-modda. To‘lov xizmatlarini yetkazib beruvchiga qo‘yiladigan talablar
+To‘lov xizmatlarini yetkazib beruvchi to‘lov xizmatlarini faqat to‘lov xizmatlaridan foydalanuvchining farmoyishida nazarda tutilgan shartlarga muvofiq
+ko‘rsatadi.
+To‘lov xizmatlaridan foydalanuvchining farmoyishi shartlari va rekvizitlarini to‘lov xizmatlarini yetkazib beruvchi tomonidan o‘zgartirish taqiqlanadi.
+To‘lov xizmatlarini yetkazib beruvchi to‘lov xizmatlaridan foydalanuvchining farmoyishisiz to‘lovni boshlashga haqli emas.
+To‘lov xizmatlarini yetkazib beruvchi to‘lov xizmatlaridan foydalanuvchiga vositachilik haqining miqdori haqida to‘lov xizmatlari ko‘rsatilguniga qadar
+axborot taqdim etadi.
+To‘lov xizmatlari ko‘rsatganlik uchun vositachilik haqini to‘lov summasidan undirish taqiqlanadi, bundan benefitsiar va benefitsiarning to‘lov xizmatlarini
+yetkazib beruvchisi o‘rtasidagi shartnomada to‘lov summasidan chegirib tashlash yo‘li bilan vositachilik haqini undirish sharti nazarda tutilgan hollar mustasno.
+Benefitsiarning to‘lov xizmatlarini yetkazib beruvchisi benefitsiarning talabiga ko‘ra uni qabul qilingan to‘lov summasi va undan amalga oshirilgan chegirmalar haqida
+xabardor qiladi.
+To‘lov xizmatlarini yetkazib beruvchi to‘lov xizmatlarini ko‘rsatishda quyidagi shartlarga rioya etilishini ta’minlaydi:
+jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishga qarshi
+kurashish to‘g‘risidagi qonun hujjatlariga muvofiq to‘lov xizmatlaridan foydalanuvchini lozim darajada tekshirishdan o‘tkazish va identifikatsiya qilish;
+to‘lov hujjatida jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni
+moliyalashtirishga qarshi kurashish to‘g‘risidagi qonun hujjatlarida to‘lovchi va benefitsiar bo‘yicha nazarda tutilgan rekvizitlarning mavjud bo‘lishi, bundan to‘lov
+tashkilotining pul mablag‘larini jo‘natuvchi tomonidan bank hisobvarag‘ini ochmagan holda to‘lovlarni amalga oshirish uchun naqd pul mablag‘larini qabul qilish
+bo‘yicha xizmatlar ko‘rsatishi mustasno;
+to‘lovchini va (yoki) benefitsiarni identifikatsiya qilish imkonini beruvchi ma’lumotlar to‘lov xizmatlari ko‘rsatilganidan keyin kamida besh yil davomida
+saqlanishini ta’minlash;
+to‘lov xizmatlaridan foydalanuvchining identifikatsiya vositalarini himoya qilish bo‘yicha zarur huquqiy, tashkiliy va texnik choralar ko‘rish.
+To‘lov xizmatlarini yetkazib beruvchi to‘lov xizmati ko‘rsatilganidan so‘ng to‘lov xizmatlaridan foydalanuvchiga to‘lov xizmati ko‘rsatilganligi faktini
+tasdiqlovchi hujjatni qog‘ozda yoki elektron shaklda taqdim etadi. To‘lov xizmatlari ko‘rsatilganligini tasdiqlovchi hujjatning mazmuniga doir talablar Markaziy bank
+tomonidan belgilanadi.
+To‘lov xizmatlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar to‘lov xizmatlarini ko‘rsatish chog‘ida o‘zi olgan ma’lumotlar sir saqlanishini
+ta’minlaydi hamda ularning uchinchi shaxslarga oshkor etilishiga yo‘l qo‘ymaydi, bundan “Bank siri to‘g‘risida”gi O‘zbekiston Respublikasi Qonunida nazarda
+tutilgan hollar mustasno.
+18-modda. To‘lov tashkilotining faoliyatiga doir cheklovlar
+To‘lov tashkilotlari to‘lov xizmatlari ko‘rsatish bilan bog‘liq bo‘lmagan faoliyat turlari bilan shug‘ullanishga haqli emas.
+Ushbu moddaning birinchi qismida nazarda tutilgan cheklov faoliyatning quyidagi turlariga nisbatan tatbiq etilmaydi:
+reklama, marketing, maslahat va axborot xizmatlari;
+dasturiy ta’minotni ishlab chiqish, moslashtirish, modifikatsiya qilish va texnik jihatdan qo‘llab-quvvatlash;
+axborot-kommunikatsiya texnologiyalaridan foydalanish bilan bog‘liq xizmatlar, shu jumladan axborot-texnik xizmatlar, ma’lumotlarga ishlov berish hamda
+ularni o‘tkazishga doir xizmatlar, ma’lumotlar bazalarini va axborot resurslarini yaratish va ulardan foydalanish;
+axborot tizimlari va tarmoqlarini yaratish hamda ularning xavfsizligini ta’minlash;
+axborotni kriptografik himoyalash vositalarini ishlab chiqish va realizatsiya qilish;
+mikromoliyaviy xizmatlar.
+Agar ushbu moddaning ikkinchi qismida nazarda tutilgan faoliyat turlari amalga oshirilishi uchun litsenziya talab qilinadigan faoliyat turlarining ro‘yxatiga
+kirsa, to‘lov tashkiloti bu faoliyat turlarini amalga oshirish huquqini beruvchi tegishli litsenziyani belgilangan tartibda olishi kerak.
+19-modda. To‘lov agentlari va to‘lov subagentlari orqali to‘lov xizmatlarini ko‘rsatish
+Banklar va to‘lov tashkilotlari to‘lov xizmatlaridan foydalanuvchilarga to‘lov xizmatlarini to‘lov agenti va to‘lov subagenti orqali ko‘rsatishga haqli.
+To‘lov xizmatlaridan foydalanuvchiga to‘lov xizmati to‘lov agenti yoki to‘lov subagenti tomonidan quyidagi talablarga rioya etilgan holda ko‘rsatiladi:
+to‘lov xizmatini bankning yoki to‘lov tashkilotining nomidan ko‘rsatish;
+to‘lov xizmatlaridan foydalanuvchiga to‘lov xizmati ko‘rsatilganligi faktini tasdiqlovchi va zarur rekvizitlarni o‘z ichiga olgan hujjatni taqdim etish;
+to‘lov agenti tomonidan bank yoki to‘lov tashkiloti bilan tuzilgan shartnoma shartlariga muvofiq, to‘lov subagenti tomonidan esa to‘lov agenti bilan tuzilgan
+shartnomaga muvofiq haq undirish.
+To‘lov xizmatlari ko‘rsatish boshlanguniga qadar to‘lov agenti yoki to‘lov subagenti tomonidan to‘lov xizmatlaridan foydalanuvchiga quyidagi axborot taqdim
+etiladi:
+to‘lov xizmatlarining nomi va ushbu xizmatlar ko‘rsatiladigan joyning manzili;
+soliq to‘lovchining nomi, identifikatsiya raqami, bankning, to‘lov tashkilotining va to‘lov agentining joylashgan yeri (pochta manzili), telefon raqami, to‘lov
+xizmatlari to‘lov subagenti tomonidan ko‘rsatilgan taqdirda esa soliq to‘lovchining nomi yoki familiyasi, ismi, otasining ismi, identifikatsiya raqami, to‘lov
+subagentining joylashgan yeri (pochta manzili), telefon raqami;
+bankning yoki to‘lov tashkilotining litsenziyasi raqami;
+to‘lov xizmatlari ko‘rsatilganda undiriladigan haqning miqdori.
+Banklar va to‘lov tashkilotlari to‘lov agentlari hamda to‘lov subagentlarining reyestrlarini yuritadi. To‘lov agenti jalb etilgan to‘lov subagentlarini mazkur
+reyestrga kiritish uchun ushbu subagentlar haqidagi axborotni bankka yoki to‘lov tashkilotiga taqdim etadi.
+Banklar hamda to‘lov tashkilotlari to‘lov xizmatlari ko‘rsatishga doir agentlik shartnomasi shartlariga to‘lov agenti tomonidan rioya etilishi ustidan nazoratni
+amalga oshiradi.
+To‘lov agenti to‘lov xizmatlari ko‘rsatishga doir subagentlik shartnomasi shartlariga to‘lov subagenti tomonidan rioya etilishi ustidan nazoratni amalga
+oshiradi.
+To‘lov xizmatlari ko‘rsatish bo‘yicha to‘lov agenti bilan agentlik shartnomalarini tuzgan bank va to‘lov tashkiloti Markaziy bankka ushbu xizmatlar,
+shuningdek o‘zining to‘lov agentlari hamda to‘lov subagentlari haqidagi ma’lumotlarni taqdim etadi.
+Bank va to‘lov tashkiloti to‘lov agenti hamda to‘lov subagentining majburiyatlari bo‘yicha to‘lov xizmatlaridan foydalanuvchilar oldida to‘lov xizmatlarini
+ko‘rsatishga doir agentlik shartnomalarini tuzgan to‘lov agenti va to‘lov subagenti bilan solidar javobgar bo‘ladi.
+4-bob. To‘lov tizimlarini va to‘lov xizmatlari bozorini tartibga solish
+20-modda. To‘lovlar va to‘lov tizimlari sohasidagi davlat siyosatining asosiy yo‘nalishlari
+To‘lovlar va to‘lov tizimlari sohasidagi davlat siyosatining asosiy yo‘nalishlari quyidagilardan iborat:
+to‘lov xizmatlarini yetkazib beruvchilarning va to‘lov xizmatlaridan foydalanuvchilarning huquqlari, erkinliklari va qonuniy manfaatlarini ta’minlash;
+to‘lov xizmatlari tizimini rivojlantirish uchun shart-sharoitlar yaratish;
+ko‘rsatilayotgan xizmatlar sifatini oshirish;
+naqd pulsiz hisob-kitoblar tizimini rivojlantirishni qo‘llab-quvvatlash.
+21-modda. Markaziy bankning vakolatlari
+Markaziy bank to‘lov tizimlarining samarali, ishonchli va xavfsiz ishlashini ta’minlash maqsadida ularning O‘zbekiston Respublikasi hududida ushbu
+Qonunga muvofiq tartibga solinishini amalga oshiradi.
+To‘lov tizimlarini tartibga solish maqsadida Markaziy bank:
+to‘lov tizimlari operatorlarining faoliyatini va to‘lov tashkilotlarining faoliyatini litsenziyalashni amalga oshiradi;
+To‘lov tizimlari operatorlarining reyestrini va To‘lov tashkilotlarining reyestrini yuritadi;
+to‘lov tizimi qoidalarini va to‘lov tashkilotining to‘lov tizimi ishtirokchilari bilan hamkorligi tartibini kelishib olishni amalga oshiradi;
+to‘lov tizimlarining muhimlik mezonlarini aniqlaydi;
+to‘lov tizimlari ustidan nazoratni amalga oshiradi;
+to‘lov tizimlari operatorlariga va to‘lov tashkilotlariga nisbatan ushbu Qonun talablarini buzganlik uchun choralar hamda sanksiyalar qo‘llaydi;
+O‘zbekiston Respublikasi hududida naqd pulsiz to‘lovlarning amalga oshirilishi tartibini belgilaydi;
+LexUZ sharhi
+Qarang: O‘zbekiston Respublikasida naqd pulsiz hisob-kitoblar to‘g‘risidagi nizom (13.04.2020-y., ro‘yxat raqami 3229).
+
+Markaziy bankning banklararo to‘lov va kliring tizimlarining ishlashi qoidalarini belgilaydi;
+bank hisobvaraqlarining ochilishi, yuritilishi va yopilishi tartibini belgilaydi;
+to‘lov tizimlarining operatorlari va to‘lov tashkilotlari tomonidan Markaziy bankka to‘lovlarga taalluqli ma’lumotlarning taqdim etilishi tartibini belgilaydi;
+O‘zbekiston Respublikasi hududida bank kartalarining chiqarilishi va muomalada bo‘lishi qoidalarini belgilaydi;
+O‘zbekiston Respublikasi hududida elektron pullarning chiqarilishi va muomalada bo‘lishi qoidalarini belgilaydi;
+Markaziy bankning banklararo to‘lov va kliring tizimlari bilan hamkorlikni ta’minlovchi dasturiy vositalarga, shu jumladan avtomatlashtirilgan bank
+tizimlariga, shuningdek to‘lov tizimlarida axborot xavfsizligi choralarini ta’minlashga nisbatan qo‘yiladigan talablarni belgilaydi;
+to‘lov tizimlari operatorlari va to‘lov tashkilotlari ustav kapitalining eng kam miqdorini belgilaydi;
+elektron pullar bilan to‘lovlar va pul o‘tkazmalariga doir operatsiyalar bo‘yicha limitlarni belgilaydi;
+to‘lov xizmatlari bo‘yicha tariflar asossiz ravishda oshirilganda monopoliyaga qarshi kurashish organiga taklif kiritishga haqli;
+ishtirokchilari o‘z faoliyatini O‘zbekiston Respublikasi hududida amalga oshiradigan xalqaro to‘lov tizimlariga nisbatan nazorat faoliyati ta’sirchanligini
+oshirish maqsadida boshqa mamlakatlarning nazorat organlari va xalqaro moliya institutlari bilan hamkorlikni amalga oshiradi.
+22-modda. To‘lov tizimlari operatorlarining faoliyatini litsenziyalash tartibi
+Litsenziya da’vogari sifatida banklar va bank hisoblanmagan yuridik shaxslar to‘lov tizimining operatori faoliyatini amalga oshirish uchun litsenziya olish
+maqsadida Markaziy bank tomonidan belgilanadigan shakl bo‘yicha Markaziy bankka litsenziya berish to‘g‘risidagi ariza bilan murojaat qiladi.
+Bankning litsenziya berish to‘g‘risidagi arizasiga quyidagilar ilova qilinadi:
+bank boshqaruvining to‘lov tizimini tashkil etish haqidagi qarorining ko‘chirma nusxasi;
+yaqin ikki kalendar yil uchun to‘lov tizimini rivojlantirishga doir biznes-reja, unda to‘lov tizimini tashkil etishning maqsadlari va rejalashtirilayotgan natijalari,
+shu jumladan bozor va infratuzilma omillarining tahlili ko‘rsatiladi;
+Markaziy bank tomonidan litsenziya da’vogarining arizasini ko‘rib chiqqanlik uchun yig‘im kiritilganligini tasdiqlovchi hujjat;
+to‘lov tizimining qoidalari.
+Bank hisoblanmaydigan yuridik shaxsning litsenziya berish to‘g‘risidagi arizasiga quyidagilar ilova qilinadi:
+yuridik shaxs vakolatli organining to‘lov tizimini tashkil etish to‘g‘risidagi qarorining ko‘chirma nusxasi;
+yaqin ikki kalendar yil uchun to‘lov tizimini rivojlantirishga doir biznes-reja, unda to‘lov tizimini tashkil etishning maqsadlari va rejalashtirilayotgan natijalari,
+shu jumladan bozor va infratuzilma omillarining tahlili ko‘rsatiladi;
+to‘lov tizimining qoidalari;
+bankning to‘lov tizimining hisob-kitob banki bo‘lishga yozma roziligi, shu jumladan o‘zi bilan qaysi shaklda shartnoma tuzilgan bo‘lsa, o‘sha shakldagi
+roziligi;
+Markaziy bank tomonidan litsenziya da’vogarining arizasini ko‘rib chiqqanlik uchun yig‘im kiritilganligini tasdiqlovchi hujjat;
+buxgalteriya balansi va oxirgi hisobot sanasiga doir moliyaviy natijalar to‘g‘risidagi hisobot;
+muassislar (ishtirokchilar) haqidagi ma’lumotlar, shu jumladan ularning kapitaldagi ulushi miqdori;
+ijro etuvchi organning rahbari va a’zolari to‘g‘risidagi, shu jumladan ularning ma’lumoti, ish joyi va egallab turgan lavozimi haqidagi axborotni o‘z ichiga
+olgan ma’lumotlar, bu ma’lumotlarga tasdiqlovchi hujjatlarning ko‘chirma nusxalari ilova qilinadi;
+tavakkalchiliklarni boshqarish tizimi to‘g‘risidagi, shu jumladan to‘lov xizmatlaridan foydalanuvchilarning pul mablag‘lari but saqlanishini ta’minlashga doir
+talablar haqidagi ma’lumotlar;
+xavfsizlik tizimlari, nazorat mexanizmlari hamda tizimlari to‘g‘risidagi ma’lumotlar;
+xavfsizlik siyosati haqidagi, shu jumladan tavakkalchiliklarni batafsil baholashni o‘z ichiga olgan hujjat, shuningdek axborot xavfsizligi va to‘lov xizmatidan
+foydalanuvchilarning himoya qilinishini ta’minlash uchun tavakkalchiliklarni, shu jumladan firibgarlik hamda maxfiy va shaxsga doir ma’lumotlardan qonunga zid
+ravishda foydalanish xavflarini kamaytirish bo‘yicha ko‘riladigan choralarning tavsifi;
+jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishga qarshi
+kurashish to‘g‘risidagi qonun hujjatlari talablari bajarilishini ta’minlash choralarining tavsifi.
+Litsenziya berish to‘g‘risidagi arizaning shakli va zarur hujjatlarning ro‘yxati Markaziy bankning rasmiy veb-saytiga joylashtiriladi.
+Markaziy bank litsenziyani berish haqidagi yoki uni berishni rad etish to‘g‘risidagi qarorni litsenziya da’vogarining arizasi barcha zarur hujjatlar bilan birga
+olingan kundan e’tiboran o‘ttiz kun muddat mobaynida qabul qiladi.
+To‘lov tizimi qoidalarini kelishib olish litsenziya da’vogarining arizasini va unga ilova qilingan hujjatlarni ko‘rib chiqish bilan bir vaqtning o‘zida amalga
+oshiriladi.
+Litsenziya berish to‘g‘risidagi yoki litsenziya berishni rad etish to‘g‘risidagi qaror qabul qilinganidan so‘ng Markaziy bank litsenziya da’vogariga uch ish kuni
+mobaynida qaror qabul qilinganligi haqida xabarnoma yuboradi.
+Litsenziya berish to‘g‘risidagi qaror qabul qilinganda Markaziy bank To‘lov tizimlari operatorlari reyestriga to‘lov tizimi operatori haqida tegishli yozuvni
+kiritadi.
+Litsenziya berish to‘g‘risidagi qaror qabul qilinganligi haqidagi xabarnoma litsenziya da’vogariga bank hisobvarag‘ining rekvizitlari va davlat bojini to‘lash
+muddati ko‘rsatilgan holda yozma shaklda yoki axborot tizimi orqali elektron shaklda yuboriladi (topshiriladi).
+To‘lov tizimi operatori o‘z faoliyatini litsenziyani olganidan va to‘lov tizimi qoidalarini kelishib olganidan keyin amalga oshiradi.
+Markaziy bank litsenziya da’vogariga quyidagi hollarda litsenziya berishni rad etadi:
+litsenziya da’vogari tomonidan tegishli tarzda rasmiylashtirilmagan hujjatlar taqdim etilganda;
+litsenziya da’vogari tomonidan taqdim etilgan hujjatlarda noto‘g‘ri yoki buzib ko‘rsatilgan ma’lumotlar mavjud bo‘lganda;
+litsenziya da’vogari litsenziya talablariga va shartlariga muvofiq bo‘lmaganda.
+Litsenziya berish rad etilganligi to‘g‘risidagi xabarnoma litsenziya da’vogariga rad etish sabablari ko‘rsatilgan holda yozma shaklda yoki axborot tizimi orqali
+elektron shaklda yuboriladi (topshiriladi). Litsenziya da’vogari ko‘rsatilgan sabablarni bartaraf etib, hujjatlarni takroran ko‘rib chiqish uchun taqdim etishi mumkin
+bo‘lgan muddat ikki oydan oshmasligi kerak.
+Litsenziya da’vogari litsenziya berishni rad etish uchun asos bo‘lib xizmat qilgan sabablarni bartaraf etgan taqdirda, Markaziy bank hujjatlarni takroran ko‘rib
+chiqishni litsenziya da’vogarining arizasi barcha zarur hujjatlar bilan birga olingan kundan e’tiboran o‘n kun muddat mobaynida amalga oshiradi. Litsenziya
+da’vogarining arizasini takroran ko‘rib chiqqanlik uchun yig‘im undirilmaydi.
+To‘lov tizimining operatori haqidagi ma’lumotlar o‘zgargan taqdirda, to‘lov tizimi operatori uch ish kuni mobaynida bu haqda Markaziy bankni yozma
+shaklda yoki axborot tizimi orqali elektron shaklda xabardor qilishi shart. To‘lov tizimi operatoridan olingan xabarnoma asosida Markaziy bank To‘lov tizimlari
+operatorlarining reyestriga uch ish kuni mobaynida tegishli o‘zgartishlar kiritadi.
+To‘lov tizimi operatori faoliyatni ikki va undan ortiq to‘lov tizimlarining operatori sifatida amalga oshirish uchun Markaziy bankka har bir to‘lov tizimining
+operatori sifatidagi faoliyatni amalga oshirishga doir litsenziya berish to‘g‘risida ariza bilan murojaat qiladi, arizaga ushbu moddada ko‘rsatilgan hujjatlarni ilova qiladi.
+23-modda. To‘lov tizimi operatori litsenziyasining amal qilishini tugatish
+Markaziy bank quyidagi hollarda to‘lov tizimi operatori litsenziyasining amal qilishini tugatish to‘g‘risida qaror qabul qiladi:
+to‘lov tizimining operatori litsenziyaning amal qilishini tugatish to‘g‘risidagi ariza bilan murojaat etganda;
+to‘lov tizimining operatori bo‘lgan bankda bank operatsiyalarini amalga oshirish huquqini beruvchi litsenziyaning amal qilishi tugatilganda;
+to‘lov tizimining operatori tugatilganda — tugatilish paytidan e’tiboran yoki uning faoliyati qayta tashkil etilishi natijasida tugatilganda — qayta tashkil etilgan
+paytdan e’tiboran, bundan uning o‘zgartirilishi, shuningdek qayta tashkil etilayotgan to‘lov tizimi operatorida yangitdan vujudga kelgan yuridik shaxsning davlat
+ro‘yxatidan o‘tkazilishi sanasidagi faoliyatning litsenziyalanadigan ayni bir turini amalga oshirishga doir litsenziya mavjud bo‘lganda qo‘shib yuborilishi mustasno;
+to‘lov tizimining operatori litsenziya olingan kundan e’tiboran bir yil davomida faoliyatni amalga oshirmaganda yoki to‘lov tizimi operatorining faoliyati olti
+oydan ortiq davrga to‘xtatib turilganda.
+Litsenziyaning amal qilishini tugatish to‘g‘risida ariza bilan murojaat qilganda to‘lov tizimi operatori quyidagilarni taqdim etishi shart:
+1) to‘lov tizimi operatori tugatiladigan taqdirda:
+to‘lov tizimi operatorini tugatish to‘g‘risida uning muassislari (ishtirokchilari) yoki ta’sis hujjatlarida shunga vakil qilingan yuridik shaxs organi tomonidan
+tugatish sabablari ko‘rsatilgan holda qabul qilingan qaror;
+to‘lov tizimi operatorining muassislari (ishtirokchilari) yoki ta’sis hujjatlarida shunga vakil qilingan yuridik shaxs organi tomonidan tasdiqlangan, tugatish
+jarayonini, to‘lov tizimi ishtirokchilari oldidagi majburiyatlarni bajarish hamda kreditorlarning da’volarini qanoatlantirish tartib-taomillari va muddatlarini o‘z ichiga
+olgan tugatish rejasi;
+Markaziy bankka murojaat qilish paytidagi, da’vo talablarini qanoatlantirish uchun mablag‘lar yetarli ekanligini tasdiqlovchi balans hisoboti;
+tugatuvchi to‘g‘risidagi yoki tugatish komissiyasining tarkibi haqidagi axborot va boshqa zarur ma’lumotlar;
+2) boshqa hollarda — to‘lov tizimi ishtirokchilari oldidagi majburiyatlarni bajarish tartib-taomillari va muddatlari.
+To‘lov tizimi operatori litsenziyasining amal qilishini tugatish sud tartibida quyidagi hollarda amalga oshiriladi:
+ushbu Qonunda nazarda tutilgan talablar to‘lov tizimining operatori tomonidan muntazam ravishda buzilganda yoki bir marta qo‘pol tarzda buzilganda;
+to‘lov tizimining uzluksiz ishlashiga ta’sir ko‘rsatuvchi qoidabuzarliklar Markaziy bankning birinchi ko‘rsatmasi yuborilgan kundan e’tiboran uch oy
+mobaynida to‘lov tizimining operatori tomonidan bartaraf etilmaganda;
+Markaziy bankning litsenziya berish to‘g‘risidagi qarorining qonunga zid ekanligi aniqlanganda.
+To‘lov tizimi operatori litsenziyasining amal qilishini ushbu moddada nazarda tutilmagan asoslar bo‘yicha tugatishga yo‘l qo‘yilmaydi.
+Markaziy bankning litsenziyaning amal qilishini tugatish to‘g‘risidagi qarori to‘lov tizimining operatoriga ushbu qaror qabul qilingan kundan e’tiboran uch
+kundan kechiktirmay yozma shaklda yetkaziladi. Litsenziyaning amal qilishini tugatish to‘g‘risidagi qaror to‘lov tizimining operatori tomonidan olingan kundan
+e’tiboran o‘n kun mobaynida litsenziya Markaziy bankka qaytarilishi va yo‘q qilinishi lozim.
+To‘lov tizimi operatori litsenziyasining amal qilishi tugatilganligi to‘g‘risidagi ma’lumot ommaviy axborot vositalarida, shu jumladan Markaziy bankning
+rasmiy veb-saytida e’lon qilinishi kerak. To‘lov tizimi operatori litsenziyasining amal qilishi uning amal qilishini tugatish to‘g‘risidagi qaror qabul qilingan sanadan
+e’tiboran tugatiladi.
+Markaziy bankning litsenziyaning amal qilishini tugatish to‘g‘risidagi qarori ustidan sudga shikoyat qilinishi mumkin. Sud litsenziyaning amal qilishini
+tugatishni asossiz deb topgan taqdirda Markaziy bank litsenziat oldida unga yetkazilgan zarar miqdorida javobgar bo‘ladi.
+To‘lov tizimi operatori litsenziyasining amal qilishi tugatilganda to‘lovlar va hisob-kitoblar bo‘yicha operatsiyalarni yakunlash tartibi hamda muddatlari
+Markaziy bank tomonidan belgilanadi.
+24-modda. To‘lov tashkilotlarining faoliyatini litsenziyalash tartibi
+Litsenziya da’vogari sifatida yuridik shaxslar to‘lov tashkiloti faoliyatini amalga oshirish uchun litsenziya olish maqsadida Markaziy bank tomonidan
+belgilanadigan shakl bo‘yicha Markaziy bankka litsenziya berish to‘g‘risidagi ariza bilan murojaat qiladi.
+Litsenziya berish to‘g‘risidagi arizaga quyidagilar ilova qilinadi:
+to‘lov tashkilotining yaqin ikki kalendar yil uchun biznes-rejasi;
+to‘lov tashkilotining arizasini Markaziy bank ko‘rib chiqqanligi uchun yig‘im kiritilganligini tasdiqlovchi hujjat;
+oxirgi hisobot sanasiga doir buxgalteriya balansi va moliyaviy natijalar to‘g‘risidagi hisobot;
+to‘lov tashkilotining to‘lov tizimi operatori va to‘lov tizimi ishtirokchilari bilan hamkorligi tartibi;
+muassislar (ishtirokchilar) haqidagi ma’lumotlar, shu jumladan ularning kapitaldagi ulushi miqdori;
+ijro etuvchi organning rahbari va a’zolari to‘g‘risidagi, shu jumladan ularning ma’lumoti, ish joyi va lavozimi haqidagi axborotni o‘z ichiga olgan ma’lumotlar,
+unga tasdiqlovchi hujjatlarning ko‘chirma nusxalari ilova qilinadi;
+tavakkalchiliklarni boshqarish tizimi to‘g‘risidagi, shu jumladan mijozlarning pul mablag‘lari but saqlanishini ta’minlashga doir talablar haqidagi ma’lumotlar;
+xavfsizlik tizimlari, nazorat mexanizmlari hamda tizimlari to‘g‘risidagi ma’lumotlar;
+xavfsizlik siyosati haqidagi, shu jumladan tavakkalchiliklarni batafsil baholashni o‘z ichiga olgan hujjat, shuningdek axborot xavfsizligi va to‘lov xizmatidan
+foydalanuvchilarning himoya qilinishini ta’minlash uchun tavakkalchiliklarni, shu jumladan firibgarlik hamda maxfiy va shaxsga doir ma’lumotlardan qonunga zid
+ravishda foydalanish xavflarini kamaytirish bo‘yicha ko‘riladigan choralarning tavsifi;
+jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishga qarshi
+kurashish to‘g‘risidagi qonun hujjatlari talablari bajarilishini ta’minlash choralarining tavsifi.
+Litsenziya berish to‘g‘risidagi arizaning shakli va zarur hujjatlar ro‘yxati Markaziy bankning rasmiy veb-saytiga joylashtiriladi.
+Markaziy bank litsenziya berish haqida yoki uni berishni rad etish to‘g‘risida to‘lov tashkilotining arizasi barcha zarur hujjatlar bilan birga olingan kundan
+e’tiboran o‘ttiz kun muddat mobaynida qaror qabul qiladi.
+To‘lov tashkilotining to‘lov tizimi ishtirokchilari bilan hamkorlik qilish tartibini kelishib olish to‘lov tashkilotining arizasini va unga ilova qilingan,
+litsenziyalash uchun zarur bo‘lgan hujjatlarni ko‘rib chiqish bilan bir vaqtda amalga oshiriladi.
+Litsenziya berish to‘g‘risidagi yoki litsenziya berishni rad etish to‘g‘risidagi qaror qabul qilinganidan so‘ng Markaziy bank litsenziya da’vogariga uch ish kuni
+mobaynida qaror qabul qilinganligi haqida xabarnoma yuboradi.
+Litsenziya berish to‘g‘risidagi qaror qabul qilinganda Markaziy bank To‘lov tashkilotlari reyestriga to‘lov tashkiloti haqida tegishli yozuvni kiritadi.
+Litsenziya berish to‘g‘risidagi qaror qabul qilinganligi haqidagi xabarnoma litsenziya da’vogariga bank hisobvarag‘ining rekvizitlari va davlat bojini to‘lash
+muddati ko‘rsatilgan holda yozma shaklda yoki axborot tizimi orqali elektron shaklda to‘lov tashkilotiga yuboriladi (topshiriladi).
+To‘lov tashkiloti to‘lov xizmatlarini yetkazib beruvchi sifatida o‘z faoliyatini litsenziya olganidan so‘ng amalga oshirishi mumkin.
+Markaziy bank to‘lov tashkilotiga litsenziya berishni quyidagi hollarda rad etadi:
+to‘lov tashkiloti tegishli tarzda rasmiylashtirilmagan hujjatlarni taqdim etganda;
+to‘lov tashkiloti tomonidan taqdim etilgan hujjatlarda noto‘g‘ri yoki buzib ko‘rsatilgan ma’lumotlar mavjud bo‘lganda;
+to‘lov tashkiloti litsenziya talablari va shartlariga muvofiq bo‘lmaganda.
+Litsenziya berishni rad etish to‘g‘risidagi xabarnoma to‘lov tashkilotiga rad etish sabablari ko‘rsatilgan holda yozma shaklda yoki axborot tizimi orqali
+elektron shaklda yuboriladi (topshiriladi). To‘lov tashkiloti ko‘rsatilgan sabablarni bartaraf etib, hujjatlarni takroran ko‘rib chiqish uchun taqdim etishi mumkin bo‘lgan
+muddat ikki oydan oshmasligi kerak.
+To‘lov tashkiloti litsenziya berishni rad etish uchun asos bo‘lib xizmat qilgan sabablarni bartaraf etgan taqdirda hujjatlarni takroran ko‘rib chiqish to‘lov
+tashkilotining arizasi barcha zarur hujjatlar bilan birga olingan kundan e’tiboran o‘n kun muddat mobaynida Markaziy bank tomonidan amalga oshiriladi. To‘lov
+tashkilotining arizasini takroran ko‘rib chiqqanlik uchun yig‘im undirilmaydi.
+To‘lov tashkiloti to‘g‘risidagi ma’lumotlar o‘zgargan taqdirda to‘lov tashkiloti Markaziy bankni bu haqda uch ish kuni mobaynida yozma shaklda yoki axborot
+tizimi orqali elektron shaklda xabardor etishi shart. Markaziy bank to‘lov tashkilotidan olingan xabarnoma asosida To‘lov tashkilotlarining reyestriga uch ish kuni
+mobaynida tegishli o‘zgartishlar kiritadi.
+25-modda. To‘lov tashkiloti litsenziyasining amal qilishini tugatish
+Markaziy bank quyidagi hollarda to‘lov tashkiloti litsenziyasining amal qilishini tugatish to‘g‘risida qaror qabul qiladi:
+to‘lov tashkiloti litsenziyaning amal qilishini tugatish to‘g‘risidagi ariza bilan murojaat etganda;
+to‘lov tashkiloti tugatilganda — tugatish paytidan e’tiboran yoki uning faoliyati qayta tashkil etish natijasida tugatilganda — qayta tashkil etish paytidan
+e’tiboran, bundan to‘lov tashkilotining o‘zgartirilishi, shuningdek qayta tashkil etilayotgan to‘lov tashkilotida yangitdan vujudga kelgan yuridik shaxsni davlat
+ro‘yxatidan o‘tkazish sanasida faoliyatning litsenziyalanadigan ayni bir turini amalga oshirishga doir litsenziya mavjud bo‘lganda qo‘shib yuborilishi mustasno;
+to‘lov tashkiloti faoliyatni litsenziya olingan kundan e’tiboran bir yil davomida amalga oshirmaganda yoki to‘lov tashkilotining faoliyati olti oydan ortiq
+davrga to‘xtatib turilganda.
+To‘lov tashkiloti litsenziyasining amal qilishini tugatish sud tartibida quyidagi hollarda amalga oshiriladi:
+ushbu Qonunda nazarda tutilgan talablar to‘lov tashkiloti tomonidan muntazam ravishda buzilganda yoki bir marta qo‘pol tarzda buzilganda;
+Markaziy bankning litsenziya berish to‘g‘risidagi qarorining qonunga zid ekanligi aniqlanganda.
+To‘lov tashkiloti litsenziyasining amal qilishini ushbu moddada nazarda tutilmagan asoslar bo‘yicha tugatishga yo‘l qo‘yilmaydi.
+Markaziy bankning litsenziyaning amal qilishini tugatish to‘g‘risidagi qarori to‘lov tashkilotiga ushbu qaror qabul qilingan kundan e’tiboran uch kundan
+kechiktirmay yozma shaklda yetkaziladi. Litsenziyaning amal qilishini tugatish to‘g‘risidagi qaror to‘lov tashkiloti tomonidan olingan kundan e’tiboran o‘n kun
+mobaynida litsenziya Markaziy bankka qaytarilishi va yo‘q qilinishi lozim.
+To‘lov tashkiloti litsenziyasining amal qilishi tugatilganligi to‘g‘risidagi ma’lumot ommaviy axborot vositalarida, shu jumladan Markaziy bankning rasmiy
+veb-saytida e’lon qilinishi lozim. To‘lov tashkiloti litsenziyasining amal qilishi uning amal qilishini tugatish to‘g‘risidagi qaror qabul qilingan sanadan e’tiboran
+tugatiladi.
+To‘lov tashkiloti Markaziy bank tomonidan uning litsenziyasining amal qilishi tugatilganligi haqidagi xabarnoma olinganidan so‘ng to‘lov xizmatlarini
+ko‘rsatishi taqiqlanadi va u bir oy mobaynida o‘zining nomlanishidan “to‘lov tashkiloti” degan so‘zlarni chiqarib tashlashi kerak.
+Markaziy bankning litsenziyaning amal qilishini tugatish to‘g‘risidagi qarori ustidan sudga shikoyat qilinishi mumkin. Sud litsenziyaning amal qilishini
+tugatishni asossiz deb topgan taqdirda Markaziy bank litsenziat oldida unga yetkazilgan zarar miqdorida javobgar bo‘ladi.
+26-modda. To‘lov tashkilotini qayta tashkil etish tartibi
+To‘lov tashkilotini qayta tashkil etish (qo‘shib yuborish, qo‘shib olish, bo‘lish, ajratib chiqarish, o‘zgartirish) tashkilot muassislarining (ishtirokchilarining)
+qaroriga ko‘ra Markaziy bankni xabardor qilgan holda amalga oshirilishi mumkin.
+To‘lov tashkilotini qayta tashkil etish to‘g‘risida qaror qabul qilingan taqdirda, Markaziy bankka ma’lumot uchun quyidagilar taqdim etiladi:
+to‘lov tashkilotini qayta tashkil etish to‘g‘risidagi qaror;
+to‘lov tashkilotini qayta tashkil etish shartlari, shakllari, tartibi va muddatlari bayon etilgan hujjatlar;
+to‘lov tashkilotini qayta tashkil etish oqibatlarining moliyaviy prognozi;
+auditorlik faoliyati to‘g‘risidagi qonun hujjatlariga muvofiq auditorlik hisoboti;
+qayta tashkil etish natijasida tuziladigan to‘lov tashkilotining yaqin ikki kalendar yil uchun biznes-rejasi;
+qayta tashkil etish natijasida tuziladigan to‘lov tashkilotining to‘lov tizimi ishtirokchilari bilan hamkorligi tartibi.
+Markaziy bank to‘lov tashkiloti tomonidan taqdim etilgan hujjatlarni ular taqdim etilgan kundan e’tiboran o‘n besh ish kuni mobaynida ko‘rib chiqish natijalari
+bo‘yicha tavsiya berish huquqiga ega.
+Qayta tashkil etilayotgan to‘lov tashkilotlari Markaziy bankka qayta tashkil etish to‘g‘risida ma’lumot taqdim etgan kundan e’tiboran o‘n besh kun mobaynida
+ommaviy axborot vositalarida, shu jumladan o‘zining rasmiy veb-saytida amalga oshirilayotgan qayta tashkil etish to‘g‘risidagi tegishli axborotni e’lon qilishi shart.
+Qayta tashkil etish natijasida tuzilgan to‘lov tashkilotini litsenziyalash ushbu Qonun talablariga muvofiq amalga oshiriladi.
+27-modda. To‘lov tizimi operatorining va to‘lov tashkilotining ijro etuvchi organlari rahbarlariga doir talablar
+To‘lov tizimi operatorining va to‘lov tashkilotining ijro etuvchi organlari rahbarlari oliy ma’lumotga hamda bank-moliya sohasida yoki axborotkommunikatsiya texnologiyalari sohasida kamida ikki yillik ish tajribasiga, shuningdek benuqson ishchanlik obro‘siga, o‘z vakolatlari doirasida to‘lov tizimlari
+tavakkalchiliklarining samarali boshqarilishini ta’minlash, asosli qarorlar qabul qilish uchun zarur tajriba, bilim va ko‘nikmalarga ega bo‘lishi kerak.
+To‘lov tizimi operatorining va to‘lov tashkilotining ijro etuvchi organlari rahbarlari ushbu moddaning birinchi qismida ko‘rsatilgan talablarga muvofiq
+bo‘lmagan taqdirda Markaziy bank to‘lov tizimi operatorining va to‘lov tashkilotining ijro etuvchi organlari rahbarlarini almashtirish haqida ko‘rsatma berishga haqli.
+Ushbu ko‘rsatma ustidan sudga shikoyat qilinishi mumkin.
+5-bob. To‘lov tizimlarining ishlashi ustidan nazoratni va kuzatuvni amalga oshirish
+28-modda. To‘lov tizimlarining ishlashi ustidan nazoratni amalga oshirish
+Markaziy bank to‘lov tizimlarining ishlashi ustidan nazoratni amalga oshirishda:
+to‘lov tizimlari operatorlaridan va to‘lov tashkilotlaridan to‘lov tizimlarining ishlashi bilan bog‘liq axborotni, shu jumladan shaxsga doir ma’lumotlarni o‘z
+ichiga olgan axborotni so‘rab oladi;
+to‘lov tizimlari operatorlari va to‘lov tashkilotlari tomonidan to‘lov tizimlarining ishlashi to‘g‘risidagi hisobotlarni taqdim etish shakllari va muddatlarini,
+shuningdek hisobotlarni tuzish uslubiyotini belgilaydi;
+to‘lov tizimlari operatorlari va to‘lov tashkilotlari tomonidan to‘lov tizimlarining ishlashi to‘g‘risida taqdim etilgan axborotni tahlil qiladi;
+to‘lov tizimlari operatorlarining va to‘lov tashkilotlarining faoliyatini inspeksiya tekshiruvlaridan o‘tkazadi;
+to‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun hujjatlari talablari buzilgan taqdirda to‘lov tizimlarining operatorlariga va to‘lov tashkilotlariga nisbatan
+choralar hamda sanksiyalar qo‘llaydi.
+To‘lov tizimlarining ishlashi ustidan nazoratni amalga oshirish tartibi Markaziy bank tomonidan belgilanadi.
+29-modda. Inspeksiya tekshiruvlarini o‘tkazish tartibi
+Markaziy bank to‘lov tizimlari operatorlarining va to‘lov tashkilotlarining faoliyatini bir yilda ko‘pi bilan bir marta inspeksiya tekshiruvlaridan o‘tkazishga
+haqli.
+Muhim to‘lov tizimining uzluksiz faoliyat ko‘rsatishida buzilishlar bo‘lgan taqdirda Markaziy bank navbatdan tashqari inspeksiya tekshiruvini o‘tkazishga
+haqli.
+Inspeksiya tekshiruvlari to‘lov tizimlari operatorlari va to‘lov tashkilotlari faoliyatining ayrim masalalari bo‘yicha o‘tkazilishi yoki kompleks tekshiruvlar
+bo‘lishi mumkin.
+Markaziy bankning vakolatli vakillari to‘lov tizimlari operatorlari va to‘lov tashkilotlari faoliyatini inspeksiya tekshiruvidan o‘tkazish chog‘ida quyidagi
+huquqlarga ega:
+hujjatlarni olish va tekshirish;
+zarurat bo‘lganda, tekshiruv materiallariga ilova qilish uchun hujjatlardan ko‘chirma nusxalar olish;
+faoliyatga doir masalalar bo‘yicha og‘zaki va yozma tushuntirishlar olish;
+faoliyatni amalga oshirish joyiga kirish;
+tashkilotning axborot tizimlariga kirish, shu jumladan axborotni elektron shaklda olish (elektron hisoblash mashinalari uchun yaratilgan dasturning
+boshlang‘ich matnlaridan tashqari).
+Inspeksiya tekshiruvi yakunlari bo‘yicha Markaziy bankning vakolatli vakillari tasdiqlovchi hujjatlarni ilova qilgan holda, to‘lov tizimi operatori va to‘lov
+tashkiloti faoliyati to‘g‘risidagi umumiy axborotni, tekshiruv jarayonida aniqlangan qoidabuzarliklar haqidagi axborotni o‘z ichiga olgan tekshiruv dalolatnomasini
+tuzadi.
+Inspeksiya tekshiruvini o‘tkazish muddati o‘ttiz kundan oshishi mumkin emas.
+30-modda. Markaziy bank tomonidan qo‘llaniladigan choralar va sanksiyalar
+Agar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishga
+qarshi kurashish to‘g‘risidagi qonun hujjatlari talablarining hamda to‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun hujjatlari talablarining to‘lov tizimi operatori va
+(yoki) to‘lov tashkiloti tomonidan yo‘l qo‘yilgan buzilishlari to‘lov tizimining uzluksiz ishlashiga bevosita ta’sir ko‘rsatmasa, Markaziy bank:
+to‘lov tizimi operatorining va (yoki) to‘lov tashkilotining boshqaruv organlarini aniqlangan qoidabuzarlik to‘g‘risida yo‘l qo‘yilgan qoidabuzarlikni va u
+bartaraf etilishi kerak bo‘lgan muddatni ko‘rsatgan holda yozma shaklda xabardor qiladi, bunda mazkur muddat o‘n ish kunidan kam bo‘lmasligi kerak;
+to‘lov tizimi operatorining va (yoki) to‘lov tashkilotining boshqaruv organlariga aniqlangan qoidabuzarlikni bartaraf etish bo‘yicha tavsiyalar yuboradi.
+Agar to‘lov tizimi operatori va (yoki) to‘lov tashkiloti tomonidan yo‘l qo‘yilgan yuqorida ko‘rsatilgan qonun hujjatlarining buzilishlari to‘lov tizimining
+uzluksiz ishlashiga salbiy ta’sir ko‘rsatsa, Markaziy bank to‘lov tizimi operatorining va (yoki) to‘lov tashkilotining boshqaruv organlariga qoidabuzarlikning bartaraf
+etilishi to‘g‘risida uni bartaraf etish muddatini ko‘rsatgan holda ko‘rsatma yuboradi, bu muddat o‘n ish kunidan kam bo‘lmasligi kerak.
+To‘lov tizimi operatori va (yoki) to‘lov tashkiloti Markaziy bankning qoidabuzarlikni bartaraf etish to‘g‘risidagi ko‘rsatmasini bajarmagan taqdirda Markaziy
+bank qonun hujjatlariga muvofiq quyidagi sanksiyalardan birini qo‘llaydi:
+bazaviy hisob-kitob miqdorining besh ming baravarigacha bo‘lgan miqdorda jarima soladi;
+to‘lov xizmatlarining va (yoki) operatsiyalarning ayrim turlarini amalga oshirishni olti oygacha bo‘lgan muddatga cheklaydi;
+litsenziyaning amal qilishini o‘n ish kunigacha bo‘lgan muddatga to‘xtatib turadi.
+31-modda. To‘lov tizimlarining ishlashi ustidan kuzatuv
+To‘lov tizimlarining ishlashi ustidan kuzatuv amalga oshirilayotganda Markaziy bank to‘lov tizimlari to‘g‘risidagi axborotni umumlashtiradi, tizimlashtiradi va
+tahlil qiladi.
+Muhim to‘lov tizimlarining ishlashi ustidan kuzatuv amalga oshirilayotganda Markaziy bank:
+muhim to‘lov tizimlarini ularning xalqaro standartlarga va Markaziy bank talablariga muvofiqligi yuzasidan baholashni o‘tkazadi;
+muhim to‘lov tizimlari operatorlarining va to‘lov tashkilotlarining faoliyatini takomillashtirish bo‘yicha tavsiyalar ishlab chiqadi.
+Markaziy bank to‘lov tizimlarining ishlashi ustidan kuzatuv natijalarining sharhini bir yilda kamida bir marta e’lon qiladi.
+6-bob. To‘lovlar
+32-modda. O‘zbekiston Respublikasi hududida to‘lovlarni amalga oshirish
+O‘zbekiston Respublikasi hududida to‘lovlar quyidagilar orqali amalga oshiriladi:
+naqd pul mablag‘larini o‘tkazish;
+elektron pullarni o‘tkazish;
+pul mablag‘larini to‘lov vositalaridan foydalangan holda o‘tkazish;
+pul majburiyatini yoki pul mablag‘larini to‘lash to‘g‘risidagi farmoyishni o‘z ichiga olgan to‘lov hujjatini berish;
+elektron to‘lov vositalaridan foydalanish.
+To‘lovni boshlash quyidagi yo‘llar bilan amalga oshiriladi:
+to‘lovchi tomonidan to‘lov hujjatini taqdim etish;
+saqlovchi tomonidan elektron to‘lov vositasidan foydalanish;
+to‘lovchi tomonidan naqd pul mablag‘larini bank kassalari, elektron terminallar va boshqa qurilmalar orqali o‘tkazish uchun kiritish;
+to‘lovchining to‘lovni masofaviy xizmat ko‘rsatish tizimlaridan foydalangan holda amalga oshirishga bo‘lgan roziligini yuborish.
+33-modda. To‘lov hujjatlari
+To‘lov hujjati qog‘ozda tuzilgan yoki elektron shaklda shakllantirilgan hujjat bo‘lib, to‘lov uning asosida yoki yordamida amalga oshiriladi.
+O‘zbekiston Respublikasi hududida to‘lovlarni amalga oshirishda quyidagi to‘lov hujjatlaridan foydalaniladi:
+to‘lov topshiriqnomasi;
+to‘lov talabnomasi;
+inkasso topshiriqnomasi;
+memorial order;
+akkreditivga ariza;
+kirim va chiqim kassa to‘lov hujjatlari.
+To‘lov hujjatlarining shakllari, majburiy rekvizitlari va ularning mazmuniga doir boshqa talablar, elektron to‘lov vositalaridan foydalanishning o‘ziga xos
+xususiyatlari Markaziy bank tomonidan belgilanadi.
+34-modda. Elektron to‘lov vositalari
+Axborotni o‘z ichiga olgan va to‘lovchiga to‘lovni amalga oshirish, shuningdek to‘lovchi bilan elektron to‘lov vositalarining emitenti o‘rtasida tuzilgan
+shartnomada nazarda tutilgan boshqa operatsiyalarni amalga oshirish imkonini beradigan bank kartasi yoki boshqa elektron jism elektron to‘lov vositalaridir.
+Elektron to‘lov vositasini chiqarishni amalga oshiruvchi yuridik shaxs elektron to‘lov vositasining emitentidir.
+Elektron to‘lov vositasining emitenti bilan tuzilgan shartnoma shartlariga muvofiq elektron to‘lov vositasidan foydalanuvchi yoki unga egalik qiluvchi
+jismoniy shaxs elektron to‘lov vositasini saqlovchidir.
+Elektron to‘lov vositalaridan foydalanilgan holdagi to‘lovlar elektron to‘lov vositalarini saqlovchining identifikatsiya vositalari orqali tasdiqlangan roziligi
+asosida amalga oshiriladi.
+To‘lovni amalga oshirishda elektron to‘lov vositalarini saqlovchining roziligini taqdim etish hamda tasdiqlash tartibi va usuli elektron to‘lov vositasining
+emitenti va elektron to‘lov vositasini saqlovchi o‘rtasida tuziladigan shartnomada belgilanadi.
+7-bob. Bank kartasi
+35-modda. Bank kartasini chiqarish
+Bank kartasi uni saqlovchiga elektron terminallar, aloqa kanallari orqali to‘lovlarni amalga oshirish yoki naqd pul mablag‘larini olish yoxud valyuta
+ayirboshlashni amalga oshirish va bank kartasining emitenti tomonidan belgilangan boshqa operatsiyalarni bajarish imkonini beruvchi axborotni o‘z ichiga oladi. Bank
+kartasi debet, kredit kartasi, shu jumladan virtual (jismonan mavjud bo‘lmagan) karta bo‘lishi mumkin.
+Bank kartalarini chiqarish va ulardan foydalanish bank kartasining emitenti hamda bank kartasini saqlovchi o‘rtasida tuzilgan shartnoma asosida amalga
+oshiriladi.
+Bank kartasining emitenti boshqa tashkilotlar bilan birgalikda bank kartalarini to‘lov xizmatlaridan va boshqa xizmat turlaridan foydalanuvchilarga ularning
+o‘rtasida tuzilgan shartnomalarda nazarda tutilgan tartibda hamda shartlarda berish uchun chiqarishga haqli.
+Bank kartasining emitenti bank kartasini saqlovchi bilan shartnoma tuzilguniga qadar bank kartasini saqlovchini bank kartasidan foydalanish chog‘idagi
+xavfsizlik shartlari va choralari, e’tirozlarni berish usullari va ularni ko‘rib chiqish tartibi to‘g‘risida xabardor qilishi shart.
+Bank kartasining emitenti o‘z rasmiy veb-saytida bank kartalarining turlari va ularni berish shartlari, bank kartalaridan foydalanish chog‘idagi xavfsizlik
+choralari to‘g‘risidagi axborotni joylashtiradi.
+Bank kartasining emitenti bank kartasini saqlovchiga bank kartasiga xizmat ko‘rsatish bo‘yicha undiriladigan vositachilik haqining miqdori va uni undirish
+tartibi to‘g‘risida, vositachilik haqi to‘lanmagan taqdirda qarzni hisoblash to‘g‘risida xabardor qiladi, shuningdek bank kartasini saqlovchiga uning bank kartasiga ular
+o‘rtasida tuzilgan shartnomada nazarda tutilgan tartibda xizmat ko‘rsatganlik uchun bank kartasini saqlovchi tomonidan vositachilik haqi to‘langanligi faktining
+tasdiqnomasi taqdim etilishini ta’minlaydi.
+36-modda. Bank kartasidan foydalanilgan holdagi to‘lovlar
+Tovarlar va xizmatlarni chakana realizatsiya qilishni amalga oshiruvchi yakka tartibdagi tadbirkorlar va yuridik shaxslar to‘lovlarning bank kartalaridan
+foydalangan holda qabul qilinishini ta’minlashi shart.
+To‘lov ishtirokchisining bank kartalaridan foydalanish bilan bog‘liq huquq va majburiyatlari bank kartasidan foydalangan holda amalga oshiriladigan to‘lov
+yakka tartibdagi tadbirkor yoki yuridik shaxs tomonidan qabul qilingan paytdan e’tiboran yuzaga keladi.
+To‘lovlar bank kartasidan foydalangan holda amalga oshirilganda yakka tartibdagi tadbirkorda yoki yuridik shaxsda u bilan bank kartalariga xizmat ko‘rsatish
+to‘g‘risida shartnoma tuzgan bankka nisbatan yakka tartibdagi tadbirkor yoki yuridik shaxs tomonidan qabul qilingan to‘lov summasida pul talab qilish huquqi, bankda
+esa yakka tartibdagi tadbirkorning yoki yuridik shaxsning pulga doir talabini bajarish majburiyati yuzaga keladi.
+Bank kartasining emitenti bank kartasidan foydalanib amalga oshirilgan operatsiyalar haqida bank kartasini saqlovchini ular o‘rtasida tuzilgan shartnomada
+nazarda tutilgan hollarda va tartibda xabardor qiladi. Bunday xabarnomani yuborish tartibi va uning davriyligi, shuningdek bank kartasini saqlovchini bank kartalaridan
+foydalanilgan holdagi operatsiyalar to‘g‘risida xabardor qilganligi uchun bank kartasining emitenti tomonidan vositachilik haqini undirish miqdori va tartibi bank
+kartasi emitenti va bank kartasini saqlovchi o‘rtasidagi shartnomada belgilanadi.
+Bank kartasining emitenti bank kartasini saqlovchining talabiga binoan uning bank kartasidan foydalanish bilan bog‘liq tegishli hujjatlarni va axborotni
+shartnomada belgilangan tartibda taqdim etishi shart.
+Bank kartasining emitenti bank kartasini saqlovchiga yuborilgan va undan olingan xabarnomalarning ushbu xabarnomalar yuborilgan va olingan kundan
+e’tiboran uch yildan kam bo‘lmagan muddat mobaynida saqlanishini ta’minlaydi.
+Bank kartasining emitenti bank kartasini saqlovchining arizasini ariza kelib tushgan kundan e’tiboran o‘n besh kun mobaynida ko‘rib chiqadi. Arizani ko‘rib
+chiqish uchun tekshirish o‘tkazish, qo‘shimcha materiallarni so‘rab olish yoki boshqa choralar ko‘rish zarur bo‘lgan hollarda arizani ko‘rib chiqish muddati ko‘pi bilan
+o‘ttiz kunga uzaytirilishi mumkin, bu haqda bank kartasini saqlovchiga xabar beriladi. Bank kartasidan O‘zbekiston Respublikasidan tashqarida foydalanilgan taqdirda
+bank kartasini saqlovchining arizasi ariza kelib tushgan kundan e’tiboran qirq besh kundan ko‘p bo‘lmagan muddatda ko‘rib chiqiladi. Bank kartasini saqlovchiga
+arizani ko‘rib chiqish natijalari to‘g‘risida yozma yoki elektron shaklda axborot yuboriladi.
+Bank kartasidan foydalanish bank kartasini saqlovchidan olingan xabarnomaga asosan bank kartasining emitenti tomonidan yoki bank kartasini saqlovchi bank
+kartasidan shartnomaga muvofiq foydalanish tartibini buzgan taqdirda bank kartasi emitentining tashabbusiga ko‘ra to‘xtatib turiladi yoki tugatiladi.
+Bank kartasini saqlovchining bank kartasidan foydalanishini to‘xtatib turish yoki tugatish bank kartasini saqlovchining va bank kartasi emitentining ushbu
+kartadan foydalanishni to‘xtatib turish yoki tugatish paytiga qadar yuzaga kelgan majburiyatlarini tugatmaydi.
+37-modda. Bank kartasidan ruxsatsiz foydalanish
+Bank kartasining emitenti bank kartasini saqlovchini bank kartasi yo‘qolganligi va (yoki) bank kartasidan ruxsatsiz foydalanilganligi to‘g‘risidagi xabarnomani
+tunu kun yuborish imkoniyati bilan ta’minlashi shart.
+Bank kartasining yo‘qolganligi yoki undan ruxsatsiz foydalanilganligi fakti aniqlanganda bank kartasini saqlovchi bank kartasining emitentini bu haqda
+xabardor qiladi. Bank kartasining emitenti bank kartasi yo‘qolganligi yoki bank kartasidan ruxsatsiz foydalanilganligi to‘g‘risida xabardor qilinmagan taqdirda barcha
+tavakkalchiliklar bank kartasini saqlovchining zimmasida bo‘ladi.
+Bank kartasining emitenti bank kartasi yo‘qolganligi yoki bank kartasidan ruxsatsiz foydalanilganligi to‘g‘risida xabarnoma olinganidan keyin bank kartasini
+darhol blokirovka qiladi. Bank kartasining emitenti bank kartasi yo‘qolganligi va (yoki) bank kartasidan ruxsatsiz foydalanilganligi to‘g‘risida xabarnoma olinganidan
+keyin bank kartasidan ruxsatsiz foydalanganlik uchun javobgar bo‘ladi.
+Bank kartasidan ruxsatsiz foydalanilgan taqdirda bank kartasini saqlovchi bank kartasining emitentiga bank kartasidan ruxsatsiz foydalanilganligi natijasida
+yo‘qotilgan pul mablag‘lari summalarining o‘rnini qoplash to‘g‘risida ariza bilan murojaat qilishga haqli. Bank kartasini saqlovchining arizasi ushbu Qonun 36moddasining yettinchi qismida nazarda tutilgan muddatlarda bank kartasining emitenti tomonidan ko‘rib chiqiladi.
+Bank kartasini saqlovchining arizasini ko‘rib chiqish yakunlari bo‘yicha bank kartasining emitenti bank kartasidan ruxsatsiz foydalanilganligi natijasida
+yo‘qotilgan pul mablag‘lari summalarining o‘rnini qoplash haqida yoki qoplashni rad etish to‘g‘risida qaror qabul qiladi.
+Bank kartasidan ruxsatsiz foydalanilganligi natijasida yo‘qotilgan pul mablag‘lari summalarining o‘rnini qoplash to‘g‘risida qaror qabul qilingan taqdirda bank
+kartasining emitenti pul mablag‘larini bank kartasini saqlovchiga qaror qabul qilinganidan keyin bir kundan kechiktirmay o‘tkazadi.
+Bank kartasidan ruxsatsiz foydalanilganligi natijasida yo‘qotilgan pul mablag‘lari summalarining o‘rnini qoplashni rad etish to‘g‘risida qaror qabul qilingan
+taqdirda bank kartasining emitenti bank kartasini saqlovchini qabul qilingan qaror haqida rad etish sabablarini ko‘rsatgan holda xabardor qiladi. Bank kartasini
+saqlovchiga bank kartasidan ruxsatsiz foydalanilganligi natijasida yo‘qotilgan pul mablag‘lari summasining o‘rnini qoplashni rad etish uchun quyidagilar asos bo‘ladi:
+bank kartasini saqlovchi tomonidan bank kartasidan foydalanishning shartnomada nazarda tutilgan xavfsizlik choralariga rioya etilmaganligi;
+bank kartasini saqlovchining o‘z bank kartasidan foydalangan holda jinoyatlar sodir etishda ishtirok etganligi fakti aniqlanganligi.
+38-modda. Bank kartalaridan foydalanilgan holda banklararo to‘lovlar bo‘yicha operatsiyalarni amalga oshirishning o‘ziga xos xususiyatlari
+O‘zbekiston Respublikasi banklari o‘rtasida O‘zbekiston Respublikasi hududida ular tomonidan chiqarilgan bank kartalaridan foydalanilgan holda amalga
+oshirilgan operatsiyalar bo‘yicha to‘lovlarga ishlov berish hamda ularning kliringi Markaziy bank tomonidan belgilangan tartibda amalga oshiriladi.
+Markaziy bank O‘zbekiston Respublikasi hududida O‘zbekiston Respublikasining rezidenti bo‘lgan banklar tomonidan muomalaga chiqarilgan bank
+kartalaridan foydalangan holda amalga oshirilgan banklararo to‘lovlar bo‘yicha operatsiyalarga xizmat ko‘rsatish tizimini ushbu tizimning ishlashini ta’minlash
+bo‘yicha operatsiyalarga oid va texnologik vazifalarni muhim to‘lov tizimining operatori zimmasiga yuklatish yoki maxsus tashkilotni tuzish orqali tashkil etishga
+haqli.
+Maxsus tashkilotning faoliyat ko‘rsatish tartibi va bank kartalarining emitenti bo‘lgan banklar bilan hamkorligi Markaziy bank tomonidan belgilanadi.
+8-bob. Elektron pullar
+39-modda. Elektron pullar tizimi
+Elektron pullar tizimi operatorining elektron pullar emitenti va (yoki) elektron pullar egalari bilan hamkorligi orqali elektron pullardan foydalangan holda
+to‘lovlar va boshqa operatsiyalar amalga oshirilishini ta’minlovchi to‘lov tizimi elektron pullar tizimidir.
+40-modda. Elektron pullarning emitentlari va egalari
+Markaziy bank va banklar elektron pullarning emitentidir.
+O‘zbekiston Respublikasi hududida elektron pullar emitenti tomonidan chiqariladigan elektron pullar faqat milliy valyutada nominallashtirilgan bo‘lishi kerak.
+Elektron pullar emitenti tomonidan jismoniy shaxsga elektron pullarni ularning nominal qiymatiga teng bo‘lgan pul mablag‘lari summasiga almashtirish yo‘li
+bilan to‘g‘ridan to‘g‘ri va (yoki) elektron pullar tizimining operatori yoxud elektron pullar tizimining agenti orqali berilishini nazarda tutuvchi to‘lov xizmati elektron
+pullarni chiqarishdir.
+Quyidagilar elektron pullarning egalari bo‘lishi mumkin:
+boshqa jismoniy shaxslardan, elektron pullarning emitentidan, elektron pullar tizimining operatoridan yoki elektron pullar tizimining agentidan elektron
+pullarni olgan jismoniy shaxslar;
+elektron pullar tizimining agentlari — elektron pullar emitenti yoki elektron pullar tizimining operatori bilan tuzilgan shartnoma asosida elektron pullarni olish
+va jismoniy shaxslarga realizatsiya qilish operatsiyalarini amalga oshiruvchi banklar yoki to‘lov agentlari;
+jismoniy shaxslardan elektron pullarni bitimlar bo‘yicha to‘lov sifatida olgan yakka tartibdagi tadbirkorlar va yuridik shaxslar.
+Elektron pullar egasining huquqlari elektron pullarni olgan paytdan e’tiboran yuzaga keladi.
+41-modda. Elektron pullar tizimining operatori
+Tegishli litsenziyaga ega bo‘lgan va elektron pullar tizimining ishlashini ta’minlaydigan bank yoki boshqa yuridik shaxs elektron pullar tizimining operatoridir.
+Elektron pullar tizimining operatori elektron pullar emitenti bilan tuzilgan shartnomaga muvofiq elektron pullar tizimining faoliyat ko‘rsatish qoidalarini belgilaydi.
+Elektron pullar emitenti va elektron pullar tizimining operatori o‘rtasidagi munosabatlar, agar operator elektron pullarning emitenti bo‘lmasa, ushbu Qonun va
+ular o‘rtasida tuzilgan shartnoma bilan tartibga solinadi.
+Elektron pullar tizimining operatori elektron pullar emitenti bilan tuzilgan shartnoma shartlariga muvofiq va elektron pullar emitenti tomonidan o‘ziga berilgan
+vakolatlar asosida uning nomidan elektron pullar tizimida ishtirok etuvchi jismoniy shaxslar, elektron pullar tizimining agentlari, yakka tartibdagi tadbirkorlar va
+yuridik shaxslar bilan shartnomalar tuzishga haqlidir. Bunday holda elektron pullarning egasi tomonidan elektron pullar tizimining operatori bilan tuzilgan shartnomalar
+elektron pullar emitenti tomonidan chiqarilgan elektron pullardan bir tizim doirasida foydalanilganda elektron pullarning emitenti bilan tuzilgan shartnomalarga
+tenglashtiriladi.
+Elektron pullar tizimining operatori elektron pullar tizimining ishlashini to‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun hujjatlarida hamda jinoiy faoliyatdan
+olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishga qarshi kurashish to‘g‘risidagi qonun
+hujjatlarida belgilangan talablar va cheklovlarni hisobga olgan holda ta’minlashi shart.
+Elektron pullar emitenti va elektron pullar tizimining operatori elektron pullarni chiqarish, ulardan foydalanish va ularni qoplash to‘g‘risidagi shartnoma
+shartlariga muvofiq elektron pullarga ruxsatsiz ega bo‘lish va (yoki) ulardan ruxsatsiz foydalanganlik, shuningdek elektron pullar emitentining dasturiy ta’minoti
+ishidagi yoxud elektron pullar tizimining faoliyat ko‘rsatishidagi xatolar yoki uzilishlar oqibatida elektron pullar egasiga yetkazilgan zarar uchun elektron pullarning
+egasi oldida javobgar bo‘ladi.
+42-modda. Elektron pullarni chiqarish va realizatsiya qilish
+Elektron pullarning emitenti elektron pullarni chiqarishni jismoniy shaxslardan yoki elektron pullar tizimining agentlaridan o‘z zimmasiga oladigan
+majburiyatlarning nominal qiymatiga teng bo‘lgan summadagi pul mablag‘larini olganidan keyin amalga oshiradi.
+Elektron pullar emitenti o‘zi chiqargan elektron pullarni ularning nominal qiymatiga muvofiq milliy valyutada qoplash bo‘yicha so‘zsiz va chaqirib
+olinmaydigan pul majburiyatlarini o‘z zimmasiga oladi.
+Elektron pullarning emitenti Markaziy bankni elektron pullarni chiqarish bo‘yicha faoliyatni amalga oshirish boshlanganligi to‘g‘risida xabardor qiladi.
+Elektron pullarning emitenti tomonidan elektron pullar egasidan elektron pullarni chiqarganlik uchun, shuningdek elektron pullar emitenti tomonidan
+ko‘rsatiladigan qo‘shimcha xizmatlar uchun vositachilik haqi undirish elektron pullarni chiqarish, ulardan foydalanish va ularni qoplash to‘g‘risida tuzilgan shartnoma
+shartlariga muvofiq amalga oshiriladi.
+Elektron pullar emitenti va bu pullarning egasi bo‘lgan jismoniy shaxs o‘rtasidagi munosabatlar ushbu Qonun va ular o‘rtasida tuzilgan elektron pullarni
+chiqarish, ulardan foydalanish va ularni qoplash to‘g‘risidagi shartnoma bilan tartibga solinadi.
+Elektron pullarni chiqarish, ulardan foydalanish va ularni qoplash to‘g‘risidagi shartnoma tuzilguniga qadar elektron pullar emitenti yoki elektron pullar
+emitenti nomidan ish yurituvchi elektron pullar tizimining operatori elektron pullar tizimida ishtirok etmoqchi bo‘lgan jismoniy shaxsga:
+elektron pullar emitentining va elektron pullar tizimi operatorining nomi hamda joylashgan yeri (pochta manzili), shuningdek elektron pullar tizimining
+operatori bank hisoblanmagan hollarda esa uning litsenziyasi raqami to‘g‘risida;
+
+elektron pullardan foydalanish shartlari haqida;
+elektron pullarni chiqarish, ulardan foydalanish va ularni qoplashda elektron pullar emitenti va (yoki) elektron pullar tizimining operatori tomonidan elektron
+pullar egasidan vositachilik haqini undirish tartibi va miqdori to‘g‘risida;
+e’tirozlarni berish usullari va ularni ko‘rib chiqish tartibi to‘g‘risida, shu jumladan elektron pullar emitenti yoki elektron pullar tizimining operatori bilan
+bog‘lanish uchun axborot taqdim etishi shart.
+Elektron pullarni chiqarish, ulardan foydalanish va ularni qoplash to‘g‘risidagi shartnomada quyidagilar bo‘lishi kerak:
+elektron pullarni chiqarish (sotib olish) shartlari;
+operatsiyalarni elektron pullardan foydalangan holda amalga oshirish shartlari, shu jumladan elektron pullardan foydalanish uchun belgilanadigan cheklovlar;
+elektron pullar egasining elektron pullarga va ulardan foydalangan holda operatsiyalarni amalga oshirishga bo‘lgan huquqlarini tasdiqlash tartibi;
+elektron pullarni qoplashga taqdim etish tartibi va usullari, ularni qoplash tartibi;
+elektron pullardan foydalanishda elektron pullar emitenti va ularning egasi o‘rtasida axborot almashish tartibi, shu jumladan elektron pullardan foydalanish
+nazorati yo‘qolganligi yoki bu pullardan ruxsatsiz foydalanilganligi to‘g‘risida elektron pullar emitentiga xabar berish tartibi va muddatlari;
+taraflarning o‘z majburiyatlarini bajarmaganligi yoki lozim darajada bajarmaganligi uchun javobgarligi.
+Elektron pullarni jismoniy shaxslarga realizatsiya qilish yoki elektron pullarni jismoniy shaxslardan sotib olish elektron pullar emitenti yoki elektron pullar
+tizimining operatori bilan tuzilgan shartnoma asosida elektron pullar tizimining agenti tomonidan amalga oshiriladi, ushbu shartnomada taraflarning huquq va
+majburiyatlari, elektron pullarni realizatsiya qilish hamda sotib olish tartibi va shartlari belgilanadi.
+LexUZ sharhi
+Qarang: O‘zbekiston Respublikasi hududida elektron pullarning chiqarilishi va muomalada bo‘lishi qoidalari (29.04.2020-y., ro‘yxat raqami 3231).
+
+43-modda. Elektron pullardan foydalanish
+Elektron pullarning egasi bo‘lgan jismoniy shaxs elektron pullardan to‘lovlarni va elektron pullar tizimining qoidalarida belgilangan hamda O‘zbekiston
+Respublikasi qonun hujjatlariga zid bo‘lmagan shartlar asosida egasidan elektron pullarni elektron pullar tizimining boshqa ishtirokchisiga o‘tkazish orqali boshqa
+operatsiyalarni amalga oshirish maqsadida foydalanadi.
+O‘zbekiston Respublikasi hududida realizatsiya qilingan tovarlar, ishlar va xizmatlar uchun to‘lovlarni to‘lashda faqat O‘zbekiston Respublikasi hududida
+chiqarilgan elektron pullar qabul qilinishi mumkin.
+Yakka tartibdagi tadbirkor va (yoki) yuridik shaxs tomonidan elektron pullarni bitimlarni amalga oshirishda to‘lov sifatida qabul qilish elektron pullar emitenti
+yoxud elektron pullar tizimining ishtirokchisi bo‘lgan boshqa bank bilan tuzilgan shartnoma asosida amalga oshiriladi.
+Bitimlarni tuzishda elektron pullar tizimidan elektron pullarni olgan yakka tartibdagi tadbirkor va (yoki) yuridik shaxsda elektron pullar emitentiga nisbatan
+qabul qilingan to‘lov summasidagi pulni talab qilish huquqi yuzaga keladi.
+Elektron pullar emitenti va elektron pullar tizimining operatori elektron pullar tizimida firibgarlikni hamda jinoiy faoliyatdan olingan daromadlarni
+legallashtirishni, terrorizmni moliyalashtirishni va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishni aniqlash, shuningdek ularning oldini olish maqsadida “Jinoiy
+faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishga qarshi kurashish
+to‘g‘risida”gi O‘zbekiston Respublikasi Qonuni talablariga muvofiq tashkiliy hamda tartib-taomilga oid chora-tadbirlarni ta’minlash va joriy etish choralarini ko‘radi.
+Elektron pullar tizimining operatori “Jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini
+tarqatishni moliyalashtirishga qarshi kurashish to‘g‘risida”gi O‘zbekiston Respublikasi Qonuni talablarining ta’sir doirasiga kiruvchi operatsiyalar haqidagi
+ma’lumotlarni jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishga
+qarshi kurashish bo‘yicha vakolatli organga taqdim etadi.
+Elektron pullar emitenti jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni
+moliyalashtirishga qarshi kurashish bo‘yicha vakolatli organga bank hisoblanmagan elektron pullar tizimining operatorlari to‘g‘risidagi ma’lumotlarni ular bilan
+tegishli shartnoma tuzilganidan keyin taqdim etadi.
+Identifikatsiya qilingan elektron pullarning egasi bo‘lgan jismoniy shaxs tomonidan amalga oshiriladigan bitta operatsiyaning eng ko‘p summasi bazaviy
+hisoblash miqdorining yuz baravariga teng bo‘lgan summadan oshmasligi kerak.
+Identifikatsiya qilinmagan elektron pullarning egasi bo‘lgan jismoniy shaxs tomonidan amalga oshiriladigan bitta operatsiyaning eng ko‘p summasi bazaviy
+hisoblash miqdoriga teng bo‘lgan summadan oshmasligi kerak. Mazkur summa oshirilganda elektron pullar egasini identifikatsiya qilishni amalga oshirish zarur.
+Elektron pullar egasini identifikatsiya qilish elektron pullar emitenti va (yoki) elektron pullar tizimining operatori tomonidan elektron pullar egasining shaxsan
+hozirligida va o‘z shaxsini tasdiqlovchi hujjatni taqdim etganda yoxud qonun hujjatlari talablariga zid bo‘lmagan boshqa usulda, shu jumladan masofaviy
+identifikatsiya qilish tizimlaridan foydalangan holda amalga oshiriladi.
+Identifikatsiya qilinmagan elektron pullarning egasi bo‘lgan jismoniy shaxsning bitta elektron qurilmasida saqlanadigan elektron pullarning eng ko‘p summasi
+bazaviy hisoblash miqdorining besh baravariga teng bo‘lgan summadan oshmasligi kerak.
+44-modda. Elektron pullarni qoplash
+Elektron pullar emitenti tomonidan o‘zi chiqargan, elektron pullar egasi taqdim etgan elektron pullarni ularning nominal qiymati bo‘yicha teng pul mablag‘lari
+summasiga almashtirish amalga oshirilishini nazarda tutuvchi to‘lov xizmati elektron pullarni qoplashdir.
+Agar elektron pullar emitenti va elektron pullarning egasi bo‘lgan jismoniy shaxs o‘rtasida tuzilgan shartnomada elektron pullar emitentiga yoki elektron
+pullar tizimi operatoriga vositachilik haqi nazarda tutilmagan bo‘lsa, elektron pullarni qoplash elektron pullar emitenti tomonidan elektron pullarning egasi bo‘lgan
+jismoniy shaxsning bank hisobvarag‘iga ularning nominal qiymati bo‘yicha teng bo‘lgan pul mablag‘lari summasini o‘tkazish yoxud unga naqd pul mablag‘larini
+berish orqali amalga oshiriladi.
+Agar elektron pullar emitenti va yakka tartibdagi tadbirkor yoki yuridik shaxs o‘rtasida tuzilgan shartnomada boshqa muddat nazarda tutilmagan bo‘lsa,
+elektron pullar emitenti yakka tartibdagi tadbirkor yoki yuridik shaxs tomonidan jismoniy shaxslardan bitim bo‘yicha to‘lov chog‘ida olingan elektron pullarni
+qoplashni elektron pullar kelib tushgan kun davomida amalga oshiradi.
+Yakka tartibdagi tadbirkor yoki yuridik shaxs tomonidan olingan elektron pullar to‘lovchi bo‘lgan jismoniy shaxsga pullarni o‘tkazishlar chog‘ida qaytarish
+uchun ushbu Qonunda nazarda tutilgan asoslarga ko‘ra yoki bitim bekor qilingan taqdirda qoplanmaydi.
+Agar elektron pullar emitenti yoki elektron pullar tizimining operatori va elektron pullar egasi o‘rtasida tuzilgan shartnomada elektron pullar emitentiga yoxud
+elektron pullar tizimining operatoriga vositachilik haqi nazarda tutilmagan bo‘lsa, egalari yakka tartibdagi tadbirkorlar yoki yuridik shaxslar bo‘lgan elektron pullarni
+qoplash ularning nominal qiymati bo‘yicha teng pul mablag‘lari summasini yakka tartibdagi tadbirkorning yoki yuridik shaxsning bank hisobvarag‘iga o‘tkazish orqali
+amalga oshiriladi.
+9-bob. Farmoyishni qabul qilish va bajarish
+45-modda. Farmoyishni taqdim etish
+Farmoyish topshiriqnoma yoki talabnoma shaklida (to‘lov topshiriqnomasi, to‘lov talabnomasi, inkasso topshiriqnomasi va akkreditivga ariza) qog‘ozda yoki
+elektron tarzda taqdim etilishi mumkin.
+Farmoyishni qabul qilish, shuningdek inkasso topshiriqnomasini chaqirib olish to‘lovchining banki tomonidan operatsiya kuni davomida amalga oshiriladi.
+Agar farmoyish operatsiya kuni tugaganidan keyin olingan bo‘lsa, bunday farmoyish to‘lovchining banki tomonidan keyingi operatsiya kuni boshlanganda
+olingan deb hisoblanadi.
+Farmoyishni taqdim etish yoki uni chaqirib olish, shuningdek uning bajarilishini to‘xtatib turish:
+tegishli elektron aloqa kanallaridan va telekommunikatsiya tarmoqlaridan foydalangan holda elektron shaklda o‘tkazish orqali;
+elektron aloqa kanallaridan va telekommunikatsiya tarmoqlaridan foydalanish imkoniyati bo‘lmaganda elektron jismda;
+to‘lov hujjatining asl nusxasini, uni chaqirib olish yoki uning bajarilishini to‘xtatib turish to‘g‘risidagi ko‘rsatmani qog‘ozda taqdim etish orqali amalga
+oshiriladi.
+Farmoyishni elektron usulda yoki elektron jismda taqdim etishga yoki chaqirib olishga, shuningdek uning bajarilishini to‘xtatib turishga Markaziy bank
+tomonidan belgilangan talablarga rioya etilgan taqdirdagina yo‘l qo‘yiladi.
+Agar tashabbuskor bankning mijozi bo‘lsa, tashabbuskor tomonidan bankka farmoyishni taqdim etish usullari, tartibi va shartlari ular o‘rtasidagi shartnomada
+aks ettiriladi. Agar tashabbuskor bankning mijozi bo‘lmasa, tashabbuskor tomonidan farmoyishni taqdim etish Markaziy bank tomonidan belgilangan tartibda amalga
+oshiriladi.
+46-modda. Farmoyishni bajarish
+Bank farmoyishni qabul qilayotganda uning shartnoma talablari va shartlariga muvofiqligini tekshirishi hamda uni bajarishi yoki bajarishni rad etishi shart.
+Benefitsiarning banki rad etish sabablarini ko‘rsatgan holda farmoyishni bajarishni rad etadi hamda bu haqda darhol to‘lovchiga xabar qiladi.
+Agar to‘lovchi va to‘lovchining banki o‘rtasidagi shartnomada boshqacha qoida nazarda tutilmagan bo‘lsa, to‘lovchining banki tomonidan farmoyish
+bajarilishi uchun to‘lovchi farmoyishni bajarish uchun zarur bo‘lgan pul mablag‘larining summasini ta’minlashi shart.
+Bank tomonidan farmoyishning bajarilishini rad etish quyidagi asoslarga ko‘ra amalga oshiriladi:
+agar shartnomada to‘lovni amalga oshirish uchun to‘lov xizmatlarini yetkazib beruvchi tomonidan to‘lov xizmatidan foydalanuvchiga kredit ajratishga doir
+xizmat ko‘rsatish nazarda tutilmagan bo‘lsa, to‘lovni amalga oshirish uchun zarur bo‘lgan pul mablag‘lari summasining mavjud bo‘lishini to‘lovchi ta’minlamaganda;
+agar farmoyishda soxtalashtirish, tuzatish, to‘ldirish va o‘chirish belgilari bo‘lsa, shu jumladan farmoyish to‘lovchi va to‘lovchining banki o‘rtasidagi
+shartnomada belgilangan ruxsat etilmagan to‘lovlardan himoya qilish harakatlari tartibi buzilgan holda topshirilgan bo‘lsa;
+tashabbuskor tomonidan farmoyishni tuzish va taqdim etish tartibiga doir shartnoma shartlarida belgilangan talablarga rioya etilmaganda;
+“Jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirg‘in qurolini tarqatishni moliyalashtirishga qarshi
+kurashish to‘g‘risida”gi O‘zbekiston Respublikasi Qonunida yoki O‘zbekiston Respublikasining xalqaro shartnomalarida nazarda tutilgan hollarda;
+bank hisobvarag‘idan pul mablag‘larini undirish to‘g‘risidagi talabnoma qonun hujjatlariga muvofiq undiruv qaratilishi mumkin bo‘lmagan bank
+hisobvarag‘iga taqdim etilgan hollarda;
+ruxsat etilmagan to‘lov aniqlanganda, shuningdek benefitsiar foydasiga o‘tkaziladigan pul mablag‘larini olishning qonunga zid faktlari aniqlangan va
+tasdiqlangan hollarda;
+bank hisobvarag‘iga doir bajarilmagan talablar va (yoki) vakolatli davlat organlarining bank hisobvarag‘i bo‘yicha xarajatlarga doir operatsiyalarni to‘xtatib
+turish va (yoki) bank hisobvarag‘idagi pul mablag‘larini xatlash to‘g‘risidagi qarorlari mavjud bo‘lganda.
+Farmoyishni bajarish:
+agar bank benefitsiarga xizmat ko‘rsatmasa, farmoyishni benefitsiarning bankiga berish;
+agar to‘lovchining banki benefitsiarning banki bo‘lsa, pul mablag‘larini o‘tkazishni yakunlash;
+agar bank to‘lovchiga xizmat ko‘rsatsa, naqd pul mablag‘larini to‘lash to‘g‘risidagi farmoyishni taqdim etgan tashabbuskorga naqd pul mablag‘larini berish
+orqali amalga oshiriladi.
+47-modda. Farmoyishni bajarish muddati
+To‘lovchi tomonidan farmoyish taqdim etilgan operatsiya kunida bank farmoyishning bajarilishini ta’minlaydi.
+Xalqaro to‘lovlar valyutani tartibga solish to‘g‘risidagi qonun hujjatlarida belgilangan talablarga rioya etilgan holda, farmoyish olingan paytdan e’tiboran ikki
+operatsiya kunidan kechiktirmay bajariladi.
+Pul mablag‘larini benefitsiarning bank hisobvarag‘iga yoki pul mablag‘lari benefitsiarning foydasiga qabul qilinishini aks ettiruvchi boshqa hisobvaraqqa
+o‘tkazishga doir farmoyishni bajarish farmoyish olingan kundagi operatsiya kuni davomida benefitsiarning banki tomonidan amalga oshiriladi.
+Ushbu moddaning birinchi — uchinchi qismlarida nazarda tutilgan normalar:
+inkasso topshiriqnomasi, to‘lov talabnomasi yoki akkreditivga ariza orqali taqdim etilgan;
+noaniq muddatlarda bajarilishi lozim bo‘lgan;
+kelgusidagi valyutalashtirish sanasiga ega bo‘lgan;
+chakana savdoda yoki elektron tijoratni amalga oshirishda tovarlar, ishlar va xizmatlarni olish uchun elektron to‘lov vositalaridan foydalanish chog‘ida to‘lov
+xizmatlaridan foydalanuvchining roziligi tarzida ifodalangan farmoyishning bajarilishiga nisbatan tatbiq etilmaydi.
+48-modda. Valyutalashtirish sanasiga ega bo‘lgan farmoyishni bajarish
+To‘lov hujjatida ko‘rsatilgan valyutalashtirish sanasi to‘lov hujjati yozib berilgan sanadan e’tiboran o‘n kundan oshishi mumkin emas.
+Valyutalashtirish sanasiga ega bo‘lgan farmoyishni bajarishda to‘lovchining pul mablag‘lari bank hisobvarag‘ida zaxiraga qo‘yiladi yoki to‘lovchi bankining
+ichki balans hisobvarag‘iga (tranzit hisobvarag‘iga) o‘tkaziladi.
+Zaxiraga qo‘yilgan pul mablag‘larini o‘tkazish yoki to‘lovchi bankining maxsus tranzit hisobvarag‘idan pul mablag‘larini o‘tkazish to‘lov hujjatida
+ko‘rsatilgan valyutalashtirish sanasidan kechiktirmay, benefitsiarning banki tomonidan pul mablag‘larini benefitsiarning bank hisobvarag‘iga o‘tkazish imkonini
+beradigan vaqt hisobga olingan holda, to‘lovchining banki tomonidan amalga oshiriladi.
+Agar valyutalashtirish sanasi dam olish kuniga to‘g‘ri keladigan bo‘lsa, benefitsiarning banki valyutalashtirish sanasi deb belgilangan kundan keyingi birinchi
+ish kunida pul mablag‘larini benefitsiarning bank hisobvarag‘iga o‘tkazadi.
+Pul mablag‘lari to‘lov hujjatida ko‘rsatilgan valyutalashtirish sanasiga muvofiq bo‘lmagan operatsiya kunida benefitsiarning bank hisobvarag‘iga o‘tkazilgan
+taqdirda valyutalashtirish sanasiga ega bo‘lgan farmoyish shartlarini buzgan bank bank hisobvarag‘i shartnomasida belgilangan tartibda javobgar bo‘ladi.
+49-modda. To‘lovchida farmoyishni bajarish uchun zarur bo‘lgan pul mablag‘lari summasi mavjud bo‘lmaganda yoki yetarli bo‘lmaganda
+farmoyishni bajarish
+To‘lovchida farmoyishni bajarish uchun zarur bo‘lgan pul mablag‘lari summasi mavjud bo‘lmaganda yoki yetarli bo‘lmaganda farmoyishni bajarish qonunga
+muvofiq amalga oshiriladi.
+10-bob. To‘lovlarni yakunlash va qaytarish
+50-modda. To‘lovlarni yakunlash
+Agar to‘lov naqd pul mablag‘laridan foydalangan holda amalga oshirilsa, to‘lovni yakunlash benefitsiar yoki benefitsiar vakolatli etib belgilagan shaxs
+tomonidan pul mablag‘lari olingan paytda yuz beradi.
+Agar to‘lov to‘lov hujjati asosida amalga oshirilsa, to‘lovni yakunlash benefitsiarning hisobvarag‘iga pul mablag‘lari kelib tushgan paytda yuz beradi.
+Agar to‘lov pul mablag‘larini o‘tkazish orqali amalga oshirilsa, to‘lovni yakunlash pul mablag‘larini quyidagi yo‘llar bilan o‘tkazish yakunlangan paytda yuz
+beradi:
+pul mablag‘lari kelib tushganda benefitsiarning bank hisobvarag‘i bo‘yicha buxgalteriya yozuvini kiritishni amalga oshirish;
+pulni o‘tkazish benefitsiar hisobvarag‘i ochilmasdan amalga oshirilganda benefitsiarning banki tomonidan benefitsiarga naqd pul mablag‘larini haqiqatda
+berish;
+boshqa hisobvaraq bo‘yicha benefitsiar foydasiga pul mablag‘larini qabul qilishni aks ettiradigan buxgalteriya yozuvini kiritishni amalga oshirish.
+Agar to‘lov elektron pullarni o‘tkazish orqali amalga oshirilsa, to‘lovni yakunlash benefitsiar tomonidan elektron pullar olingan paytda yuz beradi. Qabul
+qilingan elektron pullar summasi to‘g‘risidagi, ushbu pullar benefitsiar bo‘lgan boshqa shaxs foydasiga kelib tushganligi haqida dalolat beruvchi axborotning elektron
+pullar tizimida aks ettirilishi elektron pullar olingan paytdir.
+51-modda. Ruxsat etilgan va ruxsat etilmagan to‘lovlar
+Agar to‘lov ushbu to‘lovni amalga oshirish vakolatiga ega bo‘lgan shaxs tomonidan amalga oshirilgan bo‘lsa va O‘zbekiston Respublikasining qonun
+hujjatlariga zid bo‘lmasa, ruxsat etilgan to‘lov bo‘ladi. To‘lov pul o‘tkazish orqali amalga oshirilgan taqdirda, basharti farmoyish to‘lovchining banki tomonidan ruxsat
+etilmagan to‘lovlardan himoya qilish harakatlarining belgilangan tartibiga rioya etilgan holda qabul qilingan bo‘lsa ham to‘lov ruxsat etilgan deb hisoblanadi.
+Ushbu moddaning birinchi qismida belgilangan talablarga rioya etilmagan holda amalga oshirilgan to‘lov ruxsat etilmagan to‘lov hisoblanadi. Qalbaki to‘lov
+vositalaridan foydalangan holda amalga oshirilgan to‘lov ham ruxsat etilmagan to‘lov hisoblanadi.
+Bank va to‘lovchi elektron to‘lov vositalari yordamida to‘lovlarni amalga oshirish chog‘ida ruxsat etilmagan to‘lovlardan xavfsizlikni ta’minlash tartibtaomillarining bajarilishini ta’minlaydi.
+Ruxsat etilmagan to‘lovlardan xavfsizlikni ta’minlash tartib-taomillari to‘lovlar ishtirokchilari o‘rtasida tuzilgan shartnomalar va (yoki) elektron to‘lov
+hujjatlarini o‘tkazish amalga oshiriladigan to‘lov tizimining ishlash qoidalari bilan belgilanadi.
+52-modda. To‘lovlar bo‘yicha pul mablag‘larini qaytarish
+Pul mablag‘larini o‘tkazish chog‘ida to‘lovlar bo‘yicha pul mablag‘larini qaytarish noto‘g‘ri farmoyishni bajarish va pul mablag‘larini o‘tkazish orqali amalga
+oshiriladigan ruxsat etilmagan to‘lov fakti aniqlangan hollarda amalga oshiriladi.
+Tashabbuskor tomonidan yuborilgan farmoyish, agar unda oldingi jo‘natuvchidan olingan farmoyishning rekvizitlariga mos kelmaydigan rekvizitlar mavjud
+bo‘lsa yoki u takroran berilgan bo‘lsa, noto‘g‘ri farmoyish bo‘ladi.
+Noto‘g‘ri farmoyish yoki ruxsat etilmagan to‘lov bo‘yicha pul mablag‘larini qaytarish benefitsiarning banki tomonidan benefitsiar roziligisiz mazkur pul
+mablag‘lari o‘tkazilgan benefitsiarning bank hisobvarag‘idagi pul mablag‘larini olib qo‘yish orqali amalga oshiriladi.
+Noto‘g‘ri farmoyish yoki ruxsat etilmagan to‘lov bo‘yicha pul mablag‘larini qaytarish benefitsiarning banki tomonidan ushbu fakt aniqlangan kundan e’tiboran
+keyingi operatsiya kunidan kechiktirmay, benefitsiarning bank hisobvarag‘ida mavjud pul mablag‘lari hisobidan amalga oshiriladi, bundan bank hisobvarag‘iga doir
+bajarilmagan talablar va (yoki) vakolatli davlat organlarining bank hisobvarag‘i bo‘yicha xarajatlar operatsiyalarini to‘xtatib turish va (yoki) bank hisobvarag‘idagi pul
+mablag‘larini xatlash to‘g‘risidagi qarorlari mavjud bo‘lgan hollar mustasno.
+Benefitsiarning bank hisobvarag‘ida pul mablag‘lari yetarli bo‘lmagan yoki mavjud bo‘lmagan hollarda, noto‘g‘ri farmoyish yoki ruxsat etilmagan to‘lov
+bo‘yicha pul mablag‘larini qaytarishni ushbu mablag‘larni noto‘g‘ri o‘tkazishga yoxud ruxsat etilmagan to‘lovga yo‘l qo‘ygan shaxs ushbu fakt aniqlangan kundan
+e’tiboran keyingi operatsiya kunidan kechiktirmay o‘z pul mablag‘lari hisobidan amalga oshiradi.
+Pul mablag‘lari qaytarilgan taqdirda, pul mablag‘larini o‘tkazishda ishtirok etadigan har bir jo‘natuvchi bunday pul mablag‘larini o‘tkazish bilan bog‘liq
+bo‘lgan hamda pul mablag‘larini qaytarish natijasida haqiqatda qilingan xarajatlarning o‘rni to‘lov tizimining (shu jumladan vositachi bankning) noto‘g‘ri farmoyishga
+yoki ruxsat etilmagan to‘lovga yo‘l qo‘ygan ishtirokchisining pul mablag‘lari hisobidan qoplanishi huquqiga ega bo‘ladi.
+11-bob. To‘lov tizimida axborotni va xavfsizlikni himoya qilishni ta’minlash
+53-modda. To‘lov tizimida axborotni himoya qilish talablari va tartibi
+To‘lov tizimida axborotni himoya qilish va uni himoya qilish vositalaridan foydalanish tartibi ushbu Qonun hamda to‘lov tizimlarining qoidalari bilan
+belgilanadi.
+To‘lov tizimlarining operatorlari va to‘lov xizmatlarini yetkazib beruvchilar:
+to‘lovlar to‘g‘risidagi axborotni shakllantirish, unga ishlov berish, uni uzatish va saqlashning barcha bosqichlarida ushbu axborotni uzluksiz himoya qilishni;
+axborotning maxfiyligi va yaxlitligini, shu jumladan to‘lov xizmatlaridan foydalanuvchining shaxsiga doir ma’lumotlarni himoya qilish uchun yetarli bo‘lgan
+xavfsizlik rejimini;
+axborot tizimlarida ishlash chog‘ida, shu jumladan ishlab chiqish, sinovdan o‘tkazish muhiti va ish tizimida xodimlarning vakolatlarini chegaralashni;
+axborot tarmoqlarini, shu jumladan Internet tarmog‘ini, shuningdek servyerlar va aloqa kanallarini ehtimol tutilgan hujumlardan himoya qilishni;
+to‘lovlar bo‘yicha maxfiy ma’lumotlardan va o‘ta muhim mantiqiy hamda jismoniy resurslardan (axborot tarmoqlari, axborot tizimlari, ma’lumotlar
+bazalaridan, axborotni himoya qilish modullaridan) foydalanish monitoringini;
+to‘lovlarni va pul mablag‘larini o‘tkazishni amalga oshirish chog‘ida axborotning himoya qilinishini ta’minlashga doir talablarning buzilishi bilan bog‘liq
+bo‘lgan noxush hodisalarni aniqlash uchun mo‘ljallangan axborotni himoya qilishning tashkiliy choralari va texnik vositalari qo‘llanilishini;
+axborotning himoya qilinishini ta’minlashga doir talablarning buzilishi bilan bog‘liq bo‘lgan aniqlangan noxush hodisalarga nisbatan ta’sir choralari
+ko‘rilishini;
+axborotning himoya qilinishini ta’minlashga doir talablarning buzilishi bilan bog‘liq bo‘lgan aniqlangan noxush hodisalar sabablarini tahlil qilishni, bunday
+noxush hodisalarga ta’sir ko‘rsatish natijalarini baholashni ta’minlaydi.
+To‘lov tizimlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar:
+farmoyish aloqa kanallari orqali jo‘natilganda to‘lov xizmatlaridan foydalanuvchini ko‘p omilli autentifikatsiya qilish tartib-taomilini qo‘llashi. Ko‘p omilli
+autentifikatsiya mobil va aloqasiz to‘lovlarni amalga oshirish chog‘ida qo‘llanilmaydi;
+masofaviy xizmat ko‘rsatish tizimlarida himoyalangan aloqa kanalini tashkil etishi;
+hodisalarni qayd etishning tegishli daftarlarini yuritish, saqlash va tahlil qilish imkoniyatiga ega bo‘lishi;
+aloqa seansi doirasida Internet tarmog‘i orqali axborotni kriptografik himoya qilishning litsenziyalangan vositalaridan foydalangan holda shifrlangan shakldagi
+maxfiy ma’lumotlarni almashishni amalga oshirishi shart.
+To‘lov tizimlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar faqat to‘lov xizmatlarini ko‘rsatish uchun zarur shaxsga doir ma’lumotlardan
+foydalanishi, ularga ishlov berishi va ularni saqlashi mumkin, bunda ular to‘lov xizmatlaridan foydalanuvchidan xizmat ko‘rsatish uchun zarur bo‘lgan ma’lumotlardan
+tashqari hech qanday ma’lumotlarni so‘rashga haqli emas.
+54-modda. To‘lov xizmatlaridan foydalanuvchilarga doir talablar
+Elektron to‘lov vositasi o‘ziga taqdim etilgan to‘lov xizmatlaridan foydalanuvchi elektron to‘lov vositasidan uni berish va undan foydalanish shartlariga
+muvofiq foydalanishi, shuningdek to‘lov xizmatlarini yetkazib beruvchini yoki u tomonidan ko‘rsatilgan shaxsni to‘lov vositasi yo‘qolganligi, o‘g‘irlanganligi,
+o‘zlashtirilganligi yoki undan ruxsatsiz foydalanilganligi to‘g‘risida darhol xabardor etishi shart.
+55-modda. Xavfsizlikni ta’minlash bilan bog‘liq tavakkalchiliklar
+To‘lov tizimlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar operatsiyalarga doir tavakkalchiliklarni hamda to‘lov xizmatlarini ko‘rsatish chog‘ida
+xavfsizlikni ta’minlash bilan bog‘liq tavakkalchiliklarni kamaytirish va nazorat qilish choralari tizimini ta’minlashi shart. To‘lov xizmatlarini yetkazib beruvchilar
+noxush hodisalarga ta’sir ko‘rsatishning samarali tartib-taomillarini ishlab chiqishi va saqlab turishi shart.
+To‘lov tizimlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar har yili, kelgusi yilning birinchi aprelidan kechiktirmay Markaziy bankka
+xavfsizlikning ta’minlanish holati to‘g‘risida hisobot taqdim etishi shart.
+56-modda. To‘lov tizimlari operatorlarining, to‘lov xizmatlarini yetkazib beruvchilarning va tashabbuskorning axborotni himoya qilishni ta’minlash
+bo‘yicha javobgarligi
+To‘lov tizimlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar to‘lov tizimlari yordamida ishlov beriladigan axborotni himoya qilish yuzasidan qonun
+hujjatlarida va to‘lov tizimlari qoidalarida belgilangan talablarni bajarishi shart.
+Agar ruxsat etilmagan to‘lovlar tashabbuskorning firibgarlik harakatlari natijasida yoki o‘zining identifikatsiyalash vositalari himoya qilinishini ta’minlash
+uchun choralar ko‘rmaganligi oqibatida sodir etilgan bo‘lsa, tashabbuskor ruxsat etilmagan to‘lovlar tufayli yetkazilgan zararlar uchun javobgar bo‘ladi.
+57-modda. Axborot xavfsizligi sohasida to‘lov tizimlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar ustidan nazorat qilish
+Axborot xavfsizligi sohasida to‘lov tizimlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar ustidan nazorat Markaziy bank tomonidan amalga
+oshiriladi.
+Axborot xavfsizligi rejimi buzilgan taqdirda, to‘lov tizimlari operatorlari va to‘lov xizmatlarini yetkazib beruvchilar qoidabuzarlik aniqlanganidan keyin bu
+haqda hamda uning oqibatlarini kamaytirish uchun ko‘rilayotgan choralar to‘g‘risida Markaziy bankka tezkorlik bilan xabar berishi shart. Markaziy bank to‘lov
+tizimlarining axborot xavfsizligi rejimi buzilganligi to‘g‘risidagi ma’lumotlar bazasini shakllantirishni va yuritishni amalga oshiradi.
+12-bob. Yakunlovchi qoidalar
+58-modda. To‘lovlar bo‘yicha majburiyatlar bajarilishini ta’minlash
+To‘lov xizmatlarini yetkazib beruvchi tomonidan to‘lovlarni amalga oshirish muddatlari buzilgan taqdirda, u muddati o‘tkazib yuborilgan har bir kun uchun
+muddati o‘tgan to‘lov summasining 0,1 foizi miqdorida, biroq muddati o‘tgan to‘lov summasining 10 foizidan ko‘p bo‘lmagan miqdorda penya to‘lashi shart.
+To‘lov xizmatlarini yetkazib beruvchining aybi bilan to‘lov noto‘g‘ri amalga oshirilgan taqdirda, u xato aniqlangan kundan keyingi ish kunidan kechiktirmay
+pul mablag‘larini oluvchining hisobvarag‘iga o‘tkazishi shart. Aks holda, to‘lovchi qonunda belgilangan tartibda to‘lov xizmatlarini yetkazib beruvchidan mablag‘larni
+qaytarishni, shuningdek muddati o‘tkazib yuborilgan har bir kun uchun noto‘g‘ri amalga oshirilgan to‘lov summasining 0,1 foizi miqdorida, biroq noto‘g‘ri amalga
+oshirilgan to‘lov summasining 10 foizidan ko‘p bo‘lmagan miqdorda penya to‘lashni talab qilish huquqiga ega.
+59-modda. Nizolarni hal etish
+To‘lovlar va to‘lov tizimlari sohasidagi nizolar qonun hujjatlarida belgilangan tartibda hal etiladi.
+60-modda. To‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun hujjatlarini buzganlik uchun javobgarlik
+To‘lovlar va to‘lov tizimlari to‘g‘risidagi qonun hujjatlarini buzganlikda aybdor shaxslar belgilangan tartibda javobgar bo‘ladi.
+61-modda. Ushbu Qonunning ijrosini, yetkazilishini, mohiyati va ahamiyati tushuntirilishini ta’minlash
+Markaziy bank ushbu Qonunning ijrosini, ijrochilarga yetkazilishini hamda mohiyati va ahamiyati aholi o‘rtasida tushuntirilishini ta’minlasin.
+62-modda. Qonun hujjatlarini ushbu Qonunga muvofiqlashtirish
+O‘zbekiston Respublikasi Vazirlar Mahkamasi:
+hukumat qarorlarini ushbu Qonunga muvofiqlashtirsin;
+davlat boshqaruvi organlari ushbu Qonunga zid bo‘lgan o‘z normativ-huquqiy hujjatlarini qayta ko‘rib chiqishlari va bekor qilishlarini ta’minlasin.
+To‘lov tizimlari operatorlari va to‘lov tashkilotlari faoliyatini amalga oshiruvchi tashkilotlar ushbu Qonun kuchga kirgandan so‘ng uch oy mobaynida o‘z
+faoliyatini mazkur Qonun talablariga muvofiqlashtirishi shart.
+63-modda. Ushbu Qonunning kuchga kirishi
+Ushbu Qonun rasmiy e’lon qilingan kundan e’tiboran uch oy o‘tgach kuchga kiradi.
+O‘zbekiston Respublikasining Prezidenti Sh. MIRZIYOYEV
+Toshkent sh.,
+2019-yil 1-noyabr,
+O‘RQ-578-son
+
+(Qonun hujjatlari ma’lumotlari milliy bazasi, 02.11.2019-y., 03/19/578/3986-son)
+
+Hujjatda xato topganingizda, uni belgilab Ctrl+Enter ni bosing.
+© O‘zbekiston Respublikasi Adliya vazirligi qoshidagi “Adolat” milliy huquqiy axborot markazi davlat muassasasi
+
+

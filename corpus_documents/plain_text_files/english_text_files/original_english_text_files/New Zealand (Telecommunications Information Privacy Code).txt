@@ -1,0 +1,1889 @@
+This legislation is administered by the Office of the Privacy Commissioner. For more information please see:
+Website: https://privacy.org.nz
+Contact phone: 0800 803 909
+Contact address: PO Box 10094, Wellington 6143
+
+Telecommunications Information Privacy Code 2020
+
+This Code of Practice is made under section 32 of the Privacy Act 2020 by the Privacy
+Commissioner.
+I, JOHN EDWARDS, Privacy Commissioner, having given notice in accordance with section
+33(3) of the Privacy Act 2020 of my intention to issue a code of practice and having satisfied
+the requirements of the subsection, now issue under section 32 of the Act the
+Telecommunications Information Privacy Code 2020.
+Issued by me at Wellington on 28 October 2020.
+THE SEAL of the
+Privacy Commissioner was
+affixed to this code of practice
+by the Privacy Commissioner
+
+)
+)
+)
+)
+
+[L.S.]
+
+John Edwards
+Privacy Commissioner
+
+Contents
+1
+2
+3
+4
+5
+
+Title
+Commencement
+Review
+Interpretation
+Application of code
+
+Page
+2
+2
+2
+2
+4
+1
+
+Telecommunications Information Privacy Code 2020
+
+6
+
+7
+
+Part 2: Telecommunications Information Privacy Rules
+Telecommunications information privacy rules
+Rule 1: Purpose of Collection of Telecommunications Information
+Rule 2: Source of Telecommunications Information
+Rule 3: Collection of Telecommunications Information from individual
+Rule 4: Manner of Collection of Telecommunications Information
+Rule 5: Storage and Security of Telecommunications Information
+Rule 6: Access to Telecommunications Information by Individual Concerned
+Rule 7: Correction of Telecommunications Information
+Rule 8: Accuracy etc of Telecommunications Information to be checked before
+use or disclosure
+Rule 9: Retention of Telecommunications Information
+Rule 10: Limits on use of Telecommunications Information
+Rule 11: Limits on Disclosure of Telecommunications Information
+Rule 12: Disclosure of Telecommunications Information outside New Zealand
+Rule 13: Unique Identifiers
+Revocation
+
+Schedule 1 - Complaints of breach of code
+Schedule 2 - Directories and directory enquiry services
+Schedule 3 - Caller line information presentation
+Schedule 4 - Emergency location information
+
+5
+5
+5
+6
+8
+8
+9
+9
+10
+10
+10
+11
+13
+14
+15
+16
+17
+19
+20
+
+Code of Practice
+1
+
+Title
+This code of practice is the Telecommunications Information Privacy Code 2020.
+
+2
+
+Commencement
+This code comes into force on 1 December 2020.
+
+3
+
+Review
+The Commissioner will review the operation of Schedule 4 from time to time, and no
+later than 1 May 2022.
+
+4
+
+Interpretation
+
+(1)
+
+In this code,—
+Act means the Privacy Act 2020
+call means a telephone call
+call associated data has the same meaning as in section 3(1) of the
+Telecommunications (Interception Capability and Security) Act 2013
+
+2
+
+Telecommunications Information Privacy Code 2020
+
+CLIP means Calling Line Identification Presentation, being technology which
+enables an answerer (or a device receiving a call) to identify the calling number, name
+of the subscriber and time and date of the call, prior to answering the call or in the
+course of receiving a message
+CMS means call management service
+direct marketing means—
+(a)
+
+the offering of goods or services; or
+
+(b)
+
+the advertising of the availability of goods or services; or
+
+(c)
+
+the solicitation of donations or contributions for charitable, cultural,
+philanthropic, recreational, political or other purposes,
+
+by means of—
+(d)
+
+information or goods sent to any person by mail, facsimile transmission,
+electronic mail, or other similar means of communication, where the
+information or goods are addressed to a specific person or specific persons by
+name; or
+
+(e)
+
+calls made to specific persons by name,
+
+but does not include—
+(f)
+
+information sent by a telecommunications agency to a subscriber advising of a
+rate or service change to an existing service; or
+
+(g)
+
+information sent by a telecommunications agency to a subscriber advising of
+alternative services, or charging plans, which may be of interest to the
+subscriber as a result of a rate or service change to an existing service
+
+directory means a list of the names and contact details of subscribers, whether in
+printed or electronic form, available to the public or a section of the public
+directory enquiry agency means an agency which provides a directory enquiry
+service
+directory enquiry service means a service which provides subscriber contact details
+on request
+directory publisher means an agency which prepares or publishes a directory
+internet service provider means a service provider which provides access to the
+internet
+linked traffic information means traffic information which is linked to, or matched
+with, subscriber information by a telecommunications agency
+network has the same meaning as in section 5 of the Telecommunications Act 2001
+network operator has the same meaning as in section 5 of the Telecommunications
+Act 2001
+reverse search facility means a directory which is arranged, or a directory enquiry
+service which is operated, for the purpose of enabling an individual’s name or address
+
+3
+
+Telecommunications Information Privacy Code 2020
+
+to be obtained by a reference to a telephone number alone or an address alone, or a
+combination of telephone number and address
+rule means a telecommunications information privacy rule set out in clause 6
+seamless means the provision of a telecommunications service in such a way that it is
+not evident to the subscriber that a particular service may be or has been delivered by
+different networks, equipment or providers
+subscriber means an individual who has entered into a contract with a
+telecommunications agency for the supply of a telecommunications service
+subscriber information means personal information about a subscriber which is
+obtained by a telecommunications agency when that subscriber subscribes to a
+telecommunications service or during the term of such a contractual relationship
+telecommunication has the same meaning as in section 5 of the Telecommunications
+Act 2001
+telecommunications agency means an agency of a class listed in subclause 5(2)
+telecommunications information means information listed in subclause 5(1)
+telecommunications service has the same meaning as in section 5 of the
+Telecommunications Act 2001
+telecommunications service obligation provider or TSO provider has the same
+meaning as in section 5 of the Telecommunications Act 2001
+traffic information means call associated data and any other dialling or signalling
+information generated as the result of making a telecommunication (whether or not
+the telecommunication is sent or received successfully).
+(2)
+
+A term or expression defined in the Act and used, but not defined, in this code has the
+same meaning as in the Act.
+
+5
+
+Application of code
+
+(1)
+
+This code applies to information about an identifiable individual that is—
+
+(2)
+
+4
+
+(a)
+
+subscriber information; or
+
+(b)
+
+traffic information; or
+
+(c)
+
+the content of a telecommunication; or
+
+(d)
+
+additionally, for the purposes of Schedule 4, location information as defined in
+clause 1 of Schedule 4.
+
+This code applies to the following classes of agency—
+(a)
+
+a network operator; or
+
+(b)
+
+a telecommunications service obligation provider or TSO provider; or
+
+(c)
+
+a directory publisher; or
+
+(d)
+
+a directory enquiry agency; or
+
+(e)
+
+an Internet service provider; or
+
+Telecommunications Information Privacy Code 2020
+
+(f)
+
+a call centre which provides call centre services on contract to another agency;
+or
+
+(g)
+
+a mobile telephone retailer; or
+
+(h)
+
+additionally, for the purposes of Schedule 4—
+(i)
+
+the relevant government agency; or
+
+(ii) an emergency service provider.
+
+Part 2: Telecommunications Information Privacy Rules
+6
+
+Telecommunications information privacy rules
+In accordance with the Act, the following rules modify the application of the
+information privacy principles, prescribe how the principles are to be applied or
+complied with and apply some principles without modification:
+Rule 1
+Purpose of collection of telecommunications information
+
+(1)
+
+(2)
+
+Telecommunications information must not be collected by a telecommunications
+agency unless—
+(a)
+
+the information is collected for a lawful purpose connected with a function or
+activity of the agency; and
+
+(b)
+
+the collection of the information is necessary for that purpose.
+
+If the lawful purpose for which telecommunications information about an individual
+is collected does not require the collection of an individual’s identifying information,
+the telecommunications agency may not require the individual’s identifying
+information.
+Rule 2
+Source of telecommunications information
+
+(1)
+
+If a telecommunications agency collects telecommunications information, the
+information must be collected from the individual concerned.
+
+(2)
+
+It is not necessary for a telecommunications agency to comply with subrule (1) if the
+agency believes, on reasonable grounds,—
+(a)
+
+that non-compliance would not prejudice the interests of the individual
+concerned; or
+
+(b)
+
+that compliance would prejudice the purpose of collection; or
+
+(c)
+
+that the individual concerned authorises collection of the information from
+someone else; or
+
+(d)
+
+that the information is publicly available information; or
+
+(e)
+
+that non-compliance is necessary—
+
+5
+
+Telecommunications Information Privacy Code 2020
+
+(i)
+
+to avoid prejudice to the maintenance of the law by any public sector
+agency including prejudice to the prevention, detection, investigation,
+prosecution and punishment of offences; or
+
+(ii) for the conduct of proceedings before any court or tribunal (being
+proceedings that have been commenced or are reasonably in
+contemplation); or
+(iii) for the purpose of preventing or investigating an action or threat that may
+compromise network or service security or integrity; or
+(iv) to prevent or lessen a serious threat to the life or health of the individual
+concerned or any other individual; or
+(f)
+
+that compliance is not reasonably practicable in the circumstances of the
+particular case; or
+
+(g)
+
+that the information—
+(i)
+
+will not be used in a form in which the individual concerned is identified;
+or
+
+(ii) will be used for statistical or research purposes and will not be published
+in a form that could reasonably be expected to identify the individual
+concerned; or
+(h)
+
+that the information is traffic information; or
+
+(i)
+
+that the collection is an essential element of service provision or the
+interconnection, wholesaling or similar arrangements between network
+operators; or
+
+(j)
+
+that the information is necessary to deal with a service or billing enquiry and the
+collection is from—
+(i)
+
+a member of the subscriber’s household; or
+
+(ii) a representative of a business subscriber; or
+(k)
+
+that the information is subscriber information and the collection is from a
+network operator or Internet service provider or any other agency providing
+telecommunications service to persons outside that agency—
+(i)
+
+by a directory publisher for the purpose of inclusion in a directory in
+accordance with the requirements of Schedule 2; or
+
+(ii) by a directory enquiry agency for the purpose of making the information
+available through a directory enquiry service in accordance with the
+requirements of Schedule 2; or
+(l)
+
+that the collection of the information is in accordance with an authorisation
+granted under section 30 of the Act.
+Rule 3
+Collection of telecommunications information from individual
+
+(1)
+
+6
+
+If a telecommunications agency collects telecommunications information from the
+individual concerned, the agency must take any steps that are, in the circumstances,
+reasonable to ensure that the individual concerned is aware of—
+
+Telecommunications Information Privacy Code 2020
+
+(a)
+
+the fact that the information is being collected; and
+
+(b)
+
+the purpose for which the information is being collected; and
+
+(c)
+
+the intended recipients of the information; and
+
+(d)
+
+the name and address of—
+(i)
+
+the agency that is collecting the information; and
+
+(ii) the agency that will hold the information; and
+(e)
+
+if the collection of the information is authorised or required by or under law,—
+(i)
+
+the particular law by or under which the collection is authorised or
+required; and
+
+(ii) whether or not the supply of the information by the individual is voluntary
+or mandatory; and
+(f)
+
+the consequences (if any) for the individual if all or any part of the requested
+information is not provided; and
+
+(g)
+
+the rights of access to, and correction of, telecommunications information
+provided by rules 6 and 7.
+
+(2)
+
+The steps referred to in subrule (1) must be taken before the information is collected
+or, if that is not practicable, as soon as practicable after it is collected.
+
+(3)
+
+A telecommunications agency is not required to take the steps referred to in
+subrule (1) in relation to the collection of telecommunications information from an
+individual if that agency has taken those steps on a recent previous occasion in
+relation to the collection, from that individual, of the same information or information
+of the same kind.
+
+(4)
+
+It is not necessary for a telecommunications agency to comply with subrule (1) if it
+believes, on reasonable grounds,—
+(a)
+
+that non-compliance would not prejudice the interests of the individual
+concerned; or
+
+(b)
+
+that non-compliance is necessary—
+(i)
+
+to avoid prejudice to the maintenance of the law by any public sector
+agency, including prejudice to the prevention, detection, investigation,
+prosecution and punishment of offences; or
+
+(ii) for the conduct of proceedings before any court or tribunal (being
+proceedings that have been commenced or are reasonably in
+contemplation); or
+(iii) for the purpose of preventing or investigating an action or threat that may
+compromise network or service security or integrity; or
+(c)
+
+that compliance would prejudice the purposes of collection; or
+
+(d)
+
+that compliance is not reasonably practicable in the circumstances of the
+particular case; or
+
+7
+
+Telecommunications Information Privacy Code 2020
+
+(5)
+
+(e)
+
+that the information will not be used in a form in which the individual
+concerned is identified; or
+
+(f)
+
+that the collection is for the purposes of interconnection or the delivery of a
+CMS.
+
+Where a network operator participates in the emergency location information system
+in accordance with Schedule 4, it must ensure that additional steps required by clause
+5 of Schedule 4 are taken to meet specific transparency obligations in relation to the
+system.
+Rule 4
+Manner of collection of telecommunications information
+
+(1)
+
+A telecommunications agency may collect telecommunications information only—
+(a)
+
+by a lawful means; and
+
+(b)
+
+by a means that, in the circumstances of the case (particularly in circumstances
+where the information is being collected from children or young persons),—
+(i)
+
+is fair; and
+
+(ii) does not intrude to an unreasonable extent upon the personal affairs of the
+individual concerned.
+(2)
+
+Subject to section 107 of the Telecommunications Act 2001, a network operator or
+Internet service provider may monitor the call associated data of an individual where
+necessary for the purpose of investigating an action that may threaten network
+security or integrity.
+Rule 5
+Storage and security of telecommunications information
+
+(1)
+
+A telecommunications agency that holds telecommunications information must
+ensure—
+(a)
+
+that the information is protected, by such security safeguards as it is reasonable
+in the circumstances to take, against—
+(i)
+
+loss; and
+
+(ii) access, use, modification, or disclosure, that is not authorised by the
+telecommunications agency; and
+(iii) other misuse; and
+(b)
+
+that, if it is necessary for the information to be given to a person in connection
+with the provision of a service to the telecommunications agency, everything
+reasonably within the power of the agency is done to prevent unauthorised use
+or unauthorised disclosure of the information.
+
+(2)
+
+Where a network operator discloses emergency location information in accordance
+with Schedule 4, it must ensure that additional steps required by clause 7 of
+Schedule 4 are taken to safeguard that information.
+
+(3)
+
+This rule applies to telecommunications information obtained before or after the
+commencement of this code.
+
+8
+
+Telecommunications Information Privacy Code 2020
+
+Rule 6
+Access to telecommunications information by individual concerned
+(1)
+
+An individual is entitled to receive from a telecommunications agency upon request—
+(a)
+
+confirmation of whether the agency holds any telecommunications information
+about them; and
+
+(b)
+
+access to that information.
+
+(2)
+
+If an individual concerned is given access to telecommunications information, the
+individual must be advised that, under rule 7, the individual may request the
+correction of that information.
+
+(3)
+
+When a telecommunications agency refuses a request under subrule (1), it must advise
+the individual of the complaints process available under Schedule 1.
+
+(4)
+
+The application of subrules (1) and (2) is subject to the provisions of Part 4 of the Act
+(which sets out reasons for refusing access to information and procedural provisions
+relating to access to information).
+
+(5)
+
+This rule applies to telecommunications information obtained before or after the
+commencement of this code.
+Rule 7
+Correction of telecommunications information
+
+(1)
+
+An individual whose telecommunications information is held by a
+telecommunications agency is entitled to request the telecommunications agency to
+correct the information.
+
+(2)
+
+A telecommunications agency that holds telecommunications information must, on
+request or on its own initiative, take such steps (if any) that are reasonable in the
+circumstances to ensure that, having regard to the purposes for which the information
+may lawfully be used, the information is accurate, up to date, complete and not
+misleading.
+
+(3)
+
+When requesting the correction of telecommunications information, or at any later
+time, an individual is entitled to—
+(a)
+
+provide the telecommunications agency with a statement of the correction
+sought to the information (a statement of correction); and
+
+(b)
+
+request the telecommunications agency to attach the statement of correction to
+the information if the agency does not make the correction sought.
+
+(4)
+
+If a telecommunications agency that holds telecommunications information is not
+willing to correct the information as requested and has been provided with a statement
+of correction, the telecommunications agency must take such steps (if any) that are
+reasonable in the circumstances to ensure that the statement of correction is attached
+to the information in a manner that ensures that it will always be read with the
+information.
+
+(5)
+
+If a telecommunications agency corrects telecommunications information or attaches
+a statement of correction to telecommunications information, that agency must, so far
+
+9
+
+Telecommunications Information Privacy Code 2020
+
+as is reasonably practicable, inform every other person to whom the agency has
+disclosed the information.
+(6)
+
+Where a telecommunications agency refuses a request made under subrule (1), it must
+advise the individual of the complaints process available under Schedule 1.
+
+(7)
+
+The application of this rule is subject to the provisions of Part 4, subpart 2 of the Act
+(which sets out procedural provisions relating to correction of information).
+
+(8)
+
+This rule applies to telecommunications information obtained before or after the
+commencement of this code.
+
+Rule 8
+Accuracy, etc, of telecommunications information to be checked before use or disclosure
+(1)
+
+A telecommunications agency that holds telecommunications information must not
+use or disclose that information without taking any steps that are, in the
+circumstances, reasonable to ensure that the information is accurate, up to date,
+complete, relevant, and not misleading.
+
+(2)
+
+This rule applies to telecommunications information obtained before or after the
+commencement of this code.
+Rule 9
+Retention of telecommunications information
+
+(1)
+
+A telecommunications agency that holds telecommunications information must not
+keep that information for longer than is required for the purposes for which the
+information may lawfully be used.
+
+(2)
+
+This rule applies to telecommunications information obtained before or after the
+commencement of this code.
+Rule 10
+Limits on use of Telecommunications Information
+
+(1)
+
+A telecommunications agency that holds telecommunications information that was
+obtained in connection with one purpose may not use the information for any other
+purpose unless the agency believes, on reasonable grounds,—
+(a)
+
+that the purpose for which the information is to be used is directly related to the
+purpose in connection with which the information was obtained; or
+
+(b)
+
+that the information—
+(i)
+
+is to be used in a form in which the individual concerned is not identified;
+or
+
+(ii) is to be used for statistical or research purposes and will not be published
+in a form that could reasonably be expected to identify the individual
+concerned; or
+(c)
+
+10
+
+that the use of the information for that other purpose is authorised by the
+individual concerned, provided that if the other purpose is for direct marketing
+the individual has been advised that they may withdraw such authorisation at
+any time; or
+
+Telecommunications Information Privacy Code 2020
+
+(d)
+
+that the source of the information is a publicly available publication and that in
+the circumstances of the case, it would not be unfair or unreasonable to use the
+information; or
+
+(e)
+
+that the use of the information for that other purpose is necessary—
+(i)
+
+to avoid prejudice to the maintenance of the law by any public sector
+agency, including prejudice to the prevention, detection, investigation,
+prosecution, and punishment of offences; or
+
+(ii) for the protection of public revenue; or
+(iii) for the conduct of proceedings before any court or tribunal (being
+proceedings that have been commenced or are reasonably in
+contemplation); or
+(iv) for the purpose of preventing or investigating an action or threat that may
+compromise network or service security or integrity; or
+(f)
+
+that the use of the information for that other purpose is necessary to prevent or
+lessen a serious threat to—
+(i)
+
+public health or public safety; or
+
+(ii) the life or health of the individual concerned or another individual; or
+(g)
+
+that the use of the information is necessary to investigate a complaint
+concerning a malicious or nuisance telecommunication and to take appropriate
+action; or
+
+(h)
+
+that the use of the information is necessary for—
+(i)
+
+the provision of a seamless telecommunications service to subscribers; or
+
+(ii) the development or supply of any broadband, intelligent, interactive or
+multimedia services or other forms of telecommunications service; or
+(iii) the provision of a CMS; or
+(iv) the purpose of interconnection, wholesaling or similar arrangements
+between network operators; or
+(i)
+
+that the use of the information is in accordance with an authorisation granted
+under section 30 of the Act.
+
+(2)
+
+A telecommunications agency must not use traffic information obtained as a result of
+interconnection, wholesaling or similar arrangements between network operators for
+the purposes of direct marketing to an individual who is not a subscriber of the agency
+without the authorisation of that individual.
+
+(3)
+
+This rule does not apply to telecommunications information obtained before 1 July
+1993.
+Rule 11
+Limits on disclosure of telecommunications information
+
+(1)
+
+A telecommunications agency that holds telecommunications information must not
+disclose the information unless the agency believes, on reasonable grounds,—
+
+11
+
+Telecommunications Information Privacy Code 2020
+
+(a)
+
+that the disclosure of the information is one of the purposes in connection with
+which the information was obtained or is directly related to the purposes in
+connection with which the information was obtained; or
+
+(b)
+
+that the disclosure is to the individual concerned; or
+
+(c)
+
+that the disclosure is authorised by the individual concerned; or
+
+(d)
+
+that the source of the information is a publicly available publication and that, in
+the circumstances of the case, it would not be unfair or unreasonable to use the
+information; or
+
+(e)
+
+that the disclosure is to a subscriber for billing purposes and the information
+identifies the details of a call for which a specific charge is made, such as a toll
+call, collect call, or an 0800 or 0900 (or equivalent) call; or
+
+(f)
+
+that non-compliance is necessary—
+(i)
+
+to avoid prejudice to the maintenance of the law by any public sector
+agency, including prejudice to the prevention, detection, investigation,
+prosecution, and punishment of offences; or
+
+(ii) for the enforcement of a law that imposes a pecuniary penalty; or
+(iii) for the protection of public revenue; or
+(iv) for the conduct of proceedings before any court or tribunal (being
+proceedings that have been commenced or are reasonably in
+contemplation); or
+(v) for the purpose of preventing or investigating an action or threat that may
+compromise network or service security or integrity; or
+(g)
+
+that the disclosure of the information is necessary to prevent or lessen a serious
+threat to—
+(i)
+
+public health or public safety; or
+
+(ii) the life or health of the individual concerned or another individual; or
+(h)
+
+except where the disclosure of the information may be sought in accordance
+with a business records direction under Part 5(4) of the Intelligence and
+Security Act 2017, that the disclosure of the information is necessary to enable
+an intelligence and security agency to perform any of its functions; or
+
+(i)
+
+that the information—
+(i)
+
+is to be used in a form in which the individual concerned is not identified;
+or
+
+(ii) is to be used for statistical or research purposes and will not be published
+in a form that could reasonably be expected to identify the individual
+concerned; or
+
+12
+
+(j)
+
+that the disclosure is to the relevant government agency for the purposes of
+Schedule 4; or
+
+(k)
+
+that the disclosure is necessary to enable emergency services to respond to a
+potential threat to the life or health of the individual concerned or another
+individual; or
+
+Telecommunications Information Privacy Code 2020
+
+(l)
+
+that the disclosure of the information is necessary to facilitate the sale or other
+disposition of a business as a going concern; or
+
+(m) that the disclosure is necessary to deal with a service or billing enquiry and the
+disclosure is to—
+(i)
+
+a member of a subscriber’s household; or
+
+(ii) a representative of a business subscriber;
+who appear to be acting on behalf of the subscriber; or
+(n)
+
+that the disclosure of the information is necessary for—
+(i)
+
+the provision of a seamless telecommunications service to subscribers; or
+
+(ii) the development or supply of any broadband, intelligent, interactive or
+multimedia services or other forms of telecommunications service; or
+(iii) the provision of a CMS; or
+(iv) interconnection, wholesaling or similar arrangements between network
+operators; or
+(o)
+
+that the information is information enabling a subscriber to be identified and
+contacted and the disclosure is by inclusion in a directory or directory enquiry
+service, or by disclosure to a directory publisher or directory enquiry agency for
+inclusion in a directory or directory enquiry service, and the disclosure is
+authorised by the subscriber concerned and in accordance with the requirements
+of Schedule 2; or
+
+(p)
+
+that the disclosure is by means of CLIP and is in accordance with the
+requirements of Schedule 3; or
+
+(q)
+
+that the disclosure of the information is in accordance with an authorisation
+granted under section 30 of the Act.
+
+(2)
+
+This rule applies to telecommunications information obtained before or after the
+commencement of this code.
+
+(3)
+
+This rule is subject to rule 12.
+Rule 12
+Disclosure of telecommunications information outside New Zealand
+
+(1)
+
+A telecommunications agency (A) may disclose telecommunications information to a
+foreign person or entity (B) in reliance on Rule 11(a), (c), (f), (g), (i), (k), (l), or (q)
+only if—
+(a)
+
+the individual concerned authorises the disclosure to B after being expressly
+informed by A that B may not be required to protect the information in a way
+that, overall, provides comparable safeguards to those in the Act, as modified
+by this code; or
+
+(b)
+
+B is carrying on business in New Zealand and, in relation to this information, A
+believes on reasonable grounds that B is subject to the Act, as modified by this
+code; or
+
+13
+
+Telecommunications Information Privacy Code 2020
+
+(c)
+
+A believes on reasonable grounds that B is subject to privacy laws that, overall,
+provide comparable safeguards to those in the Act, as modified by this code; or
+
+(d)
+
+A believes on reasonable grounds that B is a participant in a prescribed binding
+scheme; or
+
+(e)
+
+A believes on reasonable grounds that B is subject to privacy laws of a
+prescribed country; or
+
+(f)
+
+A otherwise believes on reasonable grounds that B is required to protect the
+information in a way that, overall, provides comparable safeguards to those in
+the Act, as modified by this code (for example, pursuant to an agreement
+entered into between A and B); or
+
+(g)
+
+that the disclosure of the information is in accordance with an authorisation
+granted under section 30 of the Act.
+
+(2)
+
+However, subrule (1) does not apply if the telecommunications information to be
+disclosed to B in reliance on rule 11(1)(f), (g) or (k) and it is not reasonably
+practicable in the circumstances for A to comply with the requirements of subrule (1).
+
+(3)
+
+In this rule—
+prescribed binding scheme means a binding scheme specified in regulations made
+under section 213 of the Act
+prescribed country means a country specified in regulations made under section 214
+of the Act that are made without any qualification or limitation relating to a class of
+person that includes B, or to a type of information that includes telecommunications
+information.
+Rule 13
+Unique Identifiers
+
+(1)
+
+A telecommunications agency (A) may assign a unique identifier to an individual for
+use in its operations only if that identifier is necessary to enable A to carry out 1 or
+more of its functions efficiently.
+
+(2)
+
+A may not assign to an individual a unique identifier that, to A’s knowledge, is the
+same unique identifier as has been assigned to that individual by another agency (B),
+unless—
+(a)
+
+A and B are associated persons within the meaning of subpart YB of the Income
+Tax Act 2007; or
+
+(b)
+
+the unique identifier is to be used by A for statistical or research purposes and
+no other purpose; or
+
+(c)
+
+it is permitted by subrule (6).
+
+(3)
+
+To avoid doubt, A does not assign a unique identifier under subrule (1) by simply
+recording a unique identifier assigned to the individual by B for the sole purpose of
+communicating with B about the individual.
+
+(4)
+
+A must take any steps that are, in the circumstances, reasonable to ensure that—
+
+14
+
+Telecommunications Information Privacy Code 2020
+
+(a)
+
+a unique identifier is assigned only to an individual whose identity is clearly
+established; and
+
+(b)
+
+the risk of misuse of a unique identifier by any person is minimised (for
+example, by showing truncated account numbers on receipts or in
+correspondence).
+
+(5)
+
+A telecommunications agency may not require an individual to disclose any unique
+identifier to that individual unless the disclosure is for one of the purposes in
+connection with which that unique identifier was assigned or for a purpose that is
+directly related to one of those purposes.
+
+(6)
+
+Notwithstanding subrules (2) and (4), a telecommunications agency may identify a
+telephone installation or an individual associated with that installation by reference to
+a number or identifier generated or assigned by another telecommunications agency
+where that is necessary for interconnection, wholesaling or similar arrangements
+between telecommunications agencies or between a telecommunications agency and
+another agency providing telecommunications service.
+
+(7)
+
+Subrules (1) to (4)(a) do not apply to unique identifiers assigned before 1 November
+2003.
+
+(8)
+
+However, subrule (2) applies to the assignment of a unique identifier on or after 1
+November 2003 even if the unique identifier is the same as that assigned by another
+agency before that date.
+
+7
+
+Revocation
+The Telecommunications Information Privacy Code 2003 is revoked.
+
+15
+
+Telecommunications Information Privacy Code 2020
+
+Schedule 1
+Complaints of breach of code
+(1)
+
+Each telecommunications agency must designate a person or persons to deal with
+complaints alleging a breach of this code and facilitate the fair, simple, speedy and
+efficient resolution of complaints.
+
+(2)
+
+Each telecommunications agency must have a complaints procedure which provides
+that—
+(a)
+
+when a complaint of a breach of this code is received—
+(i)
+
+the complaint is acknowledged within 5 working days of receipt, unless it
+has been resolved to the satisfaction of the complainant within that period;
+and
+
+(ii)
+
+the complainant is informed of any relevant internal and external
+complaints procedures; and
+
+(iii) the complaint and the actions of the agency regarding that complaint are
+documented; and
+(b)
+
+within 10 working days of acknowledging the complaint, the agency must—
+(i)
+
+decide whether it—
+(A) accepts that the complaint is justified; or
+(B)
+
+(ii)
+
+does not accept that the complaint is justified; or
+
+if it decides that more time is needed to investigate the complaint—
+(A) determine how much additional time is needed; and
+(B)
+
+(c)
+
+if that additional time is more than 20 working days, inform the
+complainant of that determination and the reasons for it; and
+
+as soon as practicable after the agency decides whether or not it accepts that a
+complaint is justified, it must inform the complainant of—
+(i)
+
+the reasons for the decision; and
+
+(ii)
+
+any actions the agency proposes to take; and
+
+(iii) the right to complain to the Privacy Commissioner.
+(3)
+
+16
+
+Nothing in this Schedule limits or restricts any provision of the Act.
+
+Telecommunications Information Privacy Code 2020
+
+Schedule 2
+Directories and directory enquiry services
+(1)
+
+Any disclosure made under rule 11(1)(o) must be in accordance with—
+(a)
+
+the agency’s policy notified generally or to the subscriber concerned; and
+
+(b)
+
+any authorisation given by the subscriber; and
+
+(c)
+
+clauses 2, 3, 7, 8 and 9.
+
+(2)
+
+A network operator or Internet service provider must not make it a condition of
+supply of telecommunications services that subscriber information be published in a
+directory or be made available through a directory enquiries service.
+
+(3)
+
+Unless the subscriber concerned explicitly authorises to the contrary, a directory
+publisher or directory enquiry agency must arrange a directory or operate a directory
+enquiry service so that—
+(a)
+
+to search for a subscriber’s telephone number—
+(i)
+
+using a directory enquiry service, an enquirer is required to provide both
+the approximate name and approximate address of the subscriber being
+sought; and
+
+(ii)
+
+using an electronic directory, a searcher is required to provide the
+approximate name of the subscriber being sought; and
+
+(b)
+
+where a subscriber’s name, address and telephone number is published or
+displayed in printed or electronic form it is ordered alphabetically by the name
+of the subscriber concerned; and
+
+(c)
+
+where a subscriber’s name, address and telephone number is published or
+displayed in a directory it is not ordered to allow searches by address only; and
+
+(d)
+
+subscriber information is not disclosed by way of a reverse search facility; and
+
+(e)
+
+where a subscriber has expressed a preference for their name to appear in the
+directory in a certain form, the name is not published in any other form; and
+
+(f)
+
+where a subscriber requests that only part of their address is included in a
+directory, their full address is not published.
+
+(4)
+
+Clauses 3(a), (b), (c) and (d) do not apply in relation to a business subscriber.
+
+(5)
+
+Notwithstanding clauses 3(e) and (f), a telecommunications agency is not required to
+seek explicit authorisation from an existing subscriber as to the form in which that
+subscriber’s name or address is to appear in a directory (including a reprinted or
+reissued directory) or a directory enquiry service, but must act upon any request
+received.
+
+(6)
+
+For the purposes of clause 5, an existing subscriber means a subscriber who has, as at
+1 April 2005, authorised a telecommunications agency to include their details in a
+published or compiled directory.
+
+(7)
+
+Where a telecommunications agency discloses subscriber information to a directory
+agency or a directory enquiry agency for the purposes of inclusion in a directory or
+directory enquiry service, the agency must do everything reasonably within its power
+17
+
+Telecommunications Information Privacy Code 2020
+
+to ensure that the directory publisher or directory enquiry agency will comply with the
+requirements of this code in relation to the publication or release of the subscriber
+information.
+(8)
+
+Where an agency intends to seek explicit authorisation from a subscriber for a
+practice that would otherwise be contrary to clause 3, it must—
+(a)
+
+notify the subscriber concerned directly of the agency’s policy and the available
+options before obtaining the authorisation; and
+
+(b)
+
+advise the subscriber that it is not mandatory for the information to be disclosed
+in the directory or directory enquiry service; and
+
+(c)
+
+inform the subscriber that the authorisation may in the future be withdrawn and
+explain how this may be done.
+
+(9)
+
+A telecommunications agency must take such steps as are, in the circumstances,
+reasonable to ensure that subscribers are aware of the agency’s practices in relation to
+directories and directory enquiry services and of the options available concerning the
+fact and form of publication, release or withholding of subscriber details in full or in
+part.
+
+(10)
+
+Without limiting clause 9, a telecommunications agency that publishes a directory on
+the Internet must—
+
+18
+
+(a)
+
+take such steps as are, in the circumstances, reasonable to ensure that affected
+subscribers are aware that information about them is published in this manner
+and the implications for the accessibility of the information by other people (for
+example, any significant differences from the way in which the information may
+otherwise be made available in non-electronic directories); and
+
+(b)
+
+promptly act to remove information relating to a subscriber from the Internet
+directory where that subscriber withdraws their authorisation for inclusion.
+
+Telecommunications Information Privacy Code 2020
+
+Schedule 3
+Caller line information presentation
+(1)
+
+A telecommunications agency may disclose telecommunications information by
+means of CLIP, provided that—
+(a)
+
+subscribers are given the option to block the display of calling line identity on a
+per-line basis for both incoming and outgoing calls; and
+
+(b)
+
+callers are given the means to block the display of calling line identity on a percall basis for outbound calls; and
+
+(c)
+
+the agency takes reasonable steps to ensure that—
+
+(d)
+
+(i)
+
+subscribers are made aware of the option to have per-line blocking; and
+
+(ii)
+
+users of the network are made aware of the ability to utilise per-call
+blocking; and
+
+simple means are available for—
+(i)
+
+obtaining per-line blocking; and
+
+(ii)
+
+exercising per-call blocking; and
+
+(iii) ascertaining whether an outgoing line is blocked; and
+(e)
+
+the option to obtain per-line blocking, and the means to obtain per-call blocking
+and to ascertain whether an outgoing line is blocked, are made available free of
+charge.
+
+(2)
+
+A telecommunications agency may override any block applied pursuant to clauses
+1(a) or (b) if the call is to the 111 emergency call service (including a call to any other
+number that connects to that service).
+
+(3)
+
+A telecommunications agency is not required to provide the options in clauses 1(a)
+and (b) in respect of a particular subscriber’s line where it believes, on reasonable
+grounds, that—
+(a)
+
+the line is used for direct marketing purposes; or
+
+(b)
+
+the line has been misused for the purpose of disturbing, annoying or irritating
+any person; and
+
+the agency advises the subscriber that blocking will not be, or is no longer to be,
+provided on that line.
+(4)
+
+A telecommunications agency is not required to provide the options and means
+referred to in clauses 1(a) and (b) where the availability of an answer-back function is
+inherent in the nature of the service being provided to the subscriber concerned.
+
+19
+
+Telecommunications Information Privacy Code 2020
+
+Schedule 4
+Emergency location information
+Schedule 4 enables the disclosure of emergency location information (“ELI”) by network
+operators to emergency service providers, and the collection and use of ELI by emergency
+service providers, for the purpose of establishing the location of an individual who has made
+an emergency call, in order to facilitate a response to that call, or to prevent or lessen a
+serious threat to an individual’s life or health.
+The Schedule regulates location information which is automatically generated when making
+an emergency call. It also regulates the use of technology that enables the collection of
+location information about cellular devices in the absence of an emergency call from the
+individual concerned, where this is necessary to prevent or lessen a serious threat to
+individual life or health.
+The Schedule limits the collection, retention, use and disclosure of ELI to ensure that the
+sharing and use of this information is at all times connected with responding to an
+emergency.
+This Schedule applies only to location agencies, as defined in clause 1 of this Schedule.
+1
+
+Interpretation
+In this Schedule,—
+cellular device means a telecommunication device capable of connecting to a cellular
+network
+Device Location Information (DLI) means location information that is—
+(a)
+
+derived from a DLI source; and
+
+(b)
+
+not generated by an emergency call
+
+DLI source means—
+(a)
+
+a cellular device; or
+
+(b)
+
+in relation to a cellular device, a network operator
+
+emergency call means any telecommunication from a telecommunication device to a
+specified emergency number
+Emergency Caller Location Information (ECLI) means location information that
+is—
+(a)
+
+derived from an ECLI source; and
+
+(b)
+
+generated by an emergency call
+
+ECLI source means—
+(a)
+
+a telecommunication device enabled automatically to send ECLI to the
+Emergency Location Information System (ELIS) when an emergency call is
+made; or
+
+(b)
+
+in relation to a telecommunication device, a network operator
+
+Emergency Location Information (ELI) means—
+
+20
+
+Telecommunications Information Privacy Code 2020
+
+(a)
+
+DLI;
+
+(b)
+
+ECLI
+
+Emergency Location Information System (ELIS) means the system which receives
+and processes ELI and makes ELI available to emergency service providers for the
+permitted primary purpose and permitted secondary purpose
+emergency service provider means—
+(a)
+
+New Zealand Police; or
+
+(b)
+
+Fire and Emergency New Zealand; or
+
+(c)
+
+The Priory in NZ of the Most Venerable Order of the Hospital of St John of
+Jerusalem (St John); or
+
+(d)
+
+Wellington Free Ambulance Service (Incorporated); or
+
+(e)
+
+New Zealand Search and Rescue; or
+
+(f)
+
+Maritime New Zealand; or
+
+(g)
+
+any other agency authorised by the relevant government agency under clause 2
+of this Schedule to receive ELI from the ELIS
+
+location agency means—
+(a)
+
+an emergency service provider; or
+
+(b)
+
+a network operator; or
+
+(c)
+
+the relevant government agency;
+
+location information means personal information indicating the approximate
+geographical position of a device, which may include the latitude, longitude, altitude
+and direction of travel of that device
+permitted primary purpose means—
+(a)
+
+in relation to ECLI, to enable an emergency service provider to facilitate a
+response to an emergency call; or
+
+(b)
+
+in relation to DLI, to enable an emergency service provider to prevent or lessen
+a serious threat to the life or health of the individual concerned or another
+individual
+
+permitted secondary purpose means the following purposes that are directly related
+to the permitted primary purpose—
+(a)
+
+maintaining a record of the information used to establish the location of an
+emergency by an emergency service provider; and
+
+(b)
+
+monitoring the auditing the operation of the ELIS by the relevant government
+agency
+
+relevant government agency means the government agency responsible for the ELIS
+serious threat has the same meaning as in section 7(1) of the Act
+
+21
+
+Telecommunications Information Privacy Code 2020
+
+specified emergency number means 111 or any other emergency number, agreed by
+the location agencies from time to time, that connects to the 111 emergency call
+service
+telecommunication device—
+(a)
+
+means any terminal device capable of being used for transmitting or receiving a
+telecommunication over a network; and
+
+(b)
+
+includes a cellular device.
+
+2
+
+Additional agencies authorised to receive ELI from the ELIS
+
+(1)
+
+For the purposes of paragraph (e) of the definition of emergency service provider, the
+relevant government agency may, after consulting the Commissioner, authorise an
+agency to receive ELI from the ELIS where that agency—
+(a)
+
+provides emergency services to the public; and
+
+(b)
+
+requires ELI from the ELIS for the permitted primary purpose.
+
+3
+
+Collection, use, disclosure and accuracy of ELI
+
+(1)
+
+A location agency may collect, use or disclose ELI if it believes on reasonable
+grounds that—
+
+(2)
+
+(a)
+
+the collection, use or disclosure is necessary for a permitted primary purpose or
+permitted secondary purpose; and
+
+(b)
+
+in the case of a disclosure – the disclosure is to another location agency.
+
+The relevant government agency may collect ELI in compliance with subclause (1)(a)
+either—
+(a)
+
+directly from the relevant telecommunication device; or
+
+(b)
+
+from the relevant network operator.
+
+(3)
+
+New Zealand Search and Rescue, Maritime New Zealand, or any agency authorised
+under clause 2 to receive ELI, must not collect ELI directly from the relevant
+government agency.
+
+(4)
+
+Before collecting, using or disclosing DLI in relation to a cellular device, an
+emergency service provider must take all reasonable steps to ensure that the device
+relates to the individual whose location is necessary for the purpose of responding to
+the serious threat.
+
+(5)
+
+Where an emergency service provider collects ELI, it must ensure that the frequency
+and duration of the collection is limited to that which is necessary for the permitted
+primary purpose.
+
+(6)
+
+A location agency may combine ELI with other information – such as aggregated
+geolocation information – in order to improve the accuracy of ELI for the permitted
+primary purpose.
+
+(7)
+
+A network operator or emergency service provider is restricted by this clause in its
+collection, use or disclosure of ELI only to the extent that the information is sourced
+from the ELIS.
+
+22
+
+Telecommunications Information Privacy Code 2020
+
+4
+
+Notice of collection
+
+(1)
+
+An emergency service provider, or the relevant government agency on its behalf,
+must, as soon as reasonably practicable after collecting DLI pursuant to clause
+3(1)(a), notify the individual concerned of:
+(a)
+
+the date and time the information was collected; and
+
+(b)
+
+the type of information collected; and
+
+(c)
+
+the duration of the collection; and
+
+(d)
+
+the purpose for the collection.
+
+(2)
+
+An emergency service provider is not required to take the steps referred to in
+subclause (1) if it believes, on reasonable grounds, that doing so would be likely to
+prejudice the physical or mental health of the individual concerned or another
+individual.
+
+(3)
+
+Within 7 days of making a decision under subclause (2), an emergency service
+provider must—
+(a)
+
+review that decision to determine whether subclause (2) still applies; and
+
+(b)
+
+if subclause (2) no longer applies, take the steps referred to in subclause (1).
+
+(4)
+
+Subject to the general transparency requirements set out at clause 5, a location agency
+is not required to notify an individual of the collection of ECLI.
+
+5
+
+General duty of transparency
+
+(1)
+
+Location agencies should apply a general policy of openness and transparency in
+respect of the ELIS that enables individuals to understand and have confidence in the
+system.
+
+(2)
+
+Without limiting subclause (1), the information made available by location agencies
+in an appropriate way, such as on the agency’s website or a shared website, should
+include—
+(a)
+
+a general explanation of the ELIS, including—
+(i)
+
+how ELI is generated or collected, and shared; and
+
+(ii)
+
+how ELI will be used and the benefits to the public of the system; and
+
+(iii) where ELI will be stored and for how long; and
+(iv) the current agencies participating in the system and their roles; and
+(v)
+(b)
+
+that the system is permitted by this Schedule; and
+
+guidance about individual access, correction and complaint rights in respect of
+the system.
+
+6
+
+Retention of ELI
+
+(1)
+
+A location agency must not keep ELI sourced from the ELIS for longer than is
+required for a permitted primary purpose or permitted secondary purpose.
+
+23
+
+Telecommunications Information Privacy Code 2020
+
+(2)
+
+Where the relevant government agency retains ELI for the purpose of monitoring or
+auditing the operation of the ELIS, reasonable steps must be taken to ensure that the
+information is not retained in a form that is capable of identifying the individual to
+whom the information relates.
+
+7
+
+Safeguards to ensure compliance
+
+(1)
+
+A location agency must take reasonable steps to ensure that it collects, retains, uses
+and discloses ELI in compliance with the requirements of this Schedule.
+
+(2)
+
+Without limiting subclause (1), a location agency must—
+
+(3)
+
+(a)
+
+develop and maintain written policies and procedures in respect of the
+collection, retention, accuracy, use and disclosure of ELI; and
+
+(b)
+
+provide information and training to relevant employees or agents to ensure
+compliance with these policies and procedures; and
+
+(c)
+
+monitor usage and regularly check compliance with the requirements of the
+Schedule and, in particular, with the limitations on the retention of ELI; and
+
+(d)
+
+take prompt and effective action in respect of any failure to comply with the
+requirements of the Schedule.
+
+The relevant government agency must maintain a log of all disclosures of DLI
+(disclosure log), which includes—
+(a)
+
+whether the disclosure was in reliance on the permitted primary purpose, the
+permitted secondary purpose, or another purpose; and
+
+(b)
+
+where the disclosure was in reliance on the permitted primary purpose, the
+grounds for believing that it was necessary; and
+
+(c)
+
+where the disclosure was in reliance on another purpose, a description of this
+other purpose and the statutory authority on which it was based; and
+
+(d)
+
+the date of the disclosure and the duration for which ELI was collected; and
+
+(e)
+
+whether or not the individual concerned was notified in accordance with
+clause 4.
+
+8
+
+Assurance of compliance
+
+(1)
+
+The relevant government agency must, before authorising an agency under clause 2 to
+receive ELI from the ELIS, seek and obtain an assurance that the agency will take the
+steps required by clause 7.
+
+(2)
+
+A location agency – including the relevant government agency – must, on request
+from the Commissioner, provide a written assurance that the steps required by clause
+7 have been taken.
+
+(3)
+
+The relevant government agency must provide to the Commissioner, every three
+months, the disclosure log for the preceding three-month period.
+
+24
+
+Telecommunications Information Privacy Code 2020
+
+Made at Wellington on 28 October 2020.
+
+John Edwards
+Privacy Commissioner
+
+Issued under the authority of the Privacy Act 2020.
+Date of notification in Gazette: 2 November 2020
+This legislation is administered by the Office of the Privacy Commissioner.
+
+25
+
+

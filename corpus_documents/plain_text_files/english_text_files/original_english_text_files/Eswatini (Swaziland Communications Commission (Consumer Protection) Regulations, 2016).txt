@@ -1,0 +1,520 @@
+PART C
+S1
+LEGAL NOTICE NO. 125 OF 2016
+_____________________
+SWAZILAND COMMUNICATIONS COMMISSION ACT, 2013
+(Act No. 10 of 2013)
+
+SWAZILAND COMMUNICATIONS COMMISSION (CONSUMER PROTECTION)
+REGULATIONS, 2016
+(Under Section 54)
+In exercise of the powers conferred by Section 54 of the Swaziland Communications
+Commission Act, 2013, the Minister for Information, Communications and Technology makes the
+following Regulations –
+
+ARRANGEMENT BY REGULATIONS
+1. Citation and commencement
+2. Interpretation
+3. Scope
+4. Objectives
+5. Compliance with Regulations
+6. Existing laws and regulations
+7. Fair business practices
+8. Advertising and marketing
+9. Information on identification of suppliers
+10. Information on transactions
+11. Contractual information
+12. Conclusion of contract
+13. Supply of digital content in the cooling-off period
+14. Privacy
+15. Payment
+16. Security and authentication
+17. Internal complaint handling mechanism
+18. Alternative dispute resolution
+
+19. Dispute
+20. Notification of dispute
+21. Response
+22. Reply
+23. Impartiality and independence
+24. General powers of the ADR adjudicator
+25. Further statements
+26. Default
+27. ADR adjudicator decision
+28. Appeal
+29. Burden of proof
+30. Penalties
+31. Applicable law and forum
+Citation and commencement
+1. (1) These Regulations may be cited as the Swaziland Communications Commission
+(Consumer Protection) Regulations, 2015.
+(2) These Regulations shall come into force on the date of publication in the Government
+gazette.
+Interpretation
+2. (1) In these Regulations, unless the context otherwise requires –
+“Act” means the Swaziland Communications Commission Act, 2013;
+“advertisement” has the meaning assigned to it in the Fair Trading Act, 2001;
+“alternative dispute resolution procedure adjudicator (ADR adjudicator)” means a
+person appointed by the Commission to resolve disputes out-of-court;
+“Appeals Board” has the meaning assigned to it in the Act;
+“business premises” in relation to a supplier means –
+(a) any immovable retail premises where the activity of the supplier is carried out on a
+permanent basis, or
+
+(b) any movable retail premises where the activity of the supplier is carried out on a
+usual basis;
+“consumer” has the meaning assigned to it in the Competition Act, 2013;
+“data” has the meaning assigned to it in the Electronic Communications Act, 2013;
+“digital content” means data which is supplied through an electronic communications
+network or an electronic communications service
+“durable medium” means paper or email, or any other medium that –
+(a) allows information to be addressed personally to the recipient;
+(b) enables the recipient to store the information in a way accessible for future reference
+for a period that is long enough for the purposes of the information; and
+(c) allows the unchanged reproduction of the information stored;
+“electronic commerce” has the meaning assigned to it in the Act;
+“electronic communications network” has the meaning assigned to it in the Electronic
+Communications Act, 2013;
+“functionality” in relation to digital content includes region coding, restrictions
+incorporated for the purposes of digital rights management, and other technical
+restrictions;
+“goods and services” means goods or services of a kind ordinarily acquired for personal,
+domestic or household use or consumption;
+“identifiable person” means a person who can be identified, directly or indirectly, in
+particular by reference to an identification number or to one or more factors specific to
+that persona’s physical, physiological, mental, economic, cultural or social identity;
+“personal data” means any information relating to an identified or identifiable natural
+person (‘data subject’).
+Scope
+3. (1) These Regulations apply to business and to consumer electronic commerce.
+(2) These Regulations are not applicable to transactions between individuals acting in a
+non-business capacity.
+Objectives
+
+4. The objectives of these Regulations are to regulate –
+(a) fair business practices;
+(b) advertising and marketing;
+(c) disclosure of the identity and location of suppliers;
+(d) disclosure of the terms and conditions of contracts;
+(e) the implementation of mechanisms for concluding contracts for the establishment of
+fair and effective procedures for handling complaints and resolving disputes;
+(f) the adoption of privacy principles;
+(g) the use and disclosure of information about payment; and
+(h) security and authentication mechanisms;
+
+S4
+Compliance with these Regulations
+5. Any business engaging in electronic commerce directed at consumers or any business or
+industry association whose members engage in electronic commerce directed at
+consumers shall comply with the provisions of these Regulations.
+
+Existing laws and regulations
+6. (1) These Regulations are in addition to and not a replacement for other obligations that
+may exist as a result of consumer protection in terms of other laws, codes of conduct and
+regulatory mechanisms.
+(2) Compliance with the requirements of this Regulation does not exempt a business from
+compliance with any other such obligations.
+(3) In the event of an inconsistency with any existing law, that law will take precedence
+over the provisions of the Regulations.
+
+Fair business practices
+7. (1) A Supplier shall adopt fair business practices when dealing with consumers.
+(2) In particular sections 4, 5, 7, and 10-19 of the Fair Trading Act of 2001 which prohibits
+suppliers from engaging in any conduct that amounts to –
+(a) engaging in misleading or deceptive conduct generally;
+(b) misleading the public in relation to goods or services;
+
+(c) making false representation in respect of goods or services in connection with the
+supply of goods or services or with promotions;
+(d) engaging in misconduct in relation to the forgery or false application of trademarks;
+(e) offering of gifts and prizes with the intention of not providing them as offered;
+(f) trading, supplying or arranging for the supply of trading stamps or stamp schemes;
+(g) engaging in bait advertising;
+(h) inducing another to engage in referral selling;
+(i) demanding or accepting payment without intending to supply the goods or services
+as ordered;
+(j) making misleading representations regarding certain business activities;
+(k) the use of harassment or coercion in relation to the supply of or payment for goods
+and services;
+(l) promoting or operating a pyramid scheme; and
+(m) importing goods bearing false trade descriptions or false trade marks
+shall apply with necessary modifications to any supplier offering electronic commerce
+in Swaziland.
+S5
+Advertising and marketing
+8. A Supplier shall –
+(a) ensure that advertising and marketing material is clearly identifiable as such and can
+be distinguished from other content, including editorial comments, terms and
+conditions of contracts and independent product reviews, where this may not be
+reasonably apparent;
+(b) ensure that the suppliers of the supplier are identifiable from advertising; and
+(c) be able to substantiate advertising or marketing claims, where consumers could be
+reasonably expected to rely upon such claims.
+Information on the identification of suppliers
+9. (1) A Supplier shall provide consumers with accurate, clear and easily accessible
+information that is sufficient to enable –
+(a) identification of suppliers involved in a particular transaction; and
+
+(b) prompt, easy, and effective communication with suppliers regarding such a
+transaction.
+(2) The information referred to in subsection (1) shall include –
+(a) the name under which suppliers’ trades and, where the supplier is a registered
+company, the name of the company;
+(b) the physical and postal address of the supplier;
+(c) e-mail address, telephone number and other contact information where enquiries can
+be directed;
+(d) any relevant statutory registration or licence numbers; and
+(e) whereas supplier publicises its membership of any relevant self-regulatory scheme,
+business association, dispute resolution organisation or other certification body, the
+supplier shall provide consumers with appropriate contact details, an easy method of
+identifying that membership and of accessing the relevant codes of practice of that
+body.
+Contractual Information
+10. (1) A supplier engaged in electronic commerce shall provide a consumer with a clear and
+complete text of the terms and conditions of the contract in a manner that enables
+consumers to make fully informed decision whether or not to enter into the transaction.
+(2) Information concerning the terms and conditions of a contract shall be clearly
+identified and distinguished from advertising and marketing material.
+(3) Information shall be clear, accurate, easily accessible, and provided in a manner that
+gives consumers an adequate opportunity for review before entering into the transaction.
+(4) A supplier shall provide all information online which they are required to provide offline
+either by law or by any relevant code of practice to which they subscribe.
+S6
+(5)
+Where there is a legislative or other mandatory regime for the disclosure of contractual information,
+compliance with that regime is sufficient to meet the obligation of these Regulations in relation to the
+disclosure of that information.
+
+(6)
+
+The manner of providing this information shall allow the consumer to retain a copy of the information.
+
+(7)
+
+All information that refers to costs shall indicate the Swazi currency (lilangeni).
+
+Information on transactions
+
+11. Where applicable and appropriate given the nature of the transaction, the information relating to
+a particular transaction shall include –
+
+(a) the functionality, including applicable technical protection measures, of digital content;
+(b) any relevant compatibility of digital content with hardware and software that the supplier is aware
+of or can reasonably be expected to have been aware of;
+(c) mandatory safety and health care warnings that a consumer would get at the offline point of sale;
+(d) as far as the calculation of the costs payable is concerned either –
+(i)
+
+an itemisation of all costs collected by suppliers, or
+
+(ii) where the total cost of a transaction cannot be ascertained in advance, a statement that a
+total
+cost cannot be provided and a description of the method that will be used to calculate it,
+including
+any recurrent costs and the methods used to calculate them;
+
+(e) notice of the existence of other costs to the consumer that are not collected by suppliers,
+this may include delivery, postage, handling and insurance and, where it would be
+reasonably known to suppliers, including taxes and other levies;
+(f) in the case of a contract of indeterminate duration or a contract containing a subscription, the total
+costs per billing period or (where such contracts are charged at a fixed rate) the total month costs;
+(g) notice on-going costs, fees and charges and methods of notification for changes of those costs, fees
+and charges;
+(h) if limited, the period for which the offer is valid;
+(i)
+
+any restrictions, limitations or conditions of the contract, such as geographic limitations or parental
+or guardian approval requirement for minors;
+
+(j)
+
+the terms of delivery;
+
+(k) conditions related to termination, return, exchange, cancellation and refunds;
+(l)
+
+details of any applicable cooling-off period or right of withdrawal, including the conditions, time limit
+and procedure for exercising that right;
+
+(m) the circumstances under which the consumer loses the right to cancel;
+
+S7
+(n) any conditions related to contract renewal or extension;
+(o) details of any explicit warranty provisions offered by the manufacturer, supplier, or
+business;
+(p) details of any after-sales service provided; and
+(q) details of how to access complaints and dispute procedures referred to in regulations 1718.
+(3) where applicable, that the consumer will have to bear the cost of returning the goods in
+case of cancellation, and if the goods, by their nature, cannot normally be returned by post,
+the cost of returning the goods.
+Conclusion of contract
+12. (1) A supplier shall implement mechanisms that allow an opportunity for the consumer to
+–
+(a) review and accept or reject the terms and conditions of the contract;
+(b) identify precisely the product or service consumers intend to purchase or avail;
+(c) identify and correct any errors or modify the order, and
+(d) retain a record of any purchase or order, transaction confirmation, acceptance of any
+offer they make.
+(2) A supplier shall promptly send the consumer a confirmation that the contract has been
+concluded on a durable medium.
+(3) The confirmation shall include all the information referred to in regulation 11, unless the
+supplier has already provided that information to the consumer on a durable medium prior
+to the conclusion of the distance contract.
+(4) If the contract is for the supply of digital content and the consumer has given the
+consent and acknowledgement referred to in regulation 13, the confirmation shall include
+confirmation of the consent and acknowledgement.
+(5) Subject to regulation 13, the confirmation shall be provided within a reasonable time
+after the conclusion of the contract, but in any event –
+(a) not later than the time of delivery of any goods supplied under the contract, and
+(b) before performance begins of any service supplied under the contract.
+(6) For the purpose of sub-regulation (5), the confirmation is treated as provided as soon
+as the supplier has sent it or done what is necessary to make it available to the consumer.
+
+Supply of digital content in the cooling-off period
+13. (1) A consumer is entitled to cancel without any reason and without penalty any
+transaction and any related credit agreement for the electronic supply of digital content
+within seven days after the date of conclusion of the contract.
+(2) Under a contract for the electronic supply of digital content, the supplier shall not begin
+the supply of the digital content before the end of the cooling-off period unless –
+S8
+(a) the consumer has given express consent to the supply of the digital content; and
+(b) the consumer has acknowledged that the right to cancel the contract under subregulation (1) will be lost.
+(3)
+The consumer ceases to have the right to cancel such a contract if the consumer
+has given the consent and acknowledgement required by sub-regulation (2), and the
+electronic delivery of the digital content has begun before the end of the cooling-off
+period.
+(4)
+The consumer bears no cost for supply of the digital content, in full or in part, in the
+cooling-off period, if –
+(a) the consumer has not given prior express consent as required by sub-regulation 2(a);
+or
+(b) the consumer has not given acknowledgement as required by sub-regulation 2(b); or
+(c) the supplier failed to provide confirmation as required by regulation 12(4).
+Privacy
+14. (1) A supplier shall respect consumers’ privacy in collecting and handling consumers’
+personal data.
+(2) A supplier may collect, collate, process or disclose any personal data pertaining to
+a consumer if –
+(a) the consumer consents;
+(b) it is necessary for the conclusion or performance of a contract to which the
+consumer is a party;
+(c) the supplier is obliged by law to collect, collate, process or disclose the personal
+data;
+(d) doing so protects a legitimate interest of the consumer;
+(e) it is necessary for the proper performance of a public law duty to a public body;
+
+(f) it is necessary for pursuing the legitimate interests of the supplier of a third party to
+whom the information is supplied.
+(3) A supplier may not electronically request, collect, collate, process or store personal
+data which is not necessary for the lawful purposes for which the personal information
+is required.
+(4) A supplier shall disclose in writing to the consumer the specific purpose for which
+any personal data is being requested, collected, collated, processed or stored.
+(5) The supplier may not use the personal information for any other purpose than the
+disclosed purpose without the express written permission of the consumer, unless the
+supplier is permitted or required to do so by law.
+(6) The supplier shall, for as long as the personal data is used and for a period of at
+least one year thereafter, keep a record of the personal data and the specific purpose
+for which the personal data was collected.
+(7) A supplier may not disclose any of the personal data held by it to a third party,
+unless required or permitted by law or specifically authorised to do so in writing by the
+consumer.
+S9
+(8) The supplier shall, for as long as the personal data is used and for a period of at least
+one year thereafter, keep a record of any third party to whom the personal data was
+disclosed and of the date on which and the purpose for which it was disclosed.
+(9) The supplier shall delete or destroy all personal data which is no longer in use in terms
+of sub-regulation (6) unless the supplier is permitted or obliged by law to retain the personal
+data.
+(10) A party may use personal information to compile profiles for statistical purposes and
+may freely trade with such profiles and statistical data, as long as the profiles or statistical
+data does not constitute personal data.
+(11) A supplier shall provide a consumer with clear and easily accessible information online
+about the way in which they retain and use personal information and personal data.
+Payment
+15. (1) A supplier shall make available to consumers payment mechanisms that are easy to
+use and offer a level of security that is appropriate for the method and level of payment.
+(2) The supplier shall ensure that the consumer, when placing the order, explicitly
+acknowledges that the order implies an obligation to pay.
+
+(3) If placing an order entails activating a button or a similar function, the supplier shall
+ensure that the button or similar function is labelled in an easily legible manner only with
+the words ‘order with obligation to pay’ or a corresponding unambiguous formulation
+indicating that placing the order entails an obligation to pay the supplier.
+(4) A supplier shall ensure that consumers have access to information on –
+(a) the available methods of making payments;
+(b) the security of those payment methods in clear, simple language in order to assist
+consumers to judge the level of risk in relying on those methods; and
+(c) how to effectively use those methods.
+(5) A supplier shall implement reasonable measures to update the payment mechanisms
+they use to ensure the level of security offered is maintained at an appropriate level over
+time.
+Security and authentication
+16. (1) A supplier shall –
+(a) ensure that consumers have access to information about the security and
+authentication mechanisms that the business uses in clear, simple language in order
+to assist consumers to judge the level of risk in relying on those systems;
+(b) provide a level of security appropriate for protecting consumers’ personal and
+payment information;
+(c) provide appropriate levels of security for identification and authentication
+mechanisms to be used by consumers;
+(d) not encourage consumers to provide confidential information in a manner that is
+considered insecure; and
+S10
+(e) implement reasonable measures to update the security and authentication
+mechanisms they use to ensure the level of security offered is maintained at an
+appropriate level over time.
+Internal complaint handling mechanisms
+17. (1) A supplier shall set up and make operational an internal complaint handling
+mechanism for consumer complaints.
+(2) The internal complaint handling mechanism shall address and respond to consumer
+complaints and difficulties –
+(a) within a reasonable time;
+(b) in a reasonable manner;
+
+(c) free of charge to the consumer; and
+(d) without prejudicing the rights of the consumer to seek legal redress.
+(3) A supplier shall provide clear and easily accessible information to consumers on
+complaint handling procedures.
+(4) The supplier shall resolve the consumer’s complaints within five days of the lodging of
+the complaint.
+(5) If a consumer is unsatisfied with the resolution provided by supplier’s internal complaint
+handling mechanism, the suppliers shall provide the consumer with information regarding
+the alternative dispute resolution offered by the Commission.
+
+Alternate dispute resolution (ADR)
+18. (1) The alternate dispute resolution mechanism shall be accessible, efficient; and, without
+prejudice to judicial redress.
+(2) The Commission shall appoint ADR adjudicators for the investigation and resolution of
+any consumer complaints which have been brought to the attention of the Commission
+in terms of Section 36(1) of the Act.
+(3) The Commission shall appoint qualified persons as ADR adjudicators and an
+adjudicator shall be a person with a legal background and has knowledge and
+understanding of the communication industry.
+
+Dispute
+19. (1) A consumer may initiate a dispute by submitting a complaint in electronic format to
+the Commission.
+(2) The consumer shall –
+(a)
+
+request that the dispute be subjected to adjudication;
+
+(b)
+
+provide name, physical address (a domicilium citandi et executandi within the
+Kingdom of Swaziland), email address and telephone and fax numbers, and of any
+representative authorised to act on behalf of the consumer in the dispute;
+
+S11
+(c) provide details of the supplier including the name and all contact information of the
+suppliers to enable the Commission to send a copy of the dispute to the supplier as
+provided for in terms of regulation 20;
+(d) specify, in detail, the facts on which the dispute is based;
+
+(e) annex any documentary or other evidence, together with a schedule indexing such
+evidence; and
+(f) submit any other evidence available in electronic form.
+Notification of Dispute
+20. (1) The Commission shall ensure that the dispute complies with the provisions of those
+regulations, and that the prescribed fee has been paid.
+(2) If the dispute complies with these regulations, the Commission shall forward a copy of
+the dispute to the supplier and this date shall be the date of commencement of the
+dispute.
+(3) If the Commission finds that the dispute does not comply with these regulations, the
+Commission shall immediately notify the consumer of the nature of the non-compliance.
+(4) The consumer shall within five days correct any non-compliance, failing which the
+dispute is deemed to have been withdrawn, and can only be cured by the filing of a new
+dispute.
+Response
+21. (1) The supplier shall within twenty (20) days of the date of commencement of the dispute
+submit a response in electronic format to the Commission.
+(2) The response shall –
+(a) respond to the statements and allegations contained in the dispute and detail any
+grounds to prove that the supplier is not in breach;
+(b) provide the name, physical address (a domicilium citandi et executandi within the
+Kingdom of Swaziland), e-mail addresses and the telephone and fax numbers of the
+supplier and of any representative authorised to act on behalf of the supplier in the
+dispute;
+(c) identify any other legal proceedings that have been commenced or terminated in
+connection with or relating to the subject matter of the dispute;
+(d) annex any documentary or other evidence, together with a schedule indexing such
+evidence; and
+(e) submit by any other evidence available in electronic form.
+(3) If the supplier does not submit a response, the ADR panel shall decide the matter based
+on the dispute contemplated in regulation 19(1).
+Reply
+22. (1) The consumer may within five days of receiving the supplier’s response from the
+Commission, submit a reply to the Commission.
+
+(2) The reply referred to in sub-regulation (1) shall be submitted in electronic format.
+S12
+Impartiality and Independence
+23. (1) The Commission shall appoint a DR adjudicator once the time period of the submission
+of a reply as contemplated in regulation 22(1) has expired.
+(2) The ADR adjudicator shall be impartial and independent and the adjudicator shall
+disclose to the Commission any circumstances affecting impartiality or independence
+before accepting an appointment to decide a dispute.
+(3) If at any stage during the dispute, circumstances arise that may affect the impartiality
+or independence of the ADR adjudicator, then the adjudicator shall promptly disclose
+such circumstances to the Commission.
+(4) If an ADR adjudicator has disclosed circumstances that may affect the impartiality or
+independence of the ADR, the Commission shall determine whether an alternate ADR
+adjudicator should be appointed.
+General Powers of the ADR adjudicator
+24. (1) An adjudicator shall ensure that the parties are treated with equality and that each
+party is given a fair opportunity to present its case.
+(2) An adjudicator shall ensure that the dispute is handled an expeditiously as possible.
+(3) An adjudicator shall determine the admissibility, relevance, materiality and weight of
+the evidence.
+Further statements
+25. In addition to a dispute, a response, and a reply, the ADR adjudicator may request further
+statements or documents relevant to the dispute, response or reply from either of the
+parties.
+Default
+26. (1) If a party does not comply with any of the time periods established by this ADR
+procedure or the Commission, the ADR adjudicator shall proceed to a decision on the
+dispute.
+(2) If a party does not comply with any provisions of or requirement under this procedure
+or any request from the Commission, the ADR adjudicator may, in the absence of
+exceptional circumstances, draw such inference therefrom, as the adjudicator considers
+appropriate.
+ADR Adjudicator Decisions
+
+27. (1) ADR adjudicator shall decide a dispute in accordance with the principles of law, on he
+basis of the dispute, response, and reply, if any, and further statements or documents
+submitted in accordance with these Regulations.
+(2) The ADR adjudicator shall forward its decision on the dispute to the Commission within
+14 days of its appointment under regulation 23(1).
+(3) The decision shall be in writing, provide the reasons on which it is based, indicate the
+date on which it was rendered and identify the name of the adjudicator.
+Appeal
+28. (1) Either party shall have the right to appeal a decision made by an adjudicator by
+submitting a statement of intention to appeal with the Secretary of the Appeals Board.
+(2) The procedure before the Appeals Board presented in Section 47 of the Act, shall apply
+mutatis mutandis to appeals in terms of this Regulation.
+
+Burden of proof
+29. (1) In case of dispute about the supplier’s compliance with any provisions of this
+Regulation, it is for the supplier to show that the provision was complied with.
+
+Penalties
+30. (1) The Appeals Tribunal shall after hearing both parties make an appropriate order and
+such order shall also include an order as to costs.
+(2) The Commission shall publish a list of applicable costs for purposes of sub-regulation (1).
+
+Applicable law and forum
+31. (1) Where a supplier specifies an applicable law or jurisdiction to govern any contract or
+dispute, it should clearly and conspicuously state that information at the earliest possible
+stage of the consumer’s interaction with the supplier.
+(2) A supplier or its subsidiary based in Swaziland that enters into a contract with a
+consumer whom the supplier reasonably believes is resident in Swaziland, based
+information or address details supplied by the consumer, should specify that the governing
+law of that contract is the law of Swaziland and that disputes arising under the contract
+shall be determined by courts or tribunals of Swaziland.
+
+DUMISANI NDLANGAMANDLA
+MINISTER FOR INFORMATION, COMMUNICATIONS AND TECHNOLOGY
+
+

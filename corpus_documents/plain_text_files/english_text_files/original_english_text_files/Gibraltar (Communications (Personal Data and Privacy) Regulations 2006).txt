@@ -1,0 +1,1799 @@
+2006-15
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+Regulations made under s. 9.
+
+COMMUNICATIONS (PERSONAL DATA AND
+PRIVACY) REGULATIONS 2006
+
+(LN. 2006/074)
+5.6.2006
+Amending
+enactments
+LN. 2011/071
+
+2012/167
+
+2013/069
+2018/124
+2019/211
+Act.2018-12
+
+Relevant current
+provisions
+
+Commencement
+date
+
+rr. 2, 4(1A) & (1B), 4A, 5, 6(3), 8, 11, 12,
+13, 14, 20, 21, 22, 23, 24, 25A, 26(1), (2)
+& (3), 28, 29A, 31A & 32
+rr. 4(1C), 5(4)(a), (b) & (c), 6(3)(a), (b),
+(c) & (d), 7(1), 15(2) (a), (b) & (c), 15A15F
+rr. 26(1), (2), (3), (4) & (5) & 27(1), (2),
+(3), (4) & (5)
+rr. 2(1), 31
+r. 2(1), (4)
+rr. 2(1), 4(1B)-(1C), 4A(1), (3), (5), (7)(9), (11), 15D, 15F, 29A, 32
+
+26.5.2011
+
+22.11.2012
+25.4.2013
+25.5.2018
+25.10.2019
+1.6.2021
+
+EU Legislation/International Agreements involved:
+Directive 2002/58/EC
+Directive 2006/24/EC
+Directive 2009/136/EC
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+ARRANGEMENT OF REGULATIONS.
+
+Regulation
+1.
+Title.
+2.
+Interpretation.
+3.
+Relationship between these regulations and the Data Protection Act
+2004.
+4.
+Security of Processing.
+4A. Personal data breach.
+5.
+Confidentiality of communications.
+7.
+Further provisions relating to the processing of traffic data under
+regulation 6.
+8.
+Prohibition on interception.
+9.
+Commercial transactions.
+10. Itemised billing and privacy.
+11. Prevention of calling line identification - outgoing calls.
+12. Prevention of calling or connected line identification - incoming calls.
+13. Publication of information for the purposes of regulations 11 and 12.
+14. Co-operation of communications providers for the purposes of
+regulations 11 and 12.
+15. Restrictions on the processing of location data.
+15A. Retention of data: general.
+15B. Retention of data: unsuccessful call attempts.
+15C. Additional security requirements.
+15D. Transmission of requested data.
+15E. Unlawful disclosure of data.
+15F. Reporting to European Commission.
+16. Tracing of malicious or nuisance calls.
+17. Emergency calls.
+18. Termination of automatic call forwarding.
+19. Directories of subscribers.
+20. Use of automated calling and communication systems.
+21. Use of facsimile machines for direct marketing purposes.
+22. Unsolicited calls for direct marketing purposes.
+23. Use of electronic mail for direct marketing purposes.
+24. Use of electronic mail for direct marketing purposes where the identity
+or address of the sender is concealed.
+25. Information to be provided for the purposes of regulations 20, 21 and
+22.
+25A. Redress for infringements.
+26. Register to be kept for the purposes of regulation 21.
+27. Register to be kept for the purposes of regulation 22.
+28. Modification of contracts.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+29. Legal requirements, law enforcement etc.
+29A. Responding to requests for access to personal data
+30. Proceedings for compensation for failure to comply with requirements
+of the these regulations.
+31A. Penalties.
+31. Enforcement - extension of Part V of the Data Protection Act 2004.
+32. Request that the Information Commissioner exercises his enforcement
+functions.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+In exercise of the powers conferred on me by section 9 of the
+Communications Act 2006 and in order to transpose into the law of
+Gibraltar Directive 2002/58/EC of the European Parliament and of the
+Council of 12 July 2002 concerning the processing of personal data and the
+protection of privacy in the electronic communications sector I have made
+the following regulations.
+Title.
+1. These regulations may be cited as the Communications (Personal Data
+and Privacy) Regulations 2006.
+Interpretation.
+2.(1) In these regulations
+“bill” includes an invoice, account, statement or other document of
+similar character and "billing" shall be construed accordingly;
+“communication”–
+(a)
+
+means any information exchanged or conveyed between a finite
+number of parties by means of a publicly available electronic
+communications service, but excluding any information
+conveyed as part of a broadcasting service to the public over an
+electronic communications network except to the extent that
+the information can be related to the identifiable subscriber or
+user receiving the information;
+
+(b)
+
+excludes any information falling within the scope of paragraph
+(a) but concerning public security, defence, State security
+(including the economic well-being of the State when the
+activities relate to State security matters) and the activities of
+the State in areas of criminal law;
+
+“communications provider” means a person who is authorised to provide
+an electronic communications network or an electronic
+communications service pursuant to the Communications
+(Authorisation and Licensing) Regulations 2006;
+“consent” by a user or subscriber corresponds to the data subject’s
+consent in the GDPR (as defined in the definition of “the Gibraltar
+GDPR” at section 2(1) of the Data Protection Act 2004);
+“corporate subscribe” means a subscriber who is
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+(a)
+
+a company within the meaning of the Companies Act;
+
+(b)
+
+any other body corporate or entity which is a legal person
+distinct from its members;
+
+“the Directive” means Directive 2002/58/EC of the European Parliament
+and of the Council of 12 July 2002, concerning the processing of
+personal data and the protection of privacy in the electronic
+communications sector (the Privacy Directive), as the same may be
+amended from time to time;
+“electronic mail” means any text, voice, sound or image message sent
+over a publicly available electronic communications network which
+can be stored in the network or in the recipient's terminal
+equipment until it is collected by the recipient and includes
+messages sent using a short message service;
+“individual” means a living individual and includes an unincorporated
+body of such individuals;
+“the Information Commissioner” and “the Commissioner” both mean the
+Commissioner designated under the Data Protection Act 2004;
+“information society service” has the meaning given in regulation 2 of
+the Electronic Commerce Act 2001;
+“location data” means any data processed in an electronic
+communications network or by an electronic communications
+service, indicating the geographic position of the terminal
+equipment of a user of a publicly available electronic
+communications service;”
+“personal data breach” means a breach of security leading to the
+accidental or unlawful destruction, loss, alteration, unauthorised
+disclosure of, or access to, personal data transmitted, stored or
+otherwise processed in connection with the provision of a publicly
+available electronic communications service in the European
+Union;
+“traffic data” means any data processed for the purpose of the
+conveyance of a communication on an electronic communications
+network or for the billing in respect of that communication and
+includes data relating to the routing, duration or time of a
+communication;
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+“user” means any individual using a publicly available electronic
+communications service; and
+“value added service” means any service which requires the processing of
+traffic data or location data beyond that which is necessary for the
+transmission of a communication or the billing in respect of that
+communication.
+(2) In these regulations references to a telephone number shall be
+construed in accordance with section 35 of the principal Act, but does not
+include any number which is used as an internet domain name, an internet
+address or an address or identifier incorporating either an internet domain
+name or an internet address, including an electronic mail address.
+(3) Expressions used in these regulations that are not defined in subregulation (1) and are defined in the Data Protection Act 2004 or the
+principal Act shall have the same meaning as in that Act or the Data
+Protection Act 2004 as the case may be.
+(4) Deleted.
+(5) Any reference in these regulations to a line shall, without prejudice to
+sub-regulation (4), be construed as including a reference to anything that
+performs the function of a line, and "connected", in relation to a line, is to be
+construed accordingly.
+Relationship between these regulations and the Data Protection Act
+2004.
+3. Nothing in these regulations shall relieve a person of his obligations
+under the Data Protection Act 2004 in relation to the processing of personal
+data.
+Security of Processing.
+4.(1) Subject to sub-regulation (2), a provider of a publicly available
+electronic communications service (“the service provider”) shall take
+appropriate technical and organisational measures to safeguard the security
+of that service.
+(1A) Without prejudice to the Data Protection Act 2004, the measures
+referred to in sub-regulation (1) shall–
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+(a)
+
+ensure that personal data can be accessed only by authorised
+personnel for legally authorised purposes;
+
+(b)
+
+protect personal data stored or transmitted against accidental or
+unlawful destruction, accidental loss or alteration, unauthorised
+or unlawful storage, processing, access or disclosure; and
+
+(c)
+
+ensure the implementation of a security policy with respect to
+the processing of personal data.
+
+(1B) The Information Commissioner may audit the measures taken by
+service providers and issue recommendations about best practices
+concerning the level of security which such measures should achieve.
+(1C) The Information Commissioner shall be responsible for monitoring
+the measures taken by service providers in respect of data retained pursuant
+to regulation 15C.
+(2) If necessary, the measures required by sub-regulation (1) may be taken
+by the service provider in conjunction with the provider of the electronic
+communications network by means of which the service is provided, and
+that network provider shall comply with any reasonable requests made by
+the service provider for these purposes.
+(3) Where, notwithstanding the taking of measures as required by subregulation (1), there remains a significant risk to the security of the publicly
+available electronic communications service, the service provider shall
+inform the subscribers concerned of
+(a)
+
+the nature of that risk;
+
+(b)
+
+any appropriate measures that the subscriber may take to
+safeguard against that risk; and
+
+(c)
+
+the likely costs to the subscriber involved in the taking of such
+measures.
+
+(4) For the purposes of sub-regulation (1), a measure shall only be taken to
+be appropriate if, having regard to
+(a)
+
+the state of technological developments; and
+
+(b)
+
+the cost of implementing it,
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+it is proportionate to the risks against which it would safeguard.
+(5) Information provided for the purposes of sub-regulation (3) shall be
+provided to the subscriber free of any charge other than the cost to the
+subscriber of receiving or collecting the information.
+Personal data breach.
+4A.(1) A service provider shall, as soon as reasonably practicable and with
+undue delay, notify the Information Commissioner of any personal data
+breach.
+(2) When the personal data breach is likely to adversely affect the
+personal data or privacy of a subscriber or individual, the service provider
+shall also notify the subscriber or individual of the breach as soon as
+reasonably practicable and without undue delay.
+(3) Notification of a personal data breach to a subscriber or individual
+concerned shall not be required if the provider has demonstrated to the
+satisfaction of the Information Commissioner that it has implemented
+appropriate technological protection measures, and that those measures were
+applied to the data concerned by the security breach.
+(4) The technological protection measures referred to in sub-regulation
+(3) shall be such as to render the data unintelligible to any person who is not
+authorised to access it.
+(5) Without prejudice to the provider’s obligation to notify subscribers
+and individuals concerned pursuant to sub-regulation (2), if the provider has
+not already notified the subscriber or individual of the personal data breach,
+the Information Commissioner, having considered the likely adverse effects
+of the breach, may require it to do so.
+(6) The notification to the subscriber or individual shall, as a minimum,
+contain the following information–
+(a)
+
+a description of the nature of the personal data breach;
+
+(b)
+
+the contact points where more information can be obtained; and
+
+(c)
+
+a recommendation of the measures that can be taken to mitigate
+the possible adverse effects of the personal data breach.
+
+(7) The notification to the Information Commissioner shall, in addition
+to the information set out in sub-regulation (6), also contain a description of
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+the consequences of, and the measures proposed or taken by the provider to
+address, the personal data breach.
+(8) Subject to any technical implementing measures adopted by the
+European Commission pursuant to Article 4 (5) of the Privacy Directive, the
+Information Commissioner may adopt guidelines and, where necessary,
+issue instructions concerning the circumstances in which providers are
+required to notify personal data breaches, the format of such notifications
+and the manner in which the notification is to be made.
+(9) The Information Commissioner may audit whether providers have
+complied with their notification obligations under this regulation.
+(10) A service provider who fails to comply with the requirements of this
+regulation commits an offence.
+(11) Service providers shall maintain an inventory of personal data
+breaches comprising–
+(a)
+
+the facts surrounding the breach;
+
+(b)
+
+the effects of the breach; and
+
+(c)
+
+the remedial action taken,
+
+which shall be sufficient to enable the Information Commissioner to verify
+compliance with the provisions of this regulation.
+(12) The inventory referred to in sub-regulation (11) shall only include
+the information necessary for the purposes of that sub-regulation.
+Confidentiality of communications.
+5.(1) Subject to sub-regulation (4), a person shall not store information, or
+gain access to information stored, in the terminal equipment of a subscriber
+or user unless the requirement of sub-regulation (2) is met.
+(2) The requirement is that the subscriber or user of that terminal
+equipment has given his consent, having been provided with clear and
+comprehensive information, in accordance with the provisions of the Data
+Protection Act 2004, about the purposes of the storage of, or access to, that
+information.
+(3) Where an electronic communications network is used by the same
+person to store or access information in the terminal equipment of a
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+subscriber or user on more than one occasion, it is sufficient for the
+purposes of this regulation that the requirement of sub-regulation (2) is met
+in respect of the initial use.
+(4) Sub-regulation (1) shall not apply to the technical storage of, or
+access to, information–
+(a)
+
+for the sole purpose of carrying out the transmission of a
+communication over an electronic communications network;
+
+(b)
+
+where such storage or access is strictly necessary for the
+provision of an information society service requested by the
+subscriber or user to provide the service; or
+
+(c)
+
+where such storage or access are strictly necessary for
+compliance with regulations 15A and 15B.
+
+Restrictions on the processing of certain traffic data.
+6.(1) Subject to sub-regulations (2) and (3), traffic data relating to
+subscribers or users which are processed and stored by a public
+communications provider shall, when no longer required for the purpose of
+the transmission of a communication, be
+(a)
+
+erased;
+
+(b)
+
+in the case of an individual, modified so that they cease to
+constitute personal data of that subscriber or user; or
+
+(c)
+
+in the case of a corporate subscriber, modified so that they
+cease to be data that would be personal data if that subscriber
+was an individual.
+
+(2) Traffic data held by a public communications provider for purposes
+connected with the payment of charges by a subscriber or in respect of
+interconnection payments may be processed and stored by that provider until
+the time specified in sub-regulation (5).
+(3) Traffic data relating to a subscriber or user may be processed and
+stored by a service provider if–
+(a)
+
+such processing and storage are for the purpose of marketing
+electronic communications services, or for the provision of
+value added services to that subscriber or user;
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+(b)
+
+the subscriber or user to whom the traffic data relate has given
+his prior consent to such processing or storage;
+
+(c)
+
+such processing and storage are undertaken only for the
+duration necessary for the purposes specified in paragraph (a);
+and
+
+(d)
+
+such processing and storage are necessary for compliance with
+regulation 15A and 15B.
+
+(4) Where a user or subscriber has given his consent in accordance with
+sub-regulation (3), he shall be able to withdraw it at any time.
+(5) The time referred to in sub-regulation (2) is the end of the period
+during which legal proceedings may be brought in respect of payments due
+or alleged to be due or, where such proceedings are brought within that
+period, the time when those proceedings are finally determined.
+(6) Legal proceedings shall not be taken to be finally determined
+(a)
+
+until the conclusion of the ordinary period during which an
+appeal may be brought by either party (excluding any
+possibility of an extension of that period, whether by order of a
+court or otherwise), if no appeal is brought within that period;
+or
+
+(b)
+
+if an appeal is brought, until the conclusion of that appeal.
+
+(7) References in sub-regulation (6) to an appeal include references to an
+application for permission to appeal.
+Further provisions relating to the processing of traffic data under
+regulation 6.
+7.(1) With the exception of regulation 6(3)(d), processing of traffic data in
+accordance with regulation 6(2) or (3) shall not be undertaken by a public
+communications provider unless the subscriber or user to whom the data
+relate has been provided with information regarding the types of traffic data
+which are to be processed and the duration of such processing and, in the
+case of processing in accordance with regulation 6(3), he has been provided
+with that information before his consent has been obtained.
+(2) Processing of traffic data in accordance with regulation 6 shall be
+restricted to what is required for the purposes of one or more of the activities
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+listed in sub-regulation (3) and shall be carried out only by the public
+communications provider or by a person acting under his authority.
+(3) The activities referred to in sub-regulation (2) are activities relating to
+(a)
+
+the management of billing or traffic;
+
+(b)
+
+customer enquiries;
+
+(c)
+
+the prevention or detection of fraud;
+
+(d)
+
+the marketing of electronic communications services; or
+
+(e)
+
+the provision of a value added service.
+
+(4) Nothing in these regulations shall prevent the furnishing of traffic data
+to a person who is competent for the purposes of any provision relating to
+the settling of disputes (by way of legal proceedings or otherwise) which is
+contained in, or made by virtue of, any enactment.
+Prohibition on interception.
+8.(1) Subject to the following provisions of this regulation, a person who
+intentionally intercepts a communication or the related data in the course of
+its transmission by means of a publicly available electronic communications
+service shall be guilty of an offence.
+(2) A person shall not be guilty of an offence under this regulation if
+(a)
+
+the communication is intercepted in accordance with such
+statutory provision or rule of law as may be relevant in the
+circumstances;
+
+(b)
+
+that person has reasonable grounds for believing that the person
+to whom, or the person by whom, the communication is sent
+has consented to the interception; or
+
+(c)
+
+the communication is intercepted for purposes connected with
+the provision of a publicly available electronic communications
+service or the related data traffic or with the enforcement of any
+enactment relating to the provision or user of those services.
+
+(3) In this regulation
+“address” includes an electronic address;
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+Subsidiary
+2006/074
+
+“intercept” includes the listening to, tapping of, storage of or surveillance
+of electronic communications and the related traffic;
+“intercepted material”, in relation to a warrant, means
+communications intercepted in obedience to that warrant;
+
+the
+
+“person” includes any organisation and any association or combination of
+persons.
+Commercial transactions.
+9. Nothing in regulation 8 shall affect the legally authorised recording of
+communications and related traffic data when carried out in the course of
+lawful business practice for the purpose of providing evidence of a
+commercial transaction or of any other business communication.
+Itemised billing and privacy.
+10.(1) At the request of a subscriber, a provider of a publicly available
+electronic communications service shall provide that subscriber with bills
+that are not itemised.
+(2) The Authority shall have a duty, when exercising its statutory functions
+in relation to electronic communications, to have regard to the need to
+reconcile the rights of subscribers receiving itemised bills with the rights to
+privacy of calling users and called subscribers, including the need for
+sufficient alternative privacy-enhancing methods of communications or
+payments to be available to such users and subscribers.
+Prevention of calling line identification - outgoing calls.
+11.(1) This regulation applies, subject to regulations 16 and 17, to outgoing
+calls where a facility enabling the presentation of calling line identification
+is available.
+(2) The service provider shall provide users originating a call by means
+of that service with a simple means to prevent presentation of the identity of
+the calling line on the connected line as respects that call.
+(3) The service provider shall provide subscribers to the service, as
+respects their line and all calls originating from that line, with a simple
+means of preventing presentation of the identity of that subscriber's line on
+any connected line.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+(4) The measures to be provided under sub-regulations (2) and (3) shall
+be provided free of charge.
+Prevention of calling or connected line identification - incoming calls.
+12.(1) This regulation applies to incoming calls.
+(2) Where a facility enabling the presentation of calling line identification
+is available, the service provider shall provide the called subscriber with a
+simple means to prevent, free of charge for reasonable use of the facility,
+presentation of the identity of the calling line on the connected line.
+(3) Where a facility enabling the presentation of calling line identification
+prior to the call being established is available, the service provider shall
+provide the called subscriber with a simple means of rejecting incoming
+calls where the presentation of the calling line identification has been
+prevented by the calling user or subscriber.
+(4) Where a facility enabling the presentation of connected line
+identification is available, the service provider shall provide the called
+subscriber with a simple means to prevent, without charge, presentation of
+the identity of the connected line on any calling line.
+(5) In this regulation “called subscriber” means the subscriber receiving a
+call by means of the service in question whose line is the called line
+(whether or not it is also the connected line).
+Publication of information for the purposes of regulations 11 and 12.
+13. Where a service provider provides facilities for calling or connected line
+identification, he shall provide information to the public regarding the
+availability of such facilities, including information regarding the options to
+be made available for the purposes of regulations 11 and 12.
+Co-operation of communications providers for the purposes of
+regulations 11 and 12.
+14. For the purposes of regulations 11 and 12, a communications provider
+shall comply with any reasonable requests made by the service provider by
+means of which facilities for calling or connected line identification are
+provided.
+Restrictions on the processing of location data.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+15.(1) This regulation shall not apply to the processing of traffic data.
+(2) Location data relating to a user or subscriber of a publicly available
+electronic communications network or a publicly available electronic
+communications service may only be processed
+(a)
+
+where that user or subscriber cannot be identified from such
+data;
+
+(b)
+
+where necessary for the provision of a value added service,
+with the consent of that user or subscriber; or
+
+(c)
+
+where necessary for compliance with regulation 15A and 15B.
+
+(3) Prior to obtaining the consent of the user or subscriber under subregulation (2)(b), the public communications provider in question must
+provide the following information to the user or subscriber to whom the data
+relate
+(a)
+
+the types of location data that will be processed;
+
+(b)
+
+the purposes and duration of the processing of those data; and
+
+(c) whether the data will be transmitted to a third party for the
+purpose of providing the value added service.
+(4) A user or subscriber who has given his consent to the processing of
+data under sub-regulation (2)(b) shall
+(a)
+
+be able to withdraw such consent at any time, and
+
+(b)
+
+in respect of each connection to the publicly available
+electronic communications network in question or each
+transmission of a communication, be given the opportunity to
+withdraw such consent, using a simple means and free of
+charge.
+
+(5) Processing of location data in accordance with this regulation shall
+(a)
+
+only be carried out by
+(i)
+
+the public communications provider in question;
+
+(ii)
+
+the third party providing the value added service in
+question; or
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+Subsidiary
+2006/074
+
+(iii)
+
+(b)
+
+a person acting under the authority of a person falling
+within (i) or (ii); and
+
+where the processing is carried out for the purposes of the
+provision of a value added service, be restricted to what is
+necessary for those purposes.
+
+Retention of data: general.
+15A. (1) This regulation applies to traffic and location data necessary to
+identify the subscriber or registered user.
+(2) A communications provider shall retain, to the extent that those data
+are generated or processed, the categories of data specified in subregulation
+(3) for the relevant period.
+(3)
+
+The categories of data are–
+(a)
+
+data necessary to trace and identify the source of a
+communication–
+(i)
+
+(ii)
+
+(b)
+
+concerning
+telephony–
+
+fixed
+
+network
+
+telephony and
+
+mobile
+
+(A)
+
+the calling telephone number; and
+
+(B)
+
+the name and address of the subscriber or
+registered user.
+
+concerning Internet access, Internet e-mail and Internet
+telephony–
+(A)
+
+any user ID allocated;
+
+(B)
+
+the user ID and telephone number allocated to
+any communication entering the public
+telephone network; and
+
+(C)
+
+the name and address of the subscriber or
+registered user to whom an Internet Protocol
+(IP) address, user ID or telephone number was
+allocated at the time of the communication.
+
+data necessary to identify the destination of a communication–
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+(i)
+
+(ii)
+
+(c)
+
+concerning fixed
+telephony –
+
+network
+
+telephony and
+
+mobile
+
+(A)
+
+the number dialled (the telephone number
+called), and, in cases involving supplementary
+services such as call forwarding or call
+transfer, the number or numbers to which the
+call is routed; and
+
+(B)
+
+the name and address of the subscriber or
+registered user.
+
+concerning Internet e-mail and Internet telephony–
+(A)
+
+the user ID or telephone number of the
+intended recipient of an Internet telephony
+call;
+
+(B)
+
+the name and address of the subscriber or
+registered user and user ID of the intended
+recipient of the communication.
+
+data necessary to identify the date, time and duration of a
+communication–
+(i)
+
+concerning fixed network telephony and mobile
+telephony, the date and time of the start and end of the
+communication; and
+
+(ii)
+
+concerning Internet access, Internet e-mail and Internet
+telephony–
+(A)
+
+the date and time of the log-in and log-off of
+the Internet access service, based on a certain
+time zone, together with the IP address,
+whether dynamic or static, allocated by the
+Internet access service provider to a
+communication, and the user ID of the
+subscriber or registered user; and
+
+(B)
+
+the date and time of the log-in and log-off of
+the Internet e-mail service or Internet
+telephony service, based on a certain time
+zone.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+(d)
+
+(e)
+
+data necessary to identify the type of communication–
+(i)
+
+concerning fixed network telephony and
+telephony – the telephone service used;
+
+(ii)
+
+concerning Internet e-mail and Internet telephony – the
+Internet service used.
+
+data necessary to identify users’ communication equipment or
+what purports to be their equipment–
+(i)
+
+concerning fixed network telephony, the calling and
+called telephone numbers;
+
+(ii)
+
+concerning mobile telephony–
+
+(iii)
+
+(f)
+
+mobile
+
+(A)
+
+the calling and called telephone numbers;
+
+(B)
+
+the International Mobile Subscriber Identity
+(IMSI) of the calling party;
+
+(C)
+
+the International Mobile Equipment Identity
+(IMEI) of the calling party;
+
+(D)
+
+the IMSI of the called party;
+
+(E)
+
+the IMEI of the called party; and
+
+(F)
+
+in the case of prepaid anonymous services, the
+date and time of the initial activation of the
+service and the location label (Cell ID) from
+which the service was activated.
+
+concerning Internet access, Internet e-mail and Internet
+telephony–
+(A)
+
+the calling telephone number for dial-up
+access; and
+
+(B)
+
+the digital subscriber line (DSL) or other end
+point of the originator of the communication.
+
+data necessary to identify
+communication equipment–
+
+the
+
+location
+
+of
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+mobile
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+(i)
+
+the location label (Cell ID) at the start of the
+communication; and
+
+(ii)
+
+data identifying the geographic location of cells by
+reference to their location labels (Cell ID) during the
+period for which communications data are retained.
+
+(4) Categories of data specified in subregulation (3) do not include data
+relating to unconnected calls.
+(5) This regulation does not apply to the content of electronic
+communications, including information consulted using an electronic
+communications network.
+(6) Data revealing the content of communications shall not be retained
+pursuant to this regulation.
+(7)
+
+In this regulation and in regulations 15B to 15E –
+
+“Cell ID” means the identity of the cell from which a mobile telephony
+call originated or in which it terminated;
+“data” means traffic data and location data and the related data necessary
+to identify the subscriber or user;
+“relevant period” means 12 months from the date of the communication;
+“telephone service” means calls (including voice, voicemail and
+conference and data calls), supplementary services (including call
+forwarding and call transfer) and messaging and multi-media
+services (including short message services, enhanced media
+services and multi-media services);
+“unsuccessful call attempt” means a communication where a telephone
+call has been successfully connected but not answered or there has
+been a network management intervention;
+“user” means any legal entity or natural person using a publicly available
+electronic communications service for private or business purposes,
+without necessarily having subscribed to that service; and
+“user ID” means a unique identifier allocated to persons when they
+subscribe to or register with an Internet access service or Internet
+communications service.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+Retention of data: unsuccessful call attempts.
+15B. In so far as it relates to unsuccessful call attempts, data which has
+been generated, processed, stored (as regards telephony data) or logged (as
+regards Internet data) shall, in respect of the categories of data set out in
+regulation 15A(3), be retained for the relevant period.
+Additional security requirements.
+15C. Without prejudice to any other security requirement imposed under
+these Regulations or under the Data Protection Act 2004, the following
+additional measures shall be applied to data retained pursuant to regulations
+15A and 15B(a)
+
+the retained data shall be of the same quality and subject to the
+same security and protection as those data on the network;
+
+(b)
+
+the data shall be subject to appropriate technical and
+organisational measures to protect the data against accidental or
+unlawful destruction, accidental loss or alteration, or
+unauthorised or unlawful storage, processing, access or
+disclosure;
+
+(c)
+
+the data shall be subject to appropriate technical and
+organisational measures to ensure that they can be accessed by
+specially authorised personnel only; and
+
+(d)
+
+the data, except those that have been accessed and preserved,
+shall be destroyed at the end of the relevant period.
+
+Transmission of requested data.
+15D. A communications provider shall ensure that data retained pursuant
+to regulations 15A and 15B are stored in such manner that where a request
+for data has been made by the Information Commissioner, those data are
+transmitted without undue delay.
+Unlawful disclosure of data.
+15E. A communications provider who discloses data retained pursuant to
+regulations 15A or 15B in contravention of the provisions of these
+Regulations or the Data Protection Act 2004 commits an offence.
+Reporting to European Commission.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+15F. The Information Commissioner shall provide to the Minister, for
+onwards transmission to the European Commission, yearly statistics,
+excluding any personal data, on the retention of data generated or processed
+in connection with the provision of publicly available electronic
+communications services or a public communications network, including–
+(a)
+
+the cases in which information was provided in accordance
+with regulation 15D;
+
+(b)
+
+the time elapsed between the date on which the data were
+retained and the request made in accordance with regulation
+15D; and
+
+(c)
+
+the cases in which requests for data could not be met.
+
+Tracing of malicious or nuisance calls.
+16.(1) A communications provider may override anything done to prevent
+the presentation of the identity of a calling line where
+(a)
+
+a subscriber has requested the tracing of malicious or nuisance
+calls received on his line; and
+
+(b)
+
+the provider is satisfied that such action is necessary and
+expedient for the purposes of tracing such calls.
+
+(2) Any term of a contract for the provision of publicly available electronic
+communications services relating to such prevention shall have effect
+subject to the provisions of sub-regulation (1).
+(3) Nothing in these regulations shall prevent a communications provider,
+for the purposes of any action relating to the tracing of malicious or
+nuisance calls, from storing and making available to a person with a
+legitimate interest data containing the identity of a calling subscriber which
+were obtained while sub-regulation (1) applied.
+Emergency calls.
+17.(1) For the purposes of this regulation, “emergency calls” shall be
+construed in accordance with regulation 22 of the Communications
+(Universal Service and Users’ Rights) Regulations 2006.
+(2) In order to facilitate responses to emergency calls–
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+(a)
+
+all such calls shall be excluded from the requirements of
+regulation 11;
+
+(b)
+
+no person shall be entitled to prevent the presentation on the
+connected line of the identity of the calling line; and
+
+(c)
+
+the restriction on the processing of location data under
+regulation 15(2) shall be disregarded.
+
+Termination of automatic call forwarding.
+18.(1) Where–
+(a)
+
+calls originally directed to another line are being automatically
+forwarded to a subscriber's line as a result of action taken by a
+third party; and
+
+(b)
+
+the subscriber requests his provider of electronic
+communications services (“the subscriber's provider”) to stop
+the forwarding of those calls,
+
+the subscriber's provider shall ensure, free of charge, that the forwarding is
+stopped without any avoidable delay.
+(2) For the purposes of sub-regulation (1), every other communications
+provider shall comply with any reasonable requests made by the subscriber's
+provider to assist in the prevention of that forwarding.
+Directories of subscribers.
+19.(1) This regulation applies in relation to a directory of subscribers,
+whether in printed or electronic form, which is made available to members
+of the public or a section of the public, including by means of a directory
+enquiry service.
+(2) The personal data of an individual subscriber shall not be included in a
+directory unless that subscriber has, free of charge, been–
+(a) informed by the collector of the personal data of the purposes of
+the directory in which his personal data are to be included, and
+(b)
+
+given the opportunity to determine whether such of his
+personal data as are considered relevant by the producer of the
+directory should be included in the directory.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+(3) Where personal data of an individual subscriber are to be included in a
+directory with facilities which enable users of that directory to obtain access
+to that data solely on the basis of a telephone number–
+(a)
+
+the information to be provided under sub-regulation (2)(a) shall
+include information about those facilities; and
+
+(b)
+
+for the purposes of sub-regulation (2)(b), the express consent of
+the subscriber to the inclusion of his data in a directory with
+such facilities must be obtained.
+
+(4) Data relating to a corporate subscriber shall not be included in a
+directory where that subscriber has advised the producer of the directory that
+it does not want its data to be included in that directory.
+(5) Where the data of an individual subscriber have been included in a
+directory, that subscriber shall, without charge, be able to verify, correct or
+withdraw those data at any time.
+(6) Where a request has been made under sub-regulations (5) or (9), that
+request shall be treated as having no application in relation to an edition of a
+directory that was produced before the producer of the directory received the
+request.
+(7) For the purposes of sub-regulation (6), an edition of a directory which
+is revised after it was first produced shall be treated as a new edition.
+(8) Nothing in this regulation shall apply in relation to editions of
+directories first published before the date on which these regulations come
+into force.
+(9) Where a subscriber’s personal data has been included in a directory
+prior to the coming into force of these regulations, that data may remain
+included in the directory provided that the subscriber has been provided with
+information in accordance with regulation 7, and has not requested that his
+data be withdrawn.
+Use of automated calling and communication systems.
+20.(1) A person shall neither transmit, nor instigate the transmission of,
+communications comprising recorded matter for direct marketing purposes
+by means of an automated calling and communication system except in the
+circumstances referred to in sub-regulation (2).
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+(2) Those circumstances are where the called line is that of a subscriber
+or user who has previously notified the caller that for the time being he
+consents to such communications being sent by, or at the instigation of, the
+caller on that line.
+(3) A subscriber or user shall not permit his line to be used in
+contravention of sub-regulation (1).
+(4) For the purposes of this regulation, an automated calling and
+communication system is a system which is capable of–
+(a)
+
+automatically initiating a sequence of calls to more than one
+destination in accordance with instructions stored in that
+system; and
+
+(b)
+
+transmitting sounds which are not live speech for reception by
+persons at some or all of the destinations so called.
+
+Use of facsimile machines for direct marketing purposes.
+21.(1) A person shall neither transmit, nor instigate the transmission of,
+unsolicited communications for direct marketing purposes by means of a
+facsimile machine where the called line is that of–
+(a)
+
+an individual subscriber or user, except in the circumstances
+referred to in sub-regulation (2);
+
+(b)
+
+a corporate subscriber or user who has previously notified the
+caller that such communications should not be sent on that line;
+or
+
+(c)
+
+a subscriber or user and the number allocated to that line is
+listed in the register kept under regulation 26.
+
+(2) The circumstances referred to in sub-regulation (1)(a) are that the
+individual subscriber or user has previously notified the caller that he
+consents for the time being to such communications being sent by, or at the
+instigation of, the caller.
+(3) A subscriber or user shall not permit his line to be used in
+contravention of sub-regulation (1).
+(4) A person shall not be held to have contravened sub-regulation (1)(c)
+where the number allocated to the called line has been listed on the register
+for less than 28 days preceding that on which the communication is made.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+(5) Where a subscriber or user who has caused a number allocated to a line
+of his to be listed in the register kept under regulation 26 has notified a
+caller that he does not, for the time being, object to such communications
+being sent on that line by that caller, such communications may be sent by
+that caller on that line, notwithstanding that the number allocated to that line
+is listed in the said register.
+(6) Where a subscriber or user has given a caller notification pursuant to
+sub-regulation (5) in relation to a line of his–
+(a)
+
+the subscriber or user shall be free to withdraw that notification
+at any time; and
+
+(b)
+
+where such notification is withdrawn, the caller shall not send
+such communications on that line.
+
+(7) The provisions of this regulation are without prejudice to the
+provisions of regulation 20.
+Unsolicited calls for direct marketing purposes.
+22.(1) A person shall neither use, nor instigate the use of, a publicly
+available electronic communications service for the purposes of making
+unsolicited calls for direct marketing purposes where–
+(a)
+
+the called line is that of a subscriber or user who has previously
+notified the caller that such calls should not for the time being
+be made on that line; or
+
+(b)
+
+the number allocated to a subscriber or user in respect of the
+called line is one listed in the register kept under regulation 27.
+
+(2) A subscriber or user shall not permit his line to be used in
+contravention of sub-regulation (1).
+(3) A person shall not be held to have contravened sub-regulation (1)(b)
+where the number allocated to the called line has been listed on the register
+for less than 28 days preceding that on which the call is made.
+(4) Where a subscriber or user who has caused a number allocated to a line
+of his to be listed in the register kept under regulation 27 has notified a
+caller that he does not, for the time being, object to such calls being made on
+that line by that caller, such calls may be made by that caller on that line,
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+notwithstanding that the number allocated to that line is listed in the said
+register.
+(5) Where a subscriber or user has given a caller notification pursuant to
+sub-regulation (4) in relation to a line of his–
+(a)
+
+the subscriber or user shall be free to withdraw that notification
+at any time and free of charge; and
+
+(b)
+
+where such notification is withdrawn, the caller shall not make
+such calls on that line.
+
+Use of electronic mail for direct marketing purposes.
+23.(1)
+This regulation applies to the transmission of unsolicited
+communications by means of electronic mail to individual subscribers or
+users.
+(2) Except in the circumstances referred to in sub-regulation (3), a person
+shall neither transmit, nor instigate the transmission of, unsolicited
+communications for the purposes of direct marketing by means of electronic
+mail unless the recipient of the electronic mail has previously notified the
+sender that he consents for the time being to such communications being
+sent by, or at the instigation of, the sender.
+(3) A person may send or instigate the sending of electronic mail for the
+purposes of direct marketing where–
+(a)
+
+that person has obtained the contact details of the recipient of
+that electronic mail in the course of the sale or negotiations for
+the sale of a product or service to that recipient;
+
+(b)
+
+the direct marketing is in respect of that person’s similar
+products and services only; and
+
+(c)
+
+the recipient has been given a simple means of refusing (free of
+charge except for the costs of the transmission of the refusal)
+the use of his contact details for the purposes of such direct
+marketing, at the time that the details were initially collected,
+and, where he did not initially refuse the use of the details, at
+the time of each subsequent communication.
+
+(4) A subscriber or user shall not permit his line to be used in
+contravention of sub-regulation (2).
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+Use of electronic mail for direct marketing purposes where the identity
+or address of the sender is concealed.
+24. A person shall neither transmit, nor instigate the transmission of, a
+communication for the purposes of direct marketing by means of electronic
+mail–
+(a)
+
+where the identity of the person on whose behalf the
+communication has been sent has been disguised or concealed,
+in contravention of the Electronic Commerce Act 2001;
+
+(b)
+
+where a valid address to which the recipient of the
+communication may send a request that such communications
+cease has not been provided; or
+
+(c)
+
+where a recipient is encouraged to visit a website that
+contravenes the Electronic Commerce Act 2001.
+
+Information to be provided for the purposes of regulations 20, 21 and
+22.
+25.(1) Where a publicly available electronic communications service is
+used for the transmission of a communication for direct marketing purposes
+the person using, or instigating the use of, the service shall ensure that the
+following information is provided with that communication–
+(a)
+
+in relation to a communication to which regulations 20
+(automated calling systems) and 21 (facsimile machines) apply,
+the particulars mentioned in sub-regulation (2)(a) and (b);
+
+(b)
+
+in relation to a communication to which regulation 22
+(telephone calls) applies, the particulars mentioned in subregulation (2)(a) and, if the recipient of the call so requests,
+those mentioned in sub-regulation (2)(b).
+
+(2) The particulars referred to in sub-regulation (1) are–
+(a)
+
+the name of the person; and
+
+(b)
+
+either the address of the person or a telephone number on
+which he can be reached free of charge.
+
+Redress for infringements.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+Subsidiary
+2006/074
+
+25A.(1) Any person adversely affected by infringements of the provisions of
+regulations 20 to 25, and having a legitimate interest in the cessation or
+prohibition of such infringements, may bring legal proceedings before the
+Supreme Court in respect of such infringements.
+(2) A service provider may bring legal proceedings in respect of such
+infringements in order to protect its legitimate business interests.
+(3) A service provider who by its negligence contributes to
+infringements of the provisions of regulations 20 to 25 commits an offence.
+Register to be kept for the purposes of regulation 21.
+26.(1) For the purposes of regulation 21, the Authority shall maintain and
+keep up-to-date, in printed or electronic form, a register of the numbers
+allocated to subscribers or users, in respect of particular lines, who have
+notified it (notwithstanding, in the case of individual subscribers or users,
+that they enjoy the benefit of regulation 21(1)(a) and (2)) that they do not for
+the time being wish to receive unsolicited communications for direct
+marketing purposes by means of facsimile machine on the lines in question.
+(2) The Authority shall remove a number from the register maintained
+under sub-regulation (1) where it has reason to believe that the number has
+ceased to be allocated to the subscriber or user by whom it was notified
+pursuant to sub-regulation (1).
+(3)
+
+On the request of–
+(a)
+
+a person wishing to send, or instigate the sending of, such
+communications as are mentioned in sub-regulation (1); or
+
+(b)
+
+a subscriber or user wishing to permit the use of his line for the
+sending of such communications,
+
+for information derived from the register kept under sub-regulation (1), the
+Authority shall, unless it is not reasonably practicable so to do, on the
+payment to it of such fee as is, subject to sub-regulation (4), required by it,
+make the information requested available to that person, subscriber or user.
+(4) For the purposes of sub-regulation (3) the Authority may require
+different fees–
+(a)
+
+for making available information derived from the register in
+different forms or manners; or
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+(b)
+
+for making available information derived from the whole or
+from different parts of the register,
+
+but the fees required by it shall be ones in relation to which the Minister has
+notified the Authority that he is satisfied that they are designed to secure, as
+nearly as may be and taking one year with another, that the aggregate fees
+received, or reasonably expected to be received, equal the costs incurred, or
+reasonably expected to be incurred, by the Authority in discharging its
+duties under sub-regulations (1), (2) and (3).
+(5) The functions of the Authority under sub-regulations (1), (2) and (3),
+other than the function of determining the fees to be required for the
+purposes of sub-regulation (3), may be discharged on its behalf by some
+other person in pursuance of arrangements made by the Authority with that
+other person.
+Register to be kept for the purposes of regulation 22.
+27.(1) For the purposes of regulation 22, the Authority shall maintain and
+keep up-to-date, in printed or electronic form, a register of the numbers
+allocated to individual subscribers, in respect of particular lines, who have
+notified it that they do not for the time being wish to receive unsolicited
+calls for direct marketing purposes on the lines in question.
+(2) The Authority shall remove a number from the register maintained
+under sub-regulation (1) where it has reason to believe that the number has
+ceased to be allocated to the subscriber by whom it was notified pursuant to
+sub-regulation (1).
+(3) On the request of–
+(a)
+
+a person wishing to make, or instigate the making of, such calls
+as are mentioned in sub-regulation (1); or
+
+(b)
+
+a subscriber wishing to permit the use of his line for the
+making of such calls,
+
+for information derived from the register kept under sub-regulation (1), the
+Authority shall, unless it is not reasonably practicable so to do, on the
+payment to it of such fee as is, subject to sub-regulation (4), required by it,
+make the information requested available to that person or that subscriber.
+(4) For the purposes of sub-regulation (3) the Authority may require
+different fees–
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+(a)
+
+for making available information derived from the register in
+different forms or manners; or
+
+(b)
+
+for making available information derived from the whole or
+from different parts of the register,
+
+but the fees required by it shall be ones in relation to which the Minister has
+notified the Authority that he is satisfied that they are designed to secure, as
+nearly as may be and taking one year with another, that the aggregate fees
+received, or reasonably expected to be received, equal the costs incurred, or
+reasonably expected to be incurred, by the Authority in discharging its
+duties under sub-regulations (1), (2) and (3).
+(5) The functions of the Authority under sub-regulations (1), (2) and (3),
+other than the function of determining the fees to be required for the
+purposes of sub-regulation (3), may be discharged on its behalf by some
+other person in pursuance of arrangements made by the Authority with that
+other person.
+Modification of contracts.
+28. To the extent that any term in a contract between a subscriber to and the
+service provider or such a provider and the provider of an electronic
+communications network would be inconsistent with a requirement of these
+regulations, that term shall be void.
+Legal requirements, law enforcement etc.
+29.(1) Nothing in these regulations shall require a communications provider
+to do, or refrain from doing, anything (including the processing of data)–
+(a)
+
+(b)
+
+if compliance with the requirement in question
+(i)
+
+would be inconsistent with any requirement imposed by
+or under an enactment or by a court order; or
+
+(ii)
+
+would be likely to prejudice the prevention or detection
+of crime or the apprehension or prosecution of offenders;
+or
+
+if exemption from the requirement in question–
+(i)
+
+is required for the purposes of, or in connection with, any
+legal proceedings (including prospective legal
+proceedings);
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+(ii)
+
+is necessary for the purposes of obtaining legal advice; or
+
+(iii)
+
+is otherwise necessary for the purposes of establishing,
+exercising or defending legal rights.
+
+Responding to requests for access to personal data
+29A. Communications providers shall establish procedures for responding
+to requests for access to users’ personal data in accordance with the
+provisions of the Data Protection Act 2004 and shall provide the
+Information Commissioner, on request, with information of such
+procedures, the number of requests received, the legal justification invoked
+and his response.
+Proceedings for compensation for failure to comply with requirements
+of the these regulations.
+30.(1) A person who suffers damage by reason of any contravention of any
+of the requirements of these regulations by any other person shall be entitled
+to bring proceedings for compensation from that other person for that
+damage.
+(2) In proceedings brought against a person by virtue of this regulation it
+shall be a defence to prove that he had taken such care as in all the
+circumstances was reasonably required to comply with the relevant
+requirement.
+(3) The provisions of this regulation are without prejudice to those of
+regulation 32.
+Penalties.
+31A.(1) A person guilty of an offence under these Regulations is liable–
+(a)
+
+on summary conviction, to imprisonment for a term not
+exceeding 12 months, or to a fine not exceeding level 5 on the
+standard scale, or to both, or
+
+(b)
+
+on conviction on indictment, to imprisonment for a term not
+exceeding two years, or to a fine, or to both.
+
+(2) A person shall also be guilty of an offence under these Regulations,
+and subject to the penalties set out in sub-regulation (1), where the conduct
+leading to the offence has subsequently been rectified.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+2006-15
+Subsidiary
+2006/074
+
+2006-15
+Subsidiary
+2006/074
+
+Communications
+COMMUNICATIONS (PERSONAL DATA AND PRIVACY)
+REGULATIONS 2006
+
+Enforcement - extension of Part V of the Data Protection Act 2004.
+31.(1) The provisions of Part VI of the Data Protection Act 2004 shall have
+effect in relation to these regulations as they have effect in relation to the
+Data Protection Act 2004: and for these purposes, Part VI shall be read with
+any modifications necessary to give effect to this regulation.
+(2) The provisions of this regulation are without prejudice to those of
+regulation 32.
+Request that the Information Commissioner exercises his enforcement
+functions.
+32. Where it is alleged that there has been a contravention of any of the
+requirements of these Regulations, a person aggrieved by the alleged
+contravention may request the Information Commissioner to exercise his
+enforcement functions in respect of that contravention, but those functions
+shall be exercisable by the Commissioner whether or not it has been so
+requested.
+
+© Government of Gibraltar (www.gibraltarlaws.gov.gi)
+
+

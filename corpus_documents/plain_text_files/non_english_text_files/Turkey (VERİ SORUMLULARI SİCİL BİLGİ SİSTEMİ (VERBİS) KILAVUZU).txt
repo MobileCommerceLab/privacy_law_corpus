@@ -1,0 +1,1595 @@
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERİ SORUMLULARI
+SİCİL BİLGİ SİSTEMİ
+
+(VERBİS)
+KILAVUZU
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 1
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+İÇİNDEKİLER
+1 – VERBİS’E GİRİŞ ................................................................................................................................................. 3
+2 - VERBİS ANASAYFASI ......................................................................................................................................... 4
+3 - VERBİS AYDINLATMA METNİ ............................................................................................................................ 5
+4 - VERİ SORUMLUSU YÖNETİCİ GİRİŞİ .................................................................................................................. 6
+5 – VERBİS’E İLK KAYIT ........................................................................................................................................... 7
+6 – NİTELİĞİNE GÖRE VERİ SORUMLUSUNUN SEÇİMİ ............................................................................................ 8
+7 – YURTİÇİNDE YERLEŞİK TÜZEL/GERÇEK KİŞİ BİLGİ FORMU DÜZENLEME ............................................................ 9
+7.1. YURTİÇİNDE YERLEŞİK GERÇEK KİŞİ VERİ SORUMLUSU İÇİN BİLGİ FORMU DÜZENLEME ................................. 9
+7.2. YURTİÇİNDE YERLEŞİK TÜZEL KİŞİ VERİ SORUMLUSU İÇİN BİLGİ FORMU DÜZENLEME ...................................19
+8 – YURTDIŞINDA YERLEŞİK TÜZEL / GERÇEK KİŞİ BİLGİ FORMU DÜZENLEME .......................................................28
+9-VERİ SORUMLUSU YÖNETİCİ GİRİŞİ VE İRTİBAT KİŞİSİ ATAMA ..........................................................................37
+10-VERİ SORUMLUSU KAYIT SİLME TALEBİ OLUŞTURMA......................................................................................41
+11-VERİ SORUMLUSU VE VERİ SORUMLUSU TEMSİLCİSİ BİLGİ GÜNCELLEME İŞLEMLERİ ......................................43
+12-VERİ SORUMLUSU PAROLA YENİLEME İŞLEMLERİ ...........................................................................................52
+13-İRTİBAT KİŞİSİNİN SİSTEME GİRİŞİ ...................................................................................................................54
+14-İRTİBAT KİŞİSİNİN VERBİS’E BİLDİRİM İŞLEMLERİ.............................................................................................58
+15-SİCİL SORGULAMA İŞLEMLERİ..........................................................................................................................71
+VERİ KATEGORİLERİ ..............................................................................................................................................74
+KİŞİSEL VERİ İŞLEME AMAÇLARI ...........................................................................................................................76
+VERİ AKTARIM ALICI GRUPLARI ............................................................................................................................78
+VERİ KONUSU KİŞİ GRUPLARI ...............................................................................................................................79
+VERİ GÜVENLİĞİ TEDBİRLERİ ................................................................................................................................80
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 2
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+1 – VERBİS’E GİRİŞ
+VERBĠS’e ilk defa kayıt iĢlemlerinin gerçekleĢtirilmesi için öncelikle Kurumumuzun
+internet sayfası olan www.kvkk.gov.tr adresine giriĢ yapılması gerekmektedir.
+www.kvkk.gov.tr adresinde Anasayfa’nın sağ tarafındaki menüler içerisinde yer
+alan VERBĠS ikonuna tıklanması ile giriĢ yapılabilecektir.
+
+VERBİS
+
+Şekil 1.1 Kurum Web Sitesi Anasayfa Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 3
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+2 - VERBİS ANASAYFASI
+Açılan VERBĠS Anasayfa’sında,
+- “Veri Sorumlusu Yönetici GiriĢi”
+- “Sicile Kayıt”
+- “Sicil Sorgulama”
+olmak üzere üç bölüm bulunmaktadır.
+
+VERBİS
+
+VERBİS
+
+VERBİS
+
+Şekil 2.1 VERBİS Anasayfa Ekranı
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 4
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+3 - VERBİS AYDINLATMA METNİ
+KiĢisel Verileri Koruma Kurumu, veri sorumlularınca VERBĠS’e bilgi giriĢi
+yapılması esnasında kiĢisel veri iĢlemektedir.
+6698 sayılı Kanunun 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine
+Getirilmesi Hakkında Usul ve Esaslar Hakkında Tebliğ gereği aydınlatma metni
+hazırlanmıĢ olup ġekil 3.1’de gösterilen linke tıklanması halinde ilgili metin
+görüntülenebilir.
+
+VERBİS
+
+Şekil 3.1 VERBİS Aydınlatma Metni Giriş Ekranı
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 5
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+4 - VERİ SORUMLUSU YÖNETİCİ GİRİŞİ
+VERBĠS’e giriĢ için öncelikle veri sorumlusunun teyidinin yapılması gerekmektedir.
+Bunun için de kiĢisel verilerin korunması alanında veri sorumlusu adına imzaya
+yetkililerce veri sorumlusunu tanıtan standart bir baĢvuru formu düzenlenerek
+Kurumumuza gönderilecektir.
+Bu kapsamda öncelikle VERBĠS Anasayfa’da bulunan “Veri Sorumlusu Yönetici
+GiriĢi” butonuna tıklanarak giriĢ yapılır.
+
+VERBİS
+
+Şekil 4.1 Veri Sorumlusu Yönetici Girişi Ekranı
+
+NOT: VERBĠS Anasayfa’da yer alan “Sicile Kayıt” butonu ile ilgili açıklamalara 10.
+Bölümden ulaĢılabilecektir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 6
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+5 – VERBİS’E İLK KAYIT
+“Veri Sorumlusu Yöneticisi GiriĢi” butonuna tıklanması akabinde gelen ekranda,
+veri sorumlusuna ait “Kullanıcı Adı ve Parola” bilgileri istenmektedir.
+Kullanıcı Adı ve Parola bilgisi almak için öncelikle sol alt tarafta yer alan “Kayıt
+Olun” butonu aracılığıyla sisteme giriĢ yapılması ve akabinde gelen ekranlardaki ilgili
+alanların gerekli adımlarla beraber ilgili formları doldurarak kayıt iĢlemlerini
+tamamlamaları gerekmektedir.
+
+VERBİS
+
+Şekil 5.1 Kullanıcı Adı / Parola Girişi Ekranı
+
+Eğer daha önce bu sayfadaki “Kayıt olun” butonu aracılığıyla sisteme giriĢ yapmıĢ
+ve Kurumumuzca tarafınıza “kullanıcı adı ve parola” iletilmiĢse sol üst tarafta yer alan
+“GiriĢ Yap” butonuna tıklanarak iĢlemlere devam edilir.
+Bu konudaki açıklamalara ilerleyen bölümlerde yer verilecektir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 7
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+6 – NİTELİĞİNE GÖRE VERİ SORUMLUSUNUN SEÇİMİ
+VERBĠS’te veri sorumluları, yükümlülüklerini yerine getirmeleri ile ilgili olarak
+Yurtiçinde YerleĢik Tüzel/ Gerçek KiĢi,
+YurtdıĢında YerleĢik Tüzel / Gerçek KiĢi,
+Kamu Kurumu
+Ģeklinde 3 farklı kategoride sınıflandırılmıĢtır.
+
+Şekil 6.1 Niteliğine Göre Veri Sorumlusunun Seçimi Ekranı
+
+Bu üç seçenekten, veri sorumlusunun durumuna uygun olan seçenek seçilerek
+giriĢ iĢlemine devam edilecektir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 8
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+7 – YURTİÇİNDE YERLEŞİK TÜZEL/GERÇEK KİŞİ BİLGİ
+DÜZENLEME
+
+FORMU
+
+7.1. Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu İçin Bilgi Formu
+Düzenleme
+Veri sorumlusu bir gerçek kiĢi ise öncelikle; “Veri Sorumlusunun VKN/TCKN”
+alanında, veri sorumlusunun TC Kimlik Numarası veya varsa Vergi Kimlik Numarası
+manuel olarak yazılır.
+Eğer TC Kimlik Numarası yazılmıĢsa vergi dairesi alanından seçim yapılmadan,
+diğer alanda sorulmuĢ olan dört iĢlem bilgisinin cevaplanması ve “Unvanı / Adı Getir”
+butonuna tıklanması akabinde arka planda Nüfus ve VatandaĢlık ĠĢleri Genel Müdürlüğü
+(MERNĠS) sistemine bağlanılır.
+Eğer Vergi Kimlik Numarası yazılmıĢsa vergi dairesi alanından doğru vergi
+dairesinin seçilmesi, diğer alanda sorulmuĢ olan dört iĢlem bilgisinin cevaplanması ve
+“Unvanı / Adı Getir” butonuna tıklanması akabinde arka planda Gelir Ġdaresi BaĢkanlığı
+sistemine bağlanılır.
+GiriĢi yapılan bilgilerde bir hata veya eksiklik yoksa “BaĢarılı” Ģeklinde bir pop-up
+ekran notu gelmesi akabinde “Veri Sorumlusunun Unvanı” alanına MERNĠS’ten veya
+Gelir Ġdaresi BaĢkanlığı sisteminden otomatik olarak ad / unvan bilgisi getirilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 9
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 7.1.1 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu İçin Bilgi Formu Girişi Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 10
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 7.1.2 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu İçin Ad/Unvan Doğrulanması Ekranı
+
+BaĢarılı bir Ģekilde ad/unvan bilgisinin sistem aracılığıyla ekrana getirilmesi
+akabinde “Veri Sorumlusunun E-posta Adresi” ve “Telefon Numarası” bilgileri ġekil 7.1.3
+de görüldüğü üzere doğru ve güncel olarak girilir. Bu bilgiler zorunlu alan olarak
+belirlenmiĢtir.
+Burada giriĢi yapılan e-posta adresinin, kurumsal elektronik posta adresi olması
+önerilmektedir. Zira bundan sonraki tüm sisteme giriĢlerde kullanılacak “kullanıcı adı” ve
+“parola” ile VERBĠS’e ait tüm bilgilendirmeler de bu adres aracılığıyla yapılacaktır.
+Telefon numarası alanına GSM veya sabit hat numarası girilebilecektir. Ancak
+elektronik posta gönderiminde herhangi bir sorun yaĢanması ihtimali göz önüne alınarak
+Kurumumuzca SMS gönderilebilmesi için GSM numarası yazılması önerilmektedir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 11
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 7.1.3 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu İçin E-posta ve Telefon Numarası Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 12
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri sorumlusunun adres numarası biliniyorsa bu 10 haneli adres numarası, “Veri
+Sorumlusunun Adres Numarası” kutucuğuna yazılır.
+10 haneli adres numarası bilinmiyorsa Veri Sorumlusunun Adres Numarası
+kutucuğunun üzerinde yer alan https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu
+linkine tıklanarak gelen ekranda sol üstte yer alan kutucuklardan il, ilçe, mahalle, köy,
+sokak, dıĢ kapı ve iç kapı no gibi adres numarasını oluĢturan bilgiler ġekil 7.1.4’te
+olduğu gibi girilir ve buradan 10 haneli adres numarası bilgisine ġekil 7.1.5’te olduğu
+gibi ulaĢılır.
+Ekrana gelen 10 haneli adres numarası buradan kopyalanarak ġekil 7.1.6’da
+olduğu gibi Bilgi Formundaki “Adres Numarası” kutucuğuna yapıĢtırılır veya manuel
+olarak yazılır.
+
+A
+D
+R
+E
+S
+N
+O
+
+Şekil 7.1.4 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu İçin Adres Numarası Tespiti
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 13
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+ADRES NO
+
+Şekil 7.1.5 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu İçin Adres Numarası Tespiti
+
+Şekil 7.1.6 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu İçin Adres Numarası Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 14
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri Sorumlusunun varsa KEP (Kayıtlı Elektronik Posta) adresi girilir. Eğer yok ise bu
+alan boĢ bırakılır.
+
+Şekil 7.1.7 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu İçin KEP Adresinin Bilgi Formuna Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 15
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Tüm bilgilerin girilmesi akabinde, ġekil 7.1.8 de olduğu gibi sağ alt kısımda
+bulunan “Kaydet” butonuna tıklanır.
+
+VERBİS
+
+Şekil 7.1.8 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu Bilgi Formuna Bilgi Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 16
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 7.1.9 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusu için Başvuru Formunun Oluşturulduğunu
+Gösteren Ekran
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 17
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+“BaĢvuru Formunu Görüntüle” kutucuğunu tıklayarak Veri Sorumluları Sicil Bilgi
+Sistemi BaĢvuru Formunun PDF formatındaki çıktısı alınır veya PDF formatında
+bilgisayara kaydedilir.
+
+VERBİS
+
+Şekil 7.1.10 Yurtiçinde Yerleşik Gerçek Kişi Veri Sorumlusunun Başvuru Formu Görüntülenmesi
+
+Eğer baĢvuru formu düzenlenirken KEP adresi belirtilmemiĢse; sisteme giriĢteki
+"BaĢvuru Formunu Görüntüle" butonuna tıklanarak oluĢturulacak PDF formatındaki bilgi
+formunun çıktısını alınır, ıslak imzalı ve kaĢeli veya mühürlü Ģekilde KiĢisel Verileri
+Koruma Kurumu BaĢkanlığına (Adres: Nasuh Akar Mahallesi 1407. Sokak No: 4
+Balgat/Çankaya/ANKARA) posta/kargo yoluyla iletilir.
+Eğer baĢvuru formu düzenlenirken KEP adresi belirtilmiĢse; sisteme giriĢteki
+"BaĢvuru Formunu Görüntüle" butonuna tıklanarak oluĢturulacak PDF formatındaki bilgi
+formu, KEP adresi aracılığıyla ve "subject" (konu) bölümüne de Kurumumuzca iletilen
+maildeki “BaĢvuru Numarası" yazılarak Kurumumuza ait olan KEP adresine
+(kvkk.verbis@hs01.kep.tr) iletilmesi gerekmektedir.
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 18
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+BaĢvuru Formu Kurumumuzca teslim alındıktan sonra baĢvuru değerlendirilecek
+ve baĢvuru formunda belirtilen elektronik posta adresine en kısa sürede sonuçla ilgili
+bilgi maili gönderilecektir.
+
+7.2. Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu İçin Bilgi Formu
+Düzenleme
+Veri sorumlusu bir tüzel kiĢi ise öncelikle; “Veri Sorumlusunun VKN/TCKN”
+alanında, veri sorumlusu olan TÜZEL KĠġĠLĠĞĠN Vergi Kimlik Numarasının manuel
+olarak yazılması, gelen vergi dairesi listesinden doğru vergi dairesinin seçilmesi ve diğer
+alanda sorulmuĢ olan dört iĢlem bilgisinin cevaplanması akabinde “Unvanı/Adı Getir”
+butonuna tıklanır, arka planda Gelir Ġdaresi BaĢkanlığının sistemine bağlanılır.
+Burada önemle belirtmek gerekir ki, veri sorumlusu tüzel kiĢi ise Sicile kayıt
+yükümlülüğü de bu tüzel kiĢiye aittir. Bu nedenle “Veri Sorumlusunun VKN/TCKN”
+alanında veri sorumlusu olan tüzel kiĢiliğin bir yetkilisi veya çalıĢanı değil tüzel kiĢiliğin
+bizzat kendisinin Vergi Kimlik Numarası bilgisi girilecektir.
+GiriĢi yapılan bilgilerde bir hata veya eksiklik yoksa “BaĢarılı” Ģeklinde bir ekran
+notu gelmesi akabinde “Veri Sorumlusunun Unvanı” alanına Gelir Ġdaresi BaĢkanlığı
+sisteminden otomatik olarak unvan bilgisi getirilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 19
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 7.2.1 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu Bilgi Formu Girişi Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 20
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 7.2.2 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu İçin Ad/Unvan Sistemden Getirilmesi
+
+BaĢarılı bir Ģekilde ad/unvan bilgisinin sistem aracılığıyla ekrana getirilmesi
+akabinde “Veri Sorumlusunun E-posta Adresi” ve “Telefon Numarası” bilgileri ġekil 7.2.3
+de görüldüğü üzere doğru ve güncel olarak girilir.
+Burada giriĢi yapılan e-posta adresinin, kurumsal elektronik posta adresi olması
+önerilmektedir. Zira bundan sonraki tüm sisteme giriĢlerde kullanılacak “kullanıcı adı” ve
+“parola” ile VERBĠS’e ait tüm bilgilendirmeler de bu adres aracılığıyla yapılacaktır.
+Telefon numarası alanına GSM veya sabit hat numarası girilebilecektir. Ancak
+elektronik posta gönderiminde herhangi bir sorun yaĢanması ihtimali göz önüne alınarak
+Kurumumuzca SMS gönderilebilmesi için GSM numarası yazılması önerilmektedir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 21
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 7.2.3 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu İçin E-posta ve Telefon Numarası Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 22
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri sorumlusunun adres numarası biliniyorsa bu 10 haneli adres numarası,
+“Veri Sorumlusunun Adres Numarası” kutucuğuna yazılır.
+10 haneli adres numarası bilinmiyorsa Veri Sorumlusunun Adres Numarası
+kutucuğunun üzerinde yer alan https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu
+linkine tıklanarak gelen ekranda sol üstte yer alan kutucuklardan il, ilçe, mahalle, köy,
+sokak, dıĢ kapı ve iç kapı no gibi adres numarasını oluĢturan bilgiler ġekil 7.2.4’de
+olduğu gibi girilir ve buradan 10 haneli adres numarası bilgisine ġekil 7.2.5’te olduğu
+gibi ulaĢılır.
+Ekrana gelen 10 haneli adres numarası buradan kopyalanarak ġekil 7.2.6’da
+olduğu gibi Bilgi Formundaki Adres Numarası kutucuğuna yapıĢtırılır veya manuel
+olarak yazılır.
+
+A
+D
+R
+E
+S
+N
+O
+
+Şekil 7.2.4 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu İçin Adres Numarası Tespiti Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 23
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+ADRES NO
+
+Şekil 7.2.5 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu İçin Adres Numarası Tespiti Ekranı
+
+Şekil 7.2.6 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu İçin Adres Numarasının Bilgi Formuna Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 24
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri sorumlusunun varsa KEP (Kayıtlı Elektronik Posta) adresi girilir. Eğer yok ise
+bu alan boĢ bırakılır.
+
+Şekil 7.2.7 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu İçin KEP Adresinin Bilgi Formuna Giriş Ekranı
+
+Tüm bilgilerin girilmesi akabinde, ġekil 7.2.8 de olduğu gibi sağ alt kısımda
+bulunan “Kaydet” butonuna tıklanır.
+
+VERBİS
+
+Şekil 7.2.8 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu Bilgi Girişinin Tamamlanması Ekranı
+
+“Kaydet” butonuna tıklanması akabinde, bilgi giriĢi yapılırken belirtilmiĢ olan
+elektronik posta adresine baĢvuruya dair mail iletilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 25
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 7.2.9 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusu için Başvuru Formu Oluşturma Ekranı
+
+“BaĢvuru Formunu Görüntüle” kutucuğunu tıklayarak Veri Sorumluları Sicil Bilgi
+Sistemi BaĢvuru Formunun PDF formatındaki çıktısı alınır veya PDF formatında
+bilgisayara kaydedilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 26
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 7.2.10 Yurtiçinde Yerleşik Tüzel Kişi Veri Sorumlusunun Başvuru Formu Görüntülenmesi
+
+Eğer baĢvuru formu düzenlenirken KEP adresi belirtilmemiĢse; sisteme giriĢteki
+"BaĢvuru Formunu Görüntüle" butonuna tıklanarak oluĢturulacak PDF formatındaki bilgi
+formunun çıktısını alınır, ıslak imzalı ve kaĢeli veya mühürlü Ģekilde KiĢisel Verileri
+Koruma Kurumu BaĢkanlığına (Adres: Nasuh Akar Mahallesi 1407. Sokak No: 4
+Balgat/Çankaya/ANKARA) posta/kargo yoluyla iletilir.
+Eğer baĢvuru formu düzenlenirken KEP adresi belirtilmiĢse; sisteme giriĢteki
+"BaĢvuru Formunu Görüntüle" butonuna tıklanarak oluĢturulacak PDF formatındaki bilgi
+formu, KEP adresi aracılığıyla ve "subject" (konu) bölümüne de Kurumumuzca iletilen
+maildeki “BaĢvuru Numarası" yazılarak Kurumumuza ait olan KEP adresine
+(kvkk.verbis@hs01.kep.tr) iletilmesi gerekmektedir.
+BaĢvuru Formu Kurumumuzca teslim alındıktan sonra baĢvuru değerlendirilecek
+ve baĢvuru formunda belirtilen elektronik posta adresine en kısa sürede sonuçla ilgili
+bilgi maili gönderilecektir.
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 27
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+8 – YURTDIŞINDA YERLEŞİK TÜZEL/GERÇEK KİŞİ BİLGİ FORMU
+DÜZENLEME
+Veri sorumlusu YurtdıĢında YerleĢik Tüzel/Gerçek KiĢi ise öncelikle açılan bilgi
+formunda Veri Sorumlusunun “Unvanı”, “Elektronik Posta adresi” “Telefon Numarası”,
+“Adresi”, “YerleĢik Olduğu Ülke”, “Veri Sorumlusu Temsilcisi Atamaya ĠliĢkin Karar
+Tarihi” ile varsa “Veri Sorumlusu Temsilcisi Atamaya ĠliĢkin Kararın Varsa Sayısı”
+bilgileri girilir.
+“Veri Sorumlusu Temsilcisinin VKN/TCKN” alanında, yurtdıĢında yerleĢik veri
+sorumlusu tarafından atanan Veri Sorumlusu Temsilcisinin T.C. Kimlik Numarası veya
+varsa Vergi Kimlik Numarası manuel olarak yazılır.
+Veri sorumlusu temsilcisi Türkiye Cumhuriyeti vatandaĢı bir gerçek kiĢi ise “Veri
+Sorumlusu Temsilcisinin VKN/TCKN” alanında, veri sorumlusu temsilcisinin TC Kimlik
+Numarasının manuel olarak yazılması, diğer alanda sorulmuĢ olan dört iĢlem bilgisinin
+cevaplanması ve “Unvanı/Adı Getir” butonunun tıklanması akabinde arka planda
+MERNĠS’e bağlanılır.
+Veri sorumlusu temsilcisi Türkiye Cumhuriyeti sınırları içerisinde yerleĢik bir tüzel
+gerçek kiĢi ise “Veri Sorumlusu Temsilcisinin VKN/TCKN” alanında, veri sorumlusu
+temsilcisinin vergi kimlik numarasının manuel olarak yazılması, gelen vergi dairesi
+listesinden doğru vergi dairesinin seçilmesi ve diğer alanda sorulmuĢ olan dört iĢlem
+bilgisinin cevaplanması akabinde “Unvanı/Adı Getir” butonunun tıklanması halinde arka
+planda Gelir Ġdaresi BaĢkanlığının sistemine bağlanılır.
+GiriĢi yapılan bilgilerde bir hata veya eksiklik yoksa “BaĢarılı” Ģeklinde bir pop-up
+ekran notu gelmesi akabinde “Veri Sorumlusu Temsilcisinin Unvanı” alanına unvan
+bilgisi getirilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 28
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 8.1 Yurtdışında Yerleşik Gerçek/Tüzel Kişi Veri Sorumlusu Bilgi Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 29
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 8.2 Yurtdışında Yerleşik Tüzel Kişi Veri Sorumlusu İçin Ad/Unvan Sistemden Getirilmesi
+
+BaĢarılı bir Ģekilde ad/unvan bilgisinin sistem aracılığıyla ekrana getirilmesi
+akabinde “Veri Sorumlusu Temsilcisinin E-posta Adresi”, “Telefon Numarası”, bilgileri
+doğru ve güncel olarak girilir.
+Burada giriĢi yapılan e-posta adresinin, kurumsal elektronik posta adresi olması
+önerilmektedir. Zira bundan sonraki tüm sisteme giriĢlerde kullanılacak “kullanıcı adı” ve
+“parola” ile VERBĠS’e ait tüm bilgilendirmeler de bu adres aracılığıyla yapılacaktır.
+Telefon numarası alanına GSM veya sabit hat numarası girilebilecektir. Ancak
+elektronik posta gönderiminde herhangi bir sorun yaĢanması ihtimali göz önüne alınarak
+Kurumumuzca SMS gönderilebilmesi için GSM numarası yazılması önerilmektedir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 30
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri sorumlusu temsilcisinin adres numarası biliniyorsa bu 10 haneli adres
+numarası, “Veri Sorumlusu Temsilcisinin Adres Numarası” kutucuğuna yazılır.
+10 haneli adres numarası bilinmiyorsa Adres Numarası kutucuğunun üzerinde
+yer alan https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu linkine tıklanarak gelen
+ekranda sol üstte yer alan kutucuklardan il, ilçe, mahalle, köy, sokak, dıĢ kapı ve iç kapı
+no gibi adres numarasını oluĢturan bilgiler ġekil 8.3’de olduğu gibi girilir ve buradan 10
+haneli adres numarası bilgisine ġekil 8.4’te olduğu gibi ulaĢılır.
+Ekrana gelen 10 haneli adres numarası buradan kopyalanarak ġekil 8.5’de
+olduğu gibi Bilgi Formundaki “Adres Numarası” kutucuğuna yapıĢtırılır veya manuel
+olarak yazılır.
+
+A
+D
+R
+E
+S
+N
+O
+
+Şekil 8.3 Yurtdışında Yerleşik Gerçek/Tüzel Kişi Veri Sorumlusu Temsilcisi İçin Adres Numarası Tespiti
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 31
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+ADRES NO
+
+Şekil 8.4 Yurtdışında Yerleşik Gerçek/Tüzel Kişi Veri Sorumlusu Temsilcisi İçin Adres Numarası Tespiti
+
+Şekil 8.5 Yurtdışında Yerleşik Gerçek/Tüzel Kişi Veri Sorumlusu Temsilcisi İçin Adres Numarası Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 32
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri sorumlusunun varsa KEP (Kayıtlı Elektronik Posta) adresi girilir. Eğer yok ise bu
+alan boĢ bırakılır.
+
+Şekil 8.6 Yurtdışında Yerleşik Gerçek/Tüzel Kişi Veri Sorumlusu Temsilcisi İçin KEP Adresinin Bilgi
+Formuna Girişi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 33
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 8.7 Yurtdışında Yerleşik Gerçek/Tüzel Kişi Veri Sorumlusu Bilgi Girişinin Tamamlanması
+
+“Kaydet” butonuna tıklanması akabinde, bilgi giriĢi yapılırken belirtilmiĢ olan
+elektronik posta adresine baĢvuruya dair mail iletilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 34
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 8.8 Yurtdışında Yerleşik Gerçek/Tüzel Kişi Veri Sorumlusu için Başvuru Formu Oluşturulması
+
+“BaĢvuru Formunu Görüntüle” butonu tıklanarak Veri Sorumluları Sicil Bilgi
+Sistemi BaĢvuru Formunun PDF formatındaki çıktısı alınır veya PDF formatında
+bilgisayara kaydedilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 35
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 8.9 Yurtdışında Yerleşik Gerçek/Tüzel Kişi Veri Sorumlusu Başvuru Formu Görüntülenmesi
+
+Eğer baĢvuru formu düzenlenirken KEP adresi belirtilmemiĢse; sisteme giriĢteki
+"BaĢvuru Formunu Görüntüle" butonuna tıklanarak oluĢturulacak PDF formatındaki bilgi
+formunun çıktısını alınır, ıslak imzalı ve kaĢeli veya mühürlü Ģekilde KiĢisel Verileri
+Koruma Kurumu BaĢkanlığına (Adres: Nasuh Akar Mahallesi 1407. Sokak No: 4
+Balgat/Çankaya/ANKARA) posta/kargo yoluyla iletilir.
+Eğer baĢvuru formu düzenlenirken KEP adresi belirtilmiĢse; sisteme giriĢteki
+"BaĢvuru Formunu Görüntüle" butonuna tıklanarak oluĢturulacak PDF formatındaki bilgi
+formu, KEP adresi aracılığıyla ve "subject" (konu) bölümüne de Kurumumuzca iletilen
+maildeki “BaĢvuru Numarası" yazılarak Kurumumuza ait olan KEP adresine
+(kvkk.verbis@hs01.kep.tr) iletilmesi gerekmektedir.
+BaĢvuru Formu Kurumumuzca teslim alındıktan sonra baĢvuru değerlendirilecek
+ve baĢvuru formunda belirtilen elektronik posta adresine en kısa sürede sonuçla ilgili
+bilgi maili gönderilecektir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 36
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+9-VERİ SORUMLUSU YÖNETİCİ GİRİŞİ ve İRTİBAT KİŞİSİ ATAMA
+KiĢisel Verileri Koruma Kurumu BaĢkanlığınca gerekli incelemeler yapıldıktan
+sonra, baĢvuru formunda belirtilen elektronik posta adresine “Kullanıcı Adı” ve “Parola”
+gönderimi sağlanır.
+
+VERBİS
+
+Şekil 9.1 Veri Sorumlusunun E-posta Adresine Kullanıcı Adı ve Parola Bilgisi Gönderimi
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 37
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBĠS Anasayfasından “Veri Sorumlusu Yönetici GiriĢi” butonuna tıklandıktan
+sonra açılan sayfadan Kullanıcı Adı ve Parola bilgileri girilerek sisteme giriĢ sağlanır.
+
+VERBİS
+
+Şekil 9.2 Kullanıcı Adı/Parola Girişi Ekranı
+
+VERBİS
+
+Şekil 9.3 Veri Sorumlusunun Anasayfa Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 38
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Gelen ekranda VERBĠS’e bilgi giriĢ yapacak “Ġrtibat KiĢisi”ni atamak için sol
+sütunda bulunan “Ġrtibat KiĢisi” sekmesine tıklanır.
+
+VERBİS
+
+Şekil 9.4 Veri Sorumlusu İrtibat Kişisi Girişi Ekranı
+
+Daha önceden herhangi bir Ġrtibat KiĢisi atanmadığı için “Ġrtibat KiĢisi
+Bulunmamaktadır” uyarısı gelir ve “Ġrtibat KiĢisi Ata” kutucuğuna giriĢ yapılarak atama
+iĢlemine devam edilir.
+
+VERBİS
+
+VERBİS
+
+Şekil 9.5 Veri Sorumlusu İrtibat Kişisi Tanımlama Ekranı
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 39
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+“Ġrtibat KiĢisi Tanımlama” sayfasında “TC Kimlik Numarası” alanına, irtibat kiĢisi
+olarak atanmak istenen Türkiye Cumhuriyeti vatandaĢı gerçek kiĢinin TC kimlik
+numarasının girilmesi akabinde “MERNĠS’ten Getir” butonuna tıklanır
+Ġrtibat KiĢisinin bilgileri sistem tarafından otomatik olarak getirilir.
+
+Şekil 9.6 Veri Sorumlusu İrtibat Kişisi Tanımlama Ekranı
+
+“BaĢarılı” uyarısıyla getirilen kimlik bilgileri kontrol edilir ve “Kaydet” butonu
+tıklanarak Ġrtibat KiĢisi atama iĢlemleri tamamlanır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 40
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+10-VERİ SORUMLUSU KAYIT SİLME TALEBİ OLUŞTURMA
+Veri sorumlusu belirli sebeplerin oluĢmasından dolayı VERBĠS’ten kaydını silmek
+isteyebilir. VERBĠS kaydının silinebilmesi için öncelikle Kayıt Silme Talebinin
+oluĢturulması gerekmektedir.
+Bu silme talebinin oluĢturulabilmesi için öncelikle VERBĠS Anasayfası sol
+bölümünün en alt kısmında bulunan “Kayıt Silme Talebi” sekmesine giriĢ yapar.
+
+VERBİS
+
+VERBİS
+
+Şekil 10.1 Veri Sorumlusu Kayıt Silme Talebi Ekranı
+
+Açılan sayfada açılan bilgilerin kontrol edilmesi akabinde sağ altta bulunan “Kayıt Silme
+Talebi Gönder” butonuna tıklanır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 41
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 10.2 Veri Sorumlusu Kayıt Silme Talebi Ekranı
+
+Bu aĢamada son bir kez daha kayıt silme talebi iĢlemine devam edilmek
+isteniyorsa Veri sorumlusu onay iĢlemine evet diyerek Kayıt Silme Talebini oluĢturur.
+
+Şekil 10.3 Veri Sorumlusu Kayıt Silme Talebi Ekranı
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 42
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Onay iĢleminin ardından ĠĢlem BaĢarılı Pop–Up görüntülenerek tamamlanır. Bu
+aĢamadan sonra gerekli bilgilendirme mailleri veri sorumlusunun mail adresine
+gönderilir. KiĢisel Verileri Koruma Kurumu gerekli incelemeyi yapmasının akabinde
+Kayıt Silme ĠĢlemine onay vermesi durumunda veri sorumlusunun VERBĠS’teki kaydını
+pasife alır.
+
+11-VERİ SORUMLUSU VE
+GÜNCELLEME İŞLEMLERİ
+
+VERİ
+
+SORUMLUSU
+
+TEMSİLCİSİ
+
+BİLGİ
+
+Veri sorumlusu ihtiyaç halinde iletiĢim adresini ve sistemde kayıtlı cep telefonu
+numarasını güncelleyebilir. Bunun için sol kısımda bulunan “Veri Sorumlusu Bilgi
+Güncelleme” sekmesine tıklar.
+
+VERBİS
+
+Şekil 11.1 Veri Sorumlusu Bilgi Güncelleme Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 43
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Açılan Kullanıcı Profili sayfasında “ĠletiĢim Adresi - Adres Numarası” bölümünde
+veri sorumlusunun adres numarası biliniyorsa bu 10 haneli adres numarası, “Veri
+Sorumlusunun Adres Numarası” kutucuğuna yazılır.
+10 haneli adres numarası bilinmiyorsa “ĠletiĢim Adresi - Adres Numarası”
+kutucuğunun üzerinde yer alan https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu
+linkine tıklanarak gelen ekranda sol üstte yer alan kutucuklardan il, ilçe, mahalle, köy,
+sokak, dıĢ kapı ve iç kapı no gibi adres numarasını oluĢturan bilgiler ġekil 9.10’da
+olduğu gibi girilir ve buradan 10 haneli adres numarası bilgisine ġekil 9.11’de olduğu
+gibi ulaĢılır.
+
+A
+D
+R
+E
+S
+N
+O
+
+Şekil 11.2 Veri Sorumlusu Bilgi Güncelleme Ekranı Adres Numarası Tespiti
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 44
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+ADRES NO
+
+Şekil 11.3 Veri Sorumlusu Bilgi Güncelleme Ekranı Adres Numarası Tespiti
+
+UlaĢılan 10 haneli adres numarasının “ĠletiĢim Adresi - Adres Numarası” kısmına
+kopyalandıktan yanındaki “MERNĠS’ten Getir” butonuna tıklanması akabinde ġekil 9.13
+deki “BaĢarılı” Pop-Up uyarısıyla ĠletiĢim adresi güncellenir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 45
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+VERBİS
+
+Şekil 11.4 Veri Sorumlusu Bilgi Güncelleme Ekranı
+
+Bu aĢamadan sonra Veri Sorumlusu Cep Telefonu bilgisini güncellemek isterse
+Kullanıcı Profili ekranında ki “Cep Telefonu” bölümünde gerekli güncellemeyi yapar.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 46
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+VERBİS
+
+Şekil 11.5 Veri Sorumlusu Bilgi Güncelleme Ekranı
+
+Tüm bu güncelleme iĢlemlerinin tamamlanmasın ardından “Kullanıcı Profili” sayfasının
+en altında bulunan “Kaydet” butonuna tıklanarak bilgi güncelleme iĢlemi tamamlanır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 47
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri sorumlusu temsilcisi ihtiyaç halinde iletiĢim adresini ve sistemde kayıtlı cep telefonu
+numarasını güncelleyebilir. Bunun için sol kısımda bulunan “Veri Sorumlusu Bilgi
+Güncelleme” sekmesine tıklar.
+
+VERBİS
+
+Şekil 11.6 Veri Sorumlusu Temsilcisi Bilgi Güncelleme Ekranı
+
+Açılan Kullanıcı Profili sayfasında “ĠletiĢim Adresi- Adres Numarası” bölümünde
+Veri sorumlusu temsilcisinin adres numarası biliniyorsa bu 10 haneli adres numarası,
+“Veri Sorumlusunun Adres Numarası” kutucuğuna yazılır.
+10 haneli adres numarası bilinmiyorsa “ĠletiĢim Adresi - Adres Numarası”
+kutucuğunun üzerinde yer alan https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu
+linkine tıklanarak gelen ekranda sol üstte yer alan kutucuklardan il, ilçe, mahalle, köy,
+sokak, dıĢ kapı ve iç kapı no gibi adres numarasını oluĢturan bilgiler ġekil 9.10’da
+olduğu gibi girilir ve buradan 10 haneli adres numarası bilgisine ġekil 9.11’de olduğu
+gibi ulaĢılır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 48
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+A
+D
+R
+E
+S
+N
+O
+
+Şekil 11.7 Veri Sorumlusu Bilgi Güncelleme Ekranı Adres Numarası Tespiti
+
+ADRES NO
+
+Şekil 11.8 Veri Sorumlusu Bilgi Güncelleme Ekranı Adres Numarası Tespiti
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 49
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+UlaĢılan 10 haneli adres numarasının “ĠletiĢim Adresi - Adres Numarası” kısmına
+kopyalandıktan yanındaki “MERNĠS’ten Getir” butonuna tıklanması akabinde ġekil 9.13
+deki “BaĢarılı” Pop-Up uyarısıyla ĠletiĢim adresi güncellenir.
+
+VERBİS
+
+VERBİS
+
+Şekil 11.9 Veri Sorumlusu Temsilcisi Bilgi Güncelleme Ekranı
+
+Bu aĢamadan sonra veri sorumlusu cep telefonu bilgisini güncellemek isterse
+Kullanıcı Profili ekranında ki “Cep Telefonu” bölümünde gerekli güncellemeyi yapar.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 50
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 11.10 Veri Sorumlusu Temsilcisi Bilgi Güncelleme Ekranı
+
+Tüm bu güncelleme iĢlemlerinin tamamlanmasın ardından “Kullanıcı Profili” sayfasının
+en altında bulunan “Kaydet” butonuna tıklanarak bilgi güncelleme iĢlemi tamamlanır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 51
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+12-VERİ SORUMLUSU PAROLA YENİLEME İŞLEMLERİ
+Veri Sorumlusu parolasını unuttuğu takdirde VERBĠS ana ekrandan “Veri
+Sorumlusu Yöneticisi GiriĢi” butonuna tıklanması akabinde gelen sayfada bulunan
+“Parolamı unuttum” sekmesine tıklayarak parola yenileme iĢlemine giriĢ sağlar.
+
+VERBİS
+
+Şekil 12.1 Veri Sorumlusu Parola Yenileme Ekranı
+
+Açılan Parola Sıfırlama sayfasında Veri Sorumlusu Kullanıcı Adı, TC Kimlik
+Numarası ya da Vergi Kimlik Numarasını yazdıktan sonra kayıt esnasında bilgi
+formunda belirttiği E-posta adresini girdikten sonra “Parolamı Sıfırla ve Gönder”
+butonuna tıklayarak parola sıfırlama iĢlemi gerçekleĢtirilir.
+
+VERBİS
+
+Şekil 12.2 Veri Sorumlusu Parola Sıfırlama Ekranı
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 52
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Parola sıfırlama iĢlemi gerçekleĢtirdikten kullanıcı adı ve parolanın giriĢ
+yapılacağı ana sayfaya yönlendirilme yapılarak parolanın sıfırlandığı e-posta adresine
+yönlendirme yapıldığının bilgisi verilir.
+
+Şekil 12.3 Veri Sorumlusu Parola Yenileme Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 53
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+13-İRTİBAT KİŞİSİNİN SİSTEME GİRİŞİ
+Ġrtibat KiĢisi olarak atanan kiĢi tarafından VERBĠS Anasayfa’da bulunan “Sicile
+Kayıt” butonuna tıklanarak giriĢ yapılır.
+
+VERBİS
+
+Şekil 13.1 İrtibat Kişisi için VERBİS Anasayfa’sı Giriş Ekranı
+
+Açılan ekrandan ” e-Devlet ile GiriĢ” butonuna tıklanır.
+
+VERBİS
+
+Şekil 13.2 İrtibat Kişisinin e-Devlet Aracılığıyla Girişi Ekranı
+
+Ġrtibat KiĢisi tarafından, herhangi bir kullanıcı adı ve parolaya ihtiyaç duymadan
+kendisine ait e-Devlet Ģifresiyle sisteme girilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 54
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 13.3 İrtibat Kişisi için e-Devlet Şifresiyle Kimlik Doğrulama Sistemi Ekranı
+
+E-devlet Ģifresiyle sisteme giriĢ yapıldıktan sonra gelen ekranda sadece
+MERNĠS’ten kimlik bilgileri getirilmektedir. VERBĠS’e kayıt iĢlemine baĢlamadan önce
+“Profil” bilgilerinin tamamlanması gerekmekte olup irtibat kiĢisinin profil durumu
+tamamlanmadan bildirim aĢamasına geçilemeyecektir.
+Bu nedenle irtibat kiĢisi tarafından iletiĢim bilgileri ve e-posta adresi gibi bazı
+bilgilerin sisteme girilerek öncelikle irtibat kiĢisinin profil güncellemesi yapılması ve
+kaydedilmesi gerekmektedir.
+
+Şekil 13.4 İrtibat Kişisi Anasayfa Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 55
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 13.5 İrtibat Kişisi Anasayfa Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 56
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 13.6 İrtibat Kişisi Profil Güncelleme Ekranı
+
+Ġrtibat kiĢisinin diğer bilgileri sisteme tanımlanıp kaydedildikten sonra irtibat
+kiĢisinin profil bilgileri %100 olması akabinde sol tarafta yer alan menülerde “Veri
+Sorumlusu” ve “Bildirim” sekmesi gelecektir.
+
+Şekil 13.7 İrtibat Kişisinin Profil Bilgilerinin Tamamlanması Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 57
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+14-İRTİBAT KİŞİSİNİN VERBİS’E BİLDİRİM İŞLEMLERİ
+VERBĠS’e bilgi giriĢi için bildirim iĢlemlerini yapmak üzere Ġrtibat KiĢisi, öncelikle
+sol sütunda bulunan “Bildirim” sekmesine tıklayarak giriĢ sağlar.
+
+VERBİS
+
+Şekil 14.1 İrtibat Kişisi Bildirim Ekranı
+
+Daha önce herhangi bir bildirim yapılmamıĢ olduğu için “Yeni Bildirim OluĢtur”
+kutucuğuna tıklanarak devam edilir.
+
+VERBİS
+
+Şekil 14.2 İrtibat Kişisi Bildirim/Veri Sorumlusu Seçimi Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 58
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Ġrtibat kiĢisince, kendisini atayan “Veri Sorumlusu” bilgisi görüntülenir, “Devam”
+butonuna tıklanarak bildirim ekranına geçilir.
+
+Şekil 14.3 İrtibat Kişisi Bildirim/Veri Kategorileri Ekranı
+
+Bildirim iĢlemleri, veri sorumlusunun iĢlemekte olduğu “Veri Kategorisi” sekmesi ile
+baĢlar. Bu adımda toplam 25 adet veri kategorisi bulunmaktadır. Bu veri kategorilerinin
+her biri için tek tek bilgi giriĢinin yapılması gerekmektedir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 59
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Eğer bu veri kategorilerin dıĢında bir veri kategorisi iĢlenmekteyse, veri kategorisi
+sekmelerinin en altında bulunan “Diğer Bilgiler” bölümünden veri kategorisi manuel
+olarak yazılarak eklenebilir.
+
+VERBİS
+
+Şekil 14.4 İrtibat Kişisi Bildirim/Veri Kategorileri Ekranı
+
+Ġrtibat KiĢisince veri kategorileri için tek tek bilgi giriĢi yapılmalıdır. Eğer ilgili veri
+kategorisiyle ilgili hiçbir kiĢisel veri iĢlenmiyorsa “Bu kiĢisel veri kategorisiyle ilgili hiçbir
+kiĢisel veri iĢlenmediğini taahhüt ederim” kutucuğu iĢaretlenir “Kaydet ve Devam Et”
+butonuna tıklanarak bir sonraki veri kategorisine geçilir.
+
+VERBİS
+
+Şekil 14.5 İrtibat Kişisi Bildirim/Veri Kategorileri Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 60
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Eğer ilgili veri kategorisi iĢlenmekteyse hangi veri kategorisine ait sekmede isek o
+veri kategorisi ile ilgili kiĢisel veri iĢlediğini beyan etmek adına “………veri kategorisine
+ait kiĢisel veriler iĢlenmektedir” kutucuğu iĢaretlenir ve “Kaydet ve Devam Et” butonuna
+tıklanarak bir sonraki veri kategorisine geçilir.
+
+Şekil 14.6 İrtibat Kişisi Bildirim/Veri Kategorileri Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 61
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Bilgi giriĢi yapılmıĢ olan veri kategorileri, sağ tarafta yer alan sekmelerde yeĢil
+renkli olarak gösterilmektedir.
+
+VERBİS
+
+Şekil 14.7 İrtibat Kişisi Bildirim/Veri İşleme Amaçları Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 62
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri kategorilerine dair tüm sekmelerin tamamlanmasının akabinde bu veri
+kategorilerinin iĢleme amaçları ile ilgili seçim yapılmasına iliĢkin bölüme geçilecektir.
+Bu bölümde, sadece iĢlenmekte olduğuna dair iĢaretleme yapılmıĢ olan veri
+kategorileri için iĢleme amaçlarını belirleme iĢlemine geçilir.
+Bu amaçlardan bir veya birkaçı iĢaretlendikten sonra her bir veri kategorisi için
+“Kaydet ve Devam Et” kutucuğuna tıklanarak Veri ĠĢleme Amaçları bölümü tamamlanır.
+
+VERBİS
+
+Şekil 14.8 İrtibat Kişisi Bildirim/Veri Aktarım Alıcı Grupları Ekranı
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 63
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri aktarımı yapılan alıcılar/alıcı grupları ekranı aracılığıyla iĢlenen kiĢisel verilerin
+hangi alıcı gruplarına aktarıldığı tespit edilmektedir.
+Burada, varsa ilgili taraf/taraflar iĢaretlenir ya da “ AĢağıdaki alıcı gruplarından hiç
+birine veri aktarılmadığını taahhüt ederim” kutucuğu iĢaretlenerek “Kaydet ve Devam
+Et” butonuna tıklanır.
+
+VERBİS
+
+Şekil 14.9 İrtibat Kişisi Bildirim/Veri Saklama Süresi Ekranı
+
+Veri Saklama Süresi giriĢi bölümünde, iĢlenmekte olduğu belirtilen veri kategorileri
+için saklama süreleri de ilgili seçimlik alanlardan “Yıl”, “Ay” ve “Diğer” seçenekleri
+aracılığıyla belirtilerek “Kaydet ve Devam Et” butonuna tıklanır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 64
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 14.10 İrtibat Kişisi Bildirim/Veri Konusu Kişi Grubu Ekranı
+
+Veri Konusu KiĢi Grubu bölümünde, iĢlendiği belirtilen kiĢisel veri kategorilerinin
+kategorik bazda kimlere ait olduğu belirtilmektedir.
+Bu bölümde her veri kategorisi için ayrı ayrı giriĢ yapılmasının ardından “Kaydet ve
+Devam Et” butonuna tıklanarak Veri Konusu KiĢi Grubu bölümü tamamlanır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 65
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 14.11 İrtibat Kişisi Bildirim/Yabancı Ülkelere Aktarılacak Bilgiler Ekranı
+
+Yabancı Ülkelere Aktarılacak Bilgiler bölümünde eğer iĢlenmekte olduğu belirtilen
+veri kategorilerinden yabancı ülkelere veri paylaĢımı mevcut ise bu alanda iĢaretleme
+yapılır ya da “AĢağıdaki veri kategorilerinden hiç birinin yurtdıĢına aktarılmadığını
+taahhüt ederim” kutucuğu iĢaretlenerek “Kaydet ve Devam Et” kutucuğuna tıklanarak
+Yabancı Ülkelere Aktarılacak Bilgiler bölümü tamamlanır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 66
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 14.12 İrtibat Kişisi Bildirim/ Veri Güvenliği Tedbirleri Ekranı
+
+Veri Güvenliği Tedbirleri bölümü, iĢlenmekte olan kiĢisel verilerle alakalı alınan
+teknik ve idari tedbirlerin belirtildiği bölümdür.
+Bu bölümde kiĢisel veri güvenliğiyle alakalı alınan tedbirler, ekrana gelen listeden
+seçilir ve ardından “Kaydet ve Devam Et” kutucuğuna tıklanır.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 67
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 14.13 İrtibat Kişisi Bildirim Detayı Görüntüleme Ekranı
+
+Bütün bölümlerin tamamlanmasıyla birlikte, bilgi giriĢi yapılan tüm ekranların
+baĢlıklar halinde son bir kez daha gözden geçirilmesi amacıyla rapor
+görüntülenmektedir.
+Kontrol yapılması akabinde bildirimin KiĢisel Verileri Koruma Kurumu BaĢkanlığına
+aktarılması için bu sekmelerden herhangi birinin altında yer alan “Onayla ve Gönder”
+butonuna tıklanması gerekir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 68
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 14.14 İrtibat Kişisi Bildirim Detayı Ekranı
+
+“Onayla ve Gönder” butonunun tıklanması akabinde, son kez bir daha kontrol
+edilmesi için teyit iĢlemi tekrar yapılmakta ve onay için “Evet” butonuna tıklanması
+gerekmektedir.
+
+“Evet” iĢaretlendiğinde bildirim KiĢisel Verileri Koruma Kurumu BaĢkanlığına
+gönderilmiĢ olur.
+
+NOT: Bildirim düzenlenirken ara verilmesi veya herhangi bir nedenle giriĢ iĢlemlerinin
+yarıda kalması halinde yeniden sisteme giriĢ yapıldığında kalınan yerden devam
+edilecektir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 69
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+VERBİS
+
+Şekil 14.15 İrtibat Kişisi Bildirim Detayı Ekranı
+
+Söz konusu onay iĢleminin ardından açılan sayfada, bildirimin baĢarılı olarak
+iletildiğine dair “ĠĢlem BaĢarılı” uyarısı alınır.
+“Bildirim Durumu: Geçerli Bildirim” Ģeklinde görüntüleme sağlanarak Ġrtibat KiĢisi
+tarafından Sicile Kayıt iĢlemi tamamlanmıĢ olur.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 70
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+15-SİCİL SORGULAMA İŞLEMLERİ
+Veri Sorumluları Sicili Hakkında Yönetmeliğin 7. maddesinin 1. fıkrasında
+“BaĢkanlık, Sicilde yer alan güncel bilgileri Kurul kararları uyarınca belirlenecek uygun
+yöntemlerle kamuya açıklar.” ifadesinde belirtildiği üzere, dileyen herkes VERBĠS’e kayıt
+olan veri sorumlularına ait bildirimleri sorgulayabilirler.
+Bunun için, VERBĠS Anasayfası’nın en altında bulunan “Sicil Sorgulama”
+butonuna tıklanarak giriĢ yapılabilir.
+
+VERBİS
+
+Şekil 15.1 Sicil Sorgulama Giriş Ekranı
+
+Açılan “Sicil Sorgulama” anasayfasında, VERBĠS’ten görüntüleme yapılmak
+istenen veri sorumlusuna ait en az 5 (beĢ) karakter yazılarak ve captcha olarak da 4
+(dört) iĢlem sorusunun cevabı ekrandaki ilgili alana girilerek arama yapılabilir.
+
+VERBİS
+
+Şekil 15.2 Sicil Sorgulama Anasayfa
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 71
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+VERBİS
+
+Şekil 15.3 Sicil Sorgulama Sonuç Ekranı
+
+Yapılan sorgulama sonucuna göre, görüntülenmek istenen veri sorumlusunun
+unvanı bilgisi satırının yanında bulunan “Detay” sütunundaki büyüteç iĢaretine
+tıklanarak veri sorumlusuna ait bildirim görüntülenebilir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 72
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Şekil 15.5 Sicil Sorgulama Veri Sorumlusu Bildirim Ekranı
+
+Ekrana gelen Bildirim detaylı olarak incelenmek istenirse Veri Kategorileri, ĠĢleme
+Amaçları, Alıcı/Alıcı Grupları, Saklama Süreleri, Veri Konusu KiĢi Grupları, Yabancı
+Ülkelere Aktarım ve Veri Güvenliği Tedbirleri bölümlerine tek tek tıklanarak inceleme
+yapılabilir.
+6698 Sayılı Kanunun 16. maddesi ile Veri Sorumluları Sicili Hakkında
+Yönetmeliğin 9. maddesi gereği Veri Sorumluları Siciline kayıt yükümlülüğü
+çerçevesinde BĠLDĠRĠM hazırlanması ve Kuruma iletilmesi iĢleminin VERBĠS üzerinden
+gerçekleĢtirilmesi gerekmektedir.
+Söz konusu BĠLDĠRĠM hazırlanırken Ġrtibat KiĢisi tarafından VERBĠS’e giriĢ
+yapılacak bilgilere iliĢkin baĢlıklar Veri Kategorileri, KiĢisel Veri ĠĢleme Amaçları, Veri
+Aktarım Alıcı Grupları, Veri Konusu KiĢi Grupları ve Veri Güvenliği Tedbirleri olarak
+belirlenmiĢ olup bu baĢlıklara ait Kurul tarafından belirlenmiĢ olan seçimlik alanlara
+listeler halinde aĢağıda yer verilmiĢtir:
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 73
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri Kategorileri
+1-Kimlik (ad soyad, anne - baba adı, anne kızlık soyadı, doğum tarihi, doğum yeri, medeni hali,
+nüfus cüzdanı seri sıra no, tc kimlik no gibi)
+2-İletişim (adres no, e-posta adresi, iletişim adresi, kayıtlı elektronik posta adresi (KEP), telefon
+no gibi)
+3-Lokasyon (bulunduğu yerin konum bilgileri)
+4-Özlük (bordro bilgileri, disiplin soruşturması, işe giriş-çıkış belgesi kayıtları, mal bildirimi
+bilgileri, özgeçmiş bilgileri, performans değerlendirme raporları gibi)
+5-Hukuki İşlem (adli makamlarla yazışmalardaki bilgiler, dava dosyasındaki bilgiler gibi)
+6-Müşteri İşlem (çağrı merkezi kayıtları, fatura, senet, çek bilgileri, gişe dekontlarındaki
+bilgiler, sipariş bilgisi, talep bilgisi gibi)
+7-Fiziksel Mekân Güvenliği (çalışan ve ziyaretçilerin giriş çıkış kayıt bilgileri, kamera kayıtları
+gibi)
+8-İşlem Güvenliği (IP adresi bilgileri, internet sitesi giriş çıkış bilgileri, şifre ve parola bilgileri
+gibi)
+9-Risk Yönetimi (ticari, teknik, idari risklerin yönetilmesi için işlenen bilgiler gibi)
+10-Finans (bilanço bilgileri, finansal performans bilgileri, kredi ve risk bilgileri, malvarlığı
+bilgileri gibi)
+11-Mesleki Deneyim (diploma bilgileri, gidilen kurslar, meslek içi eğitim bilgileri, sertifikalar,
+transkript bilgileri gibi)
+12-Pazarlama (alışveriş geçmişi bilgileri, anket, çerez kayıtları, kampanya çalışmasıyla elde
+edilen bilgiler)
+13-Görsel ve İşitsel Kayıtlar (görsel ve işitsel kayıtlar gibi)
+14-Irk ve Etnik Köken (ırk ve etnik kökeni bilgileri gibi)
+15-Siyasi Düşünce Bilgileri (siyasi düşüncesini belirten bilgiler, siyasi parti üyeliği bilgisi gibi)
+16-Felsefi İnanç, Din, Mezhep ve Diğer İnançlar (dini aidiyetine ilişkin bilgiler, felsefi
+inancına ilişkin bilgiler, mezhep aidiyetine ilişkin bilgiler, diğer inançlarına ilişkin bilgiler gibi)
+17-Kılık ve Kıyafet (kılık ve kıyafete ilişkin bilgiler)
+18-Dernek Üyeliği (dernek üyeliği bilgileri gibi)
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 74
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+19-Vakıf Üyeliği (vakıf üyeliği bilgileri gibi)
+20-Sendika Üyeliği (sendika üyeliği bilgileri gibi)
+21-Sağlık Bilgileri (engellilik durumuna ait bilgiler, kan grubu bilgisi, kişisel sağlık bilgileri,
+kullanılan cihaz ve protez bilgileri gibi)
+22-Cinsel Hayat (cinsel hayata ilişkin bilgiler gibi)
+23-Ceza Mahkûmiyeti Ve Güvenlik Tedbirleri (ceza mahkûmiyetine ilişkin bilgiler, güvenlik
+tedbirlerine ilişkin bilgiler gibi)
+24-Biyometrik Veri (avuç içi bilgileri, parmak izi bilgileri, retina taraması bilgileri, yüz tanıma
+bilgileri gibi)
+25-Genetik Veri (genetik veriler gibi)
+26-Diğer Bilgiler (kullanıcı tarafından belirlenecek veri türleri gibi)
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 75
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Kişisel Veri İşleme Amaçları
+1. Acil Durum Yönetimi Süreçlerinin Yürütülmesi
+2. Bilgi Güvenliği Süreçlerinin Yürütülmesi
+3. Çalışan Adayı / Stajyer / Öğrenci Seçme Ve Yerleştirme Süreçlerinin Yürütülmesi
+4. Çalışan Adaylarının Başvuru Süreçlerinin Yürütülmesi
+5. Çalışan Memnuniyeti Ve Bağlılığı Süreçlerinin Yürütülmesi
+6. Çalışanlar İçin İş Akdi Ve Mevzuattan Kaynaklı Yükümlülüklerin Yerine Getirilmesi
+7. Çalışanlar İçin Yan Haklar Ve Menfaatleri Süreçlerinin Yürütülmesi
+8. Denetim / Etik Faaliyetlerinin Yürütülmesi
+9. Eğitim Faaliyetlerinin Yürütülmesi
+10. Erişim Yetkilerinin Yürütülmesi
+11. Faaliyetlerin Mevzuata Uygun Yürütülmesi
+12. Finans Ve Muhasebe İşlerinin Yürütülmesi
+13. Firma / Ürün / Hizmetlere Bağlılık Süreçlerinin Yürütülmesi
+14. Fiziksel Mekan Güvenliğinin Temini
+15. Görevlendirme Süreçlerinin Yürütülmesi
+16. Hukuk İşlerinin Takibi Ve Yürütülmesi
+17. İç Denetim/ Soruşturma / İstihbarat Faaliyetlerinin Yürütülmesi
+18. İletişim Faaliyetlerinin Yürütülmesi
+19. İnsan Kaynakları Süreçlerinin Planlanması
+20. İş Faaliyetlerinin Yürütülmesi / Denetimi
+21. İş Sağlığı / Güvenliği Faaliyetlerinin Yürütülmesi
+22. İş Süreçlerinin İyileştirilmesine Yönelik Önerilerin Alınması Ve Değerlendirilmesi
+23. İş Sürekliliğinin Sağlanması Faaliyetlerinin Yürütülmesi
+24. Lojistik Faaliyetlerinin Yürütülmesi
+25. Mal / Hizmet Satın Alım Süreçlerinin Yürütülmesi
+26. Mal / Hizmet Satış Sonrası Destek Hizmetlerinin Yürütülmesi
+27. Mal / Hizmet Satış Süreçlerinin Yürütülmesi
+28. Mal / Hizmet Üretim Ve Operasyon Süreçlerinin Yürütülmesi
+29. Müşteri İlişkileri Yönetimi Süreçlerinin Yürütülmesi
+30. Müşteri Memnuniyetine Yönelik Aktivitelerin Yürütülmesi
+31. Organizasyon Ve Etkinlik Yönetimi
+32. Pazarlama Analiz Çalışmalarının Yürütülmesi
+33. Performans Değerlendirme Süreçlerinin Yürütülmesi
+34. Reklam / Kampanya / Promosyon Süreçlerinin Yürütülmesi
+35. Risk Yönetimi Süreçlerinin Yürütülmesi
+36. Saklama Ve Arşiv Faaliyetlerinin Yürütülmesi
+37. Sosyal Sorumluluk Ve Sivil Toplum Aktivitelerinin Yürütülmesi
+38. Sözleşme Süreçlerinin Yürütülmesi
+39. Sponsorluk Faaliyetlerinin Yürütülmesi
+40. Stratejik Planlama Faaliyetlerinin Yürütülmesi
+41. Talep / Şikayetlerin Takibi
+42. Taşınır Mal Ve Kaynakların Güvenliğinin Temini
+43. Tedarik Zinciri Yönetimi Süreçlerinin Yürütülmesi
+44. Ücret Politikasının Yürütülmesi
+45. Ürün / Hizmetlerin Pazarlama Süreçlerinin Yürütülmesi
+46. Veri Sorumlusu Operasyonlarının Güvenliğinin Temini
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 76
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+47. Yabancı Personel Çalışma Ve Oturma İzni İşlemleri
+48. Yatırım Süreçlerinin Yürütülmesi
+49. Yetenek / Kariyer Gelişimi Faaliyetlerinin Yürütülmesi
+50. Yetkili Kişi, Kurum Ve Kuruluşlara Bilgi Verilmesi
+51. Yönetim Faaliyetlerinin Yürütülmesi
+52. Ziyaretçi Kayıtlarının Oluşturulması Ve Takibi
+53. Diğer
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 77
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri Aktarım Alıcı Grupları
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Gerçek kişiler veya özel hukuk tüzel kişileri
+Herkese açık
+Hissedarlar
+İş Ortakları
+İştirakler ve bağlı ortaklıklar
+Tedarikçiler
+Topluluk Şirketleri
+Yetkili Kamu Kurum ve Kuruluşları
+Diğer
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 78
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri Konusu Kişi Grupları
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+Çalışan Adayı
+Çalışan
+Denek
+Habere konu kişi
+Hissedar/Ortak
+Potansiyel Ürün veya Hizmet Alıcısı
+Sınav adayı
+Stajyer
+Tedarikçi Çalışanı
+Tedarikçi Yetkilisi
+Ürün veya Hizmet Alan Kişi
+Veli / Vasi / Temsilci
+Ziyaretçi
+Diğer
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 79
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+Veri Güvenliği Tedbirleri
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+
+Ağ güvenliği ve uygulama güvenliği sağlanmaktadır.
+Ağ yoluyla kişisel veri aktarımlarında kapalı sistem ağ kullanılmaktadır.
+Anahtar yönetimi uygulanmaktadır.
+Bilgi teknolojileri sistemleri tedarik, geliştirme ve bakımı kapsamındaki güvenlik önlemleri
+alınmaktadır.
+Bulutta depolanan kişisel verilerin güvenliği sağlanmaktadır.
+Çalışanlar için veri güvenliği hükümleri içeren disiplin düzenlemeleri mevcuttur.
+Çalışanlar için veri güvenliği konusunda belli aralıklarla eğitim ve farkındalık çalışmaları
+yapılmaktadır.
+Çalışanlar için yetki matrisi oluşturulmuştur.
+Erişim logları düzenli olarak tutulmaktadır.
+Erişim, bilgi güvenliği, kullanım, saklama ve imha konularında kurumsal politikalar
+hazırlanmış ve uygulamaya başlanmıştır.
+Gerektiğinde veri maskeleme önlemi uygulanmaktadır.
+Gizlilik taahhütnameleri yapılmaktadır.
+Görev değişikliği olan ya da işten ayrılan çalışanların bu alandaki yetkileri kaldırılmaktadır.
+Güncel anti-virüs sistemleri kullanılmaktadır.
+Güvenlik duvarları kullanılmaktadır.
+İmzalanan sözleşmeler veri güvenliği hükümleri içermektedir.
+Kağıt yoluyla aktarılan kişisel veriler için ekstra güvenlik tedbirleri alınmakta ve ilgili evrak
+gizlilik dereceli belge formatında gönderilmektedir.
+Kişisel veri güvenliği politika ve prosedürleri belirlenmiştir.
+Kişisel veri güvenliği sorunları hızlı bir şekilde raporlanmaktadır.
+Kişisel veri güvenliğinin takibi yapılmaktadır.
+Kişisel veri içeren fiziksel ortamlara giriş çıkışlarla ilgili gerekli güvenlik önlemleri
+alınmaktadır.
+Kişisel veri içeren fiziksel ortamların dış risklere (yangın, sel vb.) karşı güvenliği
+sağlanmaktadır.
+Kişisel veri içeren ortamların güvenliği sağlanmaktadır.
+Kişisel veriler mümkün olduğunca azaltılmaktadır.
+Kişisel veriler yedeklenmekte ve yedeklenen kişisel verilerin güvenliği de sağlanmaktadır.
+Kullanıcı hesap yönetimi ve yetki kontrol sistemi uygulanmakta olup bunların takibi de
+yapılmaktadır.
+Kurum içi periyodik ve/veya rastgele denetimler yapılmakta ve yaptırılmaktadır.
+Log kayıtları kullanıcı müdahalesi olmayacak şekilde tutulmaktadır.
+Mevcut risk ve tehditler belirlenmiştir.
+Özel nitelikli kişisel veri güvenliğine yönelik protokol ve prosedürler belirlenmiş ve
+uygulanmaktadır.
+Özel nitelikli kişisel veriler elektronik posta yoluyla gönderilecekse mutlaka şifreli olarak ve
+KEP veya kurumsal posta hesabı kullanılarak gönderilmektedir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 80
+
+KİŞİSEL VERİLERİ KORUMA KURUMU VERİ SORUMLULARI SİCİL BİLGİ SİSTEMİ KILAVUZU
+
+32. Özel nitelikli kişisel veriler için güvenli şifreleme / kriptografik anahtarlar kullanılmakta ve
+farklı birimlerce yönetilmektedir.
+33. Saldırı tespit ve önleme sistemleri kullanılmaktadır.
+34. Sızma testi uygulanmaktadır.
+35. Siber güvenlik önlemleri alınmış olup uygulanması sürekli takip edilmektedir.
+36. Şifreleme yapılmaktadır.
+37. Taşınabilir bellek, CD, DVD ortamında aktarılan özel nitelikli kişiler veriler şifrelenerek
+aktarılmaktadır.
+38. Veri işleyen hizmet sağlayıcılarının veri güvenliği konusunda belli aralıklarla denetimi
+sağlanmaktadır.
+39. Veri işleyen hizmet sağlayıcılarının, veri güvenliği konusunda farkındalığı sağlanmaktadır.
+40. Veri kaybı önleme yazılımları kullanılmaktadır.
+41. Diğer
+
+NOT: Veri sorumlusunun kiĢisel veri iĢleme faaliyeti kapsamında, baĢlıklar altında
+belirlenmiĢ olan seçimlik alanlardan bir veya birden fazlası seçilebileceği gibi bu
+seçenekler haricinde bir giriĢ yapılmak istendiğinde Ġrtibat KiĢisi tarafından her bir
+baĢlığın en altında yer alan “Diğer” seçeneği iĢaretlenerek manuel olarak da ekleme
+yapılabilecektir.
+
+KVKK Veri Yönetimi Dairesi Başkanlığı
+
+Sayfa 81
+
+

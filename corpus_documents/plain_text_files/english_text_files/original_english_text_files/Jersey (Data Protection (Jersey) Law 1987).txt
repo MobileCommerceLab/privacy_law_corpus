@@ -1,0 +1,3320 @@
+DATA PROTECTION (JERSEY)
+LAW 1987
+
+Revised Edition
+15.240
+Showing the law as at 31 August 2004
+This is a revised edition of the law
+
+Data Protection (Jersey) Law 1987
+
+Arrangement
+
+DATA PROTECTION (JERSEY) LAW 1987
+
+Arrangement
+Article
+PART 1
+
+7
+
+PRELIMINARY
+
+7
+
+1
+2
+
+Interpretation ................................................................................................... 7
+The Registrar and the Tribunal ....................................................................... 9
+
+PART 2
+
+10
+
+REGISTRATION AND SUPERVISION OF DATA USERS AND
+COMPUTER BUREAUX
+
+10
+
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+Registration of data users and computer bureaux ......................................... 10
+Prohibition of unregistered holding etc. of personal data ............................. 11
+Applications for registration and for alteration of registered particulars ...... 11
+Acceptance and refusal of applications......................................................... 12
+Duration and renewal of registration ............................................................ 14
+Inspection of register..................................................................................... 15
+Enforcement notices...................................................................................... 15
+De-registration notices .................................................................................. 16
+Transfer prohibition notices .......................................................................... 17
+Rights of appeal ............................................................................................ 18
+Determination of appeals .............................................................................. 19
+Unauthorized disclosure by computer bureaux............................................. 19
+Powers of entry and inspection ..................................................................... 20
+Disclosure of information ............................................................................. 20
+Serving of notices ......................................................................................... 20
+Prosecution and penalties .............................................................................. 21
+Liability of directors etc. ............................................................................... 21
+
+PART 3
+
+21
+
+RIGHTS OF DATA SUBJECTS
+
+21
+
+20
+21
+
+Rights of access to personal data .................................................................. 21
+Compensation for inaccuracy ....................................................................... 23
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 3
+
+Arrangement
+
+22
+23
+24
+
+Data Protection (Jersey) Law 1987
+
+Compensation for loss or unauthorized disclosure ....................................... 23
+Rectification and erasure .............................................................................. 24
+Procedure ...................................................................................................... 25
+
+PART 4
+
+25
+
+EXEMPTIONS
+
+25
+
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+
+Preliminary ................................................................................................... 25
+National security ........................................................................................... 25
+Crime and taxation ........................................................................................ 26
+Health and social work ................................................................................. 27
+Regulation of financial services etc. ............................................................. 27
+Judicial appointments and legal professional privilege ................................ 27
+Payrolls and accounts ................................................................................... 28
+Domestic or other limited purposes .............................................................. 29
+Other exemptions .......................................................................................... 30
+Examination results ...................................................................................... 31
+
+PART 5
+
+32
+
+GENERAL
+
+32
+
+35
+36
+37
+38
+39
+40
+41
+
+General duties of Registrar etc. .................................................................... 32
+Co-operation between parties to the Convention.......................................... 32
+Application to States’ Committees and the Police ....................................... 32
+Data held and services provided outside Jersey ........................................... 33
+Power to amend Law .................................................................................... 33
+Regulations, Rules and Orders ..................................................................... 34
+Citation ......................................................................................................... 34
+
+SCHEDULE 1
+
+35
+
+THE DATA PROTECTION PRINCIPLES
+
+35
+
+PART 1
+
+35
+
+THE PRINCIPLES
+
+35
+
+Personal data held by data users................................................................................... 35
+Personal data held by data users or in respect of which services are provided by
+persons carrying on computer bureaux ......................................................... 35
+PART 2
+
+35
+
+INTERPRETATION
+
+35
+
+1
+2
+3
+4
+5
+6
+7
+Page - 4
+
+The first principle ......................................................................................... 36
+The second principle ..................................................................................... 36
+The third principle ........................................................................................ 36
+The fifth principle ......................................................................................... 36
+The seventh principle .................................................................................... 36
+The eighth principle ...................................................................................... 37
+Use for historical, statistical or research purposes........................................ 37
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+Arrangement
+
+SCHEDULE 2
+
+38
+
+THE REGISTRAR AND THE TRIBUNAL
+
+38
+
+PART 1
+
+38
+
+1
+
+The Registrar ................................................................................................. 38
+
+PART 2
+2
+
+38
+The Tribunal.................................................................................................. 38
+
+SCHEDULE 3
+
+39
+
+APPEAL PROCEEDINGS
+
+39
+
+1
+2
+3
+
+Hearing of appeals ........................................................................................ 39
+Rules of procedure ........................................................................................ 39
+Obstruction etc. ............................................................................................. 40
+
+SCHEDULE 4
+
+41
+
+POWERS OF ENTRY AND INSPECTION
+
+41
+
+Issue of warrants ........................................................................................................... 41
+Execution of warrants ................................................................................................... 41
+Matters exempt from inspection and seizure ................................................................ 42
+Offences ....................................................................................................................... 43
+Vessels, vehicles etc. .................................................................................................... 43
+
+SCHEDULE 5
+
+44
+
+OATH OF OFFICE
+
+44
+
+Supporting Documents
+ENDNOTES
+
+45
+
+Table of Legislation History......................................................................................... 45
+Table of Renumbered Provisions ................................................................................. 45
+Table of Endnote References ....................................................................................... 45
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 5
+
+Data Protection (Jersey) Law 1987
+
+Article 1
+
+DATA PROTECTION (JERSEY) LAW 1987
+
+A LAW to regulate the use of automatically processed information relating to
+individuals and the provision of services in respect of such information
+Commencement [see endnotes]
+
+PART 1
+PRELIMINARY
+1
+
+Interpretation
+(1)
+
+The provisions of this Article shall have effect for the interpretation of
+this Law.
+
+(2)
+
+“Data” means information recorded in a form in which it can be
+processed by equipment operating automatically in response to
+instructions given for that purpose.
+
+(3)
+
+“Personal data” means data consisting of information which relates to a
+living individual who can be identified from that information (or from
+that and other information in the possession of the data user), including
+any expression of opinion about the individual but not any indication of
+the intentions of the data user in respect of that individual.
+
+(4)
+
+“Data subject” means an individual who is the subject of personal data.
+
+(5)
+
+“Data user” means a person who holds data, and a person “holds” data
+if –
+(a)
+
+the data form part of a collection of data processed or intended to
+be processed by or on behalf of that person as mentioned in
+paragraph (2);
+
+(b)
+
+that person (either alone or jointly or in common with other
+persons) controls the contents and use of the data comprised in the
+collection; and
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 7
+
+Article 1
+
+Data Protection (Jersey) Law 1987
+
+(c)
+
+(6)
+
+the data are in the form in which they have been or are intended to
+be processed as mentioned in sub-paragraph (a) or (though not for
+the time being in that form) in a form into which they have been
+converted after being so processed and with a view to being further
+so processed on a subsequent occasion.
+
+A person carries on a “computer bureau” if the person provides other
+persons with services in respect of data, and the person provides such
+services if –
+(a)
+
+as agent for other persons the person causes data held by them to
+be processed as mentioned in paragraph (2); or
+
+(b)
+
+the person allows other persons the use of equipment in the
+person’s possession for the processing as mentioned in that
+paragraph of data held by them.
+
+(7)
+
+“Processing”, in relation to data, means amending, augmenting, deleting
+or re-arranging the data or extracting the information constituting the data
+and, in the case of personal data, means performing any of those
+operations by reference to the data subject.
+
+(8)
+
+Paragraph (7) shall not be construed as applying to any operation
+performed only for the purpose of preparing the text of documents.
+
+(9)
+
+“Disclosing”, in relation to data, includes disclosing information
+extracted from the data; and where the identification of the individual
+who is the subject of personal data depends partly on the information
+constituting the data and partly on other information in the possession of
+the data user, the data shall not be regarded as disclosed or transferred
+unless the other information is also disclosed or transferred.
+
+(10) Subject to paragraph (12), references in this Law to the data protection
+principles are to the principles set out in Part 1 of Schedule 1, and those
+principles shall be interpreted in accordance with Part 2 of that Schedule.
+(11) The first 7 principles apply to personal data held by data users and the
+eighth applies both to such data and to personal data in respect of which
+services are provided by persons carrying on computer bureaux.
+(12) The States may by Regulations modify or supplement those principles for
+the purpose of providing additional safeguards in relation to personal data
+consisting of information as to –
+(a)
+
+the racial origin of the data subject;
+
+(b)
+
+the data subject’s political opinions or religious or other beliefs;
+
+(c)
+
+the data subject’s physical or mental health or the data subject’s
+sexual life; or
+
+(d)
+
+the data subject’s criminal convictions,
+
+and references in this Law to the data protection principles include,
+except where the context otherwise requires, references to any modified
+or additional principle having effect by virtue of Regulations under this
+paragraph.
+(13) Regulations under paragraph (12) may modify a principle either by
+modifying the principle itself or by modifying its interpretation; and
+where Regulations under that paragraph modify a principle or provide for
+Page - 8
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+Article 2
+
+an additional principle they may contain provisions for the interpretation
+of the modified or additional principle.
+(14) Regulations under paragraph (12) modifying the third data protection
+principle may, to such extent as the States think appropriate, exclude or
+modify in relation to that principle any exemption from the nondisclosure provisions contained in Part 4; and the exemptions from those
+provisions contained in that Part shall accordingly have effect subject to
+any Regulations made by virtue of this paragraph.
+(15) Regulations under paragraph (12) may make different provision in
+relation to data consisting of information of different descriptions.
+(16) In this Law, unless the context otherwise requires –
+“business” includes any trade or profession;
+“Committee” means the Finance and Economics Committee;
+“data equipment” means equipment for the automatic processing of data
+or for recording information so that it can be automatically processed;
+“data material” means any document or other material used in connection
+with data equipment;
+“de-registration notice” means a notice under Article 10;
+“enactment” includes an enactment passed after this Law;
+“enforcement notice” means a notice under Article 9;
+“European Convention” means the Convention for the Protection of
+Individuals with regard to Automatic Processing of Personal Data which
+was opened for signature on 28th January 1981;
+“prescribed” means prescribed by Orders made by the Committee;
+“register”, except where the reference is to the register of companies,
+means the register maintained under Article 3 and (except where the
+reference is to a registered company, to the registered office of a
+company or to registered post) references to registration shall be
+construed accordingly;
+“registered company” means a company registered under the enactments
+relating to companies for the time being in force in Jersey;
+“Registrar” means the Data Protection Registrar;
+“Royal Court” means the Inferior Number of the Royal Court;
+“transfer prohibition notice” means a notice under Article 11;
+“Tribunal” means the Data Protection Tribunal.
+2
+
+The Registrar and the Tribunal
+(1)
+
+For the purpose of this Law there shall be –
+(a)
+
+an officer known as the Data Protection Registrar (in this Law
+referred to as the “Registrar”);
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 9
+
+Article 3
+
+Data Protection (Jersey) Law 1987
+
+(b)
+(2)
+
+a Tribunal known as the Data Protection Tribunal (in this Law
+referred to as the “Tribunal”).
+
+Schedule 2 shall have effect in relation to the Registrar and the Tribunal.
+
+PART 2
+REGISTRATION AND SUPERVISION OF DATA USERS AND
+COMPUTER BUREAUX
+3
+
+Registration of data users and computer bureaux
+(1)
+
+The Registrar shall maintain a register of data users who hold, and of
+persons carrying on computer bureaux who provide services in respect of,
+personal data and shall make an entry in the register in pursuance of each
+application for registration accepted by the Registrar under this Part.
+
+(2)
+
+Each entry shall state whether it is in respect of a data user, of a person
+carrying on a computer bureau or of a data user who also carries on such
+a bureau.
+
+(3)
+
+Subject to the provisions of this Article, an entry in respect of a data user
+shall consist of the following particulars –
+(a)
+
+the name and address of the data user;
+
+(b)
+
+a description of the personal data to be held by the data user and of
+the purpose or purposes for which the data are to be held or used;
+
+(c)
+
+a description of the source or sources from which the data user
+intends or may wish to obtain the data or the information to be
+contained in the data;
+
+(d)
+
+a description of any person or persons to whom the data user
+intends or may wish to disclose the data;
+
+(e)
+
+the name or a description of any countries or territories outside
+Jersey to which the data user intends or may wish directly or
+indirectly to transfer the data; and
+
+(f)
+
+one or more addresses for the receipt of requests from data subjects
+for access to the data.
+
+(4)
+
+Subject to the provisions of this Article, an entry in respect of a person
+carrying on a computer bureau shall consist of that person’s name and
+address.
+
+(5)
+
+Subject to the provisions of this Article, an entry in respect of a data user
+who also carries on a computer bureau shall consist of the data user’s
+name and address and, as respects the personal data to be held by the data
+user, the particulars specified in paragraph (3)(b) to (f).
+
+(6)
+
+In the case of a registered company the address referred to in
+paragraphs (3)(a), (4) and (5) is that of its registered office, and the
+particulars to be included in the entry shall include the company’s
+number in the register of companies.
+
+Page - 10
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+4
+
+5
+
+Article 4
+
+(7)
+
+In the case of a person (other than a registered company) carrying on a
+business the address referred to in paragraphs (3)(a), (4) and (5) is that of
+the person’s principal place of business.
+
+(8)
+
+The Committee may by Order vary the particulars to be included in
+entries made in the register.
+
+Prohibition of unregistered holding etc. of personal data
+(1)
+
+A person shall not hold personal data unless an entry in respect of that
+person as a data user, or as a data user who also carries on a computer
+bureau, is for the time being contained in the register.
+
+(2)
+
+A person in respect of whom such an entry is contained in the register
+shall not –
+(a)
+
+hold personal data of any description other than that specified in
+the entry;
+
+(b)
+
+hold any such data, or use any such data held by the person, for any
+purpose other than the purpose or purposes described in the entry;
+
+(c)
+
+obtain such data, or information to be contained in such data, to be
+held by the person from any source which is not described in the
+entry;
+
+(d)
+
+disclose such data held by the person to any person who is not
+described in the entry; or
+
+(e)
+
+directly or indirectly transfer such data held by the person to any
+country or territory outside Jersey other than one named or
+described in the entry.
+
+(3)
+
+A servant or agent of a person to whom paragraph (2) applies shall, as
+respects personal data held by that person, be subject to the same
+restrictions on the use, disclosure or transfer of the data as those to which
+that person is subject under paragraph (2)(b), (d) and (e) and, as respects
+personal data to be held by that person, to the same restrictions as those to
+which he or she is subject under paragraph (2)(c).
+
+(4)
+
+A person shall not, in carrying on a computer bureau, provide services in
+respect of personal data unless an entry in respect of that person as a
+person carrying on such a bureau, or as a data user who also carries on
+such a bureau, is for the time being contained in the register.
+
+(5)
+
+Any person who contravenes paragraph (1) or knowingly or recklessly
+contravenes any of the other provisions of this Article shall be guilty of
+an offence.
+
+Applications for registration and for alteration of registered particulars
+(1)
+
+A person applying for registration shall state whether the person wishes
+to be registered as a data user, as a person carrying on a computer bureau
+or as a data user who also carries on such a bureau, and shall furnish the
+Registrar, in such form as may be required, with the particulars required
+to be included in the entry to be made in pursuance of the application.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 11
+
+Article 6
+
+Data Protection (Jersey) Law 1987
+
+(2)
+
+Where a person intends to hold personal data for 2 or more purposes the
+person may make separate applications for registration in respect of any
+of those purposes.
+
+(3)
+
+A registered person may at any time apply to the Registrar for the
+alteration of any particulars included in the entry or entries relating to that
+person.
+
+(4)
+
+Where the alteration would consist of the addition of a purpose for which
+personal data are to be held, the person may, instead of making an
+application under paragraph (3), make a fresh application for registration
+in respect of the additional purpose.
+
+(5)
+
+A registered person shall make an application under paragraph (3)
+whenever necessary for ensuring that the entry or entries relating to that
+person contain the person’s current address; and any person who fails to
+comply with this paragraph shall be guilty of an offence.
+
+(6)
+
+Any person who, in connection with an application for registration or for
+the alteration of registered particulars, knowingly or recklessly furnishes
+the Registrar with information which is false or misleading in a material
+respect shall be guilty of an offence.
+
+(7)
+
+Every application for registration shall be accompanied by the prescribed
+fee, and every application for the alteration of registered particulars shall
+be accompanied by such fee, if any, as may be prescribed.
+
+(8)
+
+Any application for registration or for the alteration of registered
+particulars may be withdrawn by notice in writing to the Registrar at any
+time before the applicant receives a notification in respect of the
+application under Article 6(1).
+
+6
+
+Acceptance and refusal of applications
+(1)
+
+(2)
+
+Page - 12
+
+Subject to the provisions of this Article, the Registrar shall as soon as
+practicable and in any case within the period of 6 months after receiving
+an application for registration or for the alteration of registered particulars
+notify the applicant in writing whether the applicant’s application has
+been accepted or refused; and where the Registrar notifies an applicant
+that the applicant’s application has been accepted the notification shall
+contain a statement of –
+(a)
+
+the particulars entered in the register, or the alteration made, in
+pursuance of the application; and
+
+(b)
+
+the date on which the particulars were entered or the alteration was
+made.
+
+The Registrar shall not refuse an application made in accordance with
+Article 5 unless –
+(a)
+
+the Registrar considers that the particulars proposed for registration
+or, as the case may be, the particulars that would result from the
+proposed alteration, will not give sufficient information as to the
+matters to which they relate;
+
+(b)
+
+the Registrar is satisfied that the applicant is likely to contravene
+any of the data protection principles; or
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+(c)
+
+Article 6
+
+the Registrar considers that the information available to him or her
+is insufficient to satisfy the Registrar that the applicant is unlikely
+to contravene any of those principles.
+
+(3)
+
+Paragraph (2)(a) shall not be construed as precluding the acceptance by
+the Registrar of particulars expressed in general terms in cases where that
+is appropriate, and the Registrar shall accept particulars expressed in such
+terms in any case in which the Registrar is satisfied that more specific
+particulars would be likely to prejudice the purpose or purposes for which
+the data are to be held.
+
+(4)
+
+Where the Registrar refuses an application under this Article the
+Registrar shall give his or her reasons and shall so inform the applicant
+and inform the applicant also of the rights of appeal conferred by
+Article 12.
+
+(5)
+
+If in any case it appears to the Registrar that an application needs more
+consideration than can be given to it in the period mentioned in
+paragraph (1) the Registrar shall as soon as practicable and in any case
+before the end of that period notify the applicant in writing to that effect;
+and in that event no notification need be given under that paragraph until
+after the end of that period.
+
+(6)
+
+Subject to paragraph (8), a person who has made an application in
+accordance with Article 5 shall –
+(a)
+
+until the person receives a notification in respect of it under
+paragraph (1) or the application is withdrawn; and
+
+(b)
+
+if the person receives a notification under that paragraph of the
+refusal of the person’s application, until the end of the period
+within which an appeal can be brought against the refusal and, if an
+appeal is brought, until the determination or withdrawal of the
+appeal,
+
+be treated for the purposes of Article 4 as if the person’s application had
+been accepted and the particulars contained in it had been entered in the
+register or, as the case may be, the alteration requested in the application
+had been made on the date on which the application was made.
+(7)
+
+If by reason of special circumstances the Registrar considers that a refusal
+notified to an applicant under paragraph (1) should take effect as a matter
+of urgency the Registrar may include a statement to that effect in the
+notification of the refusal; and in that event paragraph (6)(b) shall have
+effect as if for the words from the “period” onwards there were
+substituted the words the “period of 7 days beginning with the date on
+which that notification is received”.
+
+(8)
+
+Paragraph (6) shall not apply to an application made by any person if in
+the previous 2 years –
+(a)
+
+an application by that person has been refused under this Article;
+or
+
+(b)
+
+all or any of the particulars constituting an entry contained in the
+register in respect of that person have been removed in pursuance
+of a de-registration notice,
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 13
+
+Article 7
+
+Data Protection (Jersey) Law 1987
+
+but in the case of any such application paragraph (1) shall apply as if for
+the reference to 6 months there were substituted a reference to 2 months
+and, where the Registrar gives a notification under paragraph (5) in
+respect of any such application, paragraph (6) shall apply to it as if for the
+reference to the date on which the application was made there were
+substituted a reference to the date on which that notification is received.
+(9)
+
+For the purposes of paragraph (6) an application shall be treated as made
+or withdrawn –
+(a)
+
+if the application or notice of withdrawal is sent by registered post
+or the recorded delivery service, on the date on which it is received
+for dispatch by the Committee for Postal Administration;
+
+(b)
+
+in any other case, on the date on which it is received by the
+Registrar,
+
+and for the purposes of paragraph (8)(a) an application shall not be
+treated as having been refused so long as an appeal against the refusal can
+be brought, while such an appeal is pending or if such an appeal has been
+allowed.
+7
+
+Duration and renewal of registration
+(1)
+
+No entry shall be retained in the register after the expiration of the initial
+period of registration except in pursuance of a renewal application made
+to the Registrar in accordance with this Article.
+
+(2)
+
+Subject to paragraph (3), the initial period of registration and the period
+for which an entry is to be retained in pursuance of a renewal application
+(the “renewal period”) shall be such period (not being less than 3 years)
+as may be prescribed beginning with the date on which the entry in
+question was made or, as the case may be, the date on which that entry
+would fall to be removed if the renewal application had not been made.
+
+(3)
+
+The person making an application for registration or a renewal
+application may in the person’s application specify as the initial period of
+registration or, as the case may be, as the renewal period, a period shorter
+than that prescribed, being a period consisting of one or more complete
+years.
+
+(4)
+
+Where the Registrar notifies an applicant for registration that the
+applicant’s application has been accepted the notification shall include a
+statement of the date when the initial period of registration will expire.
+
+(5)
+
+Every renewal application shall be accompanied by the prescribed fee,
+and no such application shall be made except in the period of 6 months
+ending with the expiration of –
+
+(6)
+
+Page - 14
+
+(a)
+
+the initial period of registration; or
+
+(b)
+
+if there have been one or more previous renewal applications, the
+current renewal period.
+
+Any renewal application may be sent by post, and the Registrar shall
+acknowledge its receipt and notify the applicant in writing of the date
+until which the entry in question will be retained in the register in
+pursuance of the application.
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+(7)
+
+8
+
+9
+
+Article 8
+
+Without prejudice to the foregoing provisions of this Article, the
+Registrar may at any time remove an entry from the register at the request
+of the person to whom the entry relates.
+
+Inspection of register
+(1)
+
+The Registrar shall provide facilities for making the information
+contained in the entries in the register available for inspection (in visible
+and legible form) by members of the public at all reasonable hours and
+free of charge.
+
+(2)
+
+The Registrar shall, on payment of such fee, if any, as may be prescribed,
+supply any member of the public with a duly certified copy in writing of
+the particulars contained in the entry made in the register in pursuance of
+any application for registration.
+
+Enforcement notices
+(1)
+
+If the Registrar is satisfied that a registered person has contravened or is
+contravening any of the data protection principles the Registrar may serve
+the person with a notice (an “enforcement notice”) requiring the person to
+take, within such time as is specified in the notice, such steps as are so
+specified for complying with the principle or principles in question.
+
+(2)
+
+In deciding whether to serve an enforcement notice the Registrar shall
+consider whether the contravention has caused or is likely to cause any
+person damage or distress.
+
+(3)
+
+An enforcement notice in respect of a contravention of the fifth data
+protection principle may require the data user –
+(a)
+
+to rectify or erase the data and any other data held by the data user
+and containing an expression of opinion which appears to the
+Registrar to be based on the inaccurate data; or
+
+(b)
+
+in the case of such data as are mentioned in Article 21(2), either to
+take the steps mentioned in sub-paragraph (a) or to take such steps
+as are specified in the notice for securing compliance with the
+requirements specified in that paragraph and, if the Registrar thinks
+fit, for supplementing the data with such statement of the true facts
+relating to the matters dealt with by the data as the Registrar may
+approve.
+
+(4)
+
+The Registrar shall not serve an enforcement notice requiring the person
+served with the notice to take steps for complying with paragraph (a) of
+the seventh data protection principle in respect of any data subject unless
+the Registrar is satisfied that the person has contravened Article 20 by
+failing to supply information to which the data subject is entitled and
+which has been duly requested in accordance with that Article.
+
+(5)
+
+An enforcement notice shall contain –
+(a)
+
+a statement of the principle or principles which the Registrar is
+satisfied have been or are being contravened and the Registrar’s
+reasons for reaching that conclusion; and
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 15
+
+Article 10
+
+Data Protection (Jersey) Law 1987
+
+(b)
+
+10
+
+particulars of the rights of appeal conferred by Article 12.
+
+(6)
+
+Subject to paragraph (7), the time specified in an enforcement notice for
+taking the steps which it requires shall not expire before the end of the
+period within which an appeal can be brought against the notice and, if
+such an appeal is brought, those steps need not be taken pending the
+determination or withdrawal of the appeal.
+
+(7)
+
+If by reason of special circumstances the Registrar considers that the
+steps required by an enforcement notice should be taken as a matter of
+urgency the Registrar may include a statement to that effect in the notice;
+and in that event paragraph (6) shall not apply but the notice shall not
+require the steps to be taken before the end of the period of 7 days
+beginning with the date on which the notice is served.
+
+(8)
+
+The Registrar may cancel an enforcement notice by written notification to
+the person on whom it was served.
+
+(9)
+
+Any person who fails to comply with an enforcement notice shall be
+guilty of an offence; but it shall be a defence for a person charged with an
+offence under this paragraph to prove that the person exercised all due
+diligence to comply with the notice in question.
+
+De-registration notices
+(1)
+
+If the Registrar is satisfied that a registered person has contravened or is
+contravening any of the data protection principles the Registrar may –
+(a)
+
+serve the person with a notice (a “de-registration notice”) stating
+that the Registrar proposes, at the expiration of such period as is
+specified in the notice, to remove from the register all or any of the
+particulars constituting the entry or any of the entries contained in
+the register in respect of that person; and
+
+(b)
+
+subject to the provisions of this Article, remove those particulars
+from the register at the expiration of that period.
+
+(2)
+
+In deciding whether to serve a de-registration notice the Registrar shall
+consider whether the contravention has caused or is likely to cause any
+person damage or distress, and the Registrar shall not serve such a notice
+unless satisfied that compliance with the principle or principles in
+question cannot be adequately secured by the service of an enforcement
+notice.
+
+(3)
+
+A de-registration notice shall contain –
+
+(4)
+
+Page - 16
+
+(a)
+
+a statement of the principle or principles which the Registrar is
+satisfied have been or are being contravened and the Registrar’s
+reasons for reaching that conclusion and deciding that compliance
+cannot be adequately secured by the service of an enforcement
+notice; and
+
+(b)
+
+particulars of the rights of appeal conferred by Article 12.
+
+Subject to paragraph (5), the period specified in a de-registration notice
+pursuant to paragraph (1)(a) shall not expire before the end of the period
+within which an appeal can be brought against the notice, and if such an
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+Article 11
+
+appeal is brought, the particulars shall not be removed pending the
+determination or withdrawal of the appeal.
+
+11
+
+(5)
+
+If by reason of special circumstances the Registrar considers that any
+particulars should be removed from the register as a matter of urgency the
+Registrar may include a statement to that effect in the de-registration
+notice; and in that event paragraph (4) shall not apply but the particulars
+shall not be removed before the end of the period of 7 days beginning
+with the date on which the notice is served.
+
+(6)
+
+The Registrar may cancel a de-registration notice by written notification
+to the person on whom it was served.
+
+(7)
+
+References in this Article to removing any particulars include references
+to restricting any description which forms part of any particulars.
+
+Transfer prohibition notices
+(1)
+
+If it appears to the Registrar that –
+(a)
+
+a person registered as a data user or as a data user who also carries
+on a computer bureau; or
+
+(b)
+
+a person treated as so registered by virtue of Article 6(6),
+
+proposes to transfer personal data held by the person to a place outside
+Jersey, the Registrar may, if satisfied as to the matters mentioned in
+paragraph (2) or (3), serve that person with a notice (a “transfer
+prohibition notice”) prohibiting the person from transferring the data
+either absolutely or until the person has taken such steps as are specified
+in the notice for protecting the interests of the data subjects in question.
+(2)
+
+Where the place to which the data are to be transferred is not in a State
+bound by the European Convention the Registrar must be satisfied that
+the transfer is likely to contravene, or lead to a contravention of, any of
+the data protection principles.
+
+(3)
+
+Where the place to which the data are to be transferred is in a State bound
+by the European Convention the Registrar must be satisfied either –
+(a)
+
+(b)
+
+(4)
+
+that –
+(i)
+
+the person in question intends to give instructions for the
+further transfer of the data to a place which is not in such a
+State, and
+
+(ii)
+
+that the further transfer is likely to contravene, or lead to a
+contravention of, any of the data protection principles; or
+
+in the case of data to which Regulations under Article 1(12) apply,
+that the transfer is likely to contravene or lead to a contravention
+of, any of the data protection principles as they have effect in
+relation to such data.
+
+In deciding whether to serve a transfer prohibition notice the Registrar
+shall consider whether the notice is required for preventing damage or
+distress to any person and shall have regard to the general desirability of
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 17
+
+Article 12
+
+Data Protection (Jersey) Law 1987
+
+facilitating the free transfer of data between Jersey and other states and
+territories.
+(5)
+
+A transfer prohibition notice shall specify the time when it is to take
+effect and contain –
+(a)
+
+a statement of the principle or principles which the Registrar is
+satisfied are likely to be contravened and the Registrar’s reasons
+for reaching that conclusion; and
+
+(b)
+
+particulars of the rights of appeal conferred by Article 12.
+
+(6)
+
+Subject to paragraph (7), the time specified in a transfer prohibition
+notice pursuant to paragraph (5) shall not be before the end of the period
+within which an appeal can be brought against the notice and, if such an
+appeal is brought, the notice shall not take effect pending the
+determination or withdrawal of the appeal.
+
+(7)
+
+If by reason of special circumstances the Registrar considers that the
+prohibition should take effect as a matter of urgency the Registrar may
+include a statement to that effect in the transfer prohibition notice; and in
+that event paragraph (6) shall not apply but the notice shall not take effect
+before the end of the period of 7 days beginning with the date on which
+the notice is served.
+
+(8)
+
+The Registrar may cancel a transfer prohibition notice by written
+notification to the person on whom it was served.
+
+(9)
+
+No transfer prohibition notice shall prohibit the transfer of any data where
+the transfer of the information constituting the data is required or
+authorized by or under any enactment or required by any convention or
+other instrument imposing an international obligation on the United
+Kingdom and extending to Jersey.
+
+(10) Any person who contravenes a transfer prohibition notice shall be guilty
+of an offence; but it shall be a defence for a person charged with an
+offence under this paragraph to prove that the person exercised all due
+diligence to avoid a contravention of the notice in question.
+(11) For the purposes of this Article a place shall be treated as in a State bound
+by the European Convention if it is in any territory in respect of which
+the State is bound.
+12
+
+Rights of appeal
+(1)
+
+(2)
+
+Page - 18
+
+A person may appeal to the Tribunal against –
+(a)
+
+any refusal by the Registrar of an application by that person for
+registration or for the alteration of registered particulars;
+
+(b)
+
+any enforcement notice, de-registration notice or transfer
+prohibition notice with which that person has been served.
+
+Where a notification that an application has been refused contains a
+statement by the Registrar in accordance with Article 6(7), then, whether
+or not the applicant appeals under paragraph (1)(a), the applicant may
+appeal against the Registrar’s decision to include that statement in the
+notification.
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+13
+
+Article 13
+
+(3)
+
+Where any such notice as is mentioned in paragraph (1)(b) contains a
+statement by the Registrar in accordance with Article 9(7), 10(5) or 11(7)
+then, whether or not the person served with the notice appeals under that
+sub-paragraph, the person may appeal against the Registrar’s decision to
+include that statement in the notice or against the effect of the inclusion
+of the statement as respects any part of the notice.
+
+(4)
+
+Schedule 3 shall have effect in relation to appeals under this Article and
+to the proceedings of the Tribunal in respect of any such appeal.
+
+Determination of appeals
+(1)
+
+If on an appeal under Article 12(1) the Tribunal considers –
+(a)
+
+that the refusal or notice against which the appeal is brought is not
+in accordance with the law; or
+
+(b)
+
+to the extent that the refusal or notice involved an exercise of
+discretion by the Registrar that the Registrar ought to have
+exercised his or her discretion differently,
+
+the Tribunal shall allow the appeal or substitute such other decision or
+notice as could have been made or served by the Registrar and in any
+other case the Tribunal shall dismiss the appeal.
+
+14
+
+(2)
+
+The Tribunal may review any determination of fact on which the refusal
+or notice in question was based.
+
+(3)
+
+On an appeal under Article 12(2) the Tribunal may direct that such
+notification of the refusal shall be treated as if it did not contain any such
+statement as is mentioned in that paragraph.
+
+(4)
+
+On an appeal under Article 12(3) the Tribunal may direct that the notice
+in question shall have effect as if it did not contain any such statement as
+is mentioned in that paragraph or that the inclusion of the statement shall
+not have effect in relation to any part of the notice and may make such
+modifications in the notice as may be required for giving effect to the
+direction.
+
+(5)
+
+Any party to an appeal to the Tribunal may appeal from the decision of
+the Tribunal on a point of law to the Royal Court.
+
+Unauthorized disclosure by computer bureaux
+(1)
+
+Personal data in respect of which services are provided by a person
+carrying on a computer bureau shall not be disclosed by the person
+without the prior authority of the person for whom those services are
+provided.
+
+(2)
+
+Paragraph (1) applies also to any servant or agent of a person carrying on
+a computer bureau.
+
+(3)
+
+Any person who knowingly or recklessly contravenes this Article shall be
+guilty of an offence.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 19
+
+Article 15
+
+15
+
+Data Protection (Jersey) Law 1987
+
+Powers of entry and inspection
+Schedule 4 shall have effect for the detection of offences under this Law and
+contraventions of the data protection principles.
+
+16
+
+Disclosure of information
+(1)
+
+No enactment or rule of law prohibiting or restricting the disclosure of
+information shall preclude a person from furnishing the Registrar or the
+Tribunal with any information necessary for the discharge of their
+functions under this Law.
+
+(2)
+
+For the purposes of Article 4 of the Official Secrets (Jersey) Law 19521 –
+(a)
+
+the Registrar and the Registrar’s staff; and
+
+(b)
+
+the members of the Tribunal,
+
+shall be deemed to hold office under Her Majesty.
+(3)
+
+17
+
+The said Article 4 shall not be construed as precluding the disclosure of
+information by any person mentioned in paragraph (2)(a) or (b) where the
+disclosure is made for the purpose of discharging the person’s duties
+under this Law or for the purpose of proceedings under or arising out of
+this Law, including proceedings before the Tribunal.
+
+Serving of notices
+(1)
+
+Any notice or notification authorized or required by this Law to be served
+on or given to any person by the Registrar may –
+(a)
+
+(b)
+
+if that person is an individual, be served on the person –
+(i)
+
+by delivering it to the person,
+
+(ii)
+
+by sending it to the person by post addressed to the person at
+the person’s usual or last known place of residence or
+business, or
+
+(iii)
+
+by leaving it for the person at that place;
+
+if that person is a body corporate or unincorporate, be served on
+that body –
+(i)
+
+by sending it by post to the proper officer of the body at its
+principal office, or
+
+(ii)
+
+by addressing it to the proper officer of the body and leaving
+it at that office.
+
+(2)
+
+In paragraph (1)(b), “principal office”, in relation to a registered
+company, means its registered office and “proper officer”, in relation to
+any body, means the secretary or other executive officer charged with the
+conduct of its general affairs.
+
+(3)
+
+This Article is without prejudice to any other lawful method of serving or
+giving a notice or notification.
+
+Page - 20
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+18
+
+19
+
+Article 18
+
+Prosecution and penalties
+(1)
+
+No proceedings for an offence under this Law shall be instituted except
+by or with the consent of the Attorney General.
+
+(2)
+
+A person guilty of an offence under any provision of this Law shall be
+liable on conviction to a fine.
+
+(3)
+
+Subject to paragraph (4), the court by or before which a person is
+convicted of an offence under Article 4, 9, 11 or 14 may order any data
+material appearing to the Court to be connected with the commission of
+the offence to be forfeited, destroyed or erased.
+
+(4)
+
+The Court shall not make an order under paragraph (3) in relation to any
+material where a person (other than the offender) claiming to be the
+owner or otherwise interested in it applies to be heard by the Court unless
+an opportunity is given to the person to show cause why the Order should
+not be made.
+
+Liability of directors etc.
+(1)
+
+Where an offence under this Law has been committed by a body
+corporate and is proved to have been committed with the consent or
+connivance of or to be attributable to any neglect on the part of any
+director, manager, secretary or similar officer of the body corporate or
+any person who was purporting to act in any such capacity, he or she as
+well as the body corporate shall be guilty of that offence and be liable to
+be proceeded against and punished accordingly.
+
+(2)
+
+Where the affairs of a body corporate are managed by its members
+paragraph (1) shall apply in relation to the acts and defaults of a member
+in connection with the member’s functions of management as if the
+member were a director of the body corporate.
+
+PART 3
+RIGHTS OF DATA SUBJECTS
+20
+
+Rights of access to personal data
+(1)
+
+Subject to the provisions of this Article, an individual shall be entitled –
+(a)
+
+to be informed by any data user whether the data held by the data
+user include personal data of which that individual is the data
+subject; and
+
+(b)
+
+to be supplied by any data user with a copy of the information
+constituting any such personal data held by the data user,
+
+and where any of the information referred to in sub-paragraph (b) is
+expressed in terms which are not intelligible without explanation the
+information shall be accompanied by an explanation of those terms.
+(2)
+
+A data user shall not be obliged to supply any information under
+paragraph (1) except in response to a request in writing and on payment
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 21
+
+Article 20
+
+Data Protection (Jersey) Law 1987
+
+of such fee (not exceeding the prescribed maximum) as the data user may
+require; but a request for information under both sub-paragraphs of that
+paragraph shall be treated as a single request and a request for
+information under sub-paragraph (a) shall, in the absence of any
+indication to the contrary, be treated as extending also to information
+under sub-paragraph (b).
+(3)
+
+In the case of a data user having separate entries in the register in respect
+of data held for different purposes a separate request must be made and a
+separate fee paid under this Article in respect of the data to which each
+entry relates.
+
+(4)
+
+A data user shall not be obliged to comply with a request under this
+Article –
+(a)
+
+unless the data user is supplied with such information as he or she
+may reasonably require in order to satisfy himself or herself as to
+the identity of the person making the request and to locate the
+information which the requester seeks; and
+
+(b)
+
+if the data user cannot comply with the request without disclosing
+information relating to another individual who can be identified
+from that information, unless the data user is satisfied that the other
+individual has consented to the disclosure of the information to the
+person making the request.
+
+(5)
+
+In paragraph (4)(b) the reference to information relating to another
+individual includes a reference to information identifying that individual
+as the source of the information sought by the request; and that subparagraph shall not be construed as excusing a data user from supplying
+so much of the information sought by the request as can be supplied
+without disclosing the identity of the other individual concerned, whether
+by the omission of names or other identifying particulars or otherwise.
+
+(6)
+
+A data user shall comply with a request under this Article within 40 days
+of receiving the request or, if later, receiving the information referred to
+in paragraph (4)(a) and, in a case where it is required, the consent referred
+to in paragraph (4)(b).
+
+(7)
+
+The information to be supplied pursuant to a request under this Article
+shall be supplied by reference to the data in question at the time when the
+request is received except that it may take account of any amendment or
+deletion made between that time and the time when the information is
+supplied, being an amendment or deletion that would have been made
+regardless of the receipt of the request.
+
+(8)
+
+If a data user fails to comply with a request under this Article, the person
+making the request may apply to the Registrar with a view to the
+Registrar serving an enforcement notice and where the Registrar refuses
+the application, the person concerned may appeal to the Tribunal and the
+provisions of this Law relating to appeals to the Tribunal shall apply to
+any such appeal under this Article.
+
+(9)
+
+If the Tribunal is satisfied on the application of any person who has made
+a request under the foregoing provisions of this Article that the data user
+in question has failed to comply with the request in contravention of
+those provisions, the Tribunal may order the data user to comply with the
+
+Page - 22
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+Article 21
+
+request; but the Tribunal shall not so order if it considers that it would in
+all the circumstances be unreasonable to do so, whether because of the
+frequency with which the applicant has made requests to the data user
+under those provisions or for any other reason.
+(10) The Committee may by Order provide for enabling a request under this
+Article to be made on behalf of any individual who is incapable by reason
+of mental disorder of managing the individual’s own affairs.
+21
+
+22
+
+Compensation for inaccuracy
+(1)
+
+An individual who is the subject of personal data held by a data user and
+who suffers damage by reason of the inaccuracy of the data shall be
+entitled to compensation from the data user for that damage and for any
+distress which the individual has suffered by reason of the inaccuracy.
+
+(2)
+
+In the case of data which accurately record information received or
+obtained by the data user from the data subject or a third party,
+paragraph (1) does not apply if the following requirements have been
+complied with –
+(a)
+
+the data indicate that the information was received or obtained as
+aforesaid or the information has not been extracted from the data
+except in a form which includes an indication to that effect; and
+
+(b)
+
+if the data subject has notified the data user that the data subject
+regards the information as incorrect or misleading, an indication to
+that effect has been included in the data or the information has not
+been extracted from the data except in a form which includes an
+indication to that effect.
+
+(3)
+
+In proceedings brought against any person by virtue of this Article it shall
+be a defence to prove that the person had taken such care as in all the
+circumstances was reasonably required to ensure the accuracy of the data
+at the material time.
+
+(4)
+
+Data are inaccurate for the purposes of this Article if incorrect or
+misleading as to any matter of fact.
+
+Compensation for loss or unauthorized disclosure
+(1)
+
+An individual who is the subject of personal data held by a data user or in
+respect of which services are provided by a person carrying on a
+computer bureau and who suffers damage by reason of –
+(a)
+
+the loss of the data;
+
+(b)
+
+the destruction of the data without the authority of the data user or,
+as the case may be, of the person carrying on the bureau; or
+
+(c)
+
+subject to paragraph (2), the disclosure of the data, or access
+having been obtained to the data, without such authority as
+aforesaid,
+
+shall be entitled to compensation from the data user or, as the case may
+be the person carrying on the bureau for that damage and for any distress
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 23
+
+Article 23
+
+Data Protection (Jersey) Law 1987
+
+which the individual has suffered by reason of the loss, destruction,
+disclosure or access.
+
+23
+
+(2)
+
+In the case of a registered data user, paragraph (1)(c) does not apply to
+disclosure to, or access by, any person falling within a description
+specified pursuant to Article 3(3)(d) in an entry in the register relating to
+that data user.
+
+(3)
+
+In proceedings brought against any person by virtue of this Article it shall
+be a defence to prove that the person had taken such care as in all the
+circumstances was reasonably required to prevent the loss, destruction,
+disclosure or access in question.
+
+Rectification and erasure
+(1)
+
+If the Royal Court is satisfied on the application of a data subject that
+personal data held by a data user of which the applicant is the subject are
+inaccurate within the meaning of Article 21, the Court may order the
+rectification or erasure of the data and of any data held by the data user
+and containing an expression of opinion which appears to the Court to be
+based on the inaccurate data.
+
+(2)
+
+Paragraph (1) applies whether or not the data accurately record
+information received or obtained by the data user from the data subject or
+a third party but where the data accurately record such information,
+then –
+
+(3)
+
+(a)
+
+if the requirements mentioned in Article 21(2) have been complied
+with, the Court may, instead of making an order under
+paragraph (1), make an order requiring the data to be supplemented
+by such statement of the true facts relating to the matters dealt with
+by the data as the Court may approve; and
+
+(b)
+
+if all or any of those requirements have not been complied with,
+the Court may, instead of making an order under that paragraph,
+make such order as it thinks fit for securing compliance with those
+requirements with or without a further order requiring the data to
+be supplemented by such a statement as is mentioned in subparagraph (a).
+
+If the Royal Court is satisfied on the application of a data subject –
+(a)
+
+that the data subject has suffered damage by reason of the
+disclosure of personal data, or of access having been obtained to
+personal data, in circumstances entitling the data subject to
+compensation under Article 22; and
+
+(b)
+
+that there is a substantial risk of further disclosure of or access to
+the data without such authority as is mentioned in that Article,
+
+the Court may order the erasure of the data; but, in the case of data in
+respect of which services were being provided by a person carrying on a
+computer bureau, the Court shall not make such an order unless such
+steps as are reasonably practicable have been taken for notifying the
+person for whom those services were provided and giving the person an
+opportunity to be heard.
+
+Page - 24
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+24
+
+Article 24
+
+Procedure
+For the purpose of determining any question whether an applicant under
+Article 20(8) or (9) is entitled to the information which the applicant seeks
+(including any question whether any relevant data are exempt from that Article
+by virtue of Part 4) the Registrar or the Tribunal may require the information
+constituting any data held by the data user to be made available for the
+Registrar’s or its own inspection but shall not, pending the determination of that
+question in the applicant’s favour, require the information sought by the
+applicant to be disclosed to the applicant or the applicant’s representatives
+whether by discovery or otherwise.
+
+PART 4
+EXEMPTIONS
+25
+
+Preliminary
+(1)
+
+References in any provision of Part 2 or 3 to personal data do not include
+references to data which by virtue of this Part are exempt from that
+provision.
+
+(2)
+
+In this Part the “subject access provisions” means –
+
+(3)
+
+(4)
+
+26
+
+(a)
+
+Article 20; and
+
+(b)
+
+any provision of Part 2 conferring a power on the Registrar to the
+extent to which it is exercisable by reference to paragraph (a) of the
+seventh data protection principle.
+
+In this Part the “non-disclosure provisions” means –
+(a)
+
+Articles 4(2)(d) and 14; and
+
+(b)
+
+any provision of Part 2 conferring a power on the Registrar to the
+extent to which it is exercisable by reference to any data protection
+principle inconsistent with the disclosure in question.
+
+Except as provided by this Part the subject access provisions shall apply
+notwithstanding any enactment or rule of law prohibiting or restricting
+the disclosure, or authorizing the withholding, of information.
+
+National security
+(1)
+
+Personal data are exempt from the provisions of Part 2 and Articles 20 to
+23 if the exemption is required for the purpose of safeguarding national
+security.
+
+(2)
+
+Any question whether the exemption mentioned in paragraph (1) is or at
+any time was required for the purpose there mentioned in respect of any
+personal data shall be determined by the Bailiff and a certificate signed
+by the Bailiff certifying that the exemption is or at any time was so
+required shall be conclusive evidence of that fact.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 25
+
+Article 27
+
+Data Protection (Jersey) Law 1987
+
+(3)
+
+Personal data which are not exempt under paragraph (1) are exempt from
+the non-disclosure provisions in any case in which the disclosure of the
+data is for the purpose of safeguarding national security.
+
+(4)
+
+For the purposes of paragraph (3) a certificate signed by the Bailiff
+certifying that personal data are or have been disclosed for the purpose
+mentioned in that paragraph shall be conclusive evidence of that fact.
+
+(5)
+
+A document purporting to be such a certificate as is mentioned in this
+Article shall be received in evidence and deemed to be such a certificate
+unless the contrary is proved.
+
+27
+
+Crime and taxation
+(1)
+
+Personal data held for any of the following purposes –
+(a)
+
+the prevention or detection of crime;
+
+(b)
+
+the apprehension or prosecution of offenders; or
+
+(c)
+
+the assessment or collection of any tax or duty,
+
+are exempt from the subject access provisions in any case in which the
+application of those provisions to the data would be likely to prejudice
+any of the matters mentioned in this paragraph.
+(2)
+
+Personal data which –
+(a)
+
+are held for the purpose of discharging statutory functions; and
+
+(b)
+
+consist of information obtained for such a purpose from a person
+who had it in the person’s possession for any of the purposes
+mentioned in paragraph (1),
+
+are exempt from the subject access provisions to the same extent as
+personal data held for any of the purposes mentioned in that paragraph.
+(3)
+
+Personal data are exempt from the non-disclosure provisions in any case
+in which –
+(a)
+
+the disclosure is for any of the purposes mentioned in
+paragraph (1); and
+
+(b)
+
+the application of those provisions in relation to the disclosure
+would be likely to prejudice any of the matters mentioned in that
+paragraph,
+
+and in proceedings against any person for contravening a provision
+mentioned in Article 25(3)(a) it shall be a defence to prove that the
+person had reasonable grounds for believing that failure to make the
+disclosure in question would have been likely to prejudice any of those
+matters.
+(4)
+
+Page - 26
+
+Personal data are exempt from the provisions of Part 2 conferring powers
+on the Registrar to the extent to which they are exercisable by reference
+to the first data protection principle, in any case in which the application
+of those provisions to the data would be likely to prejudice any of the
+matters mentioned in paragraph (1).
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+28
+
+Article 28
+
+Health and social work
+(1)
+
+The States may by Regulations exempt from the subject access
+provisions, or modify those provisions in relation to, personal data
+consisting of information as to the physical or mental health of the data
+subject.
+
+(2)
+
+The States may by Regulations exempt from the subject access
+provisions, or modify those provisions in relation to, personal data of
+such other descriptions as may be specified in the Regulations, being
+information –
+(a)
+
+held by States’ Departments or parish authorities or by voluntary
+organizations or other bodies designated by or under the
+Regulations; and
+
+(b)
+
+appearing to the States to be held for, or acquired in the course of,
+carrying out social work including child care in relation to the data
+subject or other individuals,
+
+but the States shall not under this paragraph confer any exemption or
+make any modification except so far as they consider that the application
+to the data of those provisions (or of those provisions without
+modification) would be likely to prejudice the carrying out of social
+work.
+(3)
+
+29
+
+30
+
+Regulations under this Article may make different provision in relation to
+data consisting of information of different descriptions.
+
+Regulation of financial services etc.
+(1)
+
+Personal data held for the purpose of discharging functions to which this
+Article applies are exempt from the subject access provisions in any case
+in which the application of those provisions to the data would be likely to
+prejudice the proper discharge of those functions.
+
+(2)
+
+This Article applies to any functions designated for the purposes of this
+Article by Regulations made by the States being functions conferred by
+or under any enactment or customary law appearing to them to be
+designed for protecting members of the public against financial loss due
+to dishonesty, incompetence or malpractice by persons concerned in the
+provision of banking, insurance, investment or other financial services or
+in the management of companies or to the conduct of discharged or
+undischarged bankrupts.
+
+Judicial appointments and legal professional privilege
+(1)
+
+Personal data held by the Crown or by a States’ Department are exempt
+from the subject access provisions if the data consist of information
+which has been received from a third party and is held as information
+relevant to the making of judicial appointments.
+
+(2)
+
+Personal data are exempt from the subject access provisions if the data
+consist of information in respect of which a claim to legal professional
+privilege could be maintained in legal proceedings.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 27
+
+Article 31
+
+31
+
+Data Protection (Jersey) Law 1987
+
+Payrolls and accounts
+(1)
+
+Subject to paragraph (2), personal data held by a data user only for one or
+more of the following purposes –
+(a)
+
+calculating amounts payable by way of remuneration or pensions
+in respect of service in any employment or office or making
+payments of, or of sums deducted from, such remuneration or
+pensions; or
+
+(b)
+
+keeping accounts relating to any business or other activity carried
+on by the data user or keeping records of purchases, sales or other
+transactions for the purpose of ensuring that the requisite payments
+are made by or to the data user in respect of those transactions or
+for the purpose of making financial or management forecasts to
+assist the data user in the conduct of any such business or activity,
+
+are exempt from the provisions of Part 2 and of Articles 20 to 23.
+(2)
+
+It shall be a condition of the exemption of any data under this Article that
+the data are not used for any purpose other than the purpose or purposes
+for which they are held and are not disclosed except as permitted by
+paragraphs (3) and (4) but the exemption shall not be lost by any use or
+disclosure in breach of that condition if the data user shows that the data
+user had taken such care to prevent it as in all the circumstances was
+reasonably required.
+
+(3)
+
+Data held only for one or more of the purposes mentioned in
+paragraph (1)(a) may be disclosed –
+
+(4)
+
+(5)
+
+Page - 28
+
+(a)
+
+to any person, other than the data user, by whom the remuneration
+or pensions in question are payable;
+
+(b)
+
+for the purposes of obtaining actuarial advice;
+
+(c)
+
+for the purpose of giving information as to the persons in any
+employment or office for use in medical research into the health of,
+or injuries suffered by, persons engaged in particular occupations
+or working in particular places or areas;
+
+(d)
+
+if the data subject (or a person acting on the data subject’s behalf)
+has requested or consented to the disclosure of the data either
+generally or in the circumstances in which the disclosure in
+question is made; or
+
+(e)
+
+if the person making the disclosure has reasonable grounds for
+believing that the disclosure falls within sub-paragraph (d).
+
+Data held for any of the purposes mentioned in paragraph (1) may be
+disclosed –
+(a)
+
+for the purpose of audit or where the disclosure is for the purpose
+only of giving information about the data user’s financial affairs; or
+
+(b)
+
+in any case in which disclosure would be permitted by any other
+provision of this Part of this Law if paragraph (2) were included
+among the non-disclosure provisions.
+
+In this Article “remuneration” includes remuneration in kind and
+“pensions” includes gratuities or similar benefits.
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+32
+
+Article 32
+
+Domestic or other limited purposes
+(1)
+
+Personal data held by an individual and concerned only with the
+management of the individual’s personal, family or household affairs or
+held by the individual only for recreational purposes are exempt from the
+provisions of Part 2 and of Articles 20 to 23.
+
+(2)
+
+Subject to paragraphs (3) and (4) –
+(a)
+
+personal data held by an unincorporated members’ club and
+relating only to the members of the club; and
+
+(b)
+
+personal data held by a data user only for the purpose of
+distributing, or recording the distribution of, articles or information
+to the data subjects and consisting only of their names, addresses or
+other particulars necessary for effecting the distribution,
+
+are exempt from the provisions of Part 2 and of Articles 20 to 23.
+(3)
+
+Neither paragraph (2)(a) nor (b) applies to personal data relating to any
+data subject unless the data subject has been asked by the club or data
+user whether the data subject objects to the data relating to the data
+subject being held as mentioned in that sub-paragraph and has not
+objected.
+
+(4)
+
+It shall be a condition of the exemption of any data under
+paragraph (2)(b) that the data are not used for any purpose other than that
+for which they are held and of the exemption of any data under either
+sub-paragraph of paragraph (2) that the data are not disclosed except as
+permitted by paragraph (5); but the first exemption shall not be lost by
+any use, and neither exemption shall be lost by any disclosure in breach
+of that condition if the data user shows that the data user had taken such
+care to prevent it as in all the circumstances was reasonably required.
+
+(5)
+
+Data to which paragraph (4) applies may be disclosed –
+
+(6)
+
+(a)
+
+if the data subject (or a person acting on the data subject’s behalf)
+has requested or consented to the disclosure of the data either
+generally or in the circumstances in which the disclosure in
+question is made;
+
+(b)
+
+if the person making the disclosure has reasonable grounds for
+believing that the disclosure falls within sub-paragraph (a); or
+
+(c)
+
+in any case in which disclosure would be permitted by any other
+provision of this Part of this Law if paragraph (4) were included
+among the non-disclosure provisions.
+
+Personal data held only for –
+(a)
+
+preparing statistics; or
+
+(b)
+
+carrying out research,
+
+are exempt from the subject access provisions; but it shall be a condition
+of that exemption that the data are not used or disclosed for any other
+purpose and that the resulting statistics or the results of the research are
+not made available in a form which identifies the data subjects or any of
+them.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 29
+
+Article 33
+
+33
+
+Data Protection (Jersey) Law 1987
+
+Other exemptions
+(1)
+
+Personal data held by any person are exempt from the provisions of Part 2
+and of Articles 20 to 23 if the data consist of information which that
+person is required by or under any enactment to make available to the
+public, whether by publishing it, making it available for inspection or
+otherwise and whether gratuitously or on payment of a fee.
+
+(2)
+
+The States may by Regulations exempt from the subject access provisions
+personal data consisting of information the disclosure of which is
+prohibited or restricted by or under any enactment if they consider that
+the prohibition or restriction ought to prevail over those provisions in the
+interests of the data subject or of any other individual.
+
+(3)
+
+Personal data are exempt from the subject access provisions if the data
+are kept only for the purpose of replacing other data in the event of the
+latter being lost, destroyed or impaired.
+
+(4)
+
+Personal data are exempt from the non-disclosure provisions in any case
+in which the disclosure is –
+
+(5)
+
+(a)
+
+required by or under any enactment, by any rule of law or by the
+Order of a Court; or
+
+(b)
+
+made for the purpose of obtaining legal advice or for the purposes
+of, or in the course of, legal proceedings in which the person
+making the disclosure is a party or a witness.
+
+Personal data are exempt from the non-disclosure provisions in any case
+in which –
+(a)
+
+the disclosure is to the data subject or a person acting on the data
+subject’s behalf;
+
+(b)
+
+the data subject or any such person has requested or consented to
+the particular disclosure in question;
+
+(c)
+
+the disclosure is by a data user or a person carrying on a computer
+bureau to his or her servant or agent for the purpose of enabling the
+servant or agent to perform his or her functions as such;
+
+(d)
+
+the disclosure is by a data user or a person carrying on a computer
+bureau to a person in order that that person may maintain, rectify
+defects or make alterations to, the computer hardware or software
+of the data user; or
+
+(e)
+
+the person making the disclosure has reasonable grounds for
+believing that the disclosure falls within any of sub-paragraphs (a)
+to (d).
+
+(6)
+
+Article 3(3)(d) does not apply to any disclosure falling within
+paragraph (5)(a), (b) or (c); and that paragraph shall apply to the
+restriction on disclosure in Article 32(6) as it applies to the nondisclosure provisions.
+
+(7)
+
+Personal data are exempt from the non-disclosure provisions in any case
+in which the disclosure is urgently required for preventing injury or other
+damage to the health of any person or persons; and in proceedings against
+any person for contravening a provision mentioned in Article 25(3)(a) it
+shall be a defence to prove that the person had reasonable grounds for
+
+Page - 30
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+Article 34
+
+believing that the disclosure in question was urgently required for that
+purpose.
+(8)
+
+34
+
+A person need not comply with a notice, request or order under the
+subject access provisions if compliance would expose the person to
+proceedings for any offence other than an offence under this Law; and
+information disclosed by any person in compliance with such a notice,
+request or order shall not be admissible against the person in proceedings
+for an offence under this Law.
+
+Examination results
+(1)
+
+(2)
+
+Article 20 shall have effect subject to the provisions of this Article in the
+case of personal data consisting of marks or other information held by a
+data user –
+(a)
+
+for the purpose of determining the results of an academic,
+professional or other examination or of enabling the results of any
+such examination to be determined; or
+
+(b)
+
+in consequence of the determination of any such results.
+
+Where the period mentioned in Article 20(6) begins before the results of
+the examination are announced that period shall be extended until –
+(a)
+
+the end of 5 months from the beginning of that period; or
+
+(b)
+
+the end of 40 days after the date of the announcement,
+
+whichever is the earlier.
+(3)
+
+Where by virtue of paragraph (2) a request is complied with more than 40
+days after the beginning of the period mentioned in Article 20(6), the
+information to be supplied pursuant to the request shall be supplied both
+by reference to the data in question at the time when the request is
+received and (if different) by reference to the data as from time to time
+held in the period beginning when the request is received and ending
+when it is complied with.
+
+(4)
+
+For the purposes of this Article the results of an examination shall be
+treated as announced when they are first published or (if not published)
+when they are first made available or communicated to the candidate in
+question.
+
+(5)
+
+In this Article “examination” includes any process for determining the
+knowledge, intelligence, skill or ability of a candidate by reference to the
+candidate’s performance in any test, work or other activity.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 31
+
+Article 35
+
+Data Protection (Jersey) Law 1987
+
+PART 5
+GENERAL
+35
+
+36
+
+General duties of Registrar etc.
+(1)
+
+It shall be the duty of the Registrar so to perform the Registrar’s functions
+under this Law as to promote the observance of the data protection
+principles by data users and persons carrying on computer bureaux.
+
+(2)
+
+The Registrar may consider any complaint that any of the data protection
+principles or any provision of this Law has been or is being contravened
+and shall do so if it appears to the Registrar to raise a matter of substance
+and to have been made without undue delay by a person directly affected;
+and where the Registrar considers any such complaint the Registrar shall
+notify the complainant of the result of the Registrar’s consideration and
+of any action which the Registrar proposes to take.
+
+(3)
+
+The Registrar shall arrange for the dissemination in such form and
+manner as the Registrar considers appropriate of such information as it
+may appear to the Registrar expedient to give to the public about the
+operation of this Law and other matters within the scope of the
+Registrar’s functions under this Law and may give advice to any person
+as to any of those matters.
+
+(4)
+
+It shall be the duty of the Registrar, where the Registrar considers it
+appropriate to do so, to encourage trade associations or other bodies
+representing data users to prepare, and to disseminate to their members,
+codes of practice for guidance in complying with the data protection
+principles.
+
+(5)
+
+The Committee shall report to the States annually on the operation of this
+Law and ancillary matters.
+
+Co-operation between parties to the Convention
+The Registrar shall be the designated authority in Jersey for the purposes of
+Article 13 of the European Convention; and the States may by Regulations
+make provision as to the functions to be discharged in that respect by the
+Registrar.
+
+37
+
+Application to States’ Committees and the Police
+(1)
+
+Except as provided in paragraph (2), a Committee of the States shall be
+subject to the same obligations and liabilities under this Law as a private
+person; and for the purposes of this Law each such Committee shall be
+treated as a person separate from any other such Committee and a person
+in the public service shall be treated as a servant of the Committee to
+which the person’s responsibilities or duties relate.
+
+(2)
+
+A Committee of the States shall not be liable to prosecution under this
+Law but –
+(a)
+
+Page - 32
+
+Articles 4(3) and 14(2) (and, so far as relating to those provisions,
+Articles 4(5) and 14(3)), shall apply to any person who by virtue of
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+Article 38
+
+this Article falls to be treated as a servant of the Committee in
+question; and
+(b)
+(3)
+
+38
+
+Article 5(6) and paragraph 11 of Schedule 4 shall apply to a
+member of the public service as they apply to any other person.
+
+This Law applies to the Chief Officer of the States of Jersey Police Force
+and for the purposes of this Law a member of the States of Jersey Police
+Force shall be treated as a servant of the Chief Officer.
+
+Data held and services provided outside Jersey
+(1)
+
+Subject to the following provisions of this Article, this Law does not
+apply to a data user in respect of data held, or to a person carrying on a
+computer bureau in respect of services provided, outside Jersey.
+
+(2)
+
+For the purposes of paragraph (1) –
+
+(3)
+
+(a)
+
+data shall be treated as held where the data user exercises the
+control referred to in Article 1(5)(b) in relation to the data; and
+
+(b)
+
+services shall be treated as provided where the person carrying on
+the computer bureau does any of the things referred to in
+Article 1(6)(a) or (b).
+
+Where a person who is not resident in Jersey –
+(a)
+
+exercises the control mentioned in paragraph (2)(a); or
+
+(b)
+
+does any of the things mentioned in paragraph (2)(b),
+
+through a servant or agent in Jersey, this Law shall apply as if that control
+were exercised or, as the case may be, those things were done in Jersey
+by the servant or agent acting on the servant’s or agent’s own account and
+not on behalf of the person whose servant or agent the servant or agent is.
+
+39
+
+(4)
+
+Where by virtue of paragraph (3) a servant or agent is treated as a data
+user or as a person carrying on a computer bureau the servant or agent
+may be described for the purposes of registration by the position or office
+which the servant or agent holds; and any such description in any entry in
+the register shall be treated as applying to the person for the time being
+holding the position or office in question.
+
+(5)
+
+This Law does not apply to data processed wholly outside Jersey unless
+the data are used or intended to be used in Jersey.
+
+(6)
+
+Articles 3(3)(e), 4(2)(e) and 11(1) do not apply to the transfer of data
+which are already outside Jersey; but references in Article 11 to a
+contravention of the data protection principles include references to
+anything that would constitute such contravention if it occurred in
+relation to the data when held in Jersey.
+
+Power to amend Law
+The States may by Regulations amend this Law in any manner not inconsistent
+with the European Convention.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 33
+
+Article 40
+
+40
+
+41
+
+Data Protection (Jersey) Law 1987
+
+Regulations, Rules and Orders
+(1)
+
+Any Regulations, Rules or Orders made under this Law may make
+different provision for different cases or circumstances and may contain
+such incidental or supplementary provisions as may be expedient for
+carrying this Law into effect.
+
+(2)
+
+The Committee may by Order prescribe such fees as it considers
+reasonable for the purposes of any provision of this Law.
+
+(3)
+
+The Subordinate Legislation (Jersey) Law 19602 shall apply to Orders or
+Rules made under this Law.
+
+Citation
+This Law may be cited as the Data Protection (Jersey) Law 1987.
+
+Page - 34
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+SCHEDULE 1
+
+SCHEDULE 1
+(Article 1(10))
+THE DATA PROTECTION PRINCIPLES
+PART 1
+THE PRINCIPLES
+
+Personal data held by data users
+1.
+
+The information to be contained in personal data shall be obtained, and
+personal data shall be processed, fairly and lawfully.
+
+2.
+
+Personal data shall be held only for one or more specified and lawful
+purposes.
+
+3.
+
+Personal data held for any purpose or purposes shall not be used or
+disclosed in any manner incompatible with that purpose or those
+purposes.
+
+4.
+
+Personal data held for any purpose or purposes shall be adequate, relevant
+and not excessive in relation to that purpose or those purposes.
+
+5.
+
+Personal data shall be accurate and, where necessary, kept up to date.
+
+6.
+
+Personal data held for any purpose or purposes shall not be kept for
+longer than is necessary for that purpose or those purposes.
+
+7.
+
+An individual shall be entitled –
+(a)
+
+(b)
+
+at reasonable intervals and without undue delay or expense –
+(i)
+
+to be informed by any data user whether the data user holds
+personal data of which that individual is the subject, and
+
+(ii)
+
+to access to any such data held by a data user; and
+
+where appropriate, to have such data corrected or erased.
+
+Personal data held by data users or in respect of which services are provided by
+persons carrying on computer bureaux
+8.
+
+Appropriate security measures shall be taken against unauthorized access
+to, or alteration, disclosure or destruction of, personal data and against
+accidental loss or destruction of personal data.
+PART 2
+INTERPRETATION
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 35
+
+SCHEDULE 1
+
+1
+
+Data Protection (Jersey) Law 1987
+
+The first principle
+(1)
+
+Subject to sub-paragraph (2), in determining whether information was
+obtained fairly regard shall be had to the method by which it was
+obtained, including in particular whether any person from whom it was
+obtained was deceived or misled as to the purpose or purposes for which
+it is to be held, used or disclosed.
+
+(2)
+
+Information shall in any event be treated as obtained fairly if it is
+obtained from a person who –
+(a)
+
+is authorized by or under any enactment to supply it; or
+
+(b)
+
+is required to supply it by or under any enactment or by any
+convention or other instrument imposing an international
+obligation on the United Kingdom,
+
+and in determining whether information was obtained fairly there shall be
+disregarded any disclosure of the information which is authorized or
+required by or under any enactment or required by any such convention
+or other instrument as aforesaid.
+2
+
+The second principle
+Personal data shall not be treated as held for a specified purpose unless that
+purpose is described in particulars registered under this Law in relation to the
+data.
+
+3
+
+The third principle
+Personal data shall not be treated as used or disclosed in contravention of this
+principle unless –
+
+4
+
+(a)
+
+used otherwise than for a purpose of a description registered under this
+Law in relation to the data; or
+
+(b)
+
+disclosed otherwise than to a person of a description so registered.
+
+The fifth principle
+Any question whether or not personal data are accurate shall be determined as
+for the purposes of Article 21 but in the case of such data as are mentioned in
+Article 21(2) this principle shall not be regarded as having been contravened by
+reason of any inaccuracy in the information there mentioned if the requirements
+specified in that paragraph have been complied with.
+
+5
+
+The seventh principle
+(1)
+
+Paragraph (a) of this principle shall not be construed as conferring any
+rights inconsistent with Article 20.
+
+(2)
+
+In determining whether access to personal data is sought at reasonable
+intervals regard shall be had to the nature of the data, the purpose for
+which the data are held and the frequency with which the data are altered.
+
+Page - 36
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+(3)
+
+6
+
+SCHEDULE 1
+
+The correction or erasure of personal data is appropriate only where
+necessary for ensuring compliance with the other data protection
+principles.
+
+The eighth principle
+Regard shall be had –
+
+7
+
+(a)
+
+to the nature of the personal data and the harm that would result from
+such access, alteration, disclosure, loss or destruction as are mentioned in
+this principle; and
+
+(b)
+
+to the place where the personal data are stored, to security measures
+programmed into the relevant equipment and to measures taken for
+ensuring the reliability of staff having access to the data.
+
+Use for historical, statistical or research purposes
+Where personal data are held for historical, statistical or research purposes and
+not used in such a way that damage or distress is, or is likely to be, caused to
+any data subject –
+(a)
+
+the information contained in the data shall not be regarded for the
+purposes of the first principle as obtained unfairly by reason only that its
+use for any such purpose was not disclosed when it was obtained; and
+
+(b)
+
+the data may, notwithstanding the sixth principle, be kept indefinitely.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 37
+
+SCHEDULE 2
+
+Data Protection (Jersey) Law 1987
+
+SCHEDULE 2
+(Article 2(2))
+THE REGISTRAR AND THE TRIBUNAL
+PART 1
+
+1
+
+The Registrar
+(1)
+
+The Registrar shall be appointed by the States on such terms and
+conditions of service as the Policy and Resources Committee may
+recommend.
+
+(2)
+
+The Policy and Resources Committee shall make such arrangements as it
+considers appropriate for the provision of officers to assist the Registrar
+in the exercise of the Registrar’s functions under this Law.
+
+(3)
+
+Any functions of the Registrar under this Law may, to the extent
+authorized by the Registrar, be performed by any member of the staff of
+the Judicial Greffe.
+
+(4)
+
+The Registrar shall, on appointment, take oath before the Royal Court in
+the form set out in Schedule 5.
+PART 2
+
+2
+
+The Tribunal
+(1)
+
+The States, on the recommendation of the Policy and Resources
+Committee, shall appoint a chairman and 4 other members from whom
+the Tribunal shall be selected.
+
+(2)
+
+The chairman shall be an advocate or solicitor of not less than 7 years
+standing.
+
+(3)
+
+The chairman and members shall hold office for 3 years and shall be
+eligible for re-appointment.
+
+(4)
+
+Where the chairman is unable to act, the chairman shall designate one of
+the 4 other members to act as a deputy chairman.
+
+Page - 38
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+SCHEDULE 3
+
+SCHEDULE 3
+(Article 12(4))
+APPEAL PROCEEDINGS
+
+1
+
+2
+
+Hearing of appeals
+(1)
+
+For the purpose of hearing and determining appeals or any matter
+preliminary or incidental to an appeal, the Tribunal shall consist of the
+chairman (or deputy chairman) and 2 other members and shall sit at such
+times and in such places as the chairman or deputy chairman may direct.
+
+(2)
+
+The 2 other members who are to constitute the Tribunal shall be
+nominated by the chairman or deputy chairman.
+
+(3)
+
+The determination of any appeal shall be according to the opinion of the
+majority of the members.
+
+(4)
+
+Subject to any Rules made under paragraph 2, the jurisdiction of the
+Tribunal in respect of an appeal under Article 12(2) or (3) shall be
+exercised ex parte by the chairman or a deputy chairman sitting alone.
+
+Rules of procedure
+(1)
+
+The Committee may make Rules for regulating the exercise of the rights
+of appeal conferred by Articles 12 and 20 and the practice and procedure
+of the Tribunal.
+
+(2)
+
+Without prejudice to the generality of sub-paragraph (1), Rules under this
+paragraph may in particular make provision –
+(a)
+
+with respect to the period within which an appeal can be brought
+and the burden of proof on an appeal;
+
+(b)
+
+for the summoning of witnesses and the administration of oaths;
+
+(c)
+
+for securing the production of documents and data material;
+
+(d)
+
+for the inspection, examination, operation and testing of data
+equipment and the testing of data material;
+
+(e)
+
+for the hearing of an appeal wholly or partly in camera;
+
+(f)
+
+for hearing an appeal in the absence of the appellant or for
+determining an appeal without a hearing;
+
+(g)
+
+for enabling any matter preliminary or incidental to an appeal to be
+dealt with by the chairman or a deputy chairman;
+
+(h)
+
+for the awarding of costs;
+
+(i)
+
+for the publication of reports of the Tribunal’s decisions; and
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 39
+
+SCHEDULE 3
+
+Data Protection (Jersey) Law 1987
+
+(j)
+
+for conferring on the Tribunal such ancillary powers as the
+Committee thinks necessary for the proper discharge of its
+functions.
+
+3
+
+Obstruction etc.
+(1)
+
+If any person is guilty of any act or omission in relation to proceedings
+before the Tribunal which, if those proceedings were proceedings before
+a court having power to commit for contempt, would constitute contempt
+of court, the Tribunal may certify the offence to the Royal Court.
+
+(2)
+
+Where an offence is so certified, the Royal Court may inquire into the
+matter and, after hearing any witness who may be produced against or on
+behalf of the person charged with the offence, and after hearing any
+statement that may be offered in defence, deal with the person in any
+manner in which it could deal with the person if the person had
+committed the like offence in relation to the Court.
+
+Page - 40
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+SCHEDULE 4
+
+SCHEDULE 4
+(Article 15)
+POWERS OF ENTRY AND INSPECTION
+
+Issue of warrants
+1.
+
+If the Bailiff is satisfied by evidence on oath supplied by a police officer
+or officer of the Committee that there are reasonable grounds for
+suspecting –
+(a)
+
+that an offence under this Law has been or is being committed; or
+
+(b)
+
+that any of the data protection principles have been or are being
+contravened by a registered person,
+
+and that evidence of the commission of the offence or of the
+contravention is to be found on any premises specified in the information,
+the Bailiff may, subject to paragraph 2, grant a warrant authorizing any
+police officer or officer of the Committee named therein at any time
+within 7 days of the date of the warrant to enter those premises, to search
+them, to inspect, examine, operate and test any data equipment found
+there and to inspect and seize any documents or other material found
+there which may be such evidence as aforesaid.
+2.
+
+The Bailiff shall not issue a warrant under this Schedule unless the Bailiff
+is satisfied –
+(a)
+
+that the Committee has given 7 days’ notice in writing to the
+occupier of the premises in question demanding access to the
+premises;
+
+(b)
+
+that access was demanded at a reasonable hour and was
+unreasonably refused; and
+
+(c)
+
+that the occupier has, after the refusal, been notified by an officer
+of the Committee of the application for the warrant and has had an
+opportunity of being heard by the Bailiff in Chambers on the
+question whether or not it should be issued,
+
+but the foregoing provisions of this paragraph shall not apply if the
+Bailiff is satisfied that the case is one of urgency or that compliance with
+those provisions would defeat the object of the entry.
+Execution of warrants
+3.
+
+A person executing a warrant issued under this Schedule may use such
+reasonable force as may be necessary.
+
+4.
+
+A warrant issued under this Schedule shall be executed at a reasonable
+hour unless it appears to the person executing it that there are grounds for
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 41
+
+SCHEDULE 4
+
+Data Protection (Jersey) Law 1987
+
+suspecting that the evidence in question would not be found if it were so
+executed.
+5.
+
+If the person who occupies the premises in respect of which a warrant is
+issued under this Schedule is present when the warrant is executed, the
+person shall be shown the warrant and supplied with a copy of it; and if
+that person is not present a copy of the warrant shall be left in a
+prominent place on the premises.
+
+6.
+(1)
+
+A person seizing anything in pursuance of a warrant under this
+Schedule shall give a receipt for it.
+
+(2)
+
+Anything so seized may be retained for so long as is necessary in
+all the circumstances but the person in occupation of the premises
+in question shall be given a copy of anything that is seized if the
+person so requests and the person executing the warrant considers
+that it can be done without undue delay.
+
+Matters exempt from inspection and seizure
+7.
+
+The powers of inspection and seizure conferred by a warrant issued under
+this Schedule shall not be exercisable in respect of personal data which
+are exempt from Part 2 of this Law.
+
+8.
+(1)
+
+(2)
+
+Page - 42
+
+Subject to the provisions of this paragraph, the powers of
+inspection and seizure conferred by a warrant issued under this
+Schedule shall not be exercisable in respect of –
+(a)
+
+any communication between a professional legal adviser and
+the adviser’s client in connection with the giving of legal
+advice to the client; or
+
+(b)
+
+any communication between such an adviser or the adviser’s
+client and any other person, made in connection with or in
+contemplation of proceedings under or arising out of this
+Law (including proceedings before the Tribunal) and for the
+purposes of such proceedings.
+
+Sub-paragraph (1) applies also to –
+(a)
+
+any copy or other record of any such communication as is
+there mentioned; and
+
+(b)
+
+any document or article enclosed with or referred to in any
+such communication if made in connection with the giving
+of any advice or, as the case may be, in connection with or in
+contemplation of and for the purposes of such proceedings
+as are there mentioned.
+
+(3)
+
+This paragraph does not apply to anything in the possession of any
+person other than the professional legal adviser or the adviser’s
+client or to anything held with the intention of furthering a criminal
+purpose.
+
+(4)
+
+In this paragraph references to the client of a professional legal
+adviser include references to any person representing such a client.
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+9.
+
+SCHEDULE 4
+
+If the person in occupation of any premises in respect of which a warrant
+is issued under this Schedule objects to the inspection or seizure under
+the warrant of any material on the grounds that it consists partly of
+matters in respect of which those powers are not exercisable, the person
+shall, if the person executing the warrant so requests, furnish that person
+with a copy of so much of the material as is not exempt from those
+powers.
+
+Offences
+10.
+
+Any person who –
+(a)
+
+intentionally obstructs a person in the execution of a warrant issued
+under this Schedule; or
+
+(b)
+
+fails without reasonable excuse to give any person executing such a
+warrant such assistance as the person may reasonably require for
+the execution of the warrant,
+
+shall be guilty of an offence.
+Vessels, vehicles etc.
+11.
+
+In this Schedule “premises” includes any vessel, vehicle, aircraft or
+hovercraft, and references to the occupier of any premises include
+references to the person in charge of any vessel, vehicle, aircraft or
+hovercraft.
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 43
+
+SCHEDULE 5
+
+Data Protection (Jersey) Law 1987
+
+SCHEDULE 5
+(Schedule 2 paragraph 1(4))
+OATH OF OFFICE
+You swear and promise before God that you will well and faithfully discharge
+the duties of Registrar in accordance with the laws relating to data protection;
+and that you will not disclose any information which may come to your
+knowledge in the performance of your duties except to such persons only as
+shall act in execution of the said laws and where it shall be necessary to disclose
+the same to them for the purposes of the said laws, or in so far as you may be
+required to disclose the same for the purposes or in the course of a prosecution
+for an offence against the said laws, or in such cases as you are expressly
+authorized by the said laws to disclose the same.
+
+Page - 44
+
+Revised Edition – 31 August 2004
+15.240
+
+Data Protection (Jersey) Law 1987
+
+Endnotes
+
+ENDNOTES
+Table of Legislation History
+Legislation
+Data Protection (Jersey)
+Law 1987
+
+Year and No
+L.12/1987
+
+Commencement
+1 September 1987; (Article 20
+and paragraph 1(b) of
+Schedule 4)) in force 11
+November 1987
+
+Table of Renumbered Provisions
+Original
+PART I
+PART II
+PART III
+PART IV
+PART V
+41
+
+Current
+PART 1
+PART 2
+PART 3
+PART 4
+PART 5
+spent, omitted from this
+revised edition
+42
+41
+FIRST SCHEDULE
+SCHEDULE 1
+PART I
+PART 1
+PART II
+PART 2
+SECOND SCHEDULE SCHEDULE 2
+PART I
+PART 1
+PART II
+PART 2
+THIRD SCHEDULE
+SCHEDULE 3
+2(2)(j)
+2(2)(i)
+(k)
+(j)
+FOURTH SCHEDULE SCHEDULE 4
+FIFTH SCHEDULE
+SCHEDULE 5
+
+Table of Endnote References
+1
+2
+
+chapter 16.450
+chapter 15.720
+
+Revised Edition – 31 August 2004
+15.240
+
+Page - 45
+
+

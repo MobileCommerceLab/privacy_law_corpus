@@ -1,0 +1,4391 @@
+123 STAT. 226
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+1717(b)(2)) or section 305(a)(2) of the Federal Home Loan Mortgage
+Corporation Act (12 U.S.C. 1754(a)(2)), respectively, for any size
+residence for any area is less than such maximum original principal
+obligation limitation that was in effect for such size residence
+for such area for 2008 pursuant to section 201 of the Economic
+Stimulus Act of 2008 (Public Law 110–185; 122 Stat. 619), notwithstanding any other provision of law, the limitation on the maximum
+original principal obligation of a mortgage for such Association
+and Corporation for such size residence for such area shall be
+such maximum limitation in effect for such size residence for such
+area for 2008.
+(b) DISCRETIONARY AUTHORITY FOR SUB-AREAS.—Notwithstanding any other provision of law, if the Director of the Federal
+Housing Finance Agency determines, for any geographic area that
+is smaller than an area for which limitations on the maximum
+original principal obligation of a mortgage are determined for the
+Federal National Mortgage Association or the Federal Home Loan
+Mortgage Corporation, that a higher such maximum original principal obligation limitation is warranted for any particular size or
+sizes of residences in such sub-area by higher median home prices
+in such sub-area, the Director may, for mortgages originated during
+2009, increase the maximum original principal obligation limitation
+for such size or sizes of residences for such sub-area that is otherwise in effect (including pursuant to subsection (a) of this section)
+for such Association and Corporation, but in no case to an amount
+that exceeds the amount specified in the matter following the
+comma in section 201(a)(1)(B) of the Economic Stimulus Act of
+2008.
+SEC. 1204. FHA REVERSE MORTGAGE LOAN LIMITS FOR 2009.
+For mortgages for which the mortgagee issues credit approval for
+the borrower during calendar year 2009, the second sentence of
+section 255(g) of the National Housing Act (12 U.S.C. 1715z–20(g))
+shall be considered to require that in no case may the benefits
+of insurance under such section 255 exceed 150 percent of the
+maximum dollar amount in effect under the sixth sentence of section
+305(a)(2) of the Federal Home Loan Mortgage Corporation Act
+(12 U.S.C. 1454(a)(2)).
+Health
+Information
+Technology for
+Economic and
+Clinical Health
+Act.
+42 USC 201 note.
+
+TITLE XIII—HEALTH INFORMATION
+TECHNOLOGY
+SEC. 13001. SHORT TITLE; TABLE OF CONTENTS OF TITLE.
+
+(a) SHORT TITLE.—This title (and title IV of division B) may
+be cited as the ‘‘Health Information Technology for Economic and
+Clinical Health Act’’ or the ‘‘HITECH Act’’.
+(b) TABLE OF CONTENTS OF TITLE.—The table of contents of
+this title is as follows:
+Sec. 13001. Short title; table of contents of title.
+Subtitle A—Promotion of Health Information Technology
+PART 1—IMPROVING HEALTH CARE QUALITY, SAFETY,
+
+AND
+
+EFFICIENCY
+
+Sec. 13101. ONCHIT; standards development and adoption.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+‘‘TITLE XXX—HEALTH INFORMATION TECHNOLOGY AND QUALITY
+‘‘Sec. 3000. Definitions.
+
+VerDate Nov 24 2008
+
+13:54 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00112
+
+Fmt 6580
+
+Sfmt 6582
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 227
+
+‘‘Subtitle A—Promotion of Health Information Technology
+‘‘Sec. 3001. Office of the National Coordinator for Health Information Technology.
+‘‘Sec. 3002. HIT Policy Committee.
+‘‘Sec. 3003. HIT Standards Committee.
+‘‘Sec. 3004. Process for adoption of endorsed recommendations; adoption of initial set of standards, implementation specifications, and certification
+criteria.
+‘‘Sec. 3005. Application and use of adopted standards and implementation specifications by Federal agencies.
+‘‘Sec. 3006. Voluntary application and use of adopted standards and implementation specifications by private entities.
+‘‘Sec. 3007. Federal health information technology.
+‘‘Sec. 3008. Transitions.
+‘‘Sec. 3009. Miscellaneous provisions.
+Sec. 13102. Technical amendment.
+PART 2—APPLICATION
+
+USE OF ADOPTED HEALTH INFORMATION TECHNOLOGY
+STANDARDS; REPORTS
+Sec. 13111. Coordination of Federal activities with adopted standards and implementation specifications.
+Sec. 13112. Application to private entities.
+Sec. 13113. Study and reports.
+AND
+
+Subtitle B—Testing of Health Information Technology
+Sec. 13201. National Institute for Standards and Technology testing.
+Sec. 13202. Research and development programs.
+Subtitle C—Grants and Loans Funding
+Sec. 13301. Grant, loan, and demonstration programs.
+‘‘Subtitle B—Incentives for the Use of Health Information Technology
+‘‘Sec. 3011. Immediate funding to strengthen the health information technology
+infrastructure.
+‘‘Sec. 3012. Health information technology implementation assistance.
+‘‘Sec. 3013. State grants to promote health information technology.
+‘‘Sec. 3014. Competitive grants to States and Indian tribes for the development
+of loan programs to facilitate the widespread adoption of certified
+EHR technology.
+‘‘Sec. 3015. Demonstration program to integrate information technology into
+clinical education.
+‘‘Sec. 3016. Information technology professionals in health care.
+‘‘Sec. 3017. General grant and loan provisions.
+‘‘Sec. 3018. Authorization for appropriations.
+Subtitle D—Privacy
+Sec. 13400. Definitions.
+PART 1—IMPROVED PRIVACY PROVISIONS AND SECURITY PROVISIONS
+Sec. 13401. Application of security provisions and penalties to business associates
+of covered entities; annual guidance on security provisions.
+Sec. 13402. Notification in the case of breach.
+Sec. 13403. Education on health information privacy.
+Sec. 13404. Application of privacy provisions and penalties to business associates of
+covered entities.
+Sec. 13405. Restrictions on certain disclosures and sales of health information; accounting of certain protected health information disclosures; access to
+certain information in electronic format.
+Sec. 13406. Conditions on certain contacts as part of health care operations.
+Sec. 13407. Temporary breach notification requirement for vendors of personal
+health records and other non-HIPAA covered entities.
+Sec. 13408. Business associate contracts required for certain entities.
+Sec. 13409. Clarification of application of wrongful disclosures criminal penalties.
+Sec. 13410. Improved enforcement.
+Sec. 13411. Audits.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PART 2—RELATIONSHIP
+
+OTHER LAWS; REGULATORY REFERENCES; EFFECTIVE
+DATE; REPORTS
+Sec. 13421. Relationship to other laws.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+TO
+
+PO 00000
+
+Frm 00113
+
+Fmt 6580
+
+Sfmt 6582
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 228
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+Sec. 13422. Regulatory references.
+Sec. 13423. Effective date.
+Sec. 13424. Studies, reports, guidance.
+
+Subtitle A—Promotion of Health
+Information Technology
+PART 1—IMPROVING HEALTH CARE QUALITY,
+SAFETY, AND EFFICIENCY
+SEC. 13101. ONCHIT; STANDARDS DEVELOPMENT AND ADOPTION.
+
+The Public Health Service Act (42 U.S.C. 201 et seq.) is
+amended by adding at the end the following:
+
+‘‘TITLE XXX—HEALTH INFORMATION
+TECHNOLOGY AND QUALITY
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+42 USC 300jj.
+
+‘‘SEC. 3000. DEFINITIONS.
+
+‘‘In this title:
+‘‘(1) CERTIFIED EHR TECHNOLOGY.—The term ‘certified EHR
+technology’ means a qualified electronic health record that is
+certified pursuant to section 3001(c)(5) as meeting standards
+adopted under section 3004 that are applicable to the type
+of record involved (as determined by the Secretary, such as
+an ambulatory electronic health record for office-based physicians or an inpatient hospital electronic health record for hospitals).
+‘‘(2) ENTERPRISE INTEGRATION.—The term ‘enterprise
+integration’ means the electronic linkage of health care providers, health plans, the government, and other interested parties, to enable the electronic exchange and use of health
+information among all the components in the health care infrastructure in accordance with applicable law, and such term
+includes related application protocols and other related standards.
+‘‘(3) HEALTH CARE PROVIDER.—The term ‘health care provider’ includes a hospital, skilled nursing facility, nursing
+facility, home health entity or other long term care facility,
+health care clinic, community mental health center (as defined
+in section 1913(b)(1)), renal dialysis facility, blood center,
+ambulatory surgical center described in section 1833(i) of the
+Social Security Act, emergency medical services provider, Federally qualified health center, group practice, a pharmacist, a
+pharmacy, a laboratory, a physician (as defined in section
+1861(r) of the Social Security Act), a practitioner (as described
+in section 1842(b)(18)(C) of the Social Security Act), a provider
+operated by, or under contract with, the Indian Health Service
+or by an Indian tribe (as defined in the Indian Self-Determination and Education Assistance Act), tribal organization, or
+urban Indian organization (as defined in section 4 of the Indian
+Health Care Improvement Act), a rural health clinic, a covered
+entity under section 340B, an ambulatory surgical center
+described in section 1833(i) of the Social Security Act, a therapist (as defined in section 1848(k)(3)(B)(iii) of the Social Security
+Act), and any other category of health care facility, entity,
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00114
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 229
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+practitioner, or clinician determined appropriate by the Secretary.
+‘‘(4) HEALTH INFORMATION.—The term ‘health information’
+has the meaning given such term in section 1171(4) of the
+Social Security Act.
+‘‘(5) HEALTH INFORMATION TECHNOLOGY.—The term ‘health
+information technology’ means hardware, software, integrated
+technologies or related licenses, intellectual property, upgrades,
+or packaged solutions sold as services that are designed for
+or support the use by health care entities or patients for the
+electronic creation, maintenance, access, or exchange of health
+information
+‘‘(6) HEALTH PLAN.—The term ‘health plan’ has the meaning
+given such term in section 1171(5) of the Social Security Act.
+‘‘(7) HIT POLICY COMMITTEE.—The term ‘HIT Policy Committee’ means such Committee established under section
+3002(a).
+‘‘(8) HIT STANDARDS COMMITTEE.—The term ‘HIT Standards
+Committee’ means such Committee established under section
+3003(a).
+‘‘(9) INDIVIDUALLY IDENTIFIABLE HEALTH INFORMATION.—
+The term ‘individually identifiable health information’ has the
+meaning given such term in section 1171(6) of the Social Security Act.
+‘‘(10) LABORATORY.—The term ‘laboratory’ has the meaning
+given such term in section 353(a).
+‘‘(11) NATIONAL COORDINATOR.—The term ‘National Coordinator’ means the head of the Office of the National Coordinator
+for Health Information Technology established under section
+3001(a).
+‘‘(12) PHARMACIST.—The term ‘pharmacist’ has the meaning
+given such term in section 804(2) of the Federal Food, Drug,
+and Cosmetic Act.
+‘‘(13) QUALIFIED ELECTRONIC HEALTH RECORD.—The term
+‘qualified electronic health record’ means an electronic record
+of health-related information on an individual that—
+‘‘(A) includes patient demographic and clinical health
+information, such as medical history and problem lists;
+and
+‘‘(B) has the capacity—
+‘‘(i) to provide clinical decision support;
+‘‘(ii) to support physician order entry;
+‘‘(iii) to capture and query information relevant
+to health care quality; and
+‘‘(iv) to exchange electronic health information
+with, and integrate such information from other
+sources.
+‘‘(14) STATE.—The term ‘State’ means each of the several
+States, the District of Columbia, Puerto Rico, the Virgin Islands,
+Guam, American Samoa, and the Northern Mariana Islands.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00115
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 230
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+‘‘Subtitle A—Promotion of Health
+Information Technology
+42 USC 300jj–11.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Reports.
+Deadline.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+‘‘SEC. 3001. OFFICE OF THE NATIONAL COORDINATOR FOR HEALTH
+INFORMATION TECHNOLOGY.
+
+‘‘(a) ESTABLISHMENT.—There is established within the Department of Health and Human Services an Office of the National
+Coordinator for Health Information Technology (referred to in this
+section as the ‘Office’). The Office shall be headed by a National
+Coordinator who shall be appointed by the Secretary and shall
+report directly to the Secretary.
+‘‘(b) PURPOSE.—The National Coordinator shall perform the
+duties under subsection (c) in a manner consistent with the development of a nationwide health information technology infrastructure
+that allows for the electronic use and exchange of information
+and that—
+‘‘(1) ensures that each patient’s health information is secure
+and protected, in accordance with applicable law;
+‘‘(2) improves health care quality, reduces medical errors,
+reduces health disparities, and advances the delivery of patientcentered medical care;
+‘‘(3) reduces health care costs resulting from inefficiency,
+medical errors, inappropriate care, duplicative care, and incomplete information;
+‘‘(4) provides appropriate information to help guide medical
+decisions at the time and place of care;
+‘‘(5) ensures the inclusion of meaningful public input in
+such development of such infrastructure;
+‘‘(6) improves the coordination of care and information
+among hospitals, laboratories, physician offices, and other entities through an effective infrastructure for the secure and
+authorized exchange of health care information;
+‘‘(7) improves public health activities and facilitates the
+early identification and rapid response to public health threats
+and emergencies, including bioterror events and infectious disease outbreaks;
+‘‘(8) facilitates health and clinical research and health care
+quality;
+‘‘(9) promotes early detection, prevention, and management
+of chronic diseases;
+‘‘(10) promotes a more effective marketplace, greater competition, greater systems analysis, increased consumer choice,
+and improved outcomes in health care services; and
+‘‘(11) improves efforts to reduce health disparities.
+‘‘(c) DUTIES OF THE NATIONAL COORDINATOR.—
+‘‘(1) STANDARDS.—The National Coordinator shall—
+‘‘(A) review and determine whether to endorse each
+standard, implementation specification, and certification
+criterion for the electronic exchange and use of health
+information that is recommended by the HIT Standards
+Committee under section 3003 for purposes of adoption
+under section 3004;
+‘‘(B) make such determinations under subparagraph
+(A), and report to the Secretary such determinations, not
+later than 45 days after the date the recommendation
+is received by the Coordinator; and
+
+Jkt 079139
+
+PO 00000
+
+Frm 00116
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 231
+
+‘‘(C) review Federal health information technology
+investments to ensure that Federal health information
+technology programs are meeting the objectives of the strategic plan published under paragraph (3).
+‘‘(2) HIT POLICY COORDINATION.—
+‘‘(A) IN GENERAL.—The National Coordinator shall
+coordinate health information technology policy and programs of the Department with those of other relevant
+executive branch agencies with a goal of avoiding duplication of efforts and of helping to ensure that each agency
+undertakes health information technology activities primarily within the areas of its greatest expertise and technical capability and in a manner towards a coordinated
+national goal.
+‘‘(B) HIT POLICY AND STANDARDS COMMITTEES.—The
+National Coordinator shall be a leading member in the
+establishment and operations of the HIT Policy Committee
+and the HIT Standards Committee and shall serve as a
+liaison among those two Committees and the Federal
+Government.
+‘‘(3) STRATEGIC PLAN.—
+‘‘(A) IN GENERAL.—The National Coordinator shall, in
+consultation with other appropriate Federal agencies
+(including the National Institute of Standards and Technology), update the Federal Health IT Strategic Plan (developed as of June 3, 2008) to include specific objectives,
+milestones, and metrics with respect to the following:
+‘‘(i) The electronic exchange and use of health
+information and the enterprise integration of such
+information.
+‘‘(ii) The utilization of an electronic health record
+for each person in the United States by 2014.
+‘‘(iii) The incorporation of privacy and security
+protections for the electronic exchange of an individual’s individually identifiable health information.
+‘‘(iv) Ensuring security methods to ensure appropriate authorization and electronic authentication of
+health information and specifying technologies or
+methodologies for rendering health information unusable, unreadable, or indecipherable.
+‘‘(v) Specifying a framework for coordination and
+flow of recommendations and policies under this subtitle among the Secretary, the National Coordinator,
+the HIT Policy Committee, the HIT Standards Committee, and other health information exchanges and
+other relevant entities.
+‘‘(vi) Methods to foster the public understanding
+of health information technology.
+‘‘(vii) Strategies to enhance the use of health
+information technology in improving the quality of
+health care, reducing medical errors, reducing health
+disparities, improving public health, increasing prevention and coordination with community resources, and
+improving the continuity of care among health care
+settings.
+‘‘(viii) Specific plans for ensuring that populations
+with unique needs, such as children, are appropriately
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00117
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+123 STAT. 232
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+addressed in the technology design, as appropriate,
+which may include technology that automates enrollment and retention for eligible individuals.
+‘‘(B) COLLABORATION.—The strategic plan shall be
+updated through collaboration of public and private entities.
+‘‘(C) MEASURABLE OUTCOME GOALS.—The strategic plan
+update shall include measurable outcome goals.
+‘‘(D) PUBLICATION.—The National Coordinator shall
+republish the strategic plan, including all updates.
+‘‘(4) WEBSITE.—The National Coordinator shall maintain
+and frequently update an Internet website on which there
+is posted information on the work, schedules, reports, recommendations, and other information to ensure transparency
+in promotion of a nationwide health information technology
+infrastructure.
+‘‘(5) CERTIFICATION.—
+‘‘(A) IN GENERAL.—The National Coordinator, in consultation with the Director of the National Institute of
+Standards and Technology, shall keep or recognize a program or programs for the voluntary certification of health
+information technology as being in compliance with
+applicable certification criteria adopted under this subtitle.
+Such program shall include, as appropriate, testing of the
+technology in accordance with section 13201(b) of the
+Health Information Technology for Economic and Clinical
+Health Act.
+‘‘(B) CERTIFICATION CRITERIA DESCRIBED.—In this title,
+the term ‘certification criteria’ means, with respect to standards and implementation specifications for health information technology, criteria to establish that the technology
+meets such standards and implementation specifications.
+‘‘(6) REPORTS AND PUBLICATIONS.—
+‘‘(A) REPORT ON ADDITIONAL FUNDING OR AUTHORITY
+NEEDED.—Not later than 12 months after the date of the
+enactment of this title, the National Coordinator shall
+submit to the appropriate committees of jurisdiction of
+the House of Representatives and the Senate a report
+on any additional funding or authority the Coordinator
+or the HIT Policy Committee or HIT Standards Committee
+requires to evaluate and develop standards, implementation specifications, and certification criteria, or to achieve
+full participation of stakeholders in the adoption of a
+nationwide health information technology infrastructure
+that allows for the electronic use and exchange of health
+information.
+‘‘(B) IMPLEMENTATION REPORT.—The National Coordinator shall prepare a report that identifies lessons learned
+from major public and private health care systems in their
+implementation of health information technology, including
+information on whether the technologies and practices
+developed by such systems may be applicable to and usable
+in whole or in part by other health care providers.
+‘‘(C) ASSESSMENT OF IMPACT OF HIT ON COMMUNITIES
+WITH HEALTH DISPARITIES AND UNINSURED, UNDERINSURED,
+AND MEDICALLY UNDERSERVED AREAS.—The National
+Coordinator shall assess and publish the impact of health
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00118
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 233
+
+information technology in communities with health disparities and in areas with a high proportion of individuals
+who are uninsured, underinsured, and medically underserved individuals (including urban and rural areas) and
+identify practices to increase the adoption of such technology by health care providers in such communities, and
+the use of health information technology to reduce and
+better manage chronic diseases.
+‘‘(D) EVALUATION OF BENEFITS AND COSTS OF THE ELECTRONIC USE AND EXCHANGE OF HEALTH INFORMATION.—
+The National Coordinator shall evaluate and publish evidence on the benefits and costs of the electronic use and
+exchange of health information and assess to whom these
+benefits and costs accrue.
+‘‘(E) RESOURCE REQUIREMENTS.—The National Coordinator shall estimate and publish resources required
+annually to reach the goal of utilization of an electronic
+health record for each person in the United States by
+2014, including—
+‘‘(i) the required level of Federal funding;
+‘‘(ii) expectations for regional, State, and private
+investment;
+‘‘(iii) the expected contributions by volunteers to
+activities for the utilization of such records; and
+‘‘(iv) the resources needed to establish a health
+information technology workforce sufficient to support
+this effort (including education programs in medical
+informatics and health information management).
+‘‘(7) ASSISTANCE.—The National Coordinator may provide
+financial assistance to consumer advocacy groups and not-forprofit entities that work in the public interest for purposes
+of defraying the cost to such groups and entities to participate
+under, whether in whole or in part, the National Technology
+Transfer Act of 1995 (15 U.S.C. 272 note).
+‘‘(8) GOVERNANCE FOR NATIONWIDE HEALTH INFORMATION
+NETWORK.—The National Coordinator shall establish a governance mechanism for the nationwide health information network.
+‘‘(d) DETAIL OF FEDERAL EMPLOYEES.—
+‘‘(1) IN GENERAL.—Upon the request of the National Coordinator, the head of any Federal agency is authorized to detail,
+with or without reimbursement from the Office, any of the
+personnel of such agency to the Office to assist it in carrying
+out its duties under this section.
+‘‘(2) EFFECT OF DETAIL.—Any detail of personnel under
+paragraph (1) shall—
+‘‘(A) not interrupt or otherwise affect the civil service
+status or privileges of the Federal employee; and
+‘‘(B) be in addition to any other staff of the Department
+employed by the National Coordinator.
+‘‘(3) ACCEPTANCE OF DETAILEES.—Notwithstanding any
+other provision of law, the Office may accept detailed personnel
+from other Federal agencies without regard to whether the
+agency described under paragraph (1) is reimbursed.
+‘‘(e) CHIEF PRIVACY OFFICER OF THE OFFICE OF THE NATIONAL
+COORDINATOR.—Not later than 12 months after the date of the
+enactment of this title, the Secretary shall appoint a Chief Privacy
+Officer of the Office of the National Coordinator, whose duty it
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00119
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Establishment.
+
+Deadline.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 234
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+shall be to advise the National Coordinator on privacy, security,
+and data stewardship of electronic health information and to coordinate with other Federal agencies (and similar privacy officers in
+such agencies), with State and regional efforts, and with foreign
+countries with regard to the privacy, security, and data stewardship
+of electronic individually identifiable health information.
+42 USC 300jj–12.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Recommendations.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+‘‘SEC. 3002. HIT POLICY COMMITTEE.
+
+‘‘(a) ESTABLISHMENT.—There is established a HIT Policy Committee to make policy recommendations to the National Coordinator
+relating to the implementation of a nationwide health information
+technology infrastructure, including implementation of the strategic
+plan described in section 3001(c)(3).
+‘‘(b) DUTIES.—
+‘‘(1) RECOMMENDATIONS ON HEALTH INFORMATION TECHNOLOGY INFRASTRUCTURE.—The HIT Policy Committee shall
+recommend a policy framework for the development and adoption of a nationwide health information technology infrastructure that permits the electronic exchange and use of health
+information as is consistent with the strategic plan under section 3001(c)(3) and that includes the recommendations under
+paragraph (2). The Committee shall update such recommendations and make new recommendations as appropriate.
+‘‘(2) SPECIFIC AREAS OF STANDARD DEVELOPMENT.—
+‘‘(A) IN GENERAL.—The HIT Policy Committee shall
+recommend the areas in which standards, implementation
+specifications, and certification criteria are needed for the
+electronic exchange and use of health information for purposes of adoption under section 3004 and shall recommend
+an order of priority for the development, harmonization,
+and recognition of such standards, specifications, and certification criteria among the areas so recommended. Such
+standards and implementation specifications shall include
+named standards, architectures, and software schemes for
+the authentication and security of individually identifiable
+health information and other information as needed to
+ensure the reproducible development of common solutions
+across disparate entities.
+‘‘(B) AREAS REQUIRED FOR CONSIDERATION.—For purposes of subparagraph (A), the HIT Policy Committee shall
+make recommendations for at least the following areas:
+‘‘(i) Technologies that protect the privacy of health
+information and promote security in a qualified electronic health record, including for the segmentation
+and protection from disclosure of specific and sensitive
+individually identifiable health information with the
+goal of minimizing the reluctance of patients to seek
+care (or disclose information about a condition) because
+of privacy concerns, in accordance with applicable law,
+and for the use and disclosure of limited data sets
+of such information.
+‘‘(ii) A nationwide health information technology
+infrastructure that allows for the electronic use and
+accurate exchange of health information.
+‘‘(iii) The utilization of a certified electronic health
+record for each person in the United States by 2014.
+
+Jkt 079139
+
+PO 00000
+
+Frm 00120
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 235
+
+‘‘(iv) Technologies that as a part of a qualified
+electronic health record allow for an accounting of
+disclosures made by a covered entity (as defined for
+purposes of regulations promulgated under section
+264(c) of the Health Insurance Portability and Accountability Act of 1996) for purposes of treatment, payment,
+and health care operations (as such terms are defined
+for purposes of such regulations).
+‘‘(v) The use of certified electronic health records
+to improve the quality of health care, such as by promoting the coordination of health care and improving
+continuity of health care among health care providers,
+by reducing medical errors, by improving population
+health, by reducing health disparities, by reducing
+chronic disease, and by advancing research and education.
+‘‘(vi) Technologies that allow individually identifiable health information to be rendered unusable,
+unreadable, or indecipherable to unauthorized individuals when such information is transmitted in the
+nationwide health information network or physically
+transported outside of the secured, physical perimeter
+of a health care provider, health plan, or health care
+clearinghouse.
+‘‘(vii) The use of electronic systems to ensure the
+comprehensive collection of patient demographic data,
+including, at a minimum, race, ethnicity, primary language, and gender information.
+‘‘(viii) Technologies that address the needs of children and other vulnerable populations.
+‘‘(C) OTHER AREAS FOR CONSIDERATION.—In making
+recommendations under subparagraph (A), the HIT Policy
+Committee may consider the following additional areas:
+‘‘(i) The appropriate uses of a nationwide health
+information infrastructure, including for purposes of—
+‘‘(I) the collection of quality data and public
+reporting;
+‘‘(II) biosurveillance and public health;
+‘‘(III) medical and clinical research; and
+‘‘(IV) drug safety.
+‘‘(ii) Self-service technologies that facilitate the use
+and exchange of patient information and reduce wait
+times.
+‘‘(iii) Telemedicine technologies, in order to reduce
+travel requirements for patients in remote areas.
+‘‘(iv) Technologies that facilitate home health care
+and the monitoring of patients recuperating at home.
+‘‘(v) Technologies that help reduce medical errors.
+‘‘(vi) Technologies that facilitate the continuity of
+care among health settings.
+‘‘(vii) Technologies that meet the needs of diverse
+populations.
+‘‘(viii) Methods to facilitate secure access by an
+individual to such individual’s protected health
+information.
+‘‘(ix) Methods, guidelines, and safeguards to facilitate secure access to patient information by a family
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00121
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 236
+
+member, caregiver, or guardian acting on behalf of
+a patient due to age-related and other disability, cognitive impairment, or dementia.
+‘‘(x) Any other technology that the HIT Policy Committee finds to be among the technologies with the
+greatest potential to improve the quality and efficiency
+of health care.
+‘‘(3) FORUM.—The HIT Policy Committee shall serve as
+a forum for broad stakeholder input with specific expertise
+in policies relating to the matters described in paragraphs
+(1) and (2).
+‘‘(4) CONSISTENCY WITH EVALUATION CONDUCTED UNDER
+MIPPA.—
+‘‘(A) REQUIREMENT FOR CONSISTENCY.—The HIT Policy
+Committee shall ensure that recommendations made under
+paragraph (2)(B)(vi) are consistent with the evaluation conducted under section 1809(a) of the Social Security Act.
+‘‘(B) SCOPE.—Nothing in subparagraph (A) shall be
+construed to limit the recommendations under paragraph
+(2)(B)(vi) to the elements described in section 1809(a)(3)
+of the Social Security Act.
+‘‘(C) TIMING.—The requirement under subparagraph
+(A) shall be applicable to the extent that evaluations have
+been conducted under section 1809(a) of the Social Security
+Act, regardless of whether the report described in subsection (b) of such section has been submitted.
+‘‘(c) MEMBERSHIP AND OPERATIONS.—
+‘‘(1) IN GENERAL.—The National Coordinator shall take a
+leading position in the establishment and operations of the
+HIT Policy Committee.
+‘‘(2) MEMBERSHIP.—The HIT Policy Committee shall be
+composed of members to be appointed as follows:
+‘‘(A) 3 members shall be appointed by the Secretary,
+1 of whom shall be appointed to represent the Department
+of Health and Human Services and 1 of whom shall be
+a public health official.
+‘‘(B) 1 member shall be appointed by the majority
+leader of the Senate.
+‘‘(C) 1 member shall be appointed by the minority
+leader of the Senate.
+‘‘(D) 1 member shall be appointed by the Speaker of
+the House of Representatives.
+‘‘(E) 1 member shall be appointed by the minority
+leader of the House of Representatives.
+‘‘(F) Such other members as shall be appointed by
+the President as representatives of other relevant Federal
+agencies.
+‘‘(G) 13 members shall be appointed by the Comptroller
+General of the United States of whom—
+‘‘(i) 3 members shall advocates for patients or consumers;
+‘‘(ii) 2 members shall represent health care providers, one of which shall be a physician;
+‘‘(iii) 1 member shall be from a labor organization
+representing health care workers;
+‘‘(iv) 1 member shall have expertise in health
+information privacy and security;
+
+Applicability.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+President.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00122
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 237
+
+‘‘(v) 1 member shall have expertise in improving
+the health of vulnerable populations;
+‘‘(vi) 1 member shall be from the research community;
+‘‘(vii) 1 member shall represent health plans or
+other third-party payers;
+‘‘(viii) 1 member shall represent information technology vendors;
+‘‘(ix) 1 member shall represent purchasers or
+employers; and
+‘‘(x) 1 member shall have expertise in health care
+quality measurement and reporting.
+‘‘(3) PARTICIPATION.—The members of the HIT Policy Committee appointed under paragraph (2) shall represent a balance
+among various sectors of the health care system so that no
+single sector unduly influences the recommendations of the
+Policy Committee.
+‘‘(4) TERMS.—
+‘‘(A) IN GENERAL.—The terms of the members of the
+HIT Policy Committee shall be for 3 years, except that
+the Comptroller General shall designate staggered terms
+for the members first appointed.
+‘‘(B) VACANCIES.—Any member appointed to fill a
+vacancy in the membership of the HIT Policy Committee
+that occurs prior to the expiration of the term for which
+the member’s predecessor was appointed shall be appointed
+only for the remainder of that term. A member may serve
+after the expiration of that member’s term until a successor
+has been appointed. A vacancy in the HIT Policy Committee
+shall be filled in the manner in which the original appointment was made.
+‘‘(5) OUTSIDE INVOLVEMENT.—The HIT Policy Committee
+shall ensure an opportunity for the participation in activities
+of the Committee of outside advisors, including individuals
+with expertise in the development of policies for the electronic
+exchange and use of health information, including in the areas
+of health information privacy and security.
+‘‘(6) QUORUM.—A majority of the member of the HIT Policy
+Committee shall constitute a quorum for purposes of voting,
+but a lesser number of members may meet and hold hearings.
+‘‘(7) FAILURE OF INITIAL APPOINTMENT.—If, on the date
+that is 45 days after the date of enactment of this title, an
+official authorized under paragraph (2) to appoint one or more
+members of the HIT Policy Committee has not appointed the
+full number of members that such paragraph authorizes such
+official to appoint, the Secretary is authorized to appoint such
+members.
+‘‘(8) CONSIDERATION.—The National Coordinator shall
+ensure that the relevant and available recommendations and
+comments from the National Committee on Vital and Health
+Statistics are considered in the development of policies.
+‘‘(d) APPLICATION OF FACA.—The Federal Advisory Committee
+Act (5 U.S.C. App.), other than section 14 of such Act, shall apply
+to the HIT Policy Committee.
+‘‘(e) PUBLICATION.—The Secretary shall provide for publication
+in the Federal Register and the posting on the Internet website
+of the Office of the National Coordinator for Health Information
+
+VerDate Nov 24 2008
+
+13:51 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00123
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Deadline.
+
+Federal Register,
+publication.
+Web posting.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 238
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+Technology of all policy recommendations made by the HIT Policy
+Committee under this section.
+42 USC 300jj–13.
+
+Recommendations.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Deadline.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+‘‘SEC. 3003. HIT STANDARDS COMMITTEE.
+
+‘‘(a) ESTABLISHMENT.—There is established a committee to be
+known as the HIT Standards Committee to recommend to the
+National Coordinator standards, implementation specifications, and
+certification criteria for the electronic exchange and use of health
+information for purposes of adoption under section 3004, consistent
+with the implementation of the strategic plan described in section
+3001(c)(3) and beginning with the areas listed in section
+3002(b)(2)(B) in accordance with policies developed by the HIT
+Policy Committee.
+‘‘(b) DUTIES.—
+‘‘(1) STANDARDS DEVELOPMENT.—
+‘‘(A) IN GENERAL.—The HIT Standards Committee shall
+recommend to the National Coordinator standards,
+implementation specifications, and certification criteria
+described in subsection (a) that have been developed, harmonized, or recognized by the HIT Standards Committee.
+The HIT Standards Committee shall update such recommendations and make new recommendations as appropriate, including in response to a notification sent under
+section 3004(a)(2)(B). Such recommendations shall be consistent with the latest recommendations made by the HIT
+Policy Committee.
+‘‘(B) HARMONIZATION.—The HIT Standards Committee
+recognize harmonized or updated standards from an entity
+or entities for the purpose of harmonizing or updating
+standards and implementation specifications in order to
+achieve uniform and consistent implementation of the
+standards and implementation specifications.
+‘‘(C) PILOT TESTING OF STANDARDS AND IMPLEMENTATION SPECIFICATIONS.—In the development, harmonization,
+or recognition of standards and implementation specifications, the HIT Standards Committee shall, as appropriate,
+provide for the testing of such standards and specifications
+by the National Institute for Standards and Technology
+under section 13201(a) of the Health Information Technology for Economic and Clinical Health Act.
+‘‘(D) CONSISTENCY.—The standards, implementation
+specifications, and certification criteria recommended under
+this subsection shall be consistent with the standards for
+information transactions and data elements adopted pursuant to section 1173 of the Social Security Act.
+‘‘(2) FORUM.—The HIT Standards Committee shall serve
+as a forum for the participation of a broad range of stakeholders
+to provide input on the development, harmonization, and recognition of standards, implementation specifications, and certification criteria necessary for the development and adoption
+of a nationwide health information technology infrastructure
+that allows for the electronic use and exchange of health
+information.
+‘‘(3) SCHEDULE.—Not later than 90 days after the date
+of the enactment of this title, the HIT Standards Committee
+shall develop a schedule for the assessment of policy recommendations developed by the HIT Policy Committee under
+
+Jkt 079139
+
+PO 00000
+
+Frm 00124
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 239
+
+section 3002. The HIT Standards Committee shall update such
+schedule annually. The Secretary shall publish such schedule
+in the Federal Register.
+‘‘(4) PUBLIC INPUT.—The HIT Standards Committee shall
+conduct open public meetings and develop a process to allow
+for public comment on the schedule described in paragraph
+(3) and recommendations described in this subsection. Under
+such process comments shall be submitted in a timely manner
+after the date of publication of a recommendation under this
+subsection.
+‘‘(5) CONSIDERATION.—The National Coordinator shall
+ensure that the relevant and available recommendations and
+comments from the National Committee on Vital and Health
+Statistics are considered in the development of standards.
+‘‘(c) MEMBERSHIP AND OPERATIONS.—
+‘‘(1) IN GENERAL.—The National Coordinator shall take a
+leading position in the establishment and operations of the
+HIT Standards Committee.
+‘‘(2) MEMBERSHIP.—The membership of the HIT Standards
+Committee shall at least reflect providers, ancillary healthcare
+workers, consumers, purchasers, health plans, technology vendors, researchers, relevant Federal agencies, and individuals
+with technical expertise on health care quality, privacy and
+security, and on the electronic exchange and use of health
+information.
+‘‘(3) PARTICIPATION.—The members of the HIT Standards
+Committee appointed under this subsection shall represent a
+balance among various sectors of the health care system so
+that no single sector unduly influences the recommendations
+of such Committee.
+‘‘(4) OUTSIDE INVOLVEMENT.—The HIT Policy Committee
+shall ensure an opportunity for the participation in activities
+of the Committee of outside advisors, including individuals
+with expertise in the development of standards for the electronic
+exchange and use of health information, including in the areas
+of health information privacy and security.
+‘‘(5) BALANCE AMONG SECTORS.—In developing the procedures for conducting the activities of the HIT Standards Committee, the HIT Standards Committee shall act to ensure a
+balance among various sectors of the health care system so
+that no single sector unduly influences the actions of the HIT
+Standards Committee.
+‘‘(6) ASSISTANCE.—For the purposes of carrying out this
+section, the Secretary may provide or ensure that financial
+assistance is provided by the HIT Standards Committee to
+defray in whole or in part any membership fees or dues charged
+by such Committee to those consumer advocacy groups and
+not for profit entities that work in the public interest as a
+part of their mission.
+‘‘(d) APPLICATION OF FACA.—The Federal Advisory Committee
+Act (5 U.S.C. App.), other than section 14, shall apply to the
+HIT Standards Committee.
+‘‘(e) PUBLICATION.—The Secretary shall provide for publication
+in the Federal Register and the posting on the Internet website
+of the Office of the National Coordinator for Health Information
+Technology of all recommendations made by the HIT Standards
+Committee under this section.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00125
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Deadline.
+Federal Register,
+publication.
+
+Federal Register,
+publication.
+Web posting.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 240
+42 USC 300jj–14.
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+‘‘SEC. 3004. PROCESS FOR ADOPTION OF ENDORSED RECOMMENDATIONS; ADOPTION OF INITIAL SET OF STANDARDS,
+IMPLEMENTATION SPECIFICATIONS, AND CERTIFICATION CRITERIA.
+
+‘‘(a) PROCESS
+
+FOR
+
+ADOPTION
+
+OF
+
+ENDORSED RECOMMENDA-
+
+TIONS.—
+
+‘‘(1) REVIEW OF ENDORSED STANDARDS, IMPLEMENTATION
+SPECIFICATIONS, AND CERTIFICATION CRITERIA.—Not later than
+
+Deadline.
+
+Notification.
+
+Federal Register,
+publication.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Deadline.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+90 days after the date of receipt of standards, implementation
+specifications, or certification criteria endorsed under section
+3001(c), the Secretary, in consultation with representatives of
+other relevant Federal agencies, shall jointly review such standards, implementation specifications, or certification criteria and
+shall determine whether or not to propose adoption of such
+standards, implementation specifications, or certification criteria.
+‘‘(2) DETERMINATION TO ADOPT STANDARDS, IMPLEMENTATION SPECIFICATIONS, AND CERTIFICATION CRITERIA.—If the Secretary determines—
+‘‘(A) to propose adoption of any grouping of such standards, implementation specifications, or certification criteria,
+the Secretary shall, by regulation under section 553 of
+title 5, United States Code, determine whether or not to
+adopt such grouping of standards, implementation specifications, or certification criteria; or
+‘‘(B) not to propose adoption of any grouping of standards, implementation specifications, or certification criteria,
+the Secretary shall notify the National Coordinator and
+the HIT Standards Committee in writing of such determination and the reasons for not proposing the adoption
+of such recommendation.
+‘‘(3) PUBLICATION.—The Secretary shall provide for publication in the Federal Register of all determinations made by
+the Secretary under paragraph (1).
+‘‘(b) ADOPTION OF STANDARDS, IMPLEMENTATION SPECIFICATIONS, AND CERTIFICATION CRITERIA.—
+‘‘(1) IN GENERAL.—Not later than December 31, 2009, the
+Secretary shall, through the rulemaking process consistent with
+subsection (a)(2)(A), adopt an initial set of standards,
+implementation specifications, and certification criteria for the
+areas required for consideration under section 3002(b)(2)(B).
+The rulemaking for the initial set of standards, implementation
+specifications, and certification criteria may be issued on an
+interim, final basis.
+‘‘(2) APPLICATION OF CURRENT STANDARDS, IMPLEMENTATION
+SPECIFICATIONS, AND CERTIFICATION CRITERIA.—The standards,
+implementation specifications, and certification criteria adopted
+before the date of the enactment of this title through the
+process existing through the Office of the National Coordinator
+for Health Information Technology may be applied towards
+meeting the requirement of paragraph (1).
+‘‘(3) SUBSEQUENT STANDARDS ACTIVITY.—The Secretary
+shall adopt additional standards, implementation specifications,
+and certification criteria as necessary and consistent with the
+schedule published under section 3003(b)(2).
+
+Jkt 079139
+
+PO 00000
+
+Frm 00126
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 241
+
+‘‘SEC. 3005. APPLICATION AND USE OF ADOPTED STANDARDS AND
+IMPLEMENTATION SPECIFICATIONS BY FEDERAL AGENCIES.
+
+42 USC 300jj–15.
+
+‘‘For requirements relating to the application and use by Federal agencies of the standards and implementation specifications
+adopted under section 3004, see section 13111 of the Health
+Information Technology for Economic and Clinical Health Act.
+‘‘SEC. 3006. VOLUNTARY APPLICATION AND USE OF ADOPTED STANDARDS AND IMPLEMENTATION SPECIFICATIONS BY PRIVATE ENTITIES.
+
+42 USC 300jj–16.
+
+‘‘(a) IN GENERAL.—Except as provided under section 13112
+of the HITECH Act, nothing in such Act or in the amendments
+made by such Act shall be construed—
+‘‘(1) to require a private entity to adopt or comply with
+a standard or implementation specification adopted under section 3004; or
+‘‘(2) to provide a Federal agency authority, other than the
+authority such agency may have under other provisions of
+law, to require a private entity to comply with such a standard
+or implementation specification.
+‘‘(b) RULE OF CONSTRUCTION.—Nothing in this subtitle shall
+be construed to require that a private entity that enters into a
+contract with the Federal Government apply or use the standards
+and implementation specifications adopted under section 3004 with
+respect to activities not related to the contract.
+42 USC 300jj–17.
+
+‘‘SEC. 3007. FEDERAL HEALTH INFORMATION TECHNOLOGY.
+
+‘‘(a) IN GENERAL.—The National Coordinator shall support the
+development and routine updating of qualified electronic health
+record technology (as defined in section 3000) consistent with subsections (b) and (c) and make available such qualified electronic
+health record technology unless the Secretary determines through
+an assessment that the needs and demands of providers are being
+substantially and adequately met through the marketplace.
+‘‘(b) CERTIFICATION.—In making such electronic health record
+technology publicly available, the National Coordinator shall ensure
+that the qualified electronic health record technology described
+in subsection (a) is certified under the program developed under
+section 3001(c)(3) to be in compliance with applicable standards
+adopted under section 3003(a).
+‘‘(c) AUTHORIZATION TO CHARGE A NOMINAL FEE.—The National
+Coordinator may impose a nominal fee for the adoption by a health
+care provider of the health information technology system developed
+or approved under subsection (a) and (b). Such fee shall take into
+account the financial circumstances of smaller providers, low income
+providers, and providers located in rural or other medically underserved areas.
+‘‘(d) RULE OF CONSTRUCTION.—Nothing in this section shall
+be construed to require that a private or government entity adopt
+or use the technology provided under this section.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+‘‘SEC. 3008. TRANSITIONS.
+
+42 USC 300jj–18.
+
+‘‘(a) ONCHIT.—To the extent consistent with section 3001,
+all functions, personnel, assets, liabilities, and administrative
+actions applicable to the National Coordinator for Health Information Technology appointed under Executive Order No. 13335 or
+the Office of such National Coordinator on the date before the
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00127
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 242
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+date of the enactment of this title shall be transferred to the
+National Coordinator appointed under section 3001(a) and the Office
+of such National Coordinator as of the date of the enactment of
+this title.
+‘‘(b) NATIONAL EHEALTH COLLABORATIVE.—Nothing in sections
+3002 or 3003 or this subsection shall be construed as prohibiting
+the AHIC Successor, Inc. doing business as the National eHealth
+Collaborative from modifying its charter, duties, membership, and
+any other structure or function required to be consistent with
+section 3002 and 3003 so as to allow the Secretary to recognize
+such AHIC Successor, Inc. as the HIT Policy Committee or the
+HIT Standards Committee.
+‘‘(c) CONSISTENCY OF RECOMMENDATIONS.—In carrying out section 3003(b)(1)(A), until recommendations are made by the HIT
+Policy Committee, recommendations of the HIT Standards Committee shall be consistent with the most recent recommendations
+made by such AHIC Successor, Inc.
+42 USC 300jj–19.
+
+‘‘SEC. 3009. MISCELLANEOUS PROVISIONS.
+
+‘‘(a) RELATION TO HIPAA PRIVACY AND SECURITY LAW.—
+‘‘(1) IN GENERAL.—With respect to the relation of this title
+to HIPAA privacy and security law:
+‘‘(A) This title may not be construed as having any
+effect on the authorities of the Secretary under HIPAA
+privacy and security law.
+‘‘(B) The purposes of this title include ensuring that
+the health information technology standards and
+implementation specifications adopted under section 3004
+take into account the requirements of HIPAA privacy and
+security law.
+‘‘(2) DEFINITION.—For purposes of this section, the term
+‘HIPAA privacy and security law’ means—
+‘‘(A) the provisions of part C of title XI of the Social
+Security Act, section 264 of the Health Insurance Portability and Accountability Act of 1996, and subtitle D of
+title IV of the Health Information Technology for Economic
+and Clinical Health Act; and
+‘‘(B) regulations under such provisions.
+‘‘(b) FLEXIBILITY.—In administering the provisions of this title,
+the Secretary shall have flexibility in applying the definition of
+health care provider under section 3000(3), including the authority
+to omit certain entities listed in such definition when applying
+such definition under this title, where appropriate.’’.
+SEC. 13102. TECHNICAL AMENDMENT.
+
+Section 1171(5) of the Social Security Act (42 U.S.C. 1320d)
+is amended by striking ‘‘or C’’ and inserting ‘‘C, or D’’.
+
+PART 2—APPLICATION AND USE OF ADOPTED
+HEALTH
+INFORMATION
+TECHNOLOGY
+STANDARDS; REPORTS
+42 USC 17901.
+
+SEC. 13111. COORDINATION OF FEDERAL ACTIVITIES WITH ADOPTED
+STANDARDS AND IMPLEMENTATION SPECIFICATIONS.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+(a) SPENDING ON HEALTH INFORMATION TECHNOLOGY SYSTEMS.—As each agency (as defined by the Director of the Office
+of Management and Budget, in consultation with the Secretary
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00128
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 243
+
+of Health and Human Services) implements, acquires, or upgrades
+health information technology systems used for the direct exchange
+of individually identifiable health information between agencies
+and with non-Federal entities, it shall utilize, where available,
+health information technology systems and products that meet
+standards and implementation specifications adopted under section
+3004 of the Public Health Service Act, as added by section 13101.
+(b) FEDERAL INFORMATION COLLECTION ACTIVITIES.—With
+respect to a standard or implementation specification adopted under
+section 3004 of the Public Health Service Act, as added by section
+13101, the President shall take measures to ensure that Federal
+activities involving the broad collection and submission of health
+information are consistent with such standard or implementation
+specification, respectively, within three years after the date of such
+adoption.
+(c) APPLICATION OF DEFINITIONS.—The definitions contained
+in section 3000 of the Public Health Service Act, as added by
+section 13101, shall apply for purposes of this part.
+SEC. 13112. APPLICATION TO PRIVATE ENTITIES.
+
+42 USC 17902.
+
+Each agency (as defined in such Executive Order issued on
+August 22, 2006, relating to promoting quality and efficient health
+care in Federal government administered or sponsored health care
+programs) shall require in contracts or agreements with health
+care providers, health plans, or health insurance issuers that as
+each provider, plan, or issuer implements, acquires, or upgrades
+health information technology systems, it shall utilize, where available, health information technology systems and products that meet
+standards and implementation specifications adopted under section
+3004 of the Public Health Service Act, as added by section 13101.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+SEC. 13113. STUDY AND REPORTS.
+
+42 USC 17903.
+
+(a) REPORT ON ADOPTION OF NATIONWIDE SYSTEM.—Not later
+than 2 years after the date of the enactment of this Act and
+annually thereafter, the Secretary of Health and Human Services
+shall submit to the appropriate committees of jurisdiction of the
+House of Representatives and the Senate a report that—
+(1) describes the specific actions that have been taken
+by the Federal Government and private entities to facilitate
+the adoption of a nationwide system for the electronic use
+and exchange of health information;
+(2) describes barriers to the adoption of such a nationwide
+system; and
+(3) contains recommendations to achieve full implementation of such a nationwide system.
+(b) REIMBURSEMENT INCENTIVE STUDY AND REPORT.—
+(1) STUDY.—The Secretary of Health and Human Services
+shall carry out, or contract with a private entity to carry out,
+a study that examines methods to create efficient reimbursement incentives for improving health care quality in Federally
+qualified health centers, rural health clinics, and free clinics.
+(2) REPORT.—Not later than 2 years after the date of the
+enactment of this Act, the Secretary of Health and Human
+Services shall submit to the appropriate committees of jurisdiction of the House of Representatives and the Senate a report
+on the study carried out under paragraph (1).
+(c) AGING SERVICES TECHNOLOGY STUDY AND REPORT.—
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00129
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 244
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+(1) IN GENERAL.—The Secretary of Health and Human
+Services shall carry out, or contract with a private entity to
+carry out, a study of matters relating to the potential use
+of new aging services technology to assist seniors, individuals
+with disabilities, and their caregivers throughout the aging
+process.
+(2) MATTERS TO BE STUDIED.—The study under paragraph
+(1) shall include—
+(A) an evaluation of—
+(i) methods for identifying current, emerging, and
+future health technology that can be used to meet
+the needs of seniors and individuals with disabilities
+and their caregivers across all aging services settings,
+as specified by the Secretary;
+(ii) methods for fostering scientific innovation with
+respect to aging services technology within the business
+and academic communities; and
+(iii) developments in aging services technology in
+other countries that may be applied in the United
+States; and
+(B) identification of—
+(i) barriers to innovation in aging services technology and devising strategies for removing such barriers; and
+(ii) barriers to the adoption of aging services technology by health care providers and consumers and
+devising strategies to removing such barriers.
+(3) REPORT.—Not later than 24 months after the date of
+the enactment of this Act, the Secretary shall submit to the
+appropriate committees of jurisdiction of the House of Representatives and of the Senate a report on the study carried
+out under paragraph (1).
+(4) DEFINITIONS.—For purposes of this subsection:
+(A) AGING SERVICES TECHNOLOGY.—The term ‘‘aging
+services technology’’ means health technology that meets
+the health care needs of seniors, individuals with disabilities, and the caregivers of such seniors and individuals.
+(B) SENIOR.—The term ‘‘senior’’ has such meaning as
+specified by the Secretary.
+
+Contracts.
+
+Subtitle B—Testing of Health Information
+Technology
+42 USC 17911.
+
+SEC. 13201. NATIONAL INSTITUTE FOR STANDARDS AND TECHNOLOGY
+TESTING.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+(a) PILOT TESTING OF STANDARDS AND IMPLEMENTATION SPECIFICATIONS.—In coordination with the HIT Standards Committee
+established under section 3003 of the Public Health Service Act,
+as added by section 13101, with respect to the development of
+standards and implementation specifications under such section,
+the Director of the National Institute for Standards and Technology
+shall test such standards and implementation specifications, as
+appropriate, in order to assure the efficient implementation and
+use of such standards and implementation specifications.
+(b) VOLUNTARY TESTING PROGRAM.—In coordination with the
+HIT Standards Committee established under section 3003 of the
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00130
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 245
+
+Public Health Service Act, as added by section 13101, with respect
+to the development of standards and implementation specifications
+under such section, the Director of the National Institute of Standards and Technology shall support the establishment of a conformance testing infrastructure, including the development of technical
+test beds. The development of this conformance testing infrastructure may include a program to accredit independent, non-Federal
+laboratories to perform testing.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+SEC. 13202. RESEARCH AND DEVELOPMENT PROGRAMS.
+
+42 USC 17912.
+
+(a) HEALTH CARE INFORMATION ENTERPRISE INTEGRATION
+RESEARCH CENTERS.—
+(1) IN GENERAL.—The Director of the National Institute
+of Standards and Technology, in consultation with the Director
+of the National Science Foundation and other appropriate Federal agencies, shall establish a program of assistance to institutions of higher education (or consortia thereof which may
+include nonprofit entities and Federal Government laboratories)
+to establish multidisciplinary Centers for Health Care Information Enterprise Integration.
+(2) REVIEW; COMPETITION.—Grants shall be awarded under
+this subsection on a merit-reviewed, competitive basis.
+(3) PURPOSE.—The purposes of the Centers described in
+paragraph (1) shall be—
+(A) to generate innovative approaches to health care
+information enterprise integration by conducting cuttingedge, multidisciplinary research on the systems challenges
+to health care delivery; and
+(B) the development and use of health information
+technologies and other complementary fields.
+(4) RESEARCH AREAS.—Research areas may include—
+(A) interfaces between human information and communications technology systems;
+(B) voice-recognition systems;
+(C) software that improves interoperability and
+connectivity among health information systems;
+(D) software dependability in systems critical to health
+care delivery;
+(E) measurement of the impact of information technologies on the quality and productivity of health care;
+(F) health information enterprise management;
+(G) health information technology security and integrity; and
+(H) relevant health information technology to reduce
+medical errors.
+(5) APPLICATIONS.—An institution of higher education (or
+a consortium thereof) seeking funding under this subsection
+shall submit an application to the Director of the National
+Institute of Standards and Technology at such time, in such
+manner, and containing such information as the Director may
+require. The application shall include, at a minimum, a description of—
+(A) the research projects that will be undertaken by
+the Center established pursuant to assistance under paragraph (1) and the respective contributions of the participating entities;
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00131
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Establishment.
+
+Grants.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 246
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+(B) how the Center will promote active collaboration
+among scientists and engineers from different disciplines,
+such as information technology, biologic sciences, management, social sciences, and other appropriate disciplines;
+(C) technology transfer activities to demonstrate and
+diffuse the research results, technologies, and knowledge;
+and
+(D) how the Center will contribute to the education
+and training of researchers and other professionals in fields
+relevant to health information enterprise integration.
+(b) NATIONAL INFORMATION TECHNOLOGY RESEARCH AND
+DEVELOPMENT PROGRAM.—The National High-Performance Computing Program established by section 101 of the High-Performance
+Computing Act of 1991 (15 U.S.C. 5511) shall include Federal
+research and development programs related to health information
+technology.
+
+Subtitle C—Grants and Loans Funding
+SEC. 13301. GRANT, LOAN, AND DEMONSTRATION PROGRAMS.
+
+Title XXX of the Public Health Service Act, as added by section
+13101, is amended by adding at the end the following new subtitle:
+
+‘‘Subtitle B—Incentives for the Use of
+Health Information Technology
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+42 USC 300jj–31.
+
+‘‘SEC. 3011. IMMEDIATE FUNDING TO STRENGTHEN THE HEALTH
+INFORMATION TECHNOLOGY INFRASTRUCTURE.
+
+‘‘(a) IN GENERAL.—The Secretary shall, using amounts appropriated under section 3018, invest in the infrastructure necessary
+to allow for and promote the electronic exchange and use of health
+information for each individual in the United States consistent
+with the goals outlined in the strategic plan developed by the
+National Coordinator (and as available) under section 3001. The
+Secretary shall invest funds through the different agencies with
+expertise in such goals, such as the Office of the National Coordinator for Health Information Technology, the Health Resources
+and Services Administration, the Agency for Healthcare Research
+and Quality, the Centers of Medicare & Medicaid Services, the
+Centers for Disease Control and Prevention, and the Indian Health
+Service to support the following:
+‘‘(1) Health information technology architecture that will
+support the nationwide electronic exchange and use of health
+information in a secure, private, and accurate manner,
+including connecting health information exchanges, and which
+may include updating and implementing the infrastructure necessary within different agencies of the Department of Health
+and Human Services to support the electronic use and exchange
+of health information.
+‘‘(2) Development and adoption of appropriate certified electronic health records for categories of health care providers
+not eligible for support under title XVIII or XIX of the Social
+Security Act for the adoption of such records.
+‘‘(3) Training on and dissemination of information on best
+practices to integrate health information technology, including
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00132
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 247
+
+electronic health records, into a provider’s delivery of care,
+consistent with best practices learned from the Health Information Technology Research Center developed under section
+3012(b), including community health centers receiving assistance under section 330, covered entities under section 340B,
+and providers participating in one or more of the programs
+under titles XVIII, XIX, and XXI of the Social Security Act
+(relating to Medicare, Medicaid, and the State Children’s Health
+Insurance Program).
+‘‘(4) Infrastructure and tools for the promotion of telemedicine, including coordination among Federal agencies in the
+promotion of telemedicine.
+‘‘(5) Promotion of the interoperability of clinical data repositories or registries.
+‘‘(6) Promotion of technologies and best practices that
+enhance the protection of health information by all holders
+of individually identifiable health information.
+‘‘(7) Improvement and expansion of the use of health
+information technology by public health departments.
+‘‘(b) COORDINATION.—The Secretary shall ensure funds under
+this section are used in a coordinated manner with other health
+information promotion activities.
+‘‘(c) ADDITIONAL USE OF FUNDS.—In addition to using funds
+as provided in subsection (a), the Secretary may use amounts appropriated under section 3018 to carry out health information technology activities that are provided for under laws in effect on
+the date of the enactment of this title.
+‘‘(d) STANDARDS FOR ACQUISITION OF HEALTH INFORMATION
+TECHNOLOGY.—To the greatest extent practicable, the Secretary
+shall ensure that where funds are expended under this section
+for the acquisition of health information technology, such funds
+shall be used to acquire health information technology that meets
+applicable standards adopted under section 3004. Where it is not
+practicable to expend funds on health information technology that
+meets such applicable standards, the Secretary shall ensure that
+such health information technology meets applicable standards
+otherwise adopted by the Secretary.
+‘‘SEC. 3012. HEALTH INFORMATION TECHNOLOGY IMPLEMENTATION
+ASSISTANCE.
+
+‘‘(a) HEALTH INFORMATION TECHNOLOGY EXTENSION PROassist health care providers to adopt, implement, and
+effectively use certified EHR technology that allows for the electronic exchange and use of health information, the Secretary, acting
+through the Office of the National Coordinator, shall establish
+a health information technology extension program to provide
+health information technology assistance services to be carried out
+through the Department of Health and Human Services. The
+National Coordinator shall consult with other Federal agencies
+with demonstrated experience and expertise in information technology services, such as the National Institute of Standards and
+Technology, in developing and implementing this program.
+‘‘(b) HEALTH INFORMATION TECHNOLOGY RESEARCH CENTER.—
+‘‘(1) IN GENERAL.—The Secretary shall create a Health
+Information Technology Research Center (in this section
+referred to as the ‘Center’) to provide technical assistance and
+develop or recognize best practices to support and accelerate
+
+42 USC 300jj–32.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+GRAM.—To
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00133
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Consultation.
+
+Establishment.
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+123 STAT. 248
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+efforts to adopt, implement, and effectively utilize health
+information technology that allows for the electronic exchange
+and use of information in compliance with standards,
+implementation specifications, and certification criteria adopted
+under section 3004.
+‘‘(2) INPUT.—The Center shall incorporate input from—
+‘‘(A) other Federal agencies with demonstrated experience and expertise in information technology services such
+as the National Institute of Standards and Technology;
+‘‘(B) users of health information technology, such as
+providers and their support and clerical staff and others
+involved in the care and care coordination of patients,
+from the health care and health information technology
+industry; and
+‘‘(C) others as appropriate.
+‘‘(3) PURPOSES.—The purposes of the Center are to—
+‘‘(A) provide a forum for the exchange of knowledge
+and experience;
+‘‘(B) accelerate the transfer of lessons learned from
+existing public and private sector initiatives, including
+those currently receiving Federal financial support;
+‘‘(C) assemble, analyze, and widely disseminate evidence and experience related to the adoption, implementation, and effective use of health information technology
+that allows for the electronic exchange and use of information including through the regional centers described in
+subsection (c);
+‘‘(D) provide technical assistance for the establishment
+and evaluation of regional and local health information
+networks to facilitate the electronic exchange of information
+across health care settings and improve the quality of
+health care;
+‘‘(E) provide technical assistance for the development
+and dissemination of solutions to barriers to the exchange
+of electronic health information; and
+‘‘(F) learn about effective strategies to adopt and utilize
+health information technology in medically underserved
+communities.
+‘‘(c) HEALTH INFORMATION TECHNOLOGY REGIONAL EXTENSION
+CENTERS.—
+‘‘(1) IN GENERAL.—The Secretary shall provide assistance
+for the creation and support of regional centers (in this subsection referred to as ‘regional centers’) to provide technical
+assistance and disseminate best practices and other information
+learned from the Center to support and accelerate efforts to
+adopt, implement, and effectively utilize health information
+technology that allows for the electronic exchange and use
+of information in compliance with standards, implementation
+specifications, and certification criteria adopted under section
+3004. Activities conducted under this subsection shall be consistent with the strategic plan developed by the National
+Coordinator, (and, as available) under section 3001.
+‘‘(2) AFFILIATION.—Regional centers shall be affiliated with
+any United States-based nonprofit institution or organization,
+or group thereof, that applies and is awarded financial assistance under this section. Individual awards shall be decided
+on the basis of merit.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00134
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 249
+
+‘‘(3) OBJECTIVE.—The objective of the regional centers is
+to enhance and promote the adoption of health information
+technology through—
+‘‘(A) assistance with the implementation, effective use,
+upgrading, and ongoing maintenance of health information
+technology, including electronic health records, to
+healthcare providers nationwide;
+‘‘(B) broad participation of individuals from industry,
+universities, and State governments;
+‘‘(C) active dissemination of best practices and research
+on the implementation, effective use, upgrading, and
+ongoing maintenance of health information technology,
+including electronic health records, to health care providers
+in order to improve the quality of healthcare and protect
+the privacy and security of health information;
+‘‘(D) participation, to the extent practicable, in health
+information exchanges;
+‘‘(E) utilization, when appropriate, of the expertise and
+capability that exists in Federal agencies other than the
+Department; and
+‘‘(F) integration of health information technology,
+including electronic health records, into the initial and
+ongoing training of health professionals and others in the
+healthcare industry that would be instrumental to
+improving the quality of healthcare through the smooth
+and accurate electronic use and exchange of health information.
+‘‘(4) REGIONAL ASSISTANCE.—Each regional center shall aim
+to provide assistance and education to all providers in a region,
+but shall prioritize any direct assistance first to the following:
+‘‘(A) Public or not-for-profit hospitals or critical access
+hospitals.
+‘‘(B) Federally qualified health centers (as defined in
+section 1861(aa)(4) of the Social Security Act).
+‘‘(C) Entities that are located in rural and other areas
+that serve uninsured, underinsured, and medically underserved individuals (regardless of whether such area is
+urban or rural).
+‘‘(D) Individual or small group practices (or a consortium thereof) that are primarily focused on primary care.
+‘‘(5) FINANCIAL SUPPORT.—The Secretary may provide
+financial support to any regional center created under this
+subsection for a period not to exceed four years. The Secretary
+may not provide more than 50 percent of the capital and
+annual operating and maintenance funds required to create
+and maintain such a center, except in an instance of national
+economic conditions which would render this cost-share requirement detrimental to the program and upon notification to Congress as to the justification to waive the cost-share requirement.
+‘‘(6) NOTICE OF PROGRAM DESCRIPTION AND AVAILABILITY
+OF FUNDS.—The Secretary shall publish in the Federal Register,
+not later than 90 days after the date of the enactment of
+this title, a draft description of the program for establishing
+regional centers under this subsection. Such description shall
+include the following:
+‘‘(A) A detailed explanation of the program and the
+programs goals.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00135
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Federal Register,
+publication.
+Deadline.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 250
+
+‘‘(B) Procedures to be followed by the applicants.
+‘‘(C) Criteria for determining qualified applicants.
+‘‘(D) Maximum support levels expected to be available
+to centers under the program.
+‘‘(7) APPLICATION REVIEW.—The Secretary shall subject each
+application under this subsection to merit review. In making
+a decision whether to approve such application and provide
+financial support, the Secretary shall consider at a minimum
+the merits of the application, including those portions of the
+application regarding—
+‘‘(A) the ability of the applicant to provide assistance
+under this subsection and utilization of health information
+technology appropriate to the needs of particular categories
+of health care providers;
+‘‘(B) the types of service to be provided to health care
+providers;
+‘‘(C) geographical diversity and extent of service area;
+and
+‘‘(D) the percentage of funding and amount of in-kind
+commitment from other sources.
+‘‘(8) BIENNIAL EVALUATION.—Each regional center which
+receives financial assistance under this subsection shall be
+evaluated biennially by an evaluation panel appointed by the
+Secretary. Each evaluation panel shall be composed of private
+experts, none of whom shall be connected with the center
+involved, and of Federal officials. Each evaluation panel shall
+measure the involved center’s performance against the objective
+specified in paragraph (3). The Secretary shall not continue
+to provide funding to a regional center unless its evaluation
+is overall positive.
+‘‘(9) CONTINUING SUPPORT.—After the second year of assistance under this subsection, a regional center may receive additional support under this subsection if it has received positive
+evaluations and a finding by the Secretary that continuation
+of Federal funding to the center was in the best interest of
+provision of health information technology extension services.
+
+Procedures.
+Criteria.
+
+42 USC 300jj–33.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+‘‘SEC. 3013. STATE GRANTS TO PROMOTE HEALTH INFORMATION TECHNOLOGY.
+
+‘‘(a) IN GENERAL.—The Secretary, acting through the National
+Coordinator, shall establish a program in accordance with this
+section to facilitate and expand the electronic movement and use
+of health information among organizations according to nationally
+recognized standards.
+‘‘(b) PLANNING GRANTS.—The Secretary may award a grant
+to a State or qualified State-designated entity (as described in
+subsection (f)) that submits an application to the Secretary at
+such time, in such manner, and containing such information as
+the Secretary may specify, for the purpose of planning activities
+described in subsection (d).
+‘‘(c) IMPLEMENTATION GRANTS.—The Secretary may award a
+grant to a State or qualified State designated entity that—
+‘‘(1) has submitted, and the Secretary has approved, a
+plan described in subsection (e) (regardless of whether such
+plan was prepared using amounts awarded under subsection
+(b); and
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00136
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 251
+
+‘‘(2) submits an application at such time, in such manner,
+and containing such information as the Secretary may specify.
+‘‘(d) USE OF FUNDS.—Amounts received under a grant under
+subsection (c) shall be used to conduct activities to facilitate and
+expand the electronic movement and use of health information
+among organizations according to nationally recognized standards
+through activities that include—
+‘‘(1) enhancing broad and varied participation in the authorized and secure nationwide electronic use and exchange of
+health information;
+‘‘(2) identifying State or local resources available towards
+a nationwide effort to promote health information technology;
+‘‘(3) complementing other Federal grants, programs, and
+efforts towards the promotion of health information technology;
+‘‘(4) providing technical assistance for the development and
+dissemination of solutions to barriers to the exchange of electronic health information;
+‘‘(5) promoting effective strategies to adopt and utilize
+health information technology in medically underserved
+communities;
+‘‘(6) assisting patients in utilizing health information technology;
+‘‘(7) encouraging clinicians to work with Health Information
+Technology Regional Extension Centers as described in section
+3012, to the extent they are available and valuable;
+‘‘(8) supporting public health agencies’ authorized use of
+and access to electronic health information;
+‘‘(9) promoting the use of electronic health records for
+quality improvement including through quality measures
+reporting; and
+‘‘(10) such other activities as the Secretary may specify.
+‘‘(e) PLAN.—
+‘‘(1) IN GENERAL.—A plan described in this subsection is
+a plan that describes the activities to be carried out by a
+State or by the qualified State-designated entity within such
+State to facilitate and expand the electronic movement and
+use of health information among organizations according to
+nationally recognized standards and implementation specifications.
+‘‘(2) REQUIRED ELEMENTS.—A plan described in paragraph
+(1) shall—
+‘‘(A) be pursued in the public interest;
+‘‘(B) be consistent with the strategic plan developed
+by the National Coordinator, (and, as available) under section 3001;
+‘‘(C) include a description of the ways the State or
+qualified State-designated entity will carry out the activities described in subsection (b); and
+‘‘(D) contain such elements as the Secretary may
+require.
+‘‘(f) QUALIFIED STATE-DESIGNATED ENTITY.—For purposes of
+this section, to be a qualified State-designated entity, with respect
+to a State, an entity shall—
+‘‘(1) be designated by the State as eligible to receive awards
+under this section;
+‘‘(2) be a not-for-profit entity with broad stakeholder representation on its governing board;
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00137
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 252
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Deadline.
+Evaluation.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+‘‘(3) demonstrate that one of its principal goals is to use
+information technology to improve health care quality and efficiency through the authorized and secure electronic exchange
+and use of health information;
+‘‘(4) adopt nondiscrimination and conflict of interest policies
+that demonstrate a commitment to open, fair, and nondiscriminatory participation by stakeholders; and
+‘‘(5) conform to such other requirements as the Secretary
+may establish.
+‘‘(g) REQUIRED CONSULTATION.—In carrying out activities
+described in subsections (b) and (c), a State or qualified Statedesignated entity shall consult with and consider the recommendations of—
+‘‘(1) health care providers (including providers that provide
+services to low income and underserved populations);
+‘‘(2) health plans;
+‘‘(3) patient or consumer organizations that represent the
+population to be served;
+‘‘(4) health information technology vendors;
+‘‘(5) health care purchasers and employers;
+‘‘(6) public health agencies;
+‘‘(7) health professions schools, universities and colleges;
+‘‘(8) clinical researchers;
+‘‘(9) other users of health information technology such as
+the support and clerical staff of providers and others involved
+in the care and care coordination of patients; and
+‘‘(10) such other entities, as may be determined appropriate
+by the Secretary.
+‘‘(h) CONTINUOUS IMPROVEMENT.—The Secretary shall annually
+evaluate the activities conducted under this section and shall, in
+awarding grants under this section, implement the lessons learned
+from such evaluation in a manner so that awards made subsequent
+to each such evaluation are made in a manner that, in the determination of the Secretary, will lead towards the greatest improvement in quality of care, decrease in costs, and the most effective
+authorized and secure electronic exchange of health information.
+‘‘(i) REQUIRED MATCH.—
+‘‘(1) IN GENERAL.—For a fiscal year (beginning with fiscal
+year 2011), the Secretary may not make a grant under this
+section to a State unless the State agrees to make available
+non-Federal contributions (which may include in-kind contributions) toward the costs of a grant awarded under subsection
+(c) in an amount equal to—
+‘‘(A) for fiscal year 2011, not less than $1 for each
+$10 of Federal funds provided under the grant;
+‘‘(B) for fiscal year 2012, not less than $1 for each
+$7 of Federal funds provided under the grant; and
+‘‘(C) for fiscal year 2013 and each subsequent fiscal
+year, not less than $1 for each $3 of Federal funds provided
+under the grant.
+‘‘(2) AUTHORITY TO REQUIRE STATE MATCH FOR FISCAL YEARS
+BEFORE FISCAL YEAR 2011.—For any fiscal year during the grant
+program under this section before fiscal year 2011, the Secretary may determine the extent to which there shall be
+required a non-Federal contribution from a State receiving
+a grant under this section.
+
+Jkt 079139
+
+PO 00000
+
+Frm 00138
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 253
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+‘‘SEC. 3014. COMPETITIVE GRANTS TO STATES AND INDIAN TRIBES
+FOR THE DEVELOPMENT OF LOAN PROGRAMS TO FACILITATE THE WIDESPREAD ADOPTION OF CERTIFIED EHR
+TECHNOLOGY.
+
+‘‘(a) IN GENERAL.—The National Coordinator may award
+competitive grants to eligible entities for the establishment of programs for loans to health care providers to conduct the activities
+described in subsection (e).
+‘‘(b) ELIGIBLE ENTITY DEFINED.—For purposes of this subsection, the term ‘eligible entity’ means a State or Indian tribe
+(as defined in the Indian Self-Determination and Education Assistance Act) that—
+‘‘(1) submits to the National Coordinator an application
+at such time, in such manner, and containing such information
+as the National Coordinator may require;
+‘‘(2) submits to the National Coordinator a strategic plan
+in accordance with subsection (d) and provides to the National
+Coordinator assurances that the entity will update such plan
+annually in accordance with such subsection;
+‘‘(3) provides assurances to the National Coordinator that
+the entity will establish a Loan Fund in accordance with subsection (c);
+‘‘(4) provides assurances to the National Coordinator that
+the entity will not provide a loan from the Loan Fund to
+a health care provider unless the provider agrees to—
+‘‘(A) submit reports on quality measures adopted by
+the Federal Government (by not later than 90 days after
+the date on which such measures are adopted), to—
+‘‘(i) the Administrator of the Centers for Medicare
+& Medicaid Services (or his or her designee), in the
+case of an entity participating in the Medicare program
+under title XVIII of the Social Security Act or the
+Medicaid program under title XIX of such Act; or
+‘‘(ii) the Secretary in the case of other entities;
+‘‘(B) demonstrate to the satisfaction of the Secretary
+(through criteria established by the Secretary) that any
+certified EHR technology purchased, improved, or otherwise
+financially supported under a loan under this section is
+used to exchange health information in a manner that,
+in accordance with law and standards (as adopted under
+section 3004) applicable to the exchange of information,
+improves the quality of health care, such as promoting
+care coordination; and
+‘‘(C) comply with such other requirements as the entity
+or the Secretary may require;
+‘‘(D) include a plan on how health care providers
+involved intend to maintain and support the certified EHR
+technology over time;
+‘‘(E) include a plan on how the health care providers
+involved intend to maintain and support the certified EHR
+technology that would be purchased with such loan,
+including the type of resources expected to be involved
+and any such other information as the State or Indian
+Tribe, respectively, may require; and
+‘‘(5) agrees to provide matching funds in accordance with
+subsection (h).
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00139
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+42 USC 300jj–34.
+
+Reports.
+Deadline.
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+123 STAT. 254
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+‘‘(c) ESTABLISHMENT OF FUND.—For purposes of subsection
+(b)(3), an eligible entity shall establish a certified EHR technology
+loan fund (referred to in this subsection as a ‘Loan Fund’) and
+comply with the other requirements contained in this section. A
+grant to an eligible entity under this section shall be deposited
+in the Loan Fund established by the eligible entity. No funds
+authorized by other provisions of this title to be used for other
+purposes specified in this title shall be deposited in any Loan
+Fund.
+‘‘(d) STRATEGIC PLAN.—
+‘‘(1) IN GENERAL.—For purposes of subsection (b)(2), a strategic plan of an eligible entity under this subsection shall
+identify the intended uses of amounts available to the Loan
+Fund of such entity.
+‘‘(2) CONTENTS.—A strategic plan under paragraph (1), with
+respect to a Loan Fund of an eligible entity, shall include
+for a year the following:
+‘‘(A) A list of the projects to be assisted through the
+Loan Fund during such year.
+‘‘(B) A description of the criteria and methods established for the distribution of funds from the Loan Fund
+during the year.
+‘‘(C) A description of the financial status of the Loan
+Fund as of the date of submission of the plan.
+‘‘(D) The short-term and long-term goals of the Loan
+Fund.
+‘‘(e) USE OF FUNDS.—Amounts deposited in a Loan Fund,
+including loan repayments and interest earned on such amounts,
+shall be used only for awarding loans or loan guarantees, making
+reimbursements described in subsection (g)(4)(A), or as a source
+of reserve and security for leveraged loans, the proceeds of which
+are deposited in the Loan Fund established under subsection (c).
+Loans under this section may be used by a health care provider
+to—
+‘‘(1) facilitate the purchase of certified EHR technology;
+‘‘(2) enhance the utilization of certified EHR technology
+(which may include costs associated with upgrading health
+information technology so that it meets criteria necessary to
+be a certified EHR technology);
+‘‘(3) train personnel in the use of such technology; or
+‘‘(4) improve the secure electronic exchange of health
+information.
+‘‘(f) TYPES OF ASSISTANCE.—Except as otherwise limited by
+applicable State law, amounts deposited into a Loan Fund under
+this section may only be used for the following:
+‘‘(1) To award loans that comply with the following:
+‘‘(A) The interest rate for each loan shall not exceed
+the market interest rate.
+‘‘(B) The principal and interest payments on each loan
+shall commence not later than 1 year after the date the
+loan was awarded, and each loan shall be fully amortized
+not later than 10 years after the date of the loan.
+‘‘(C) The Loan Fund shall be credited with all payments
+of principal and interest on each loan awarded from the
+Loan Fund.
+‘‘(2) To guarantee, or purchase insurance for, a local obligation (all of the proceeds of which finance a project eligible
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00140
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 255
+
+for assistance under this subsection) if the guarantee or purchase would improve credit market access or reduce the interest
+rate applicable to the obligation involved.
+‘‘(3) As a source of revenue or security for the payment
+of principal and interest on revenue or general obligation bonds
+issued by the eligible entity if the proceeds of the sale of
+the bonds will be deposited into the Loan Fund.
+‘‘(4) To earn interest on the amounts deposited into the
+Loan Fund.
+‘‘(5) To make reimbursements described in subsection
+(g)(4)(A).
+‘‘(g) ADMINISTRATION OF LOAN FUNDS.—
+‘‘(1) COMBINED FINANCIAL ADMINISTRATION.—An eligible
+entity may (as a convenience and to avoid unnecessary administrative costs) combine, in accordance with applicable State law,
+the financial administration of a Loan Fund established under
+this subsection with the financial administration of any other
+revolving fund established by the entity if otherwise not prohibited by the law under which the Loan Fund was established.
+‘‘(2) COST OF ADMINISTERING FUND.—Each eligible entity
+may annually use not to exceed 4 percent of the funds provided
+to the entity under a grant under this section to pay the
+reasonable costs of the administration of the programs under
+this section, including the recovery of reasonable costs expended
+to establish a Loan Fund which are incurred after the date
+of the enactment of this title.
+‘‘(3) GUIDANCE AND REGULATIONS.—The National Coordinator shall publish guidance and promulgate regulations as
+may be necessary to carry out the provisions of this section,
+including—
+‘‘(A) provisions to ensure that each eligible entity commits and expends funds allotted to the entity under this
+section as efficiently as possible in accordance with this
+title and applicable State laws; and
+‘‘(B) guidance to prevent waste, fraud, and abuse.
+‘‘(4) PRIVATE SECTOR CONTRIBUTIONS.—
+‘‘(A) IN GENERAL.—A Loan Fund established under this
+section may accept contributions from private sector entities, except that such entities may not specify the recipient
+or recipients of any loan issued under this subsection.
+An eligible entity may agree to reimburse a private sector
+entity for any contribution made under this subparagraph,
+except that the amount of such reimbursement may not
+be greater than the principal amount of the contribution
+made.
+‘‘(B) AVAILABILITY OF INFORMATION.—An eligible entity
+shall make publicly available the identity of, and amount
+contributed by, any private sector entity under subparagraph (A) and may issue letters of commendation or make
+other awards (that have no financial value) to any such
+entity.
+‘‘(h) MATCHING REQUIREMENTS.—
+‘‘(1) IN GENERAL.—The National Coordinator may not make
+a grant under subsection (a) to an eligible entity unless the
+entity agrees to make available (directly or through donations
+from public or private entities) non-Federal contributions in
+cash to the costs of carrying out the activities for which the
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00141
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Publication.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 256
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+grant is awarded in an amount equal to not less than $1
+for each $5 of Federal funds provided under the grant.
+‘‘(2) DETERMINATION OF AMOUNT OF NON-FEDERAL CONTRIBUTION.—In determining the amount of non-Federal contributions that an eligible entity has provided pursuant to
+subparagraph (A), the National Coordinator may not include
+any amounts provided to the entity by the Federal Government.
+‘‘(i) EFFECTIVE DATE.—The Secretary may not make an award
+under this section prior to January 1, 2010.
+42 USC 300jj–35.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Strategic plan.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+‘‘SEC. 3015. DEMONSTRATION PROGRAM TO INTEGRATE INFORMATION
+TECHNOLOGY INTO CLINICAL EDUCATION.
+
+‘‘(a) IN GENERAL.—The Secretary may award grants under this
+section to carry out demonstration projects to develop academic
+curricula integrating certified EHR technology in the clinical education of health professionals. Such awards shall be made on a
+competitive basis and pursuant to peer review.
+‘‘(b) ELIGIBILITY.—To be eligible to receive a grant under subsection (a), an entity shall—
+‘‘(1) submit to the Secretary an application at such time,
+in such manner, and containing such information as the Secretary may require;
+‘‘(2) submit to the Secretary a strategic plan for integrating
+certified EHR technology in the clinical education of health
+professionals to reduce medical errors, increase access to
+prevention, reduce chronic diseases, and enhance health care
+quality;
+‘‘(3) be—
+‘‘(A) a school of medicine, osteopathic medicine, dentistry, or pharmacy, a graduate program in behavioral or
+mental health, or any other graduate health professions
+school;
+‘‘(B) a graduate school of nursing or physician assistant
+studies;
+‘‘(C) a consortium of two or more schools described
+in subparagraph (A) or (B); or
+‘‘(D) an institution with a graduate medical education
+program in medicine, osteopathic medicine, dentistry, pharmacy, nursing, or physician assistance studies;
+‘‘(4) provide for the collection of data regarding the effectiveness of the demonstration project to be funded under the grant
+in improving the safety of patients, the efficiency of health
+care delivery, and in increasing the likelihood that graduates
+of the grantee will adopt and incorporate certified EHR technology, in the delivery of health care services; and
+‘‘(5) provide matching funds in accordance with subsection
+(d).
+‘‘(c) USE OF FUNDS.—
+‘‘(1) IN GENERAL.—With respect to a grant under subsection
+(a), an eligible entity shall—
+‘‘(A) use grant funds in collaboration with 2 or more
+disciplines; and
+‘‘(B) use grant funds to integrate certified EHR technology into community-based clinical education.
+‘‘(2) LIMITATION.—An eligible entity shall not use amounts
+received under a grant under subsection (a) to purchase hardware, software, or services.
+
+Jkt 079139
+
+PO 00000
+
+Frm 00142
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 257
+
+‘‘(d) FINANCIAL SUPPORT.—The Secretary may not provide more
+than 50 percent of the costs of any activity for which assistance
+is provided under subsection (a), except in an instance of national
+economic conditions which would render the cost-share requirement
+under this subsection detrimental to the program and upon notification to Congress as to the justification to waive the cost-share
+requirement.
+‘‘(e) EVALUATION.—The Secretary shall take such action as may
+be necessary to evaluate the projects funded under this section
+and publish, make available, and disseminate the results of such
+evaluations on as wide a basis as is practicable.
+‘‘(f) REPORTS.—Not later than 1 year after the date of enactment
+of this title, and annually thereafter, the Secretary shall submit
+to the Committee on Health, Education, Labor, and Pensions and
+the Committee on Finance of the Senate, and the Committee on
+Energy and Commerce of the House of Representatives a report
+that—
+‘‘(1) describes the specific projects established under this
+section; and
+‘‘(2) contains recommendations for Congress based on the
+evaluation conducted under subsection (e).
+‘‘SEC. 3016. INFORMATION TECHNOLOGY PROFESSIONALS IN HEALTH
+CARE.
+
+Publication.
+
+42 USC 300jj–36.
+
+‘‘(a) IN GENERAL.—The Secretary, in consultation with the
+Director of the National Science Foundation, shall provide assistance to institutions of higher education (or consortia thereof) to
+establish or expand medical health informatics education programs,
+including certification, undergraduate, and masters degree programs, for both health care and information technology students
+to ensure the rapid and effective utilization and development of
+health information technologies (in the United States health care
+infrastructure).
+‘‘(b) ACTIVITIES.—Activities for which assistance may be provided under subsection (a) may include the following:
+‘‘(1) Developing and revising curricula in medical health
+informatics and related disciplines.
+‘‘(2) Recruiting and retaining students to the program
+involved.
+‘‘(3) Acquiring equipment necessary for student instruction
+in these programs, including the installation of testbed networks for student use.
+‘‘(4) Establishing or enhancing bridge programs in the
+health informatics fields between community colleges and
+universities.
+‘‘(c) PRIORITY.—In providing assistance under subsection (a),
+the Secretary shall give preference to the following:
+‘‘(1) Existing education and training programs.
+‘‘(2) Programs designed to be completed in less than six
+months.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+‘‘SEC. 3017. GENERAL GRANT AND LOAN PROVISIONS.
+
+42 USC 300jj–37.
+
+‘‘(a) REPORTS.—The Secretary may require that an entity
+receiving assistance under this subtitle shall submit to the Secretary, not later than the date that is 1 year after the date of
+receipt of such assistance, a report that includes—
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00143
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 258
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+‘‘(1) an analysis of the effectiveness of the activities for
+which the entity receives such assistance, as compared to the
+goals for such activities; and
+‘‘(2) an analysis of the impact of the project on health
+care quality and safety.
+‘‘(b) REQUIREMENT TO IMPROVE QUALITY OF CARE AND DECREASE
+IN COSTS.—The National Coordinator shall annually evaluate the
+activities conducted under this subtitle and shall, in awarding
+grants, implement the lessons learned from such evaluation in
+a manner so that awards made subsequent to each such evaluation
+are made in a manner that, in the determination of the National
+Coordinator, will result in the greatest improvement in the quality
+and efficiency of health care.
+
+Evaluation.
+Deadline.
+
+42 USC 300jj–38.
+
+‘‘SEC. 3018. AUTHORIZATION FOR APPROPRIATIONS.
+
+‘‘For the purposes of carrying out this subtitle, there is authorized to be appropriated such sums as may be necessary for each
+of the fiscal years 2009 through 2013.’’.
+
+Subtitle D—Privacy
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+42 USC 17921.
+
+SEC. 13400. DEFINITIONS.
+
+In this subtitle, except as specified otherwise:
+(1) BREACH.—
+(A) IN GENERAL.—The term ‘‘breach’’ means the
+unauthorized acquisition, access, use, or disclosure of protected health information which compromises the security
+or privacy of such information, except where an unauthorized person to whom such information is disclosed would
+not reasonably have been able to retain such information.
+(B) EXCEPTIONS.—The term ‘‘breach’’ does not include—
+(i) any unintentional acquisition, access, or use
+of protected health information by an employee or individual acting under the authority of a covered entity
+or business associate if—
+(I) such acquisition, access, or use was made
+in good faith and within the course and scope
+of the employment or other professional relationship of such employee or individual, respectively,
+with the covered entity or business associate; and
+(II) such information is not further acquired,
+accessed, used, or disclosed by any person; or
+(ii) any inadvertent disclosure from an individual
+who is otherwise authorized to access protected health
+information at a facility operated by a covered entity
+or business associate to another similarly situated individual at same facility; and
+(iii) any such information received as a result of
+such disclosure is not further acquired, accessed, used,
+or disclosed without authorization by any person.
+(2) BUSINESS ASSOCIATE.—The term ‘‘business associate’’
+has the meaning given such term in section 160.103 of title
+45, Code of Federal Regulations.
+(3) COVERED ENTITY.—The term ‘‘covered entity’’ has the
+meaning given such term in section 160.103 of title 45, Code
+of Federal Regulations.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00144
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 259
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+(4) DISCLOSE.—The terms ‘‘disclose’’ and ‘‘disclosure’’ have
+the meaning given the term ‘‘disclosure’’ in section 160.103
+of title 45, Code of Federal Regulations.
+(5) ELECTRONIC HEALTH RECORD.—The term ‘‘electronic
+health record’’ means an electronic record of health-related
+information on an individual that is created, gathered, managed, and consulted by authorized health care clinicians and
+staff.
+(6) HEALTH CARE OPERATIONS.—The term ‘‘health care operation’’ has the meaning given such term in section 164.501
+of title 45, Code of Federal Regulations.
+(7) HEALTH CARE PROVIDER.—The term ‘‘health care provider’’ has the meaning given such term in section 160.103
+of title 45, Code of Federal Regulations.
+(8) HEALTH PLAN.—The term ‘‘health plan’’ has the meaning
+given such term in section 160.103 of title 45, Code of Federal
+Regulations.
+(9) NATIONAL COORDINATOR.—The term ‘‘National Coordinator’’ means the head of the Office of the National Coordinator
+for Health Information Technology established under section
+3001(a) of the Public Health Service Act, as added by section
+13101.
+(10) PAYMENT.—The term ‘‘payment’’ has the meaning
+given such term in section 164.501 of title 45, Code of Federal
+Regulations.
+(11) PERSONAL HEALTH RECORD.—The term ‘‘personal
+health record’’ means an electronic record of PHR identifiable
+health information (as defined in section 13407(f)(2)) on an
+individual that can be drawn from multiple sources and that
+is managed, shared, and controlled by or primarily for the
+individual.
+(12) PROTECTED HEALTH INFORMATION.—The term ‘‘protected health information’’ has the meaning given such term
+in section 160.103 of title 45, Code of Federal Regulations.
+(13) SECRETARY.—The term ‘‘Secretary’’ means the Secretary of Health and Human Services.
+(14) SECURITY.—The term ‘‘security’’ has the meaning given
+such term in section 164.304 of title 45, Code of Federal Regulations.
+(15) STATE.—The term ‘‘State’’ means each of the several
+States, the District of Columbia, Puerto Rico, the Virgin Islands,
+Guam, American Samoa, and the Northern Mariana Islands.
+(16) TREATMENT.—The term ‘‘treatment’’ has the meaning
+given such term in section 164.501 of title 45, Code of Federal
+Regulations.
+(17) USE.—The term ‘‘use’’ has the meaning given such
+term in section 160.103 of title 45, Code of Federal Regulations.
+(18) VENDOR OF PERSONAL HEALTH RECORDS.—The term
+‘‘vendor of personal health records’’ means an entity, other
+than a covered entity (as defined in paragraph (3)), that offers
+or maintains a personal health record.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00145
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 260
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+PART 1—IMPROVED PRIVACY PROVISIONS
+AND SECURITY PROVISIONS
+42 USC 17931.
+
+SEC. 13401. APPLICATION OF SECURITY PROVISIONS AND PENALTIES
+TO BUSINESS ASSOCIATES OF COVERED ENTITIES;
+ANNUAL GUIDANCE ON SECURITY PROVISIONS.
+
+(a) APPLICATION OF SECURITY PROVISIONS.—Sections 164.308,
+164.310, 164.312, and 164.316 of title 45, Code of Federal Regulations, shall apply to a business associate of a covered entity in
+the same manner that such sections apply to the covered entity.
+The additional requirements of this title that relate to security
+and that are made applicable with respect to covered entities shall
+also be applicable to such a business associate and shall be incorporated into the business associate agreement between the business
+associate and the covered entity.
+(b) APPLICATION OF CIVIL AND CRIMINAL PENALTIES.—In the
+case of a business associate that violates any security provision
+specified in subsection (a), sections 1176 and 1177 of the Social
+Security Act (42 U.S.C. 1320d–5, 1320d–6) shall apply to the business associate with respect to such violation in the same manner
+such sections apply to a covered entity that violates such security
+provision.
+(c) ANNUAL GUIDANCE.—For the first year beginning after the
+date of the enactment of this Act and annually thereafter, the
+Secretary of Health and Human Services shall, after consultation
+with stakeholders, annually issue guidance on the most effective
+and appropriate technical safeguards for use in carrying out the
+sections referred to in subsection (a) and the security standards
+in subpart C of part 164 of title 45, Code of Federal Regulations,
+including the use of standards developed under section
+3002(b)(2)(B)(vi) of the Public Health Service Act, as added by
+section 13101 of this Act, as such provisions are in effect as of
+the date before the enactment of this Act.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+42 USC 17932.
+
+SEC. 13402. NOTIFICATION IN THE CASE OF BREACH.
+
+(a) IN GENERAL.—A covered entity that accesses, maintains,
+retains, modifies, records, stores, destroys, or otherwise holds, uses,
+or discloses unsecured protected health information (as defined
+in subsection (h)(1)) shall, in the case of a breach of such information
+that is discovered by the covered entity, notify each individual
+whose unsecured protected health information has been, or is
+reasonably believed by the covered entity to have been, accessed,
+acquired, or disclosed as a result of such breach.
+(b) NOTIFICATION OF COVERED ENTITY BY BUSINESS ASSOCIATE.—A business associate of a covered entity that accesses, maintains, retains, modifies, records, stores, destroys, or otherwise holds,
+uses, or discloses unsecured protected health information shall,
+following the discovery of a breach of such information, notify
+the covered entity of such breach. Such notice shall include the
+identification of each individual whose unsecured protected health
+information has been, or is reasonably believed by the business
+associate to have been, accessed, acquired, or disclosed during such
+breach.
+(c) BREACHES TREATED AS DISCOVERED.—For purposes of this
+section, a breach shall be treated as discovered by a covered entity
+or by a business associate as of the first day on which such breach
+is known to such entity or associate, respectively, (including any
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00146
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 261
+
+person, other than the individual committing the breach, that is
+an employee, officer, or other agent of such entity or associate,
+respectively) or should reasonably have been known to such entity
+or associate (or person) to have occurred.
+(d) TIMELINESS OF NOTIFICATION.—
+(1) IN GENERAL.—Subject to subsection (g), all notifications
+required under this section shall be made without unreasonable
+delay and in no case later than 60 calendar days after the
+discovery of a breach by the covered entity involved (or business
+associate involved in the case of a notification required under
+subsection (b)).
+(2) BURDEN OF PROOF.—The covered entity involved (or
+business associate involved in the case of a notification required
+under subsection (b)), shall have the burden of demonstrating
+that all notifications were made as required under this part,
+including evidence demonstrating the necessity of any delay.
+(e) METHODS OF NOTICE.—
+(1) INDIVIDUAL NOTICE.—Notice required under this section
+to be provided to an individual, with respect to a breach,
+shall be provided promptly and in the following form:
+(A) Written notification by first-class mail to the individual (or the next of kin of the individual if the individual
+is deceased) at the last known address of the individual
+or the next of kin, respectively, or, if specified as a preference by the individual, by electronic mail. The notification
+may be provided in one or more mailings as information
+is available.
+(B) In the case in which there is insufficient, or outof-date contact information (including a phone number,
+email address, or any other form of appropriate communication) that precludes direct written (or, if specified by the
+individual under subparagraph (A), electronic) notification
+to the individual, a substitute form of notice shall be provided, including, in the case that there are 10 or more
+individuals for which there is insufficient or out-of-date
+contact information, a conspicuous posting for a period
+determined by the Secretary on the home page of the
+Web site of the covered entity involved or notice in major
+print or broadcast media, including major media in
+geographic areas where the individuals affected by the
+breach likely reside. Such a notice in media or web posting
+will include a toll-free phone number where an individual
+can learn whether or not the individual’s unsecured protected health information is possibly included in the breach.
+(C) In any case deemed by the covered entity involved
+to require urgency because of possible imminent misuse
+of unsecured protected health information, the covered
+entity, in addition to notice provided under subparagraph
+(A), may provide information to individuals by telephone
+or other means, as appropriate.
+(2) MEDIA NOTICE.—Notice shall be provided to prominent
+media outlets serving a State or jurisdiction, following the
+discovery of a breach described in subsection (a), if the
+unsecured protected health information of more than 500 residents of such State or jurisdiction is, or is reasonably believed
+to have been, accessed, acquired, or disclosed during such
+breach.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00147
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Deadline.
+
+Web posting.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 262
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+List.
+
+VerDate Nov 24 2008
+
+08:36 Mar 03, 2009
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+(3) NOTICE TO SECRETARY.—Notice shall be provided to
+the Secretary by covered entities of unsecured protected health
+information that has been acquired or disclosed in a breach.
+If the breach was with respect to 500 or more individuals
+than such notice must be provided immediately. If the breach
+was with respect to less than 500 individuals, the covered
+entity may maintain a log of any such breach occurring and
+annually submit such a log to the Secretary documenting such
+breaches occurring during the year involved.
+(4) POSTING ON HHS PUBLIC WEBSITE.—The Secretary shall
+make available to the public on the Internet website of the
+Department of Health and Human Services a list that identifies
+each covered entity involved in a breach described in subsection
+(a) in which the unsecured protected health information of
+more than 500 individuals is acquired or disclosed.
+(f) CONTENT OF NOTIFICATION.—Regardless of the method by
+which notice is provided to individuals under this section, notice
+of a breach shall include, to the extent possible, the following:
+(1) A brief description of what happened, including the
+date of the breach and the date of the discovery of the breach,
+if known.
+(2) A description of the types of unsecured protected health
+information that were involved in the breach (such as full
+name, Social Security number, date of birth, home address,
+account number, or disability code).
+(3) The steps individuals should take to protect themselves
+from potential harm resulting from the breach.
+(4) A brief description of what the covered entity involved
+is doing to investigate the breach, to mitigate losses, and to
+protect against any further breaches.
+(5) Contact procedures for individuals to ask questions
+or learn additional information, which shall include a tollfree telephone number, an e-mail address, Web site, or postal
+address.
+(g) DELAY OF NOTIFICATION AUTHORIZED FOR LAW ENFORCEMENT PURPOSES.—If a law enforcement official determines that
+a notification, notice, or posting required under this section would
+impede a criminal investigation or cause damage to national security, such notification, notice, or posting shall be delayed in the
+same manner as provided under section 164.528(a)(2) of title 45,
+Code of Federal Regulations, in the case of a disclosure covered
+under such section.
+(h) UNSECURED PROTECTED HEALTH INFORMATION.—
+(1) DEFINITION.—
+(A) IN GENERAL.—Subject to subparagraph (B), for purposes of this section, the term ‘‘unsecured protected health
+information’’ means protected health information that is
+not secured through the use of a technology or methodology
+specified by the Secretary in the guidance issued under
+paragraph (2).
+(B) EXCEPTION IN CASE TIMELY GUIDANCE NOT ISSUED.—
+In the case that the Secretary does not issue guidance
+under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term ‘‘unsecured
+protected health information’’ shall mean protected health
+information that is not secured by a technology standard
+that renders protected health information unusable,
+
+Jkt 079139
+
+PO 00000
+
+Frm 00148
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 263
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+unreadable, or indecipherable to unauthorized individuals
+and is developed or endorsed by a standards developing
+organization that is accredited by the American National
+Standards Institute.
+(2) GUIDANCE.—For purposes of paragraph (1) and section
+13407(f)(3), not later than the date that is 60 days after the
+date of the enactment of this Act, the Secretary shall, after
+consultation with stakeholders, issue (and annually update)
+guidance specifying the technologies and methodologies that
+render protected health information unusable, unreadable, or
+indecipherable to unauthorized individuals, including the use
+of standards developed under section 3002(b)(2)(B)(vi) of the
+Public Health Service Act, as added by section 13101 of this
+Act.
+(i) REPORT TO CONGRESS ON BREACHES.—
+(1) IN GENERAL.—Not later than 12 months after the date
+of the enactment of this Act and annually thereafter, the Secretary shall prepare and submit to the Committee on Finance
+and the Committee on Health, Education, Labor, and Pensions
+of the Senate and the Committee on Ways and Means and
+the Committee on Energy and Commerce of the House of Representatives a report containing the information described in
+paragraph (2) regarding breaches for which notice was provided
+to the Secretary under subsection (e)(3).
+(2) INFORMATION.—The information described in this paragraph regarding breaches specified in paragraph (1) shall
+include—
+(A) the number and nature of such breaches; and
+(B) actions taken in response to such breaches.
+(j) REGULATIONS; EFFECTIVE DATE.—To carry out this section,
+the Secretary of Health and Human Services shall promulgate
+interim final regulations by not later than the date that is 180
+days after the date of the enactment of this title. The provisions
+of this section shall apply to breaches that are discovered on or
+after the date that is 30 days after the date of publication of
+such interim final regulations.
+
+VerDate Nov 24 2008
+
+Deadlines.
+
+Applicability.
+
+SEC. 13403. EDUCATION ON HEALTH INFORMATION PRIVACY.
+
+42 USC 17933.
+
+(a) REGIONAL OFFICE PRIVACY ADVISORS.—Not later than 6
+months after the date of the enactment of this Act, the Secretary
+shall designate an individual in each regional office of the Department of Health and Human Services to offer guidance and education
+to covered entities, business associates, and individuals on their
+rights and responsibilities related to Federal privacy and security
+requirements for protected health information.
+(b) EDUCATION INITIATIVE ON USES OF HEALTH INFORMATION.—
+Not later than 12 months after the date of the enactment of this
+Act, the Office for Civil Rights within the Department of Health
+and Human Services shall develop and maintain a multi-faceted
+national education initiative to enhance public transparency
+regarding the uses of protected health information, including programs to educate individuals about the potential uses of their
+protected health information, the effects of such uses, and the
+rights of individuals with respect to such uses. Such programs
+shall be conducted in a variety of languages and present information
+in a clear and understandable manner.
+
+Deadline.
+Designation.
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00149
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Deadline.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 264
+42 USC 17934.
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+SEC. 13404. APPLICATION OF PRIVACY PROVISIONS AND PENALTIES
+TO BUSINESS ASSOCIATES OF COVERED ENTITIES.
+
+(a) APPLICATION OF CONTRACT REQUIREMENTS.—In the case
+of a business associate of a covered entity that obtains or creates
+protected health information pursuant to a written contract (or
+other written arrangement) described in section 164.502(e)(2) of
+title 45, Code of Federal Regulations, with such covered entity,
+the business associate may use and disclose such protected health
+information only if such use or disclosure, respectively, is in compliance with each applicable requirement of section 164.504(e) of such
+title. The additional requirements of this subtitle that relate to
+privacy and that are made applicable with respect to covered entities shall also be applicable to such a business associate and shall
+be incorporated into the business associate agreement between the
+business associate and the covered entity.
+(b) APPLICATION OF KNOWLEDGE ELEMENTS ASSOCIATED WITH
+CONTRACTS.—Section 164.504(e)(1)(ii) of title 45, Code of Federal
+Regulations, shall apply to a business associate described in subsection (a), with respect to compliance with such subsection, in
+the same manner that such section applies to a covered entity,
+with respect to compliance with the standards in sections 164.502(e)
+and 164.504(e) of such title, except that in applying such section
+164.504(e)(1)(ii) each reference to the business associate, with
+respect to a contract, shall be treated as a reference to the covered
+entity involved in such contract.
+(c) APPLICATION OF CIVIL AND CRIMINAL PENALTIES.—In the
+case of a business associate that violates any provision of subsection
+(a) or (b), the provisions of sections 1176 and 1177 of the Social
+Security Act (42 U.S.C. 1320d–5, 1320d–6) shall apply to the business associate with respect to such violation in the same manner
+as such provisions apply to a person who violates a provision
+of part C of title XI of such Act.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+42 USC 17935.
+
+SEC. 13405. RESTRICTIONS ON CERTAIN DISCLOSURES AND SALES OF
+HEALTH INFORMATION; ACCOUNTING OF CERTAIN PROTECTED HEALTH INFORMATION DISCLOSURES; ACCESS
+TO CERTAIN INFORMATION IN ELECTRONIC FORMAT.
+
+(a) REQUESTED RESTRICTIONS ON CERTAIN DISCLOSURES OF
+HEALTH INFORMATION.—In the case that an individual requests
+under paragraph (a)(1)(i)(A) of section 164.522 of title 45, Code
+of Federal Regulations, that a covered entity restrict the disclosure
+of the protected health information of the individual, notwithstanding paragraph (a)(1)(ii) of such section, the covered entity
+must comply with the requested restriction if—
+(1) except as otherwise required by law, the disclosure
+is to a health plan for purposes of carrying out payment or
+health care operations (and is not for purposes of carrying
+out treatment); and
+(2) the protected health information pertains solely to a
+health care item or service for which the health care provider
+involved has been paid out of pocket in full.
+(b) DISCLOSURES REQUIRED TO BE LIMITED TO THE LIMITED
+DATA SET OR THE MINIMUM NECESSARY.—
+(1) IN GENERAL.—
+(A) IN GENERAL.—Subject to subparagraph (B), a covered entity shall be treated as being in compliance with
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00150
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 265
+
+section 164.502(b)(1) of title 45, Code of Federal Regulations, with respect to the use, disclosure, or request of
+protected health information described in such section, only
+if the covered entity limits such protected health information, to the extent practicable, to the limited data set
+(as defined in section 164.514(e)(2) of such title) or, if
+needed by such entity, to the minimum necessary to accomplish the intended purpose of such use, disclosure, or
+request, respectively.
+(B) GUIDANCE.—Not later than 18 months after the
+date of the enactment of this section, the Secretary shall
+issue guidance on what constitutes ‘‘minimum necessary’’
+for purposes of subpart E of part 164 of title 45, Code
+of Federal Regulation. In issuing such guidance the Secretary shall take into consideration the guidance under
+section 13424(c) and the information necessary to improve
+patient outcomes and to detect, prevent, and manage
+chronic disease.
+(C) SUNSET.—Subparagraph (A) shall not apply on and
+after the effective date on which the Secretary issues the
+guidance under subparagraph (B).
+(2) DETERMINATION OF MINIMUM NECESSARY.—For purposes
+of paragraph (1), in the case of the disclosure of protected
+health information, the covered entity or business associate
+disclosing such information shall determine what constitutes
+the minimum necessary to accomplish the intended purpose
+of such disclosure.
+(3) APPLICATION OF EXCEPTIONS.—The exceptions described
+in section 164.502(b)(2) of title 45, Code of Federal Regulations,
+shall apply to the requirement under paragraph (1) as of the
+effective date described in section 13423 in the same manner
+that such exceptions apply to section 164.502(b)(1) of such
+title before such date.
+(4) RULE OF CONSTRUCTION.—Nothing in this subsection
+shall be construed as affecting the use, disclosure, or request
+of protected health information that has been de-identified.
+(c) ACCOUNTING OF CERTAIN PROTECTED HEALTH INFORMATION
+DISCLOSURES REQUIRED IF COVERED ENTITY USES ELECTRONIC
+HEALTH RECORD.—
+‘‘(1) IN GENERAL.—In applying section 164.528 of title 45,
+Code of Federal Regulations, in the case that a covered entity
+uses or maintains an electronic health record with respect
+to protected health information—
+‘‘(A) the exception under paragraph (a)(1)(i) of such
+section shall not apply to disclosures through an electronic
+health record made by such entity of such information;
+and
+‘‘(B) an individual shall have a right to receive an
+accounting of disclosures described in such paragraph of
+such information made by such covered entity during only
+the three years prior to the date on which the accounting
+is requested.
+‘‘(2) REGULATIONS.—The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months
+after the date on which the Secretary adopts standards on
+accounting for disclosure described in the section
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00151
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Deadline.
+
+Deadline.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 266
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Applicability.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+3002(b)(2)(B)(iv) of the Public Health Service Act, as added
+by section 13101. Such regulations shall only require such
+information to be collected through an electronic health record
+in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected
+health information is being disclosed and takes into account
+the administrative burden of accounting for such disclosures.
+‘‘(3) PROCESS.—In response to an request from an individual
+for an accounting, a covered entity shall elect to provide either
+an—
+‘‘(A) accounting, as specified under paragraph (1), for
+disclosures of protected health information that are made
+by such covered entity and by a business associate acting
+on behalf of the covered entity; or
+‘‘(B) accounting, as specified under paragraph (1), for
+disclosures that are made by such covered entity and provide a list of all business associates acting on behalf of
+the covered entity, including contact information for such
+associates (such as mailing address, phone, and email
+address).
+A business associate included on a list under subparagraph
+(B) shall provide an accounting of disclosures (as required under
+paragraph (1) for a covered entity) made by the business associate upon a request made by an individual directly to the
+business associate for such an accounting.
+‘‘(4) EFFECTIVE DATE.—
+‘‘(A) CURRENT USERS OF ELECTRONIC RECORDS.—In the
+case of a covered entity insofar as it acquired an electronic
+health record as of January 1, 2009, paragraph (1) shall
+apply to disclosures, with respect to protected health
+information, made by the covered entity from such a record
+on and after January 1, 2014.
+‘‘(B) OTHERS.—In the case of a covered entity insofar
+as it acquires an electronic health record after January
+1, 2009, paragraph (1) shall apply to disclosures, with
+respect to protected health information, made by the covered entity from such record on and after the later of
+the following:
+‘‘(i) January 1, 2011; or
+‘‘(ii) the date that it acquires an electronic health
+record.
+‘‘(C) LATER DATE.—The Secretary may set an effective
+date that is later that the date specified under subparagraph (A) or (B) if the Secretary determines that such
+later date is necessary, but in no case may the date specified under—
+‘‘(i) subparagraph (A) be later than 2016; or
+‘‘(ii) subparagraph (B) be later than 2013.’’
+(d) PROHIBITION ON SALE OF ELECTRONIC HEALTH RECORDS
+OR PROTECTED HEALTH INFORMATION.—
+(1) IN GENERAL.—Except as provided in paragraph (2), a
+covered entity or business associate shall not directly or
+indirectly receive remuneration in exchange for any protected
+health information of an individual unless the covered entity
+obtained from the individual, in accordance with section 164.508
+of title 45, Code of Federal Regulations, a valid authorization
+that includes, in accordance with such section, a specification
+
+Jkt 079139
+
+PO 00000
+
+Frm 00152
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 267
+
+of whether the protected health information can be further
+exchanged for remuneration by the entity receiving protected
+health information of that individual.
+(2) EXCEPTIONS.—Paragraph (1) shall not apply in the following cases:
+(A) The purpose of the exchange is for public health
+activities (as described in section 164.512(b) of title 45,
+Code of Federal Regulations).
+(B) The purpose of the exchange is for research (as
+described in sections 164.501 and 164.512(i) of title 45,
+Code of Federal Regulations) and the price charged reflects
+the costs of preparation and transmittal of the data for
+such purpose.
+(C) The purpose of the exchange is for the treatment
+of the individual, subject to any regulation that the Secretary may promulgate to prevent protected health
+information from inappropriate access, use, or disclosure.
+(D) The purpose of the exchange is the health care
+operation specifically described in subparagraph (iv) of
+paragraph (6) of the definition of healthcare operations
+in section 164.501 of title 45, Code of Federal Regulations.
+(E) The purpose of the exchange is for remuneration
+that is provided by a covered entity to a business associate
+for activities involving the exchange of protected health
+information that the business associate undertakes on
+behalf of and at the specific request of the covered entity
+pursuant to a business associate agreement.
+(F) The purpose of the exchange is to provide an individual with a copy of the individual’s protected health
+information pursuant to section 164.524 of title 45, Code
+of Federal Regulations.
+(G) The purpose of the exchange is otherwise determined by the Secretary in regulations to be similarly necessary and appropriate as the exceptions provided in subparagraphs (A) through (F).
+(3) REGULATIONS.—Not later than 18 months after the
+date of enactment of this title, the Secretary shall promulgate
+regulations to carry out this subsection. In promulgating such
+regulations, the Secretary—
+(A) shall evaluate the impact of restricting the exception described in paragraph (2)(A) to require that the price
+charged for the purposes described in such paragraph
+reflects the costs of the preparation and transmittal of
+the data for such purpose, on research or public health
+activities, including those conducted by or for the use of
+the Food and Drug Administration; and
+(B) may further restrict the exception described in
+paragraph (2)(A) to require that the price charged for the
+purposes described in such paragraph reflects the costs
+of the preparation and transmittal of the data for such
+purpose, if the Secretary finds that such further restriction
+will not impede such research or public health activities.
+(4) EFFECTIVE DATE.—Paragraph (1) shall apply to
+exchanges occurring on or after the date that is 6 months
+after the date of the promulgation of final regulations implementing this subsection.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00153
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Deadline.
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 268
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+(e) ACCESS TO CERTAIN INFORMATION IN ELECTRONIC FORMAT.—
+In applying section 164.524 of title 45, Code of Federal Regulations,
+in the case that a covered entity uses or maintains an electronic
+health record with respect to protected health information of an
+individual—
+(1) the individual shall have a right to obtain from such
+covered entity a copy of such information in an electronic format
+and, if the individual chooses, to direct the covered entity
+to transmit such copy directly to an entity or person designated
+by the individual, provided that any such choice is clear, conspicuous, and specific; and
+(2) notwithstanding paragraph (c)(4) of such section, any
+fee that the covered entity may impose for providing such
+individual with a copy of such information (or a summary
+or explanation of such information) if such copy (or summary
+or explanation) is in an electronic form shall not be greater
+than the entity’s labor costs in responding to the request for
+the copy (or summary or explanation).
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+42 USC 17936.
+
+SEC. 13406. CONDITIONS ON CERTAIN CONTACTS AS PART OF HEALTH
+CARE OPERATIONS.
+
+(a) MARKETING.—
+(1) IN GENERAL.—A communication by a covered entity
+or business associate that is about a product or service and
+that encourages recipients of the communication to purchase
+or use the product or service shall not be considered a health
+care operation for purposes of subpart E of part 164 of title
+45, Code of Federal Regulations, unless the communication
+is made as described in subparagraph (i), (ii), or (iii) of paragraph (1) of the definition of marketing in section 164.501
+of such title.
+(2) PAYMENT FOR CERTAIN COMMUNICATIONS.—A communication by a covered entity or business associate that is
+described in subparagraph (i), (ii), or (iii) of paragraph (1)
+of the definition of marketing in section 164.501 of title 45,
+Code of Federal Regulations, shall not be considered a health
+care operation for purposes of subpart E of part 164 of title
+45, Code of Federal Regulations if the covered entity receives
+or has received direct or indirect payment in exchange for
+making such communication, except where—
+(A)(i) such communication describes only a drug or
+biologic that is currently being prescribed for the recipient
+of the communication; and
+(ii) any payment received by such covered entity in
+exchange for making a communication described in clause
+(i) is reasonable in amount;
+(B) each of the following conditions apply—
+(i) the communication is made by the covered
+entity; and
+(ii) the covered entity making such communication
+obtains from the recipient of the communication, in
+accordance with section 164.508 of title 45, Code of
+Federal Regulations, a valid authorization (as
+described in paragraph (b) of such section) with respect
+to such communication; or
+(C) each of the following conditions apply—
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00154
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 269
+
+(i) the communication is made by a business associate on behalf of the covered entity; and
+(ii) the communication is consistent with the written contract (or other written arrangement described
+in section 164.502(e)(2) of such title) between such
+business associate and covered entity.
+(3) REASONABLE IN AMOUNT DEFINED.—For purposes of
+paragraph (2), the term ‘‘reasonable in amount’’ shall have
+the meaning given such term by the Secretary by regulation.
+(4) DIRECT OR INDIRECT PAYMENT.—For purposes of paragraph (2), the term ‘‘direct or indirect payment’’ shall not
+include any payment for treatment (as defined in section
+164.501 of title 45, Code of Federal Regulations) of an individual.
+(b) OPPORTUNITY TO OPT OUT OF FUNDRAISING.—The Secretary
+shall by rule provide that any written fundraising communication
+that is a healthcare operation as defined under section 164.501
+of title 45, Code of Federal Regulations, shall, in a clear and
+conspicuous manner, provide an opportunity for the recipient of
+the communications to elect not to receive any further such communication. When an individual elects not to receive any further
+such communication, such election shall be treated as a revocation
+of authorization under section 164.508 of title 45, Code of Federal
+Regulations.
+(c) EFFECTIVE DATE.—This section shall apply to written
+communications occurring on or after the effective date specified
+under section 13423.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+SEC. 13407. TEMPORARY BREACH NOTIFICATION REQUIREMENT FOR
+VENDORS OF PERSONAL HEALTH RECORDS AND OTHER
+NON-HIPAA COVERED ENTITIES.
+
+Regulations.
+
+42 USC 17937.
+
+(a) IN GENERAL.—In accordance with subsection (c), each vendor
+of personal health records, following the discovery of a breach
+of security of unsecured PHR identifiable health information that
+is in a personal health record maintained or offered by such vendor,
+and each entity described in clause (ii), (iii), or (iv) of section
+13424(b)(1)(A), following the discovery of a breach of security of
+such information that is obtained through a product or service
+provided by such entity, shall—
+(1) notify each individual who is a citizen or resident of
+the United States whose unsecured PHR identifiable health
+information was acquired by an unauthorized person as a result
+of such a breach of security; and
+(2) notify the Federal Trade Commission.
+(b) NOTIFICATION BY THIRD PARTY SERVICE PROVIDERS.—A third
+party service provider that provides services to a vendor of personal
+health records or to an entity described in clause (ii), (iii). or
+(iv) of section 13424(b)(1)(A) in connection with the offering or
+maintenance of a personal health record or a related product or
+service and that accesses, maintains, retains, modifies, records,
+stores, destroys, or otherwise holds, uses, or discloses unsecured
+PHR identifiable health information in such a record as a result
+of such services shall, following the discovery of a breach of security
+of such information, notify such vendor or entity, respectively, of
+such breach. Such notice shall include the identification of each
+individual whose unsecured PHR identifiable health information
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00155
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+123 STAT. 270
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+has been, or is reasonably believed to have been, accessed, acquired,
+or disclosed during such breach.
+(c) APPLICATION OF REQUIREMENTS FOR TIMELINESS, METHOD,
+AND CONTENT OF NOTIFICATIONS.—Subsections (c), (d), (e), and (f)
+of section 13402 shall apply to a notification required under subsection (a) and a vendor of personal health records, an entity
+described in subsection (a) and a third party service provider
+described in subsection (b), with respect to a breach of security
+under subsection (a) of unsecured PHR identifiable health information in such records maintained or offered by such vendor, in
+a manner specified by the Federal Trade Commission.
+(d) NOTIFICATION OF THE SECRETARY.—Upon receipt of a
+notification of a breach of security under subsection (a)(2), the
+Federal Trade Commission shall notify the Secretary of such breach.
+(e) ENFORCEMENT.—A violation of subsection (a) or (b) shall
+be treated as an unfair and deceptive act or practice in violation
+of a regulation under section 18(a)(1)(B) of the Federal Trade
+Commission Act (15 U.S.C. 57a(a)(1)(B)) regarding unfair or deceptive acts or practices.
+(f) DEFINITIONS.—For purposes of this section:
+(1) BREACH OF SECURITY.—The term ‘‘breach of security’’
+means, with respect to unsecured PHR identifiable health
+information of an individual in a personal health record,
+acquisition of such information without the authorization of
+the individual.
+(2) PHR IDENTIFIABLE HEALTH INFORMATION.—The term
+‘‘PHR identifiable health information’’ means individually
+identifiable health information, as defined in section 1171(6)
+of the Social Security Act (42 U.S.C. 1320d(6)), and includes,
+with respect to an individual, information—
+(A) that is provided by or on behalf of the individual;
+and
+(B) that identifies the individual or with respect to
+which there is a reasonable basis to believe that the
+information can be used to identify the individual.
+(3) UNSECURED PHR IDENTIFIABLE HEALTH INFORMATION.—
+(A) IN GENERAL.—Subject to subparagraph (B), the
+term ‘‘unsecured PHR identifiable health information’’
+means PHR identifiable health information that is not
+protected through the use of a technology or methodology
+specified by the Secretary in the guidance issued under
+section 13402(h)(2).
+(B) EXCEPTION IN CASE TIMELY GUIDANCE NOT ISSUED.—
+In the case that the Secretary does not issue guidance
+under section 13402(h)(2) by the date specified in such
+section, for purposes of this section, the term ‘‘unsecured
+PHR identifiable health information’’ shall mean PHR
+identifiable health information that is not secured by a
+technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and that is developed or endorsed by a
+standards developing organization that is accredited by
+the American National Standards Institute.
+(g) REGULATIONS; EFFECTIVE DATE; SUNSET.—
+(1) REGULATIONS; EFFECTIVE DATE.—To carry out this section, the Federal Trade Commission shall promulgate interim
+final regulations by not later than the date that is 180 days
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00156
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 271
+
+after the date of the enactment of this section. The provisions
+of this section shall apply to breaches of security that are
+discovered on or after the date that is 30 days after the date
+of publication of such interim final regulations.
+(2) SUNSET.—If Congress enacts new legislation establishing requirements for notification in the case of a breach
+of security, that apply to entities that are not covered entities
+or business associates, the provisions of this section shall not
+apply to breaches of security discovered on or after the effective
+date of regulations implementing such legislation.
+SEC. 13408. BUSINESS ASSOCIATE CONTRACTS REQUIRED FOR CERTAIN ENTITIES.
+
+Applicability.
+
+42 USC 17938.
+
+Each organization, with respect to a covered entity, that provides data transmission of protected health information to such
+entity (or its business associate) and that requires access on a
+routine basis to such protected health information, such as a Health
+Information Exchange Organization, Regional Health Information
+Organization, E-prescribing Gateway, or each vendor that contracts
+with a covered entity to allow that covered entity to offer a personal
+health record to patients as part of its electronic health record,
+is required to enter into a written contract (or other written arrangement) described in section 164.502(e)(2) of title 45, Code of Federal
+Regulations and a written contract (or other arrangement) described
+in section 164.308(b) of such title, with such entity and shall be
+treated as a business associate of the covered entity for purposes
+of the provisions of this subtitle and subparts C and E of part
+164 of title 45, Code of Federal Regulations, as such provisions
+are in effect as of the date of enactment of this title.
+SEC. 13409. CLARIFICATION OF APPLICATION OF WRONGFUL DISCLOSURES CRIMINAL PENALTIES.
+
+Section 1177(a) of the Social Security Act (42 U.S.C. 1320d–
+6(a)) is amended by adding at the end the following new sentence:
+‘‘For purposes of the previous sentence, a person (including an
+employee or other individual) shall be considered to have obtained
+or disclosed individually identifiable health information in violation
+of this part if the information is maintained by a covered entity
+(as defined in the HIPAA privacy regulation described in section
+1180(b)(3)) and the individual obtained or disclosed such information without authorization.’’.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+SEC. 13410. IMPROVED ENFORCEMENT.
+
+42 USC 17939.
+
+(a) IN GENERAL.—
+(1) NONCOMPLIANCE DUE TO WILLFUL NEGLECT.—Section
+1176 of the Social Security Act (42 U.S.C. 1320d–5) is
+amended—
+(A) in subsection (b)(1), by striking ‘‘the act constitutes
+an offense punishable under section 1177’’ and inserting
+‘‘a penalty has been imposed under section 1177 with
+respect to such act’’; and
+(B) by adding at the end the following new subsection:
+‘‘(c) NONCOMPLIANCE DUE TO WILLFUL NEGLECT.—
+‘‘(1) IN GENERAL.—A violation of a provision of this part
+due to willful neglect is a violation for which the Secretary
+is required to impose a penalty under subsection (a)(1).
+‘‘(2) REQUIRED INVESTIGATION.—For purposes of paragraph
+(1), the Secretary shall formally investigate any complaint of
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00157
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 272
+
+Deadline.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Deadline.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+a violation of a provision of this part if a preliminary investigation of the facts of the complaint indicate such a possible
+violation due to willful neglect.’’.
+(2) ENFORCEMENT UNDER SOCIAL SECURITY ACT.—Any violation by a covered entity under thus subtitle is subject to enforcement and penalties under section 1176 and 1177 of the Social
+Security Act.
+(b) EFFECTIVE DATE; REGULATIONS.—
+(1) The amendments made by subsection (a) shall apply
+to penalties imposed on or after the date that is 24 months
+after the date of the enactment of this title.
+(2) Not later than 18 months after the date of the enactment of this title, the Secretary of Health and Human Services
+shall promulgate regulations to implement such amendments.
+(c) DISTRIBUTION OF CERTAIN CIVIL MONETARY PENALTIES COLLECTED.—
+(1) IN GENERAL.—Subject to the regulation promulgated
+pursuant to paragraph (3), any civil monetary penalty or monetary settlement collected with respect to an offense punishable
+under this subtitle or section 1176 of the Social Security Act
+(42 U.S.C. 1320d–5) insofar as such section relates to privacy
+or security shall be transferred to the Office for Civil Rights
+of the Department of Health and Human Services to be used
+for purposes of enforcing the provisions of this subtitle and
+subparts C and E of part 164 of title 45, Code of Federal
+Regulations, as such provisions are in effect as of the date
+of enactment of this Act.
+(2) GAO REPORT.—Not later than 18 months after the
+date of the enactment of this title, the Comptroller General
+shall submit to the Secretary a report including recommendations for a methodology under which an individual who is
+harmed by an act that constitutes an offense referred to in
+paragraph (1) may receive a percentage of any civil monetary
+penalty or monetary settlement collected with respect to such
+offense.
+(3) ESTABLISHMENT OF METHODOLOGY TO DISTRIBUTE
+PERCENTAGE OF CMPS COLLECTED TO HARMED INDIVIDUALS.—
+Not later than 3 years after the date of the enactment of
+this title, the Secretary shall establish by regulation and based
+on the recommendations submitted under paragraph (2), a
+methodology under which an individual who is harmed by
+an act that constitutes an offense referred to in paragraph
+(1) may receive a percentage of any civil monetary penalty
+or monetary settlement collected with respect to such offense.
+(4) APPLICATION OF METHODOLOGY.—The methodology
+under paragraph (3) shall be applied with respect to civil monetary penalties or monetary settlements imposed on or after
+the effective date of the regulation.
+(d) TIERED INCREASE IN AMOUNT OF CIVIL MONETARY PENALTIES.—
+(1) IN GENERAL.—Section 1176(a)(1) of the Social Security
+Act (42 U.S.C. 1320d–5(a)(1)) is amended by striking ‘‘who
+violates a provision of this part a penalty of not more than’’
+and all that follows and inserting the following: ‘‘who violates
+a provision of this part—
+‘‘(A) in the case of a violation of such provision in
+which it is established that the person did not know (and
+
+Jkt 079139
+
+PO 00000
+
+Frm 00158
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 273
+
+by exercising reasonable diligence would not have known)
+that such person violated such provision, a penalty for
+each such violation of an amount that is at least the
+amount described in paragraph (3)(A) but not to exceed
+the amount described in paragraph (3)(D);
+‘‘(B) in the case of a violation of such provision in
+which it is established that the violation was due to reasonable cause and not to willful neglect, a penalty for each
+such violation of an amount that is at least the amount
+described in paragraph (3)(B) but not to exceed the amount
+described in paragraph (3)(D); and
+‘‘(C) in the case of a violation of such provision in
+which it is established that the violation was due to willful
+neglect—
+‘‘(i) if the violation is corrected as described in
+subsection (b)(3)(A), a penalty in an amount that is
+at least the amount described in paragraph (3)(C) but
+not to exceed the amount described in paragraph (3)(D);
+and
+‘‘(ii) if the violation is not corrected as described
+in such subsection, a penalty in an amount that is
+at least the amount described in paragraph (3)(D).
+In determining the amount of a penalty under this section
+for a violation, the Secretary shall base such determination
+on the nature and extent of the violation and the nature
+and extent of the harm resulting from such violation.’’.
+(2) TIERS OF PENALTIES DESCRIBED.—Section 1176(a) of
+such Act (42 U.S.C. 1320d–5(a)) is further amended by adding
+at the end the following new paragraph:
+‘‘(3) TIERS OF PENALTIES DESCRIBED.—For purposes of paragraph (1), with respect to a violation by a person of a provision
+of this part—
+‘‘(A) the amount described in this subparagraph is
+$100 for each such violation, except that the total amount
+imposed on the person for all such violations of an identical
+requirement or prohibition during a calendar year may
+not exceed $25,000;
+‘‘(B) the amount described in this subparagraph is
+$1,000 for each such violation, except that the total amount
+imposed on the person for all such violations of an identical
+requirement or prohibition during a calendar year may
+not exceed $100,000;
+‘‘(C) the amount described in this subparagraph is
+$10,000 for each such violation, except that the total
+amount imposed on the person for all such violations of
+an identical requirement or prohibition during a calendar
+year may not exceed $250,000; and
+‘‘(D) the amount described in this subparagraph is
+$50,000 for each such violation, except that the total
+amount imposed on the person for all such violations of
+an identical requirement or prohibition during a calendar
+year may not exceed $1,500,000.’’.
+(3) CONFORMING AMENDMENTS.—Section 1176(b) of such
+Act (42 U.S.C. 1320d–5(b)) is amended—
+(A) by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively;
+and
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00159
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 274
+
+(B) in paragraph (2), as so redesignated—
+(i) in subparagraph (A), by striking ‘‘in subparagraph (B), a penalty may not be imposed under subsection (a) if’’ and all that follows through ‘‘the failure
+to comply is corrected’’ and inserting ‘‘in subparagraph
+(B) or subsection (a)(1)(C), a penalty may not be
+imposed under subsection (a) if the failure to comply
+is corrected’’; and
+(ii) in subparagraph (B), by striking ‘‘(A)(ii)’’ and
+inserting ‘‘(A)’’ each place it appears.
+(4) EFFECTIVE DATE.—The amendments made by this subsection shall apply to violations occurring after the date of
+the enactment of this title.
+(e) ENFORCEMENT THROUGH STATE ATTORNEYS GENERAL.—
+(1) IN GENERAL.—Section 1176 of the Social Security Act
+(42 U.S.C. 1320d–5) is amended by adding at the end the
+following new subsection:
+‘‘(d) ENFORCEMENT BY STATE ATTORNEYS GENERAL.—
+‘‘(1) CIVIL ACTION.—Except as provided in subsection (b),
+in any case in which the attorney general of a State has
+reason to believe that an interest of one or more of the residents
+of that State has been or is threatened or adversely affected
+by any person who violates a provision of this part, the attorney
+general of the State, as parens patriae, may bring a civil
+action on behalf of such residents of the State in a district
+court of the United States of appropriate jurisdiction—
+‘‘(A) to enjoin further such violation by the defendant;
+or
+‘‘(B) to obtain damages on behalf of such residents
+of the State, in an amount equal to the amount determined
+under paragraph (2).
+‘‘(2) STATUTORY DAMAGES.—
+‘‘(A) IN GENERAL.—For purposes of paragraph (1)(B),
+the amount determined under this paragraph is the amount
+calculated by multiplying the number of violations by up
+to $100. For purposes of the preceding sentence, in the
+case of a continuing violation, the number of violations
+shall be determined consistent with the HIPAA privacy
+regulations (as defined in section 1180(b)(3)) for violations
+of subsection (a).
+‘‘(B) LIMITATION.—The total amount of damages
+imposed on the person for all violations of an identical
+requirement or prohibition during a calendar year may
+not exceed $25,000.
+‘‘(C) REDUCTION OF DAMAGES.—In assessing damages
+under subparagraph (A), the court may consider the factors
+the Secretary may consider in determining the amount
+of a civil money penalty under subsection (a) under the
+HIPAA privacy regulations.
+‘‘(3) ATTORNEY FEES.—In the case of any successful action
+under paragraph (1), the court, in its discretion, may award
+the costs of the action and reasonable attorney fees to the
+State.
+‘‘(4) NOTICE TO SECRETARY.—The State shall serve prior
+written notice of any action under paragraph (1) upon the
+Secretary and provide the Secretary with a copy of its complaint, except in any case in which such prior notice is not
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+Records.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00160
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 275
+
+feasible, in which case the State shall serve such notice immediately upon instituting such action. The Secretary shall have
+the right—
+‘‘(A) to intervene in the action;
+‘‘(B) upon so intervening, to be heard on all matters
+arising therein; and
+‘‘(C) to file petitions for appeal.
+‘‘(5) CONSTRUCTION.—For purposes of bringing any civil
+action under paragraph (1), nothing in this section shall be
+construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the
+laws of that State.
+‘‘(6) VENUE; SERVICE OF PROCESS.—
+‘‘(A) VENUE.—Any action brought under paragraph (1)
+may be brought in the district court of the United States
+that meets applicable requirements relating to venue under
+section 1391 of title 28, United States Code.
+‘‘(B) SERVICE OF PROCESS.—In an action brought under
+paragraph (1), process may be served in any district in
+which the defendant—
+‘‘(i) is an inhabitant; or
+‘‘(ii) maintains a physical place of business.
+‘‘(7) LIMITATION ON STATE ACTION WHILE FEDERAL ACTION
+IS PENDING.—If the Secretary has instituted an action against
+a person under subsection (a) with respect to a specific violation
+of this part, no State attorney general may bring an action
+under this subsection against the person with respect to such
+violation during the pendency of that action.
+‘‘(8) APPLICATION OF CMP STATUTE OF LIMITATION.—A civil
+action may not be instituted with respect to a violation of
+this part unless an action to impose a civil money penalty
+may be instituted under subsection (a) with respect to such
+violation consistent with the second sentence of section
+1128A(c)(1).’’.
+(2) CONFORMING AMENDMENTS.—Subsection (b) of such section, as amended by subsection (d)(3), is amended—
+(A) in paragraph (1), by striking ‘‘A penalty may not
+be imposed under subsection (a)’’ and inserting ‘‘No penalty
+may be imposed under subsection (a) and no damages
+obtained under subsection (d)’’;
+(B) in paragraph (2)(A)—
+(i) after ‘‘subsection (a)(1)(C),’’, by striking ‘‘a penalty may not be imposed under subsection (a)’’ and
+inserting ‘‘no penalty may be imposed under subsection
+(a) and no damages obtained under subsection (d)’’;
+and
+(ii) in clause (ii), by inserting ‘‘or damages’’ after
+‘‘the penalty’’;
+(C) in paragraph (2)(B)(i), by striking ‘‘The period’’
+and inserting ‘‘With respect to the imposition of a penalty
+by the Secretary under subsection (a), the period’’; and
+(D) in paragraph (3), by inserting ‘‘and any damages
+under subsection (d)’’ after ‘‘any penalty under subsection
+(a)’’.
+(3) EFFECTIVE DATE.—The amendments made by this subsection shall apply to violations occurring after the date of
+the enactment of this Act.
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00161
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+123 STAT. 276
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+(f) ALLOWING CONTINUED USE OF CORRECTIVE ACTION.—Such
+section is further amended by adding at the end the following
+new subsection:
+‘‘(e) ALLOWING CONTINUED USE OF CORRECTIVE ACTION.—
+Nothing in this section shall be construed as preventing the Office
+for Civil Rights of the Department of Health and Human Services
+from continuing, in its discretion, to use corrective action without
+a penalty in cases where the person did not know (and by exercising
+reasonable diligence would not have known) of the violation
+involved.’’.
+42 USC 17940.
+
+SEC. 13411. AUDITS.
+
+The Secretary shall provide for periodic audits to ensure that
+covered entities and business associates that are subject to the
+requirements of this subtitle and subparts C and E of part 164
+of title 45, Code of Federal Regulations, as such provisions are
+in effect as of the date of enactment of this Act, comply with
+such requirements.
+
+PART 2—RELATIONSHIP TO OTHER LAWS;
+REGULATORY
+REFERENCES;
+EFFECTIVE
+DATE; REPORTS
+42 USC 17951.
+
+SEC. 13421. RELATIONSHIP TO OTHER LAWS.
+
+(a) APPLICATION OF HIPAA STATE PREEMPTION.—Section 1178
+of the Social Security Act (42 U.S.C. 1320d–7) shall apply to a
+provision or requirement under this subtitle in the same manner
+that such section applies to a provision or requirement under part
+C of title XI of such Act or a standard or implementation specification adopted or established under sections 1172 through 1174 of
+such Act.
+(b) HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY
+ACT.—The standards governing the privacy and security of individually identifiable health information promulgated by the Secretary
+under sections 262(a) and 264 of the Health Insurance Portability
+and Accountability Act of 1996 shall remain in effect to the extent
+that they are consistent with this subtitle. The Secretary shall
+by rule amend such Federal regulations as required to make such
+regulations consistent with this subtitle.
+(c) CONSTRUCTION.—Nothing in this subtitle shall constitute
+a waiver of any privilege otherwise applicable to an individual
+with respect to the protected health information of such individual.
+42 USC 17952.
+
+SEC. 13422. REGULATORY REFERENCES.
+
+Each reference in this subtitle to a provision of the Code of
+Federal Regulations refers to such provision as in effect on the
+date of the enactment of this title (or to the most recent update
+of such provision).
+42 USC 17953.
+
+SEC. 13423. EFFECTIVE DATE.
+
+Except as otherwise specifically provided, the provisions of part
+I shall take effect on the date that is 12 months after the date
+of the enactment of this title.
+ebenthall on POQ96SHH1 with PUBLAW
+
+42 USC 17954.
+
+SEC. 13424. STUDIES, REPORTS, GUIDANCE.
+
+(a) REPORT ON COMPLIANCE.—
+
+VerDate Nov 24 2008
+
+13:51 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00162
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 277
+
+(1) IN GENERAL.—For the first year beginning after the
+date of the enactment of this Act and annually thereafter,
+the Secretary shall prepare and submit to the Committee on
+Health, Education, Labor, and Pensions of the Senate and
+the Committee on Ways and Means and the Committee on
+Energy and Commerce of the House of Representatives a report
+concerning complaints of alleged violations of law, including
+the provisions of this subtitle as well as the provisions of
+subparts C and E of part 164 of title 45, Code of Federal
+Regulations, (as such provisions are in effect as of the date
+of enactment of this Act) relating to privacy and security of
+health information that are received by the Secretary during
+the year for which the report is being prepared. Each such
+report shall include, with respect to such complaints received
+during the year—
+(A) the number of such complaints;
+(B) the number of such complaints resolved informally,
+a summary of the types of such complaints so resolved,
+and the number of covered entities that received technical
+assistance from the Secretary during such year in order
+to achieve compliance with such provisions and the types
+of such technical assistance provided;
+(C) the number of such complaints that have resulted
+in the imposition of civil monetary penalties or have been
+resolved through monetary settlements, including the
+nature of the complaints involved and the amount paid
+in each penalty or settlement;
+(D) the number of compliance reviews conducted and
+the outcome of each such review;
+(E) the number of subpoenas or inquiries issued;
+(F) the Secretary’s plan for improving compliance with
+and enforcement of such provisions for the following year;
+and
+(G) the number of audits performed and a summary
+of audit findings pursuant to section 13411.
+(2) AVAILABILITY TO PUBLIC.—Each report under paragraph
+(1) shall be made available to the public on the Internet website
+of the Department of Health and Human Services.
+(b) STUDY AND REPORT ON APPLICATION OF PRIVACY AND SECURITY REQUIREMENTS TO NON-HIPAA COVERED ENTITIES.—
+(1) STUDY.—Not later than one year after the date of the
+enactment of this title, the Secretary, in consultation with
+the Federal Trade Commission, shall conduct a study, and
+submit a report under paragraph (2), on privacy and security
+requirements for entities that are not covered entities or business associates as of the date of the enactment of this title,
+including—
+(A) requirements relating to security, privacy, and
+notification in the case of a breach of security or privacy
+(including the applicability of an exemption to notification
+in the case of individually identifiable health information
+that has been rendered unusable, unreadable, or indecipherable through technologies or methodologies recognized
+by appropriate professional organization or standard setting bodies to provide effective security for the information)
+that should be applied to—
+(i) vendors of personal health records;
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00163
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+Web posting.
+
+GPO1
+
+PsN: PUBL005
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+123 STAT. 278
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+(ii) entities that offer products or services through
+the website of a vendor of personal health records;
+(iii) entities that are not covered entities and that
+offer products or services through the websites of covered entities that offer individuals personal health
+records;
+(iv) entities that are not covered entities and that
+access information in a personal health record or send
+information to a personal health record; and
+(v) third party service providers used by a vendor
+or entity described in clause (i), (ii), (iii), or (iv) to
+assist in providing personal health record products or
+services;
+(B) a determination of which Federal government
+agency is best equipped to enforce such requirements recommended to be applied to such vendors, entities, and
+service providers under subparagraph (A); and
+(C) a timeframe for implementing regulations based
+on such findings.
+(2) REPORT.—The Secretary shall submit to the Committee
+on Finance, the Committee on Health, Education, Labor, and
+Pensions, and the Committee on Commerce of the Senate and
+the Committee on Ways and Means and the Committee on
+Energy and Commerce of the House of Representatives a report
+on the findings of the study under paragraph (1) and shall
+include in such report recommendations on the privacy and
+security requirements described in such paragraph.
+(c) GUIDANCE ON IMPLEMENTATION SPECIFICATION TO DE-IDENTIFY PROTECTED HEALTH INFORMATION.—Not later than 12 months
+after the date of the enactment of this title, the Secretary shall,
+in consultation with stakeholders, issue guidance on how best to
+implement the requirements for the de-identification of protected
+health information under section 164.514(b) of title 45, Code of
+Federal Regulations.
+(d) GAO REPORT ON TREATMENT DISCLOSURES.—Not later than
+one year after the date of the enactment of this title, the Comptroller
+General of the United States shall submit to the Committee on
+Health, Education, Labor, and Pensions of the Senate and the
+Committee on Ways and Means and the Committee on Energy
+and Commerce of the House of Representatives a report on the
+best practices related to the disclosure among health care providers
+of protected health information of an individual for purposes of
+treatment of such individual. Such report shall include an examination of the best practices implemented by States and by other
+entities, such as health information exchanges and regional health
+information organizations, an examination of the extent to which
+such best practices are successful with respect to the quality of
+the resulting health care provided to the individual and with respect
+to the ability of the health care provider to manage such best
+practices, and an examination of the use of electronic informed
+consent for disclosing protected health information for treatment,
+payment, and health care operations.
+(e) REPORT REQUIRED.—Not later than 5 years after the date
+of enactment of this section, the Government Accountability Office
+shall submit to Congress and the Secretary of Health and Human
+Services a report on the impact of any of the provisions of this
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00164
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+PUBLIC LAW 111–5—FEB. 17, 2009
+
+123 STAT. 279
+
+Act on health insurance premiums, overall health care costs, adoption of electronic health records by providers, and reduction in
+medical errors and other quality improvements.
+(f) STUDY.—The Secretary shall study the definition of ‘‘psychotherapy notes’’ in section 164.501 of title 45, Code of Federal Regulations, with regard to including test data that is related to direct
+responses, scores, items, forms, protocols, manuals, or other materials that are part of a mental health evaluation, as determined
+by the mental health professional providing treatment or evaluation
+in such definitions and may, based on such study, issue regulations
+to revise such definition.
+
+TITLE XIV—STATE FISCAL
+STABILIZATION FUND
+DEPARTMENT OF EDUCATION
+STATE FISCAL STABILIZATION FUND
+For necessary expenses for a State Fiscal Stabilization Fund,
+$53,600,000,000, which shall be administered by the Department
+of Education.
+GENERAL PROVISIONS—THIS TITLE
+SEC. 14001. ALLOCATIONS.
+
+(a) OUTLYING AREAS.—From the amount appropriated to carry
+out this title, the Secretary of Education shall first allocate up
+to one-half of 1 percent to the outlying areas on the basis of
+their respective needs, as determined by the Secretary, in consultation with the Secretary of the Interior, for activities consistent
+with this title under such terms and conditions as the Secretary
+may determine.
+(b) ADMINISTRATION AND OVERSIGHT.—The Secretary may, in
+addition, reserve up to $14,000,000 for administration and oversight
+of this title, including for program evaluation.
+(c) RESERVATION FOR ADDITIONAL PROGRAMS.—After reserving
+funds under subsections (a) and (b), the Secretary shall reserve
+$5,000,000,000 for grants under sections 14006 and 14007.
+(d) STATE ALLOCATIONS.—After carrying out subsections (a),
+(b), and (c), the Secretary shall allocate the remaining funds made
+available to carry out this title to the States as follows:
+(1) 61 percent on the basis of their relative population
+of individuals aged 5 through 24.
+(2) 39 percent on the basis of their relative total population.
+(e) STATE GRANTS.—From funds allocated under subsection (d),
+the Secretary shall make grants to the Governor of each State.
+(f) REALLOCATION.—The Governor shall return to the Secretary
+any funds received under subsection (e) that the Governor does
+not award as subgrants or otherwise commit within two years
+of receiving such funds, and the Secretary shall reallocate such
+funds to the remaining States in accordance with subsection (d).
+
+Grants.
+
+ebenthall on POQ96SHH1 with PUBLAW
+
+SEC. 14002. STATE USES OF FUNDS.
+
+(a) EDUCATION FUND.—
+
+VerDate Nov 24 2008
+
+08:20 Mar 03, 2009
+
+Jkt 079139
+
+PO 00000
+
+Frm 00165
+
+Fmt 6580
+
+Sfmt 6581
+
+E:\PUBLAW\PUBL005.111
+
+GPO1
+
+PsN: PUBL005
+
+

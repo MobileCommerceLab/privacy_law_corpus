@@ -1,0 +1,497 @@
+In the Name of God
+
+Electronic Commerce Law of the Islamic Republic of Iran
+Chapter one- General Provisions
+Part 1 – General
+Section 1 – Domain and Application
+Article 1 - This Law consists of a set of rules and principles to be applied for easy and secure
+communication of information in electronic intermediaries using state of the art communication
+systems.
+
+Section 2 – Definitions
+Article 2 –
+a) “Data Message”: Any representation of facts, information, and concepts generated, sent,
+received, stored, or processed by use of electronic, optical or other information technology
+means.
+b) “Originator”: The original source of “data message” by whom, or on whose behalf, the
+“data message” have been generated or sent but it does not include a person acting as an
+intermediary with respect to that “data message”.
+c) “Addressee”: The person intended by the originator to receive the “data message”, but it
+does not include a person acting as an intermediary with respect to that “data message”.
+d) “Incorporation by Reference”: refers to a source outside the “data message”; which in
+case of its compliance with Article 18 of this Law, is deemed to be part of that “data
+message”.
+e) “Integrity”: The “data message” in its entirety and with no change. System management
+such as sending, receiving, storing or displaying data doesn’t affect the Integrity of a “data
+message”.
+f) “Computer System”: Any type of system or a set of networked hardware/software-based
+systems applying auto-processing programs on “data messages”.
+g) “Information System”: A system for generating (originating), sending, receiving, storing
+or processing “data message”.
+h) “Secure Information System”: An information system that:
+1. Is reasonably protected against any misuse or penetration;
+2. Possesses a reasonable level of proper accessibility and administration;
+3. Is reasonably designed and organized in accordance with the significance of the task on
+hand;
+4. Is in compliance with secure methods.
+i) “Secure Method”: A method to authenticate the correctness, the origin and the destination
+of a “data message”, along with its date and to detect any error or modification, in
+communication, content, or storage of a “data message” from a certain point. A secure
+
+message is generated using algorithms or codes, identification words or numbers,
+encryption, acknowledgement call-back procedures or similar secure techniques.
+j) “Electronic Signature”: Any sign appended or logically affixed to a “data message”
+which may be used to identify its signatory.
+k) “Secure/Enhanced/Advanced Electronic Signature”: Any electronic signature that is in
+compliance with Article 10 of this Law.
+l) “Signatory”: Any person, or someone who acts on his/her behalf, who generates an
+electronic signature.
+m) “Person”: Any natural or juridical person or the computer systems under their control.
+n) “Reasonable Test”: Is evaluated based on the status of a “data message” communication,
+taking into consideration the nature of communication, parties skill and position, their
+communication quantity, accessibility of the proposed options, and their dismissal by either
+side, expenses arising from proposed options, customary methods applied in such
+communications.
+o) “Consumer”: Any person acting for any purpose other than business or professional
+occupation.
+p) “Supplier”: Any person acting in his commercial, union or professional capacity.
+q) “Means of Distance Transaction”: Any means which, without the simultaneous physical
+presence of the supplier and the consumer, may be used to sell goods and services.
+r) “Distance Contract”: Offer and Acceptance for goods and services between a supplier
+and a consumer via means of distance transaction.
+s) “Durable Medium”: Any means such as: Floppy Disk, Compact Disc, Hard Disk, or
+consumer's e-mail on which the consumer can personally store a “data message”.
+t) “Private data”: A “data message” associated with a specific person (Data Subject).
+
+Section 3 – Interpretation
+Article 3 – The international origin, the need to promote uniformity in its application, and the
+observance of good faith should always be taken into consideration in the interpretations of this
+Law.
+Article 4 – Upon any ambiguity of the chapter one of this Law, courts of law shall pass their
+judgment in conformity with other statutes and within the framework of the parts, terms and
+conditions contained in this Law.
+
+Section 4 – Validity of Private Agreements
+Article 5 – Any change in the generation procedures, sending, receipt, storage or processing of a
+“data message” is deemed valid upon a mutual private agreement and consent.
+
+Part 2 – Data message provisions
+Written Document, Original Signature
+Article 6 - When the existence of a written document is deemed legally requisite, “data message”
+can be used as a replacement except unless for the following cases:
+
+a) Ownership documents of immovable property.
+b) Sale of medical materials to the final consumers.
+c) Announcements, notifications, warnings or the like statements issuing a particular
+provision on the use of goods or prohibiting the use of certain methods or their omission
+hereto.
+Article 7 - Where the law requires a signature, an electronic signature may suffice.
+Article 8 – Where the law requires that the information be presented or retained in its original
+form, it is also possible to retain it as “data message” if the following requirements are met:
+- The information contained therein is accessible so as to be usable for subsequent
+reference.
+- “Data message” is retained in the same format it was generated, sent or received or in a
+format which can exactly represent the information generated, sent or received.
+- The information, if any, enabling the identification of the origin and destination of a
+“data message” and the date and time when it was sent or received is also retained.
+- Other provisions that an institution, organization, and governmental agency or ministry
+has laid down within the scope of their functions are retained.
+Article 9 – Under any circumstance where the distribution of a "data message" is terminated from
+a certain point in time and it is replaced with a paper document, this shall be expressly stated in the
+paper document. Such a replacement will on no occasion affect previous rights and obligations
+between both parties.
+
+Part 2 – Secure "data message"
+Section 1: Secure Electronic Signature and Electronic Record
+Article 10 – A secure electronic signature must contain the following requirements:
+a) Be unique to the signatory.
+b) Identify the signatory of "data message".
+c) Be signed by the signatory or under his/her sole intention.
+d) Be affixed to “data message” in a way that any change in data message can be detected
+and identified.
+Article 11 – A secure electronic record is a “data message” which is stored by the observance of
+the requirements of a secure information system and is accessible and perceivable when needed.
+
+Section 2 – Admissibility, Evidential Value, and Consequences of Secure Electronic
+Record and Signature
+Article 12 – Evidence and any supporting document may be in the form of “data message”. The
+evidential value of a “data message” can by no means be repudiated solely due to its form and
+framework at any court or governmental office.
+
+Article 13 – In general, the evidential value of a “data message” depends on the methods used to
+guarantee its security such as selecting a security measure that corresponds to the subject and
+purpose of the “data message”.
+Article 14 – All “data messages” which have been generated and stored via secure method are
+deemed to be valid and reliable documents by judicial or legal authorities in terms of what they
+contain as well as included signature therein, obligations of both parties or the party who
+covenants and all persons who act legally on their behalf, and effecting the terms and conditions
+contained therein.
+Article 15 – The validity of a secure "data message", secure electronic record and secure electronic
+signature may not be questioned or denied; only a claim of forgery of a "data message" or a proof
+of its invalidity on a legal basis may be considered.
+Article 16 – Any “data message” recorded and retained by a third party in accordance with the
+provisions of Article 11 of this Law, is deemed valid.
+
+Part 4 – Communication of "Data Message"
+Section 1 – Legal Validity of Incorporation by Reference, Contract and Intention of Parties
+Article 17 – "Incorporation by Reference" is valid upon the satisfaction of one of the following
+conditions:
+a) Object of reference is expressly stated in the "data message".
+b) Object of reference is explicit and specified for the relying party.
+c) The referenced "data message" is acceptable by the relying party.
+
+Section 2 – Attribution of "data message"
+Article 18 – In the following cases, a "data message" is attributed to the originator:
+a) If it is sent by the originator or by a person who had the authority to act on behalf of the
+originator in respect to that “data message”.
+b) If it is sent by a programmed information system or automated agent on behalf of the
+originator.
+Article 19 – The addressee is entitled to regard the "data message" which is sent according to one
+of the following conditions as having been sent and to act on that assumption (having been sent):
+a) A method is introduced by or agreed with the originator indicating that the "data
+message" is in fact the same “data message” that was sent by the originator.
+b) The "data message” as received by the addressee resulted from the actions of a person
+whose relationship with the originator or with any agent of the originator enabled that
+person to gain access to a method used by the originator to identify “data messages” as
+its own.
+Article 20 – Article 19 of this Law does not comprise the cases where the message is not issued
+from the originator or is mistakenly issued.
+
+Article 21 – Every "data message" is deemed to be a separate and distinct "data message" unless it
+turns out that the given "data message" is a duplicate of the original "data message".
+
+Section 3 –Acknowledgement of Receipt
+Article 22 – Where on or before sending a "data message", the originator has requested or agreed
+that the receipt of a "data message" be acknowledged, in case that no discussion or agreement has
+been reached on how to perform it, any automated communication or correspondence or adoption
+of any proper measure on the part of the addressee that reasonably assures the originator of the
+"data message" receipt, is deemed to be the acknowledgement of receipt.
+Article 23 – Where the originator has expressly stated that any legal effect of the “data message”
+is conditional on receipt of the acknowledgement, the “data message” is treated as though it has
+never been sent, until the acknowledgement is received.
+Article 24 – Presumption of the receipt of "data message" does not hold true on the content of the
+"data message".
+Article 25 – Where in the received acknowledgement it is stated that the receipt of related “data
+message” met technical requirements of applicable standards or a mutually agreed procedure, it is
+presumed that those requirements have been met.
+
+Section 4: Time and Place of Dispatch and Receipt of "Data Message"
+Article 26 – the dispatch of a "data message" occurs when it enters an information system outside
+the control of the originator or his/her agent.
+Article 27 – The time of receipt of a "data message" is determined as follows:
+a) If the addressee's information system has been designated for the receipt of the “data
+messages”, receipt occurs when:
+- The "data message" enters the designated information system; or
+- The "data message" enters an information system of the addressee that is not the
+one solely designated for such a purpose, and it is retrieved;
+b) If the addressee has not designated an information system for the receipt, receipt occurs
+when the “data message” enters an information system of the addressee.
+Article 28 – The terms and conditions of Article 27 of this Law is effective regardless of the
+location of the information system.
+Article 29 – In the event the location of the information system is different from that of the receipt
+of the "data message", the following conditions are to be effective:
+a) Unless otherwise agreed between the originator and the addressee, a “data message” is
+deemed to be dispatched at the place where the originator has its place of business or
+work, and is deemed to be received at the place where the addressee has its place of
+business or work.
+
+b)
+If the originator has more than one commercial domicile, the closest one to the
+place of transaction is considered his commercial domicile; otherwise, the corporate
+headquarters is considered as the commercial domicile.
+c) If the originator or addressee does not have a commercial domicile, their residence is
+considered to be their commercial domicile.
+Article 30 – The legal effects following attribution, receipt of acknowledgement, time and place of
+dispatch and receipt of "data message", the subject of section 2 to section 4 of Part 4 of this Law
+and also contents of "data message" are subject to general provision.
+
+Chapter 2 – Certification Service Provider
+Article 31 – Certification Service Providers are established to provide electronic signature services
+nationwide. These services consist of generation, issuance, transmission, confirmation, dismissal
+and update of electronic signature certificates.
+Article 32 – The laws and regulations for the establishment of certification service provider, also
+the detailed liabilities of such centers will be prepared by the Management and Planning
+Organization, and the Ministries of Commerce, Communication and Information Technology,
+Economic Affairs & Finance, and Justice and ratified by the cabinet.
+
+Chapter 3 – Miscellaneous
+Part 1 –Sole Protection in Electronic Transactions
+Section 1 – Consumer Protection
+Article 33 – Sellers of goods and service providers shall, in good time and before entering into
+contract and providing the consumer with information affecting his decision making for the
+purpose of purchase or acceptance of the terms. The minimum required information includes the
+following:
+a) Technical specifications and functional characteristics of goods or services.
+b) The identity of the supplier, the trade name under which he is working and his
+address.
+c) E-mail address, telephone number, or any method by which the customer, when
+needed, can contact the seller.
+d) All the expenses that will be charged to the customer for the purchase of goods
+(including the price of goods or services, tax, freight cost, calling charges).
+e) The period for which the offer remains valid.
+f) Terms and process of contract including payment terms and arrangements, delivery or
+implementation, cancellation, return, after-sales services.
+Article 34 – Along with approving the preliminary information, the supplier shall also separately
+send the following pieces of information:
+a) The business or work address of the supplier for possible complaints.
+
+b) Information on after-sales services and guarantees.
+c) Terms and conditions to terminate the contract according to Articles 37 and
+38 of this Law.
+d) Terms and conditions of cancellation in service contracts.
+Article 35 – The stated information and acknowledgment of stated information to the consumer
+shall be provided in a durable medium, clear and comprehensible manner in good time and by use
+of appropriate means of communication within a certain period, with due regard to good faith in
+commercial transactions, such as special measures for the disabled, and the children.
+Article 36 – In the case of telephone communications, the identity of the supplier and the
+commercial purpose of the call shall be made explicitly clear at the beginning of any conversation
+with the consumer.
+Article 37 – For any distance transaction the consumer shall have a period of at least seven
+working days in which to withdraw from the contract (right of withdrawal) without penalty and
+without giving any reason. The only charge that may be made to the consumer is the cost of
+returning the goods.
+Article 38 – The withdrawal may be exercised as follows:
+a) In case of sale of goods, from the day of delivery of goods to the consumer and in case
+of sale of services from the day the contract is effective.
+b) In any case, the exercise of consumer's right of withdrawal begins once the information
+the supplier is bound to present according to Articles 33 and 34 of this Law is
+presented.
+c) As soon as the right of withdrawal has been exercised by the consumer pursuant the
+supplier shall immediately reimburse the sums paid by the consumer free of charge.
+d) Consumer's right of withdrawal may not be exercised in cases where the type of goods
+and services are subject to particular terms. Such cases are according to the regulations
+being specified in accordance with Article 79 of this Law.
+Article 39 – Where a supplier fails to perform his side of the contract on the grounds that the
+goods are unavailable or services can not be performed, he is bound to immediately refund the
+sums he has received to the addressee unless in case of sale of merchandise of a general
+description and obligations whose fulfillment is not impossible for ever and the addressee is
+willing to wait until the availability of goods or performance of obligation. If the supplier turns out
+to be aware of his incapability of performing his obligation from the beginning, in addition to
+being bound to reimburse the sums he has received, he is sentenced to the maximum punishment
+under this Law.
+Article 40 – The supplier can provide the consumer with goods or services of equivalent quality
+and price provided that this was announced before or during the transaction.
+Article 41 – If the supplier dispatches the consumer goods or services other than subject of the
+transaction or obligation, the goods and services shall be returned and the cost of returning shall be
+borne by the supplier. Nevertheless, if the dispatched goods and services are offered by the
+supplier as another transaction or obligation, the addressee can accept it.
+
+Article 42 – The protections laid down herein do not apply in the following cases:
+a) The financial services the list of which is determined by the regulations specified in
+accordance with Article 79 of this Law.
+b) Transactions relating to sale of immovable property or rights of ownership arising from
+immovable property except for rental.
+c) Purchase from automatic vending machines.
+d) Transactions carried out through the use of public payphones.
+e) Transactions carried out in auctions
+
+Article 43 - The supplier shall not regard the silence of the consumer as contentment.
+Article 44 – In the case of a dispute or uncertainty, the case shall be examined by judicial
+authorities.
+Article 45 – The execution of consumer's rights under this Law shall not be limited by other Laws
+that provide less support for the consumer.
+Article 46 – The use of contractual conditions that are in contradiction with the regulations of this
+section and also the application of unfair conditions that disadvantages consumer shall not be
+effective.
+Article 47 – In distance transactions, that part of the transaction which is carried out through a
+method other than means of distance transaction is not subject to the regulations of this Law.
+Article 48 – Legal and civil organizations protecting consumer's rights can file a suit as a
+petitioner. Its processing is subject to regulations that will be proposed by the Ministry of
+Commerce and ratified by the cabinet.
+Article 49 –Consumer's rights when dealing with Electronic Payment systems is subject to rules
+and regulations which have been or will be ratified by the relevant judicial authorities.
+
+Section 2: Marketing
+Article 50 – Suppliers, in the process of marketing their goods and services, shall not commit or
+exclude an act that may mislead and deceive the addressee in terms of quantity and quality.
+Article 51 – Suppliers who are advertising for the sale of their goods and services shall not
+endanger people's health.
+Article 52 – The supplier shall advertise in such a manner that would enable the consumer to
+precisely, accurately, and clearly understand the description of the advertised goods and services.
+Article 53 – In advertising and marketing processes, the identity of the person or business who is
+advertising should be clear, and evident.
+Article 54 – Suppliers shall not take advantage of the special features of electronic transactions to
+conceal facts in relation to their identity or place of business.
+
+Article 55 – Suppliers shall provide the consumers with the required arrangements that would
+enable them to choose whether to receive the advertisements at their mailing or e-mail address.
+Article 56 – Suppliers shall act professionally. The corresponding rules and regulations shall be in
+accordance with Article 79 of this Law.
+Article 57 – Advertisement and marketing for children and young people under the legal age is
+subject to regulations that will be stated in Article 79 of this Law.
+
+Section3: Protection of Private "Data Message"
+Article 58 – Storing, processing or distributing private "data messages" which may reveal tribal or
+ethnic origins, moral and religious beliefs, ethical characteristics, and “data messages” regarding
+the physical, psychological, or sexual condition of people, without their explicit consent is illegal.
+Article 59 – Upon the consent of the person who is the subject of a "data message", provided that
+the content of the "data message" is in accordance with statute laws of the Islamic Consultative
+Assembly, storing, processing, and distributing personal "data messages" via electronic means
+shall be subject to the following terms:
+a) Its goals shall be specified and clearly described.
+b) The "data message" shall be collected to the required extent and in compliance with the
+goals described to the person who is the subject of the "data message" while collecting
+the information and be applied merely for the goals set out therein.
+c) The "data message" shall be correct and up-to-date.
+d) The person who is the subject of a "data message" shall have access to those computer
+files containing his/her personal "data messages" and be able to remove or amend
+partial or incorrect "data messages".
+e) The person who is the subject of “data message”, while adhering to the regulations,
+shall be able to request the complete removal of the computer files of his personal "data
+messages".
+Article 60 – Storing, processing, or distributing "data messages" of medical or health records are
+subject to the regulations in accordance with Article 79 of this Law.
+Article 61 – Other issues on the accessibility of the subject of a "data message" such as exceptions,
+the supervision and control of personal "data messages" are subject to terms and conditions
+contained in Chapter Four of this Law and relevant regulations.
+
+Part 2: Protection of "data message" in electronic transactions
+Section 2: Protection of Authors' Right in electronic transactions
+Article 62 – The right to copy, perform and distribute (supply, and publish) materials that are
+subject to the protection of authors', composers' and artists' rights Law enacted on 1348/9/3 and
+translation and copy of books and publications and audio products Law enacted on 1352/9/26 and
+the protection of computer software producers Law enacted on 1379/10/4 , in the form of a “data
+message” belongs exclusively to the author. Any publication or work in the form of "data
+
+message" such as information, software and computer programs, computerized tools and methods,
+databases, and also intellectual property rights, when dealing with electronic transactions, is
+subject to patent rights, author's rights, rights related to the author's right, protection of databases,
+protection of Integrated Circuits & Chips, protection of trade secrets, foregoing terms of this
+Article and registration of trade names and invention Law enacted on 1310/4/1 and amended
+executive procedures of enforcing registration of trade marks and invention Law enacted on
+1337/4/14 provided that the stated items in both of the laws comply with other ratifications of the
+Islamic Consultative Assembly.
+Note 1 – Rights related to literary and Artistic rights, previously referred to as neighboring rights
+include the rights of other elements in addition to the author such as the rights of the artists
+performing the work, producers of audio and video products, and recording and distributing
+organizations and institutions which are subject to the laws enacted on 1348/9/2 and 1352/9/26
+contained herein.
+Note 2 – Integrated Circuit is an electronic component with a particular diagram and logic whose
+functionality and applicability can be replaced with a large number of regular electronic
+components. Subject to the Registration of Trade marks and Invention Law enacted on 1310/4/1
+and amended regulations of enforcing registration of trade marks and invention Law enacted on
+1337/4/14, the design and placement diagrams, and the logic of these circuits are protected.
+Article 63 – Temporary acts of copy, performance, and distribution of the work which is an
+inevitable part of "data message" processing on networks is not subject to the foregoing regulation.
+
+Section 2 – Protection of Trade Secrets
+Article 64 – In order to protect legitimate and fair competitions in electronic transactions, illegal
+acquisition of trade or economic secrets of agencies and institutions or the disclosure of such
+secrets to third parties in electronic environment is deemed an offence and the offender will be
+sentenced according to this Law.
+Article 65 – Electronic trade secrets are "data messages" consisting of information, formulas,
+patterns, software and programs, means and methods, techniques and procedures, unpublished
+writings, business and transaction methods and procedures, strategies, plans, financial information,
+customers list, trade projects and the like which have an economic value by themselves, are
+inaccessible to the public and reasonable efforts have been made for their protection.
+
+Section 3 – Protection of Trade Marks
+Article 66 – In order to protect consumers' rights and encourage legitimate competition in trough
+electronic transactions, use of trade marks as domain name or any online usage of trade marks
+which may mislead or deceive the other party in terms of the originality of goods and services is
+illegal and the offender will be sentenced according to this Law.
+
+Chapter Four – Fines and Penalties
+Part 1 – Fraud
+Article 67 –Anyone who deceives others or misleads auto- processing systems and the like, during
+an electronic transaction, by misuse or unlawful use of "data messages", programs, computer
+systems, and means of distance transaction, and committing such acts as penetration, removal, and
+termination of a "data message", interfering with the application of a computer system or program,
+etc. and by means of this method obtains property or financial concessions for himself or others, is
+deemed an offender and in addition to the return of property to its owner is given a one to three
+year sentence in prison and pecuniary punishment equal to appropriated property.
+Note – Initiation of such crime is also deemed to be a crime and its penalty is the minimum
+punishment in this Article.
+
+Part 2 – Forgery
+Article 68 - In electronic transactions, anyone forging "data messages" which are of financial and
+evidential value in order to use it as a valid "data message" in judicial, financial offices, etc, by
+means of penetration, removal, and termination of "data messages" and interference with
+computer systems and "data message" processing, or use of applied means of encryption systems
+to make a signature – like private keys – without signatory's permission, or by making a signature
+lacking registration record in electronic registration offices, or incompliance of those means with
+the name of the owner in the same list and obtaining a forged certificate and the like, is considered
+a forger and sentenced for one to three years imprisonment and a cash penalty of 50,000,000 Rls.
+Note – The penalty of initiation of this crime is the minimum of the punishment in this Article.
+
+Part 3 – Violation of Exclusive Rights in Electronic Transactions
+Section 1 – Violation of Consumer's Rights and Advertising Regulations
+Article 69 – A supplier who violates Articles 33, 34, 35, 36, and 37 of this Law will be sentenced
+to a penalty of 10,000,000 to 50,000,000 Rls.
+Note – A supplier who violates Article 37 will receive maximum punishment.
+Article 70 – A supplier who violates Article 39, 50, 51, 52, 53, 54, and 55 of this Law will be
+sentenced to a penalty of 20,000,000 to 100,000,000 Rls.
+Note 1 – A supplier who violates Article 51 of this Law will receive the maximum punishment as
+contained therein.
+Note 2 – A supplier who violates Article 55 of this Law will receive the minimum punishment as
+contained therein.
+
+Section 2 – Breach of Protection of Personal "Data Message"
+Article 71 – In electronic transactions, anyone who violates the terms contained in Articles 51 and
+58 of this Law is deemed an offender and will be sentenced to one to three year imprisonment.
+
+Article 72 – When the offenses related to personal "data messages" are committed by Certificate
+Service Providers and other responsible institutions, the offender will receive the maximum
+punishment as contained in Article 71 of this Law.
+Article 73 – If, upon negligence or carelessness of Certificate Service Providers, offences of
+personal "data messages" are committed, the offender will be sentenced to three months to one
+year imprisonment and a cash penalty of 50,000,000 Rls.
+
+Part 4 – Violation of "Data Message" Protection in Electronic Transactions
+Section 1 – Violation of Author's Right
+Article 74 – In an electronic transaction, anyone who violates the protection of authors', composers'
+and artists' rights Law enacted on 1348/9/3 and translation and copy of books and publications and
+audio products Law regulated on 1352/9/26 and the protection of computer software producers Law
+enacted on 1379/10/4 , provided that according to ratifications of the Islamic Consultative Assembly
+the foregoing issues be deemed legal, will be sentenced from three months to one year in prison or a
+penalty of 50,000,000 Rls.
+
+Section 2 – Violation of Trade Secrets
+Article 75 – Those who violate Article 64 of this Law and anyone who, trough electronic means, has
+obtained trade secrets or disclosed them to third parties in order to compete, benefit, or do damage to
+commercial, industrial, economical, and service corporations violating employment contract where it
+prohibits revealving trade secrets, will be sentenced from 6 months to 2.5 years in prison or a penalty
+of 50,000,000 Rls.
+
+Section 3 – Violation of Trade Marks
+Article 76 – Those who violate Article 66 of this Law will be sentenced from one to three years in
+prison and a penalty of 20,000,000 to 100,000,000 Rls.
+
+Section 4 – Others
+Article 77 – Other offences, procedural law and regulations related to judicial competence and
+methods of international legal cooperation relevant to electronic transactions are subject to the Law.
+
+Chapter 5 – Compensation
+Article 78 – When in trough electronic transactions, damage is done to a person due to the
+deficiency or fault of private or governmental institutions except for physical disconnection of
+electronic connection; the involved institutions are liable for compensation unless the damage is the
+result of personal act which renders these persons liable for compensation.
+
+Chapter 6 – Miscellaneous Provisions
+Article 79 – The Ministry of Commerce shall identify areas relevant to electronic commerce which
+may be effective in the performance of this Law and presenting proposals to be approved by the high
+council of information technology, it shall seek compilation of relevant rules and the regulations of
+this Law by affiliated institutions. These rules and regulations will be put into effect following
+ratification of cabinet. Other regulations stated in this Law will be prepared as follows:
+a) Regulations related to Articles 37 and 38 of this Law shall be prepared following a proposal
+from the Ministries of Commerce, and Economic Affairs & Finance, the Management and
+Planning Organization, and the Central Bank of the Islamic Republic of Iran and ratified by
+the cabinet.
+b) Regulations related to Articles 56 and 57 of this Law shall be prepared following a proposal
+from the Ministry of Commerce, and Culture & Islamic Guidance, and the Management and
+Planning Organization and ratified by the cabinet.
+c) Regulations related to Article 60 of this Law shall be prepared following a proposal from the
+Ministry of Health & Medical Education and the Management and Planning Organization
+and ratified by the cabinet.
+Article 80 – In order to promote electronic commerce activities, the Ministry of Commerce, by
+merging its existing units and some of its affiliated units, shall establish a Center. The articles of
+association and its regulations shall be prepared following a proposal from the Ministry of
+Commerce, and the Management and Planning Organization and ratified by the cabinet.
+Article 81 – Originators, addresses, archivists, consumers and all those having a "data message"
+shall maintain and make appropriate copies of the "data message" at their disposal such that in case
+of any hazard for one, other copies are safe.
+This Law consisting of 81 Articles and 7 notes, was enacted in the open session of the Islamic
+Consultative Assembly on Wednesday, 1382/10/17 and was ratified by the Guardian Council on
+1382/10/24.
+
+

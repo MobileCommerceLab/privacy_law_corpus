@@ -1,0 +1,627 @@
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+1
+
+DECRETO N° 260
+LA ASAMBLEA LEGISLATIVA DE LA REPÚBLICA DE EL SALVADOR,
+CONSIDERANDO:
+I.-
+
+Que la Constitución de la República, reconoce a la persona humana como el
+origen y el fin de la actividad del Estado, que está organizado para la consecución
+de la justicia, de la seguridad jurídica y del bien común.
+
+II.-
+
+Que mediante Decreto Legislativo N° 1030, de fecha 26 de abril de 1997,
+publicado en el Diario Oficial N° 105, Tomo N° 335, del 10 de junio del mismo
+año, se emitió el Código Penal.
+
+III.-
+
+Que en la actualidad, los instrumentos electrónicos por medio de los cuales se
+envía, recibe o resguarda la información, han adquirido una especial relevancia,
+tanto a nivel internacional como nacional, para el desarrollo económico, político,
+social y cultural del país; por lo que se vuelve prioridad del Estado, proteger dicha
+información, ya que al no protegerla se atenta contra la confidencialidad,
+integridad, seguridad y disponibilidad de los datos en general.
+
+IV.-
+
+Que esta diversidad de actividades delincuenciales que pueden cometerse a
+través de las Tecnologías de la Información y la Comunicación, no se encuentran
+suficientemente reguladas en nuestra normativa penal vigente, generándose una
+impunidad para quienes cometen estos tipos de delitos; en consecuencia, resulta
+necesaria su tipificación y la adopción de mecanismos suficientes para facilitar
+su detección, investigación y sanción de estos nuevos tipos de delitos.
+
+POR TANTO,
+en uso de sus facultades Constitucionales y a iniciativa del Diputado Douglas Leonardo Mejía Avilés,
+de los Períodos Legislativos 2009 - 2012 y 2012 - 2015.
+DECRETA, la siguiente:
+LEY ESPECIAL CONTRA LOS DELITOS INFORMÁTICOS Y CONEXOS
+TÍTULO I
+DISPOSICIONES GENERALES
+Objeto de la Ley
+Art. 1.- La presente Ley tiene por objeto proteger los bienes jurídicos de aquellas conductas
+delictivas cometidas por medio de las Tecnologías de la Información y la Comunicación, así como la
+prevención y sanción de los delitos cometidos en perjuicio de los datos almacenados, procesados o
+transferidos; los sistemas, su infraestructura o cualquiera de sus componentes, o los cometidos mediante
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+2
+
+el uso de dichas tecnologías que afecten intereses asociados a la identidad, propiedad, intimidad e imagen
+de las personas naturales o jurídicas en los términos aplicables y previstos en la presente Ley.
+Ámbito de Aplicación
+Art. 2.- La presente Ley se aplicará a los hechos punibles cometidos total o parcialmente en el
+territorio nacional o en los lugares sometidos a su jurisdicción. También se aplicará a cualquier persona,
+natural o jurídica, nacional o extranjera, por delitos que afecten bienes jurídicos del Estado, de sus
+habitantes o protegidos por Pactos o Tratados Internacionales ratificados por El Salvador.
+De igual forma, se aplicará la presente Ley si la ejecución del hecho, se inició en territorio
+extranjero y se consumó en territorio nacional o si se hubieren realizado, utilizando Tecnologías de la
+Información y la Comunicación instaladas en el territorio nacional y el responsable no ha sido juzgado
+por el mismo hecho por Tribunales extranjeros o ha evadido el juzgamiento o la condena.
+Definiciones
+Art. 3.- Para los efectos de la presente Ley, se entenderá por:
+a)
+
+Delito Informático: se considerará la comisión de este delito, cuando se haga uso de las
+Tecnologías de la Información y la Comunicación, teniendo por objeto la realización de
+la conducta típica y antijurídica para la obtención, manipulación o perjuicio de la
+información;
+
+b)
+
+Bien Jurídico Protegido: es la información que garantice y proteja el ejercicio de derechos
+fundamentales como la intimidad, honor, integridad sexual, propiedad, propiedad
+intelectual, seguridad pública, entre otros;
+
+c)
+
+Datos Informáticos: es cualquier representación de hechos, información o conceptos en
+un formato digital o análogos, que puedan ser almacenados, procesados o transmitidos
+en un sistema informático, cualquiera que sea su ubicación, así como las características
+y especificaciones que permiten describir, identificar, descubrir, valorar y administrar los
+datos;
+
+d)
+
+Medio de Almacenamiento de Datos Informáticos: es cualquier dispositivo a partir del
+cual la información es capaz de ser leída, grabada, reproducida o transmitida con o sin
+la ayuda de cualquier otro medio idóneo;
+
+e)
+
+Sistema Informático: es un elemento o grupo de elementos interconectados o
+relacionados, pudiendo ser electrónicos, programas informáticos, enlaces de comunicación
+o la tecnología que en el futuro los reemplace, orientados al tratamiento y administración
+de datos e información;
+
+f)
+
+Comunicación Electrónica: es toda transmisión de datos informáticos, cuyo contenido
+puede consistir en audio, texto, imágenes, videos, caracteres alfanuméricos, signos,
+gráficos de diversa índole o cualquier otra forma de expresión equivalente, entre un
+
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+3
+
+remitente y un destinatario a través de un sistema informático y las demás relacionadas
+con las Tecnologías de la Información y la Comunicación;
+g)
+
+Dispositivo: es cualquier mecanismo, instrumento, aparato, medio que se utiliza o puede
+ser utilizado para ejecutar cualquier función de la Tecnología de la Información y la
+Comunicación;
+
+h)
+
+Interceptar: es la acción de apropiarse, interrumpir, escuchar o grabar datos informáticos
+contenidos o transmitidos en cualquier medio informático antes de llegar a su destino;
+
+i)
+
+Programa Informático: es la rutina o secuencia de instrucciones en un lenguaje informático
+determinado que se ejecuta en un sistema informático, pudiendo ser éste un ordenador,
+servidor o cualquier dispositivo, con el propósito que realice el procesamiento y
+comunicación de los datos informáticos;
+
+j)
+
+Proveedor de Servicios: es la persona natural o jurídica que ofrece uno o mas servicios
+de información o comunicación por medio de sistemas informáticos, procesamiento o
+almacenamiento de datos;
+
+k)
+
+Tráfico de Datos Informáticos: son aquellos que se transmiten por cualquier medio
+tecnológico, pudiendo mostrar el origen, destino, ruta, hora, fecha, tamaño, duración de
+la comunicación, entre otros;
+
+l)
+
+Tecnologías de la Información y la Comunicación: es el conjunto de tecnologías que
+permiten el tratamiento, la comunicación de los datos, el registro, presentación, creación,
+administración, modificación, manejo, movimiento, control, visualización, distribución,
+intercambio, transmisión o recepción de información en forma automática, de voz,
+imágenes y datos contenidos en señales de naturaleza acústica, óptica o electromagnética,
+entre otros;
+
+m)
+
+Datos Personales: es la información privada concerniente a una persona, identificada o
+identificable, relativa a su nacionalidad, domicilio, patrimonio, dirección electrónica,
+número telefónico u otra similar;
+
+n)
+
+Datos Personales Sensibles: son los que corresponden a una persona en lo referente al
+credo, religión, origen étnico, filiación o ideologías políticas, afiliación sindical, preferencias
+sexuales, salud física y mental, situación moral, familiar y otras informaciones íntimas
+de similar naturaleza o que pudieran afectar el derecho al honor, a la propia imagen, a
+la intimidad personal y familiar;
+
+o)
+
+Material Pornográfico de Niñas, Niños y Adolescentes: es toda representación auditiva
+o visual, ya sea en imagen o en vídeo, adoptando un comportamiento sexualmente
+explícito, real o simulado de una persona que aparente ser niña, niño o adolescente
+adoptando tal comportamiento. También se considerará material pornográfico, las
+imágenes realistas que representen a una niña, niño o adolescente adoptando un
+comportamiento sexualmente explícito o las imágenes reales o simuladas de las partes
+
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+4
+
+genitales o desnudos de una niña, niño o adolescente con fines sexuales;
+p)
+
+Tarjeta Inteligente: es el dispositivo que permite mediante la ejecución de un programa
+la obtención de bienes, servicios, propiedades o información; y,
+
+q)
+
+Redes Sociales: es la estructura o comunidad virtual que hace uso de medios tecnológicos
+y de la comunicación para acceder, establecer y mantener algún tipo de vínculo o
+relación, mediante el intercambio de información.
+TÍTULO II
+DE LOS DELITOS
+CAPÍTULO I
+DE LOS DELITOS CONTRA LOS SISTEMAS TECNOLÓGICOS DE INFORMACIÓN
+
+Acceso Indebido a Sistemas Informáticos
+Art. 4.- El que intencionalmente y sin autorización o excediendo la que se le hubiere concedido,
+acceda, intercepte o utilice parcial o totalmente un sistema informático que utilice las Tecnologías de la
+Información o la Comunicación, será sancionado con prisión de uno a cuatro años.
+Acceso Indebido a los Programas o Datos Informáticos
+Art. 5.- El que a sabiendas y con la intención de usar cualquier dispositivo de la Tecnología de
+la Información o la Comunicación, accediera parcial o totalmente a cualquier programa o a los datos
+almacenados en él, con el propósito de apropiarse de ellos o cometer otro delito con éstos, será
+sancionado con prisión de dos a cuatro años.
+Interferencia del Sistema Informático
+Art. 6.- El que intencionalmente y por cualquier medio interfiera o altere el funcionamiento de
+un sistema informático, de forma temporal o permanente, será sancionado con prisión de tres a cinco
+años.
+Se considerará agravada la interferencia o alteración, si ésta recayera en programas o sistemas
+informáticos públicos o en sistemas informáticos destinados a la prestación de servicios de salud, de
+comunicaciones, de provisión y transporte de energía, de medios de transporte u otros de servicio público,
+o destinados a la prestación de servicios financieros, la sanción de prisión será de tres a seis años.
+Daños a Sistemas Informáticos
+Art. 7.- El que destruya, dañe, modifique, ejecute un programa o realice cualquier acto que altere
+el funcionamiento o inhabilite parcial o totalmente un sistema informático que utilice las Tecnologías de
+la Información y la Comunicación o cualquiera de los componentes que las conforman, será sancionado
+con prisión de tres a cinco años.
+
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+5
+
+Si el delito previsto en el presente artículo se cometiere de forma culposa, por imprudencia,
+negligencia, impericia o inobservancia de las normas establecidas, será sancionado con prisión de uno
+a tres años.
+Si el delito previsto en el presente artículo se cometiere en contra de cualquiera de los
+componentes de un sistema informático que utilicen las Tecnologías de la Información y la Comunicación,
+que estén destinadas a la prestación de servicios públicos o financieros, o que contengan información
+personal, confidencial, reservada, patrimonial, técnica o propia de personas naturales o jurídicas, la sanción
+de prisión será de tres a seis años.
+Posesión de Equipos o Prestación de Servicios para la Vulneración de la Seguridad
+Art. 8.- El que utilizando las Tecnologías de la Información y la Comunicación posea, produzca,
+facilite, venda equipos, dispositivos, programas informáticos, contraseñas o códigos de acceso; con el
+propósito de vulnerar, eliminar ilegítimamente la seguridad de cualquier sistema informático, ofrezca o
+preste servicios destinados a cumplir los mismos fines para cometer cualquiera de los delitos establecidos
+en la presente Ley, será sancionado con prisión de tres a cinco años.
+Violación de la Seguridad del Sistema
+Art. 9.- La persona que sin poseer la autorización correspondiente transgreda la seguridad de
+un sistema informático restringido o protegido con mecanismo de seguridad específico, será sancionado
+con prisión de tres a seis años.
+En igual sanción incurrirá quien induzca a un tercero para que de forma involuntaria, ejecute un
+programa, mensaje, instrucciones o secuencias para violar medidas de seguridad.
+No incurrirá en sanción alguna quien ejecute las conductas descritas en los Arts. 8 y 9 inciso
+primero de la presente Ley, cuando con autorización de la persona facultada se realicen acciones con el
+objeto de conducir pruebas técnicas o auditorías de funcionamiento de equipos, procesos o programas.
+CAPÍTULO II
+DE LOS DELITOS INFORMÁTICOS
+Estafa informática
+Art. 10.- El que manipule o influya en el ingreso, el procesamiento o resultado de los datos de
+un sistema que utilice las Tecnologías de la Información y la Comunicación, ya sea mediante el uso de
+datos falsos o incompletos, el uso indebido de datos o programación, valiéndose de alguna operación
+informática o artificio tecnológico o por cualquier otra acción que incida en el procesamiento de los datos
+del sistema o que dé como resultado información falsa, incompleta o fraudulenta, con la cual procure u
+obtenga un beneficio patrimonial indebido para sí o para otro, será sancionado con prisión de dos a cinco
+años.
+Se sancionará con prisión de cinco a ocho años, si las conductas descritas en el inciso anterior
+se cometieren bajo los siguientes presupuestos:
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+6
+
+a)
+
+En perjuicio de propiedades del Estado;
+
+b)
+
+Contra sistemas bancarios y entidades financieras; y,
+
+c)
+
+Cuando el autor sea un empleado encargado de administrar, dar soporte al sistema, red
+informática, telemática o que en razón de sus funciones tenga acceso a dicho sistema,
+red, contenedores electrónicos, ópticos o magnéticos.
+
+Fraude Informático
+Art. 11.- El que por medio del uso indebido de las Tecnologías de la Información y la
+Comunicación, valiéndose de cualquier manipulación en sistemas informáticos o cualquiera de sus
+componentes, datos informáticos o información en ellos contenida, consiga insertar instrucciones falsas
+o fraudulentas que produzcan un resultado que permita obtener un provecho para sí o para un tercero
+en perjuicio ajeno, será sancionado con prisión de tres a seis años.
+Espionaje Informático
+Art. 12.- El que con fines indebidos obtenga datos, información reservada o confidencial
+contenidas en un sistema que utilice las Tecnologías de la Información y la Comunicación o en cualquiera
+de sus componentes, será sancionado con prisión de cinco a ocho años.
+Si alguna de las conductas descritas en el inciso anterior se cometieren con el fin de obtener
+beneficio para sí o para otro, se pusiere en peligro la seguridad del Estado, la confiabilidad de la operación
+de las instituciones afectadas, resultare algún daño para las personas naturales o jurídicas como
+consecuencia de la revelación de la información de carácter reservada, confidencial o sujeta a secreto
+bancario, la sanción será de seis a diez años de prisión.
+Hurto por Medios Informáticos
+Art. 13.- El que por medio del uso de las Tecnologías de la Información y la Comunicación, se
+apodere de bienes o valores tangibles o intangibles de carácter personal o patrimonial, sustrayéndolos
+a su propietario, tenedor o poseedor, con el fin de obtener un provecho económico para sí o para otro,
+será sancionado con prisión de dos a cinco años.
+Técnicas de Denegación de Servicio
+Art. 14.- El que de manera intencionada, utilizando las técnicas de la denegación de servicio o
+prácticas equivalentes que afectaren a los usuarios que tienen pertenencia en el sistema o red afectada,
+imposibilite obtener el servicio, será sancionado con prisión de tres a cinco años.
+
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+7
+
+CAPÍTULO III
+DELITOS INFORMÁTICOS RELACIONADOS
+CON EL CONTENIDO DE LOS DATOS
+Manipulación de Registros
+Art. 15.- Los Administradores de las Plataformas Tecnológicas de instituciones públicas o privadas,
+que deshabiliten, alteren, oculten, destruyan, o inutilicen en todo o en parte cualquier información, dato
+contenido en un registro de acceso, uso de los componentes de éstos, será sancionado con prisión de
+cinco a ocho años.
+Si las conductas descritas en el inciso anterior, favorecieren la comisión de otro delito, la sanción
+se agravará hasta en una tercera parte del máximo señalado.
+Manipulación Fraudulenta de Tarjetas Inteligentes o Instrumentos Similares
+Art. 16.- El que intencionalmente y sin la debida autorización por cualquier medio cree, capture,
+grabe, copie, altere, duplique, clone o elimine datos informáticos contenidos en una tarjeta inteligente
+o en cualquier instrumento destinado a los mismos fines; con el objeto de incorporar, modificar usuarios,
+cuentas, registros, consumos no reconocidos, la configuración actual de éstos o de los datos en el sistema,
+será sancionado con prisión de cinco a ocho años.
+En la misma pena incurrirá quien, sin haber tomado parte en los hechos anteriores adquiera,
+comercialice, posea, distribuya, venda, realice cualquier tipo de intermediación de tarjetas inteligentes
+o instrumentos destinados al mismo fin o de datos informáticos contenidos en ellos o en un sistema.
+Obtención Indebida de Bienes o Servicios por Medio de Tarjetas Inteligentes o Medios
+Similares
+Art. 17.- El que sin autorización utilice una tarjeta inteligente ajena o instrumento destinado a
+los mismos fines, utilice indebidamente las Tecnologías de la Información y la Comunicación para la
+obtención de cualquier bien o servicio, realice cualquier tipo de pago sin erogar o asumir obligación
+alguna por la contraprestación obtenida, será sancionado con prisión de tres a ocho años.
+Provisión Indebida de Bienes o Servicios
+Art. 18.- El que sin justificación, a través de un sistema informático utilice tarjetas inteligentes
+o instrumentos similares destinados a los mismos fines, cuya vigencia haya caducado o haya sido revocada
+por la institución que la emitió, o que se haya obtenido con el fin de suplantar la identidad contenida en
+dichas tarjetas inteligentes, será sancionado con prisión de cinco a ocho años.
+El que falsifique o altere los datos de las tarjetas inteligentes o instrumentos similares, con el fin
+de proveer a quien los presente, dinero, bienes o servicios, o cualquier otro objeto de valor económico,
+la sanción aumentará hasta una tercera parte del máximo de la pena prevista en el inciso anterior.
+
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+8
+
+Alteración, Daño a la Integridad y Disponibilidad de los Datos
+Art. 19.- El que violando la seguridad de un sistema informático destruya, altere, duplique,
+inutilice o dañe la información, datos o procesos, en cuanto a su integridad, disponibilidad y
+confidencialidad en cualquiera de sus estados de ingreso, procesamiento, transmisión o almacenamiento,
+será sancionado con prisión de tres a seis años.
+Interferencia de Datos
+Art. 20.- El que interfiera, obstruya o interrumpa el uso legítimo de datos o los produzca nocivos
+e ineficaces, para alterar o destruir los datos de un tercero, será sancionado con prisión de tres a seis
+años.
+Si alguna de las conductas descritas en el inciso anterior recae sobre datos, documentos,
+programas o sistemas informáticos públicos o sobre datos destinados a la prestación de servicios de salud,
+de comunicaciones, sistemas bancarios, entidades financieras, de provisión y transporte de energía, de
+medios de transporte u otro servicio público, la sanción de prisión será de cinco a ocho años.
+Interceptación de Trasmisiones entre Sistemas de las Tecnologías de la Información y la
+Comunicación
+Art. 21.- La persona que sin justificación intercepte por medios tecnológicos cualquier transmisión
+hacia, desde o dentro de un sistema informático que no está disponible al público; o las emisiones
+electromagnéticas que están llevando datos de un sistema informático, será sancionada con prisión de
+siete a diez años.
+Hurto de Identidad
+Art. 22.- El que suplantare o se apoderare de la identidad de una persona natural o jurídica por
+medio de las Tecnologías de la Información y la Comunicación, será sancionado con prisión de tres a cinco
+años.
+Si con la conducta descrita en el inciso anterior se daña, extorsiona, defrauda, injuria o amenaza
+a otra persona para ocasionar perjuicio u obtener beneficios para si mismo o para terceros y el
+apoderamiento recae sobre datos personales, confidenciales o sensibles definidos en la Ley de Acceso
+a la Información Pública, será sancionado con prisión de cinco a ocho años.
+Divulgación No Autorizada
+Art. 23.- El que sin autorización da a conocer un código, contraseña de acceso o cualquier otro
+medio de acceder a un programa o datos almacenados en un equipo o dispositivo tecnológico, con el fin
+de lucrarse así mismo, a un tercero o para cometer un delito, será sancionado con prisión de cinco a ocho
+años.
+Igual sanción tendrá el que sin autorización revele o difunda los datos o información, contenidos
+en un sistema informático que utilice las Tecnologías de la Información y la Comunicación o en cualquiera
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+9
+
+de sus componentes, con el fin de obtener algún tipo de beneficio para sí o para otro.
+Si alguna de las conductas descritas en los incisos anteriores pusieren en peligro la seguridad del
+Estado, la confiabilidad de la operación de las instituciones afectadas o resultare algún daño para las
+personas naturales o jurídicas, como consecuencia de la revelación de las informaciones de carácter
+reservado, será sancionado con prisión de seis a doce años.
+Utilización de Datos Personales
+Art. 24.- El que sin autorización utilice datos personales a través del uso de las Tecnologías de
+la Información y la Comunicación, violando sistemas de confidencialidad y seguridad de datos, insertando
+o modificando los datos en perjuicio de un tercero, será sancionado con prisión de cuatro a seis años.
+La sanción aumentará hasta en una tercera parte del máximo de la pena prevista en el inciso
+anterior a quien proporcione o revele a otro, información registrada en un archivo o en un banco de datos
+personales cuyo secreto estuviere obligado a preservar.
+Obtención y Transferencia de Información de Carácter Confidencial
+Art. 25.- El que deliberadamente obtenga y transfiera información de carácter confidencial y que
+mediante el uso de esa información vulnere un sistema o datos informáticos apoyándose en cualquier
+clase de las Tecnologías de la Información y la Comunicación, incluidas las emisiones electromagnéticas,
+será sancionado con prisión de cinco a ocho años.
+Revelación Indebida de Datos o Información de Carácter Personal
+Art. 26.- El que sin el consentimiento del titular de la información de carácter privado y personal
+revele, difunda o ceda en todo o en parte, dicha información o datos a los que se refiere el presente
+artículo, sean éstos en imágenes, video, texto, audio u otros, obtenidos por alguno de los medios
+indicados en los artículos precedentes, será sancionado con prisión de tres a cinco años.
+Si alguna de las conductas descritas en el inciso anterior, se hubiese realizado con ánimo de lucro,
+la comisión de otro delito o se difunda material sexual explícito en perjuicio de un tercero, será sancionado
+con prisión de cuatro a ocho años.
+Se impondrá el límite máximo de la pena del inciso anterior, aumentado hasta en una tercera parte,
+si alguna de las conductas descritas en el inciso primero del presente artículo, recae sobre datos
+personales confidenciales o sensibles definidos en la Ley de Acceso a la Información Pública.
+Acoso a través de Tecnologías de la Información y la Comunicación
+Art. 27.- El que realice conducta sexual indeseada por quien la recibe, que implique frases, señas
+u otra conducta inequívoca de naturaleza o contenido sexual, por medio del uso de las Tecnologías de
+la Información y la Comunicación, será sancionado con prisión de cuatro a seis años.
+
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+10
+
+CAPÍTULO IV
+DELITOS INFORMÁTICOS CONTRA NIÑAS, NIÑOS Y
+ADOLESCENTES O PERSONAS CON DISCAPACIDAD
+Pornografía a través del Uso de Tecnologías de Información y la Comunicación
+Art. 28.- El que por cualquier medio que involucre el uso de las Tecnologías de la Información
+y la Comunicación fabrique, transfiriera, difunda, distribuya, alquile, venda, ofrezca, produzca, ejecute,
+exhiba o muestre material pornográfico, sexual entre niñas, niños y adolescentes o personas con
+discapacidad, será sancionado con prisión de cuatro a ocho años.
+Quien no advierta de forma visible el contenido del material pornográfico o sexual que se
+transmita mediante el uso de las Tecnologías de la Información y la Comunicación, no apto para niñas,
+niños, adolescentes o personas con discapacidad, será sancionado con prisión de tres a cinco años.
+Utilización de Niñas, Niños, Adolescentes o Personas con Discapacidad en Pornografía a través
+del Uso de las Tecnologías de la Información y la Comunicación
+Art. 29.- El que por cualquier medio que involucre el uso de las Tecnologías de la Información
+y la Comunicación produzca, reproduzca, distribuya, publique, importe, exporte, ofrezca, financie, venda,
+comercie o difunda de cualquier forma, imágenes, videos o exhiba en actividades sexuales, eróticas o
+inequívocas de naturaleza sexual, explícitas o no, reales o simuladas, o utilice la voz de niñas, niños,
+adolescentes o personas con discapacidad, será sancionado con prisión de ocho a doce años.
+Igual sanción se impondrá a quien por medio de las Tecnologías de la Información y la
+Comunicación organice o participe en espectáculos públicos o privados, en los que se hace participar a
+las personas señaladas en el inciso anterior, en acciones pornográficas o eróticas.
+Adquisición o Posesión de Material Pornográfico de Niñas, Niños, Adolescentes o Personas
+con Discapacidad a través del Uso de las Tecnologías de la Información y la Comunicación
+Art. 30.- El que adquiera para sí o para un tercero a través de cualquier medio que involucre
+el uso de las Tecnologías de la Información y la Comunicación, o posea material pornográfico en el que
+se haya utilizado a una niña, niño, adolescente o persona con discapacidad o su imagen para su
+producción, será sancionado con prisión de dos a cinco años.
+Igual sanción se aplicará al que posea en dispositivos de almacenamiento de datos informáticos
+o a través de cualquier medio que involucre el uso de las Tecnologías de la Información y la Comunicación,
+material pornográfico en el que se haya utilizado a una niña, niño, adolescente o persona con discapacidad
+o su imagen para su producción.
+Corrupción de Niñas, Niños, Adolescentes o Personas con Discapacidad a través del Uso de
+las Tecnologías de la Información y la Comunicación
+Art. 31.- El que mantenga, promueva o facilite la corrupción de una niña, niño, adolescente o
+persona con discapacidad con fines eróticos, pornográficos u obscenos, por medio de las Tecnologías de
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+11
+
+la Información y la Comunicación, aunque la niña, niño, adolescente o persona con discapacidad lo
+consienta, será sancionado con prisión de ocho a doce años.
+Igual sanción se impondrá a quien haga propuestas implícitas o explícitas para sostener encuentros
+de carácter sexual o erótico, o para la producción de pornografía a través del uso de las Tecnologías de
+la Información y la Comunicación para sí, para otro o para grupos, con una niña, niño, adolescente o
+persona con discapacidad.
+Acoso a Niñas, Niños y Adolescentes o Personas con Discapacidad a través del Uso de las
+Tecnologías de la Información y la Comunicación
+Art. 32.- Quien atormente, hostigue, humille, insulte, denigre u otro tipo de conducta que afecte
+el normal desarrollo de la personalidad, amenace la estabilidad psicológica o emocional, ponga en riesgo
+la vida o la seguridad física, de un niño, niña, adolescente o persona con discapacidad, por medio del uso
+de las Tecnologías de la Información o Comunicación, será sancionado con prisión de dos a cuatro años.
+La pena se agravará con prisión de cuatro a ocho años, para quien realice conducta que implique
+frases, señas u otra acción inequívoca de naturaleza o contenido sexual contra una niña, niño, adolescente
+o persona con discapacidad, por medio del uso de las Tecnologías de la Información y la Comunicación.
+Condiciones Agravantes Comunes
+Art. 33.- Los delitos referidos en el presente Capítulo, serán sancionados con la pena máxima
+correspondiente, aumentada hasta en una tercera parte del máximo establecido de la pena y la
+inhabilitación del ejercicio de su profesión durante el tiempo que dure la condena, si cualquiera de las
+acciones descritas fuera realizada por:
+a)
+
+Ascendientes, descendientes, hermanos, adoptantes, adoptados, cónyuges, conviviente
+y familiares hasta el cuarto grado de consanguinidad y segundo de afinidad;
+
+b)
+
+Funcionarios, empleados públicos y municipales, autoridad pública y agente de autoridad;
+
+c)
+
+La persona encargada de la tutela, protección o vigilancia de la víctima; y,
+
+d)
+
+Toda persona que prevaliéndose de la superioridad originada por relaciones de confianza,
+doméstica, educativa, de trabajo o cualquier otra relación.
+
+CAPÍTULO V
+DELITO CONTRA EL ORDEN ECONÓMICO
+
+Suplantación en Actos de Comercialización
+Art. 34.- El que sin autorización y a nombre de un tercero, mediante el uso de las Tecnologías
+de la Información y la Comunicación, venda o comercialice bienes o servicios, suplantando la identidad
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+
+12
+
+del productor, proveedor o distribuidor autorizado, será sancionado con prisión de tres a cinco años.
+La conducta descrita en el inciso anterior se agravará con pena de prisión de cuatro a seis años,
+cuando la venta o comercialización se trate de medicamentos, suplementos o productos alimenticios,
+bebidas o cualquier producto de consumo humano.
+
+TÍTULO III
+DISPOSICIONES FINALES
+
+Otras Responsabilidades
+Art. 35.- Las sanciones previstas en la presente Ley, serán aplicables sin perjuicio de otras
+responsabilidades penales, civiles o administrativas en que se incurra.
+Para la deducción de la responsabilidad civil se estará a lo dispuesto en la normativa aplicable.
+Vigencia
+Art. 36.- El presente Decreto entrará en vigencia ocho días después de su publicación en el Diario
+Oficial.
+DADO EN EL SALÓN AZUL DEL PALACIO LEGISLATIVO: San Salvador, a los cuatro días del mes
+de febrero del año dos mil dieciséis.
+LORENA GUADALUPE PEÑA MENDOZA,
+PRESIDENTA.
+GUILLERMO ANTONIO GALLEGOS NAVARRETE,
+PRIMER VICEPRESIDENTE.
+
+ANA VILMA ALBANEZ DE ESCOBAR,
+SEGUNDA VICEPRESIDENTA.
+
+JOSÉ SERAFÍN ORANTES RODRÍGUEZ,
+TERCER VICEPRESIDENTE.
+
+NORMAN NOEL QUIJANO GONZÁLEZ,
+CUARTO VICEPRESIDENTE.
+SANTIAGO FLORES ALFARO,
+QUINTO VICEPRESIDENTE.
+
+GUILLERMO FRANCISCO MATA BENNETT,
+PRIMER SECRETARIO.
+MARIO ALBERTO TENORIO GUERRERO,
+TERCER SECRETARIO.
+JACKELINE NOEMÍ RIVERA ÁVALOS,
+QUINTA SECRETARIA.
+
+DAVID ERNESTO REYES MOLINA,
+SEGUNDO SECRETARIO.
+REYNALDO ANTONIO LÓPEZ CARDOZA,
+CUARTO SECRETARIO.
+JORGE ALBERTO ESCOBAR BERNAL,
+SEXTO SECRETARIO.
+
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+ASAMBLEA LEGISLATIVA - REPUBLICA DE EL SALVADOR
+____________________________________________________________________
+ABILIO ORESTES RODRÍGUEZ MENJÍVAR,
+SÉPTIMO SECRETARIO.
+
+13
+
+JOSÉ FRANCISCO MERINO LÓPEZ,
+OCTAVO SECRETARIO.
+
+CASA PRESIDENCIAL: San Salvador, a los veintiséis días del mes de febrero del año dos mil
+dieciséis.
+PUBLÍQUESE,
+Salvador Sánchez Cerén,
+Presidente de la República.
+Mauricio Ernesto Ramírez Landaverde,
+Ministro de Justicia y Seguridad Pública.
+
+D. O. N° 40
+Tomo N° 410
+Fecha:
+26 de febrero de 2016
+SV/ielp
+30-03-2016
+
+___________________________________________________________________
+INDICE LEGISLATIVO
+
+

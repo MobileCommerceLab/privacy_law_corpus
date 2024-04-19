@@ -1,0 +1,975 @@
+REPUBLIC OF ALBANIA
+THE ASSEMBLY
+LAW
+No. 9887 dated 10.03.2008
+As amended by the Law No. 48/2012, date 26.04.2012
+Official translation of the text published
+in the Official Journal No.53, date 16.05. 20121
+ON PROTECTION OF PERSONAL DATA
+Based on articles 78 and 83 point 1 of the Constitution,
+upon a proposal of the Council of Ministers,
+THE ASSEMBLY
+OF THE REPUBLIC OF ALBANIA
+DECIDED:
+1
+The translation was comissioned by the EU funded Project “Strengthening
+of the Data Protection Commissioner office in Albania, for alignment with EU
+standards”
+
+2
+
+3
+
+CHAPTER I
+GENERAL PROVISIONS
+
+Article 1
+The object
+This law aims at defining the rules for the protection
+and legal processing of the personal data.
+
+Article 2
+General Principle
+The legal processing of the personal data shall respect
+and guarantee the fundamental rights and freedoms of
+persons and in particular their right to privacy.
+
+Article 3
+Definitions
+For the purposes of this law, the following terms have
+these meanings:
+1. “Personal data” shall mean any information relating
+to an identified or identifiable natural person, directly or
+indirectly, in particular by reference to an identification
+number or to one or more factors specific to his physical,
+physiological, mental, economic, cultural or social identity.
+4
+
+5
+
+2. “Judicial record” is any data referring to decisions
+in criminal, civil, administrative filed or to documentations
+of criminal and civil registry, administrative sanction, etc.
+3 “Anonymous data” is any data which in its origin or
+during its processing may not be associated to any identified
+or identifiable individual.
+4.“Sensitive data” shall mean any piece of information
+related to the natural person in referring to his racial or
+ethnic origin, political opinions, trade union membership,
+religious or philosophical beliefs, criminal prosecution, as
+well as with data concerning his health and sexual life.
+5. “Controller” shall mean the natural or legal person,
+public authority, agency or any other body, which alone or
+jointly with others determines the purposes and means of
+processing of personal data, in compliance with the laws
+and secondary legal acts applicable, and who is responsible
+for the fulfilment of obligations defined by this law.
+6. “Personal data subject” shall mean any natural person, whose personal data are being processed.
+7. “Processor” shall mean a natural or legal person,
+public authority, agency or other body which processes
+personal data on behalf of the Controller.
+8. “Filing system” shall mean any structured set of
+personal data, which are accessible according to specific
+criteria, whether centralized, decentralized or dispersed on
+a functional or geographical basis.
+9 “Means of processing” shall mean automatic, semi
+automatic and mechanic means which process personal data
+10 “Electronic instruments” shall mean the computer,
+computer programmes and any other electronic or automatic
+means used for the processing.
+11. “Direct marketing” shall mean the communication
+of the promotional material, by every mean and way, using
+personal data of legal or natural persons, agencies or other
+entities with or without interference.
+
+12. “Processing of personal data” shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, transmission, dissemination or otherwise making available, alignment or combination, photographing, reflection, entering, filling in, selection, blocking, erasure or destruction, even though they are
+not recorded in a data base.
+13. “Recipient” shall mean a natural or legal person,
+public authority, agency or any other body to whom data
+are disclosed, whether a third party or not. The authorities
+which may receive data in the framework of a particular
+inquiry shall not be regarded as recipients.
+14. “Person in charge”, shall mean the individual who
+is authorised by the head of the institution or the competent
+person to perform processing actions.
+15. “Third party” shall mean any natural or legal person, public authority, agency or any other body other than
+the data subject, the controller, the processor and the persons who, under the direct authority of the controller or the
+processor, are authorized to process the data.
+16. “Transmission” shall mean the transfer of personal
+data to recipients.
+17 “Supervision” shall mean the careful follow-up of
+processing of personal data by all the controllers and processors through collaboration, control, administrative investigation and inspection in order to prevent violations and
+if appropriate, to impose administrative sanctions so as to
+ensure the enforcement of orders, instructions and recommendations of the Commissioner, in compliance with the
+fundamental human rights and freedoms.
+
+6
+
+7
+
+18. “Monitoring of personal data” shall mean the continuous, comprehensive, effective and planned work of the
+institutions in the following aspects: leadership, management, organisation, assistance, cooperation, awareness and
+familiarity meetings, guidance, reporting to the Parliament,
+publication, various explanations, replying to complaints,
+activities, seminars and lectures, documentation, drafting of
+rules, agreements, contracts, instructions, decisions, recommendations, control of execution of fines, creation and
+opening of records, as well as other issues related to regular
+exercising of activity.
+19. “Communication” means communication of personal data to one or more subjects different from the interested
+person, representative of the head of the institution in the
+territory of the country, competent persons and persons in
+charge, in any form, even by making it available or providing consultation.
+20. “Disclosure” shall mean the communication of information on personal data to undefined parties, in any form,
+even by making it available or accessible.
+21. “Blocking” means the retention of personal data
+while suspending any other processing operation.
+22. “International transfer” shall mean the transfer of
+personal data to recipients in a foreign state.
+23. “Automated decision making” shall mean a kind of
+assessment of individuals, carried out entirely automatically,
+without an individual’s intervention.
+24. “Data subjects consent” shall mean any indication
+in writing, freely given and fully informed on the reason for
+which his data will be processed, which signifies the data
+subject agreement that personal data relating to him to be
+processed.
+
+25. “Historical purposes” shall mean processing for study, investigation, research and documentation of persons,
+facts and past circumstances.
+26. “Statistical purposes” shall mean processing for statistical investigation or statistical results, including through
+statistical information systems.
+27. “Scientific purposes” shall mean processing for
+systematic study and investigation in order to develop scientific knowledge in a particular area.
+
+8
+
+9
+
+Article 4
+Scope
+1. This law shall apply to the processing of personal
+data, wholly or partly by automatic means and to the processing by other means of a personal data stored in a filing
+system, or are intended to form part of a filing system.
+2. This law shall apply to the processing of personal
+data by:
+a) Controllers established in the Republic of Albania;
+b) Diplomatic missions or consular offices of the Albanian state;
+c) Controllers who are not established in the Republic
+of Albania, making use of any equipment situated in the
+Republic of Albania;
+3. In circumstances stipulated in point 2 (c) of this article, the controller designates a representative established in
+the territory of Albania. Stipulations of this law applying to
+controllers are also applicable to their representatives.
+3/1. This law applies also to the public authorities that
+process personal data in the areas stipulated under article 6,
+paragraph 2 of this law
+
+4. This law is not applicable to processing of data:
+a) by a natural persons for purely personal or family
+purposes;
+b) only in case the information is provided about public
+officials or public (state) administration servants, reflecting
+their public, administrative activities or issues related to
+their duties.
+
+CHAPTER II
+PROCESSING OF PERSONAL DATA
+
+Article 5
+Protection of personal data
+1. Protection of personal data is based on:
+a) a processing that is fair and lawful;
+b) a collection for specific, clearly defined and legitimate
+purposes and shall be processed in a way that is compatible
+with these purposes;
+c) adequate data, which are relevant to the purpose of
+their processing and not excessive in relation to such purpose;
+ç) accurate data, and where necessary, updated; every
+reasonable step must be taken to ensure that data which are
+inaccurate or incomplete, having regard to the purposes
+for which they were collected or for which they are further
+processed, are erased or rectified;
+d) keeping data in a form that allows the identification
+of data subjects for no longer than it is necessary for the
+purpose for which they were collected or further processed;
+2. The controller is in charge for applying these requirements to all kinds of processing of data, be it automatically
+or by other means.
+
+10
+
+11
+
+Article 6
+Legal criteria for processing
+1. The personal data may be processed only if:
+a) personal data subject has given his consent;
+b) processing is necessary for the performance of a
+contract to which the data subject is party or in order to negotiate or amend a draft/contract at the request of the data
+subject;
+c) in order to protect the vital interests of the data subject;
+ç) to comply with a legal obligation of the controller;
+d) for the performance of a legal task of public interest
+or in exercise of powers of the controller or of a third party
+to whom the data are disclosed;
+dh) processing is necessary for the protection of the legitimate rights and interests of the controller, the recipient or
+any other interested party. However, in any case, processing
+of personal data cannot be in clear contradiction with the
+data subject right to protection of personal life and privacy.
+2. Processing of personal data in the framework of crime
+prevention and prosecution activities, in cases of a criminal
+offence against the public order and other violations in the
+field of criminal law, defence and national security, shall be
+performed by official authorities as stipulated in the law.
+3. In the event, the controller or processor carries out
+personal data processing for the purpose of offering business
+opportunities or services provided that the data were taken
+from a public list of data.
+The controller or processor cannot process further the
+data specified in this paragraph, if the data subject has expressed his disagreement or has objected their further processing. No additional personal data is attached to the data
+specified above without the consent of the data subject.
+12
+
+4. The controller is allowed to keep in its own filing
+system the personal data even after the data subject has
+objected proceesing under paragraph 3 of this Article. Such
+data can be used only if the data subject gives his content.
+5. Collection of personal data which is related to a data
+subject solely for reasons of direct marketing is allowed
+only if the data subject has given his explicit consent.
+
+Article 7
+Processing of sensitive data
+1. Except for cases specified in point 2 and 3 of this
+Article, processing of data that reveal racial or ethnic origin, political beliefs, trade unions membership, religious or
+philosophical beliefs, criminal convictions and health and
+sexual life is prohibited.
+2. Processing of sensitive data shall be done only if:
+a) the data subject has given his consent, which may
+be revoked at any given moment making illegal any further
+processing of data;
+b) it is in the vital interest of the data subject or another
+person and the data subject is physically or mentally incapable of giving his/her consent;
+c) it is authorized by the responsible authority for an
+important public interest, under adequate safeguards;
+ç) It is related to data which are manifestly made public
+by the data subject or is necessary for the exercise or defence
+of legal rights;
+d) data are processed for historic, scientific or statistical
+research, under adequate safeguards;
+dh) data are required for the purposes of preventive
+medicine, medical diagnosis, the provision of health care,
+treatment or management of health care services and data
+13
+
+are used by medical personnel or other persons with the
+obligation to preserve confidentiality;
+e) data are processed by non-profit political, philosophical or religious organisations and trade unions for purposes of their legitimate activity, only for members, sponsors, or other persons related to their activity. These data
+shall not be disclosed to a third party without the consent of
+the data subject unless otherwise stipulated by law.
+ë) data processing is necessary for the purpose of accomplishing a legal obligation and specific rights of the controller in the field of employment in compliance with the
+Labour Code.
+(Point 3 abolished)
+
+Article 8
+International transfer
+1. The international transfer of personal data is done
+with recipients from states which have an adequate level of
+personal data protection. The level of personal data protection
+for a state is established by assessing all circumstances
+related to processing, nature, purpose and duration of
+processing, country of origin and final destination, legal
+provisions and security standards in force in the recipient
+state. States that have an adequate level of data protection
+are assessed under a decision of the Commissioner.
+2. International transfer of personal data with a state that
+does not have an adequate level of personal data protection
+may be done when:
+a) it is authorised by international acts ratified by the
+Republic of Albania and are directly applicable;
+b) data subject has given his/her consent for the international transfer;
+14
+
+c) the transfer is necessary for the performance of a
+contract between the data subject and the controller or for
+the implementation of pre-contractual measures taken in
+addressing the data subject’s request, or the transfer is necessary for the conclusion or performance of a contract between the controller and a third party, in the interest of the
+data subject;
+ç) it is a legal obligation of the controller;
+d) it is necessary for protecting vital interests of the
+data subject;
+dh) it is necessary or constitutes a legal requirement
+over an important public interest or for exercising and protecting a legal right;
+e) transfer is done from a register that is open for consultation and provides information to the general public.
+3. Exchange of personal data to the diplomatic representations of foreign governments or international institutions in the Republic of Albania shall be considered an
+international transfer of data.
+					
+
+Article 9
+International transfer of data that need to be
+authorized
+
+1. In cases other than those provided for in Article 8
+herein, the international transfer of personal data with a
+state that does not have an adequate level of data protection, shall be carried out upon an authorization from the
+Commissioner, if adequate safeguards are foreseen with respect to the protection of the privacy and fundamental human rights and freedoms, as well as regarding the exercise
+of the corresponding rights.
+15
+
+2. The Commissioner, after making an assessment, under the specification provided in point 1 of this Article and
+point 1 of Article 8 may give the authorisation for transfer
+of personal data to the recipient State by defining conditions and obligations.
+3. The Commissioner issues instructions in order to
+allow certain categories of personal data international transfer to a state that does not have an adequate level of personal data protection. In these cases, the controller is exempted from the authorization request.
+4. The controller shall submit a request for authorisation
+to the Commissioner prior to the data transfer. In the authorization request, the controller shall guarantee the observance of the interests of the data subject to protection of
+confidentiality outside the Republic of Albania.
+
+CHAPTER III
+SPECIAL DATA PROCESSING
+Article 10
+Processing for historical, scientific and
+statistical research
+
+1. Personal data collected for any purpose, may be
+further processed for historic, scientific or statistical research purposes provided that the data is not processed in order
+to take measures or decisions related to an individual.
+2. The disclosure of sensitive data for scientific research
+shall take place only in case of an important public interest.
+Personal data shall be used exclusively by individuals who
+are bound by confidentiality.
+3. When data processing is made in a manner that
+allows the identification of the data subject, the data should
+immediately be encrypted in order for the subjects to be no
+longer identifiable. Encrypted personal data shall be used
+exclusively by individuals bound by confidentiality.
+
+Article 11
+
+Processing of personal data and freedom
+of expression
+
+1. The Commissioner defines under a specific instruction the terms and conditions when processing for journa16
+
+17
+
+listic, literature or artistic purposes may be exempted from
+obligations deriving under articles 5, 6, 7, 8, 18, and 21 of
+this law.
+2. The exemptions, under this article, may be allowed
+up to the extent that they reconcile the right to protect personal data with the ruled governing the right to freedom of
+expression.
+3. The actions of the controller or processor being in
+objection with the above points and the code of ethics shall
+consist in administrative infraction.
+
+CHAPTER IV
+RIGHTS OF DATA SUBJECT
+Article 12
+Right to access
+1. Every data subject is entitled to obtain free of charge
+from the controller upon his written request:
+a) confirmation whether or not his personal
+data are being processed, information on the purposes
+of processing, the categories of processed data and the
+recipients or categories of recipients to whom personal
+data are disclosed;
+b) communication to him in a comprehensible form
+of the data undergoing processing and of any available
+information as to their source;
+c) in case of automated decisions taken based on
+Article 14 herein, information about the logic applied in the
+decision-making;
+The information about the data shall be communicated
+in the form they were at the time when the request was
+made.
+2. Within 30 days upon receipt of the request, the controller informs the data subject or explains the reasons why
+the information cannot be provided.
+3. The right to access, as provided for in section 1 herein,
+shall be exercised in respect of the constitutional principles
+of freedom of speech and information, freedom of press
+
+18
+
+19
+
+and professional confidentiality and it may be restricted if
+it violates national security interests, the foreign policy, the
+economic and financial interests of the state, prevention and
+prosecution of criminal offences.
+4. The right to access cannot be exercised in cases
+provided for in Article 10 (1) herein.
+5. If access is denied on arguments of violation of
+national security interests, foreign policy, economic and
+financial interests of the state, prevention and prosecution
+of criminal offences or of the freedom of speech and information or press freedom, the data subject may require from
+the Commissioner to check on the exemption for the concrete case. The Commissioner shall inform the data subject
+about the undertaken measures.
+
+Article 13
+The right to request blocking,
+rectification and erasure
+
+1. Every data subject has the right to request blocking,
+rectification or erasure of his data, free of charge whenever
+he is informed that data relating to him are irregular, untrue,
+and incomplete or have been processed and collected in
+contradiction with the provisions of this law.
+2. Within 30 days from receipt of the data subject request, the controller shall notify the data subject on the lawful
+processing of the data, whether the blocking, rectification
+or erasure has been carried out or not.
+3. When the controller does not carry out the blocking,
+rectification or erasure of the data requested, the data subject
+has the right to file a complaint with the Commissioner.
+
+20
+
+Article 14
+Automated decision
+1. Each person shall be entitled not to be subject to
+decisions, that cause legal effects on him or that influence
+him significantly and the decision is based only on the automatic processing of the data, which aim at assessing certain
+personal aspects related to him, particularly his efficiency at
+work, his credibility or behaviour.
+2. A person may be subject to a decision taken under
+point 1 herein, when the decision:
+(a) is taken in the course of entering into or performance
+of a contract, provided the request for entering into or the
+performance of the contract, lodged by the data subject, has
+been satisfied, or if there are adequate measures to safeguard his legitimate interests, such as the possibilities allowing him to point out his views;
+(b) is authorized by a law which also lays down measures
+to safeguard the data subject’s legitimate interests.
+
+Article 15
+The right of the data subject to refuse
+1. The data subject, pursuant to the law, has the right
+to object, at any time, free of charge the processing of data
+related to him carried out under letter “d” and “dh” of article
+6 of this Law, unless otherwise stipulated by the law.
+2. The data subject has the right to demand the controller
+not to start processing, or if processing has started, to stop
+processing of personal data related to him for the purposes
+of direct marketing and to be informed in advance before
+personal data are disclosed for first time for such purpose.
+
+21
+
+Article 16
+The right to complain
+1. Every person who claims that his rights, freedoms
+and legal interests concerning his personal data have been
+violated shall have the right to complain or to notify the
+Commissioner and to request his intervention to remedy
+the infringed right. Following this complaint, in accordance
+with the Code of Civil Procedure, the data subject may file
+a complaint in court.
+2. When the data subject has filed a complaint, the
+controller shall have no right to make any changes to the
+personal data until a final decision ruled.
+
+Article 17
+Compensation of the damage
+Everyone who has suffered damage due to an unlawful processing of personal data is entitled to compensation, pursuant to the rules defined by the Civil Code.
+
+22
+
+CHAPTER V
+OBLIGATIONS OF THE CONTROLLER
+AND PROCESSOR
+
+Article 18
+Obligation to Inform
+1. The controller, when collecting personal data, shall
+inform the data subject on the scope and purpose for which
+personal data are being processed, the person who is going
+to process the data, on the mean of processing, except for
+when the data subject is already aware of such information.
+The controller shall inform the data subject on the right to
+access and the right to rectify the data concerning him.
+2. In case the controller processes personal data obtained from the data subject, it is obliged to inform the data
+subject whether the provision of the personal data is obligatory or optional. If the data subject, under a legal or secondary act, is obliged to provide personal data for processing, the controller informs him on this fact as well as
+on the consequences of refusal to provide personal data.
+3. The controller is not obliged to provide information
+and to inform when personal data are not obtained by the
+data subject, if:
+a) it processes personal data exclusively for the purpose
+of historical, statistical and scientific research and if provision of such information is not possible or demands disproportionate efforts;
+23
+
+b) it is mandatory for the controller to process personal
+data on grounds of a legal provision;
+c) it is processing data made public;
+ç) it processes personal data obtained on grounds of
+consent of the data subject.
+4. The controller, while processing personal data pursuant to letter letter “dh” point 1 of Article 6 and letter “ç”
+point 2 of Article 7, regarding the exercise or protection of
+legitimate rights, is obliged to inform data subject on processing of personal data related to him.
+5. The duty to inform, regulated under this Article, may
+be performed by the processor on behalf of the controller.
+
+Article 19
+
+Obligation to rectify and erase
+1. Upon its own initiative or upon the request of the
+data subject, the controller shall carry out the blocking, rectification or erasure of personal data, when it ascertains
+that personal data are inaccurate, untrue, and incomplete or
+have been processed in contradiction with the provisions of
+this law.
+2. Within 30 days from receipt of the request by the
+data subject, the controller informs the data subject whether
+the blocking, rectification or erasure has been carried out.
+3. The controller informs the recipient of personal data
+on the rectification or erasure of the personal data transmitted before the rectification or erasure.
+
+24
+
+Article 20
+Obligations of the Processor
+1. The controllers may recruit processors to process
+personal data. The processor shall guarantee lawful and safe
+use of data. All personal data processors shall have the following obligations:
+a) to process data only according to the instructions of
+the controller; not to transmit data unless so instructed by
+the controller;
+b) to take all required safety measures, in compliance
+with this law and to employ operators who are bound by
+confidentiality;
+c) to create in agreement with the controller the necessary technical and organisational requirements for the fulfilment of the controller’s obligations to ensure the protection of data subjects’ rights;
+ç) to hand over to the controller after the completion
+of the processing service all the results of processing and
+documentation containing data or to keep or destroy them
+on controller’s request;
+d) to make available to the controller all information
+necessary to control the compliance with the obligations
+stemming from the abovementioned provisions.
+2. Obligations of point 1 are stipulated in the written
+contract entered into between the Controller and Processor.
+
+25
+
+Article 22
+Content of notification
+
+CHAPTER VI
+NOTIFICATION
+
+Article 21
+Responsibility to notify
+1. Every controller shall notify the Commissioner about
+the processing of personal data for which he is responsible.
+The notification shall be made before the controller processes the data for the first time, or when a change of the processing notification status is required, under Article 22 of
+this law.
+2. The processing of personal data the sole purpose of
+which is to keep a record, which in accordance with the
+law or sub-legal acts provides information for the public
+in general, is exempted from the obligation to notify the
+processing of data.
+3. Data that are processed for the purpose of protection
+of the constitutional institutions, interests of national security, foreign policy, economic or financial interests of the
+state, prevention or prosecution of the criminal offences are
+exempted from the obligation to notify.
+4. Other cases on which notification is not necessary
+are established under a decision of the Commissioner.
+
+The notification shall contain the following:
+a) name and address of the controller;
+b) purposes of processing of personal data;
+c) categories of data subjects and the categories of the
+personal data;
+ç) recipients and the categories of recipients of the personal data;
+d) the proposal on the internacional transfer that the
+controller aims to carry out;
+dh) a general description of the measures for the security
+of personal data.
+
+Article 23
+
+Examination procedure
+The Commissioner examines all notifications and when
+a notification is insufficient the Commissioner shall order
+the controller to complete the notification content specifying a given deadline.
+If the controller does not complete the content of the
+notification within the given deadline, the notification shall
+be considered as not executed.
+
+Article 24
+Prior checking
+1. Authorization by the Commissioner is required for:
+a) processing of sensitive data in accordance with
+Article 7, item 2, letter ‘c’ herein;
+
+26
+
+27
+
+b) processing of personal data in accordance with
+Article 9, item 1, herein;
+2. In cases when the data processing in compliance
+with point 1 herein is authorized by a legal provision, an
+authorization from the Commissioner is not required.
+
+primary or secondary legislation provides information for
+the public in general.
+5. The Commissioner decides on deregistration of
+controller, mainly upon its own request if the purpose or
+purposes for which the notification and registration is made
+cease to exist.
+
+Article 25
+Beginning of processing
+1. The processing of data begins after the notification.
+2. The data processing that requires an authorization in
+accordance with Article 24, item 1 herein, may start only
+following receipt of the authorization.
+
+Article 26
+
+Publication of processing
+1. As regards the data for which an authorization is
+required, a special decision is made and reflected in the register that is administered by the Commissioner and open for
+consultations by any person.
+2. The register shall contain information according to
+Article 22 herein, except for the information according to
+Article 22 and letter ‘dh’ herein, which is not to be published.
+3. The controller exempted from the obligation to notify shall at least make available the data about the name
+and address, the categories of personal data processed, the
+purposes of processing, the categories of recipients. In case
+an international transfer of is intended, the controller is
+obliged to notify to the Commissioner.
+4. This article shall not apply to processing the purpose
+of which is to keep a record, which in accordance with the
+28
+
+29
+
+CHAPTER VII
+SECURITY OF PERSONAL DATA
+
+Article 27
+Measures for the security of personal data
+1. The controller or the processor shall take appropriate organizational and technical measures in order to protect personal data from unlawful or accidental destruction,
+accidental loss, from access or disclosure to unauthorized
+persons, especially when the processing of data takes place
+in a network, as well as from any other unlawful form of
+processing.
+2. The controller shall take the following special security measures:
+a) defines the functions of the organizational units and
+those of the operators as regards the use of data;
+b) data shall be used with the order of authorized
+organizational units or operators;
+c) instructs all operators concerning their obligations,
+in conformity with this law and the internal regulations on
+data protection, including the regulations on data security;
+ç) Prohibits access of unauthorized persons to the
+working facilities of the data controller or processors;
+d) data and programmes shall be accessed only by authorized persons;
+dh) Prohibits access to the filing system and their use
+by unauthorized persons;
+30
+
+e) Operation of the data processing equipment shall
+be carried out upon authorization and every device shall
+be secured with preventive measures against unauthorized
+operation;
+ë) records and documents the alteration, rectification,
+erasure, transfer, etc.
+2.1. The controller is obliged to document the technical
+and organizational measures adjusted and implemented to
+ensure protection of personal data in compliance with the
+law and other legal regulations.
+3. The data recorded shall not be used for different
+purposes which are not compliant with the purpose of collection. Acquaintance with or processing of the data registered in files for a purpose other than the right to enter the
+data shall be prohibited. In case data are used to guarantee
+national security, public security, for prevention or investigation of a criminal offence, or prosecution of the author
+thereof, or of any infringement of ethics for the regulated
+professions, it is exempted from this rule.
+4. Documentation of the data shall be kept for as long as
+it is necessary for the purpose for which they were collected.
+5. The security level shall be in compliance with the
+nature of personal data processing. Detailed rules on data
+security shall be specified by decision of the Commissioner.
+6. Procedures for the administering of the data registration, data entry, their processing and disclosure shall be
+regulated by a decision of the Commissioner.
+
+31
+
+Article 28
+Data Confidentiality
+Controllers, processors and persons who come to know
+the content of the processed data while exercising their
+duty, shall remain under obligation of confidentiality and
+credibility even after termination of their functions. These
+data shall not be disclosed save when otherwise provided
+by law.
+Everyone acting under the authority of the controller or
+the processor shall not process the personal data on which
+he/she has access, without the authorization f the controller,
+unless it is mandatory by law.
+
+CHAPTER VIII
+THE COMMISSIONER FOR THE PERSONAL DATA
+PROTECTION
+
+Article 29
+The Commissioner
+1. The Commissioner for the Protection of Personal
+Data is the independent authority in charge of supervising
+and monitoring the protection of personal data by respecting and guaranteeing the fundamental human rights and
+freedoms in compliance with the law.
+2. The Commissioner is a public legal person.
+3. Information ensured by the Commissioner while exercising his duties shall be used only for supervisory purposes in compliance with the legislation on the protection
+of personal data. The Commissioner shall remain under
+obligation of confidentiality even after termination of his
+functions.
+
+Article 30
+The rights
+1. The Commissioner has the right to:
+a) conduct an administrative investigation, have access
+to personal data processing and collect all necessary information with the view of fulfilling his supervisory obligations;
+32
+
+33
+
+b) order for the blocking, erasure, destruction or suspension of the unlawful processing of personal data;
+c) issue instructions prior to the data processing and
+ensure their publication;
+2. In cases of recurring or intentional serious infringement of law by a controller or processor, especially in cases
+of recurring failure to carry out the Commissioner’s recommendations, he acts in compliance with article 39 herein and
+may report the case publicly in accordance with his duties
+or report it to the Assembly and the Council of Ministers.
+2.1 In case the violation consists in a crime, it makes
+the respective report.
+
+Article 31
+
+Responsibilities
+1. The Commissioner is in charge of:
+a) giving opinions on legal and secondary draft acts related to personal data, as well as projects required to be
+implemented by the controller alone or jointly with others;
+a/1) giving recommendations for the implementation
+of the obligations deriving from the law on protection of
+personal data and assures publication thereof;
+b) authorizing in special cases the use of personal
+data for purposes not designated during the phase of their
+collection by observing the principles of article 5 of this law;
+c) authorizing the international transfer of personal data
+in compliance to article 9 herein;
+ç) issuing guidelines that regulate the length of retention
+of personal data according to their purpose in the activity of
+specific sectors;
+d) ensuring the right to information and the exercise of
+the right to rectify and update data;
+34
+
+dh) authorizing the use of sensitive data in compliance
+with Article 7 point 2 letter ‘c’ herein;
+e) checking the processing of data in conformity with
+the law, ex officio or upon request of a person when such
+a processing is exempted of the right to information and to
+inform the person that the check is carried out and whether
+the process is lawful or not;
+ë) addressing of complaints the data subject related to
+the protection of his/her rights and freedoms, for processing
+of personal data and informing him/her on the settlement of
+the complaint submitted;
+f) issuing guidelines on security measures in the activity
+of specific sectors,
+g) overseeing the execution of penalties;
+gj) encourage the controller to draft the of codes of
+ethics and their assessment;
+h) the publication and explanation of the rights related
+to the data protection and the periodic publication of his
+activities;
+i) cooperating with the supervisory authorities on the
+personal data of foreign states regarding the protection of
+individuals who reside in those states;
+j) representing the supervisory authority in the field of
+personal data protection in the national and international
+events;
+k) exercising other legal obligations.
+2. The Commissioner shall create a register to document
+all notifications and authorizations that he performs in
+exercise of his powers in the field of personal data protection.
+3. The Commissioner shall submit an annual report to
+the Assembly and reports in front of the Assembly when
+asked to do so. In addition he may ask to the Assembly to
+be heard for issues that he deems to be important.
+
+35
+
+Article 32
+Obligation to Cooperate
+
+Article 35
+Election Criteria
+
+1. Public and private institutions shall collaborate with
+the Commissioner by providing all the information it requires for the fulfilment of duties, and shall notify the Commissioner on the implementation of given recommendations immediately upon termination of the deadlines assigned thereto.
+2. The Commissioner shall have the right to access
+computer and filing systems that process personal data and
+all the documentation related to their processing and transferring, with the view of performing his rights and duties as
+stipulated in the law.
+
+Every Albanian citizen may be elected for the position
+of Commissioner if he/she meets the following criteria:
+a) University degree in law;
+b) breadth of knowledge and extinguished activities in
+the field of human rights and fundamental freedoms;
+c) outstanding professional skills and a clean ethic and
+moral profile;
+ç) not less than 10 years of work experience as a lawyer;
+d) has not been convicted for a criminal offence by a
+court final decision;
+dh) no disciplinary measures taken to remove him from
+duty or from the civil service.
+
+Article 33
+
+Election and term of office
+The Commissioner shall be elected by the Assembly
+upon a proposal of the Council of Ministers for a 5 year
+term eligible for re-election.
+
+Article 34
+Incompatibility of the function
+The function of the Commissioner shall be incompatible
+with every other state function, affiliation in political parties
+and partaking in their activities, with every other profitable
+activity, save teaching.
+
+36
+
+Article 36
+Termination of the mandate
+1. The mandate of the Commissioner shall have an early termination when:
+a) he is given a final court decision for committing a
+criminal offence;
+b) he is absent from duty without justification for more
+than one month;
+c) he resigns;
+ç) a final court decision declares his ineffectiveness.
+2. The Commissioner may be discharged by the Assembly when:
+a) he fails to act in compliance with the provisions arising from this law or other legal acts;
+b) he engages in activities that generate a conflict of
+interests;
+37
+
+c) cases of incompatibility with the function are identified.
+3. When the post of the Commissioner is vacant, the
+Council of Ministers proposes to the Assembly the new
+nominee within 15 days. The Assembly elects the new
+Commissioner within 15 days upon receipt of the nomination.
+
+Article 38/a
+Publication
+1. The instructions, decisions of the Commissioner, except for those issued pursuant to letter “b” of article 30 and
+article 39 of this law, are published in the Official Journal.
+2. The annual report and the special reports are made
+public.
+
+Article 37
+Office of the Commissioner
+1. The Assembly shall determine the remuneration of
+the Commissioner, the organizational structure and remuneration for the employees of the Commissioner for the
+protection of personal data. These employees shall enjoy
+the status of civil servant.
+
+Article 38
+Budget
+The Commissioner has his own independent budget
+which is funded by the state budget and donators not represent any conflict of interest.
+Administration of such donations is made according to
+the agreement with the donators and the Albanian legislation
+in force.
+
+38
+
+39
+
+CHAPTER IX
+ADMINISTRATIVE SANCTIONS
+
+Article 39
+
+Administrative offences
+1. Cases of data processing in contradiction with the
+provisions of this law do not constitute any criminal offence
+and are subject to a fine as follows:
+a) the controllers who use personal data against Chapter
+II “Processing of Personal Data” are fined from 10 000 to
+500 000 ALL;
+a/1) the controllers who used personal data against
+Chapter III “Special processing of data” are fined from
+15000 up to 200 000 ALL.
+b) controllers, who do not meet the obligation to inform,
+as specified in Article 18 of this law, shall be fined from 10
+000 ALL to 300 000 ALL.
+c) controllers, who do not meet the obligations to
+rectify or erase data, specified in Article 19 of this law, shall
+be fined from 15 000 ALL to 300 000 ALL;
+ç) controllers or processors, who do not meet the obligations defined in Article 20 of this law, shall are fined
+from 10 000 to 300 000 ALL
+d) controllers, who do not meet the legal obligation to
+inform laid down in Article 21 herein, shall be fined from
+10 000 ALL to 500 000 ALL; 		
+40
+
+dh) controllers or processors, who do not take the data
+security measures and do not observe the duty to keep
+confidentiality, provided for under Articles 27 and 28 of this
+law, are fined from 10 000 ALL to 150 000 ALL.
+dh/1) controllers or processors acting against point 2 of
+article 32 of this Law are fined from 100 000 up to 1 000
+000 ALL.
+2. As regards the above offences, legal persons shall
+be fined double the figure for the fine specified in point 1
+herein.
+3. Maximum of the fine is doubled in cases of failure
+to comply with Article 16 point 2 and when the data are
+processed without an authorization pursuant to Article 31
+point 1 (b).
+4. Fines shall be imposed by the Commissioner when he
+finds that the obligations set forth in the law are infringed.
+
+Article 40
+Appeal
+The appeal against administrative sanction with fine is
+addressed at the court in the terms and under the procedures
+governing the administrative proceedings..
+
+Article 41
+
+Execution of fines
+1. Fines shall be paid by the offender not later than 30
+days from the imposing of the fine. When the deadline expires, the decision becomes an executive title and is executed in a mandatory manner by the bailiff office, upon request
+of the Commissioner.
+2. Fines are cashed in the state budget.
+41
+
+CHAPTER X
+FINAL PROVISIONS
+
+Article 42
+Sub legal acts
+Council of Ministers shall issue the sub legal acts in
+line with Articles 7, 8 and 21 herein.
+
+Article 44
+Entry into force
+This law enters into force 15 days after its publication
+in the Official Journal.
+Adopted on 26.04.2012
+“Declared under Decree No. 5671, date 21.03.2008
+and No.7451, date 08.05.2012 of the President of the
+Republic of Albania, Bamir Topi”
+
+Article 43
+Repeals
+Law no. 8517, dated 22.07.1999 “On the protection of
+personal data” is repealed.
+
+42
+
+43
+
+

@@ -1,0 +1,1103 @@
+LEY DE INFOGOBIERNO
+
+Ley de Infogobierno
+Ley de Infogobierno.
+
+LA ASAMBLEA NACIONAL
+DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA
+Decreta
+la siguiente,
+LEY DE INFOGOBIERNO
+TÍTULO I
+DISPOSICIONES FUNDAMENTALES
+Capítulo I
+Normas generales
+
+Objeto de la ley
+Artículo 1. Esta Ley tiene por objeto establecer los principios, bases y lineamientos que rigen el uso
+de las tecnologías de información en el Poder Público y el Poder Popular, para mejorar la gestión
+pública y los servicios que se prestan a las personas; impulsando la transparencia del sector público;
+la participación y el ejercicio pleno del derecho de soberanía; así como, promover el desarrollo de
+las tecnologías de información libres en el Estado; garantizar la independencia tecnológica; la
+apropiación social del conocimiento; así como la seguridad y defensa de la Nación.
+Ámbito de aplicación
+Artículo 2. Están sometidos a la aplicación de la presente Ley:
+1. Los órganos y entes que ejercen el Poder Público Nacional.
+2. Los órganos y entes que ejercen el Poder Público Estadal.
+3. Los órganos y entes que ejercen el Poder Público en los distritos metropolitanos.
+4. Los órganos y entes que ejercen el Poder Público Municipal y en las demás entidades locales
+previstas en la Ley Orgánica del Poder Público Municipal.
+5. Los órganos y entes que ejercen el Poder Público en las dependencias federales.
+6. Los institutos públicos nacionales, estadales, de los distritos metropolitanos y municipales.
+7. El Banco Central de Venezuela.
+8. Las universidades públicas, así como cualquier otra institución del sector universitario de
+naturaleza pública.
+9. Las demás personas de derecho público nacionales, estadales, distritales y municipales.
+10. Las sociedades de cualquier naturaleza, las fundaciones, empresas, asociaciones civiles y las
+1
+
+demás creadas con fondos públicos o dirigidas por las personas a las que se refiere este artículo, en
+las que ellas designen sus autoridades, o cuando los aportes presupuestarios o contribuciones en un
+ejercicio efectuados por las personas referidas en el presente artículo representen el cincuenta o
+más de su presupuesto.
+11. Las organizaciones y expresiones organizativas del Poder Popular.
+12. Las personas naturales o jurídicas, en cuanto les sea aplicable, en los términos establecidos en
+esta Ley.
+13. Las demás que establezca la Ley.
+Finalidad de la ley
+Artículo 3. Esta Ley tiene como fines:
+1. Facilitar el establecimiento de relaciones entre el Poder Público y las personas a través de las
+tecnologías de información.
+2. Establecer las condiciones necesarias y oportunas que propicien la mejora continua de los
+servicios que el Poder Público presta a las personas, contribuyendo así en la efectividad, eficiencia y
+eficacia en la prestación de los servicios públicos.
+3. Universalizar el acceso de las personas a las tecnologías de información libres y garantizar su
+apropiación para beneficio de la sociedad.
+4. Garantizar el ejercicio de los derechos y el cumplimiento de los deberes de las personas, a través
+de las tecnologías de información.
+5. Promover el empoderamiento del Poder Popular a través de la generación de medios de
+participación y organización de las personas, haciendo uso de las tecnologías de información.
+6. Garantizar la transparencia de la gestión pública, facilitando el acceso de las personas a la
+información pública.
+7. Apoyar el fortalecimiento de la democracia participativa y protagónica en la gestión pública y el
+ejercicio de la contraloría social.
+8. Contribuir en los modos de organización y funcionamiento del Poder Público, apoyando la
+simplificación de los trámites y procedimientos administrativos que éstos realizan.
+9. Establecer los principios para la normalización y estandarización en el uso de las tecnologías de
+información, a los sujetos sometidos a la aplicación de esta Ley.
+10. Promover la adquisición, desarrollo, investigación, creación, diseño, formación, socialización, uso
+e implementación de las tecnologías de información libres a los sujetos sometidos a la aplicación de
+esta Ley.
+11. Establecer las bases para el Sistema Nacional de Protección y Seguridad de la Información, en
+los términos establecidos en la presente Ley y por otros instrumentos legales que regulen la materia.
+12. Fomentar la independencia tecnológica y con ello fortalecer el ejercicio de la soberanía nacional,
+sobre la base del conocimiento y uso de las tecnologías de información libres en el Estado.
+2
+
+Interés público y carácter estratégico
+Artículo 4. Son de interés público y estratégico las tecnologías de información, en especial las
+tecnologías de información libres, como instrumento para garantizar la efectividad, transparencia,
+eficacia y eficiencia de la gestión pública; profundizar la participación de la ciudadanía en los
+asuntos públicos; el empoderamiento del Poder Popular y contribuir corresponsablemente en la
+consolidación de la seguridad, defensa y soberanía nacional.
+Definiciones
+Artículo 5. A los efectos de la presente Ley, se entenderá por:
+1. Actuación electrónica: Capaz de producir efectos jurídicos.
+2. Acceso abierto: Característica de los documentos públicos que se refiere a su disponibilidad
+gratuita en la internet pública, que permite a cualquier usuario leer, descargar, copiar, distribuir,
+imprimir, buscar o añadir un enlace al texto completo de esos artículos, rastrearlos para su
+indización, incorporarlos como datos en un software, o utilizarlos para cualquier otro propósito que
+sea legal, sin barreras financieras, legales o técnicas, aparte de las que son inseparables del acceso
+mismo a la internet. La única limitación en cuanto a reproducción y distribución, y el único papel del
+copyright en cuanto a los derechos patrimoniales en este ámbito, debe ser dar a los autores el
+control sobre la integridad de sus trabajos y el derecho a ser adecuadamente reconocidos y citados.
+3. Código fuente: Texto escrito en un lenguaje de programación específico, contentivo de un
+conjunto de instrucciones que se puede compilar para generar un programa que se ejecuta en un
+computador, es el conjunto de líneas de texto escritas en un lenguaje de programación específico,
+que al ser procesadas por los compiladores e interpretadores adecuados, generan exactamente
+dicho programa que es ejecutado por el computador.
+4. Conocimiento libre: Es todo aquel conocimiento que puede ser aprendido, interpretado, aplicado,
+enseñado y compartido libremente y sin restricciones, pudiendo ser utilizado para la resolución de
+problemas o como punto de partida para la generación de nuevos conocimientos.
+5. Criptografía: Rama inicial de las matemáticas y en la actualidad también de la informática, que
+hace uso de métodos y técnicas con el objeto principal de hacer ilegible, cifrar y proteger un
+mensaje o archivo por medio de un algoritmo, usando una o más claves.
+6. Documento electrónico: Documento digitalizado que contiene un dato, diseños o información
+acerca de un hecho o acto, capaz de causar efectos jurídicos.
+7. Estándares abiertos: Especificaciones técnicas, publicadas y controladas por alguna organización
+que se encarga de su desarrollo, aceptadas por la industria de las tecnologías de información, y que
+están a disposición de cualquier usuario para ser implementadas.
+8. Hardware libre: Dispositivos de hardware, componentes electrónicos o mecánicos diseñados para
+su uso en cualquier área científico técnica, cuyas especificaciones y diagramas esquemáticos son de
+acceso público, garantizando el total acceso al conocimiento de su funcionamiento y fabricación, y
+que reconociendo los derechos de autor, no están sometidos a normativas legales del sistema de
+patentes de apropiación privativa, otorgándose las mismas libertades contempladas en el software
+libre para su uso con cualquier propósito y en cualquier área de aplicación, libertad de modificación
+y adaptación a necesidades específicas, y la libertad para su redistribución.
+9. Informática forense: también llamado computo forense, computación forense, análisis forense
+3
+
+digital o examen forense digital es la aplicación de técnicas científicas y analíticas especializadas a
+infraestructura tecnológica que permiten identificar, preservar, analizar y presentar datos que sean
+válidos dentro de un proceso legal.
+10. Infraestructuras críticas: Infraestructuras críticas también conocidas como estratégicas, son
+aquellas que proporcionan servicios esenciales y cuyo funcionamiento es indispensable y no permite
+soluciones alternativas, por lo que su perturbación o destrucción tendría un grave impacto sobre
+tales servicios.
+11. Interoperabilidad: Capacidad que tienen las organizaciones dispares y diversas para
+intercambiar, transferir y utilizar, de manera uniforme y eficiente datos, información y documentos
+por medios electrónicos, entre sus sistemas de información.
+12. Normas instruccionales: Todas aquellas providencias administrativas de efectos generales,
+instructivos o circulares, de carácter obligatorio, dictados con el fin de garantizar el efectivo uso de
+las tecnologías de información y la seguridad informática, en los términos establecidos en esta Ley.
+13. Poder Popular: Es el ejercicio pleno de la soberanía por parte del pueblo en lo político,
+económico, social, cultural, ambiental, internacional, y en todo ámbito del desenvolvimiento y
+desarrollo de la sociedad, a través de diversas y disímiles formas de organización, que edifican el
+estado comunal.
+14. Prospectiva tecnológica: La prospectiva tecnológica también conocida como vigilancia
+tecnológica, es un proceso sistemático que analiza el estado actual y las perspectivas de progreso
+científico y tecnológico para identificar áreas estratégicas de investigación y tecnologías emergentes
+para concentrar los esfuerzos de inversión y así obtener los mayores beneficios económicos o
+sociales, la prospectiva tecnológica está orientada a un conjunto de técnicas que permiten definir la
+relevancia de una tecnología en un momento futuro.
+15. Seguridad de la información: Condición que resulta del establecimiento y mantenimiento de
+medios de protección, que garanticen un estado de inviolabilidad de influencias o de actos hostiles
+específicos que puedan propiciar el acceso a la información no autorizada, o que afecten la
+operatividad de las funciones de un sistema de computación, bajo los principios de confidencialidad,
+integridad, privacidad y disponibilidad de la información.
+16. Software libre: Programa de computación en cuya licencia el autor o desabollador garantiza al
+usuario el acceso al código fuente y lo autoriza a usar el programa con cualquier propósito, copiarlo,
+modificarlo y redistribuirlo con o sin modificaciones, preservando en todo caso el derecho moral al
+reconocimiento de autoría.
+17. Tecnología de información: Tecnologías destinadas a la aplicación, análisis, estudio y
+procesamiento en forma automática de información. Esto incluye procesos de: obtención, creación,
+cómputo, almacenamiento, modificación, manejo, movimiento, transmisión, transmisión, recepción,
+distribución, intercambio, visualización, control y administración en formato electrónico, magnético,
+óptico, o cualquier otro medio similar o equivalente que se desarrollen en el futuro, que involucren
+el uso de dispositivos físicos y lógicos.
+18. Tecnologías de información libres: Son aquellas tecnologías con estándares abiertos que
+garantizan el acceso a todo el código fuente y la transferencia del conocimiento asociado para su
+comprensión; libertad de modificación; libertad de uso en cualquier área, aplicación o propósito y
+libertad de publicación del código fuente y sus modificaciones.
+
+4
+
+19. Usabilidad: Se refiere a los atributos que deben tener los sistemas de información para que sean
+comprendidos, aprendidos y usados con facilidad por sus usuarios o usuarias.
+Capítulo II
+Principios y bases del uso de las tecnologías de información
+Obligatoriedad del uso de las tecnologías de información
+Artículo 6. El Poder Público, en el ejercicio de sus competencias, debe utilizar las tecnologías de
+información en su gestión interna, en las relaciones que mantengan entre los órganos y entes del
+Estado que lo conforman, en sus relaciones con las personas y con el Poder Popular, de conformidad
+con esta Ley y demás normativa aplicable.
+El Poder Popular debe utilizar las tecnologías de información en los términos y condiciones
+establecidos en la ley.
+Principio de igualdad
+Artículo 7. La obligación establecida en el artículo anterior en ningún caso se entenderá como un
+modo de restricción o discriminación para las personas, por lo que, el acceso a la prestación de los
+servicios públicos, como a cualquier actuación del Poder Público, debe ser garantizada por cualquier
+medio existente, sin perjuicio de las medidas que la presente Ley y la normativa que a tal efecto se
+establezca, con el fin de hacer efectivo el derecho de las personas a utilizar las tecnologías de
+información en sus relaciones con el Estado.
+Derecho de las personas
+Artículo 8. En las relaciones con el Poder Público y el Poder Popular, las personas tienen derecho a:
+1. Dirigir peticiones de cualquier tipo haciendo uso de las tecnologías de información, quedando el
+Poder Público y el Poder Popular obligados a responder y resolver las mismas de igual forma que si
+se hubiesen realizado por los medios tradicionales, en los términos establecidos en la Constitución
+de la República y la Ley.
+2. Realizar pagos, presentar y liquidar impuestos, cumplir con las obligaciones pecuniarias y
+cualquier otra clase de obligación de esta naturaleza, haciendo uso de las tecnologías de información.
+3. Recibir notificaciones por medios electrónicos en los términos y condiciones establecidos en la ley
+que rige la materia de mensajes de datos y las normas especiales que la regulan.
+4. Acceder a la información pública a través de medios electrónicos, con igual grado de confiabilidad
+y seguridad que la proporcionada por los medios tradicionales.
+5. Acceder electrónicamente a los expedientes que se tramiten en el estado en que éstos se
+encuentren, así como conocer y presentar los documentos electrónicos emanados de los órganos y
+entes del Poder Público y el Poder Popular, haciendo uso de las tecnologías de información.
+6. Utilizar y presentar ante el Poder Público y demás personas naturales y jurídicas, los documentos
+electrónicos emitidos por éste, en las mismas condiciones que los producidos por cualquier otro
+medio, de conformidad con la presente Ley y la normativa aplicable.
+7. Obtener copias de los documentos electrónicos que formen parte de procedimientos en los cuales
+se tenga la condición de interesado o interesada.
+5
+
+8. Disponer de mecanismos que permitan el ejercicio de la contraloría social haciendo uso de las
+tecnologías de información.
+9. Utilizar las tecnologías de información libres como medio de participación y organización del
+Poder Popular.
+Principio de legalidad
+Artículo 9. Las actuaciones que realicen el Poder Público y el Poder Popular, deben sujetarse a la
+asignación, distribución y ejercicio de sus competencias de conformidad con lo establecido en la
+Constitución de la República, la presente Ley y las normas que rigen la materia.
+Principio de conservación documental
+Artículo 10. Las comunicaciones, documentos y actuaciones electrónicas que realicen el Poder
+Público y el Poder Popular se conservarán de conformidad con las condiciones que determine la Ley
+y la normativa especial aplicable.
+Repositorio digital del Poder Público y el Poder Popular
+Artículo 11. El Poder Público debe contar con repositorios digitales en los cuales se almacene la
+información que manejen, así como los documentos que conformen el expediente electrónico, a fin
+de que sean accesibles, conservados o archivados, de conformidad con la presente Ley y la
+normativa que regule la materia.
+El Poder Popular está sometido a la obligación aquí establecida en los términos y condiciones de la
+normativa a tal efecto se dicte.
+Repositorio digital de programas informáticos
+Artículo 12. El Poder Público y el Poder Popular deben registrar ante la autoridad competente los
+programas informáticos que utilicen o posean; su licenciamiento, código fuente y demás información
+y documentación que determine la norma instruccional correspondiente.
+Principio de transparencia
+Artículo 13. El uso de las tecnologías de información en el Poder Público y el Poder Popular
+garantiza el acceso de la información pública a las personas, facilitando al máximo la publicidad de
+sus actuaciones como requisito esencial del Estado democrático y Social de Derecho y de Justicia,
+salvo aquella información clasificada como confidencial o secreta, de conformidad con la ley que
+regule el acceso a la información pública y otras normativas aplicables.
+Principio de accesibilidad
+Artículo 14. El Poder Público, en forma corresponsable con el Poder Popular, participa en el
+desarrollo, implementación y uso de las tecnologías de información libres, a fin de garantizar a las
+personas, en igualdad de condiciones, el acceso y la apropiación social del conocimiento asociado a
+esas tecnologías.
+Condiciones de accesibilidad y usabilidad
+Artículo 15. En el diseño y desarrollo de los sistemas, programas, equipos y servicios basados en
+tecnologías de información, se debe prever las consideraciones de accesibilidad y usabilidad
+6
+
+necesarias para que estos puedan ser utilizados de forma universal por aquellas personas que, por
+razones de discapacidad, edad, o cualquier otra condición de vulnerabilidad, requieran de diferentes
+tipos de soportes o canales de información.
+Fomento del conocimiento de las tecnologías de información
+Artículo 16. Es deber del Poder Público, en forma corresponsable con el Poder Popular, garantizar
+a todas las personas, a través del sistema educativo los medios para la formación, socialización,
+difusión, innovación, investigación y comunicación en materia de tecnologías de información libres,
+según los lineamientos de los órganos rectores en las materias.
+Formación
+Artículo 17. El Poder Público debe proporcionar la formación en materia de tecnologías de
+información libres de sus respectivos colectivos laborales, para que interactúen con los sistemas y
+aplicaciones, desempeñando eficientemente sus labores y funciones en la gestión pública. Asimismo
+debe facilitar la formación de las personas, a fin de garantizar la apropiación social del conocimiento.
+Portal de Internet
+Artículo 18. Los órganos y entes del Poder Público y el Poder Popular, en el ejercicio de sus
+competencias, deben contar con un portal de internet bajo su control y administración. La integridad,
+veracidad y actualización de la información publicada y los servicios públicos que se presten a través
+de los portales es responsabilidad del titular del portal. La información contenida en los portales de
+internet tiene el mismo carácter oficial que la información impresa que emitan.
+Servicios de información
+Artículo 19. Los servicios prestados por el Poder Público y el Poder Popular a través de los portales
+de internet deben ser accesibles, sencillos, expeditos, confiables, pertinentes y auditables, y deben
+contener información completa, actual, oportuna y veraz, de conformidad con la ley y la normativa
+especial aplicable.
+Derecho a la participación en la promoción de los servicios y uso de las tecnologías de
+información
+Artículo 20. El Poder Público y el Poder Popular están obligados a garantizar en sus portales de
+internet el ejercicio del derecho de las personas a participar, colaborar y promover el uso de las
+tecnologías de información libres, creación de nuevos servicios electrónicos o mejoramiento de los
+ya existentes.
+Mecanismos de ejercicio de contraloría social
+Artículo 21. Los servicios prestados por el Poder Público y el Poder Popular deben contener
+mecanismos que permitan la promoción, desarrollo y consolidación de la contraloría social como
+medio de participación de las personas y sus organizaciones sociales, para garantizar que la
+inversión pública se realice de manera transparente y eficiente, en beneficio de los intereses de la
+sociedad y que las actividades del sector privado no afecten los intereses colectivos o sociales.
+Principio de proporcionalidad
+Artículo 22. En las actuaciones que realicen el Poder Público y el Poder Popular a través de las
+tecnologías de información, sólo se exigirán a las personas las medidas de seguridad necesarias
+7
+
+según la naturaleza de los trámites y actuaciones a realizar. Igualmente, se requerirán los datos que
+sean estrictamente necesarios para tramitar los asuntos que haya solicitado, a los fines de
+garantizar el cumplimiento de los principios y derechos establecidos en la Constitución de la
+República y la ley.
+Principio de seguridad
+Artículo 23. En las actuaciones electrónicas que realicen el Poder Público y el Poder Popular se
+debe garantizar la integridad, confidencialidad, autenticidad y disponibilidad de la información,
+documentos y comunicaciones electrónicas, en cumplimiento a las normas y medidas que dicte el
+órgano con competencia en materia de seguridad de la información.
+Servicios de certificación y firma electrónica
+Artículo 24. El Poder Público debe garantizar la integridad, confidencialidad, autenticidad y
+disponibilidad de la información, a través del uso de certificados y firmas electrónicas emitidas
+dentro de la cadena de confianza de certificación electrónica del Estado venezolano, de conformidad
+con el ordenamiento jurídico venezolano y la legislación que rige la materia.
+De la protección de datos personales
+Artículo 25. El uso de las tecnologías de información por el Poder Público y el Poder Popular
+comprende la protección del honor, vida privada, intimidad, propia imagen, confidencialidad y
+reputación de las personas; en consecuencia, está sujeto a las limitaciones que establezca la ley
+sobre la materia.
+Validez de los archivos y documentos electrónicos
+Artículo 26. Los archivos y documentos electrónicos que emitan el Poder Público y el Poder Popular,
+que contengan certificaciones y firmas electrónicas tienen la misma validez jurídica y eficacia
+probatoria que los archivos y documentos que consten en físico.
+Copias impresas de los documentos electrónicos
+Artículo 27. Cuando la Ley exija que un documento debe ser presentado en formato impreso y se
+encuentre en formato electrónico, tal requisito queda satisfecho cuando éste se presente en formato
+impreso y contenga un código unívoco que lo identifique y permita su recuperación en el repositorio
+digital institucional correspondiente, de conformidad con la normativa que rige la materia.
+Principio de coordinación
+Artículo 28. Los proyectos y acciones que desarrollen el Poder Público y el Poder Popular, a fin de
+consolidar el uso de las tecnologías de información libres en la gestión pública, deben efectuarse de
+manera coordinada en los términos establecidos en la presente Ley, y están orientados al logro de
+los fines y objetivos del Estado, pobre la base de las políticas, estrategias, lineamientos y normas en
+la materia que a tal efecto se dicten.
+Principio de colaboración
+Artículo 29. El Poder Público y el Poder Popular colaborarán para alcanzar la consolidación del uso
+de las tecnologías de información libres en el Estado.
+Interoperabilidad de las tecnologías de información
+8
+
+Artículo 30. Los procesos soportados en las tecnologías de información en el Poder Público y el
+Poder Popular deben ser interoperables, a fin de apoyar la función y gestión pública que éstos
+prestan, garantizando la cooperación y colaboración requerida para proporcionar servicios y
+procesos públicos integrados, complementarios y transparentes, sobre la base del principio de
+unidad orgánica.
+Sistema de consulta
+Artículo 31. El Poder Público debe procurar que el diseño y construcción de sus sistemas,
+programas, aplicaciones y servicios de información cuenten con facilidades de uso para la consulta
+electrónica, así como la veracidad y existencia de los documentos electrónicos, circunstancias o
+requisitos que posean y sean necesarios para realizar una determinada solicitud, trámite o servicio,
+sin que lo previamente descrito se le transfiera a las personas.
+El Poder Popular debe igualmente garantizar que sus sistemas informáticos, cuenten con las mismas
+facilidades previstas para el Poder Público establecidas en el párrafo anterior y la que establezca la
+normativa correspondiente.
+Obligación de compartir información
+Artículo 32. El Poder Público tiene la obligación de compartir entre sí la información pública que
+conste en sus archivos y repositorios digitales, de conformidad con lo establecido en la ley que
+regule la materia sobre el intercambio electrónico de datos, información y documentos, salvo las
+excepciones establecidas en la Constitución de la República y la normativa aplicable.
+El Poder Popular deberá compartir información pública sobre la gestión de los servicios públicos que
+se le hayan transferido, en los términos establecidos en el presente artículo y demás normativa
+aplicable.
+Plataforma tecnológica del Estado
+Artículo 33. El Poder Público debe contar con una plataforma tecnológica integrada, bajo su control
+y administración, que permita el efectivo uso de las tecnologías de información en sus relaciones
+internas, con otros órganos y entes, y en sus relaciones con las personas, apoyando la gestión del
+sector público y la participación del Poder Popular en los asuntos públicos.
+Del conocimiento libre
+Artículo 34. El desarrollo, adquisición, implementación y uso de las tecnologías de información por
+el Poder Público, tiene como base el conocimiento libre. En las actuaciones que se realicen con el
+uso de las tecnologías de información, sólo empleará programas informáticos en software libre y
+estándares abiertos para garantizar al Poder Público el control sobre las tecnologías de información
+empleadas y el acceso de las personas a los servicios prestados.
+Los programas informáticos que se empleen para la gestión de los servicios públicos prestados por
+el Poder Popular, a través de las tecnologías de información, deben ser en software libre y con
+estándares abiertos.
+De las licencias
+Artículo 35. Las licencias para programas informáticos utilizados en el Poder Público, deben
+permitir el acceso al código fuente y a la transferencia del conocimiento asociado para su
+compresión, su libertad de modificación, libertad de uso en cualquier área, aplicación o propósito y
+9
+
+libertad de publicación y distribución del código fuente y sus modificaciones. Únicamente se
+adoptarán aquellas licencias que garanticen que los trabajos derivados se licencien en los mismos
+términos que la licencia original.
+El Poder Popular debe garantizar que las licencias de los programas informáticos empleada en la
+gestión de los servicios públicos transferidos, cumplan con las condiciones y términos establecidos
+en el presente artículo.
+Soberanía e independencia tecnológica
+Artículo 3°. El Estado garantiza la apropiación social del conocimiento asociado a las tecnologías de
+información libres que se desarrollen, adquieran, implementen y usen con el fin de emplearlas de
+forma independiente.
+Igualmente, aquellas tecnologías privativas en proceso de migración a tecnologías libres, deben
+garantizar el uso y ejecución de modo independiente. Para ello, se establecerán fuentes de
+financiamiento que impulsen programas y proyectos de investigación y desarrollo, fomenten la
+industria nacional de información libres y promueva la formación del talento humano en materia de
+tecnología de información libres, en los términos y condiciones establecidos en la presente Ley.
+TÍTULO II
+DE LA ORGANIZACIÓN EN EL PODER PÚBLICO PARA EL USO DE LAS TECNOLOGÍAS DE
+INFORMACIÓN
+Capítulo I
+Del Consejo Nacional para el Uso de las Tecnologías de Información
+Creación del Consejo Nacional para el Uso de las Tecnologías de Información
+Artículo 37. Se crea el Consejo Nacional para el Uso de las Tecnologías de Información en el Poder
+Público, como máximo órgano de consulta para la planificación y asesoramiento del Poder Público en
+los asuntos relacionados con las tecnologías de información, contribuyendo en la consolidación de la
+seguridad, defensa y soberanía nacional. Es presidido por el Vicepresidente Ejecutivo o
+Vicepresidenta Ejecutiva de la República y tendrá como fin promover y consolidar el uso, desarrollo,
+implementación y aprovechamiento de las tecnologías de la información en el Poder Público,
+mediante la coordinación de las acciones a tal efecto se establezcan.
+Conformación
+Artículo 38. El Consejo Nacional para el Uso de las Tecnologías de Información en el Poder Público,
+está integrado por:
+1. El Vicepresidente Ejecutivo o Vicepresidenta Ejecutiva de la República, en su condición de órgano
+directo y colaborador del Presidente o Presidenta de la República, y en su condición de Presidente o
+Presidenta del Consejo Federal de Gobierno, quien lo preside.
+2. El Ministerio del Poder Popular con competencia en materia de planificación.
+3. El Ministerio del Poder Popular con competencia en materia ciencia tecnología e innovación.
+4. El Ministerio del Poder Popular con competencia en materia de comunas
+5. La Procuraduría General de la República.
+10
+
+6. La Asamblea Nacional.
+7. El Tribunal Supremo de Justicia.
+8. El Consejo Nacional Electoral.
+9. El Consejo Moral Republicano y;
+10. El Banco Central de Venezuela.
+Competencias
+Artículo 39. El Consejo Nacional para el Uso de las Tecnologías de Información en el Poder Público
+tiene las siguientes competencias:
+1. Promover el adecuado uso y aprovechamiento de las tecnologías de información en d Poder
+Público y en el Poder Popular.
+2. Establecer lineamientos, políticas y estrategias para el acceso, uso, promoción, adquisición y
+desarrollo de las tecnologías de información libres.
+3. Impulsar la mejora de la gestión pública y calidad de los servicios públicos que se presten a las
+personas a través de tecnologías de información.
+4. Promover la transparencia en el Poder Público, a fin de garantizar el derecho fundamental de las
+personas al acceso a la información pública.
+5. Garantizar que los programas y proyectos que se implementen en el Poder Público, contemplen
+los requerimientos para su implantación y sustentabilidad, con base en la provisión de las
+capacidades financieras, institucionales y de talento humano que resulten necesarias.
+6. Proponer ante las autoridades competentes el marco normativo necesario para garantizar el
+aprovechamiento y uso de las tecnologías de información en el Poder Público y en el Poder Popular,
+de conformidad con la presente Ley.
+7. Dictar las normas necesarias para su funcionamiento, a través del respectivo reglamento que al
+efecto se dicte.
+8. Las demás que determine la ley.
+Capítulo II
+De la Comisión Nacional de las Tecnologías de Información
+Creación
+Artículo 40. Se crea la Comisión Nacional de las Tecnologías de Información, como un instituto
+público dotado de personalidad jurídica y patrimonio propio, distinto e independiente de la
+República, con competencias financieras, administrativas, presupuestarias, técnicas, normativas y
+de gestión de recursos, las cuales serán ejercidas de acuerdo con los lineamientos y políticas
+establecidos por el órgano de adscripción en coordinación con la Comisión Central de Planificación,
+con los privilegios y prerrogativas de la República; estará adscrito al Ministerio del Poder Popular
+con competencia en materia de ciencia, tecnología e innovación. Dicho Instituto tendrá su sede en la
+ciudad de Caracas, y podrá crear direcciones regionales para la consecución de sus actividades en el
+Territorio Nacional.
+11
+
+Competencias de la Comisión Nacional de las Tecnologías de Información
+Artículo 41. Son competencias de la Comisión Nacional de las Tecnologías de Información las
+siguientes:
+1. Elaborar el Plan Nacional de Tecnologías de Información para el Estado, alineado con las
+directrices establecidas en el Plan de Desarrollo Económico y Social de la Nación, y demás planes
+nacionales en coordinación con el Ministerio del Poder Popular con competencia en materia de
+planificación, de conformidad con la ley aplicable.
+2. Establecer las políticas, estrategias y lineamientos en materia de regulación, acceso, desarrollo,
+adquisición, implementación y uso de las tecnologías de información en el Poder Público.
+3. Establecer, de manera coordinada con la Superintendencia de Servicios de Certificación
+Electrónica, las políticas, estrategias, lineamientos y regulaciones en materia de seguridad
+informática en el Poder Público.
+4. Establecer mecanismos de coordinación e intercambio con el Poder Público y con el Poder
+Popular, así como con instituciones privadas, nacionales e internacionales, especializadas en
+tecnologías de información y materias afines.
+5. Promover, conjuntamente con el Poder Público y con el Poder Popular, el acceso y uso de las
+tecnologías de información, a fin de contribuir en la gestión, incrementar la eficiencia, transparencia,
+y mejorar sus relaciones con las personas.
+6. Establecer las políticas de promoción, fomento y fortalecimiento del sector productivo de las
+tecnologías de información.
+7. Promover la formulación y ejecución de iniciativas que permitan impulsar la investigación, el
+desarrollo, adquisición, implementación y uso de las tecnologías de información en el Poder Público
+y en el Poder Popular.
+8. Administrar el repositorio de programas informáticos libres y de programas informáticos
+utilizados por el Poder Público y por el Poder Popular, así como la información asociada a éstos.
+9. Participar en nombre de la República ante organismos internacionales en materia de tecnología
+de información, en coordinación con el Ministerio del Poder Popular con competencia en materia de
+relaciones exteriores.
+10. Promover, en corresponsabilidad con el Poder Popular, la innovación de las tecnologías de
+información, impulsando programas y proyectos de investigación y desarrollo que fomenten la
+industria nacional de las tecnologías de información y la formación del talento humano.
+11. Velar para que los planes y proyectos que se implementen estén alineados con las políticas
+nacionales de fomento a la industria nacional de tecnologías de información.
+12. Autorizar al Poder Público, con carácter excepcional, el uso de tecnologías de información
+privativas, en los casos y condiciones establecidos en la presente Ley y normativa aplicable.
+13. Otorgar, suspender y revocar la certificación de los programas informáticos, equipos y servicios
+en materia de tecnologías de información, a ser desarrollados, adquiridos, implementados y usados
+por parte del Poder Público y del Poder Popular.
+
+12
+
+14. Otorgar, suspender y revocar las acreditaciones a las unidades de servicios de verificación sobre
+programas informáticos, equipos y servicios en materia de tecnologías de información, de
+conformidad con la normativa aplicable.
+15. Asegurar que los funcionarios públicos, funcionarias públicas, empleados y empleadas al servicio
+del Poder Público, adquieran las competencias y habilidades necesarias para cumplir sus roles de
+forma efectiva, a través de programas de educación, entrenamiento y formación en tecnologías de
+información y seguridad informática.
+16. Colaborar en la formulación de las políticas, estrategias y lineamientos en materia de regulación,
+acceso, desarrollo, adquisición, implementación y uso de las tecnologías de información en el Poder
+Público.
+17. Establecer las políticas, estrategias, lineamientos y regulaciones en materia de seguridad
+informática en el Poder Público.
+18. Ejecutar los lineamientos, políticas y estrategias para el acceso, uso, promoción, adquisición y
+desarrollo de las tecnologías de información libres, emanados del Consejo Nacional para el Uso de
+las Tecnologías de Información en el Poder Público.
+19. Garantizar la mejora de la gestión pública y la calidad de los servicios públicos que se presten a
+las personas, a través de las tecnologías de la información.
+20. Velar por el cumplimiento de las normas que en materia de tecnologías libres de información y
+de seguridad de la información se dicten.
+21. Promover la transparencia en el Poder Público, a fin de garantizar a las personas el derecho
+fundamental al acceso a la información pública.
+22. Establecer mecanismos de coordinación y colaboración entre el Poder Público y el Poder Popular,
+a fin de propiciar el intercambio electrónico de datos, información y documentos; el análisis de
+problemáticas comunes y la realización de proyectos conjuntos en materia de tecnologías de
+información.
+23. Garantizar el cumplimiento de las políticas; lineamientos, normas y procedimientos requeridos
+para el intercambio electrónico de datos, información y documentos con el objeto de establecer un
+estándar de interoperabilidad.
+24. Resolver los conflictos que surjan en relación al acceso e intercambio electrónico de datos, de
+información y documentos o al uso inadecuado de éstos, conforme a los términos y condiciones
+establecidos en el Decreto con Rango, Valor y Fuerza de Ley sobre Acceso e Intercambio Electrónico
+de Datos, Información y Documentos entre los órganos y Entes del Estado.
+25. Promover una efectiva gestión de la seguridad de la información para proteger los activos de
+información y minimizar el impacto en los servicios causados por vulnerabilidades o incidentes de
+seguridad.
+26. Garantizar que los programas y proyectos que se implementen en el Poder Público contemplen
+los requerimientos para su implantación y sustentabilidad, con base en la provisión de las
+capacidades financieras, institucionales y de talento humano que resulten necesarias.
+27. Promover la optimización de la utilización de los recursos de tecnologías de información del
+Estado, mediante la promoción de una adecuada gestión de activas, mediante la colaboración
+13
+
+interinstitucional, la racionalización de compras y la implementación de soluciones pertinentes de
+conformidad con la Ley.
+28. Dictar las normas y procedimientos instruccionales aplicables en el desarrollo, adquisición,
+implementación y uso de tecnologías de información, así corno los servicios asociados a esas
+tecnologías.
+29. Inspeccionar y fiscalizar el cumplimiento de las disposiciones de la presente Ley, así como la
+normativa en materia de su competencia.
+30. Abrir de oficio o a instancia de parte, sustanciar y decidir los procedimientos administrativos
+sancionatorios previstos en la presente Ley y normativa aplicable, en el ámbito de su competencia.
+31. Dictar medidas preventivas y correctivas en el curso de los procedimientos administrativos de su
+competencia, cuando así lo requiera.
+32. Ejercer acciones administrativas o judiciales de cualquier índole para la salvaguarda y
+protección de sus derechos e intereses.
+33. Velar por el cumplimiento de las disposiciones de esta Ley y demás actos que dicte, cuya
+vigilancia le competa.
+34. Las demás que determine la ley.
+Patrimonio
+Artículo 42. El patrimonio de la Comisión Nacional de las Tecnologías de Información estará
+constituido por.
+1. Los recursos anuales que le sean asignados en la Ley de Presupuesto para el ejercicio fiscal
+correspondiente;
+2. Otros ingresos y bienes que le puedan ser asignados o transferidos por órganos y entes del Poder
+Público;
+3. Los bienes provenientes de las donaciones, legados y aportes de carácter lícito;
+4. Sus ingresos propios, obtenidos por el desarrollo de sus actividades y por los servicios que preste;
+5. Lo recaudado por tributos, de acuerdo a lo establecido en la presente Ley;
+6. Las multas por las infracciones de acuerdo a la presente Ley;
+7. Los demás bienes que adquiera por cualquier título.
+Dirección de la Comisión Nacional de las Tecnologías de Información
+Artículo 43. La Dirección de la Comisión Nacional de las Tecnologías de Información estará a cargo
+de un Consejo Directivo. El Consejo Directivo estará integrado por un director o directora general,
+quien presidirá el Instituto, y cuatro directores o directoras, quienes serán de libre nombramiento y
+remoción del Presidente o Presidenta de la República Bolivariana de Venezuela, cada uno de los
+cuales tendrá un suplente, designado o designada de la misma forma, quien llenará las faltas
+temporales. Las ausencias temporales del Director o Directora General serán suplidas por el
+Director o Directora Principal que éste o ésta designe.
+14
+
+Quórum
+Artículo 44. El Consejo Directivo sesionará válidamente con la presencia del director o directora
+general, o quien haga sus veces, y dos directores o directoras. Las decisiones se tomarán por
+mayoría absoluta de los miembros del Consejo cuando se encuentren presentes todos sus
+integrantes, y por unanimidad cuando ocurriere el quórum mínimo.
+El régimen ordinario de sesiones del Consejo directivo lo determinará el reglamento interno que se
+dictará de conformidad a lo previsto en esta Ley.
+Prohibición para integrar el Consejo Directivo
+Artículo 45. No podrán ser designados o designadas director o directora general o miembros del
+Consejo directivo ni suplentes:
+1. Las personas que tengan parentesco hasta el cuarto grado de consanguinidad o segundo de
+afinidad, o sean cónyuges del Presidente o Presidenta de la República, del Vicepresidente Ejecutivo
+o Vicepresidenta Ejecutiva de la República o de la máxima autoridad del órgano rector o de algún
+miembro de la dirección de la Comisión Nacional de las Tecnologías de Información.
+2. Quienes en beneficio propio o de un tercero, directa o indirectamente, hayan celebrado contratos
+de obra o de suministro de bienes o servicios con la Comisión Nacional de las Tecnologías de
+Información y no los hayan, finiquitado en el año inmediatamente anterior a sus designaciones.
+3. Quienes tengan conflicto de intereses con el cargo a desempeñar.
+4. Las personas que hayan sido declaradas en estado de quiebra, culpable o fraudulenta, y los
+condenados o condenadas por delitos contra el patrimonio público.
+Responsabilidad de los miembros del Consejo Directivo
+Artículo 46. Los miembros del Consejo Directivo serán responsables civil, penal, disciplinaria y
+administrativamente de las decisiones adoptadas en sus reuniones de conformidad con las leyes que
+rigen la materia.
+Competencias del Consejo Directivo
+Artículo 47. Al Consejo Directivo le corresponden las siguientes competencias:
+1. Someter a la consideración del órgano rector todas las políticas, estrategias y lineamientos en
+materia de regulación, acceso, desarrollo, adquisición, implementación y uso de las tecnologías de
+información en el Poder Público al igual que en el Poder Popular, cuando realice gestiones públicas.
+2. Aprobar y discutir el plan operativo anual y el balance general, así como los estados financieros
+de la Comisión Nacional de las Tecnologías de Información, conforme a los proyectos presentados
+por el Director o Directora General.
+3. Dictar el reglamento interno de la Comisión Nacional de las Tecnologías de Información.
+4. Aprobar la creación, modificación o supresión de direcciones regionales que se consideren
+necesarias para el cumplimiento de los fines de la Comisión Nacional de Tecnologías de Información.
+5. Aprobar el estatuto de los funcionarios públicos y funcionarias públicas de la Comisión Nacional
+de Tecnologías de Información.
+15
+
+6. Autorizar al Director o Directora General para suscribir y actualizar convenios y contratos que
+tengan por objeto el desarrollo, comercialización, producción y agilización de actividades y
+proyectos vinculados con las tecnologías de información libres, previa autorización del órgano rector.
+7. Autorizar la suscripción y enajenación de bienes muebles e inmuebles propiedad de la Comisión,
+de conformidad con lo dispuesto en la ley que rige la materia.
+8. Autorizar al Director o Directora General de la Comisión Nacional de las Tecnologías,
+conjuntamente con dos miembros del Consejo Directivo, para abrir, movilizar y cerrar las cuentas
+bancadas del instituto, cumpliendo con las normas que rigen la materia.
+9. Las demás que le confieren las leyes y sus reglamentos respectivos.
+Capítulo III
+De las atribuciones de la Comisión Nacional de las Tecnologías de Información
+Atribuciones del Director o Directora General
+Artículo 48. Corresponde al Director o Directora General de la Comisión Nacional de las
+Tecnologías de Información:
+1. Ejercer la representación del Instituto y emitir los lineamientos para organizar, administrar,
+coordinar y controlar los recursos humanos, materiales y financieros del Instituto.
+2. Autorizar la realización de inspecciones o fiscalizaciones.
+3. Ordenar la apertura y sustanciación de procedimientos administrativos sancionatorios.
+4. Nombrar, remover o destituir al personal del Instituto y ejercer la potestad disciplinaria, de
+conformidad con los procedimientos del correspondiente estatuto.
+5. Celebrar en nombre del Instituto, previa aprobación del Consejo Directivo, convenios y contratos
+con organismos nacionales e internacionales, de conformidad con la ley.
+6. Dictar los lineamientos generales para la elaboración del proyecto de presupuesto, el plan
+operativo anual y el balance general del Instituto, y someterlo a la aprobación del Consejo Directivo,
+de conformidad con la ley.
+7. Otorgar poderes para la representación judicial y extrajudicial del Instituto.
+8. Delegar atribuciones para la firma de determinados documentos, en los casos que determine el
+reglamento interno del Instituto.
+9. Ejercer las competencias del Instituto que no estén expresamente atribuidas a otra autoridad.
+10. Elaborar y presentar el proyecto del reglamento interno del Instituto a la consideración del
+Consejo Directivo.
+11. Convocar y presidir las sesiones del Consejo Directivo, así como suscribir los actos y documentos
+que emanen de sus decisiones.
+12. Presentar la memoria y cuenta del Instituto a consideración del Consejo Directivo y del
+Ministerio del Poder Popular con competencia en materia de ciencia, tecnología e innovación.
+
+16
+
+13. Las demás que le confieran la ley y los reglamentos.
+Régimen de los funcionarios y funcionarios
+Artículo 49. Los funcionarios públicos y funcionarias públicas de la Comisión Nacional de las
+Tecnologías de Información se regirán por la Ley del Estatuto de la Función Pública, salvo
+disposiciones especiales que el Ejecutivo Nacional decida sobre el reclutamiento, selección, ingreso,
+el desarrollo, la evaluación, los ascensos, los traslados, las suspensiones en el ejercicio de los cargos,
+la valoración de los cargos, las escalas de remuneraciones y el egreso. Las materias enumeradas en
+este artículo son de orden público; no pueden renunciarse ni relajarse por convenios individuales o
+colectivos, ni por actos de las autoridades de la Comisión Nacional de las Tecnologías de
+Información.
+Capítulo IV
+De las unidades de apoyo
+Unidades de apoyo
+Artículo 50. Son unidades de apoyo a los efectos de la presente Ley:
+1. El ente normalizador del uso de las tecnologías de información.
+2. El órgano normalizador en seguridad informática.
+3. Cualquier otra instancia que esté vinculada con el objeto y fines de esta Ley.
+Ente normalizador
+Artículo 51. El ente normalizador en materia de tecnologías de información y el órgano
+normalizador en seguridad de la información, ejercerán las funciones de unidades de apoyo
+especializadas de la Comisión Nacional de las Tecnologías de Información, en las materias de su
+competencia y de conformidad con las normas de funcionamiento dicte la Comisión.
+Sección primera: normalizador de las tecnologías de información
+Autoridad competente
+Artículo 52. El Centro Nacional de Tecnologías de Información, ente adscrito al órgano con
+competencia en tecnologías de información, es el encargado de apoyar a la Comisión Nacional de las
+Tecnologías de Información a normalizar el desarrollo, adquisición, implementación y uso de estas
+tecnologías en el Poder Público y en el Poder Popular, conforme a las políticas, lineamientos y
+estrategias que se establezcan al efecto.
+Competencias
+Artículo 53. El Centro Nacional de Tecnologías de Información tiene, en el ámbito de aplicación de
+la presente Ley, las siguientes atribuciones:
+1. Proponer a la Comisión Nacional de las Tecnologías de Información las líneas de investigación
+para el desarrollo de programas y equipos informáticos que apoyen la solución de problemas en el
+Poder Público y en el Poder Popular.
+2. Contribuir con la formación y difusión para la apropiación social del conocimiento en tecnologías
+de información libres en el país.
+17
+
+3. Solicitar al Poder Público y al Poder Popular la información necesaria para el cumplimiento de sus
+funciones, en el ámbito do su competencia.
+4. Colaborar con la Comisión Nacional de las Tecnologías de Información en la promoción del acceso
+e intercambio de datos, información y documentos entre los órganos y entes del Poder Público, así
+como entre éstos y el Poder Popular.
+5. Ejercer las funciones de unidad de apoyo especializado para la Comisión Nacional de las
+Tecnologías de Información.
+6. Presentar el informe anual sobre su gestión al órgano rector y a la Comisión Nacional de las
+Tecnologías de Información.
+7. Coordinar con el órgano competente los procedimientos, acciones y actividades necesarias para el
+desarrollo de la gestión del Sistema Venezolano para la Calidad en materia de tecnologías de
+información en el Poder Público.
+8. Velar por el cumplimiento de las disposiciones de esta Ley y demás actos que se dicten, cuya
+vigilancia le competa.
+9. Las demás atribuciones que determine la Ley.
+Sección segunda: normalizador en seguridad informática
+De la Superintendencia de Servicios de Certificación Electrónica
+Artículo 54. La Superintendencia de Servicios de Certificación Electrónica, adscrita al Ministerio
+del Poder Popular con competencia en materia en ciencia tecnologías e innovación, es el órgano
+competente en materia de seguridad informática, y es responsable del desarrollo, implementación,
+ejecución y seguimiento al Sistema Nacional de Seguridad Informática, a fin de resguardar la
+autenticidad, integridad, inviolabilidad y confiabilidad de los datos, información y documentos
+electrónicos obtenidos y generados por el Poder Público y por el Poder Popular, así como la
+generación de contenidos en la red.
+Competencias
+Artículo 55. La Superintendencia de Servicios de Certificación Electrónica tendrá, en el ámbito de
+aplicación de esta Ley, las siguientes competencias:
+1. Desarrollar, implementar y coordinar el Sistema Nacional de Seguridad Informática.
+2. Dictar las normas instruccionales y procedimientos aplicables en materia de seguridad
+informática.
+3. Establecer los mecanismos de prevención, detención y gestión de los incidentes generados en los
+sistemas de información y en las infraestructuras críticas del Estado, a través del manejo de
+vulnerabilidades e incidentes de seguridad informática.
+4. Articular e insertar en el Poder Público y en el Poder Popular las iniciativas que surjan en materia
+de seguridad informática, dirigidas a la privacidad, protección de datos y de infraestructuras críticas,
+así como intervenir y dar respuesta ante los riesgos y amenazas que atenten contra la información
+que manejen.
+
+18
+
+5. Proponer al órgano rector líneas de investigación asociadas a la seguridad informática que apoye
+la solución de problemas en el Poder Público y en el Poder Popular.
+6. Contribuir en la formación de las personas y del componente laboral, que promueva el
+establecimiento de una cultura de resguardo y control sobre los activos de información presentes en
+los sistemas de información.
+7. Realizar peritajes en soportes digitales, previo cumplimiento del procedimiento legal pertinente,
+apoyando a las autoridades competentes en investigaciones, experticias e inspecciones relacionadas
+con evidencias digitales.
+8. Evaluar los medios de almacenamiento digital, de acuerdo a los criterios de búsquedas
+establecidos en la solicitud de entes u organismos del Estado que así lo requieran.
+9. Extraer, revisar y analizar las trazas y bitácoras de equipos y herramientas de redes.
+10. Auditar el funcionamiento e integridad de aplicaciones y base de datos donde se presuma
+inconsistencias incorporadas con el objeto de causar daños.
+11. Prestar asesoría técnica en materia de informática forense a los órganos de apoyo a la
+investigación penal.
+12. Administrar el registro público de homologación de equipos o aplicaciones con soporte
+criptográfico.
+13. Ejecutar las funciones de unidad de apoyo especializado de la Comisión Nacional de las
+Tecnologías de Información en el Poder Público, en el área de su competencia.
+14. Presentar el informe anual sobre su gestión al órgano rector y a la Comisión Nacional de las
+Tecnologías de Información.
+15. Coordinar con el órgano competente los procedimientos, acciones y actividades necesarias para
+el desarrollo de la gestión del Sistema Venezolano de la Calidad en materia de seguridad informática
+en el Poder Público y en el Poder Popular.
+16. Las demás que establezca la ley.
+Unidades de servicios de verificación
+Artículo 56. La Comisión Nacional de las Tecnologías de Información, previo cumplimiento de las
+condiciones que determine la norma instruccional correspondiente, podrá acreditar a las personas
+naturales o jurídicas la cualidad de unidad de servicios de verificación y certificación, a fin de
+realizar funciones de auditoría sobre los programas informáticos, equipos de computación o
+servicios en materia de tecnologías de información a ser desarrollados, adquiridos, implementados y
+usados por el Poder Público y por el Poder Popular, para constatar el cumplimiento de las
+disposiciones de la presente Ley y demás normativa aplicable.
+Capítulo V
+De los subsistemas que conforman el Sistema Nacional de Protección y Seguridad
+Informática
+Subsistemas que integran el Sistema Nacional de Protección y Seguridad Informática
+
+19
+
+Artículo 57. El Sistema Nacional de Protección y Seguridad Informática tiene como objeto proteger,
+resguardar, mitigar, y mejorar la capacidad de respuesta del Poder Público y del Poder Popular
+frente a riesgos y amenazas derivados del desarrollo de los sistemas de información. El Sistema
+Nacional de Protección y Seguridad Informática está integrado por:
+1. Subsistema de Criptografía Nacional
+2. Subsistema Nacional de Gestión de Incidentes Telemáticos
+3. Subsistema Nacional de Informática Forense
+4. Subsistema Nacional de Protección de Datos.
+El Reglamento respectivo establecerá los términos y condiciones de implementación del Sistema
+Nacional de Protección y Seguridad Informática.
+De la aprobación, certificación y homologación de los equipos o aplicaciones criptográficas
+Artículo 58. La Superintendencia de Servicios de Certificación Electrónica, con el objeto de
+garantizar la integridad, calidad e independencia tecnológica, aprueba, certifica y homologa los
+equipos o aplicaciones con soporte criptográfico que use el Poder Público y el Poder Popular.
+De los registros públicos de homologación y sus fines
+Artículo 59.La Superintendencia de Servicios de Certificación Electrónica es el órgano encargado
+de supervisar y exigir los certificados
+TÍTULO III
+DE LOS TRIBUTOS
+Capítulo I
+De las contribuciones para fiscales
+De las contribuciones por actividades comerciales
+Artículo 60. Todas las personas jurídicas cuyo objeto sea la importación, distribución y
+comercialización de software privativo al Poder Público, pagarán a la Comisión Nacional de
+Tecnologías de Información el dos y medio por ciento (2,5%), de la utilidad neta del ejercicio. Lo
+cancelado por este concepto, se realizará dentro de los noventas días siguientes del cierre del
+ejercicio fiscal.
+El monto en bolívares de la cancelación de esta contribución, será deducido del pago del Impuesto
+Sobre la Renta.
+Contribución por servicios
+Artículo 61. Toda persona que preste servicios de software privativos al Poder Público, pagará una
+contribución del uno y medio por ciento (1,5%) de la utilidad reta del ejercicio, a la Comisión
+Nacional de Tecnologías de Información, dentro de los noventa días siguientes al cierre del ejercicio
+fiscal.
+El monto en bolívares de la cancelación de la presente contribución, será deducido del pago del
+Impuesto sobre la Renta.
+20
+
+Capítulo II
+De las tasas y contribuciones especiales
+Certificación
+Artículo 62. El Poder Público debe solicitar ante la Comisión Nacional de las Tecnologías de
+Información, la certificación del cumplimiento de las disposiciones de la presente Ley y demás
+normativa aplicable de los programas informáticos por equipos de computación según su tipo o
+modelo, el cual causa una tasa de cincuenta Unidades Tributarias (50 U.T.).
+De las tasas por certificación y homologación de los equipos o aplicaciones con soporte
+criptográfico
+Artículo 63. La homologación de los equipos o aplicaciones con soporte criptográfico, a que hace
+mención el artículo 58, tendrá una duración de tres años y su solicitud de tramitación causará una
+tasa de trescientas lenidades Tributarias (300 U.T.). Las aplicaciones y equipos con soporte
+criptográfico libre estarán exentos del pago de la tasa prevista en el presente artículo.
+Procedimiento
+Artículo 64. La tramitación de la solicitud de acreditación o renovación como unidad de servicios de
+verificación y certificación se sustanciará de conformidad con el procedimiento previsto en la Ley
+Orgánica de Procedimientos Administrativos, y causará el pago de una tasa que no podrá ser mayor
+de treinta Unidades Tributarias (30 U.T.) ni menor a quince Unidades Tributarias (15 U.T.).
+Contenido de la acreditación
+Artículo 65. La acreditación correspondiente contendrá, además de los extremos requeridos por la
+Ley Orgánica de Procedimientos Administrativos y los previstos establecidos en el Registro Nacional
+de Contratistas los siguientes:
+1. El tipo de acreditación que se trate.
+2. La determinación de las características y de los servicios que presta.
+3. El tiempo durante la cual se otorga no podrá ser superior a dos años.
+4. La remisión expresa a la norma instruccional que contenga las funciones y obligaciones de las
+unidades de servicios de verificación y certificación.
+Excepción del uso de programas informáticos libres
+Artículo 66. La Comisión Nacional de las Tecnologías de Información, excepcionalmente podrá
+autorizar, hasta por tres años, la adquisición y el uso de software que no cumpla con las condiciones
+de estándares abiertos y software libre, cuando no exista un programa desarrollado que lo sustituya
+o se encuentre en riesgo la seguridad y defensa de la Nación.
+La Comisión Nacional de las Tecnologías de Información, al autorizar el uso del software privativo,
+establecerá las condiciones y términos para el desarrollo de una versión equivalente en software
+libre y estándares abiertos.
+De las contribuciones especiales por la utilización de software privativo
+Artículo 67. El órgano o ente del Poder Público al igual que el Poder Popular que sea autorizado a
+21
+
+adquirir, usar y actualizar un software privativo, debe pagar una contribución especial al Fondo
+Nacional de Ciencia, Tecnología e Innovación la cantidad equivalente entre el cinco por ciento (5%)
+y el diez por ciento (10%) del valor de adquisición del software privativo. Este aporte debe
+efectuarse dentro del ejercicio fiscal correspondiente a la adquisición del programa.
+Igualmente, el órgano o ente del Poder Público y el Poder Popular deben pagar una contribución
+especial al Fondo Nacional de Ciencia, Tecnología e Innovación equivalente entre el cinco por ciento
+(5%) y el diez por ciento (10%) del valor correspondiente a los gastos asociados al soporte y uso del
+software privativo.
+Las contribuciones a que se refiere este artículo deben efectuarse hasta que sea sustituido el
+software privativo por un software libre y con estándares abiertos.
+El reglamento respectivo determinará la base de cálculo de la alícuota de la contribución a pagar.
+Destino de las contribuciones parafiscales y tasas
+Artículo 68. Los recursos producto de lo recaudado por concepto de contribuciones parafiscales y
+tasas, serán destinados al desarrollo y fomento del sector de tecnologías libres de información, en un
+monto no menor del cincuenta por ciento (50%) de lo recaudado, y el resto formará parte de los
+ingresos propios de la Comisión Nacional de las Tecnologías de Información.
+Capítulo III
+Disposiciones comunes
+Facultades tributarias
+Artículo 69. La Comisión Nacional de las Tecnologías de Información ejercerá las facultades y
+deberes que le atribuye el Código Orgánico Tributario a la Administración Tributaria, en relación
+con los tributos establecidos en la presente Ley. Igualmente, el Ministerio del Poder Popular con
+competencia en materia de ciencia, tecnología e innovación ejercerá las facultades y deberes a los
+que se refiere este artículo, por lo que respecta a las tasas correspondientes al Fondo Nacional de
+Ciencia, Tecnología e Innovación.
+TÍTULO IV
+DESARROLLO DEL SECTOR DE TECNOLOGÍAS DE INFORMACIÓN LIBRES
+Promoción de la industria nacional de tecnologías de información libres
+Artículo 70. El Estado venezolano, a través del Ministerio del Poder Popular con competencia en
+materia de ciencia, tecnología e innovación, conjuntamente con la Comisión Nacional de Tecnologías
+de Información impulsan el desarrollo, fortalecimiento y consolidación de la industria nacional de
+tecnología de información libres, garantizando el ejercicio de la soberanía tecnológica y el desarrollo
+integral de la nación. A tales fines, promueve:
+1. Programas de investigación en los sectores prioritarios para el desarrollo nacional y la
+independencia tecnológica con tecnologías de información libres.
+2. La investigación nacional en tecnologías de información libres.
+3. Polos de innovación regionales en la República, que asocien la investigación con la industria
+nacional de tecnologías de información libres.
+
+22
+
+4. El financiamiento a la investigación, innovación y desarrollo en tecnologías de información libres,
+así como a la formación en estas tecnologías.
+5. Programas que impulsen la creación de consultoras, creadores y creadoras independientes en
+tecnologías de información libres.
+6. La creación y desarrollo de empresas de propiedad social en tecnologías de información libres,
+conforme al sistema económico comunal.
+7. Prospectiva tecnológica.
+8. Programas para captar y formar investigadores e investigadoras y potenciar el talento humano en
+tecnologías de información libres.
+9. La apropiación social del conocimiento mediante planes de formación en tecnologías de
+información libres.
+10. La creación, desarrollo y articulación de una red nacional de soporte técnico en tecnologías de
+información libres.
+11. La racionalización del uso de recursos mediante el despliegue de infraestructura orientada a
+servicios de tecnologías de información libres.
+12. Una base de conocimiento que impulse la apropiación social de las tecnologías de información
+libres.
+13. Impulsar y apoyar, conjuntamente con el Ministerio del Poder Popular con competencia en
+materia de comunas, la conformación de las comunas de tecnologías libres, integradas por los
+usuarios, usuarias, activistas, colectivos y comunidades del software y hardware libres de la
+República Bolivariana de Venezuela, de conformidad con la presente Ley y demás normativa
+aplicable.
+14. Cualquier otro mecanismo que permita establecer incentivos que promuevan la industria
+nacional de tecnologías de información libres.
+Del financiamiento con fondos públicos
+Artículo 71. El financiamiento con fondos públicos está dirigido a impulsar un sistema económico
+socio productivo de las tecnologías de información libres, que desarrolle las actividades de
+investigación, diseño, creación, desarrollo, producción, implementación, asistencia técnica,
+documentación y servicios relativos tanto al software y como al hardware libres
+Exoneraciones tributarias
+Artículo 72. El Ejecutivo Nacional podrá exonerar, total o parcialmente, el pago del impuesto por
+enriquecimiento neto a la venta de bienes y prestación de servicios en tecnologías de información
+libres, de acuerdo a lo establecido en la legislación que rige la materia tributaria.
+Recursos para las tecnologías de información libres
+Artículo 73. El Fondo Nacional de Ciencia, Tecnología e Innovación destinará, además de los
+aportes recaudados conforme a los artículos 63 y 64 de la presente Ley, un porcentaje no menor al
+dos por ciento (2%) de los recursos provenientes de los aportes para la ciencia, la tecnología y la
+23
+
+innovación, para el financiamiento de los programas y planes de promoción para consolidar la
+industria nacional de tecnologías de información libres, conforme a lo establecido en el artículo 70
+de esta Ley.
+TÍTULO V
+DERECHO Y GARANTÍA DE LAS PERSONAS SOBRE EL ACCESO A LA INFORMACIÓN
+Naturaleza de la información
+Artículo 74. La información que conste en los archivos y registros en el Poder Público y en el Poder
+Popular es de carácter público, salvo que se trate de información sobre el honor, vida privada,
+intimidad, propia imagen, confidencialidad y reputación de las personas, la seguridad y defensa de la
+Nación, de conformidad con lo establecido en la Constitución de la República, la ley que regule la
+materia sobre protección de datos personales y demás leyes que rigen la materia.
+Suministro de información
+Artículo 75. El Poder Público y el Poder Popular, a través de las tecnologías de información, están
+obligados a notificar a las personas:
+1. Que la información será recolectada de forma automatizada;
+2. Su propósito, uso y con quién será compartida;
+3. Las opciones que tienen para ejercer su derecho de acceso, ratificación, supresión y oposición al
+uso de la referida información y;
+4. Las medidas de seguridad empleadas para proteger dicha información, el registro y archivo, en
+las bases de datos de los organismos respectivos.
+Prohibición de exigir documentos físicos
+Artículo 76. El Poder Público y el Poder Popular no pueden exigirle a las personas, la consignación
+de documentos en formato físico que contengan datos o información que se intercambien
+electrónicamente, de conformidad con la ley.
+Protección de la información
+Artículo 77. El Poder Público y el Poder Popular tienen la obligación de proteger la información que
+obtiene por intermedio de los servicios que presta a través de las tecnologías de información y la que
+repose en sus archivos o registros electrónicos, en los términos establecidos en esta Ley, y demás
+leyes que regulen la materia.
+Tratamiento de datos personales de niños, niñas y adolescentes
+Artículo 78. Previa solicitud de la persona legitimada, el Poder Público y el Poder Popular, a través
+de las tecnologías de información, pueden recopilar datos de niños, niñas y adolescentes en relación
+a sus derechos y garantías consagrados en la Constitución de la República y la normativa
+correspondiente.
+El receptor de los datos debe darle prioridad, indicar los derechos que lo asisten y la normativa
+aplicable para llevar a cabo el trámite solicitado en beneficio del niño, niña o adolescente. Una vez
+que se obtenga dicha información se empleará únicamente a los fines el trámite.
+24
+
+Prohibición de compartir datos personales de niños, niñas y adolescentes
+Artículo 79. La información a que se refiere el artículo anterior no puede ser divulgada, cedida,
+traspasada, ni compartida con ninguna persona natural o jurídica, sin el previo consentimiento de su
+representante legal, salvo cuando el menor de edad sea emancipado, en la investigación de hechos
+punibles, por una orden judicial, o cuando así lo determine la ley. El consentimiento expreso que se
+haya dado sobre la información del niño, niña o adolescente siempre puede ser revocado.
+TÍTULO VI
+RÉGIMEN SANCIONATORIO
+Responsabilidad de los funcionarios públicos, funcionarias públicas, servidores públicos y
+servidoras públicas
+Artículo 80. Todas aquellas personas que ejerzan una función pública, incurren en responsabilidad
+civil, penal y administrativa por las infracciones cometidas a la presente Ley.
+De las infracciones y multas
+Artículo 81. Independientemente de la responsabilidad a que se refiere el artículo anterior, todas
+aquellas personas en el ejercicio de una función pública, incurren en responsabilidad y serán
+sancionadas por la Comisión Nacional de las Tecnologías de Información, según el procedimiento
+previsto establecido en la Ley Orgánica de Procedimientos Administrativos, con multa comprendida
+entre cincuenta Unidades Tributarias (50 U.T.) y quinientas Unidades Tributarias (500 U.T.), por las
+siguientes infracciones:
+1. Omitan la elaboración, presentación o implementación del Plan Institucional de Tecnologías de
+Información, en los términos señalados en la presente Ley y en la normativa aplicable.
+2. Cuando ordenen o autoricen el desarrollo, adquisición, implementación y uso de programas,
+equipos o servicios de tecnologías de información que no cumplan con las condiciones y términos
+establecidos en la presente Ley y normativa aplicable a la materia, sin previa autorización de la
+autoridad competente.
+3. Cuando incumplan las normas instruccionales, normas técnicas y estándares dictados por la
+autoridad competente de conformidad con la ley.
+4. Cuando no registre ante la autoridad competente los programas informáticos que utilicen o
+posean; su licenciamiento, código fuente y demás información y documentación de conformidad con
+la ley.
+5. Cuando en sus actuaciones electrónicas, omitan el uso de certificados y firmas electrónicas.
+6. Cuando usen equipos o aplicaciones con soporte criptográfico sin la correspondiente aprobación,
+certificación y homologación de la autoridad competente.
+7. Cuando altere un dato, información o documento subministrado por los servicios de información.
+8. Cuando emplee paca fines distintos a los solicitados, los datos, información o documentos
+obtenidos a través de un servicio de información.
+9. Cuando niegue, obstaculice o retrase la prestación de un servicio de información.
+
+25
+
+10. Cuando niegue o suministre en forma completa o inexacta información sobre el uso de las
+tecnologías de información, seguridad informática o interoperabilidad.
+11. Exigir la consignación, en formato físico, de documentos que contengan datos de autoría,
+información o documentos que se intercambien electrónicamente.
+12. Cuando incumplan los niveles de calidad establecidos para la prestación de los servicios de
+información.
+13. Celebrar, por sí o por intermedio de terceros, acuerdos que tengan por objeto, el intercambio
+electrónico de datos, información o documentos con otros órganos o entes del Estado, sin la
+autorización previa de la autoridad competente.
+Delegación para el inicio y sustanciación del procedimiento administrativo
+Artículo 82. La Comisión Nacional de las Tecnologías de Información puede delegar en las
+unidades de apoyo, el inicio y sustanciación de los procedimientos administrativos sancionatorios
+por las infracciones cometidas a la presente Ley.
+Inhabilitación
+Artículo 83. Sin perjuicio de las demás sanciones que correspondan, la Contraloría General de la
+República, de manera exclusiva y excluyente, inhabilitará al servidor público o servidora pública, de
+conformidad al procedimiento correspondiente en los siguientes casos:
+1. Cuando se niegue, obstruya o retrase, de manera injustificada, la prestación de un servicio de
+información que haya sido ordenado por la autoridad competente conforme a la ley.
+2. Cuando adquiera un software privativo sin haber sido autorizado expresamente por la autoridad
+competente.
+Revocatoria de la acreditación y certificación
+Artículo 84. La Comisión Nacional de las Tecnologías de Información revocará las acreditaciones
+de las unidades de servicios de verificación y certificación, así como las certificaciones que se
+otorguen conforme a la presente Ley, siguiendo el procedimiento previsto en la Ley Orgánica de
+Procedimientos Administrativos, por las causas siguientes:
+1. El incumplimiento de las condiciones establecidas en la norma instrucción al correspondientes
+para el otorgamiento de la acreditación o certificación.
+2. El suministro de datos falsos para obtener la acreditación.
+3. Cuando en la fiscalización, inspección o auditoria de un programa informático, equipo de
+computación o servicio de información, se hayan incumplido los procedimientos en los términos
+establecidos en las normas instruccionales correspondientes.
+4. Cuando haya certificado un programa informático, equipo de computación o servicio de
+información sin cumplir las disposiciones de la presente ley y demás normativa aplicable.
+DISPOSICIONES TRANSITORIAS
+Primera. El Poder Público y el Poder Popular, dentro de los noventa días siguientes a la entrada en
+vigencia de esta Ley, deben registrar ante la Comisión Nacional de las Tecnologías de Información
+26
+
+los programas informáticos que estén usando o posean, licencias y demás documentación asociada,
+de conformidad con la normativa instruccional correspondiente.
+Segunda. En caso que algún órgano o ente del Poder Público o el Poder Popular, para el momento
+de entrada en vigencia de la presenté Ley, cuente con tecnologías de información que no cumplan
+con lo aquí establecido, deberán presentar ante la Comisión Nacional de las Tecnologías de
+Información, dentro de los doce meses siguientes, un plan institucional de adaptación o migración de
+las tecnologías de información para su aprobación.
+Tercera. El Poder Público y el Poder Popular deberán elaborar los planes institucionales
+correspondientes para implementar el uso de las tecnologías de información libres en su gestión
+internaren sus relaciones con otros órganos y entes, con el Poder Popular y con las personas. Estos
+planes deberán ser presentados ante la Comisión Nacional de las Tecnologías de Información, en las
+condiciones y términos que establezca la norma instruccional correspondiente y podrá ordenarse la
+aplicación de los correctivos necesarios cuando contravengan la ley y la normativa que corresponda.
+Cuarta. A partir de la publicación en Gaceta Oficial de la presente Ley, el Centro Nacional de
+Tecnologías de Información y la Superintendencia de Servicios de Certificación Electrónica,
+procederán a su reestructuración, adecuación, organización y funcionamiento de conformidad con
+las competencias atribuidas en esta Ley, y se establece un lapso máximo de diez meses para tales
+efectos.
+DISPOSICIONES DEROGATORIAS
+Primera. Se deroga el Decreto N° 3.390 de fecha 23 de diciembre de 2004, mediante el cual se
+dispone que la Administración Pública, Nacional empleará prioritariamente Software Libre
+desarrollado con Estándares Abiertos en sus sistemas, proyectos y servicios informáticos, publicado
+en la Gaceta Oficial de la República Bolivariana de Venezuela N° 38.095 de fecha 28 de diciembre de
+2004.
+Segunda. Se deroga el Capítulo I del Título III y el Título V del Decreto con Rango, Valor y Fuerza
+de Ley sobre Acceso e Intercambio Electrónico de Datos, Información y Documentos entre los
+Órganos y Entes del Estado, publicado en la Gaceta Oficial de la República Bolivariana de Venezuela
+N° 39.945 de fecha 15 de junio de 2012.
+DISPOSICIONES FINALES
+Primera. Todo programa informático que se desarrolle, adquiera o implemente en el Poder Público,
+después de la entrada en vigencia de esta Ley, deberá ser en software libre y con estándares
+abiertos, salvo las excepciones expresamente establecidas en la ley y previa autorización del ente
+competente.
+Segunda. El Poder Público deberá proceder a la digitalización de sus archivos físicos. Los mensajes
+de datos que resulten de esta digitalización serán firmados electrónicamente por la persona
+autorizada, con el fin de certificar dichas copias electrónicamente.
+Tercera. La presente Ley entrará en vigencia una vez transcurrido diez meses contados a partir de
+su publicación en la Gaceta Oficial de la República Bolivariana de Venezuela.
+
+Dada, firmada y sellada en el Palacio Federal Legislativo, sede de la Asamblea Nacional, en Caracas,
+a los diecisiete días del mes de septiembre de dos mil trece. Años 203° de la Independencia y 154°
+27
+
+de la Federación.
+DIOSDADO CABELLO RÓNDON
+Presidente de la Asamblea Nacional
+DARIO VIVAS VELAZCO
+Primer Vicepresidente
+BLANCA EKHOUT
+Segunda Vicepresidenta
+VICTOR CLARCK BOSCÁN
+Secretario
+FIDEL ERNESTO VÁSQUEZ L.
+Subsecretario
+Promulgación de la Ley de Infogobierno, de conformidad con lo previsto en el artículo 213 de la
+Constitución de la República Bolivariana de Venezuela.
+Palacio de Miraflores, en Caracas, a los diez días del mes de octubre de dos mil trece. Años 203° de
+la Independencia, 154° de la Federación y 14° de la Revolución Bolivariana.
+Cúmplase,
+(L.S.)
+NICOLÁS MADURO MOROS
+Presidente de la República
+
+28
+
+

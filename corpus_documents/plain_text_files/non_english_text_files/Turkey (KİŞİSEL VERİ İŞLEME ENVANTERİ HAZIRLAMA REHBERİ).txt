@@ -1,0 +1,2851 @@
+KVKK YAYINLARI NO: 30
+
+KİŞİSEL VERİ İŞLEME ENVANTERİ
+HAZIRLAMA REHBERİ
+
+KİŞİSEL VERİ İŞLEME ENVANTERİ
+HAZIRLAMA REHBERİ
+
+KİŞİSEL VERİ İŞLEME ENVANTERİ
+HAZIRLAMA REHBERİ
+KVKK YAYINLARI NO: 30
+ISBN: 978-605-80554-2-1
+Temmuz, 2019 ANKARA
+T.C. KİŞİSEL VERİLERİ KORUMA KURUMU
+ADRES: Nasuh Akar Mahallesi 1407 Sokak No: 4 Çankaya / ANKARA
+Telefon: 0.312.216 50 00
+www.kvkk.gov.tr
+
+Bu rehberde yer alan yazı ve sair içeriklerin, bireysel kullanım dışında izin alınmadan
+kısmen ya da tamamen kopyalanması, çoğaltılması, kullanılması, yayımlanması ve
+dağıtılması yasaktır. Bu yasağa uymayanlar hakkında 5846 sayılı Kanun uyarınca yasal
+işlem yapılacaktır. Ürünün tüm hakları saklıdır.
+
+İÇİNDEKİLER
+GİRİŞ
+
+1
+
+TANIM
+
+7
+
+ENVANTER HAZIRLAMAKLA YÜKÜMLÜ OLANLAR
+
+11
+
+ENVANTERİN VERBİS’TEN FARKLARI
+
+15
+
+ENVANTERİN İÇERİĞİ
+
+21
+
+ENVANTER HAZIRLAMAK ÜZERE BİR EKİBİN OLUŞTURULMASI veya
+KİŞİLERİN GÖREVLENDİRİLMESİ
+
+25
+
+ENVANTER HAZIRLAMA AŞAMALARI
+1) Süreç veya Faaliyet Bazında Kişisel Verilerin Tespiti
+2) Tespit Edilen Kişisel Verilerin Niteliklerinin Belirlenmesi
+3) İşlenen Kişisel Verinin Hukuki Sebebinin Tespiti
+4) Kişisel Veri İşleme Amaçlarının Tespiti
+5) Veri Konusu Kişi Grubunun Belirlenmesi
+6) İşlenen Kişisel Verilerin Saklama Süresinin Belirlenmesi
+7) İşlenen Kişisel Verilerin Aktarıldığı Alıcı / Alıcı Gruplarının Belirlenmesi
+
+29
+31
+33
+34
+35
+37
+39
+41
+
+8) Yabancı Ülkelere Aktarılan Kişisel Verilerin Belirlenmesi
+9) İşlenen Kişisel Veriler İçin Alınan Teknik ve İdari Tedbirlerin Belirlenmesi
+ENVANTER ÖRNEĞİ
+
+42
+43
+45
+
+GİRİŞ
+
+Günümüzde birçok şirket, kamu kurum ve kuruluşu, yabancı kurum veya gerçek kişi kendi
+faaliyetleri kapsamında çok sayıda kişisel veri elde etmekte, kullanmakta ve daha iyi
+hizmet sunmak veya ticaret hacmini artırarak ekonominin gelişmesini sağlamak amacıyla
+daha fazla kişisel veriye ulaşmayı ve üçüncü kişilerle paylaşmayı hedeflemektedir. Ancak
+daha fazla kişisel veri işlemeye yönelmek; işlenen kişisel verilerin sağladığı kolaylık ve
+avantajlar nedeniyle ülke ekonomisine katkı yapmakla birlikte veri güvenliğine dair çeşitli
+risk ve ihlal ihtimallerini de gündeme getirmektedir.
+Bu riskler nedeniyle kişisel verilerin korunması ve buna yönelik hukuki bir altyapının
+oluşturulmasına ihtiyaç duyulmuş olup öncelikle Türkiye Cumhuriyeti Anayasasında
+2010 yılında yapılan değişiklikle, kişisel verilerin korunması hakkı Anayasal güvenceye
+kavuşturularak buna yönelik Kanunla düzenleme yapılması gerektiği hükme bağlanmıştır.
+Türkiye Cumhuriyeti Anayasası
+MADDE 20 - Herkes, özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına
+sahiptir. Özel hayatın ve aile hayatının gizliliğine dokunulamaz.
+(Ek fıkra: 12/9/2010-5982/2 md.) Herkes, kendisiyle ilgili kişisel verilerin korunmasını
+isteme hakkına sahiptir. Bu hak; kişinin kendisiyle ilgili kişisel veriler hakkında
+bilgilendirilme, bu verilere erişme, bunların düzeltilmesini veya silinmesini talep etme ve
+amaçları doğrultusunda kullanılıp kullanılmadığını öğrenmeyi de kapsar. Kişisel veriler,
+ancak kanunda öngörülen hallerde veya kişinin açık rızasıyla işlenebilir. Kişisel verilerin
+korunmasına ilişkin esas ve usuller kanunla düzenlenir.
+
+3
+
+Bu hükme istinaden TBMM tarafından 6698 sayılı Kişisel Verilerin Korunması Kanunu
+(“Kanun”) kabul edilmiş ve 07.04.2016 tarihli Resmi Gazete’de yayımlanarak yürürlüğe
+girmiştir.
+Kanun, temel hak ve hürriyetlerin korunmasını, Türkiye’de kişisel veri işlenmesi konusunda
+gerçek ve tüzel kişilerin uyacakları usul ve esasların belirlenmesini, veri sorumlularınca
+gelişigüzel veya Kanuna aykırı olarak kişisel veri işlemenin, yetkisiz kişilerce bu verilere
+erişim sağlamanın ve hukuka aykırı olarak paylaşmanın sonucunda kişilik haklarının ihlal
+edilmesinin önüne geçilmesini hedeflemiştir. Bu yönüyle Kanun, kesinlikle kişisel verilerin
+işlenmesini sınırlamamakta, tam tersine veri temelli ekonomide daha rekabetçi bir ortam
+hazırlamak adına kişisel verilerin işlenmesine ilişkin usul ve esasları düzenlemektedir.
+Kanunla, idari ve mali özerkliğe sahip, Adalet Bakanlığı ile ilişkili kamu tüzel kişiliğini haiz
+olarak Kişisel Verileri Koruma Kurumu (“Kurum”) kurulmuş olup genel olarak Kanunun
+uygulanmasını sağlamak, Kanun çerçevesinde düzenleyici ve denetleyici işlem yapmak,
+gerekli görülen alanlarda ikincil düzenlemeler yapmak, veri sorumlularının tamamen
+şeffaflık ve hesap verilebilirlik ilkeleri doğrultusunda Kanuna uygun bir şekilde kişisel veri
+işlemesini sağlamak için görev yapmaktadır.
+Bu kapsamda Kurum tarafından, Kanunun uygulanmasına yönelik olmak üzere veri
+sorumlularının uyması gereken bazı usul ve esasları düzenleyen “Veri Sorumluları Sicili
+Hakkında Yönetmelik” ve “Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale
+Getirilmesi Hakkında Yönetmelik” hazırlanmış olup anılan yönetmelikler 01.01.2018 tarihi
+
+4
+
+itibariyle yürürlüğe girmiştir.
+Kanun kapsamında, kişisel veri işlemekte olan gerçek ve tüzel kişiler için Kanunun
+temel ilkelerine ve kişisel veri işleme şartlarına uyum, yurt içi ve yurt dışına aktarımda
+Kanun hükümlerine uyum, aydınlatma yükümlülüğü, veri güvenliğine ilişkin teknik ve idari
+tedbirleri alma, Veri Sorumluları Siciline (“Sicil”) kayıt ile silme, yok etme veya anonim hale
+getirme (“İmha”) gibi yükümlülükleri getirilmiştir.
+Kanunla getirilenlere ilave olarak söz konusu yönetmeliklerle de bazı yükümlülükler
+getirilmiş olup bunlardan birisi; Kişisel Veri İşleme Envanteri (“Envanter”) hazırlanmasıdır.
+
+5
+
+6
+
+TANIM
+
+Envanter, 30.12.2017 tarihli Resmi Gazete’de yayımlanan Veri Sorumluları Sicili Hakkında
+Yönetmeliğin 4. maddesi 1. fıkrası (h) bendinde tanımlanmıştır. (28.04.2019 tarihli
+Resmi Gazete’de yayımlanan Veri Sorumluları Sicili Hakkında Yönetmelikte Değişiklik
+Yapılmasına Dair Yönetmeliğin 1. maddesi ile bentte değişiklik yapılmıştır.)
+Veri Sorumluları Sicili Hakkında Yönetmelik
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+h) Kişisel veri işleme envanteri: Veri sorumlularının iş süreçlerine bağlı olarak
+gerçekleştirmekte oldukları kişisel veri işleme faaliyetlerini; kişisel veri işleme amaçları
+ve hukuki sebebi, veri kategorisi, aktarılan alıcı grubu ve veri konusu kişi grubuyla
+ilişkilendirerek oluşturdukları ve kişisel verilerin işlendikleri amaçlar için gerekli olan azami
+muhafaza edilme süresini, yabancı ülkelere aktarımı öngörülen kişisel verileri ve veri
+güvenliğine ilişkin alınan tedbirleri açıklayarak detaylandırdıkları envanteri,” ifade eder.
+Söz konusu yönetmeliklerde Envanter, “Veri sorumlularının iş süreçlerine bağlı olarak
+gerçekleştirmekte oldukları kişisel veri işleme faaliyetlerini; kişisel veri işleme amaçları
+ve hukuki sebebi, veri kategorisi, aktarılan alıcı grubu ve veri konusu kişi grubuyla
+ilişkilendirerek oluşturdukları ve kişisel verilerin işlendikleri amaçlar için gerekli olan
+azami muhafaza edilme süresini, yabancı ülkelere aktarımı öngörülen kişisel verileri ve
+veri güvenliğine ilişkin alınan tedbirleri açıklayarak detaylandırdıkları envanteri,” olarak
+tanımlanmıştır.
+
+9
+
+Buna göre Envanter, faaliyetleri kapsamında kişisel veri işlemekte olan veri sorumlularınca
+tüm süreçlerin değerlendirilmesi, bu süreçler kapsamındaki tüm faaliyetlerin irdelenmesi,
+her faaliyetle ilgili işlenen kişisel verilerin tek tek belirlenmesi, bu kişisel verilerin hangi
+amaçlar ve hukuki sebeple işlendiği, aktarılıp aktarılmadığı, kimlere aktarıldığı, işlenen
+kişisel verinin kimlere ait olduğu, her bir kişisel veri için veri sorumlusunca belirlenen
+saklama süresi, yurt dışına aktarım yapılıp yapılmadığı, verilerin güvenliği için hangi
+teknik veya idari tedbirlerin alındığı bilgilerinin detaylı analizinin yapılması sonucunda
+ortaya çıkacak bir tür rapordur.
+Envanter hazırlama yükümlülüğü getirilmesinin nedeni; veri sorumlularının faaliyetlerine
+bağlı tüm süreçlerinde Kanuna uyumunun sağlanması, başka bir ifadeyle Kanuna aykırı
+bir kişisel veri işleme durumu olup olmadığının kolayca tespitinin sağlanmasıdır. Diğer bir
+ifadeyle, kişisel veri işleme faaliyetlerinin Kanuna uyumu ile ilgili veri sorumlusunun bir tür
+kendi kendini denetlemesidir.
+
+10
+
+ENVANTER
+HAZIRLAMAKLA
+YÜKÜMLÜ OLANLAR
+
+Veri Sorumluları Sicili Hakkında Yönetmeliğin 5. maddesi 1. fıkrası (ç) bendinde “Sicile
+kayıtla yükümlü olan veri sorumluları, Kişisel Veri İşleme Envanteri hazırlamakla
+yükümlüdür. Sicil başvurularında Sicile açıklanacak bilgiler Kişisel Veri İşleme Envanterine
+dayalı olarak hazırlanır.” hükmü, (d) bendinde de “Kanunun 10. maddesinde veri
+sorumluları için belirtilen aydınlatma yükümlülüğünde, Kanunun 13. maddesinde belirtilen
+ilgili kişi başvurularının yanıtlanmasında ve ilgili kişiler tarafından açıklanacak açık rızanın
+kapsamının belirlenmesinde kişisel veri işleme envanterine dayalı olarak Sicile sunulan
+ve Sicilde yayınlanan bilgiler esas alınır.” hükmü yer almaktadır. (28.04.2019 tarihli
+Resmi Gazete’de yayımlanan Veri Sorumluları Sicili Hakkında Yönetmelikte Değişiklik
+Yapılmasına Dair Yönetmeliğin 2. maddesi ile (ç) bendinde değişiklik yapılmıştır.)
+Veri Sorumluları Sicili Hakkında Yönetmelik
+MADDE 5 – (1) Sicilin oluşturulması, idaresi ve gözetimi hususunda aşağıdaki ilke, usul
+ve esaslara uyulur:
+ç) Sicile kayıtla yükümlü olan veri sorumluları, Kişisel Veri İşleme Envanteri hazırlamakla
+yükümlüdür. Sicil başvurularında Sicile açıklanacak bilgiler Kişisel Veri İşleme Envanterine
+dayalı olarak hazırlanır.
+d) Kanunun 10 uncu maddesinde veri sorumluları için belirtilen aydınlatma yükümlülüğünde,
+Kanunun 13 üncü maddesinde belirtilen ilgili kişi başvurularının yanıtlanmasında ve ilgili
+kişiler tarafından açıklanacak açık rızanın kapsamının belirlenmesinde kişisel veri işleme
+envanterine dayalı olarak Sicile sunulan ve Sicilde yayınlanan bilgiler esas alınır.
+
+13
+
+Ayrıca Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında
+Yönetmeliğin 5. maddesi 1. fıkrasında “Kanunun 16 ncı maddesi gereğince Veri Sorumluları
+Siciline kayıt olmakla yükümlü olan veri sorumluları, kişisel veri işleme envanterine uygun
+olarak kişisel veri saklama ve imha politikası hazırlamakla yükümlüdür” hükmü yer
+almaktadır.
+Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik
+MADDE 5 – (1) Kanunun 16 ncı maddesi gereğince Veri Sorumluları Siciline kayıt olmakla
+yükümlü olan veri sorumluları, kişisel veri işleme envanterine uygun olarak kişisel veri
+saklama ve imha politikası hazırlamakla yükümlüdür.
+Buna göre Veri Sorumluları Siciline kayıt yükümlülüğü olan tüm veri sorumlularının
+Envanter hazırlaması gerekmektedir.
+Bununla birlikte Sicile kayıt ve aydınlatma yükümlülüğü yerine getirilirken veya ilgili kişi
+başvurularının yanıtlanmasında ve açık rızanın kapsamının belirlenmesinde söz konusu
+Envanterin esas alınması gerekmektedir.
+
+14
+
+ENVANTERİN
+VERBİS’TEN
+FARKLARI
+
+Kanunun 16. maddesine göre; Veri Sorumluları Sicilinin kamuya açık olarak tutulması
+gerektiği ve kişisel verileri işleyen gerçek ve tüzel kişilerin veri işlemeye başlamadan önce
+Veri Sorumluları Siciline kaydolmak zorunda olduğu belirtilmiştir. Ayrıca Sicile kayıtta
+girilmesi gereken bilgiler de açık bir şekilde sayılmıştır.
+Buna göre, Sicile kayıtta veri sorumlusu ve varsa temsilcisinin kimlik ve adres bilgileri,
+kişisel verilerin hangi amaçla işleneceği, veri konusu kişi grubu ve grupları ile bu kişilere
+ait veri kategorileri hakkındaki açıklamalar, kişisel verilerin aktarılabileceği alıcı veya alıcı
+grupları, yabancı ülkelere aktarımı öngörülen kişisel veriler, kişisel veri güvenliğine ilişkin
+alınan tedbirler ve kişisel verilerin işlendikleri amaç için gerekli olan azami süreye ilişkin
+giriş yapılması gerekmektedir.
+Kurumumuzca bu kapsamda veri sorumluları tarafından Sicile bilgi girişi yapılmasına
+imkân sağlayan sistem hazırlanmış ve Veri Sorumluları Sicil Bilgi Sistemi (“VERBİS”) adı
+ile hizmete açılmıştır.
+Sicilin kamuya açık olarak tutulacak olması nedeniyle VERBİS’e sadece kategoriler
+halinde bilgiler girilecektir. Diğer bir deyişle VERBİS’e kişisel verisi işlenen gerçek kişilere
+ait veriler değil, bu verilerin üst başlıkları halinde kategorik bazda bilgi girişleri yapılacaktır.
+Envanter ve VERBİS, veriler açısından temelde birçok noktada benzerlik gösterse de 3
+konuda farklılık arz etmektedir.
+
+17
+
+a) VERBİS’te, “veri kategorileri” bazında veri sorumlusu tarafından kişisel veri işlenip
+işlenmediği ve işleniyorsa bu veri kategorilerinin hangi amaçlarla işlendiği, aktarım olup
+olmadığı, aktarım yapılan alıcı grupları, varsa saklama süresi, ilgili kişiler ve alınan
+güvenlik tedbirleri konusunda bilgi girişi yapılması gerekirken;
+Envanterde veri sorumlusunun tüm iş süreçlerinde yer alan tüm faaliyetleri bazında
+elde ettiği belge, doküman, veri kümesi, kayıtlar gibi kişisel veri içeren tüm fiziksel veya
+elektronik ortamlarda işlenen kişisel verilerin her biri için ayrı ayrı olmak üzere hangi
+amaç ve hukuki gerekçelerle işlendiği, aktarım olup olmadığı, aktarım yapılan üçüncü
+taraflar, saklama süreleri, veri konusu kişi grupları ve alınan güvenlik tedbirleri bilgisini
+içeren ve çok daha detaylı olarak hazırlanan bir rapor olması gerekir. Kısaca VERBİS’te
+sadece başlıklar halinde kategorik bazda bilgi girişi yapılırken, Envanterde bu verilerin, alt
+kırılımlarıyla birlikte detaylı şekilde yer alması gerekmektedir.
+b) Kanunun 16. maddesi gereği kamuya açık olarak Kurumumuzca tutulmakta olan
+VERBİS’e girilmiş olan bilgiler dileyen herkes tarafından görüntülenebilmekte iken,
+Envanter veri sorumlusunun kendi bünyesinde kalacak ve kamuya açık olmayacaktır.
+Ancak, Kurul tarafından talep edilmesi durumunda Envanterin Kurula ibraz edilmesi
+gerekmektedir. Ayrıca, ilgili kişiler tarafından veri sorumlusuna başvurularda, ilgili kişiye
+verilecek cevap için Envanterden faydalanılması gerekmektedir.
+
+18
+
+c) VERBİS için bir sistem hazırlanmış ve ilgili ekranlardan giriş yapılması zorunlu
+tutulmuşken Envanterin şekli açısından herhangi bir yönlendirme yapılmamıştır. Envanter,
+örneğin office dosyası şeklinde veya veri tabanında ilgili dosyalarda tutulabilecektir.
+
+19
+
+20
+
+ENVANTER İÇERİĞİ
+
+Veri Sorumluları Sicili Hakkında Yönetmeliğe göre Envanterde asgari olarak;
+-Veri kategorisi,
+-Kişisel veri işleme amaçları ve hukuki sebebi,
+-Aktarılan alıcı / alıcı grupları,
+-Veri konusu kişi grupları,
+-Kişisel verilerin işlendikleri amaçlar için gerekli olan azami muhafaza edilme süresi,
+-Yabancı ülkelere aktarımı öngörülen kişisel veriler,
+-Veri güvenliğine ilişkin alınan teknik ve idari tedbirler,
+yer alması gerekmektedir.
+İşlenen kişisel verilerin niteliği ve sayısı, kişisel verisi işlenen kişilerin niteliği ve sayısı,
+kişisel verilerin çeşitliliği, kişisel verilerin veri sorumlusu bünyesinde veya aktarım
+yapılan üçüncü kişiler nezdinde dolaşımı, veri güvenliği için alınması gereken teknik ve
+idari tedbirlerin zorluk derecesi, yurt dışına aktarım, açık rıza alınmasını gerektirecek
+çok sayıda kişisel veri işlenmesi, saklama süreleri açısından farklılık arz eden verilerin
+niceliği, özel nitelikli kişisel veriler için alınacak yeterli önlemler, aktarım yapılacaksa
+bunun hukuki dayanağı gibi birçok kriter değerlendirilerek Envanterin mahiyeti, şekli ve
+yapısı ile bulunacağı ortama karar verilmesi daha uygun olacaktır.
+Belirtmek gerekir ki; anılan yönetmeliklerde, Envanterde bulunması gereken asgari
+hususlar yer almakta olup buradan, envanterin sadece bu hususları içermesi gerektiği
+
+23
+
+anlaşılmamalıdır. Aksine veri sorumluları, asgari olarak belirtilen bu hususlara faaliyetlerini
+kapsayacak şekilde diğer hususları da (departman adı, birim adı, bilgi girişi yapan kişi,
+süreç adı, faaliyetin adı, faaliyetin açıklaması, işlenen kişisel veri kategorisi, işlenen kişisel
+veri, Kanunun 5. maddesindeki işleme şartı, işlenen özel nitelikli kişisel veri kategorisi,
+işlenen özel nitelikli kişisel veri, Kanunun 6. maddesindeki işleme şartı, kişisel verisi
+işlenenlere ilk elde etme esnasında aydınlatma yapılıp yapılmadığı, kişisel verinin elde
+edildiği kaynak, elde etme yöntemi, saklandığı elektronik ortam, saklandığı fiziksel ortam,
+biriminiz dışında bu veriye erişenler, saklama amacı, periyodik imha süresi, aktarma
+amacı, kişisel veri aktarımının hukuki sebebi, kişisel veri aktarım yöntemi, özel nitelikli
+kişisel veri aktarımının hukuki sebebi, özel nitelikli kişisel veri aktarım yöntemi, alınan idari
+tedbirler, alınan teknik tedbirler, özel nitelikli kişisel veriler için alınan yeterli önlemler gibi)
+ilave edebileceklerdir.
+
+24
+
+ENVANTER
+HAZIRLAMAK
+ÜZERE EKİBİN
+OLUŞTURULMASI
+veya KİŞİLERİN
+GÖREVLENDİRİLMESİ
+
+Veri sorumluları, gerek Kanun gerekse diğer ikincil mevzuat düzenlemeleri kapsamındaki
+yükümlülükleri doğru ve eksiksiz bir şekilde yerine getirebilmek için öncelikle bir kişiyi
+veya birden çok kişiden oluşan birimi / ekibi görevlendirebilir.
+Görevlendirilecek bu kişi veya kişilerin, kişisel verilerin korunması ile ilgili mevzuat ve
+uygulamalar konusunda yetkin, kişisel veri işleme süreçleri ve bu süreçlere bağlı olarak
+işlenen kişisel veriler hakkında detaylı bilgi sahibi olan hukuk, bilgi işlem ve insan
+kaynakları gibi birimlerde görev yapan kişi veya kişilerden seçilmesi önerilir. Ayrıca
+yapılacak görevlendirmenin geniş katılımla oluşturulmasının envanterin daha nitelikli
+hazırlanmasına katkısı olacağı tabiidir.
+İkinci adım olarak görevlendirilen bu birim/ekip tarafından, veri sorumlusunun mevcut
+fiziksel veya elektronik ortamda işlemekte olduğu tüm kişisel verilerin analizini yapmalıdır.
+Bu analiz kapsamında, öncelikle işlenen kişisel verilerin niteliğinin (kişisel veri, özel nitelikli
+kişisel veri) tespit edilmesi, akabinde de kişisel verilerin elde edilmesi, kaydedilmesi,
+kullanımının engellenmesi, silinmesi, yok edilmesi, anonim hale getirilmesi, aktarılması,
+güncellenmesi, saklanması, depolanması, değiştirilmesi, açıklanması, devralınması,
+sınıflandırılması gibi kişisel veri işlemeye ilişkin tüm aşamaların tek tek tespit edilmesi
+gerekmektedir. Ayrıca, bu doğrultuda kişisel veri iş akış şemalarının çizilmesi önerilmektedir.
+Üçüncü adım olarak, söz konusu birim/ekip tarafından tüm kişisel veri işleme faaliyetleri
+doğrultusunda Envanter hazırlanmalı ve buna göre aydınlatma metinleri oluşturulmalıdır.
+Herhangi bir işleme şartı ile işleme amacı bulunmayan kişisel veri olup olmadığı Envanter
+
+27
+
+aracılığıyla tespit edilebileceğinden bu durumda olan veriler için süre geçmeden imha
+işlemleri uygulanmalıdır.
+Dördüncü adım olarak da, veri sorumlusu bünyesindeki tüm çalışanlar düzeyinde kişisel
+veri koruma kültürü ve bu kapsamda farkındalık oluşmasını sağlamak amacıyla eğitimler
+verilmesi önerilmektedir.
+
+28
+
+ENVANTER
+HAZIRLAMA
+AŞAMALARI
+
+Envanter hazırlama süreci için Ekip tarafından atılması gereken adımlar aşağıda maddeler
+halinde sayılmıştır:
+
+1) Süreç veya Faaliyet Bazında Kişisel Verilerin Tespiti
+Ekibin öncelikle tüm iş süreçlerini birimler bazında tek tek tespit etmesi, süreçler
+kapsamındaki faaliyetleri listelemesi, faaliyetleri yerine getirirken hangi tür kişisel veri
+içeren bilgi veya belgeleri elde ettiğini ve bu bilgi veya belgelerde yer alan tüm kişisel
+verileri tek tek belirlemesi gerekmektedir.
+Burada farklı süreçler ve faaliyetler için işlenen kişisel veriler tespit edileceğinden aynı
+kişisel verinin birden fazla süreçte de işlenmekte olduğunu, bu nedenle aynı kişisel verinin
+birden fazla süreç içerisinde tekrar tekrar belirtilebileceğini yani bu konuda mükerrerlikler
+olabileceğini göz önünde bulundurmak gerekir.
+Ayrıca her bir süreç ve faaliyet bazındaki kişisel verilerin farklı amaçlarla işlenebileceği,
+farklı saklama sürelerinin olabileceği, aktarım veya güvenlik tedbirleri açısından farklılıklar
+yaşanabileceği gibi nedenlerle her bir süreç veya faaliyet kapsamındaki kişisel verilere
+mutlaka Envanterde yer verilmesi önerilmektedir.
+Süreçler kapsamında hangi kişisel verilerin işlendiğinin tek tek tespit edilmesi, bir anlamda
+veri sorumlusu faaliyetlerinin kişisel veriler açısından fotoğrafının çekilmesidir. Her veri
+sorumlusu, kendi nezdinde hangi verilerin işlenmekte olduğunu, hazırlanan Envanter ile
+
+31
+
+kolayca görebilecektir. Bu nedenle söz konusu tespit işlemi, her birimdeki tüm kişisel veri
+içeren bilgi ve belgeler ile faaliyet ve süreçlerin analizini gerektirecektir.
+Süreç ve faaliyetlerde işlenen kişisel verilerle ilgili veri kategorileri ile alt kırılımlarının
+doğru tespit edilmesi, bu verilerle eşleştirilecek amaçlar, saklama süreleri, işleme şartları
+gibi hususlar açısından önem arz etmektedir.
+Veri sorumluları veri kategorilerini belirlerken, VERBİS içerisinde yer alan veri kategorileri
+bölümünden de faydalanabilir. Ancak, VERBİS’te kategorik bazda yer alan kişisel verilerin
+Envanterde daha detaylı olması yani alt kırılımlarına kadar kişisel verilerin detaylandırılması
+gerekmektedir.
+
+32
+
+2) Tespit Edilen Kişisel Verilerin Niteliklerinin Belirlenmesi
+Her bir süreç ve faaliyet için işlendiği tespit edilen kişisel verilerin niteliklerinin tespit edilmesi
+de Envanterin diğer bölümlerinin hazırlanması için önemli bir adımdır. Bu noktada, işlenen
+kişisel verinin özel nitelikli kişisel veri olup olmadığına bakılmalıdır. Örneğin bir şirket,
+çalışanına ait özlük dosyası oluştururken kimlik, özlük, finans, iletişim verileri gibi kişisel
+veri işlediği gibi sendika üyeliği, ceza mahkûmiyeti bilgisi, sağlık verisi de işliyor olabilir. Bu
+durumda, işlemekte olduğu özel nitelikli kişisel verileri tespit etmelidir.
+Eğer işlenen kişisel veri özel nitelikli kişisel veri ise bunlara ilişkin Kanunda öngörülen
+işleme şartları, işleme amaçları, yurt içine aktarım, yurt dışına aktarım ve alınması
+gereken güvenlik tedbirleri açısından farklılıklar olacağından özel nitelikli kişisel verilerin
+ayrımı burada önem arz etmektedir.
+
+33
+
+3) İşlenen Kişisel Verinin Hukuki Sebebinin Tespiti
+Veri sorumlularının, iş süreçlerine bağlı olarak işlediği kişisel verilerin her biri için Kanunun
+5. veya 6. maddelerinde yer alan işleme şartlarından hangisine dayanarak kişisel veri
+işlemekte olduğuna dair Envanterde belirleme yapacağı alandır.
+Bilindiği üzere Kanunun 5. ve 6. maddelerinde kişisel veri işleme şartları sayılmış olup
+bu işleme şartlarından herhangi birinin olmaması halinde kişisel veri işlenmesi Kanuna
+aykırı olur. Örneğin bir kamu kurumu, ilgili kanunlarda açıkça öngörülmesi ve bu konuda
+kendisine görev verilmesi nedeniyle veya hukuki yükümlülüğün yerine getirilmesi için
+zorunlu olması nedeniyle kişisel veri işliyor olabilir. Örneğin bir emlakçı, kiracı ve kiraya
+veren ile birlikte imzalanan sözleşme çerçevesinde kişisel veri işliyor olabilir. Yine bir
+kıyafet mağazası, ilgili kişiden aldığı açık rıza kapsamında o kişinin elektronik posta
+adresine ticari elektronik ileti veya cep telefonuna SMS iletebilir. Bu şekilde, kişisel veri
+işleme şartlarından hangisi mevcutsa bunlardan birine dayanarak kişisel veri işleyebilir.
+Eğer halihazırda işlemekte oldukları kişisel veriler için söz konusu işleme şartlarından
+herhangi biri mevcut değilse veri sorumlusunun artık iş süreçlerini yeniden düzenlemesi
+gerekmektedir. Bu kapsamda söz konusu kişisel verinin imha edilmesi veya diğer kişisel
+veri işleme şartlarının tekrar gözden geçirilerek kişisel veri işlemeyi Kanuna uyumlu hale
+getirmesi gerekir.
+
+34
+
+4) Kişisel Veri İşleme Amaçlarının Tespiti
+Kanunun 4. maddesi 2. fıkrası (ç) bendinde yer alan “İşlendikleri amaçla bağlantılı, sınırlı
+ve ölçülü olma” ilkesi gereği veri sorumlularının, faaliyetleri kapsamında işlediği kişisel
+verileri, hangi işleme amacına dayanarak işlediğini tek tek kişisel veri bazında belirlemesi
+gerekmektedir.
+Kişisel Verilerin Korunması Kanunu
+MADDE 4 - (2) Kişisel verilerin işlenmesinde aşağıdaki ilkelere uyulması zorunludur:
+ç) İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma.
+Bunun doğal sonucu olarak veri sorumlusu, işlemekte olduğu herhangi bir kişisel veri için
+bir amaç tespit edemiyorsa bu durumda bu veriyi işlememeli veya işlenmişse söz konusu
+veri için imha işlemi uygulamalıdır.
+Veri sorumluları, işledikleri kişisel verilere ilişkin işleme amaçlarını belirlerken, VERBİS
+içerisinde yer alan “kişisel veri işleme amaçları” bölümünden de faydalanabilirler.
+Örneğin bir şirketin, çalışanlarına ait kimlik verilerini işlediği amaçlarla iletişim verilerini
+işlediği amaçlar farklı olabilir. Buna göre, kimlik verisini bilgi güvenliği, çalışan memnuniyeti,
+iş akdi ve mevzuattan kaynaklı yükümlülüklerin yerine getirilmesi, çalışan yan hak ve
+menfaatleri, denetim, eğitim, erişim yetkileri, finans ve muhasebe işleri, fiziksel mekan
+güvenliği, insan kaynakları, iş sağlığı / güvenliği, müşteri ilişkileri, performans değerlendirme,
+
+35
+
+sözleşme süreçlerinin yürütülmesi, ücret politikası, yetenek / kariyer gelişimi, yetkili kurum
+ve kuruluşlara bilgi verilmesi gibi amaçlarla işlediğini beyan etmekte iken iletişim verisini
+acil durum yönetimi, çalışan memnuniyeti, iş akdi ve mevzuattan kaynaklı yükümlülüklerin
+yerine getirilmesi, denetim, eğitim, iletişim faaliyetlerinin yürütülmesi, iş süreçlerinin
+iyileştirilmesi, lojistik faaliyetlerinin yürütülmesi, mal / hizmet satın alımı, müşteri ilişkileri,
+organizasyon ve etkinlik yönetimi, reklam / kampanya / promosyon süreçlerinin yürütülmesi
+gibi amaçlarla işlediğini beyan edebilir.
+
+36
+
+5) Veri Konusu Kişi Grubunun Belirlenmesi
+Veri konusu kişi grubu alanı; veri sorumluları tarafından, kişisel verilerin hangi veri konusu
+kişi grupları için işlendiğine dair belirlemenin yapılacağı alandır.
+Veri sorumlularının, faaliyetleri kapsamında işlediği kişisel verileri hangi kişi veya kişi
+grupları ile ilgili olarak işlediğini tek tek kişisel veri bazında belirlemesi gerekmektedir.
+Veri sorumluları, işledikleri kişisel verilere ait veri konusu kişi gruplarını belirlerken,
+VERBİS içerisinde yer alan “veri konusu kişi grupları” bölümünden de faydalanabilirler.
+Örneğin bir markette ürün veya hizmet alan kişi için işlenen kişisel veriler ile ziyaretçi
+olan kişi için işlenen kişisel verilerin ayrıca belirlenmesi gerekmektedir. Veri sorumluları,
+işlemekte olduğu kişisel veriler için çalışan, çalışan adayı, denek, habere konu kişi,
+hissedar/ortak, potansiyel ürün veya hizmet alıcısı, sınav adayı, stajyer, tedarikçi çalışanı,
+tedarikçi yetkilisi, öğrenci, izleyici, toplantı katılımcısı, ürün veya hizmet alan kişi, veli / vasi
+/ temsilci, ziyaretçi gibi bir çok veri konusu kişi grubu belirleyebilecektir.
+
+37
+
+6) İşlenen Kişisel Verilerin Saklama Süresinin Belirlenmesi
+Veri sorumluları tarafından, kişisel verilerin ne kadar süre saklanacağı ve sürenin bitiminde
+İmha işlemi uygulanacağına ilişkin belirlemenin yapılacağı alandır.
+Kanunun 4. maddesi 2. fıkrası (d) bendinde yer alan “İlgili mevzuatta öngörülen veya
+işlendikleri amaç için gerekli olan süre kadar muhafaza edilme” ilkesi gereği veri
+sorumlularının, faaliyetleri kapsamında işledikleri kişisel verilerin saklama sürelerini tek
+tek kişisel veri bazında belirlemesi gerekmektedir. Çünkü imha sürecinin gerçekleştirilmesi
+saklama sürelerin belirlenmesine bağlıdır.
+Kişisel Verilerin Korunması Kanunu
+MADDE 4 - (2) Kişisel verilerin işlenmesinde aşağıdaki ilkelere uyulması zorunludur:
+d) İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza
+edilme.
+
+Veri sorumluları, işledikleri kişisel verilere ilişkin saklama sürelerini belirlerken
+öncelikle işlenen kişisel verilerle ilgili mevzuatta herhangi bir saklama süresi öngörülüp
+öngörülmediğine bakmalıdırlar. İlgili mevzuatta bir süre öngörülmüşse saklama süresi
+olarak bu süre belirtilmelidir.
+
+38
+
+Eğer ilgili mevzuatta herhangi bir süre öngörülmemişse, işlendikleri amaç için veri
+sorumlusunca bir saklama süresinin belirlenmesi gerekmektedir. Bu durumda da,
+saklama süresi belirlenirken Veri Sorumluları Sicili Hakkında Yönetmeliğin 9. maddesinin
+4. fıkrasında belirtilen hususların göz önünde bulundurması gerekmektedir.
+Öte yandan bir kişisel veri, farklı faaliyetlerdeki iş süreçlerinde farklı amaçlarla
+işlenebildiğinden, veri sorumlularınca her bir süreçteki aynı kişisel veri için farklı saklama
+sürelerinin belirlenebilmesi mümkündür.
+Veri Sorumluları Sicili Hakkında Yönetmelik
+MADDE 9 – (4) Veri sorumluları tarafından birinci fıkranın (f) bendi uyarınca Sicile
+açıklanacak kişisel verilerin mevzuatta öngörülen veya işlendikleri amaç için gerekli olan
+azami muhafaza edilme süresine ilişkin bilgiler veri kategorileri ile eşleştirilerek Sicile
+bildirilir. Veri sorumlusu tarafından Sicile bildirilen veri kategorilerinin işleme amaçları ve
+bu amaçlara dayalı olarak işlenmeleri için gerekli olan azami muhafaza edilme süreleri
+ile mevzuatta öngörülen süreler farklı olabilir. Bu durumda mevzuatta azami muhafaza
+edilme süresi öngörülmüşse öngörülen bu süre yoksa bunlardan en uzun süre esas
+alınarak bu veri kategorisi için Sicile bildirim yapılır. Kişisel verilerin işlendikleri amaç için
+gerekli olan azami muhafaza edilme süresi belirlenirken;
+a) İlgili veri kategorisinin işlenme amacı kapsamında veri sorumlusunun faaliyet gösterdiği
+sektörde genel teamül gereği kabul edilen süre,
+b) İlgili veri kategorisinde yer alan kişisel verinin işlenmesini gerekli kılan ve ilgili kişiyle
+tesis edilen hukuki ilişkinin devam edeceği süre,
+
+39
+
+c) İlgili veri kategorisinin işlenme amacına bağlı olarak veri sorumlusunun elde edeceği
+meşru menfaatin hukuka ve dürüstlük kurallarına uygun olarak geçerli olacağı süre,
+ç) İlgili veri kategorisinin işlenme amacına bağlı olarak saklanmasının yaratacağı risk,
+maliyet ve sorumlulukların hukuken devam edeceği süre,
+d) Belirlenecek azami sürenin ilgili veri kategorisinin doğru ve gerektiğinde güncel
+tutulmasına elverişli olup olmadığı,
+e) Veri sorumlusunun hukuki yükümlülüğü gereği ilgili veri kategorisinde yer alan kişisel
+verileri saklamak zorunda olduğu süre,
+f) Veri sorumlusu tarafından, ilgili veri kategorisinde yer alan kişisel veriye bağlı bir hakkın
+ileri sürülmesi için belirlenen zamanaşımı süresi,
+dikkate alınır.
+
+40
+
+7) İşlenen Kişisel Verilerin Aktarıldığı Alıcı / Alıcı Gruplarının
+Belirlenmesi
+Bu alan, veri sorumluları tarafından, işlenen kişisel verilerin hangi alıcılara veya alıcı
+gruplarına aktardığına dair belirlemenin yapılacağı alandır.
+Veri sorumlularının, faaliyetleri kapsamında işlediği kişisel verileri hangi alıcı veya alıcı
+gruplarına aktardığını tek tek kişisel veri bazında belirlemesi gerekmektedir.
+Örneğin bir şirket, çalışanına ait kimlik bilgisini yetkili kamu kurum ve kuruluşları ile
+paylaşıldığını beyan etmekte iken mesleki iş deneyimlerini sadece iş ortakları ile
+paylaşıyor olabilir. Veri sorumluları, ilgili kişisel verinin gerçek kişiler, özel hukuk tüzel
+kişileri, hissedarlar, iş ortakları, iştirakler, bağlı ortaklıklar, tedarikçiler, topluluk şirketleri,
+yetkili kamu kurum ve kuruluşları, kamuoyu gibi birçok alıcı / alıcı gruplarıyla paylaşıldığını
+beyan edebileceklerdir.
+Veri sorumluları, işledikleri kişisel verilerin aktarıldığı alıcı veya alıcı gruplarını belirlerken,
+VERBİS içerisinde yer alan “Veri Aktarım Alıcı Grupları” bölümünden de faydalanabilir.
+
+41
+
+8) Yabancı Ülkelere Aktarılan Kişisel Verilerin Belirlenmesi
+Kanun, yurt içinde veri aktarımı ile ilgili olarak, Kanunun 5. ve 6. maddelerinde yer alan
+işleme şartlarının varlığını yeterli görmüşken, yurt dışına aktarılacak veriler için bunlara
+ilave olarak bazı şartlar belirlemiştir. Bu nedenle, Envanterde de yurt dışına aktarılacak
+verilerle ilgili ayrı alan düzenlenmesi öngörülmüştür.
+Veri sorumluları, faaliyetleri kapsamında işlediği kişisel verilerden varsa yurt dışına aktarım
+yapılacak olanları tek tek belirlemesi ve bunun sonucunda da bu verilerle ilgili olarak
+Kanunun 9. maddesinde sayılan şartları ihtiva edip etmediğini tespit etmeli, şartların
+bulunmaması halinde yurt dışına aktarımı yapmamalı ya da Kanuna uyumu sağlamalıdır.
+
+42
+
+9) İşlenen Kişisel Veriler İçin Alınan Teknik ve İdari Tedbirlerin
+Belirlenmesi
+Kanunun 12. maddesinin 1. fıkrasına göre veri sorumlusu; kişisel verilerin hukuka aykırı
+olarak işlenmesini önlemek, kişisel verilere hukuka aykırı olarak erişilmesini önlemek ve
+kişisel verilerin muhafazasını sağlamak amacıyla uygun güvenlik düzeyini temin etmeye
+yönelik gerekli her türlü teknik ve idari tedbirleri almak zorundadır
+Kişisel Verilerin Korunması Kanunu
+MADDE 12 - (1) Veri sorumlusu;
+a) Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek,
+b) Kişisel verilere hukuka aykırı olarak erişilmesini önlemek,
+c) Kişisel verilerin muhafazasını sağlamak,
+amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari
+tedbirleri almak zorundadır.
+Buna göre veri sorumlularının, faaliyetleri kapsamında işlediği kişisel verilerin niteliğine
+göre alınması gereken teknik ve idari tedbirleri belirlemesi gerekmektedir.
+Kişisel verilerin işlenmesi sürecinde veri sorumlularının alması gereken teknik ve idari
+tedbirler konusunda uygulamada açıklık sağlanması ve iyi uygulama örnekleri oluşturması
+amacıyla Kurul tarafından Kişisel Veri Güvenliği Rehberi hazırlanmıştır.
+
+43
+
+Ayrıca, Kanunun 6. maddesinin 4. fıkrası gereği “Özel Nitelikli Kişisel Verilerin İşlenmesinde
+Veri Sorumlularınca Alınması Gereken Yeterli Önlemler” ile ilgili Kurulun 31/01/2018 tarihli
+ve 2018/10 sayılı Kararında belirlenen yeterli önlemlerin de alınması gerekmektedir.
+Kişisel Verilerin Korunması Kanunu
+MADDE 6 - (4) Özel nitelikli kişisel verilerin işlenmesinde, ayrıca Kurul tarafından belirlenen
+yeterli önlemlerin alınması şarttır.
+
+44
+
+ENVANTER ÖRNEĞİ
+
+Veri Sorumluları Sicili Hakkında Yönetmelikte yer alan tanıma göre Envanterde asgari
+olarak; veri kategorisi, kişisel veri işleme amaç ve hukuki sebebi, aktarılan alıcı / alıcı
+grupları, veri konusu kişi grupları, kişisel verilerin işlendikleri amaçlar için gerekli olan
+azami muhafaza edilme süreleri, yabancı ülkelere aktarımı öngörülen kişisel veriler ve
+veri güvenliğine ilişkin alınan teknik ve idari tedbirler yer almalıdır.
+Bununla birlikte veri sorumlularının, faaliyetleri kapsamında tüm kişisel veri işlenen
+süreçlerdeki bilgi ve belgelerde yer alan kişisel verilerle ilgili olarak anılan tanımda asgari
+olarak belirtilen unsurların mutlaka yer alması kaydıyla, gerekiyorsa bunlardan daha
+fazlasına da Envanterde yer verilmesi tavsiye edilmektedir.
+Bu kapsamda, yukarıda açıklanan bilgiler doğrultusunda genelde her veri sorumlusu
+bünyesinde bulunması muhtemel olan insan kaynakları, destek hizmetleri, muhasebe ve
+bilgi işlem birimleri ile ilgili bazı faaliyetler göz önünde bulundurularak örnek mahiyetinde
+Envanter hazırlanmış olup her veri sorumlusunun kendi faaliyet ve süreçleri ile ilgili Kişisel
+Veri İşleme Envanterini hazırlaması gerekir.
+
+47
+
+KİŞİSEL VERİ İŞLEME
+
+1
+
+2
+
+3
+
+4
+
+5
+
+ORGANİZASYON
+
+SÜREÇ
+
+Departman
+
+Faaliyet
+
+İnsan Kaynakları
+
+İnsan Kaynakları
+
+İnsan Kaynakları
+
+İnsan Kaynakları
+
+İnsan Kaynakları
+
+Çalışan Özlük
+Dosyası Oluşturma
+
+Çalışan Özlük
+Dosyası Oluşturma
+
+Çalışan Özlük
+Dosyası Oluşturma
+
+Çalışan Özlük
+Dosyası Oluşturma
+
+Çalışan Özlük
+Dosyası Oluşturma
+
+KİŞİSEL VERİ
+İşleme Amacı
+
+Veri Konusu
+Kişi Grubu
+
+Hukuki
+Sebebi
+
+Ad, Soyad
+
+Çalışanlar
+İçin İş Akdi ve
+Mevzuat Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışanlar
+
+Sözleşme
+İmzalanması
+
+TC Kimlik
+No
+
+Çalışanlar
+İçin İş Akdi ve
+Mevzuat Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışanlar
+
+Sözleşme
+İmzalanması
+
+Telefon
+Numarası
+
+Çalışanlar
+İçin İş Akdi ve
+Mevzuat Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışanlar
+
+Sözleşme
+İmzalanması
+
+Anne – Baba
+Adı
+
+Çalışanlar
+İçin İş Akdi ve
+Mevzuat Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışanlar
+
+Sözleşme
+İmzalanması
+
+Eğitim
+
+KPSS Puanı
+
+Çalışanlar
+İçin İş Akdi ve
+Mevzuat Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışanlar
+
+Kanunlarda
+Öngörülmesi
+
+Çalışanlar İçin
+Yan Haklar ve
+Menfaatleri
+Süreçlerinin
+Yürütülmesi
+
+Çalışan
+ve Çalışan
+Yakınları
+
+Kanunlarda
+Öngörülmesi
+
+Veri Kategorisi
+
+Kimlik
+
+Kimlik
+
+İletişim
+
+Kimlik
+
+Kisisel Veri
+
+Özel Nitelikli
+Kişisel Veri
+
+6
+
+İnsan Kaynakları
+
+Çalışan Özlük
+Dosyası Oluşturma
+
+Kimlik
+
+Bakmakla
+Yükümlü
+Olduğu
+Kişilerin Ad
+Ve Soyad
+Bilgisi
+
+7
+
+İnsan Kaynakları
+
+Çalışan Özlük
+Dosyası Oluşturma
+
+Özlük
+
+İzin Bilgisi
+
+İnsan kaynakları
+süreçlerinin
+yürütülmesi
+
+Çalışanlar
+
+Kanunlarda
+Öngörülmesi
+
+Mal Bildirimi
+Beyanı
+
+Çalışanlar
+İçin İş Akdi ve
+Mevzuat Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışan ve
+Çalışan Yakını
+
+Kanunlarda
+Öngörülmesi
+
+8
+
+İnsan Kaynakları
+
+Çalışan Özlük
+Dosyası Oluşturma
+
+Özlük
+
+ENVANTERİ ÖRNEĞİ
+SAKLAMA ve
+İMHA
+
+AKTARMA
+
+Saklama Süresi
+
+Alıcı / Alıcı
+Grupları
+
+Yabancı Ülkelere
+Aktarılan Veriler
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+SGK Ve Diğer
+Yetkili Kurum
+ve Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+SGK Ve Diğer
+Yetkili Kurum
+ve Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+SGK Ve Diğer
+Yetkili Kurum
+ve Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Yetkili Kurum
+ve Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+SGK Ve Diğer
+Yetkili Kurum
+ve Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Yetkili Kurum
+ve Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Yetkili Kurum
+ve Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+ALINAN GÜVENLİK TEDBİRLERİ
+İdari Tedbirler
+
+"Çalışanların Niteliği Ve Teknik Bilgi/
+Becerisinin Geliştirilmesi, Kişisel Verilerin
+Hukuka Aykırı İşlenmenin Önlenmesi,
+Kişisel Verilere Hukuka Aykırı Erişilmesinin
+Önlenmesi, Kişisel Verilerin Muhafazasının
+Sağlanması, İletişim Teknikleri Ve
+İlgili Mevzuatlar Hakkında Eğitimler
+Verilmekte; Çalışanlara Gizlilik Sözleşmeleri
+İmzalatılmakta; Güvenlik Politika Ve
+Prosedürlerine Uymayan Çalışanlara
+Yönelik Uygulanacak Disiplin Prosedürü
+Uygulanmakta, İlgili Kişileri Aydınlatma
+Yükümlülüğü Yerine Getirilmekte, Kurum İçi
+Periyodik Ve Rastgele Denetimler Yapılmakta
+Ve Çalışanlara Yönelik Bilgi Güvenliği
+Eğitimleri Verilmektedir."
+
+Teknik Tedbirler
+
+"Kurumun Bilişim Sistemleri Teçhizatı,
+Yazılım Ve Verilerin Fiziksel Güvenliği
+İçin Gerekli Önlemler Alınmakta, Hukuka
+Aykırı İşlemeyi Önlemeye Yönelik
+Riskler Belirlenmekte, Bu Risklere Uygun
+Teknik Tedbirler Alınmakta, Erişim
+Yetki Ve Rol Dağılımları İçin Prosedürler
+Oluşturulmakta Ve Uygulanmakta, Yetki
+Matrisi Uygulanmakta, Erişimler Kayıt
+Altına Alınarak Uygunsuz Erişimler
+Kontrol Altında Tutulmakta, Saklama Ve
+İmha Politikasına Uygun İmha Süreçleri
+Tanımlanmakta Ve Uygulanmakta, Hukuka
+Aykırı İşleme Tespiti Halinde İlgili Kişiye
+Ve Kurula Bildirmek İçin Bir Sistem Ve
+Altyapı Oluşturulmakta, Güvenlik Açıkları
+Takip Edilerek Uygun Güvenlik Yamaları
+Yüklenmekte, Bilgi Sistemleri Güncel Halde
+Tutulmakta, Kişisel Verilerin İşlendiği
+Elektronik Ortamlarda Güçlü Parolalar
+Kullanılmakta Ve Güvenli Kayıt Tutma
+(Loglama) Sistemleri Kullanılmakta, Kişisel
+Verilerin Güvenli Olarak Saklanmasını
+Sağlayan Yedekleme Programları
+Kullanılmaktadır."
+
+KİŞİSEL VERİ İŞLEME
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+ORGANİZASYON
+
+SÜREÇ
+
+Departman
+
+Faaliyet
+
+İnsan
+Kaynakları
+
+Çalışan Özlük
+Dosyası
+Oluşturma
+
+İnsan
+Kaynakları
+
+Çalışan Özlük
+Dosyası
+Oluşturma
+
+İnsan
+Kaynakları
+
+İnsan
+Kaynakları
+
+İnsan
+Kaynakları
+
+İnsan
+Kaynakları
+
+İnsan
+Kaynakları
+
+İnsan
+Kaynakları
+
+Hizmetiçi Eğitim
+Planlaması
+
+Hizmetiçi Eğitim
+Planlaması
+
+Hizmetiçi Eğitim
+Planlaması
+
+Hizmetiçi Eğitim
+Planlaması
+
+Hizmetiçi Eğitim
+Planlaması
+
+Hizmetiçi Eğitim
+Planlaması
+
+KİŞİSEL VERİ
+Veri Kategorisi
+
+Özel Nitelikli
+Kişisel Veri
+
+İşleme Amacı
+
+Veri Konusu
+Kişi Grubu
+
+Hukuki Sebebi
+
+Adli Sicil
+Kaydı
+
+Çalışanlar
+İçin İş Akdi ve
+Mevzuat Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışanlar
+
+Kanunlarda
+Öngörülmesi
+
+Sağlık
+Raporu
+
+Çalışanlar
+İçin İş Akdi ve
+Mevzuat Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışanlar
+
+Açık Rızanın
+Alınması
+
+Ad, Soyad
+
+Çalışan
+Memnuniyetine
+Yönelik Eğitim
+Faaliyetlerinin
+Yürütülmesi
+
+Çalışanlar
+
+Veri
+Sorumlusunun
+Meşru Menfaatleri
+
+TC Kimlik
+No
+
+Çalışan
+Memnuniyetine
+Yönelik Eğitim
+Faaliyetlerinin
+Yürütülmesi
+
+Çalışanlar
+
+Veri
+Sorumlusunun
+Meşru Menfaatleri
+
+Telefon
+Numarası
+
+Çalışan
+Memnuniyetine
+Yönelik Eğitim
+Faaliyetlerinin
+Yürütülmesi
+
+Çalışanlar
+
+Veri
+Sorumlusunun
+Meşru Menfaatleri
+
+Ad, Soyad
+
+Çalışan
+Memnuniyetine
+Yönelik Eğitim
+Faaliyetlerinin
+Yürütülmesi
+
+Eğitmen
+
+Sözleşme
+İmzalanması
+
+TC Kimlik
+No
+
+Çalışan
+Memnuniyetine
+Yönelik Eğitim
+Faaliyetlerinin
+Yürütülmesi
+
+Eğitmen
+
+Sözleşme
+İmzalanması
+
+Banka İBAN
+Bilgisi
+
+Çalışan
+Memnuniyetine
+Yönelik Eğitim
+Faaliyetlerinin
+Yürütülmesi
+
+Eğitmen
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+Kisisel Veri
+
+Özlük
+
+Sağlık
+
+Kimlik
+
+Kimlik
+
+İletişim
+
+Kimlik
+
+Kimlik
+
+Finans
+
+ENVANTERİ ÖRNEĞİ
+SAKLAMA ve
+İMHA
+
+AKTARMA
+
+Saklama Süresi
+
+Alıcı / Alıcı
+Grupları
+
+Yabancı Ülkelere
+Aktarılan Veriler
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+SGK Ve Diğer
+Yetkili Kurum
+ve Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Eğitimin
+Bitiminden
+İtibaren 1 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Eğitimin
+Bitiminden
+İtibaren 1 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Eğitimin
+Bitiminden
+İtibaren 1 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+ALINAN GÜVENLİK TEDBİRLERİ
+İdari Tedbirler
+
+Teknik Tedbirler
+
+"Kişisel Veriler İçin Alınan İdari Tedbirlerin
+Yanı Sıra, Özel Nitelikli Kişisel Verilerin
+İşlenmesi Süreçlerinde Yer Alan Çalışanlara
+Veri Güvenliği Konularında Düzenli
+Eğitimler Verilmekte, Bu Verilerin İşlendiği
+Ve Saklandığı Ortamların Güvenlik
+Önlemleri Alınmakta, Yetkisiz Giriş Çıkışlar
+Engellenmekte, Kağıt Ortamında Aktarımı
+Gerekiyorsa Evrak “Gizlilik Dereceli
+Belgeler” Formatında Gönderilmektedir."
+
+"Kişisel Veriler İçin Alınan Teknik
+Tedbirlerin Yanı Sıra Özel Nitelikli Kişisel
+Verilerin Güvenliğine Yönelik Politika Ve
+Prosedürler Belirlenmekte, Erişim Yetkileri
+Tanımlanmakta, Bu Verilerin İşlendiği
+Elektronik Ortamda Kriptografik Yöntemler
+Kullanılmakta, Kriptografik Anahtarlar
+Güvenli Ortamlarda Tutulmakta, İşlem
+Kayıtları Loglanmakta, Güvenlik Testleri
+Düzenli Yapılmaktadır."
+
+"Çalışanların Niteliği Ve Teknik Bilgi/
+Becerisinin Geliştirilmesi, Kişisel Verilerin
+Hukuka Aykırı İşlenmenin Önlenmesi,
+Kişisel Verilere Hukuka Aykırı Erişilmesinin
+Önlenmesi, Kişisel Verilerin Muhafazasının
+Sağlanması, İletişim Teknikleri Ve
+İlgili Mevzuatlar Hakkında Eğitimler
+Verilmekte; Çalışanlara Gizlilik Sözleşmeleri
+İmzalatılmakta; Kurum İçi Periyodik
+Ve Rastgele Denetimler Yapılmakta Ve
+Çalışanlara Yönelik Bilgi Güvenliği Eğitimleri
+Verilmektedir."
+
+"Kurumun Bilişim Sistemleri Teçhizatı,
+Yazılım Ve Verilerin Fiziksel Güvenliği İçin
+Gerekli Önlemler Alınmakta, Erişimler
+Kayıt Altına Alınarak Uygunsuz Erişimler
+Kontrol Altında Tutulmakta, Saklama Ve
+İmha Politikasına Uygun İmha Süreçleri
+Tanımlanmakta Ve Uygulanmakta, Hukuka
+Aykırı İşleme Tespiti Halinde İlgili Kişiye Ve
+Kurula Bildirmek İçin Bir Sistem Ve Altyapı
+Oluşturulmakta, Bilgi Sistemleri Güncel
+Halde Tutulmakta, Kişisel Verilerin İşlendiği
+Elektronik Ortamlarda Güçlü Parolalar
+Kullanılmakta, Güvenli Kayıt Tutma
+(Loglama) Sistemleri Kullanılmakta, Kişisel
+Verilerin Güvenli Olarak Saklanmasını
+Sağlayan Yedekleme Programları
+Kullanılmakta Ve Elektronik Olan Veya
+Olmayan Ortamlarda Saklanan Kişisel
+Verilere Erişim, Erişim Prensiplerine Göre
+Sınırlandırılmaktadır."
+
+KİŞİSEL VERİ İŞLEME
+ORGANİZASYON
+
+SÜREÇ
+
+Departman
+
+Faaliyet
+
+Destek
+Hizmetleri
+
+Taşınır ve
+Taşınmaz
+Yönetimi
+
+Destek
+Hizmetleri
+
+Taşınır ve
+Taşınmaz
+Yönetimi
+
+19
+
+Destek
+Hizmetleri
+
+Taşınır ve
+Taşınmaz
+Yönetimi
+
+20
+
+Destek
+Hizmetleri
+
+21
+
+KİŞİSEL VERİ
+İşleme Amacı
+
+Veri Konusu
+Kişi Grubu
+
+Hukuki Sebebi
+
+Ad, Soyad
+
+Taşınır Ve Taşınmaz
+Mal Ve Kaynakların
+Güvenliği İle Lojistik
+Faaliyetlerinin
+Yürütülmesi
+
+Çalışanlar
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+TC Kimlik
+No
+
+Taşınır Ve Taşınmaz
+Mal Ve Kaynakların
+Güvenliği İle Lojistik
+Faaliyetlerinin
+Yürütülmesi
+
+Çalışanlar
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+İletişim
+
+Telefon
+Numarası
+
+Taşınır Ve Taşınmaz
+Mal Ve Kaynakların
+Güvenliği İle Lojistik
+Faaliyetlerinin
+Yürütülmesi
+
+Çalışanlar
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+İhale Dosyası
+Oluşturma
+
+Kimlik
+
+Ad, Soyad
+
+Mal / Hizmet Satın
+İhaleye
+Alım Süreçlerinin
+Katılan
+Yürütülmesi
+Gerçek Kişiler
+
+Kanunlarda
+Öngörülmesi
+
+Destek
+Hizmetleri
+
+İhale Dosyası
+Oluşturma
+
+Kimlik
+
+TC Kimlik
+No
+
+Mal / Hizmet Satın
+İhaleye
+Alım Süreçlerinin
+Katılan
+Yürütülmesi
+Gerçek Kişiler
+
+Kanunlarda
+Öngörülmesi
+
+22
+
+Destek
+Hizmetleri
+
+İhale Dosyası
+Oluşturma
+
+Lokasyon
+
+Adres Bilgisi
+
+Mal / Hizmet Satın
+İhaleye
+Alım Süreçlerinin
+Katılan
+Yürütülmesi
+Gerçek Kişiler
+
+Kanunlarda
+Öngörülmesi
+
+23
+
+Destek
+Hizmetleri
+
+İhale Dosyası
+Oluşturma
+
+İletişim
+
+Telefon
+Bilgisi
+
+Mal / Hizmet Satın
+İhaleye
+Alım Süreçlerinin
+Katılan
+Yürütülmesi
+Gerçek Kişiler
+
+Kanunlarda
+Öngörülmesi
+
+24
+
+Destek
+Hizmetleri
+
+İhale Dosyası
+Oluşturma
+
+Kimlik
+
+İmza Beyanı
+
+Mal / Hizmet Satın
+İhaleye
+Alım Süreçlerinin
+Katılan
+Yürütülmesi
+Gerçek Kişiler
+
+Kanunlarda
+Öngörülmesi
+
+17
+
+18
+
+Veri Kategorisi
+
+Kimlik
+
+Kimlik
+
+Kisisel Veri
+
+Özel Nitelikli
+Kişisel Veri
+
+ENVANTERİ ÖRNEĞİ
+SAKLAMA ve
+İMHA
+
+AKTARMA
+Alıcı / Alıcı
+Grupları
+
+Yabancı Ülkelere
+Aktarılan Veriler
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Ayrılmasından
+İtibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İhalenin
+Bitiminden
+İtibaren 10 yıl
+
+Kamu İhale
+Kurumu Ve
+Diğer Yetkili
+Kurum Ve
+Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İhalenin
+Bitiminden
+İtibaren 10 yıl
+
+Kamu İhale
+Kurumu Ve
+Diğer Yetkili
+Kurum Ve
+Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İhalenin
+Bitiminden
+İtibaren 10 yıl
+
+Kamu İhale
+Kurumu Ve
+Diğer Yetkili
+Kurum Ve
+Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İhalenin
+Bitiminden
+İtibaren 10 yıl
+
+Kamu İhale
+Kurumu Ve
+Diğer Yetkili
+Kurum Ve
+Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İhalenin
+Bitiminden
+İtibaren 10 yıl
+
+Kamu İhale
+Kurumu Ve
+Diğer Yetkili
+Kurum Ve
+Kuruluşlar
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Saklama Süresi
+
+ALINAN GÜVENLİK TEDBİRLERİ
+İdari Tedbirler
+
+"Kişisel Veri İşlemeye Başlamadan Önce
+Kurum Tarafından, İlgili Kişilere Aydınlatma
+Yükümlülüğü Yerine Getirilmekte Ve
+Çalışanlara Yönelik Bilgi Güvenliği Eğitimleri
+Verilmektedir."
+
+Teknik Tedbirler
+"Kurumun Bilişim Sistemleri Teçhizatı,
+Yazılım Ve Verilerin Fiziksel Güvenliği
+İçin Gerekli Önlemler Alınmakta, Erişim
+Yetki Ve Rol Dağılımları İçin Prosedürleri
+Oluşturulmakta Ve Uygulanmakta,
+Erişimler Kayıt Altına Alınarak Uygunsuz
+Erişimler Kontrol Altında Tutulmakta,
+Kişisel Verilerin İşlendiği Elektronik
+Ortamlarda Güçlü Parolalar Kullanılmakta,
+Güvenli Kayıt Tutma (Loglama) Sistemleri
+Kullanılmakta, Kişisel Verilerin Güvenli
+Olarak Saklanmasını Sağlayan Yedekleme
+Programları Kullanılmakta, Kişisel
+Verilere Erişim, Erişim Prensiplerine Göre
+Sınırlandırılmaktadır."
+
+"Kurumun Bilişim Sistemleri Teçhizatı,
+Yazılım Ve Verilerin Fiziksel Güvenliği
+İçin Gerekli Önlemler Alınmakta, Hukuka
+"Kişisel Veri İşlemeye Başlamadan Önce
+Aykırı İşlemeyi Önlemeye Yönelik Riskler
+Kurum Tarafından, İlgili Kişileri Aydınlatma
+Belirlenmekte, Bu Risklere Uygun Teknik
+Yükümlülüğü Yerine Getirilmekte,
+Tedbirler Alınmakta, Erişim Yetki Ve Rol
+Çalışanların Niteliği Ve Teknik Bilgi/
+Dağılımları İçin Prosedürler Oluşturulmakta
+Becerisinin Geliştirilmesi, Kişisel Verilerin
+Ve Uygulanmakta, Erişimler Kayıt
+Hukuka Aykırı İşlenmenin Önlenmesi,
+Altına Alınarak Uygunsuz Erişimler
+Kişisel Verilere Hukuka Aykırı Erişilmesinin
+Kontrol Altında Tutulmakta, Saklama Ve
+Önlenmesi, Kişisel Verilerin Muhafazasının
+İmha Politikasına Uygun İmha Süreçleri
+Sağlanması, İletişim Teknikleri Ve
+Tanımlanmakta Ve Uygulanmakta, Hukuka
+İlgili Mevzuatlar Hakkında Eğitimler
+Aykırı İşleme Tespiti Halinde İlgili Kişiye
+Verilmekte; Çalışanlara Gizlilik Sözleşmeleri
+Ve Kurula Bildirmek İçin Bir Sistem Ve
+İmzalatılmakta; Güvenlik Politika Ve
+Altyapı Oluşturulmakta, Güvenlik Açıkları
+Prosedürlerine Uymayan Çalışanlara
+Takip Edilerek Uygun Güvenlik Yamaları
+Yönelik Uygulanacak Disiplin Prosedürü
+Yüklenmekte, Bilgi Sistemleri Güncel Halde
+Uygulanmakta, İlgili Kişileri Aydınlatma
+Tutulmakta, Kişisel Verilerin İşlendiği
+Yükümlülüğü Yerine Getirilmekte, Kurum İçi
+Elektronik Ortamlarda Güçlü Parolalar
+Periyodik Ve Rastgele Denetimler Yapılmakta
+Kullanılmakta, Kişisel Verilerin Güvenli
+Ve Çalışanlara Yönelik Bilgi Güvenliği
+Olarak Saklanmasını Sağlayan Yedekleme
+Eğitimleri Verilmektedir."
+Programları Kullanılmakta Ve Elektronik
+Olan Veya Olmayan Ortamlarda Saklanan
+Kişisel Verilere Erişim, Erişim Prensiplerine
+Göre Sınırlandırılmaktadır."
+
+KİŞİSEL VERİ İŞLEME
+ORGANİZASYON
+
+SÜREÇ
+
+Departman
+
+Faaliyet
+
+KİŞİSEL VERİ
+Veri Kategorisi
+
+Kisisel Veri
+
+Özel Nitelikli
+Kişisel Veri
+
+İşleme Amacı
+
+Veri Konusu
+Kişi Grubu
+
+Hukuki Sebebi
+
+Hizmet Alan
+Kişiler
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+Kimlik
+
+Ad, Soyad
+
+Müşteri İlişkileri
+Yönetimi
+Süreçlerinin
+Yürütülmesi
+
+Gelen Evrak
+
+İletişim
+
+Telefon
+Numarası
+
+Müşteri İlişkileri
+Yönetimi
+Süreçlerinin
+Yürütülmesi
+
+Hizmet Alan
+Kişiler
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+Destek
+Hizmetleri
+
+Bina Giriş
+Çıkışlarının
+Takibi
+
+Kimlik
+
+Ad, Soyad
+
+Ziyaretçi Kaydı
+Oluşturulması ve
+Takibi
+
+Ziyaretçi
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+28
+
+Destek
+Hizmetleri
+
+Bina Giriş
+Çıkışlarının
+Takibi
+
+Kimlik
+
+TC Kimlik
+No
+
+Ziyaretçi Kaydı
+Oluşturulması ve
+Takibi
+
+Ziyaretçi
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+29
+
+Destek
+Hizmetleri
+
+Bina Giriş
+Çıkışlarının
+Takibi
+
+Özlük
+
+Kurum
+ve Unvan
+Bilgisi
+
+Ziyaretçi Kaydı
+Oluşturulması ve
+Takibi
+
+Ziyaretçi
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+30
+
+Destek
+Hizmetleri
+
+Bina Giriş
+Çıkışlarının
+Takibi
+
+İletişim
+
+Telefon
+Numarası
+
+Ziyaretçi Kaydı
+Oluşturulması ve
+Takibi
+
+Ziyaretçi
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+31
+
+Destek
+Hizmetleri
+
+Bina Giriş
+Çıkışlarının
+Takibi
+
+Görsel ve
+İşitsel Kayıtlar
+
+Kamera
+Kaydı
+
+Ziyaretçi Kaydı
+Oluşturulması ve
+Takibi
+
+Ziyaretçi
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+25
+
+Destek
+Hizmetleri
+
+26
+
+Destek
+Hizmetleri
+
+27
+
+Gelen Evrak
+
+ENVANTERİ ÖRNEĞİ
+SAKLAMA ve
+İMHA
+Saklama Süresi
+
+AKTARMA
+Alıcı / Alıcı
+Grupları
+
+Yabancı Ülkelere
+Aktarılan Veriler
+
+10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Ziyaretin
+Bitiminden
+İtibaren 6 ay
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Ziyaretin
+Bitiminden
+İtibaren 6 ay
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Ziyaretin
+Bitiminden
+İtibaren 6 ay
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Ziyaretin
+Bitiminden
+İtibaren 6 ay
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Ziyaretin
+Bitiminden
+İtibaren 6 ay
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+ALINAN GÜVENLİK TEDBİRLERİ
+İdari Tedbirler
+
+Teknik Tedbirler
+
+"Kişisel Veri İşlemeye Başlamadan Önce
+Kurum Tarafından, İlgili Kişileri Aydınlatma
+Yükümlülüğü Yerine Getirilmekte,
+Çalışanların Niteliği Ve Teknik Bilgi/
+Becerisinin Geliştirilmesi, Kişisel Verilerin
+Hukuka Aykırı İşlenmenin Önlenmesi,
+Kişisel Verilere Hukuka Aykırı Erişilmesinin
+Önlenmesi, Kişisel Verilerin Muhafazasının
+Sağlanması, İletişim Teknikleri Ve
+İlgili Mevzuatlar Hakkında Eğitimler
+Verilmekte; Çalışanlara Gizlilik Sözleşmeleri
+İmzalatılmakta; Güvenlik Politika Ve
+Prosedürlerine Uymayan Çalışanlara
+Yönelik Uygulanacak Disiplin Prosedürü
+Uygulanmakta, İlgili Kişileri Aydınlatma
+Yükümlülüğü Yerine Getirilmekte, Kurum İçi
+Periyodik Ve Rastgele Denetimler Yapılmakta
+Ve Çalışanlara Yönelik Bilgi Güvenliği
+Eğitimleri Verilmektedir."
+
+"Kurumun Bilişim Sistemleri Teçhizatı,
+Yazılım Ve Verilerin Fiziksel Güvenliği
+İçin Gerekli Önlemler Alınmakta, Hukuka
+Aykırı İşlemeyi Önlemeye Yönelik
+Riskler Belirlenmekte, Bu Risklere Uygun
+Teknik Tedbirler Alınmakta, Erişim
+Yetki Ve Rol Dağılımları İçin Prosedürler
+Oluşturulmakta Ve Uygulanmakta, Yetki
+Matrisi Uygulanmakta, Erişimler Kayıt
+Altına Alınarak Uygunsuz Erişimler Kontrol
+Altında Tutulmakta, Güvenli Kayıt Tutma
+(Loglama) Sistemleri Kullanılmakta, Kişisel
+Verilerin Güvenli Olarak Saklanmasını
+Sağlayan Yedekleme Programları
+Kullanılmaktadır."
+
+"Kişisel Veri İşlemeye Başlamadan Önce
+Kurum Tarafından, İlgili Kişileri Aydınlatma
+Yükümlülüğü Yerine Getirilmekte,
+Çalışanlara Gizlilik Sözleşmeleri
+İmzalatılmakta; Güvenlik Politika Ve
+Prosedürlerine Uymayan Çalışanlara
+Yönelik Uygulanacak Disiplin Prosedürü
+Uygulanmakta Ve Çalışanlara Yönelik Bilgi
+Güvenliği Eğitimleri Verilmektedir."
+
+"Kurumun Bilişim Sistemleri Teçhizatı,
+Yazılım Ve Verilerin Fiziksel Güvenliği
+İçin Gerekli Önlemler Alınmakta, Hukuka
+Aykırı İşlemeyi Önlemeye Yönelik Riskler
+Belirlenmekte, Bu Risklere Uygun Teknik
+Tedbirlerin Alınmakta, Erişim Yetki
+Ve Rol Dağılımları İçin Prosedürleri
+Oluşturulmakta Ve Uygulanmakta, Yetki
+Matrisi Uygulanmakta, Erişimler Kayıt
+Altına Alınarak Uygunsuz Erişimler Kontrol
+Altında Tutulmakta, Güvenlik Açıkları
+Takip Edilerek Uygun Güvenlik Yamaları
+Yüklenmekte, Kişisel Verilerin İşlendiği
+Elektronik Ortamlarda Güçlü Parolalar
+Kullanılmakta, Kişisel Verilerin Güvenli
+Olarak Saklanmasını Sağlayan Yedekleme
+Programları Kullanılmaktadır."
+
+KİŞİSEL VERİ İŞLEME
+
+32
+
+33
+
+34
+
+ORGANİZASYON
+
+SÜREÇ
+
+Departman
+
+Faaliyet
+
+Muhasebe
+
+Muhasebe
+
+Maaş Ödemeleri
+
+Maaş Ödemeleri
+
+KİŞİSEL VERİ
+Veri Kategorisi
+
+Kimlik
+
+Kimlik
+
+Finansal
+
+İşleme Amacı
+
+Veri Konusu
+Kişi Grubu
+
+Hukuki Sebebi
+
+Ad, Soyad
+
+Çalışanlar İçin
+Mevzuattan
+Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışan
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+TC Kimlik
+No
+
+Çalışanlar İçin
+Mevzuattan
+Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışan
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+Banka IBAN
+Numarası
+
+Çalışanlar İçin
+Mevzuattan
+Kaynaklı
+Yükümlülüklerin
+Yerine Getirilmesi
+
+Çalışan
+
+Hukuki
+Yükümlülüğün
+Yerine Getirilmesi
+
+Toplantıya
+Katılımın Teyidi,
+İstatistiksel
+Amaçlarla
+Katılımcı Sayısının
+Belirlenmesi
+
+Katılımcı
+
+Veri Sorumlusu
+Olarak Kurumun
+Meşru Menfaati
+
+Kisisel Veri
+
+Özel Nitelikli
+Kişisel Veri
+
+Muhasebe
+
+Maaş Ödemeleri
+
+35
+
+Kurumsal
+İlişkiler
+
+Konferans
+Katılımcı
+Bilgilerinin
+Alınması
+
+Kimlik
+
+Ad, Soyad
+
+36
+
+Kurumsal
+İlişkiler
+
+Konf. Katılımcı
+Bilgilerinin
+Alınması
+
+İletişim
+
+E-Posta
+
+Katılımcı
+
+Veri Sorumlusu
+Olarak Kurumun
+Meşru Menfaati
+
+37
+
+Kurumsal
+İlişkiler
+
+Konf. Katılımcı
+Bilgilerinin
+Alınması
+
+İletişim
+
+Telefon
+Numarası
+
+Katılımcı
+
+Veri Sorumlusu
+Olarak Kurumun
+Meşru Menfaati
+
+38
+
+Kurumsal
+İlişkiler
+
+Konf. Katılımcı
+Bilgilerinin
+Alınması
+
+Mesleki Bilgi
+
+Meslek
+
+Katılımcı
+
+Veri Sorumlusu
+Olarak Kurumun
+Meşru Menfaati
+
+39
+
+Kurumsal
+İlişkiler
+
+Konf. Katılımcı
+Bilgilerinin
+Alınması
+
+Görsel ve
+İşitsel Kayıt
+
+Katılımcı
+
+Veri Sorumlusu
+Olarak Kurumun
+Meşru Menfaati,
+Açık Rıza
+
+Fotoğraf
+
+ENVANTERİ ÖRNEĞİ
+SAKLAMA ve
+İMHA
+Saklama Süresi
+
+AKTARMA
+Alıcı / Alıcı
+Grupları
+
+Yabancı Ülkelere
+Aktarılan Veriler
+
+İşten
+Banka,
+Ayrılmasından Sayıştay, Maliye
+İtibaren 10 yıl
+Bakanlığı
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Banka,
+Ayrılmasından Sayıştay, Maliye
+İtibaren 10 yıl
+Bakanlığı
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+İşten
+Banka,
+Ayrılmasından Sayıştay, Maliye
+İtibaren 10 yıl
+Bakanlığı
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Etkinliğin
+Bitiminden
+itibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Etkinliğin
+Bitiminden
+itibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Etkinliğin
+Bitiminden
+itibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Etkinliğin
+Bitiminden
+itibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+Etkinliğin
+Bitiminden
+itibaren 10 yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+ALINAN GÜVENLİK TEDBİRLERİ
+İdari Tedbirler
+
+Teknik Tedbirler
+
+"Kişisel Veri İşlemeye Başlamadan Önce
+Kurum Tarafından, İlgili Kişilere Aydınlatma
+Yükümlülüğü Yerine Getirilmekte,
+Çalışanların Niteliği Ve Teknik Bilgi/
+Becerisinin Geliştirilmesi, Kişisel Verilerin
+Hukuka Aykırı İşlenmenin Önlenmesi,
+Kişisel Verilere Hukuka Aykırı Erişilmesinin
+Önlenmesi, Kişisel Verilerin Muhafazasının
+Sağlanması, İletişim Teknikleri Ve
+İlgili Mevzuatlar Hakkında Eğitimler
+Verilmekte; Çalışanlara Gizlilik Sözleşmeleri
+İmzalatılmakta; Güvenlik Politika Ve
+Prosedürlerine Uymayan Çalışanlara
+Yönelik Uygulanacak Disiplin Prosedürü
+Uygulanmakta, İlgili Kişileri Aydınlatma
+Yükümlülüğü Yerine Getirilmekte, Kurum
+İçi Periyodik Ve Rastgele Denetimler
+Yapılmaktadır."
+
+"Kurumun Bilişim Sistemleri Teçhizatı,
+Yazılım Ve Verilerin Fiziksel Güvenliği
+İçin Gerekli Önlemler Alınmakta, Hukuka
+Aykırı İşlemeyi Önlemeye Yönelik
+Riskler Belirlenmekte, Bu Risklere Uygun
+Teknik Tedbirler Alınmakta, Erişim
+Yetki Ve Rol Dağılımları İçin Prosedürler
+Oluşturulmakta Ve Uygulanmakta, Yetki
+Matrisi Uygulanmakta, Erişimler Kayıt
+Altına Alınarak Uygunsuz Erişimler
+Kontrol Altında Tutulmakta, Saklama Ve
+İmha Politikasına Uygun İmha Süreçleri
+Tanımlanmakta Ve Uygulanmakta, Hukuka
+Aykırı İşleme Tespiti Halinde İlgili Kişiye Ve
+Kurula Bildirmek İçin Bir Sistem Ve Altyapı
+Oluşturulmakta, Bilgi Sistemleri Güncel
+Halde Tutulmaktadır."
+
+"Kişisel Veri İşlemeye Başlamadan Önce
+Kurum Tarafından, İlgili Kişileri Aydınlatma
+Yükümlülüğü Yerine Getirilmekte,
+Çalışanlara Gizlilik Sözleşmeleri
+İmzalatılmakta; Güvenlik Politika Ve
+Prosedürlerine Uymayan Çalışanlara
+Yönelik Uygulanacak Disiplin Prosedürü
+Uygulanmakta Ve Çalışanlara Yönelik Bilgi
+Güvenliği Eğitimleri Verilmektedir."
+
+"Kişisel Verilerin Hukuka Aykırı İşlemeyi
+Önlemeye Yönelik Riskler Belirlenmekte,
+Bu Risklere Uygun Teknik Tedbirler
+Alınmakta, Erişim Yetki Ve Rol Dağılımları
+İçin Prosedürler Oluşturulmakta Ve
+Uygulanmakta, Erişimler Kayıt Altına
+Alınarak Uygunsuz Erişimler Kontrol
+Altında Tutulmakta, Saklama Ve İmha
+Politikasına Uygun İmha Süreçleri
+Tanımlanmakta Ve Uygulanmakta, Hukuka
+Aykırı İşleme Tespiti Halinde İlgili Kişiye
+Ve Kurula Bildirmek İçin Bir Sistem Ve
+Altyapı Oluşturulmakta, Güvenlik Açıkları
+Takip Edilerek Uygun Güvenlik Yamaları
+Yüklenmekte, Bilgi Sistemleri Güncel Halde
+Tutulmakta, Kişisel Verilerin İşlendiği
+Elektronik Ortamlarda Güçlü Parolalar
+Kullanılmakta, Kişisel Verilerin Güvenli
+Olarak Saklanmasını Sağlayan Yedekleme
+Programları Kullanılmakta Ve Elektronik
+Olan Veya Olmayan Ortamlarda Saklanan
+Kişisel Verilere Erişim, Erişim Prensiplerine
+Göre Sınırlandırılmaktadır."
+
+KİŞİSEL VERİ İŞLEME
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+ORGANİZASYON
+
+SÜREÇ
+
+Departman
+
+Faaliyet
+
+Bilgi İşlem
+
+Personel Devam
+Kontrol Sistemi
+
+Bilgi İşlem
+
+Personel Devam
+Kontrol Sistemi
+
+Bilgi İşlem
+
+Personel Devam
+Kontrol Sistemi
+
+Bilgi İşlem
+
+Personel Devam
+Kontrol Sistemi
+
+Bilgi İşlem
+
+Personel Devam
+Kontrol Sistemi
+
+Bilgi İşlem
+
+Personel Devam
+Kontrol Sistemi
+
+KİŞİSEL VERİ
+Veri Kategorisi
+
+Kisisel Veri
+
+Özel Nitelikli
+Kişisel Veri
+
+İşleme Amacı
+
+Veri Konusu
+Kişi Grubu
+
+Hukuki Sebebi
+
+Kurum
+Personeli ve
+Ziyaretçiler
+
+Veri
+Sorumlusunun
+Meşru Menfaati
+
+Kimlik
+
+Ad, Soyad
+
+Kurum Binasına
+Giriş Ve Çıkışın
+Kontrol Altında
+Tutulması
+
+Kimlik
+
+TC Kimlik
+No
+
+Kurum Binasına
+Giriş Ve Çıkışın
+Kontrol Altında
+Tutulması
+
+Kurum
+Personeli ve
+Ziyaretçiler
+
+Veri
+Sorumlusunun
+Meşru Menfaati
+
+Mesleki Bilgi
+
+Unvan
+
+Kurum Binasına
+Giriş Ve Çıkışın
+Kontrol Altında
+Tutulması
+
+Kurum
+Personeli ve
+Ziyaretçiler
+
+Veri
+Sorumlusunun
+Meşru Menfaati
+
+Mesleki Bilgi
+
+Kurum Sicil
+No
+
+Kurum Binasına
+Giriş Ve Çıkışın
+Kontrol Altında
+Tutulması
+
+Kurum
+Personeli ve
+Ziyaretçiler
+
+Veri
+Sorumlusunun
+Meşru Menfaati
+
+İletişim
+
+E-Posta
+
+Kurum Binasına
+Giriş Ve Çıkışın
+Kontrol Altında
+Tutulması
+
+Kurum
+Personeli ve
+Ziyaretçiler
+
+Veri
+Sorumlusunun
+Meşru Menfaati
+
+İletişim
+
+Telefon
+Numarası
+
+Kurum Binasına
+Giriş Ve Çıkışın
+Kontrol Altında
+Tutulması
+
+Kurum
+Personeli ve
+Ziyaretçiler
+
+Veri
+Sorumlusunun
+Meşru Menfaati
+
+ENVANTERİ ÖRNEĞİ
+SAKLAMA ve
+İMHA
+
+AKTARMA
+
+Saklama Süresi
+
+Alıcı / Alıcı
+Grupları
+
+Yabancı Ülkelere
+Aktarılan Veriler
+
+2 Yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+2 Yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+2 Yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+2 Yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+2 Yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+2 Yıl
+
+Aktarılmıyor
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+ALINAN GÜVENLİK TEDBİRLERİ
+İdari Tedbirler
+
+Teknik Tedbirler
+
+"Sızma (Penetrasyon) Testleri İle
+Kurumumuz Bilişim Sistemlerine
+Yönelik Risk, Tehdit, Zafiyet Ve Varsa
+"Kişisel Veri İşlemeye Başlamadan Önce
+Açıklıklar Ortaya Çıkarılarak Gerekli
+Kurum Tarafından, İlgili Kişilere Aydınlatma
+Önlemler Alınmakta, Kurumun Bilişim
+Yükümlülüğü Yerine Getirilmekte;
+Sistemleri Teçhizatı, Yazılım Ve Verilerin
+Çalışanlara Gizlilik Sözleşmeleri
+Fiziksel Güvenliği İçin Gerekli Önlemler
+İmzalatılmakta; Güvenlik Politika Ve
+Alınmakta, Erişim Yetki Ve Rol Dağılımları
+Prosedürlerine Uymayan Çalışanlara
+İçin Prosedürleri Oluşturulmakta Ve
+Yönelik Uygulanacak Disiplin Prosedürü
+Uygulanmakta, Erişimler Kayıt Altına
+Uygulanmakta, İlgili Kişileri Aydınlatma
+Alınarak Uygunsuz Erişimler Kontrol Altında
+Yükümlülüğü Yerine Getirilmekte, Kurum İçi Tutulmakta, Saklama Ve İmha Politikasına
+Periyodik Ve Rastgele Denetimler Yapılmakta
+Uygun İmha Süreçleri Tanımlanmakta Ve
+Ve Çalışanlara Yönelik Bilgi Güvenliği
+Uygulanmakta, Kişisel Verilerin İşlendiği
+Eğitimleri Verilmektedir."
+Elektronik Ortamlarda Güçlü Parolalar
+Kullanılmakta, Kişisel Verilerin Güvenli
+Olarak Saklanmasını Sağlayan Yedekleme
+Programları Kullanılmaktadır. "
+
+KİŞİSEL VERİ İŞLEME
+
+46
+
+ORGANİZASYON
+
+SÜREÇ
+
+Departman
+
+Faaliyet
+
+Bilgi İşlem
+
+"Kurum
+İçerisinde
+Ve Dışında
+Gerçek Zamanlı
+Görüntü Kayıt
+Sistemi"
+
+KİŞİSEL VERİ
+Veri Kategorisi
+
+Kimlik
+
+Kisisel Veri
+
+Resim
+
+Özel Nitelikli
+Kişisel Veri
+
+İşleme Amacı
+
+Kurumun Fiziksel
+Güvenliğini
+Sağlamak Amacı
+İle, Kurum
+İçerisindeki
+Açık Alanlarda
+Görüntü Kaydının
+Tutulması
+
+Veri Konusu
+Kişi Grubu
+
+Hukuki Sebebi
+
+Kurum
+Personeli ve
+Ziyaretçiler
+
+Veri
+Sorumlusunun
+Hukuki
+Yükümlülüğünün
+Yerine Getirilmesi
+Ve Meşru
+Menfaati
+
+ENVANTERİ ÖRNEĞİ
+SAKLAMA ve
+İMHA
+Saklama Süresi
+
+2 Yıl
+
+AKTARMA
+Alıcı / Alıcı
+Grupları
+
+Aktarılmıyor
+
+Yabancı Ülkelere
+Aktarılan Veriler
+
+Yurt dışına
+Aktarım
+Yapılmıyor
+
+ALINAN GÜVENLİK TEDBİRLERİ
+İdari Tedbirler
+
+Teknik Tedbirler
+
+Sızma (Penetrasyon) Testleri İle Kurumumuz
+Bilişim Sistemlerine Yönelik Risk, Tehdit,
+Zafiyet Ve Varsa Açıklıklar Ortaya
+Çıkarılarak Gerekli Önlemler Alınmakta,
+Kurumun Bilişim Sistemleri Teçhizatı,
+Yazılım Ve Verilerin Fiziksel Güvenliği
+İçin Gerekli Önlemler Alınmakta, Erişim
+Yetki Ve Rol Dağılımları İçin Prosedürler
+Oluşturulmakta Ve Uygulanmakta, Kişisel
+Verilerin Güvenli Olarak Saklanmasını
+Sağlayan Yedekleme Programları
+Kullanılmakta, Çevresel Tehditlere
+Kişisel Veri İşlemeye Başlamadan Önce
+Karşı Bilişim Sistemleri Güvenliğinin
+Kurum Tarafından, İlgili Kişilere Aydınlatma
+Sağlanması İçin Donanımsal (Sistem
+Yükümlülüğü Yerine Getirilmekte;
+Odasına Sadece Yetkili Personelin Girişini
+Çalışanlara Gizlilik Sözleşmeleri
+Sağlayan Erişim Kontrol Sistemi, 7/24
+İmzalatılmakta Ve Kurum İçi Periyodik Ve
+Çalışan İzleme Sistemi, Yerel Alan Ağını
+Rastgele Denetimler Yapılmaktadır.
+Oluşturan Kenar Anahtarların Fiziksel
+Güvenliğinin Sağlanması, Yangın Söndürme
+Sistemi, İklimlendirme Sistemi Vb.) Ve
+Yazılımsal (Güvenlik Duvarları, Atak
+Önleme Sistemleri, Ağ Erişim Kontrolü,
+Zararlı Yazılımları Engelleyen Sistemler
+Vb.) Önlemler Alınmakta, Erişimler
+Kayıt Altına Alınarak Uygunsuz Erişimler
+Kontrol Altında Tutulmakta, Saklama Ve
+İmha Politikasına Uygun İmha Süreçleri
+Tanımlanmakta Ve Kişisel Verilerin İşlendiği
+Elektronik Ortamlarda Güçlü Parolalar
+Kullanılmaktadır.
+
+Nasuh Akar Mah. 1407. Sokak No: 4 06520
+Balgat - Çankaya / ANKARA
+Telefon: 0 (312) 216 50 00
+www.kvkk.gov.tr
+
+

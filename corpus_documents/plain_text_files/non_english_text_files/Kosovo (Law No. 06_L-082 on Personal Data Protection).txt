@@ -1,0 +1,2440 @@
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+LIGJI NR. 06/L-082
+PËR MBROJTJEN E TË DHËNAVE PERSONALE
+Kuvendi i Republikës së Kosovës,
+Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
+Miraton:
+LIGJ PËR MBROJTJEN E TË DHËNAVE PERSONALE
+KREU I
+DISPOZITAT E PËRGJITHSHME
+Neni 1
+Qëllimi
+1. Ky ligj përcakton të drejtat, përgjegjësitë, parimet dhe masat ndëshkuese lidhur me mbrojtjen
+e të dhënave personale dhe privatësisë së individit. Përmes këtij ligji përcaktohen përgjegjësitë
+e institucionit përgjegjës për mbikëqyrjen e legjitimitetit të përpunimit të të dhënave dhe qasjes
+në dokumente publike.
+2. Ky ligj është në përputhje me Rregulloren (BE) 2016/679 të Parlamentit Evropian dhe të
+Këshillit të datës, 27 prill 2016, për mbrojtjen e personave fizik sa i përket përpunimit të të
+dhënave personale dhe qarkullimit të lirë të këtyre të dhënave, që shfuqizon Direktivën 95/46/
+EC (Rregullorja për mbrojtjen e të dhënave të përgjithshme)“.
+Neni 2
+Fushëveprimi
+1. Ky ligj zbatohet për përpunimin e të dhënave personale nga organet publike dhe private. Ky
+ligj nuk zbatohet për përpunimin e të dhënave personale nëse përpunimi kryhet për qëllime
+krejtësisht personale.
+2. Ky ligj zbatohet edhe në zyrat diplomatike dhe konsullore, si dhe në të gjitha përfaqësitë e
+tjera zyrtare të Republikës së Kosovës jashtë shtetit.
+3. Ky ligj zbatohet edhe për kontrolluesit e të dhënave, të cilët nuk janë të themeluar në
+Republikën e Kosovës, por që për qëllime të përpunimit të të dhënave personale, përdorin
+pajisje automatike ose të tjera në Republikën e Kosovës, përveç nëse pajisjet e këtilla përdoren
+vetëm për qëllime të tranzitit nëpër territorin e Kosovës. Në këto rrethana, kontrolluesit duhet të
+caktojnë një përfaqësues të regjistruar në Kosovë.
+Neni 3
+Përkufizimet
+1. Shprehjet e përdorura në këtë ligj kanë këto kuptime:
+1.1. E dhënë personale - çdo informacion në lidhje me një person fizik të identifikuar
+ose të identifikueshëm (“subjekt i të dhënave”); një person fizik i identifikueshëm është
+ai, i cili, mund të identifikohet drejtpërdrejt ose jo drejtpërdrejt, veçanërisht duke iu
+referuar një identifikuesi në bazë të një emri, një numri identifikimi, të dhënave rreth
+vendndodhjes, një identifikues online, ose një apo më shumë faktorë specifikë për
+identitetin fizik, psikologjik, gjenetik, mendor, ekonomik, kulturor ose social të atij
+personi fizik;
+
+1
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.2. Përpunim - çdo veprim ose seri veprimesh që kryhen ndaj të dhënave personale
+me mjete automatike ose jo, si: mbledhja, regjistrimi, organizimi, strukturimi, ruajtja,
+përshtatja ose ndryshimi, tërheqja, konsultimi, përdorimi, publikimi nëpërmjet
+transmetimit, shpërndarja ose ofrimi, njësimi ose kombinimi, kufizimi, fshirja ose
+asgjësimi;
+1.3. Kufizimi i përpunimit - shënjimi i të dhënave personale të ruajtura me synim
+kufizimin e përpunimit të tyre në të ardhmen;
+1.4. Klasifikim i të dhënave personale – shënjimi i të dhënave personale për të
+treguar natyrën e tyre të ndjeshme. Për të dhënat e klasifikuara duhet përcaktuar
+kushtet, sipas të cilave, përdoruesi mund të bëjë përpunimin e tyre. Klasifikimi duhet të
+mbetet i bashkëngjitur me të dhënat personale të ndjeshme deri në fshirjen, asgjësimin,
+shkatërrimin ose anonimizimin e tyre;
+1.5. Profilizim - çdo formë e përpunimit automatik të të dhënave personale që konsiston
+në përdorimin e të dhënave personale për të vlerësuar aspektet personale në lidhje
+me një person fizik, veçanërisht për të analizuar ose parashikuar aspekte në lidhje
+me mbarëvajtjen e personit në punë, gjendjen ekonomike, shëndetin, parapëlqimet
+personale, interesat, besueshmërinë, sjelljen, vendndodhjen ose lëvizjet e tij;
+1.6. Pseudonimizim - përpunimi i të dhënave personale në një mënyrë të tillë që të
+dhënat personale të mos vazhdojnë t’i referohen një subjekti të caktuar të të dhënave pa
+përdorimin e informacionit shtesë, me kusht që ky informacion shtesë të mbahet veçmas
+dhe t’u nënshtrohet masave teknike dhe organizative për të garantuar që të dhënat
+personale të mos i referohen një personi fizik të identifikuar ose të identifikueshëm;
+1.7. Katalog i sistemit të dosjeve - përshkrimi i hollësishëm i strukturës dhe përmbajtjes
+së sistemeve të dosjeve;
+1.8. Regjistër i sistemeve të dosjeve – regjistër, i cili mundëson një pasqyrim të
+hollësishëm të sistemeve të dosjeve;
+1.9. Sistemi i dosjeve – një komplet i strukturuar të dhënash personale që janë
+të qasshme në pajtim me kriteret specifike, të centralizuara, decentralizuara ose të
+shpërndara mbi bazë funksionale ose gjeografike;
+1.10. Kod lidhës - numri personal i identifikimit ose çfarëdo numri tjetër i veçantë i
+identifikimit, i përcaktuar me ligj, lidhur me personin, i cili numër mund të përdoret
+për zbulimin ose rikthimin e të dhënave personale nga sistemet e dosjeve, në të cilat,
+gjithashtu përpunohet kodi lidhës;
+1.11. Kontrollues i të dhënave - çdo person fizik ose juridik nga sektori publik ose
+privat që individualisht ose së bashku me të tjerët përcakton qëllimet dhe mënyrat e
+përpunimit të të dhënave personale;
+1.12. Pëlqim me shkrim i subjektit të të dhënave – pëlqimi i dhënë sipas nënparagrafit 1.11., të paragrafit 1. të këtij neni, ku përveç kësaj, subjekti i të dhënave duhet
+të vë nënshkrimin ose shenjën në pëlqimin me shkrim për përpunimin e të dhënave të
+tij ose saj;
+1.13. Pëlqim gojor ose pëlqim tjetër i përshtatshëm i subjektit të të dhënave pëlqimi nga nën-paragrafi 1.11., i dhënë gojarisht, me anë të mjeteve të telekomunikimit
+ose me ndonjë mjet tjetër të përshtatshëm, përmes të cilit mund të konkludohet në
+mënyrë të qartë se subjekti i të dhënave e ka dhënë pëlqimin e tij ose saj;
+2
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.14. Përpunues i të dhënave - çdo person fizik ose juridik, nga sektori publik ose
+privat, i cili përpunon të dhëna personale për dhe në emër të kontrolluesit të të dhënave;
+1.15. Marrës i të dhënave - çdo person fizik ose juridik nga sektori publik ose privat,
+të cilit i zbulohen të dhënat personale, qoftë palë e tretë ose jo. Megjithatë, autoritetet
+publike që mund të marrin të dhëna personale në kuadrin e një hetimi të veçantë,
+në pajtim me legjislacionin në fuqi, nuk konsiderohen si marrës. Përpunimi i këtyre
+të dhënave nga autoritetet publike është në pajtim me rregullat e zbatueshme për
+mbrojtjen e të dhënave sipas qëllimeve të përpunimit;
+1.16. Palë e tretë – çdo person fizik ose juridik nga sektori publik ose privat që është
+i ndryshëm nga subjekti i të dhënave, kontrolluesi, përpunuesi dhe personat që, sipas
+autorizimeve të drejtpërdrejta të kontrolluesit ose përpunuesit, janë autorizuar për të
+përpunuar të dhëna personale;
+1.17. Pëlqim i subjektit të të dhënave - shprehje e lirë e vullnetit të dhënë lirisht,
+specifik, të informuar dhe të qartë të dëshirave të subjektit të të dhënave nëpërmjet të
+cilit ai ose ajo, me një deklarim ose me një veprim të qartë pohues, shprehë pëlqimin e
+tij/saj për përpunimin e të dhënave personale në lidhje me të;
+1.18. Shkelje e të dhënave personale - çdo shkelje e masave të sigurisë që sjell
+asgjësimin, humbjen, ndryshimin, deklarimin e paautorizuar, aksidental ose të
+paligjshëm, ose qasjen në të dhënat personale të transmetuara, të ruajtura ose të
+përpunuara ndryshe;
+1.19. Të dhëna gjenetike - të dhënat personale në lidhje me karakteristikat gjenetike
+të trashëguara ose të përfituara të një personi fizik që jep informacion unik në lidhje
+me fiziologjinë ose shëndetin e atij personi fizik dhe që rezulton, veçanërisht, nga një
+analizë e një mostre biologjike nga personi fizik në fjalë;
+1.20. Të dhëna biometrike – të gjitha të dhënat personale që rezultojnë nga përpunimi
+specifik që kanë të bëjnë me karakteristikat fizike, psikologjike ose të sjelljes së një
+personi fizik që lejon ose konfirmon identifikimin unik të atij personi fizik si dhe imazhet
+pamore ose të dhënat daktiloskopike, psikologjike dhe të sjelljes, që i kanë të gjithë
+individët, por që janë të veçanta dhe të përhershme për secilin individ, nëse në veçanti
+mund të përdoren për identifikimin e një individi, siç janë: gjurmët e gishtërinjve, vijat
+papilare të gishtit, irida, retina, tiparet e fytyrës dhe ADN-ja;
+1.21. Të dhëna shëndetësore - të dhënat personale në lidhje me shëndetin fizik
+ose mendor të një personi fizik, duke përfshirë dhënien e shërbimeve të kujdesit
+shëndetësor, që tregon informacion në lidhje me gjendjen e tij ose të saj shëndetësore;
+1.22. Përpunim ndërkufitar - përpunim i të dhënave personale që kryhet në kuadër të
+aktiviteteve të autoriteteve në mes të shteteve;
+1.23. Privatësi – respektimi i jetës private dhe familjare, pacenueshmëria e banesës
+dhe fshehtësia e korrespondencës së telefonisë dhe e komunikimeve të tjera, në pajtim
+me ligjin e zbatueshëm;
+1.24. Bllokim - ndalimi i përpunimit të mëtejmë të të dhënave. Vendimi për bllokimin e
+të dhënave duhet të tregohet në mënyrë të saktë dhe duhet të mbetet i bashkëngjitur
+me të dhënat personale për aq kohë sa ekzistojnë arsyet për bllokim;
+1.25. Të dhëna personale të ndjeshme - të dhëna personale që zbulojnë origjinën
+etnike ose racore, pikëpamjet politike ose filozofike, përkatësinë fetare, anëtarësimin
+në sindikatë ose çdo e dhënë për gjendjen shëndetësore ose jetën seksuale, çfarëdo
+përfshirje në ose heqje nga evidencat penale ose të kundërvajtjeve që ruhen në pajtim
+3
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+me ligjin. Karakteristikat biometrike, gjithashtu, konsiderohen si të dhëna personale të
+ndjeshme, nëse këto të fundit mundësojnë identifikimin e një subjekti të të dhënave në
+lidhje me cilëndo nga rrethanat e lartpërmendura në këtë nën-paragraf;
+1.26. Agjencia për Informim dhe Privatësi (Agjencia) - agjenci e pavarur, përgjegjëse
+për mbikëqyrjen e zbatimit të legjislacionit për qasje në dokumente publike dhe mbrojtje
+të të dhënave personale, me qëllim që të mbrohen të drejtat dhe liritë themelore të
+personave fizikë, në lidhje me përpunimin e të dhënave personale, si dhe garantimin e
+qasjes në dokumente publike;
+1.27. Komisioner – organ i pavarur, i emëruar nga Kuvendi i Kosovës, në kuadër të
+Agjencisë, i cili është përgjegjës për sigurimin e zbatimit të këtij ligji dhe të Ligjit për
+qasje në dokumente publike;
+1.28. Zyrtari për inspektim – inspektor i Agjencisë, i cili kryen detyra inspektuese në
+përputhje me këtë ligj, me Ligjin përkatës për qasje në dokumente publike.
+Neni 4
+Parimet e përpunimit të të dhënave personale
+1. Parimi i ligjshmërisë, drejtësisë dhe transparencës - të dhënat personale përpunohen
+në mënyrë të paanshme, të ligjshme dhe transparente, pa e cenuar dinjitetin e subjekteve të të
+dhënave.
+2. Parimi i kufizimit të qëllimit – të dhënat personale grumbullohen vetëm për qëllime të
+caktuara, të qarta dhe legjitime dhe nuk mund të përpunohen më tutje në kundërshtim me këto
+qëllime. Përpunimi i mëtejmë me qëllim të arkivimit për interes publik, qëllimit të hulumtimit
+shkencor ose historik, ose qëllimit statistikor, nuk konsiderohet që është në mospërputhje me
+qëllimin fillestar.
+3. Parimi i minimizimit të të dhënave – të dhënat personale duhet të jenë adekuate, relevante
+dhe nuk duhet t’i tejkalojnë qëllimet për të cilat ato janë grumbulluar ose përpunuar më tutje.
+4. Parimi i saktësisë – të dhënat personale duhet të jenë të sakta dhe të përditësuara. Duhet të
+merret çdo hap i arsyeshëm për të garantuar që të dhënat personale që janë të pasakta, duke
+pasur parasysh qëllimin e përpunimit, të fshihen dhe të korrigjohen pa vonesë.
+5. Parimi i kufizimit të ruajtjes – të dhënat personale mund të ruhen vetëm për aq kohë sa
+është e nevojshme për arritjen e qëllimit, për të cilin janë grumbulluar ose përpunuar më tutje.
+Me rastin e përmbushjes së qëllimit të përpunimit, të dhënat personale asgjësohen, fshihen,
+shkatërrohen, bllokohen ose bëhen anonime, përveç nëse është paraparë ndryshe me Ligjin
+përkatës për Arkivat Shtetërore ose me ndonjë ligj tjetër përkatës.
+6. Parimi i paprekshmërisë dhe konfidencialitetit – të dhënat personale përpunohen në atë
+mënyrë që garantojnë siguri të përshtatshme të tyre, duke përfshirë mbrojtjen ndaj përpunimit
+të paautorizuar ose të paligjshëm dhe ndaj humbjes, asgjësimit ose dëmtimit aksidental, duke
+përdorur masa të përshtatshme teknike dhe organizative.
+7. Parimi i llogaridhënies – kontrolluesi duhet të jetë përgjegjës dhe në gjendje të zbatojë
+përputhshmërinë e të gjitha parimeve të përcaktuara me këtë nen.
+
+4
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+KREU II
+LEGJITIMITETI I PËRPUNIMIT TË TË DHËNAVE
+Neni 5
+Përpunimi i ligjshëm i të dhënave personale
+1. Përpunimi i të dhënave personale është i ligjshëm vetëm nëse zbatohet, të paktën, njëri nga
+kriteret e mëposhtme:
+1.1. nëse subjekti i të dhënave ka dhënë pëlqimin e tij për përpunimin e të dhënave të
+tij personale për një ose më shumë qëllime specifike;
+1.2. nëse përpunimi është i domosdoshëm për përmbushjen e një kontrate, në të cilën
+subjekti i të dhënave është palë kontraktuese ose për të ndërmarrë veprimet lidhur me
+kërkesën e subjektit të të dhënave para lidhjes së kontratës;
+1.3. nëse përpunimi është i domosdoshëm për respektimin e obligimit ligjor, të cilit i
+nënshtrohet kontrolluesi;
+1.4. nëse përpunimi është i domosdoshëm për mbrojtjen e interesave jetike të subjektit
+të të dhënave ose personave të tjerë fizikë;
+1.5. nëse përpunimi është i domosdoshëm për kryerjen e një detyre me interes publik
+ose për ushtrimin e autoritetit zyrtar që i është dhënë kontrolluesit;
+1.6. nëse përpunimi është i domosdoshëm për qëllime të interesave legjitime të
+ushtruara nga kontrolluesi ose pala e tretë, përveç kur këto interesa tejkalohen nga
+interesat apo të drejtat dhe liritë themelore të subjektit të të dhënave që kërkon mbrojtjen
+e të dhënave personale, veçanërisht nëse subjekti i të dhënave është fëmijë. Kjo nuk
+zbatohet për përpunimin e kryer nga autoritetet publike për përmbushjen e detyrave të
+tyre.
+2. Nëse përpunimi për një qëllim tjetër nga ai për të cilin janë mbledhur të dhëna personale nuk
+bazohet në pëlqimin e subjektit të të dhënave ose në legjislacionin përkatës në fuqi, me qëllim
+që të konstatohet nëse përpunimi për një qëllim tjetër është në pajtim me qëllimin për të cilin
+janë mbledhur fillimisht të dhënat personale, ndërmjet të tjerash, merr parasysh:
+2.1. çdo lidhje ndërmjet qëllimeve, për të cilat janë mbledhur të dhënat personale dhe
+qëllimet e përpunimit të mëtejshëm të synuar;
+2.2. kontekstin në të cilin janë mbledhur të dhënat personale, veçanërisht në lidhje me
+raportin ndërmjet subjekteve të të dhënave dhe kontrolluesit;
+2.3. natyrën e të dhënave personale, veçanërisht nëse përpunohen kategori të veçanta
+të të dhënave personale, në pajtim me nenin 8 të këtij ligji ose nëse përpunohen të
+dhënat personale në lidhje me dënimet dhe veprat penale, në pajtim me nenin 9 të këtij
+ligji;
+2.4. pasojat e mundshme të përpunimit të synuar të mëtejmë për subjektet e të dhënave;
+2.5. ekzistencën e garancive të përshtatshme, që mund të përfshijnë enkriptimin ose
+anonimizimin.
+
+5
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+Neni 6
+Kushtet për pëlqim
+1. Nëse përpunimi bazohet në pëlqim, kontrolluesi duhet të jenë në gjendje të dëshmojë, që
+subjekti i të dhënave ka dhënë pëlqimin për përpunimin e të dhënave të tij personale.
+2. Nëse pëlqimi i subjektit të të dhënave jepet në formë të deklaratës me shkrim, e cila ka të
+bëjë edhe me çështje të tjera, kërkesa për pëlqim duhet të paraqitet në një mënyrë që është
+qartësisht e dallueshme nga çështjet e tjera, në një formë të kuptueshme dhe lehtësisht të
+qasshme, duke përdorur gjuhë të qartë dhe të thjeshtë.
+3. Subjekti i të dhënave ka të drejtën të tërheqë pëlqimin e tij në çdo kohë. Tërheqja e pëlqimit
+nuk ndikon në ligjshmërinë e përpunimit, bazuar në pëlqim para tërheqjes dhe subjekti i të
+dhënave njoftohet për këtë. Tërheqja duhet të bëhet në të njëjtën mënyrë si edhe vetë dhënia
+e pëlqimit.
+4. Gjatë vlerësimit, nëse pëlqimi është dhënë me vullnet të lirë, mbi të gjitha, duhet marrë
+parasysh nëse, përveç të tjerash, zbatimi i kontratës, përfshirë dispozitën e një shërbimi,
+kushtëzohet me pëlqimin e përpunimit të të dhënave personale që nuk është e domosdoshme
+për zbatimin e asaj kontrate.
+Neni 7
+Kushtet që zbatohen për pëlqimin e fëmijës në lidhje me shërbimet e shoqërisë së
+informacionit
+1. Përpunimi i të dhënave personale të fëmijës është i ligjshëm aty ku aplikohet neni 5 nënparagrafi 1.1. i këtij ligji në lidhje me ofrimin e shërbimeve të shoqërisë së informacionit
+drejtpërdrejt ndaj fëmijës, përpunimi i të dhënave personale të fëmijës është i ligjshëm kur
+fëmija është të paktën i moshës gjashtëmbëdhjetë (16) vjeçare. Kur fëmija është nën moshën
+gjashtëmbëdhjetë (16) vjeçare, përpunimi i tillë është i ligjshëm vetëm nëse dhe për aq sa
+pëlqimi është dhënë ose autorizuar nga mbajtësi i përgjegjësisë prindërore mbi fëmijën.
+2. Kontrolluesi bënë përpjekje të arsyeshme për të verifikuar në raste të tilla që pëlqimi të jetë
+dhënë ose autorizuar nga mbajtësi i përgjegjësisë prindërore mbi fëmijën, duke marrë parasysh
+teknologjinë në dispozicion.
+3. Paragrafi 1. i këtij neni nuk ndikon në ligjin në fuqi që ka të bëjë me rregullat mbi vlefshmërinë,
+formimin ose efektin e një kontrate në lidhje me fëmijën.
+4. Nëse përpunimi i të dhënave bëhet nën moshën gjashtëmbëdhjetë (16) vjeçare deri në
+katërmbëdhjetë (14) vjeçare, kontrolluesi bën përpjekje të vazhdueshme për të verifikuar se në
+këto raste pëlqimi për fëmijën është dhënë ose autorizuar nga prindi ose kujdestari i fëmijës,
+duke marrë në konsideratë teknologjinë në dispozicion.
+Neni 8
+Përpunimi i kategorive të veçanta të të dhënave personale
+1. Përpunimi i të dhënave personale që tregon origjinën racore ose etnike, bindjet politike,
+bindjet fetare ose filozofike, anëtarësinë në bashkimet profesionale, si dhe përpunimi i të
+dhënave gjenetike, të dhënave biometrike për qëllimet e identifikimit të një personi fizik në
+mënyrë unike, të dhënat në lidhje me shëndetin ose të dhënat në lidhje me jetën seksuale ose
+orientimin seksual të një personi fizik është i ndaluar.
+2. Paragrafi 1.i këtij neni nuk zbatohet nëse ekziston ndonjëra nga rrethanat e mëposhtme:
+6
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+2.1. subjekti i të dhënave ka dhënë pëlqimin e qartë për përpunimin e atyre të dhënave
+personale për një ose disa qëllime më specifike, përveç kur legjislacioni përkatës
+në fuqi përcakton që ndalimi i parashikuar në paragrafin 1.të këtij neni nuk mund të
+anulohet nga subjekti i të dhënave;
+2.2. përpunimi është i nevojshëm për përmbushjen e detyrimeve dhe ushtrimin e të
+drejtave specifike të kontrolluesit ose të subjektit të të dhënave në sferën e të drejtës së
+punësimit, sigurimeve shoqërore dhe mbrojtjes sociale, në masën që është i autorizuar
+nga legjislacioni përkatës në fuqi ose një marrëveshje kolektive që garanton të drejtat
+themelore dhe interesat e subjektit të të dhënave;
+2.3. përpunimi është i nevojshëm për të mbrojtur interesat jetike të subjektit të të
+dhënave ose të një personi tjetër fizik, nëse subjekti i të dhënave nuk është fizikisht ose
+ligjërisht në gjendje të japë pëlqimin;
+2.4. nëse ato përpunohen për qëllime të veprimtarive legjitime dhe me garanci të duhura
+nga institucionet, shoqatat, asociacionet, bashkësitë fetare, sindikatat ose organizatat
+e tjera jofitimprurëse me qëllime politike, filozofike, fetare ose sindikaliste, por vetëm
+nëse përpunimi ka të bëjë me anëtarët e tyre ose subjektet e të dhënave që janë në
+kontakt të rregullt me ato e në lidhje me qëllimet e tilla dhe nëse ata nuk i zbulojnë të
+dhënat e tilla të tjerëve pa pëlqimin me shkrim të subjektit të të dhënave;
+2.5. nëse subjekti i të dhënave i ka bërë ato publike pa e kufizuar përdorimin e tyre në
+mënyrë të dëshmuar ose të qartë;
+2.6. përpunimi është i nevojshëm për ngritjen, ushtrimin ose mbrojtjen e pretendimeve
+ligjore ose kurdoherë që gjykatat veprojnë në cilësinë e tyre gjyqësore;
+2.7. përpunimi është i nevojshëm për interesin thelbësor publik mbi bazën e legjislacionit
+përkatës;
+2.8. përpunimi është i nevojshëm për qëllimet e mjekësisë parandaluese ose të punës,
+për vlerësimin e kapacitetit të punës së punonjësit, diagnozës mjekësore, dhënien e
+kujdesit shëndetësor social, trajtimin, menaxhimin e sistemeve të kujdesit shëndetësor
+ose social dhe shërbimet mbi bazën e legjislacionit përkatës ose në pajtim me kontratat
+me një profesionist shëndetësor kur ato të dhëna procesohen nga ndonjë profesionist
+apo nën përgjegjësinë e tij që i nënshtrohet obligimit të fshehtësisë profesionale sipas
+legjislacionit përkatës, rregullave të themeluara nga organet kompetente nacionale apo
+nga ndonjë person tjetër që po ashtu i nënshtrohet obligimit të fshehtësisë;
+2.9. përpunimi është i nevojshëm për shkaqe të interesit publik në sferën e shëndetit
+publik, si mbrojtja ndaj kërcënimeve të rënda ndërkufitare për shëndetin ose garantimin
+e standardeve të larta të cilësisë dhe sigurisë së kujdesit shëndetësor dhe të produkteve
+mjekësore ose pajisjeve medicinale, mbi bazën e legjislacionit përkatës;
+2.10. përpunimi është i nevojshëm për qëllimet e arkivimit në interes publik, të kërkimeve
+shkencore, historike, statistikore.
+3. Të dhënat personale të përmendura në paragrafin 1. të këtij neni mund të përpunohen për
+qëllimet e përmendura në nën-paragrafin 2. të këtij neni, kur ato të dhëna përpunohen në
+mënyrë proporcionale me qëllimin e kërkuar, përpunimi i tyre e respekton thelbin e të drejtës
+për mbrojtjen e të dhënave dhe bëhet në pajtim me masat specifike për mbrojtjen e të drejtave
+dhe interesave themelore të subjektit të të dhënave siç parashihet në këtë ligj, përfshirë aty ku
+është e nevojshme, fshehtësinë profesionale.
+
+7
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+4. Kategoritë e veçanta të të dhënave personale ,duhet të mbrohen në mënyrë të veçantë dhe
+të klasifikohen me qëllim të parandalimit të qasjes dhe përdorimit të paautorizuar, përveç në
+rastet nga nën-paragrafi 2.5. i paragrafit 2. të këtij neni.
+Neni 9
+Përpunimi i të dhënave personale në lidhje me dënimet dhe veprat penale
+Përpunimi i të dhënave personale në lidhje me dënimet dhe veprat penale ose masat përkatëse
+të sigurisë, bazuar në nenin 5. paragrafin 1. të këtij ligji kryhet vetëm nën kontrollin e autoritetit
+zyrtar sipas ligjit përkatës. Çdo regjistër gjithëpërfshirës i dënimeve penale mbahet vetëm nën
+kontrollin e autoritetit zyrtar.
+Neni 10
+Përpunimi që nuk kërkon identifikim
+1. Nëse qëllimet, për të cilat një kontrollues përpunon të dhëna personale nuk kërkon ose nuk
+vazhdon të kërkojë identifikimin e një subjekti të dhënash nga kontrolluesi, i njëjti nuk është i
+detyruar të mbajë, përfitojë ose përpunojë informacion shtesë për të identifikuar subjektin e të
+dhënave për qëllimin e vetëm të respektimit të këtij ligji.
+2. Nëse në rastet e përmendura në paragrafin 1. të këtij neni, kontrolluesi është në gjendje
+të demonstrojë që ai nuk është në gjendje të identifikojë subjektin e të dhënave, me këtë rast
+kontrolluesi, nëse është e mundshme, e informon subjektin e të dhënave. Në këto raste, nenet
+14 deri 19 të këtij ligji nuk zbatohen, përveç kur subjekti i të dhënave, për qëllimet e ushtrimit
+të të drejtave të tij sipas këtyre neneve, jep informacion shtesë, duke mundësuar identifikimin
+e tij ose të saj.
+KREU III
+TË DREJTAT E SUBJEKTIT TË TË DHËNAVE
+Neni 11
+Informimi transparent, komunikimi dhe modalitetet për ushtrimin e të drejtave të
+subjektit të të dhënave
+1. Kontrolluesi merr masat e përshtatshme për të dhënë çdo informacion të referuar në nenet
+12 dhe 13 të këtij ligji dhe çdo komunikim sipas neneve 14 deri 21 dhe 33 të këtij ligji në lidhje
+me përpunimin e të dhënave personale që i nënshtrohen një formati konciz, transparent, të
+kuptueshëm dhe lehtësisht të qasshëm, duke përdorur gjuhë të qartë dhe të pastër, veçanërisht
+për çdo informacion drejtuar specifikisht një fëmije. Informacioni jepet me shkrim ose me mjete
+të tjera, duke përfshirë, sipas rastit, mjete elektronike. Nëse kërkohet nga subjekti i të dhënave,
+informacioni mund të jepet me gojë, me kusht që identiteti i subjektit të të dhënave të provohet
+(dëshmohet) me mjete të tjera.
+2. Kontrolluesi lehtëson ushtrimin e të drejtave të subjektit të të dhënave, sipas neneve 14 deri
+21 të këtij ligji. Në rastet e përmendura në nenin 10, paragrafi 2, të këtij ligji kontrolluesi nuk
+refuzon të veprojë me kërkesën e subjektit të të dhënave për ushtrimin e të drejtave të tij ose
+të saj sipas neneve 14 deri 21 të këtij ligji, përveç kur kontrolluesi demonstron që nuk është në
+gjendje të identifikojë subjektin e të dhënave.
+3. Kontrolluesi jep informacion mbi veprimet e ndërmarra me kërkesë sipas neneve 14 deri 21
+të këtij ligji për subjektin e të dhënave pa vonesë të panevojshme dhe në çdo rast, brenda një
+(1) muaji nga marrja e kërkesës. Ky afat mund të zgjatet me dy (2) muaj të tjerë nëse është e
+nevojshme, duke marrë parasysh kompleksitetin dhe numrin e kërkesave. Kontrolluesi njofton
+subjektin e të dhënave për çdo zgjatje të tillë brenda një (1) muaji nga marrja e kërkesës, së
+bashku me shkaqet e vonesës. Kur subjekti i të dhënave bën kërkesë me mjete në format
+8
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+elektronik, informacioni jepet me mjete elektronike, sipas rastit, përveç kur kërkohet ndryshe
+nga subjekti i të dhënave.
+4. Nëse kontrolluesi nuk vepron në lidhje me kërkesën për subjektin e të dhënave, kontrolluesi
+njofton subjektin e të dhënave pa vonesë dhe jo më vonë se një (1) muaj nga marrja e kërkesës
+për shkaqet e mosveprimit dhe mbi mundësinë e paraqitjes së ankesës tek Agjencia dhe
+paraqitjen e një mjeti gjyqësor mbrojtës.
+5. Informacioni i dhënë sipas neneve 12 dhe 13 të këtij ligji dhe çdo komunikim dhe masë e
+ndërmarrë sipas neneve 14 deri 21 dhe 32, të këtij ligji jepet falas. Nëse kërkesat nga një subjekt
+i të dhënave duket se janë të pabazuara ose të tepërta, veçanërisht për shkak të karakterit të
+tyre përsëritës, kontrolluesi mund të:
+5.1. caktojë një tarifë të arsyeshme, duke marrë parasysh shpenzimet administrative të
+dhënies së informacionit ose komunikimit, ose marrjen e masës së kërkuar, ose;
+5.2. refuzojë të veprojë në lidhje me kërkesën;
+5.3. kontrolluesi ka barrën e demonstrimit të karakterit haptazi të pabazuar ose të tepërt
+të kërkesës.
+6. Pa cenuar nenin 10 të këtij ligji, nëse kontrolluesi ka dyshime të arsyeshme në lidhje me
+identitetin e personit fizik që bën kërkesën në lidhje me nenet 14 deri 20 të këtij ligji, kontrolluesi
+mund të kërkojë dhënien e informacionit shtesë të nevojshëm për konfirmimin e identitetit të
+subjektit të të dhënave.
+7. Informacioni, që duhet t’u jepet subjekteve të të dhënave në pajtim me nenet 12 dhe 13 të
+këtij ligji mund të jepet i kombinuar me (simbolet) ikonat e standardizuara me qëllim që të ofrohet
+një vështrim i përgjithshëm i përpunimit të synuar në një mënyrë të dukshme, të kuptueshme
+dhe lehtësisht të lexueshme. Nëse (simbolet) ikonat ofrohen elektronikisht, ato duhet të jenë të
+lexueshme në mënyrë automatike.
+KREU IV
+INFORMACIONI DHE QASJA NË TË DHËNAT PERSONALE
+Neni 12
+Informacioni që duhet të jepet nëse të dhënat personale mblidhen nga subjekti i të
+dhënave
+1. Nëse të dhënat personale, në lidhje me një subjekt të dhënash, merren nga subjekti i të
+dhënave, kontrolluesi, në momentin kur i merr të dhënat personale, i jep subjektit të të dhënave
+informacionin e mëposhtëm:
+1.1. hollësitë e identitetit dhe kontaktit të kontrolluesit dhe sipas rastit, të përfaqësuesit
+të kontrolluesit;
+1.2. hollësitë e kontaktit të nëpunësit të mbrojtjes së të dhënave, sipas rastit;
+1.3. qëllimin e përpunimit, për të cilin janë të destinuara të dhënat personale, si dhe
+bazën ligjore për përpunimin;
+1.4. nëse përpunimi bazohet në nenin 5, paragrafi 1., nën-paragrafi 1.6. të këtij ligji,
+interesat legjitime të ndjekura nga kontrolluesi ose nga një palë e tretë;
+1.5. marrësit ose kategoritë e marrësve të të dhënave personale, sipas rastit;
+9
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.6. sipas rastit, faktin që kontrolluesi synon të transferojë të dhëna personale te një
+vend i tretë ose organizatë ndërkombëtare dhe ekzistencën ose mungesën e një
+vendimi përshtatshmërie të Agjencisë.
+2. Përveç informacionit të përmendur në paragrafin 1. të këtij neni, kontrolluesi, në momentin
+kur pranon të dhënat personale, i jep subjektit të të dhënave informacionin e mëposhtëm shtesë
+të nevojshëm për të garantuar një përpunim të drejtë dhe transparent:
+2.1. afatin, për të cilin ruhen të dhënat personale, ose nëse kjo nuk është e mundur,
+kriteret e përdorura për të përcaktuar këtë afat;
+2.2. ekzistencën e të drejtës për të kërkuar nga kontrolluesi qasjen dhe korrigjimin ose
+fshirjen e të dhënave personale, ose kufizimin e përpunimit në lidhje me subjektin e të
+dhënave, ose për të kundërshtuar përpunimin, si dhe të drejtën për transferueshmërinë
+e të dhënave;
+2.3. nëse përpunimi bazohet në nenin 5 paragrafi 1., nën-paragrafi 1.1. të këtij ligji
+ose të nenit 8 paragrafi 2., nën-paragrafi 2.1. të këtij ligji ekzistencën e të drejtës për
+të tërhequr pëlqimin në çdo kohë, pa ndikuar në ligjshmërinë e përpunimit, bazuar në
+pëlqimin para tërheqjes së tij;
+2.4. të drejtën për të paraqitur një ankesë tek Agjencia;
+2.5. nëse dhënia e të dhënave personale është një kërkesë ligjore ose kontraktuale,
+ose një kërkesë e nevojshme për të lidhur një kontratë, si dhe nëse subjekti i të
+dhënave është i detyruar të japë të dhëna personale dhe për pasojat e mundshme për
+mosdhënien e këtyre të dhënave;
+2.6. ekzistencën e vendimmarrjes automatike, duke përfshirë profilizimin e përcaktuar
+në nenin 21 paragrafët 1. dhe 4. të këtij ligji dhe të paktën në ato raste, informacionin e
+duhur në lidhje me logjikën përkatëse, si dhe rëndësinë dhe pasojat e parashikuara të
+këtij përpunimi për subjektin e të dhënave.
+3. Nëse kontrolluesi synon të përpunojë më tej të dhëna personale për një qëllim të ndryshëm nga
+ai për të cilin të dhënat personale janë mbledhur, kontrolluesi, para këtij përpunimi të mëtejmë,
+duhet t’i japë subjektit të të dhënave informacion mbi qëllimin tjetër dhe çdo informacion tjetër
+të nevojshëm, sipas referimit në paragrafin 2. të këtij neni.
+4. Paragrafët 1., 2. dhe 3. të këtij neni nuk zbatohen nëse dhe në masën që subjekti i të
+dhënave e ka informacionin.
+Neni 13
+Informacioni që duhet të jepet nëse të dhënat personale nuk janë mbledhur nga
+subjekti i të dhënave
+1. Nëse informacioni nuk është marrë nga subjekti i të dhënave, kontrolluesi i jep subjektit të të
+dhënave informacionin e mëposhtëm:
+1.1. hollësitë e identitetit dhe kontaktit të kontrolluesit dhe, sipas rastit, të përfaqësuesit
+të kontrolluesit;
+1.2. hollësitë e kontaktit të nëpunësit të mbrojtjes së të dhënave, sipas rastit;
+1.3. qëllimin e përpunimit për të cilin janë të destinuara të dhënat personale, si dhe
+bazën ligjore për përpunimin;
+10
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.4. kategoritë e të dhënave personale përkatëse;
+1.5. marrësit ose kategoritë e marrësve të të dhënave personale, sipas rastit;
+1.6. sipas rastit, që kontrolluesi synon të transferojë të dhëna personale te një marrës
+në një vend ose organizatë ndërkombëtare dhe ekzistencën ose mungesën e një
+vendimi përkatës të Agjencisë.
+2. Përveç informacionit të referuar në paragrafin 1.të këtij neni, kontrolluesi i jep subjektit të të
+dhënave informacionin e mëposhtëm për të garantuar një përpunim të drejtë dhe transparent
+në lidhje me subjektin e të dhënave:
+2.1. afatin për të cilin ruhen të dhënat personale, ose nëse kjo nuk është e mundur,
+kriteret e përdorura për të përcaktuar këtë afat;
+2.2. nëse përpunimi bazohet në nenin 5 paragrafi 1., nën-paragrafi 1.6. të këtij ligji
+interesat legjitime të ndjekura nga kontrolluesi ose nga një palë e tretë;
+2.3. ekzistencën e të drejtës për të kërkuar nga kontrolluesi qasjen, korrigjimin ose
+fshirjen e të dhënave personale, ose kufizimin e përpunimit në lidhje me subjektin e të
+dhënave, ose për të kundërshtuar përpunimin, si dhe të drejtën për transferimin e të
+dhënave;
+2.4. nëse përpunimi bazohet në nenin 5 paragrafi 1., nën-paragrafi 1.1. të këtij ligji
+ose në nenin 8 paragrafi 2., nën-paragrafi 2.1. të këtij ligji ekzistencën e të drejtës për
+të tërhequr pëlqimin në çdo kohë, pa ndikuar në ligjshmërinë e përpunimit, bazuar në
+pëlqimin para tërheqjes së tij;
+2.5. të drejtën për të paraqitur një ankesë tek Agjencia;
+2.6. nga cili burim e kanë origjinën të dhënat personale, dhe sipas rastit, nëse kanë
+ardhur nga një burim i qasshëm publik;
+2.7. ekzistencën e vendimmarrjes automatike, duke përfshirë profilizimin, të përmendur
+në nenin 21 paragrafët 1. dhe 4. të këtij ligji dhe, të paktën në ato raste, informacionin
+e duhur në lidhje me logjikën përkatëse, si dhe rëndësinë dhe pasojat e parashikuara
+të këtij përpunimi për subjektin e të dhënave.
+3. Kontrolluesi jep informacionin e përmendur në paragrafët 1. dhe 2. të këtij neni:
+3.1. brenda një afati të arsyeshëm pas marrjes së të dhënave personale, por jo më
+vonë se një (1) muaj, duke pasur parasysh rrethanat specifike në të cilat përpunohen
+të dhënat personale;
+3.2. nëse të dhënat personale do të përdoren për komunikimin me subjektin e të
+dhënave, jo më vonë se komunikimi i parë me atë subjekt të dhënash, ose;
+3.3. nëse parashikohet deklarimi ndaj një marrësi tjetër, jo më vonë se kur të dhënat
+personale deklarohen për herë të parë.
+4. Nëse kontrolluesi synon të përpunojë më tej të dhëna personale për një qëllim të ndryshëm
+nga ai për të cilin të dhënat personale janë mbledhur, kontrolluesi, para këtij përpunimi
+të mëtejshëm, duhet t’i japë subjektit të të dhënave informacion mbi qëllimin tjetër dhe çdo
+informacion tjetër të nevojshëm, sipas referimit në paragrafin 2. të këtij neni.
+5. Paragrafët 1. deri 4. të këtij neni nuk zbatohen nëse dhe në masën që:
+11
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+5.1. subjekti i të dhënave e ka informacionin;
+5.2. dhënia e këtij informacioni duket e pamundur ose do të përfshinte një përpjekje
+joproporcionale, veçanërisht për përpunimin për qëllime arkivimi në interesin publik,
+qëllime të kërkimeve shkencore ose historike, qëllime statistikore, në pajtim me
+kushtet dhe garancitë e referuara në nenin 8, paragrafin 3. të këtij ligji ose në masën
+që detyrimi i referuar në paragrafin 1. të këtij neni mund ta bëjë të pamundur ose
+rrezikojë seriozisht arritjen e objektivave të këtij përpunimi. Në këto raste, kontrolluesi
+merr masat e përshtatshme për të mbrojtur të drejtat, liritë dhe interesat legjitime të
+subjekteve të të dhënave, duke përfshirë ofrimin e informacionit publikisht;
+5.3. marrja ose deklarimi parashikohet shprehimisht nga legjislacioni përkatës, të cilit
+i nënshtrohet kontrolluesi dhe që merr masa të përshtatshme për të mbrojtur interesat
+legjitime të subjektit të të dhënave, ose;
+5.4. nëse të dhënat personale duhet të mbeten konfidenciale, duke iu nënshtruar një
+detyrimi të fshehtësisë profesionale, të rregulluar nga legjislacioni përkatës, duke
+përfshirë një detyrim ligjor të fshehtësisë.
+Neni 14
+E drejta për qasje nga subjekti i të dhënave
+1. Subjekti i të dhënave ka të drejtën të marrë konfirmimin nga kontrolluesi, nëse po përpunohen
+ose jo të dhënat që kanë të bëjnë me të dhe, nëse është rasti, të ketë qasje në të dhënat
+personale dhe informacionin e mëposhtëm:
+1.1. qëllimet e përpunimit;
+1.2. kategoritë e të dhënave personale përkatëse;
+1.3. marrësit ose kategoritë e marrësve, të cilëve u janë deklaruar ose do t’u
+deklarohen të dhënat personale, veçanërisht marrësit në vendet e treta ose organizatat
+ndërkombëtare;
+1.4. sipas rastit, afati i parashikuar, gjatë të cilit do të ruhen të dhënat personale, ose,
+nëse nuk është e mundur, kriteret e përdorura për të përcaktuar atë afat;
+1.5. ekzistencën e të drejtës për të kërkuar nga kontrolluesi korrigjimin ose fshirjen e
+të dhënave personale ose kufizimin e përpunimit të të dhënave personale në lidhje me
+subjektin e të dhënave, ose për të kundërshtuar një përpunim të tillë;
+1.6. të drejtën për të paraqitur një kërkesë tek Agjencia;
+1.7. nëse të dhënat personale nuk mblidhen nga subjekti i të dhënave, çdo informacion
+i disponueshëm si dhe burimin e tyre;
+1.8. ekzistencën e vendimmarrjes së automatizuar, duke përfshirë profilizimin, të
+përmendur në nenin 21 paragrafët 1. dhe 4. të këtij ligji dhe, të paktën në ato raste,
+informacionin e duhur në lidhje me logjikën përkatëse, si dhe rëndësinë dhe pasojat e
+parashikuara të këtij përpunimi për subjektin e të dhënave.
+2. Nëse të dhënat personale transferohen te një vend i jashtëm ose te një organizatë
+ndërkombëtare, subjekti i të dhënave ka të drejtën të informohet për garancitë e përshtatshme
+në lidhje me transferimin.
+3. Kontrolluesi jep një kopje të të dhënave personale që i nënshtrohet përpunimit. Për çdo
+12
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+kopje tjetër të kërkuar nga subjekti i të dhënave, kontrolluesi mund të caktojë një tarifë të
+përshtatshme, bazuar në shpenzimet administrative. Nëse subjekti i të dhënave e bën kërkesën
+me mjete elektronike dhe, përveç kur kërkohet ndryshe nga subjekti i të dhënave, informacioni
+jepet në një format elektronik të përdorur bashkërisht.
+4. E drejta për të përfituar kopjen e përmendur në paragrafin 3.të këtij neni, nuk ndikon negativisht
+në të drejtat dhe liritë e të tjerëve.
+KREU V
+KORRIGJIMI DHE FSHIRJA
+Neni 15
+E drejta e korrigjimit
+Subjekti i të dhënave ka të drejtën të përfitojë nga kontrolluesi, pa vonesë të panevojshme,
+korrigjimin e të dhënave personale të pasakta në lidhje me të. Duke marrë parasysh qëllimet
+e përpunimit, subjekti i të dhënave ka të drejtën t’i plotësohen të dhënat personale të paplota,
+duke përfshirë nëpërmjet bërjes së një deklarimi shtesë.
+Neni 16
+E Drejta e fshirjes (‘E drejta për t’u harruar’)
+1. Subjekti i të dhënave ka të drejtën që të kërkojë nga kontrolluesi të bëjë fshirjen e të dhënave
+personale në lidhje me të, pa vonesë dhe kontrolluesi ka detyrimin të fshijë të dhënat personale,
+pa vonesë të panevojshme, nëse zbatohet një prej shkaqeve të mëposhtme:
+1.1. të dhënat personale nuk janë më të nevojshme në lidhje me qëllimet, për të cilat
+ato janë mbledhur ose përpunuar;
+1.2. subjekti i të dhënave e tërheq pëlqimin mbi të cilin bazohet përpunimi sipas nenit
+5 paragrafi 1., nën-paragrafi 1.1. ose nenit 8 paragrafi 2., nën-paragrafi 2.1. të këtij ligji
+dhe nëse nuk ka shkak tjetër ligjor për përpunimin;
+1.3. subjekti i të dhënave e kundërshton përpunimin në pajtim me nenin 20 paragrafi
+1. të këtij ligji dhe nuk ka shkaqe legjitime mbizotëruese për përpunimin, ose subjekti i
+të dhënave e kundërshton përpunimin në pajtim me nenin 20 paragrafi 2. të këtij ligji;
+1.4. të dhënat personale janë përpunuar në mënyrë të paligjshme;
+1.5. të dhënat personale duhet të fshihen për të përmbushur një detyrim ligjor, të cilit i
+nënshtrohet kontrolluesi;
+1.6. të dhënat personale janë mbledhur në lidhje me ofertën e shërbimeve të shoqërisë
+së informacionit të referuara në nenin 7 paragrafi 1. të këtij ligji.
+2. Nëse kontrolluesi i ka bërë të dhënat personale publike dhe është i detyruar, sipas paragrafit
+1.të këtij neni, t’i fshijë të dhënat personale, kontrolluesi, duke marrë parasysh teknologjinë
+e disponueshme dhe shpenzimet për zbatimin, ndërmerr hapat e arsyeshëm, duke përfshirë
+masat teknike, për të informuar kontrolluesit që po përpunojnë të dhënat personale që subjekti
+i të dhënave ka kërkuar fshirjen nga këta kontrollues të çdo lidhjeje ose kopje, apo përsëritje të
+këtyre të dhënave personale.
+3. Paragrafët 1. dhe 2. të këtij neni nuk zbatohen në masën që përpunimi është i nevojshëm:
+3.1. për ushtrimin e të drejtës së lirisë së shprehjes dhe informimit;
+13
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+3.2. për përmbushjen e një detyrimi ligjor që kërkon përpunimin, të cilit i nënshtrohet
+kontrolluesi ose për përmbushjen e një detyre në interesin publik ose në ushtrim të
+autoritetit zyrtar të veshur kontrolluesit;
+3.3. për shkaqe të interesit publik në sferën e shëndetit publik në pajtim me nenin 8
+paragrafi 2., nën-paragrafët 2.8., 2.9. dhe paragrafit 3. të këtij ligji;
+3.4. për qëllime arkivimi në interesin publik ose qëllime të kërkimit shkencor ose historik,
+ose qëllime statistikore në pajtim me nenin 8, paragrafi 3. të këtij ligji në masën që e
+drejta e përmendur në paragrafin 1. të këtij neni mund ta bëjë të pamundur ose ta
+rrezikojë rëndë arritjen e objektivave të atij përpunimi, ose;
+3.5. për ngritjen, ushtrimin ose mbrojtjen e pretendimeve ligjore.
+Neni 17
+E drejta e kufizimit të përpunimit
+1. Subjekti i të dhënave ka të drejtën të përftojë nga kontrolluesi kufizimin e përpunimit nëse
+zbatohet një nga kriteret e mëposhtme:
+1.1. saktësia e të dhënave personale kundërshtohet nga subjekti i të dhënave për një
+afat që i mundëson kontrolluesit të verifikojë saktësinë e të dhënave personale;
+1.2. përpunimi është i paligjshëm dhe subjekti i të dhënave e kundërshton fshirjen e të
+dhënave personale dhe në vend të saj kërkon kufizimin e përdorimit të tyre;
+1.3. kontrolluesit nuk vazhdojnë t’i duhen të dhënat personale për qëllimet e përpunimit,
+por ato kërkohen nga subjekti i të dhënave për ngritjen, ushtrimin ose mbrojtjen e
+pretendimeve ligjore;
+1.4. subjekti i të dhënave e ka kundërshtuar përpunimin në pajtim me nenin 20 paragrafi
+1. të këtij ligji në pritje të verifikimit nëse shkaqet legjitime të kontrolluesit mbizotërojnë
+ndaj atyre të subjektit të të dhënave.
+2. Nëse përpunimi është kufizuar sipas paragrafit 1. të këtij neni, këto të dhëna personale, me
+përjashtim të ruajtjes, përpunohen vetëm me pëlqimin e subjektit të të dhënave për ngritjen,
+ushtrimin ose mbrojtjen e pretendimeve ligjore ose për mbrojtjen e të drejtave të një personi
+tjetër fizik ose juridik, ose për shkaqe të interesit të rëndësishëm publik;
+3. Një subjekt të dhënash që ka përftuar kufizimin e përpunimit në pajtim me paragrafin 1.të këtij
+neni, informohet nga kontrolluesi para revokimit të kufizimit të përpunimit.
+Neni 18
+Detyrimi i njoftimit në lidhje me korrigjimin ose fshirjen e të dhënave personale ose
+kufizimin e përpunimit
+Kontrolluesi komunikon çdo korrigjim ose fshirje të të dhënave personale ose kufizim të
+përpunimit të kryer, në pajtim me nenin 15, nenin 16 paragrafi 1. dhe nenin 17, të këtij ligji për
+çdo marrës, të cilit i janë deklaruar të dhënat personale, përveç kur kjo duket e pamundur ose
+lidhet me përpjekje joproporcionale. Kontrolluesi njofton subjektin e të dhënave në lidhje me
+këta marrës, nëse subjekti i të dhënave e kërkon këtë.
+Neni 19
+E drejta e transferimit të të dhënave
+1. Subjekti i të dhënave ka të drejtën për të marrë të dhëna personale në lidhje me të, që ai
+14
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+ose ajo i ka dhënë kontrolluesit, në një format të strukturuar, të përdorur gjerësisht dhe të
+lexueshëm automatikisht dhe ka të drejtën për të transmetuar ato të dhëna te një kontrollues
+tjetër, pa pengesë nga një kontrollues, të cilit i janë dhënë të dhënat personale, nëse:
+1.1. përpunimi bazohet në pëlqimin, në pajtim me nenin 5 nën-paragrafi 1.1. ose në një
+kontratë, në pajtim me nenin 6 paragrafët 1. dhe 2. ose nenin 8 nën-paragrafi 2.1. të
+këtij ligji dhe;
+1.2. përpunimi bëhet me mjete automatike.
+2. Në ushtrimin e të drejtës së tij ose të saj për transferimin, në pajtim me paragrafin 1. të
+këtij neni, subjekti i të dhënave ka të drejtën për transferimin e të dhënave personale nga një
+kontrollues në tjetrin, nëse është teknikisht e mundur.
+3. Ushtrimi i të drejtës së përmendur në paragrafin 1. të këtij neni, nuk e prekë neni 16 të këtij
+ligji. Kjo e drejtë nuk zbatohet në përpunimin e nevojshëm për përmbushjen e një detyre të kryer
+në interesin publik ose në ushtrim të një autoriteti zyrtar që i është veshur kontrolluesit.
+4. E drejta e përmendur në paragrafin 1. të këtij neni nuk ndikon negativisht në të drejtat dhe
+liritë e të tjerëve.
+KREU VI
+E DREJTA PËR TË KUNDËRSHTUAR DHE VENDIMMARRJA INDIVIDUALE AUTOMATIKE
+Neni 20
+E drejta për të kundërshtuar
+1. Subjekti i të dhënave ka të drejtën që në çdo kohë të kundërshtojë përpunimin e të dhënave
+personale në lidhje me të, për shkak të një situate personale të veçantë, nëse bazohet në
+nenin 5 paragrafin 1., nën-paragrafin 1.6. ose 1.5. të këtij ligji duke përfshirë profilizimin e
+bazuar në këto dispozita. Kontrolluesi nuk vazhdon të përpunojë të dhëna personale, përveç
+kur kontrolluesi demonstron shkaqe detyruese legjitime për përpunimin që mbizotërojnë mbi
+interesat, të drejtat dhe liritë e subjektit të të dhënave për ngritjen, ushtrimin ose mbrojtjen e
+pretendimeve ligjore.
+2. Nëse të dhënat personale përpunohen për qëllime të drejtpërdrejta marketingu, subjekti i
+të dhënave, në çdo kohë, ka të drejtën të kundërshtojë përpunimin e të dhënave personale
+në lidhje me të për këtë marketing, që përfshinë profilizimin në masën që ai lidhet me këtë
+marketing.
+3. Nëse subjekti i të dhënave kundërshton përpunimin për qëllime të drejtpërdrejta marketingu,
+të dhënat personale nuk vazhdojnë të përpunohen për këto qëllime.
+4. Jo më vonë se në momentin e komunikimit të parë me subjektin e të dhënave, e drejta e
+referuar në paragrafët 1. dhe 2.të këtij neni, sillet shprehimisht në vëmendjen e subjektit të të
+dhënave dhe i paraqitet qartazi dhe veçmas nga çdo informacion tjetër.
+5. Nëse të dhënat personale përpunohen për qëllime të kërkimeve shkencore ose historike,
+ose për qëllime statistikore, subjekti i të dhënave, për shkaqe që lidhen me gjendjen e tij ose
+të veçantë, ka të drejtën të kundërshtojë përpunimin e të dhënave personale në lidhje me të,
+përveç kur përpunimi është i nevojshëm për përmbushjen e një detyre të kryer për shkaqe të
+interesit publik.
+
+15
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+Neni 21
+Vendimmarrja e automatizuar individuale, duke përfshirë profilizimin
+1. Subjekti i të dhënave ka të drejtën të mos i nënshtrohet një vendimi të bazuar vetëm në një
+përpunim automatik, duke përfshirë profilizimin që prodhon efekte në lidhje me të ose e ndikon
+në mënyrë të ngjashme atë.
+2. Paragrafi 1.i këtij neni nuk zbatohet nëse vendimi:
+2.1. është i nevojshëm për të lidhur ose përmbushur një kontratë ndërmjet subjektit të
+të dhënave dhe një kontrolluesi të dhënash;
+2.2. autorizohet nga ndonjë ligj specifik, të cilit i nënshtrohet kontrolluesi dhe që
+përcakton edhe masat e përshtatshme për të garantuar të drejtat, liritë dhe interesat
+legjitime të subjektit të të dhënave, ose;
+2.3 bazohet në pëlqimin e qartë të subjektit të të dhënave.
+3. Në rastet e referuara në paragrafët 2., nën-paragrafët 2.1. dhe 2.3. të këtij neni, kontrolluesi i
+të dhënave zbaton masa të përshtatshme për të garantuar të drejtat, liritë dhe interesat legjitime
+të subjektit të të dhënave, përfshirë të drejtën për të realizuar ndërhyrjen e njeriut nga ana e
+kontrolluesit, për të shprehur këndvështrimin e tij dhe për të kundërshtuar vendimin.
+4. Vendimet e përmendura në paragrafin 2. të këtij neni nuk bazohen në kategoritë e veçanta
+të të dhënave personale të përmendura në nenin 8, paragrafi 1., të këtij ligji, përveç kur nënparagrafi 2.1. ose 2.7. i nenit 8 të këtij ligji zbatohet dhe masat e përshtatshme për të garantuar
+të drejtat, liritë dhe interesat legjitime të subjektit të të dhënave janë në fuqi.
+Neni 22
+Kufizimet
+1. Të drejtat e subjektit të të dhënave të parashikuara në nenet 4, 11 deri 21, dhe nenin 33 të
+këtij ligji në masën që dispozitat e saj përputhen me të drejtat dhe detyrimet e parashikuara
+në nenet 11 deri 21 të këtij ligji, mund të kufizohen nëse një kufizim i tillë respekton thelbin e
+të drejtave dhe lirive themelore dhe është një masë e nevojshme dhe proporcionale për të
+garantuar:
+1.1. sigurinë shtetërore;
+1.2. mbrojtjen;
+1.3. sigurinë publike;
+1.4. parandalimin, hetimin, zbulimin ose ndjekjen penale të veprave penale ose
+ekzekutimin e dënimeve penale, duke përfshirë garantimin ndaj parandalimit të
+kërcënimeve për sigurinë publike;
+1.5. objektiva të tjera të rëndësishme të interesit të përgjithshëm publik të Republikës
+së Kosovës, veçanërisht një interes i rëndësishëm ekonomik ose financiar i Republikës
+së Kosovës, duke përfshirë çështjet monetare, buxhetore ose të tatimeve, shëndetit
+publik dhe sigurisë sociale;
+1.6. mbrojtjen e pavarësisë gjyqësore dhe të procedimeve gjyqësore;
+1.7. parandalimin, hetimin, zbulimin dhe ndjekjen penale të shkeljes së etikës për
+profesionet e rregulluara;
+16
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.8. një funksion monitorues, inspektues ose rregullator që lidhet, edhe rastësisht, me
+ushtrimin e autoritetit zyrtar, në rastet e përmendura në nën-paragrafët 1.1. deri 1.5.
+dhe nën-paragrafin 1.7. të këtij neni;
+1.9. mbrojtjen e subjektit të të dhënave ose të të drejtave dhe lirive të të tjerëve;
+1.10. ekzekutimin e pretendimeve sipas të drejtës civile.
+Masat nga paragrafi 1. i këtij neni mund të merren vetëm për aq sa është e nevojshme për
+arritjen e qëllimit për të cilin është dhënë kufizimi.
+KREU VII
+KONTROLLUESI DHE PËRPUNUESI DETYRIMET E PËRGJITHSHME
+Neni 23
+Përgjegjësia e kontrolluesit
+1. Duke marrë parasysh natyrën, objektin, kontekstin dhe qëllimet e përpunimit, si dhe rreziqet
+me mundësi ndryshimi dhe ashpërsinë për të drejtat dhe liritë e personave fizikë, kontrolluesi
+zbaton masa të përshtatshme teknike dhe organizative për të garantuar gatishmërinë për
+të demonstruar që përpunimi të kryhet në pajtim me këtë ligj. Këto masa rishikohen dhe
+përditësohen sipas nevojës.
+2. Nëse është proporcionale në lidhje me aktivitetet përpunuese, masat e përmendura në
+paragrafin 1., përfshijnë zbatimin e politikave të përshtatshme për mbrojtjen e të dhënave nga
+kontrolluesi.
+Neni 24
+Mbrojtja e të dhënave në mënyrë konkrete dhe rastësore
+1. Duke marrë parasysh gjendjen e teknikës, koston e zbatimit dhe natyrën, objektin, kontekstin
+dhe qëllimet e përpunimit, si dhe rreziqet me mundësi të ndryshueshme dhe ashpërsinë për
+të drejtat dhe liritë e personave fizikë që rrjedhin nga përpunimi, kontrolluesi, në momentin
+e përcaktimit të mjeteve të përpunimit dhe në momentin e vetë përpunimit, zbaton masa të
+përshtatshme teknike dhe organizative, siç është pseudonimizim, që janë të destinuara për të
+zbatuar parimet e mbrojtjes së të dhënave, siç është minimizimi i të dhënave, në një mënyrë të
+efektshme për të integruar garancitë e nevojshme në përpunim, me qëllim që të përmbushen
+kërkesat e këtij ligji dhe për të mbrojtur të drejtat e subjekteve të të dhënave.
+2. Kontrolluesi zbaton masat e përshtatshme teknike dhe organizative për të garantuar që, në
+mënyrë rastësore, të përpunohen vetëm të dhënat personale që janë të nevojshme për secilin
+qëllim specifik të përpunimit. Ky detyrim zbatohet për tërësinë e të dhënave personale që është
+mbledhur, masën e përpunimit të tyre, afatin e ruajtjes së tyre dhe qasjen në to. Veçanërisht,
+këto masa garantojnë që të dhënat personale nuk bëhen të qasshme në mënyrë rastësore pa
+ndërhyrjen e individit për një numër të pacaktuar të personave fizikë.
+3. Një mekanizëm i aprovuar certifikimi sipas referimit në nenin 43 mund të përdoret si një
+element për të demonstruar përputhshmëri me kërkesat e parashikuara në paragrafët 1. dhe
+2. të këtij neni.
+Neni 25
+Kontrolluesit e përbashkët
+1. Nëse dy (2) ose më shumë kontrollues përcaktojnë së bashku qëllimet dhe mjetet e
+përpunimit, ata quhen kontrollues të përbashkët. Ata përcaktojnë, në një mënyrë transparente,
+17
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+përgjegjësitë e tyre përkatëse për përputhshmërinë me detyrimet sipas ligjit, veçanërisht në
+lidhje me ushtrimin e të drejtave të subjekteve të të dhënave dhe detyrat e tyre përkatëse për
+të dhënë informacionin e referuar në nenet 12 dhe 13 të këtij ligji, nëpërmjet një mase ndërmjet
+tyre. Masa mund të përcaktojë një pikë kontakti për subjektet e të dhënave.
+2. Masa e referuar në paragrafin 1. të këtij neni pasqyron rolet dhe raportet e kontrolluesve
+të përbashkët kundrejt subjekteve të të dhënave. Thelbi i masës i bëhet e ditur subjektit të të
+dhënave.
+3. Pavarësisht nga kushtet e masës së përmendur në paragrafin 1.të këtij neni, subjekti i të
+dhënave mund të ushtrojë të drejtat e tij ose të saj sipas këtij ligji në lidhje me dhe kundër çdo
+kontrolluesi.
+Neni 26
+Përfaqësuesit e kontrolluesit ose përpunuesit që nuk janë vendosur në Kosovë
+1. Nëse zbatohet neni 2,paragrafi 3. i këtij ligji, kontrolluesi ose përpunuesi cakton me shkrim
+një përfaqësues në Republikën e Kosovës.
+2. Detyrimi i parashikuar në paragrafin 1. të këtij neni nuk zbatohet për:
+2.1. përpunimin që është rastësor, nuk përfshinë, në masë të madhe, përpunimin e
+kategorive të veçanta të të dhënave të referuara në nenin 8, paragrafi 1.të këtij ligji
+ose përpunimin e të dhënave personale në lidhje me dënimet dhe veprat penale të
+referuara në nenin 9 të këtij ligji dhe duket se nuk rezulton në një rrezik për të drejtat
+dhe liritë e personave fizikë, duke marrë parasysh natyrën, kontekstin, objektin dhe
+qëllimet e përpunimit, ose;
+2.2. një autoritet ose organ publik.
+3. Përfaqësuesi autorizohet nga kontrolluesi ose përpunuesi, që të investohet, përveç ose në
+vend të kontrolluesit ose përpunuesit, veçanërisht nga Agjencia dhe subjektet e të dhënave,
+për të gjitha çështjet në lidhje me përpunimin, për qëllimet e sigurimit të përputhshmërisë me
+këtë ligj.
+4. Caktimi i një përfaqësuesi nga kontrolluesi ose përpunuesi nuk pengon procedimet gjyqësore
+që mund të fillohen ndaj vetë kontrolluesit ose përpunuesit.
+Neni 27
+Përpunuesi
+1. Nëse përpunimi duhet të kryhet në emër të një kontrolluesi, i njëjti përdorë vetëm përpunues
+që ofrojnë garanci të mjaftueshme për të zbatuar masat e përshtatshme teknike dhe organizative
+në një mënyrë të tillë që përpunimi të përmbushë kërkesat e këtij ligji dhe të garantojë mbrojtjen
+e të drejtave të subjektit të të dhënave.
+2. Përpunuesi nuk angazhon një përpunues tjetër, pa autorizimin paraprak specifik ose të
+përgjithshëm me shkrim të kontrolluesit. Në rastin e autorizimit të përgjithshëm me shkrim,
+përpunuesi informon kontrolluesin për çdo ndryshim të synuar në lidhje me shtimin ose
+zëvendësimin e përpunuesve të tjerë, duke i dhënë kontrolluesit mundësi për të kundërshtuar
+këto ndryshime.
+3. Përpunimi nga një përpunues rregullohet me një kontratë që është detyruese për përpunuesin
+në lidhje me kontrolluesin dhe që përcakton objektin dhe kohëzgjatjen e përpunimit, natyrën
+dhe qëllimin e përpunimit, tipin e të dhënave personale dhe kategorive të subjekteve të të
+dhënave dhe detyrimet dhe të drejtat e kontrolluesit. Kjo kontratë parashikon, veçanërisht, që
+18
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+përpunuesi:
+3.1. përpunon të dhënat personale vetëm sipas udhëzimeve të dokumentuara nga
+kontrolluesi, duke përfshirë në lidhje me transferimet e të dhënave personale te një
+vend i jashtëm ose një organizatë ndërkombëtare, përveç kur i kërkohet ta bëjë këtë
+nga ndonjë ligj specifik, të cilit i nënshtrohet përpunuesi; në një rast të tillë, përpunuesi
+informon kontrolluesin për këtë kërkesë ligjore para përpunimit, përveç kur ligji e
+ndalon këtë informim për shkaqe të rëndësishme të interesit publik. Përpunuesi e
+informon menjëherë kontrolluesin nëse, sipas mendimit të tij, ndonjë udhëzim është në
+kundërshtim me këtë ligj;
+3.2. garanton që personat e autorizuar për të përpunuar të dhënat personale i
+janë nënshtruar konfidencialitetit ose janë nën detyrimin ligjor të përshtatshëm të
+konfidencialitetit;
+3.3. merr të gjitha masat e kërkuara sipas nenit 31 të këtij ligji;
+3.4. respekton kushtet e referuara në paragrafët 2. dhe 4. të këtij neni për angazhimin
+e një përpunuesi tjetër;
+3.5. duke marrë parasysh natyrën e përpunimit, ndihmon kontrolluesin me masa
+të përshtatshme teknike dhe organizative, në masën që kjo është e mundur, për
+përmbushjen e detyrimit të kontrolluesit për t’iu përgjigjur kërkesave për ushtrimin e të
+drejtave të subjektit të të dhënave;
+3.6. ndihmon kontrolluesin në sigurimin e përputhshmërisë me detyrimet, në pajtim
+me nenet 21 deri 36 të këtij ligji, duke marrë parasysh natyrën e përpunimit dhe
+informacionin e ofruar përpunuesit;
+3.7. sipas zgjedhjes së kontrolluesit, fshinë ose kthen të gjitha të dhënat personale te
+kontrolluesi pas përfundimit të dhënies së shërbimeve në lidhje me përpunimin dhe
+fshinë kopjet ekzistuese, përveç kur Ligji mbi Arkivat e kërkon ruajtjen e të dhënave;
+3.8. i ofron kontrolluesit të gjithë informacionin e nevojshëm për të demonstruar
+përputhshmëri me detyrimet e parashikuara në këtë nen dhe lejon dhe kontribuon për
+kontrollet, duke përfshirë inspektimet, e zhvilluara nga kontrolluesi ose një auditor tjetër
+të autorizuar nga kontrolluesi.
+4. Nëse një përpunues angazhon një përpunues tjetër për kryerjen e aktiviteteve specifike
+të përpunimit, në emër të kontrolluesit, të njëjtat detyrime për mbrojtjen e të dhënave, sipas
+parashikimit në kontratë ndërmjet kontrolluesit dhe përpunuesit, sipas referimit në paragrafin
+3. të këtij neni, i caktohen përpunuesit tjetër nëpërmjet një kontrate, veçanërisht duke dhënë
+garanci të mjaftueshme për zbatimin e masave të përshtatshme teknike dhe organizative në
+një mënyrë të tillë që përpunimi të përmbushë kërkesat e këtij ligji. Nëse përpunuesi tjetër nuk
+përmbushë detyrimet për mbrojtjen e të dhënave, përpunuesi i parë mbetet tërësisht përgjegjës
+kundrejt kontrolluesit për përmbushjen e detyrimeve të përpunuesit tjetër.
+5. Pa cenuar një kontratë individuale ndërmjet kontrolluesit dhe përpunuesit, kontrata, e referuar
+në paragrafët 3. dhe 4. të këtij neni, mund të bazohet, plotësisht ose pjesërisht, mbi klauzolat
+standarde kontraktuale të referuara në paragrafët 6. dhe 7. të këtij neni, duke përfshirë kur ata
+janë pjesë e një certifikimi të dhënë kontrolluesit ose përpunuesit në pajtim me nenin 43.
+6. Respektimi i kodit të sjelljes, të miratuar, nga ana e përpunuesit siç referohet në nenin 41 të
+këtij ligji ose i mekanizmit të certifikimit, të miratuar, siç referohet në nenin 43 të këtij ligji mund
+të përdoret si element me të cilin do të demonstrohen garanci të mjaftueshme siç referohen në
+paragrafët 1. dhe 4. të këtij neni.
+19
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+7. Agjencia mund të vendosë klauzola standarde kontraktuale për çështjet e referuara në
+paragrafët 3. dhe 4. të këtij neni.
+8. Kontrata e referuar në paragrafët 3. dhe 4. të këtij neni, bëhet me shkrim, duke përfshirë
+formatin elektronik.
+9. Pa cenuar nenet 57, 92 të këtij ligji, nëse një përpunues e shkel këtë ligj, duke përcaktuar
+qëllimet dhe mjetet e përpunimit, përpunuesi konsiderohet të jetë një kontrollues në lidhje me
+këtë përpunim.
+Neni 28
+Përpunimi nën autoritetin e kontrolluesit ose përpunuesit
+Përpunuesi dhe çdo person që vepron nën autoritetin e kontrolluesit ose të përpunuesit, i cili ka
+qasje në të dhënat personale, nuk i përpunon ato të dhëna, përveç se sipas udhëzimeve nga
+kontrolluesi, përveç kur i kërkohet ta bëjë këtë nga ndonjë ligj specifik.
+Neni 29
+Regjistrat e aktiviteteve të përpunimit
+1. Çdo kontrollues, përpunues dhe aty ku është e aplikueshme përfaqësuesit e tyre, mbajnë
+regjistër të aktiviteteve të përpunimit nën përgjegjësinë e tyre. Ky regjistër përmban të gjitha
+informatat e mëposhtme:
+1.1. emrin dhe informatat e kontaktit të kontrolluesit dhe, aty ku është e aplikueshme,
+të kontrolluesit të përbashkët, përfaqësuesit të kontrolluesit dhe të zyrtarit për mbrojtjen
+e të dhënave;
+1.2. qëllimet e përpunimit;
+1.3. një përshkrim të kategorive të subjekteve të të dhënave dhe kategorive të të
+dhënave personale;
+1.4. kategoritë e pranuesve të cilëve u janë zbuluar ose do të zbulohen të dhënat
+personale duke përfshirë pranuesit në vende të treta ose organizatat ndërkombëtare;
+1.5. aty ku është e aplikueshme, transferimi i të dhënave personale në një vend të
+tretë ose një organizatë ndërkombëtare, duke përfshirë identifikimin e atij vendi të tretë
+ose organizatës ndërkombëtare, autorizimin sipas nenit 49, paragrafi 2. të këtij ligji
+dhe, në rastin e transfereve të përmendura në nenin 49 nën-paragrafi 1.9. të këtij ligji,
+dokumentimin e masave mbrojtëse të përshtatshme;
+1.6. aty ku është e mundur, afatet kohore të parashikuara për fshirjen e kategorive të
+ndryshme të të dhënave;
+1.7. aty ku është e mundur, një përshkrim të përgjithshëm të masave teknike dhe
+organizative të sigurisë të përmendura në nenin 31, paragrafi 1. të këtij ligji.
+2. Regjistrat e referuara në paragrafin 1.të këtij neni duhet të jenë me shkrim, duke përfshirë
+edhe në formë elektronike.
+3. Kontrolluesi ose përpunuesi dhe, ku është e aplikueshme, përfaqësuesi i kontrolluesit ose i
+përpunuesit, duhet ta vë regjistrin në dispozicion të autoritetit mbikëqyrës sipas kërkesës.
+4. Obligimet e referuara në paragrafin 1.të këtij neni nuk zbatohen për ndërmarrjen ose
+organizatën që punëson më pak se dyqind e pesëdhjetë (250) persona, përveç nëse përpunimi
+20
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+që ato kryejnë ka gjasa të rezultojë në një rrezik për të drejtat dhe liritë e subjekteve të të
+dhënave, përpunimi nuk është i rastit, ose përpunimi përfshin kategori të veçanta të të dhënave
+të përmendura në nenin 8 paragrafin 1. të këtij ligji ose të dhënat personale që kanë të bëjnë
+me dënimet penale dhe veprat penale të përmendura në nenin 9 të këtij ligji.
+Neni 30
+Bashkëpunimi me agjencinë
+Kontrolluesi dhe përpunuesi dhe, sipas rastit, përfaqësuesit e tyre, bashkëpunojnë, sipas
+kërkesës me Agjencinë në përmbushjen e detyrave të tyre.
+KREU VIII
+SIGURIA E TË DHËNAVE PERSONALE
+Neni 31
+Siguria e përpunimit
+1. Duke marrë parasysh gjendjen e teknikës, shpenzimet e zbatimit dhe natyrën, objektin,
+kontekstin dhe qëllimet e përpunimit si dhe rrezikun e mundësisë së ndryshimit, si dhe
+ashpërsinë për të drejtat dhe liritë e personave fizikë, kontrolluesi dhe përpunuesi zbaton masa
+të përshtatshme teknike dhe organizative për të siguruar një nivel sigurie të përshtatshëm për
+rrezikun, duke përfshirë, ndër të tjera, sipas rastit:
+1.1. pseudonimizimin dhe enkriptimin e të dhënave personale;
+1.2. aftësinë për të siguruar konfidencialitetin, integritetin, disponueshmërinë dhe
+qëndrueshmërinë në vazhdim të sistemeve dhe shërbimeve të përpunimit;
+1.3. aftësinë për të rivendosur disponueshmërinë dhe qasjen në të dhënat personale
+në kohën e duhur, në rastin e një incidenti fizik ose teknik;
+1.4. Një proces të testimit, vlerësimit të rregullt të efektivitetit të masave teknike dhe
+organizative për të garantuar sigurinë e përpunimit.
+2. Në vlerësimin e nivelit të përshtatshëm të sigurisë duhet të merret parasysh veçanërisht
+rreziqet që paraqiten nga përpunimi, veçanërisht nga asgjësimi, humbja, ndryshimi aksidental
+ose i paligjshëm, deklarimi i paautorizuar ose qasja në të dhënat personale të transmetuara,
+ruajtura ose përpunuara ndryshe.
+3. Respektimi i një kodi të aprovuar të sjelljes, sipas referencës në nenin 41 të këtij ligji ose
+certifikimit të aprovuar sipas referimit në nenin 43 të këtij ligji, mund të përdoret si një element
+nëpërmjet të cilit të demonstrohet përputhshmëria me kërkesat e parashikuara në paragrafin 1.
+të këtij neni.
+4. Kontrolluesi dhe përpunuesi ndërmerr hapa për të garantuar që çdo person fizik që vepron
+nën autoritetin e kontrolluesit ose të përpunuesit, i cili ka qasje në të dhënat personale, nuk i
+përpunon ato, përveç se sipas udhëzimeve nga kontrolluesi, përveç kur i kërkohet ta bëjë këtë
+nga ndonjë ligj specifik.
+Neni 32
+Përpunimi i kontraktuar
+1. Përpunuesit të të dhënave mund t’i besohet përpunimi i të dhënave personale me një kontratë
+të shkruar, për të kryer veprimtari të tilla në pajtim me procedurat dhe masat e sigurisë.
+21
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+2. Përpunuesi i të dhënave mund të veprojë vetëm brenda kufijve të autorizimeve të kontrolluesit
+të të dhënave dhe nuk mund të përpunojë të dhënat personale për qëllime të tjera. Të drejtat
+dhe detyrimet reciproke duhet të caktohen me kontratë të shkruar, e cila po ashtu duhet të
+përmbajë edhe një përshkrim të detajuar të procedurave dhe masave në pajtim me nenin 32 të
+këtij ligji.
+3. Kontrolluesi i të dhënave duhet të mbikëqyrë zbatimin e procedurave dhe masave në pajtim
+me nenin 32 të këtij ligji. Po ashtu, duhet të përfshijë edhe vizitat e përkohshme në lokalet ku
+bëhet përpunimi i të dhënave personale.
+4. Në rast mosmarrëveshjeje ndërmjet kontrolluesit të të dhënave dhe përpunuesit të të
+dhënave, përpunuesi i të dhënave duhet menjëherë në kërkesë të kontrolluesit të të dhënave
+t’i kthejë të gjitha të dhënat që ai ose ajo i posedon. Përpunuesit të të dhënave nuk i lejohet t’i
+mbajë kopjet dhe t’i përpunojë ato më tutje.
+5. Në rast të ndërprerjes së veprimtarive të përpunuesit të të dhënave, të dhënat personale
+duhet të kthehen menjëherë te kontrolluesi i të dhënave.
+Neni 33
+Njoftimi i Agjencisë për një shkelje të të dhënave personale
+1. Në rastin e një shkeljeje të të dhënave personale, kontrolluesi, pa vonesë dhe sipas rastit,
+jo më vonë se shtatëdhjetë e dy (72) orë pasi të jetë informuar rreth saj, njofton Agjencinë
+për shkeljen e të dhënave personale, përveç kur shkelja e të dhënave personale nuk mund të
+rezultojë në një rrezik për të drejtat dhe liritë e personave fizikë. Nëse njoftimi i Agjencisë nuk
+bëhet brenda shtatëdhjetë e dy (72) orëve, ai shoqërohet me shkaqet e vonesës.
+2. Përpunuesit njoftojnë kontrolluesin, pa vonesë të panevojshme, pas ardhjes në dijeni të një
+shkeljeje të të dhënave personale.
+3. Njoftimi i përmendur në paragrafin 1.të këtij neni, të paktën:
+3.1. përshkruan natyrën e shkeljes së të dhënave personale, duke përfshirë, sipas
+rastit, kategoritë dhe numrin e përafërt të subjekteve të të dhënave dhe kategoritë me
+numrin e përafërt të regjistrave të të dhënave personale përkatëse;
+3.2. komunikon emrin dhe të dhënat e kontaktit të zyrtarit të mbrojtjes së të dhënave
+dhe çdo pikë tjetër të kontaktit nëse mund të merret më shumë informacion;
+3.3. përshkruan pasojat e mundshme të shkeljes së të dhënave personale;
+3.4. përshkruan masat e marra ose të propozuara për t’u marrë nga kontrolluesi për
+të trajtuar shkeljen e të dhënave personale, duke përfshirë, sipas rastit, masat për të
+zbutur efektet e mundshme negative.
+4. Nëse dhe në masën që nuk është e mundur që informacioni të jepet në të njëjtën kohë,
+informacioni mund të jepet në faza pa vonesë tjetër të panevojshme.
+5. Kontrolluesi dokumenton çdo shkelje të të dhënave personale që përbëhet nga faktet në
+lidhje me shkeljen e të dhënave personale, efektet e saj dhe veprimi korrigjues i ndërmarrë. Ky
+dokumentacion i mundëson Agjencisë për të verifikuar përputhshmërinë me këtë nen.
+Neni 34
+Komunikimi i shkeljes së të dhënave personale subjektit të të dhënave
+1. Nëse shkelja e të dhënave personale mund të rezultojë në një rrezik të lartë për të drejtat dhe
+22
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+liritë e personave fizikë, kontrolluesi ia komunikon shkeljen e të dhënave personale subjektit të
+të dhënave pa vonesë të panevojshme.
+2. Komunikimi drejtuar subjektit të të dhënave personale, sipas referimit në paragrafin 1. të
+këtij neni, përshkruan në një gjuhë të pastër dhe të qartë natyrën e shkeljes së të dhënave
+personale dhe përmban të paktën informacionin dhe masat e përmendura në paragrafin 3.,
+nën-paragrafët 3.2., 3.3. dhe 3.4. të nenit 33 të këtij ligji.
+3. Komunikimi drejtuar subjektit të të dhënave, të përmendur në paragrafin 1.të këtij neni, nuk
+kërkohet nëse përmbushet një prej kushteve të mëposhtme:
+3.1. kontrolluesi ka zbatuar masa të përshtatshme teknike dhe organizative mbrojtëse
+dhe këto masa janë zbatuar për të dhënat personale të ndikuara nga shkelja e të
+dhënave personale, veçanërisht ato që i bëjnë të dhënat personale të pakuptueshme
+për çdo person që nuk është i autorizuar për t’u qasur në to, si enkriptimi;
+3.2. kontrolluesi ka marrë masa të vazhdueshme që garantojnë se rreziku i lartë për të
+drejtat dhe liritë e subjekteve të të dhënave, të përmendura në paragrafin 1.të këtij neni,
+nuk vazhdon të jetë i mundur për tu realizuar;
+3.3. do të kishte të bënte me një përpjekje disproporcionale. Në një rast të tillë, në vend
+të kësaj, do të ketë një komunikim publik ose një masë të ngjashme, nëpërmjet së cilës,
+subjektet e të dhënave informohen në një mënyrë njëlloj të efektshme.
+4. Nëse kontrolluesi nuk ia ka komunikuar shkeljen e të dhënave personale subjektit të të
+dhënave, Agjencia, duke marrë parasysh mundësinë që shkelja e të dhënave personale të
+rezultojë në një rrezik të lartë, mund të kërkojë ta bëjë këtë ose të vendosë që të përmbushet
+një prej kushteve të referuara në paragrafin 3.të këtij neni.
+KREU IX
+VLERËSIMI I NDIKIMIT MBI MBROJTJEN E TË DHËNAVE DHE KONSULTIMET
+PARAPRAKE
+Neni 35
+Vlerësimi i ndikimit mbi mbrojtjen e të dhënave
+1. Nëse një tip i përpunimit, veçanërisht përdorimi i teknologjisë së re dhe duke marrë parasysh
+natyrën, objektin, kontekstin dhe qëllimet e përpunimit, mund të rezultojë në një rrezik të lartë
+për të drejtat dhe liritë e personave fizikë, kontrolluesi, para përpunimit, kryhen një vlerësim të
+ndikimit të operacioneve të parashikuara të përpunimit mbi përpunimin e të dhënave personale.
+Një vlerësim i vetëm mund të trajtojë një sërë veprimesh të ngjashme përpunimi që paraqesin
+rreziqe të larta të ngjashme.
+2. Kontrolluesi kërkon këshillën e zyrtarit të mbrojtjes së të dhënave, nëse është caktuar, në
+kryerjen e vlerësimit të ndikimit mbi mbrojtjen e të dhënave.
+3. Një vlerësim i ndikimit mbi mbrojtjen e të dhënave, i përmendur në paragrafin 1. të këtij neni,
+veçanërisht kërkohet në rastin e:
+3.1. një vlerësimi sistematik dhe të zgjatur të aspekteve personale, në lidhje me
+personat fizikë, i cili bazohet në përpunimin automatik, duke përfshirë profilizimin dhe
+në të cilin bazohen vendimet që prodhojnë efekte ligjore në lidhje me personat fizikë
+ose ndikojnë në masë të ngjashme personin fizik;
+3.2. përpunimit në shkallë të gjerë të kategorive të veçanta të të dhënave të përmendura
+23
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+në nenin 8, paragrafi 1. të këtij ligji, ose të të dhënave personale në lidhje me dënimet
+dhe veprat penale të përmendura në nenin 9 të këtij ligji, ose;
+3.3. një monitorimi sistematik të një zone me qasje publike në një shkallë të gjerë.
+4. Agjencia përpilon dhe bënë publike një listë për llojin e veprimeve të përpunimit që i
+nënshtrohen kërkesës së një vlerësimi të ndikimit të mbrojtjes së të dhënave në pajtim me
+paragrafin 1. të këtij neni.
+5. Agjencia mund të përpilojë dhe bëjë publike një listë me llojin e veprimeve të përpunimit, për
+të cilat nuk kërkohet vlerësimi i ndikimit të mbrojtjes së të dhënave.
+6. Vlerësimi, të paktën, përmban:
+6.1. një përshkrim sistematik të veprimeve të përpunimit të parashikuar dhe qëllimet
+e përpunimit, duke përfshirë, sipas rastit, interesin legjitim të ndjekur nga kontrolluesi;
+6.2. një vlerësim të domosdoshmërisë dhe proporcionalitetit të operacioneve të
+përpunimit në lidhje me qëllimet;
+6.3. një vlerësim të rreziqeve për të drejtat dhe liritë e subjekteve të të dhënave, të
+referuara në paragrafin 1. të këtij neni, dhe;
+6.4. masat e parashikuara për të trajtuar rreziqet, duke përfshirë garancitë, masat e
+sigurisë dhe mekanizmat për të siguruar mbrojtjen e të dhënave personale dhe për të
+demonstruar përputhshmëri me këtë ligj, duke marrë parasysh të drejtat dhe interesat
+legjitime të subjekteve të të dhënave dhe personave të tjerë të interesuar.
+7. Respektimi i kodeve të aprovuara të sjelljes, të referuar në nenin 41 të këtij ligji nga kontrolluesit
+ose përpunuesit, merren parasysh në vlerësimin e ndikimit të veprimeve të përpunimit, të kryera
+nga këta kontrollues ose përpunues, veçanërisht për qëllimet e vlerësimit të ndikimit të mbrojtjes
+së të dhënave.
+8. Sipas rastit, kontrolluesi kërkon mendimet e subjekteve të të dhënave ose përfaqësuesve
+të tyre mbi përpunimin e synuar, pa cenuar mbrojtjen e interesave tregtare ose publike ose
+sigurinë e veprimeve të përpunimit.
+9. Nëse përpunimi, në pajtim me nenin 5, paragrafi 1., nën-paragrafi 1.3. ose 1.5. të këtij ligji
+ka një bazë ligjore në ndonjë ligj specifik, të cilit i nënshtrohet kontrolluesi, kjo e drejtë rregullon
+operacionet specifike të përpunimit ose kompletin e operacioneve në fjalë dhe një vlerësim
+i ndikimit mbi mbrojtjen e të dhënave është kryer si pjesë e një vlerësimi të përgjithshëm të
+ndikimit në kontekstin e miratimit të asaj baze ligjore, paragrafët 1. deri 6. të këtij neni nuk
+aplikohen, përveç në rastet kur Agjencia e konsideron të nevojshme për të kryer një vlerësim të
+tillë para aktiviteteve përpunuese.
+10. Sipas rastit, kontrolluesi kryen një rishikim për të vlerësuar nëse përpunimi kryhet në pajtim
+me vlerësimin e ndikimit mbi mbrojtjen e të dhënave, të paktën kur ka një ndryshim të rrezikut
+të përfaqësuar nga veprimet e përpunimit.
+Neni 36
+Konsultimi paraprak
+1. Kontrolluesi konsultohet me Agjencinë para përpunimit, nëse vlerësimi i ndikimit mbi mbrojtjen
+e të dhënave, sipas nenit 35 të këtij ligji, tregon që përpunimi do të rezultonte në një rrezik të
+lartë në mungesë të masave të marra nga kontrolluesi për të zbutur rrezikun.
+24
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+2. Nëse Agjencia është e mendimit që përpunimi i synuar, i referuar në paragrafin 1. të këtij
+neni, do të shkelte këtë ligj, veçanërisht nëse kontrolluesi ka identifikuar ose zbutur rrezikun në
+masë të pamjaftueshme, Agjencia, brenda një afati deri në tetë (8) javë nga marrja e kërkesës
+për konsultim, i paraqet kontrolluesit këshillë me shkrim dhe nëse zbatohet për përpunuesin
+mund të përdorë një prej kompetencave të përmendura në nenin 64 të këtij ligji. Ky afat mund
+të zgjatet gjashtë (6) javë, duke marrë parasysh kompleksitetin e përpunimit të synuar. Agjencia
+informon kontrolluesin dhe, sipas rastit, përpunuesin, për çdo zgjatje të tillë brenda një (1) muaji
+nga marrja e kërkesës për konsultime së bashku me shkaqet e vonesës. Këto afate mund
+të pezullohen derisa Agjencia të ketë përfituar informacionin që ai ka kërkuar për qëllimet e
+konsultimeve.
+3. Gjatë konsultimit me Agjencinë, në pajtim me paragrafin 1. të këtij neni, kontrolluesi i paraqet
+Agjencisë:
+3.1. sipas rastit, përgjegjësitë përkatëse të kontrolluesit, kontrolluesit të përbashkët dhe
+përpunuesve të përfshirë në përpunim, veçanërisht për përpunimin brenda një grupi
+ndërmarrjesh;
+3.2. qëllimet dhe mjetet e përpunimit të synuar;
+3.3. masat dhe garancitë e parashikuara për të mbrojtur të drejtat dhe liritë e subjekteve
+të të dhënave në pajtim me këtë ligj;
+3.4. sipas rastit, hollësitë e kontaktit për zyrtarin e mbrojtjes së të dhënave;
+3.5. vlerësimin e ndikimit të mbrojtjes së të dhënave, të parashikuar në nenin 35 të këtij
+ligji, dhe;
+3.6. çdo informacion tjetër të kërkuar nga Agjencia.
+4. Pavarësisht paragrafit 1.të këtij neni, Agjencia mund të kërkojë që kontrolluesit të konsultohen
+dhe të marrin autorizim paraprak në lidhje me përpunimin nga një kontrollues për kryerjen e një
+detyre që përmbushet nga kontrolluesi në interes publik, duke përfshirë përpunimin në lidhje me
+mbrojtjen sociale dhe shëndetin publik.
+KREU X
+ZYRTARI PËR MBROJTJEN E TË DHËNAVE PERSONALE
+Neni 37
+Caktimi i zyrtarit për mbrojtjen e të dhënave
+1. Kontrolluesi dhe përpunuesi caktojnë një zyrtar për mbrojtjen e të dhënave në çdo rast, nëse:
+1.1. përpunimi kryhet nga një organ publik, përveç gjykatave që veprojnë në cilësinë e
+tyre gjyqësore;
+1.2. aktivitetet kryesore të kontrolluesit ose të përpunuesit përbëhen nga veprimet
+përpunuese që në saje të natyrës, objektit dhe/ose qëllimit të tyre, kërkojnë monitorim
+të rregullt dhe sistematik të subjektit të të dhënave në një shkallë të gjerë, ose;
+1.3. aktivitetet kryesore të kontrolluesit ose të përpunuesit përbëhen nga përpunimi në
+një shkallë të gjerë të kategorive të veçanta, në pajtim me nenin 8 të këtij ligji dhe të
+dhëna personale në lidhje me dënimet dhe veprat penale të referuara në nenin 9 të
+këtij ligji.
+2. Një grup ndërmarrjesh mund të caktojë një zyrtar të vetëm për mbrojtjen e të dhënave, me
+25
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+kusht që një zyrtar për mbrojtjen e të dhënave të jetë lehtësisht i qasshëm nga çdo strukturë.
+3. Nëse kontrolluesi ose përpunuesi është një organ publik, mund të caktohet një zyrtar i vetëm
+për mbrojtjen e të dhënave për disa organe të tilla, duke pasur parasysh strukturën e tyre
+organizative dhe madhësinë.
+4. Në raste të ndryshme nga ato të referuara në paragrafin 1. të këtij neni, kontrolluesi ose
+përpunuesi, ose shoqatat, ose organet e tjera që përfaqësojnë kategori të kontrolluesve ose
+përpunuesve, mund të caktojnë një zyrtar për mbrojtjen e të dhënave. Zyrtari për mbrojtjen e
+të dhënave mund të veprojë për këto shoqata ose organe të tjera që përfaqësojnë kontrolluesit
+ose përpunuesit.
+5. Zyrtari për mbrojtjen e të dhënave caktohet mbi bazën e cilësive profesionale dhe veçanërisht,
+ekspertizës për të drejtën e mbrojtjes së të dhënave, praktika dhe aftësia për të përmbushur
+detyrat e përmendura në nenin 39 të këtij ligji.
+6. Zyrtari për mbrojtjen e të dhënave mund të jetë anëtar personeli i kontrolluesit ose përpunuesit,
+ose të përmbushë detyrat mbi bazën e një kontrate shërbimi.
+7. Kontrolluesi ose përpunuesi publikon hollësitë e kontaktit të zyrtarit për mbrojtjen e të dhënave
+dhe ia komunikon ato Agjencisë.
+Neni 38
+Pozicioni i zyrtarit për mbrojtjen e të dhënave
+1. Kontrolluesi dhe përpunuesi garantojnë që zyrtari për mbrojtjen e të dhënave përfshihet në
+mënyrën dhe kohën e duhur, në të gjitha çështjet që kanë të bëjnë me mbrojtjen e të dhënave
+personale.
+2. Kontrolluesi dhe përpunuesi mbështetë zyrtarin për mbrojtjen e të dhënave në përmbushjen
+e detyrave të referuara në nenin 39 të këtij ligji duke parashikuar masat e nevojshme për të
+kryer ato detyra dhe pë t’u qasur në veprimet e përpunimit të të dhënave personale dhe për të
+mbajtur ekspertizën e vet.
+3. Kontrolluesi dhe përpunuesi garantojnë që zyrtari për mbrojtjen e të dhënave nuk merr
+udhëzime në lidhje me ushtrimin e këtyre detyrave. Ai ose ajo nuk pushohet apo penalizohet
+nga kontrolluesi ose përpunuesi për përmbushjen e detyrave të tij. Zyrtari për mbrojtjen e të
+dhënave raporton drejtpërdrejt në nivelin më të lartë menaxhues të kontrolluesit ose përpunuesit.
+4. Subjektet e të dhënave mund të kontaktojnë zyrtarin për mbrojtjen e të dhënave në lidhje me
+çështjet që i takojnë përpunimit të të dhënave të tyre personale dhe për ushtrimin e të drejtave
+të tyre sipas këtij ligji.
+5. Zyrtari për mbrojtjen e të dhënave i nënshtrohet fshehtësisë ose konfidencialitetit në lidhje
+me përmbushjen e detyrave të tij ose të saj.
+6. Zyrtari për mbrojtjen e të dhënave mund të përmbushë detyra të tjera. Kontrolluesi ose
+përpunuesi garantojnë që çdo detyrë tjetër e tillë nuk rezulton në konflikt interesash.
+Neni 39
+Detyrat e zyrtarit për mbrojtjen e të dhënave
+1. Zyrtari për mbrojtjen e të dhënave ka, të paktën, detyrat e mëposhtme:
+
+26
+
+1.1. informon dhe këshillon kontrolluesin ose përpunuesin dhe të punësuarit, të cilët
+kryejnë përpunimin mbi detyrimet e tyre në pajtim me këtë ligj dhe aktet nënligjore për
+mbrojtjen e të dhënave;
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.2. jep këshilla, sipas rastit, në lidhje me vlerësimin e ndikimit mbi mbrojtjen e të
+dhënave dhe monitoron performancën në pajtim me nenin 35 të këtij ligji;
+1.3. bashkëpunon me Agjencinë;
+1.4. vepron si pikë kontakti për Agjencinë për çështjet në lidhje me përpunimin, duke
+përfshirë konsultimin paraprak, të referuar në nenin 36 të këtij ligji dhe konsultohet,
+sipas rastit, në lidhje me çdo çështje tjetër.
+2. Zyrtari për mbrojtjen e të dhënave, në përmbushje të detyrave të tij ose të saj, merr parasysh
+si duhet rrezikun që shoqëron veprimet e përpunimit, duke marrë parasysh natyrën, objektin,
+kontekstin dhe qëllimet e përpunimit.
+Neni 40
+Obligimi për nxjerrjen e akteve të brendshme
+1. Kontrolluesit dhe përpunuesit e të dhënave duhet të kujdesen, në çdo kohë, që të dhënat të
+mbrohen dhe përpunohen sipas mënyrës së përcaktuar në këtë ligj.
+2. Kontrolluesit e të dhënave dhe përpunuesit e të dhënave duhet të përshkruajnë, në aktet e
+tyre të brendshme, procedurat dhe masat e vendosura për sigurinë e të dhënave personale dhe
+duhet të emërojnë, në formë të shkruar, personat kompetentë që janë përgjegjës për të zbatuar
+rregullat sipas këtij ligji.
+Neni 41
+Kodet e sjelljes
+1. Agjencia inkurajon hartimin e kodeve të sjelljes që synojnë të kontribuojnë në zbatimin e
+duhur të këtij ligji, duke marrë parasysh karakteristikat specifike të sektorëve të ndryshëm të
+përpunimit.
+2. Shoqatat dhe organet e tjera që përfaqësojnë kategoritë e kontrollueseve ose përpunuesve
+mund të përgatisin kode të sjelljes, ose të ndryshojnë ose zgjerojnë kode të tilla, në lidhje me:
+2.1. përpunim të drejtë dhe transparent;
+2.2. interesat legjitime të ndjekura nga kontrolluesit në kontekste specifike;
+2.3. mbledhjen e të dhënave personale;
+2.4. pseudonimizimin e të dhënave personale;
+2.5. informatat e ofruar për publikun dhe subjektet e të dhënave;
+2.6. ushtrimin e të drejtave të subjekteve të të dhënave;
+2.7. informatat e ofruara fëmijëve dhe mbrojtjen e fëmijëve, si dhe mënyrën në të cilën
+duhet të merret pëlqimi i bartësve të përgjegjësisë prindërore mbi fëmijët;
+2.8. masat dhe procedurat e referuara në nenet 23 dhe 24 të këtij ligji, dhe masat për
+të siguruar sigurinë e përpunimit të përmendur në nenin 31 të këtij ligji;
+2.9. njoftimin e shkeljeve të të dhënave personale tek Agjencia dhe komunikimin e
+shkeljeve të të dhënave personale tek subjektet e të dhënave;
+2.10. transferimi i të dhënave personale në vende të treta ose organizata ndërkombëtare,
+ose;
+
+27
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+2.11. procedurat jashtëgjyqësore dhe procedurat e tjera për zgjidhje të kontesteve
+ndërmjet kontrolluesve dhe subjekteve të të dhënave lidhur me përpunimin, pa
+paragjykuar të drejtat e subjekteve të të dhënave në përputhje me nenet 52 deri 54 të
+këtij ligji.
+3. Përveç përputhshmërisë nga ana e kontrolluesve ose përpunuesve që i nënshtrohen këtij
+ligji, kodet sjelljes të miratuara në pajtim me paragrafin 5. të këtij neni dhe që kanë vlefshmëri
+të përgjithshme sipas paragrafit 6. të këtij neni po ashtu mund të respektohen nga kontrolluesit
+ose përpunuesit që nuk i nënshtrohen këtij ligji, në pajtim me nenin 2, me qëllim që të sigurojnë
+masa mbrojtëse të duhura në kuadër të transferimeve të të dhënave personale në vende të
+treta ose organizata ndërkombëtare.
+4. Kodi i sjelljes i referuar në paragrafin 2. të këtij neni përmban mekanizma që i japin mundësi
+autoritetit kompetent të kryejë monitorimin e detyrueshëm të përputhjes së kontrolluesve ose
+përpunuesve të cilët marrin përsipër zbatimin e tij me dispozitat e tij.
+5. Shoqatat dhe organet e tjera të përmendura në paragrafin 2. të këtij neni, që synojnë të
+përgatisin kodin e sjelljes, ose të ndryshojnë ose plotësojnë ndonjë kod ekzistues, duhet të
+dorëzojnë në Agjenci projekt kodin, ndryshimin ose plotësimin. Agjencia do të jap një mendim
+nëse projekt kodi, ndryshimi ose plotësimi është në përputhje me këtë ligj dhe e miraton
+atë projekt kod, ndryshimin ose plotësimi nëse konstaton se ai siguron masa mbrojtëse të
+mjaftueshme.
+6. Kur projekt kodi, ndryshimi ose plotësimi, miratohet në përputhje me paragrafin 5 të këtij neni,
+Agjencia e regjistron dhe e publikon atë kod.
+Neni 42
+Monitorimi i kodeve të miratuara të sjelljes
+1. Pa paragjykuar detyrat dhe kompetencat e Agjencisë sipas neneve 57, 64 dhe 65 të këtij ligji,
+monitorimi i përputhshmërisë me kodin e sjelljes mund të kryhet nga një organ që ka nivel të
+duhur të ekspertizës në lidhje me çështjen tematike të kodit dhe që është i akredituar për atë
+qëllim nga Agjencia.
+2. Organi, siç referohet në paragrafin 1. të këtij neni mund të akreditohet për të monitoruar
+përputhshmërinë me kodin e sjelljes kur ai organ ka:
+2.1. demonstruar pavarësinë dhe ekspertizën e tij në lidhje me çështjen tematike të
+kodit të pranueshëm nga Agjencia;
+2.2. përcaktuar procedura që i lejojnë të vlerësojë përshtatshmërinë e kontrolluesve
+dhe përpunuesve përkatës për zbatimin e kodit, për të monitoruar përputhshmërinë e
+tyre me dispozitat e tij dhe për të rishikuar periodikisht funksionimin e tij;
+2.3. përcaktuar procedura dhe struktura për të trajtuar ankesat për shkeljet e kodit
+ose për mënyrën në të cilën kodi është zbatuar ose po zbatohet nga kontrolluesi ose
+përpunuesi, dhe për t’i bërë ato procedura dhe struktura transparente për subjektet e
+të dhënave dhe publikun, dhe;
+2.4. demonstruar për Agjencinë që detyrat e tij nuk rezultojnë në konflikt interesi.
+3. Agjencia përcakton kritere për akreditimin e një organi nga paragrafi 1. i këtij neni.
+4. Pa paragjykim ndaj detyrave dhe kompetencave të Agjencisë, organi nga paragrafi 1. i këtij
+neni, duke iu nënshtruar masave të duhura mbrojtëse, merr masat e duhura në rastet e shkeljes
+së kodit nga ana e kontrolluesit ose përpunuesit, duke përfshirë suspendimin ose përjashtimin
+28
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+e kontrolluesit ose përpunuesit në fjalë nga kodi. Ai duhet të informojë Agjencinë për veprimet e
+tilla dhe arsyet për marrjen e tyre.
+5. Agjencia e revokon akreditimin e ndonjë organi sipas paragrafit 1. të këtij neni nëse kushtet
+për akreditim nuk përmbushen ose pushojnë së përmbushuri, ose kur veprimet e ndërmarra
+nga organi shkelin këtë ligj.
+6. Ky nen nuk zbatohet për përpunimin e kryer nga autoritetet dhe organet publike.
+Neni 43
+Certifikimi
+1. Kontrolluesve, përpunuesve si dhe personave juridikë/ndërmarrjeve, të cilat përpunojnë të
+dhëna sipas fushë veprimtarisë së këtij ligji, u jepet certifikatë për të kryer punën që lidhet me
+të dhëna personale.
+2. Certifikata lëshohet nga Agjencia në bazë të kritereve dhe procedurave të parapara me akt
+nënligjor.
+3. Për të marrë certifikatën, kontrolluesit, përpunuesit dhe personat juridikë/ndërmarrjet
+plotësojnë të paktën kushtet minimale në vijim:
+3.1. dëshmojnë që posedojnë njohuri adekuate në fushën e mbrojtjes së të dhënave
+personale;
+3.2. aty ku kërkohet, plotësojnë standardet e nevojshme ndërkombëtare të sigurisë;
+3.3. në rastet kur personat juridikë/ndërmarrjet angazhojnë kontrollues, përpunues dhe
+personel tjetër të cilët kanë marrë certifikimin;
+3.4. dëshmojnë që ushtrimi i funksioneve të tyre për sa i përket mbrojtjes së të dhënave,
+nuk rezulton me konflikt interesi.
+4. Nëse personi juridik/ndërmarrja posedon certifikatë të lëshuar nga një institucion apo organ
+kompetent evropian, ajo certifikatë vlen edhe në Republikën e Kosovës.
+5. Kontrolluesi, përpunuesi apo personi juridik/ndërmarrja që paraqet kërkesë për t’u certifikuar,
+i paraqet Agjencisë të gjitha informacionet dhe i jep qasje asaj në veprimtarinë përpunuese, të
+cilat janë të domosdoshme për të zhvilluar procedurën e certifikimit.
+6. Certifikata lëshohet për një periudhë kohore prej maksimalisht tri (3) vitesh dhe mund të
+përtërihet, sipas të njëjtave kushte, me kusht që kërkesat relevante vazhdojnë të jenë të
+plotësuara. Certifikimi tërhiqet, siç aplikohet, nga Agjencia, atëherë kur kërkesat për certifikim
+nuk janë plotësuar apo nuk vazhdojnë të jenë të plotësuara.
+7. Përveç respektimit të këtij ligji nga kontrolluesit apo përpunuesit, Agjencia mund të themelojë
+mekanizma të certifikimit të mbrojtjes së të dhënave me qëllim të demonstrimit të ekzistencës
+së masave të përshtatshme të sigurisë të ofruara nga kontrolluesit apo përpunuesit që nuk u
+nënshtrohen këtij ligji sipas nenit 2 të këtij ligji brenda kornizës së transferimit të të dhënave
+personale në vende të treta apo në organizata ndërkombëtare. Kontrolluesit apo përpunuesit
+e tillë, përmes instrumenteve kontraktuale, bëjnë përpjekje të detyrueshme dhe të zbatueshme
+që të aplikojnë ato masa të përshtatshme të sigurisë, përfshirë edhe të drejtat e subjekteve të
+të dhënave.
+8. Një certifikim, sipas këtij neni, nuk e zvogëlon përgjegjësinë e kontrolluesit apo përpunuesit
+për të zbatuar këtë ligj dhe si i tillë nuk paragjykon detyrat dhe autorizimet e Agjencisë.
+29
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+KREU XI
+TRANSFERIMI I TË DHËNAVE PERSONALE TE SHTETET TJERA DHE ORGANIZATAT
+NDËRKOMBËTARE
+Neni 44
+Dispozitat e përgjithshme
+Transferimi i të dhënave personale, të cilat janë përpunuar ose ato që do të përpunohen në
+vende të tjera dhe tek organizatat ndërkombëtare, mund të bëhet vetëm në pajtim me dispozitat
+e këtij ligji dhe në qoftë se vendi ose organizata ndërkombëtare në fjalë siguron nivel të duhur
+të mbrojtjes së të dhënave.
+Neni 45
+Procedura për përcaktimin e nivelit të duhur për mbrojtjen e të dhënave personale
+Vendet dhe organizatat ndërkombëtare konsiderohen se sigurojnë nivel të duhur të mbrojtjes
+së të dhënave, nëse Agjencia ka marrë një vendim formal dhe ato vende apo organizata janë
+përfshirë në listën përkatëse të nxjerrë nga Agjencia në pajtim me këtë ligj.
+Neni 46
+Lista e vendeve dhe organizatave ndërkombëtare me nivel të duhur të mbrojtjes së të
+dhënave
+1. Agjencia mbanë një listë të vendeve dhe të organizatave ndërkombëtare ose një apo më
+shumë sektorë të specifikuar brenda tyre, për të cilat ajo konstaton se ato sigurojnë nivel të
+duhur të mbrojtjes së të dhënave, në pajtim me këtë ligj.
+2. Për përpilimin e listës së paraparë në paragrafin 1. të këtij neni, Agjencia mund të zbatojë
+vendimet e marra nga organi kompetent i Bashkimit Evropian, nëse vendet e tilla dhe organizatat
+ndërkombëtare sigurojnë nivel të duhur të mbrojtjes së të dhënave.
+3. Agjencia publikon listën nga paragrafi 1. i këtij neni në Gazetën Zyrtare të Republikës së
+Kosovës dhe në faqen publike të saj.
+Neni 47
+Vendimet për nivelin e duhur të mbrojtjes së të dhënave nga vendet e tjera dhe
+organizatat ndërkombëtare
+1. Agjencia, në vendimmarrjen e saj mbi nivelin adekuat të mbrojtjes së të dhënave personale
+të një shteti tjetër apo të një organizate ndërkombëtare, përcakton të gjitha rrethanat që lidhen
+me transferimin e të dhënave personale. Në veçanti, duke marrë parasysh elementet në vijim:
+1.1. sundimin e ligjit, respektimin e të drejtave të njeriut dhe liritë themelore,
+legjislacionin relevant, atij të përgjithshëm dhe sektorial, përfshirë atë që ka të bëjë
+me sigurinë publike, mbrojtjen, sigurinë shtetërore dhe të drejtën penale, si dhe
+qasjen e autoriteteve publike në të dhënat personale, si dhe zbatimin e legjislacionit
+të tillë, rregullat e mbrojtjes së të dhënave, rregullat profesionale dhe masat e sigurisë,
+përfshirë rregullat për transferimin e mëtejmë të të dhënave personale në një vend tjetër
+të tretë apo organizatë ndërkombëtare të cilat zbatohen në atë vend apo organizatë
+ndërkombëtare, precedenca, si dhe të drejtat efektive dhe të zbatueshme të subjekteve
+të të dhënave dhe rivendosja efektive administrative dhe gjyqësore për subjektet e të
+dhënave, të dhënat personale të të cilave transferohen;
+1.2. ekzistimi i funksionimit efektiv të një apo më shumë autoriteteve të pavarura
+mbikëqyrëse në vendin e tretë apo të cilës i nënshtrohet një organizatë ndërkombëtare,
+me përgjegjësinë për të siguruar dhe zbatuar pajtueshmërinë me rregullat mbi mbrojtjen
+30
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+e të dhënave, përfshirë autorizimet adekuate të zbatimit, për të ndihmuar dhe këshilluar
+subjektet e të dhënave në ushtrimin e të drejtave të tyre dhe për bashkëpunim me
+autoritetet mbikëqyrëse;
+1.3. përkushtimet ndërkombëtare që ka marrë përsipër vendi i tretë apo organizata
+ndërkombëtare, apo obligimet e tjera që dalin nga konventat apo instrumentet ligjërisht
+të detyrueshme, si dhe nga pjesëmarrja e tyre në sistemet shumëpalëshe apo regjionale,
+në veçanti në lidhje me mbrojtjen e të dhënave personale;
+1.4. lloji i të dhënave personale që duhet përpunuar;
+1.5. qëllimi dhe kohëzgjatja e përpunimit të propozuar;
+1.6. rregullimi ligjor në vendin e origjinës dhe shteti pranues, përfshirë rregullimet ligjore
+për mbrojtjen e të dhënave personale të qytetarëve të huaj;
+1.7. masat për të siguruar të dhënat personale të shfrytëzuara në vendet e tilla dhe
+organizatat ndërkombëtare.
+2. Agjencia, në vendimmarrjen e saj nga paragrafi 1. i këtij neni, veçanërisht merr parasysh:
+2.1. nëse të dhënat personale të transferuara që duhen transferuar do të jenë apo janë
+shfrytëzuar vetëm për qëllimin për të cilin janë transferuar apo nëse qëllimi mund të
+ndryshojë vetëm mbi bazën e lejes së kontrolluesit të të dhënave që i jep të dhënat, apo
+mbi bazën e pëlqimit personal të subjektit të të dhënave;
+2.2. nëse subjekti i të dhënave ka mundësinë e përcaktimit të qëllimit për të cilin të
+dhënat e tij/saj do të përdoren, kujt po i jepen dhe mundësinë e përmirësimit apo fshirjes
+së të dhënave personale joadekuate apo të vjetruara, përveç nëse kjo parandalohet
+për shkak të fshehtësisë së procedurës nga traktatet e detyrueshme ndërkombëtare;
+2.3. nëse kontrolluesi apo përpunuesi i huaj i të dhënave kryen procedura dhe masa
+adekuate organizative dhe teknike për të mbrojtur të dhënat;
+2.4. nëse është caktuar një person kontaktues i autorizuar për të ofruar informata për
+subjektin e të dhënave apo për Agjencinë mbi përpunimin e të dhënave personale të
+transferuara;
+2.5. nëse pranuesi i jashtëm (i huaj) i të dhënave mund të transferojë më tutje të dhënat
+personale vetëm me kushtin që një pranues tjetër i jashtëm i të dhënave, të cilit do t’
+i shpalosen të dhënat personale, ofron mbrojtje adekuate të të dhënave personale
+edhe për qytetarët e huaj;
+2.6. nëse është ofruar mbrojtje efektive ligjore për subjektet e të dhënave, të dhënat
+personale të të cilëve ishin apo po transferohen.
+3. Agjencia rishikon në baza periodike këtë listë, të paktën çdo katër (4) vjet, e cila merr parasysh
+të gjitha zhvillimet relevante në vendin e tretë apo organizatën ndërkombëtare që do të ndikonte
+në përhershmërinë e listës.
+4. Në rastet kur ekziston informacion që zbulon se vendi i tretë, një apo më shumë sektorë
+të specifikuar brenda vendit të tretë apo një organizatë ndërkombëtare, nuk ofron më nivel
+adekuat të mbrojtjes brenda kuptimit të paragrafit 1. dhe 2. të këtij neni, Agjencia, në masën e
+nevojshme, përmirëson apo pezullon vendimin e përfshirjes në listë përmes zbatimit të akteve
+pa efekt retroaktiv.
+31
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+Neni 48
+Kriteret për vendimmarrje
+Agjencia me akt nënligjor, përcakton, në mënyrë të detajuar, se cili informacion është i
+domosdoshëm për të vendosur nëse shteti tjetër ose organizata ndërkombëtare siguron nivel
+të duhur të mbrojtjes së të dhënave personale, siç është paraparë me këtë ligj.
+Neni 49
+Autorizimi për transferin e të dhënave tek shteti apo organizata ndërkombëtare që nuk
+siguron nivel të duhur të mbrojtjes së të dhënave
+1. Pavarësisht nga neni 45 i këtij ligji, Agjencia mund të autorizojë transferimin apo publikimin e
+të dhënave personale në një shtet apo organizatë ndërkombëtare që nuk siguron nivel të duhur
+të mbrojtjes së të dhënave, nëse përmbushet një apo më shumë nga kushtet e mëposhtme:
+1.1. kështu parashihet me një ligj tjetër apo me një traktat ndërkombëtar të detyrueshëm;
+1.2. subjekti i të dhënave ka dhënë pëlqimin dhe është i vetëdijshëm për pasojat e
+transferimit;
+1.3. transferimi është i domosdoshëm për jetësimin e një kontrate midis subjektit të të
+dhënave dhe kontrolluesit të të dhënave, apo për zbatimin e masave parakontraktuale
+të ndërmarra në kundërpërgjigje ndaj kërkesave të subjektit të të dhënave;
+1.4. transferimi është i domosdoshëm për përmbylljen apo jetësimin e një kontrate të
+lidhur në interes të subjektit të të dhënave midis kontrolluesit të të dhënave dhe palës
+së tretë;
+1.5. transferimi është i domosdoshëm dhe i kërkuar ligjërisht në bazë të interesit të
+rëndësishëm publik;
+1.6. transferimi është i domosdoshëm për të mbrojtur jetën dhe trupin e subjektit të të
+dhënave;
+1.7. transferimi është i domosdoshëm për ngritjen, ushtrimin apo mbrojtjen e kërkesave
+ligjore;
+1.8. transferimi bëhet nga një regjistër i cili sipas ligjeve apo rregulloreve ka për synim
+të sigurojë informacione për publikun dhe që është i hapur për konsultime nga publiku
+në përgjithësi apo nga ndonjë person i cili mund të demonstrojë interesa legjitime, deri
+në atë masë që të përmbushen kushtet e parashtruara për konsultime në këtë rast të
+veçantë. Në këtë rast, transferimi nuk përfshinë tërësinë e të dhënave personale apo të
+gjitha kategoritë e të dhënave personale që përmban regjistri. Kur regjistri ka për qëllim
+konsultimin nga personat që kanë interes legjitim, transferimi bëhet vetëm me kërkesë
+të atyre personave apo nëse ata pritet të jenë pranues;
+1.9. kontrolluesi i të dhënave aplikon masa adekuate të sigurisë për mbrojtjen e të
+dhënave personale dhe të drejtat e liritë themelore të individëve për sa i përket ushtrimit
+të të drejtave të parashtruara. Masat e tilla të sigurisë mund të rezultojnë nga dispozitat
+e kontratës apo kushteve të përgjithshme të aktiviteteve biznesore që rregullojnë
+transferimin e të dhënave personale.
+2. Kontrolluesi i të dhënave mund të transferojë të dhëna personale vetëm me pranimin e
+autorizimit sipas paragrafit 1. të këtij neni. Në kërkesën e tij/saj për autorizim, kontrolluesi i të
+dhënave i ofron Agjencisë të gjitha informatat e domosdoshme për sa i përket transferimit të
+kërkuar të të dhënave personale. Kjo përfshinë, në veçanti, kategoritë e të dhënave, qëllimin e
+32
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+transferimit dhe masat e aplikuara të sigurisë për mbrojtjen e të dhënave personale në shtetin
+tjetër apo organizatën ndërkombëtare.
+3. Agjencia vendosë për aplikimin nga paragrafi 2. i këtij neni pa vonesë dhe përcakton me
+akt nënligjor hollësitë dhe procedurat e brendshme për plotësimin e kërkesave të tilla. Vendimi
+i lartpërmendur është përfundimtar në procedurë administrative, por pranohet kontestimi
+administrativ pranë gjykatës kompetente.
+Neni 50
+Regjistrimi i autorizimeve
+Autorizimet lidhur me transferimin e të dhënave personale në vendin tjetër apo organizatën
+ndërkombëtare, të dhëna nga Agjencia, duhet të regjistrohen në pajtim me nën-paragrafin 1.5.
+të paragrafit 1., të nenit 29 të këtij ligji.
+Neni 51
+Njohja dhe zbatimi i kërkesave të vendeve të treta për transfer
+Aktgjykimet gjyqësore dhe çdo vendim i autoriteteve administrative të vendeve të treta që
+kërkojnë nga kontrolluesit apo përpunuesit transferimin apo zbulimin e të dhënave personale,
+mund të njihen apo të zbatohen vetëm bazuar në marrëveshjen ndërkombëtare ndërmjet vendit
+të tretë që bën kërkesën dhe Republikës së Kosovës, pa paragjykim ndaj arsyeve për transfer
+sipas këtij ligji.
+KREU XII
+MJETET E ANKIMIT, PËRGJEGJËSIA DHE DËNIMET
+Neni 52
+E drejta për të paraqitur ankesë tek agjencia
+1. Pa cenuar mjetet e tjera administrative ose gjyqësore të mbrojtjes, çdo subjekt i të dhënave
+ka të drejtë të paraqesë ankesë tek Agjencia, nëse subjekti i të dhënave pretendon që përpunimi
+i të dhënave personale, në lidhje me të, e shkelë këtë ligj.
+2. Agjencia njofton ankuesin mbi progresin dhe rezultatin e ankesës, duke përfshirë mundësinë
+e një mjeti ankimi gjyqësor, në pajtim me nenin 54 të këtij ligji.
+Neni 53
+E drejta për një mjet gjyqësor të efektshëm ndaj Agjencisë
+1. Pa penguar mjetet e tjera administrative ose jo gjyqësore të mbrojtjes, secili person fizik ose
+juridik ka të drejtën e një mjeti gjyqësor të efektshëm ndaj një vendimi, ligjërisht detyrues, të
+Agjencisë, në lidhje me të.
+2. Pa penguar mjetet e tjera administrative ose jo gjyqësore të mbrojtjes, çdo subjekt i të dhënave
+ka të drejtën e një mjeti gjyqësor të efektshëm, nëse Agjencia, në bazë të kompetencave të saj,
+nuk e trajton një ankesë ose nuk e njofton subjektin e të dhënave brenda tre (3) muajve mbi
+përparimin ose rezultatin e ankesës së paraqitur në pajtim me nenin 52 të këtij ligji.
+3. Ndaj vendimit përfundimtar të Komisionerit, pala e pakënaqur ka të drejtë të hapë konflikt
+administrativ pranë gjykatës kompetente.
+
+33
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+Neni 54
+E drejta për një mjet gjyqësor të efektshëm ndaj një kontrolluesi ose përpunuesi
+Pa cenuar asnjë mjet të disponueshëm administrativ ose jo gjyqësor mbrojtjeje, duke përfshirë
+të drejtën për të paraqitur një ankim tek Agjencia, në pajtim me nenin 53 të këtij ligji, çdo subjekt
+i të dhënave ka të drejtën për një mjet të efektshëm gjyqësor, nëse ai ose ajo është i mendimit
+se të drejtat e tij ose të saj, sipas këtij ligji, janë shkelur si rezultat i përpunimit të të dhënave të
+tij ose të saj personale në mospërputhje me këtë ligj.
+Neni 55
+Përfaqësimi i subjektit të të dhënave
+1. Subjekti i të dhënave ka të drejtën të autorizojë një përfaqësues, një organ, organizatë ose
+shoqatë jofitimprurëse që është krijuar në mënyrë të rregullt, në pajtim me legjislacionin në fuqi,
+që ka objektiva ligjore që janë në interesin publik dhe është aktive në fushën e mbrojtjes së të
+drejtave të subjekteve të të dhënave, në lidhje me mbrojtjen e të dhënave të tyre personale, të
+paraqesë një ankesë në emër të tij/saj, të ushtrojë të drejtat e referuara në nenet 53, 54 dhe
+55 të këtij ligji në emër të tij ose të saj dhe të ushtrojë të drejtën për të marrë kompensimin e
+referuar në nenin 56 të këtij ligji në emër të tij ose të saj.
+2. Autorizimi për përfaqësuesin duhet të jepet me shkrim dhe të vërtetohet nga organi kompetent.
+Neni 56
+E drejta për kompensim dhe përgjegjësia
+1. Çdo person, i cili ka pësuar dëm material ose jomaterial, si rezultat i një shkeljeje të këtij ligji,
+ka të drejtë të marrë kompensim nga kontrolluesi ose përpunuesi për dëmin e pësuar.
+2. Çdo kontrollues i përfshirë në përpunim është përgjegjës për dëmin e shkaktuar nga përpunimi
+që shkel këtë ligj. Një përpunues është përgjegjës për dëmin e shkaktuar nga përpunimi vetëm
+nëse ai nuk ka përmbushur detyrimet e këtij ligji, veçanërisht drejtuar përpunuesve ose nëse ka
+vepruar më tej ose në kundërshtim me udhëzimet e ligjshme të kontrolluesit.
+3. Një kontrollues ose përpunues përjashtohet nga përgjegjësia, sipas paragrafit 2.të këtij neni,
+nëse ai dëshmon që nuk është në asnjë mënyrë përgjegjës për dëmin.
+4. Nëse është përfshirë më shumë se një kontrollues ose përpunues, ose një kontrollues dhe
+një përpunues në të njëjtin përpunim dhe nëse ata, sipas paragrafëve 2. dhe 3. të këtij neni,
+janë përgjegjës për çdo dëm të shkaktuar nga përpunimi, secili kontrollues ose përpunues
+mbahet përgjegjës për të gjithë dëmin me qëllim që të garantohet kompensim i efektshëm i
+subjektit të të dhënave.
+5. Nëse një kontrollues ose përpunues, në pajtim me paragrafin 4. të këtij neni, ka paguar
+kompensim të plotë për dëmin e pësuar, ky kontrollues ose përpunues ka të drejtën të
+pretendojë nga kontrolluesit ose përpunuesit e tjerë të përfshirë në të njëjtin përpunim, atë
+pjesë të kompensimit që përputhet me pjesën e tyre të përgjegjësisë për dëmin, në pajtim me
+kushtet e parashikuara në paragrafin 2. të këtij neni.
+6. Pala, për kompensim të dëmit, ka të drejtë të paraqesë padi pranë gjykatës kompetente.
+
+34
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+KREU XIII
+MBROJTJA INSTITUCIONALE E TË DHËNAVE PERSONALE AGJENCIA PËR INFORMIM
+DHE PRIVATËSI
+Neni 57
+Statusi i Agjencisë
+1. Agjencia është autoritet i pavarur, përgjegjëse për mbikëqyrjen e zbatimit të këtij ligji dhe
+rregulloreve të tjera për mbrojtjen e të dhënave personale dhe qasjes në dokumente dhe
+informacione publike.
+2. Agjencia vepron me pavarësi të plotë në përmbushjen e detyrave dhe ushtrimin e
+kompetencave, në pajtim me këtë ligj. Ajo i përgjigjet Kuvendit të Kosovës.
+3. Agjencia, në përmbushje të detyrave të saj dhe ushtrim të kompetencave të saj, vepron e lirë
+nga ndikimi i jashtëm, i drejtpërdrejtë ose jo, dhe nuk kërkon apo merr udhëzime nga askush.
+4. Agjencisë i vihen në dispozicion burime njerëzore, financiare, teknike, mjedisore dhe
+infrastrukturore, të nevojshme për përmbushjen e efektshme të detyrave të saj dhe ushtrimin e
+kompetencave.
+Neni 58
+Organizimi i Agjencisë
+1. Agjencia udhëhiqet nga Komisioneri.
+2. Komisioneri përfaqëson Agjencinë, organizon dhe koordinon punën e saj.
+3. Agjencia ka Drejtorin e Përgjithshëm, i cili kryen të gjitha detyrat e Zyrtarit Kryesor Administrativ,
+në pajtim me legjislacionin përkatës.
+4. Struktura organizative e Agjencisë përbëhet nga dy (2) fusha të veçanta profesionale për
+qasje në dokumente publike dhe mbrojtjen e të dhënave personale.
+5. Fushat e veçanta profesionale, të përcaktuara në paragrafin 4. të këtij neni, udhëhiqen dhe
+përbëhen nga shërbyes civilë, sipas këtij ligji dhe legjislacionit përkatës.
+6. Zyrtarët e Agjencisë përmbahen nga çdo veprim që bie ndesh me detyrat e tyre dhe, gjatë
+mandatit të tyre, nuk angazhohen në profesione që bien ndesh me detyrat e tyre, qofshin me
+apo pa pagesë.
+7. Në pajtim me ligjin përkatës në fuqi, Komisioneri nxjerr një akt nënligjor për organizimin dhe
+funksionimin e brendshëm të Agjencisë.
+8. Zyrtarët e Agjencisë, në pajtim me këtë ligj, i nënshtrohen detyrës së fshehtësisë profesionale si
+gjatë mandatit ashtu edhe pas përfundimit të mandatit, në lidhje me çdo informatë konfidenciale
+që ata hasin gjatë kryerjes së detyrave apo ushtrimit të kompetencave të tyre.
+Neni 59
+Kriteret për përzgjedhjen e Komisionerit
+1. Kandidatët për komisioner duhet t’i plotësojnë kriteret si në vijim:
+1.1. Të jenë shtetas të Republikës së Kosovës;
+35
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.2. Të kenë diplomë universitare në njërën nga këto fusha: juridik, administratë publike
+apo marrëdhënie ndërkombëtare;
+1.3. Të kenë, së paku, tetë (8) vite përvojë pune profesionale, nga të cilat, së paku,
+pesë (5) vite përvojë në pozita udhëheqëse;
+1.4. Të mos kenë qenë të dënuar me vendim të formës së prerë për vepër penale apo
+të mos ketë pasur aktakuzë gjatë pesë (5) viteve të fundit.
+1.5. Të kenë integritet të lartë moral dhe profesional;
+1.6. Të kenë përvojë dhe njohuri të dalluara në fushën e mbrojtjes së të drejtave të
+njeriut.
+1.7. Të mos jenë larguar nga puna ose shërbimi civil me masë disiplinore;
+1.8. Të mos kenë ushtruar asnjë funksion në parti politike gjatë pesë (5) viteve të fundit.
+Nuk duhen të jenë deputetë të Kuvendit në Legjislaturën e Kuvendit të Republikës së
+Kosovës që i zgjedhin ata, apo të kenë qenë anëtarë të Kabinetit Qeveritar në mandatin
+e fundit.
+Neni 60
+Procedura e përzgjedhjes së Komisionerit
+1. Komisioneri zgjedhet nga Kuvendi i Kosovës me shumicën e votave të të gjithë deputetëve të
+tij, për një mandat pesë (5) vjeçar, me mundësi rizgjedhjeje edhe për një mandat shtesë.
+2. Procedura për zgjedhje fillon me shpalljen e konkursit publik për zgjedhjen e Komisionerit, i
+cili publikohet në mediumet e shkruara dhe elektronike.
+3. Në konkurs caktohen kriteret për përzgjedhjen e komisionerit, të parapara me këtë ligj. Afati i
+kohëzgjatjes së konkursit nuk mund të jetë më i shkurtë se pesëmbëdhjetë (15) e as më i gjatë
+se njëzetë (20) ditë.
+4. Pas skadimit të afatit të paraparë në paragrafin 3. të këtij neni, paneli përzgjedhës, i caktuar
+nga komisioni parlamentar për siguri i Kuvendit të Republikës së Kosovës, brenda afatit prej
+pesëmbëdhjetë (15) ditësh, vlerëson nëse kandidatët i plotësojnë kushtet për t’u zgjedhur
+komisioner.
+5. Paneli përzgjedhës zhvillon intervistë me secilin kandidat, i cili plotëson kushtet për t’u
+zgjedhur komisioner dhe në bazë të të dhënave të paraqitura dhe rezultateve të intervistës,
+përgatitë listën e ngushtë të kandidatëve të kualifikuar për votim nga Kuvendi i Kosovës.
+6. Lista e ngushtë përmban tre (3) kandidatë, përveç në rastin kur brenda numrit tre (3), ka më
+shumë kandidatë me pikë të barabarta vlerësuese. Paneli përzgjedhës, listën e kandidatëve
+ia dorëzon komisionit, i cili, listën e ngushtë ia propozon Kuvendit të Kosovës. Propozimi i
+komisionit përmban arsyetimin përse paneli u ka dhënë përparësi disa kandidatëve, në krahasim
+me kandidatët tjerë.
+7. Në rast të përfundimit të mandatit, Komisioneri ushtron funksionin e tij deri në zgjedhjen e
+komisionerit të ri.
+Neni 61
+Përfundimi i mandatit të Komisionerit
+1.Mandati i Komisionerit përfundon në rastet kur:
+36
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.1. përfundon mandatin e rregullt;
+1.2. dorëheqjes;
+1.3. vdekjes se tij/saj;
+1.4. arrin moshën e pensionimit;
+1.5. humbjes se përhershme të zotësisë se veprimit, të konstatuar nga gjykata
+kompetente;
+1.6. behet i paaftë për arsye shëndetësore të cilat e bëjnë të pamundur ushtrimin e
+funksionit për me shume se tre (3) muaj;
+1.7. dënohet me vendim gjyqësor të formës për vepër penale e cila është e dënueshme
+mbi gjashtë (6) muaj burg;
+1.8. shkarkohet.
+2. Kuvendi i Kosovës, me propozim të komisionit funksional për çështjet e sigurisë, me shumicën
+e votave të të gjithë deputeteve mund ta shkarkojë Komisionerin për shkak të arsyeve si në
+vijim:
+2.1. për shkelje të dispozitave të këtij ligji;
+2.2. në rastet e kryerjes se detyrave në papajtueshmëri me funksionin e tij/saj.
+Neni 62
+Financimi i Agjencisë
+1. Agjencia financohet nga Buxheti i Republikës së Kosovës, dhe ka vijën e vet buxhetore e cila
+i garanton pavarësinë e saj.
+2. Agjencia përgatit propozim-buxhetin vjetor në pajtueshmëri me Ligjin për Menaxhimin e
+Financave Publike dhe Përgjegjësitë.
+3. Buxheti i Agjencisë i nënshtrohet auditimit në pajtim me legjislacionin në fuqi.
+Neni 63
+Paga e Komisionerit
+1. Niveli i pagës se Komisionerit, caktohet në pajtim me ligjin përkatës për pagat në sektorin
+publik.
+2. Deri në hyrjen në fuqi të ligjit përkatës për pagat në sektorin publik, paga e Komisioneirt është
+ekuivalente me pagën e deputetit të Kuvendit te Kosovës.
+Neni 64
+Detyrat dhe kompetencat e Agjencisë
+1. Pa cenuar detyrat e tjera të përcaktuara sipas këtij ligji, Agjencia kryen këto detyra:
+1.1. Mbikëqyrë zbatimin e këtij ligji;
+1.2. Jep këshilla organeve publike dhe private për çështjet lidhur me mbrojtjen e të
+dhënave;
+37
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.3. Informon publikun për çështjet dhe zhvillimet në fushën e mbrojtjes së të dhënave;
+1.4. Promovon dhe përkrahë të drejtat themelore për mbrojtjen e të dhënave personale;
+1.5. Vendosë lidhur me ankesat e subjektit të të dhënave;
+1.6. Këshillon Parlamentin, Qeverinë, institucionet dhe organet e tjera të brendshme
+mbi masat legjislative dhe administrative në lidhje me mbrojtjen e të drejtave dhe lirive
+të personave fizikë për sa i takon përpunimit të të dhënave;
+1.7. Kryen inspektime lidhur me zbatimin e këtij ligji;
+1.8. Sipas rastit, kryen një rishikim periodik të certifikimeve të dhëna në pajtim me nenin
+43 të këtij ligji dhe mund të tërheqë certifikimin, në rast se nuk plotësohen kriteret e
+certifikimit;
+1.9. Me vetiniciativë ose me kërkesë, jep opinione për institucionet publike dhe organet
+tjera, si dhe publikon për çdo çështje lidhur me mbrojtjen e të dhënave personale.
+Neni 65
+Bashkëpunimi me organet tjera
+1. Agjencia bashkëpunon me organet shtetërore, ndërkombëtare dhe organet e Bashkimit
+Evropian, lidhur me çështjet që konsiderohen të rëndësishme për qasjen në dokumente publike
+dhe mbrojtjen e të dhënave personale.
+2. Në veçanti, Agjencia vendosë masa për bashkëpunim efektiv me autoritetet mbikëqyrëse
+të shteteve të tjera dhe organizatat ndërkombëtare, dhe siguron informacionin relevant dhe
+ndihmën e ndërsjellë, në përputhje me ligjin në fuqi. Ndihma e ndërsjellë mbulon, në veçanti,
+kërkesat për informacion dhe masa mbikëqyrëse, siç janë kërkesat për kryerjen e autorizimeve
+dhe konsultimeve, inspektimeve dhe hetimeve paraprake.
+3. Agjencia merr të gjitha masat e duhura të kërkuara për t’iu përgjigjur kërkesës së një autoriteti
+tjetër mbikëqyrës pa vonesë të panevojshme dhe jo më vonë se një muaj pas marrjes së
+kërkesës. Masat e tilla mund të përfshijnë, në veçanti, transmetimin e informacionit përkatës
+për kryerjen e hetimeve.
+4. Kërkesat për asistencë përmbajnë të gjithë informacionin e nevojshëm, duke përfshirë
+qëllimin dhe arsyet e kërkesës. Informacioni i shkëmbyer do të përdoret vetëm për qëllimin për
+të cilin është kërkuar.
+5. Agjencia nuk refuzon përmbushjen e kërkesës, përveç nëse:
+5.1. nuk është kompetente për objektin e kërkesës ose për masat që kërkohet të
+ekzekutojë, ose;
+5.2. veprimi sipas kërkesës do të shkelte këtë ligj ose ligje të tjera të aplikueshme.
+6. Agjencia informon autoritetin mbikëqyrës kërkues për rezultatet ose, sipas rastit, për progresin
+e masave të marra për t’iu përgjigjur kërkesës. Agjencia jep arsyet për refuzimin e kërkesës në
+pajtim me paragrafin 4. të këtij neni.
+7. Agjencia, si rregull, e ofron informacionin e kërkuar nga autoritetet e tjera mbikëqyrëse me
+mjete elektronike, duke përdorur një format të standardizuar.
+
+38
+
+8. Agjencia nuk kërkon asnjë pagesë për veprimet e ndërmarra prej tyre në bazë të kërkesave
+për ndihmë të ndërsjellë në kushtet e reciprocitetit.
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+9. Agjencia, kur është e përshtatshme dhe në përputhje me ligjin në fuqi, kryen operacione të
+përbashkëta duke përfshirë hetime të përbashkëta dhe masa të përbashkëta të zbatimit, ku
+përfshihen pjesëtarët ose stafi i autoriteteve mbikëqyrëse i shteteve të tjera ose organizatave
+ndërkombëtare.
+Neni 66
+Raporti vjetor i punës
+1. Agjencia duhet t’i paraqesë Kuvendit të Kosovës raport vjetor të punës dhe duhet ta publikojë
+atë, jo më vonë se më 31 mars të vitit vijues.
+2. Raporti vjetor i aktiviteteve jep një pasqyrë të punës së Agjencisë dhe të zhvillimeve në fushën
+e qasjes në dokumente publike dhe mbrojtjes së të dhënave personale në vitin paraprak, dhe
+do të shkoqisë vlerësimet dhe rekomandimet përkatëse.
+Neni 67
+Publiciteti lidhur me punën
+1. Agjencia publikon në faqen e saj zyrtare ose në një mënyrë tjetër të duhur:
+1.1. një gazetë të brendshme dhe literaturë profesionale;
+1.2. çdo vendim të gjykatave të juridiksionit të përgjithshëm lidhur me qasjen në
+dokumente publike dhe mbrojtjen e të dhënave personale. Në raste të tilla, të dhënat
+personale lidhur me palët, palët e dëmtuara, dëshmitarët ose ekspertët e përfshirë nuk
+publikohen;
+1.3. opinionet rreth pajtueshmërisë së kodeve të etikës profesionale, kushteve të
+përgjithshme të biznesit ose draft-rregulloreve në fushën e mbrojtjes së të dhënave
+personale;
+1.4. opinionet, sqarimet dhe qëndrimet për çështjet në fushën e mbrojtjes së të dhënave;
+1.5. të gjitha udhëzimet dhe rekomandimet lidhur me mbrojtjen e të dhënave personale
+në fushat individuale;
+1.6. deklaratat publike për inspektimet e ndërmarra për rastet individuale;
+1.7. çdo njoftim tjetër të rëndësishëm.
+KREU XIV
+INSPEKTIMET DHE KONTROLLET
+Neni 68
+Fushëveprimi i inspektimeve
+1. Agjencia, sipas detyrës zyrtare apo në bazë të ankesës, mund të kryejë inspektime dhe
+kontrolle, për të mbikëqyrur pajtueshmërinë me rregullat e mbrojtjes së të dhënave. Në kuadër
+të kompetencave të inspektimit, Agjencia:
+1.1. mbikëqyrë ligjshmërinë e përpunimit të të dhënave personale;
+1.2. mbikëqyrë përshtatshmërinë e procedurave dhe masave të ndërmarra për sigurinë
+e të dhënave personale në pajtim me këtë ligj;
+39
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.3. mbikëqyrë zbatimin e dispozitave të këtij ligji:
+1.3.1. regjistrimin e aktiviteteve të përpunimit, sipas nenit 29 të këtij ligji;
+1.3.2. njoftimin për shkeljen e të dhënave, sipas neneve 33 dhe 34 të këtij ligji;
+1.3.3. vlerësimin e ndikimit të mbrojtjes së të dhënave, sipas neneve 35 dhe
+36 të këtij ligji;
+1.3.4. zyrtarin për mbrojtjen e të dhënave, sipas nenit 37 deri 39 të këtij ligji;
+1.3.5. kodet e sjelljes, sipas neneve 41 dhe 42 të këtij ligji;
+1.3.6. mekanizmat e certifikimit, sipas nenit 43 të këtij ligji;
+1.3.7. dhe regjistrimet e zbulimit të të dhënave të marrësit.
+Neni 69
+Zhvillimi i drejtpërdrejtë i inspektimit
+1. Inspektimet dhe kontrollet kryhen drejtpërdrejt nga zyrtarët e inspektimit brenda kufijve të
+kompetencave të tyre;
+2. Zyrtarët e inspektimit, gjatë kryerjes së inspektimit dhe kontrollit, duhet të identifikohen me
+kartelë zyrtare të identifikimit, e cila përmban: fotografinë, emrin personal, titullin profesional
+dhe të dhënat e tjera të nevojshme.
+3. Me propozim të Komisionerit, Qeveria e Kosovës, nxjerr akt nënligjor, me të cilin përcaktohet
+mënyra e detajuar e formës dhe përmbajtjes së kartelës.
+Neni 70
+Përgjegjësitë e zyrtarëve të inspektimit
+1. Gjatë kryerjes së inspektimit dhe kontrollit, zyrtarët e inspektimit kanë të drejtë të:
+1.1. kontrollojnë dhe konfiskojnë çdo dokumentacion që ka të bëjë me përpunimin
+e të dhënave personale, në përputhje me legjislacionin përkatës për klasifikimin e
+informacioneve, transferimin e të dhënave personale te shtetet e tjera dhe organizatat
+ndërkombëtare, si dhe me zbulimin për marrësit e jashtëm;
+1.2. kontrollojnë përmbajtjen e sistemeve të dosjeve në përputhje me legjislacionin
+përkatës për klasifikimin e informacioneve dhe katalogët e sistemit të dosjeve;
+1.3. kontrollojnë dhe konfiskojnë çdo dokumentacion dhe udhëzim që rregullon sigurinë
+e të dhënave personale;
+1.4. kontrollojnë ndërtesën, në të cilën përpunohen të dhënat personale dhe kanë të
+drejtë të kontrollojnë dhe konfiskojnë kompjuterët dhe çfarëdo pajisje tjetër, si dhe
+dokumentacionin teknik;
+1.5. verifikojnë masat dhe procedurat që kanë për qëllim të sigurojnë të dhënat personale
+dhe zbatimin e tyre;
+1.6. kryejnë çdo detyrë tjetër që konsiderohet e rëndësishme për kryerjen e inspektimeve
+dhe kontrolleve të parapara me këtë ligj.
+40
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+Neni 71
+Masat e inspektimit
+1. Nëse zyrtari i inspektimit vë re shkelje të këtij ligji ose të cilitdo ligj apo rregullore që rregullon
+përpunimin e të dhënave personale, ai ose ajo ka të drejtë që:
+1.1. të urdhërojë eliminimin e parregullsive ose mangësive që ai ose ajo i vë re, në
+mënyrën dhe brenda afatit të caktuar më parë nga ai ose ajo. Kjo mund të përfshijë
+asgjësimin, bllokimin, shkatërrimin, fshirjen ose anonimizimin e të dhënave personale
+në pajtim me ligjin;
+1.2. të ndalojë përkohësisht dhe në mënyrë të caktuar përpunimin e të dhënave
+personale nga kontrolluesit dhe përpunuesit në sektorët publikë ose privatë, të cilët
+kanë dështuar në zbatimin e masave dhe procedurave të nevojshme për sigurimin e të
+dhënave personale;
+1.3. të ndalojë përkohësisht dhe në mënyrë të caktuar përpunimin e të dhënave
+personale, anonimizimin e tyre, klasifikimin dhe bllokimin e të dhënave personale,
+sa herë që ai ose ajo konkludon se të dhënat personale janë duke u përpunuar në
+kundërshtim me dispozitat ligjore;
+1.4. të ndalojë përkohësisht dhe në mënyrë të caktuar përpunimin e të dhënave
+personale në vendet e tjera dhe organizatat ndërkombëtare, ose zbulimin e tyre
+marrësve të huaj, nëse ato janë transferuar ose zbuluar në kundërshtim me dispozitat
+ligjore ose me marrëveshjet ndërkombëtare;
+1.5. të urdhërojë kontrolluesin ose përpunuesin të përmbushë kërkesat e subjektit të të
+dhënave për të ushtruar të drejtat e tij ose të saj në pajtim me këtë ligj;
+1.6. të shqiptojë gjobë për shkeljet e këtij ligji;
+1.7. të paralajmërojë ose këshillojë me shkrim kontrolluesin e të dhënave ose
+përpunuesin e të dhënave në rastet e shkeljeve të vogla.
+2. Në rast të parregullsive ose mangësive, kontrolluesi i të dhënave ose përpunuesi i të dhënave
+duhet që menjëherë t’i korrigjojë ato pas marrjes së udhëzimeve me shkrim ose këshillimit nga
+zyrtari i inspektimit, për të siguruar përpunim të ligjshëm të të dhënave.
+3. Kundër vendimit përfundimtar të Agjencisë nga paragrafi 1. i këtij neni, nuk lejohet ankesa,
+por mund të hapet konflikti administrativ në gjykatën kompetente.
+Neni 72
+Obligimi për të siguruar mbështetje
+1. Organet publike dhe private janë të obliguara të ndihmojnë zyrtarët e inspektimit në
+përmbushjen e detyrave të tyre përmes:
+1.1. sigurimit të informacionit, si përgjigje ndaj pyetjes së Agjencisë dhe lejimin e
+inspektimit të dokumenteve dhe të të dhënave të dosjeve, në veçanti të të dhënave të
+ruajtura dhe të programeve për përpunimin e të dhënave, të cilat qëndrojnë në lidhje
+me përpunimin e të dhënave personale, dhe;
+1.2. lejimin e qasjes në objektet e tyre në çdo kohë.
+
+41
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+KREU XV
+MARKETINGU I DREJTPËRDREJTË
+Neni 73
+Të drejtat dhe përgjegjësitë e kontrolluesve të të dhënave
+1. Kontrolluesit e të dhënave mund të përdorin të dhënat personale që ata i kanë siguruar nga
+burimet publike të qasshme ose brenda kufijve të kryerjes së ligjshme të aktiviteteve për qëllime
+të ofrimit të mallrave, shërbimeve, punësimit ose kryerjes së përkohshme të punës përmes
+përdorimit të shërbimeve postare, thirrjeve telefonike, postës elektronike ose mënyrave të tjera
+të telekomunikimit (më tutje në tekst: marketingu i drejtpërdrejtë) në pajtim me dispozitat e këtij
+kreu, përveç nëse me ligjin përkatës është paraparë ndryshe.
+2. Për qëllime të marketingut të drejtpërdrejtë, kontrolluesit e të dhënave mund të përdorin vetëm
+të dhënat personale të grumbulluara në pajtim me paragrafin 1. të këtij neni: emrin personal,
+adresën e vendbanimit të përhershëm ose të përkohshëm, numrin e telefonit, adresën e postës
+elektronike (e-mail). Në bazë të pëlqimit paraprak të subjektit të të dhënave, kontrolluesit e të
+dhënave mund të përpunojnë të dhëna të tjera personale, por të dhënat personale të ndjeshme
+mund t’i përpunojnë vetëm nëse ata e posedojnë pëlqimin me shkrim.
+3. Kur kontrolluesit e të dhënave kryejnë marketing të drejtpërdrejtë, duhet t’i informojnë
+subjektet e të dhënave për të drejtat e tyre sipas dispozitave të këtij ligji.
+4. Nëse kontrolluesit e të dhënave kanë për qëllim të zbulojnë të dhëna personale nga paragrafi
+2. i këtij neni, te marrësit e tjerë të të dhënave për qëllim të marketingut të drejtpërdrejtë, ose
+tek përpunuesit e të dhënave, ata janë të detyruar që të informojnë subjektin e të dhënave dhe
+të marrin pëlqimin me shkrim të tij ose të saj para se të zbulohen të dhënat e tilla. Njoftimi për
+subjektin e të dhënave lidhur me zbulimin në fjalë duhet të përmbajë të gjitha informacionet që
+synohen të zbulohen si dhe kujt dhe për çfarë qëllimi. Shpenzimet e njoftimit mbulohen nga
+kontrolluesi i të dhënave.
+Neni 74
+E drejta për kundërshtim
+1. Subjekti i të dhënave, në çdo kohë mund të kërkojë me shkrim që kontrolluesit e të dhënave
+të ndërpresin në mënyrë të përhershme ose të përkohshme përdorimin e të dhënave personale
+të tij ose të saj për qëllime të marketingut të drejtpërdrejtë. Brenda tetë (8) ditëve pas pranimit të
+kundërshtimit nga subjekti i të dhënave, kontrolluesit e të dhënave duhen të ndalojnë përdorimin
+e të dhënave personale për qëllime të marketingut të drejtpërdrejtë dhe brenda pesë (5) ditëve
+pasuese ata duhet të informojnë me shkrim subjektin e të dhënave për aprovimin e kërkesës
+së tyre.
+2. Shpenzimet për veprimet e kontrolluesit të të dhënave në lidhje me kërkesën nga paragrafi 1
+i këtij neni i bartë kontrolluesi i të dhënave.
+KREU XVI
+VËZHGIMI ME KAMERË
+Neni 75
+Dispozitat e përgjithshme
+1. Dispozitat e këtij kreu zbatohen për vëzhgimin me kamerë, përveç kur është paraparë
+ndryshe me ligj përkatës.
+2. Personat në sektorin publik ose privat që kanë për qëllim të instalojnë sistemet e vëzhgimit me
+42
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+kamerë duhet të vendosin njoftimin për këtë. Organet publike ndërmarrin masat e përshtatshme
+për të identifikuar kontrolluesin. Njoftimi i tillë duhet të jetë i dukshëm dhe të bëhet publik në
+mënyrë që t’iu mundësojë subjekteve të të dhënave, që pa vështirësi, të njoftohen me masat,
+më së voni kur të fillojë vëzhgimi me kamerë.
+3. Të dhënat e mbledhura nga vëzhgimi me kamerë mund të përpunohen apo të shfrytëzohen,
+nëse është e nevojshme, për të arritur qëllimet e synuara dhe nëse nuk ekzistojnë indikacione
+të shkeljes së interesave legjitime të subjektit të të dhënave. Këto të dhëna mund të përpunohen
+apo të shfrytëzohen për qëllime të tjera, vetëm nëse janë të nevojshme për të parandaluar
+kërcënimet ndaj shtetit dhe sigurisë publike, apo për të ndjekur penalisht krimet.
+4. Sistemi i vëzhgimit me kamerë dhe regjistrimet e vëzhgimit duhet të mbrohen në mënyrë të
+duhur nga qasja dhe përdorimi i paautorizuar.
+Neni 76
+Vëzhgimi i ndërtesave zyrtare dhe të biznesit
+1. Personat në sektorin publik dhe privat mund të instalojnë sistemet e vëzhgimit me kamerë
+për vëzhgimin e ndërtesave të tyre nëse konsiderohet e nevojshme për sigurinë e njerëzve
+dhe sigurimin e pasurisë. Vëzhgimi me kamerë, në veçanti, mund të jetë i nevojshëm për të
+vëzhguar hyrjet e ndërtesave ose ku, për shkak të natyrës së punës së tyre, ekziston kërcënim
+potencial ndaj të punësuarve.
+2. Vendimet e nevojshme merren nga nëpunësi kompetent, drejtori ose ndonjë person tjetër i
+autorizuar nga sektori publik ose privat.
+3. Vendimi duhet të përmbajë arsyet për vendosjen e sistemeve të vëzhgimit me kamerë.
+4. Sistemet e vëzhgimit me kamerë mund të mbikëqyrin pjesën e jashtme dhe hyrjen e ndërtesës,
+por jo edhe hyrjen dhe brendinë e apartamenteve.
+5. Personat që punojnë në ndërtesat publike dhe private nën vëzhgimin me kamerë informohen
+në mënyrë të duhur në formë të shkruar për instalimin e sistemeve të tilla dhe të drejtat e tyre.
+6. Secili kontrollues i të dhënave duhet ta krijojë sistemin e dosjeve për regjistrimin e sistemeve
+të vëzhgimit me kamerë. Sistemi i dosjeve, veçmas nga regjistrimet (pamjet dhe/ose zëri),
+përmban datën, vendin, kohën e regjistrimit dhe se ku ruhen regjistrimet.
+7. Regjistrimet nga paragrafi 6. i këtij neni mund të ruhen deri në (1) muaj, përveç nëse nuk
+kërkohet ndryshe për qëllime legjitime.
+Neni 77
+Mbikëqyrja e ndërtesave me apartamente
+1. Për instalimin e sistemeve të vëzhgimit me kamerë në ndërtesën me apartamente, kërkohet
+pajtimi me shkrim i së paku shtatëdhjetë për qind shtatëdhjetë për qind (70% ) të pronarëve.
+2. Vëzhgimi me kamerë mund të instalohet vetëm nëse kjo është e domosdoshme për sigurinë
+e njerëzve dhe sigurimin e pronës.
+3. Vëzhgimi me kamerë në ndërtesën me apartamente mund të mbikëqyrë vetëm hyrjen dhe
+hapësirat e përbashkëta. Ndalohet mbikëqyrja me kamerë e apartamentit të shtëpiakut të
+ndërtesës dhe punëtorisë së tij ose saj.
+4. Ndalohet transmetimi i regjistrimeve të vëzhgimeve me kamerë përmes televizionit kabllor
+të brendshëm, televizionit publik kabllor, internetit ose mjeteve të tjera të telekomunikimeve, pa
+43
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+marrë parasysh nëse bëhet në kohën e transmetimit apo më vonë.
+5. Hyrjet në apartamentet individuale mund të mbikëqyren me sistem të vëzhgimit me kamerë
+vetëm nëse pronari vendosë kështu. Pronari mund t’i mbajë regjistrimet vetëm për nevoja të tij
+ose të saj.
+Neni 78
+Vëzhgimi me kamerë në sektorin e punësimit
+1. Vëzhgimi me kamerë në hapësirat e punës mund të bëhet vetëm në rastet kur
+domosdoshmërisht kërkohet për sigurinë e njerëzve, sigurimin e pronës dhe ruajtjen e
+informacioneve konfidenciale, nëse ky qëllim nuk mund të arrihet me mjete më të lehta.
+2. Vëzhgimi me kamerë duhet të kufizohet rreptësisht në hapësirat ku janë të rrezikuara interesat
+nga paragrafi 1. i këtij neni.
+3. Vëzhgimi me kamerë ndalohet në hapësirat jashtë vendit të punës, veçanërisht në dhoma
+të ndërrimit, ashensorë, hapësira sanitare dhe në hapësira pune me potencial të shkeljes së
+privatësisë së të punësuarve.
+4. Para instalimit të sistemit të vëzhgimit me kamerë, punëdhënësi duhet t’i informojë me shkrim
+subjektet e të dhënave për të drejtat e tyre dhe arsyet për vëzhgim. Hapësirat e mbikëqyrura
+duhet të shënohen nga punëdhënësit përmes shenjave të përshtatshme.
+5. Para fillimit të instalimit të sistemeve të vëzhgimit me kamerë në sektorët publik ose privat,
+punëdhënësi i informon përfaqësuesit e sindikatës, nëse është e zbatueshme.
+6. Paragrafët 4. dhe 5. të këtij neni nuk zbatohen në hapësirat e mbrojtjes kombëtare, në
+aktivitetet e sigurisë shtetërore të zbulimit në vendet ku ruhen të dhënat sekrete.
+Neni 79
+Vëzhgimi me kamerë përmes dronëve
+1. Të dhënat personale të marruar përmes dronëve përpunohen sipas këtij ligji, me përjashtim
+të rasteve kur është përcaktuar ndryshe me legjislacionin përkatës që rregullon çështjen e
+funksionimit të dronëve.
+2. Agjencia, së bashku me Autoritetin e Aviacionit Civil, nxjerr akt nënligjor për mënyrën e
+përpunimit të të dhënave, të cilat merren nga përdorimi i dronëve.
+KREU XVII
+PËRDORIMI I KARAKTERISTIKAVE BIOMETRIKE
+Neni 80
+Përpunimi i karakteristikave biometrike
+Përcaktimi dhe përdorimi i karakteristikave biometrike të subjektit të të dhënave dhe krahasimi i
+tyre për të mundësuar identifikimin e tij ose të saj rregullohet me dispozitat e këtij ligji.
+Neni 81
+Përdorimi i karakteristikave biometrike në sektorin publik
+1. Sektori publik mund të përdorë karakteristikat biometrike, vetëm nëse domosdoshmërisht
+kërkohet për sigurinë e njerëzve, sigurimin e pronës ose mbrojtjen e të dhënave konfidenciale
+dhe sekreteve të biznesit, nëse kjo nuk mund të arrihet me mjete më të lehta.
+44
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+2. Pavarësisht nga paragrafi 1. i këtij neni, përdorimi i karakteristikave biometrike mund të
+lejohet në pajtim me obligimet që dalin nga marrëveshjet ndërkombëtare detyruese ose për
+identifikimin e personave që kalojnë kufirin shtetëror.
+Neni 82
+Kontrolli i qasjes
+Karakteristikat biometrike mund të përdoren në sektorin publik për arsyet e kontrollit të qasjes.
+Në këtë rast dispozitat e paragrafëve 2., 3. dhe 4. të nenit 84 të këtij ligji duhet të zbatohen
+përshtatshmërisht (mutatis mutandis).
+Neni 83
+Përdorimi i karakteristikave biometrike në sektorin privat
+1. Sektori privat mund të përdorë karakteristikat biometrike vetëm nëse kjo është e domosdoshme
+për kryerjen e aktiviteteve për sigurinë e njerëzve, për sigurimin e pronës ose për mbrojtje
+të të dhënave konfidenciale ose fshehtësive të biznesit. Të punësuarit duhet të informohen
+paraprakisht në formë të shkruar për përdorimin e karakteristikave të tyre biometrike rreth
+masave që merren dhe të drejtat e tyre.
+2. Nëse nuk është paraparë ndryshe me ligj përkatës, kontrolluesi i të dhënave duhet që para
+marrjes së masave për përdorimin e karakteristikave biometrike t’i ofrojë Agjencisë përshkrimin
+e detajuar për masat që do të merren, duke përfshirë informacionet që do t’i jepen subjektit
+të të dhënave, arsyet për marrjen e masave dhe masat mbrojtëse për mbrojtjen e të dhënave
+personale.
+3. Pas marrjes së informacionit nga paragrafi 2 i këtij neni, Agjencia, brenda tridhjetë (30) ditësh
+duhet të vendosë nëse informacioni i marrë lidhur me masat është në pajtim me dispozitat e
+këtij ligji.
+4. Kontrolluesit e të dhënave mund të zbatojnë masat për përdorimin e karakteristikave
+biometrike, pas marrjes së autorizimit nga Agjencia.
+5. Kundër vendimit nga paragrafi 3. i këtij neni nuk lejohet ankesa, por mund të hapet konflikti
+administrativ në gjykatën kompetente.
+KREU XVIII
+REGJISTRIMET E HYRJES DHE DALJES NGA NDËRTESAT
+Neni 84
+Regjistrimi
+1. Organet e sektorit publik dhe privat, për arsye të garantimit të sigurisë së njerëzve dhe
+sigurimit të pronës, mund të kërkojnë nga personat që hyjnë ose dalin nga ndërtesat që t’u japin
+të dhënat nga paragrafi 2. i këtij neni. Nëse konsiderohet e domosdoshme, të dhënat personale
+mund të verifikohen duke i ekzaminuar dokumentet e identifikimit.
+2. Të dhënat e regjistrimit të personave që hyjnë ose dalin nga ndërtesat mund të përmbajnë
+vetëm këto të dhëna personale: emrin personal, numrin dhe llojin e dokumentit të identifikimit,
+adresën e përhershme ose të përkohshme, datën dhe kohën si dhe arsyen për hyrje në ndërtesë.
+3. Të dhënat nga paragrafi 2. i këtij neni konsiderohen si dokumente zyrtare, nëse grumbullimi
+i të dhënave kërkohet për qëllime të policisë dhe aktiviteteve të shërbimeve të inteligjencës.
+45
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+4. Të dhënat personale nga regjistrimet, sipas paragrafit 2. të këtij neni, mund të ruhen deri në
+tri (3) vite nga dita e regjistrimit të tyre dhe pastaj duhet të fshihen ose shkatërrohen, përveç
+nëse me ligj nuk është paraparë ndryshe.
+KREU XIX
+LIBRAT PUBLIKË DHE MBROJTJA E TË DHËNAVE PERSONALE
+Neni 85
+Librat publikë
+Të dhënat personale nga librat publikë, të rregulluara me ligjin përkatës, mund të përdoren
+vetëm në pajtim me qëllimin për të cilin janë grumbulluar ose janë përpunuar, nëse qëllimi ligjor
+për grumbullimin ose përpunimin e tyre është përcaktuar ose është i përcaktueshëm.
+KREU XX
+NDËRLIDHJA E SISTEMEVE TË DOSJEVE
+Neni 86
+Dokumentet zyrtare dhe librat publikë
+1. Sistemet e dosjeve nga dokumentet zyrtare dhe librat publikë mund të bashkohen nëse kjo
+është e paraparë me ligj.
+2. Kontrolluesi ose kontrolluesit e të dhënave që synojnë të ndërlidhin dy (2) ose më shumë
+sisteme të dosjeve që mbahen për qëllime të ndryshme, përpara se ta bëjnë këtë, duhet ta
+njoftojnë me shkrim Agjencinë.
+3. Nëse, të paktën, njëri nga sistemet e dosjeve që ndërlidhen përmban të dhëna të ndjeshme
+ose nëse ndërlidhja do të rezultonte në zbulimin e të dhënave të ndjeshme, ose zbatimi i
+ndërlidhjes kërkon përdorim të kodit ndërlidhës, ndërlidhja nuk lejohet pa autorizimin paraprak
+të Agjencisë.
+4. Agjencia mund të autorizojë ndërlidhjen, me vendim, sipas paragrafit 3. të këtij neni, nëse
+përcakton se kontrolluesi i të dhënave siguron nivel të duhur të mbrojtjes së të dhënave.
+5. Kundër vendimit nga paragrafi 4. i këtij neni, nuk lejohet ankesa por mund të hapet konflikti
+administrativ në gjykatën kompetente.
+Neni 87
+Ndalimi i ndërlidhjes së sistemeve të dosjeve
+Ndalohet ndërlidhja e sistemeve të dosjeve penale dhe kundërvajtjeve me sistemet e dosjeve
+të tjera si dhe ndërlidhja e sistemeve në mes të dosjeve penale dhe atyre të kundërvajtjeve.
+Neni 88
+Ndarja e dokumenteve zyrtare dhe librave publikë
+Të dhënat personale nga sistemet e dosjeve të dokumenteve zyrtare dhe librave publikë duhet
+të mbahen ndaras në regjistrin e sistemeve të dosjeve.
+Neni 89
+Të dhënat personale nga institucionet e mëparshme
+1. Nëse, para 12 qershorit 1999, të dhënat personale janë ruajtur nga institucionet e mëparshme,
+46
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+kryesisht për detyrat administrative të vetcaktuara, të cilat duhej të kryheshin nga autoritetet,
+institucionet dhe organet e tjera publike të shtetit, nga republikat socialiste, komunitetet,
+shoqatat e autoriteteve lokale, apo organet e tjera publike, të drejtën për këto të dhëna e kanë
+bartësit e administratës publike, përgjegjëse për detyrat administrative.
+2. Institucionet e mëparshme, siç përkufizohet me paragrafin 1., të këtij neni, janë ish-organet
+e shtetit apo organet ekonomikisht aktive, kombinatet kolektive, operacionet apo objektet
+komerciale, si dhe organizatat shoqërore të ish-Republikës Socialiste Federative të Jugosllavisë.
+Neni 90
+Përpunimi i të dhënave personale nga institucionet e mëparshme
+1. Përpunimi i të dhënave personale nga institucionet e mëparshme u lejohet organeve të
+cekura në nenin 89, paragrafi 1. të këtij ligji nëse:
+1.1. njohja e këtyre të dhënave nevojitet për përmbushjen ligjore të ndonjë detyre, e cila
+është në kuadër të fushëveprimit të përgjegjësive të këtyre organeve;
+1.2. mbledhja e përsëritur e këtyre të dhënave kërkon përpjekje joproporcionale;
+1.3. subjekti i të dhënave nuk e ka kundërshtuar përpunimin;
+1.4. kompetencat dhe përgjegjësitë e organeve të përpunimit të të dhënave janë
+përcaktuar në mënyrë të qartë.
+1.5. të dhënat personale, të cilat mund të përpunohen sipas nën-paragrafit 1.1. të
+këtij neni, konsiderohen sikur të jenë ruajtur paraprakisht për qëllimin e përcaktuar në
+përputhje me nenin 89, paragrafi 1. të këtij ligji.
+KREU XXI
+DISPOZITAT NDËSHKUESE
+Neni 91
+Kushte e përgjithshme për caktimin e gjobave administrative
+1. Agjencia, për kontrolluesit dhe përpunuesit e të dhënave, të cilët, gjatë përpunimit të të
+dhënave, shkelin dispozitat e këtij ligji, vendosë gjobë kundërvajtëse drejtpërdrejt, duke marrë
+parasysh kriteret e mëposhtme:
+1.1. natyrës, rëndësisë dhe kohëzgjatjes së shkeljes, duke marrë parasysh natyrën,
+objektin ose qëllimin e përpunimit përkatës, si dhe numrin e subjekteve të të dhënave
+të prekura dhe nivelin e dëmit të pësuar prej tyre;
+1.2. karakterit të qëllimshëm dhe mospërfillës të shkeljes;
+1.3. çdo mase të marrë nga kontrolluesi ose përpunuesi për të lehtësuar dëmin e
+pësuar nga subjektet e të dhënave;
+1.4. shkallës së përgjegjësisë së kontrolluesit ose përpunuesit, duke marrë parasysh
+masat teknike dhe organizative të zbatuara prej tyre në pajtim me nenet 24, 25 dhe 32
+e 33 të këtij ligji;
+1.5. çdo shkeljeje të mëparshme përkatëse nga kontrolluesi ose përpunuesi;
+1.6. shkallës së bashkëpunimit me Agjencinë, me qëllim që të korrigjohet shkelja dhe
+47
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+për të zbutur efektet negative të mundshme të shkeljes;
+1.7. kategorive të të dhënave personale të ndikuara nga shkelja;
+1.8. mënyrës në të cilën shkelja erdhi në dijeni të Agjencisë, veçanërisht, nëse dhe në
+cilën masë kontrolluesi ose përpunuesi ka njoftuar për shkeljen;
+1.9. nëse masat e referuara në kompetencat e Agjencisë janë urdhëruar më parë ndaj
+kontrolluesit ose përpunuesit përkatës në lidhje me të njëjtën çështje, respektimit të
+këtyre masave;
+1.10. respektimi i kodeve të aprovuara të sjelljes dhe akteve tjera të brendshme.
+1.11. çdo faktori tjetër rëndues ose lehtësues për rrethanat e çështjes, si përfitimet
+financiare të përfituara ose humbjeve të mënjanuara, drejtpërdrejt ose jo nga shkelja.
+2. Nëse një kontrollues ose përpunues, në mënyrë të qëllimshme ose nga mospërfillja, për të
+njëjtat operacione ose të lidhura me to, shkel disa dispozita të këtij ligji, shuma totale e gjobës
+për kundërvajtje nuk kalon shumën maksimale të dyfishit të dënimit më të lartë me gjobë të
+përcaktuar me këtë ligj.
+Neni 92
+Shkeljet e përgjithshme të dispozitave të këtij ligji
+1. Personi juridik ose personi që ushtron veprimtari të pavarur dënohet për kundërvajtje, me
+gjobë prej njëzetë mijë (20,000€) deri në dyzet mijë (40,000€), nëse:
+1.1. përpunon të dhëna personale pa bazë ligjore ose pëlqim personal të subjektit të të
+dhënave sipas këtij ligji;
+1.2. ia beson një detyrë individuale që ka të bëjë me përpunimin e të dhënave personale
+një personi tjetër pa lidhur kontratë me shkrim në pajtim me paragrafin 2. të nenit 32 të
+këtij ligji;
+1.3. përpunon të dhëna personale të ndjeshme, të veçanta, në kundërshtim me nenin
+6, nenin 8. të këtij ligji, ose nuk i mbron ato në pajtim me nenin 7. të këtij ligji, paragrafin
+4 të nenit 8 të këtij ligji.
+1.4. përpunon të dhënat personale në kundërshtim me nenet 10 dhe 12 të këtij ligji;
+1.5. grumbullon të dhënat personale për qëllime që nuk janë të definuara në mënyrë të
+qartë dhe të paligjshme, ose nëse vazhdon t’i përpunojë ato në kundërshtim me nenin
+5 të këtij ligji;
+1.6. e pajisë marrësin e të dhënave me të dhëna personale në kundërshtim me
+paragrafin 3. të nenit 8 të këtij ligji;
+1.7. nuk informon subjektin e të dhënave për përpunimin e të dhënave personale në
+pajtim me nenet 10 dhe 12 të këtij ligji;
+1.8. përdorë kodin e njëjtë lidhës në kundërshtim me paragrafin 3. të nenit 86 të këtij
+ligji;
+1.9. nuk i asgjëson, shkatërron, bllokon ose nuk i bën anonime të dhënat personale
+atëherë kur qëllimi për të cilin janë mbledhur dhe/ose përpunuar është arritur në pajtim
+me paragrafin 5. të nenit 4 të këtij ligji;
+48
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.10. dështon të sigurojë se katalogu i sistemit të dosjeve përmban informacione të
+garantuara me nenin 29 të këtij ligji;
+1.11. dështon të njoftojë Agjencinë për informacionet lidhur me regjistrin e sistemeve të
+dosjeve, sipas nenit 30 të këtij ligji;
+1.12. vepron në kundërshtim me nenin 14 të këtij ligji;
+1.13. vepron në kundërshtim me nenet 46 dhe 49 të këtij ligji dhe transferon të dhënat
+personale te vendet e tjera apo organizatat ndërkombëtare.
+2. Personi përgjegjës i personit juridik ose i personit që ushtron veprimtari të pavarur dënohet
+për kundërvajtje me gjobë prej dy mijë (2,000) € deri në katër mijë (4,000) €, për shkeljet nga
+nën-paragrafi 1.13., paragrafit 1. i këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej një mijë (1,000)
+deri në dy mijë (2,000) €uro për shkelje nga paragrafi 1. i këtij neni.
+4. Individi dënohet për kundërvajtje me gjobë prej katërqind (400) deri në një mijë (1,000) € për
+shkelje nga paragrafi 1. i këtij neni.
+Neni 93
+Shkelja e dispozitave për përpunimin kontraktues
+1. Personi juridik ose personi që ushtron veprimtari të pavarur, dënohet për kundërvajtje me
+gjobë prej njëzetë mijë (20,000) deri në dyzet mijë (40,000) €, nëse tejkalon autorizimin e
+shprehur në kontratë nga paragrafi 2. i nenit 32 të këtij ligji ose nuk i kthen të dhënat personale
+në pajtim me paragrafin 4. të nenit 32 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose i personi që ushtron veprimtari të pavarur dënohet
+për kundërvajtje me gjobë prej një mijë (1,000) deri në katër mijë (4,000) € për shkeljet nga
+paragrafi 1. i këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej pesëqind (500)
+deri në dy mijë (2,000) € për shkelje nga paragrafi 1. i këtij neni.
+4. Individi dënohet për kundërvajtje me gjobë prej dyqind (200) deri në tetëqind (800) € për
+shkelje nga paragrafi 1. i këtij neni.
+Neni 94
+Shkelja e dispozitave për sigurinë e të dhënave personale
+1. Personi juridik ose personi që ushtron veprimtari të pavarur dënohet për kundërvajtje me
+gjobë prej tetë mijë (8,000) deri në dyzet mijë (40,000) €, nëse gjatë përpunimit të të dhënave
+personale dështon të garantojë nivel të duhur për sigurimin e mbrojtjes së të dhënave personale
+sipas nenit 31 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose i personit që ushtron veprimtari të pavarur, dënohet
+për kundërvajtje me gjobë prej një mijë (1,000) deri në katër mijë (4,000) € për shkelje nga
+paragrafi 1. i këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej një mijë (1,000)
+deri në tetë mijë (8,000) € për shkelje nga paragrafi 1. i këtij neni.
+4. Individi dënohet për kundërvajtje me gjobë prej një mijë (1,000) deri në dy mijë (2,000) € për
+shkelje nga paragrafi 1. i këtij neni.
+49
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+Neni 95
+Shkelja e dispozitave për marketingun e drejtpërdrejtë
+1. Personi juridik ose personi që ushtron veprimtari të pavarur dënohet për kundërvajtje me
+gjobë prej katër mijë (4,000) deri në dhjetë mijë (10,000) €, nëse në pajtim me këtë ligj përpunon
+të dhënat personale për qëllime të marketingut të drejtpërdrejtë dhe nuk vepron në pajtim me
+nenet 73 ose 74 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose i personit që ushtron veprimtari të pavarur dënohet
+për kundërvajtje, me gjobë prej tetëqind (800) deri në dy mijë (2,000) € për shkelje nga paragrafi
+1. i këtij neni.
+3. Individi dënohet për kundërvajtje me gjobë prej katërqind (400) deri në një mijë (1,000) € për
+shkelje nga paragrafi 1. i këtij neni.
+Neni 96
+Shkelja e dispozitave të përgjithshme për vëzhgimin me kamerë
+1. Personi juridik ose personi që ushtron veprimtari të pavarur, dënohet për kundërvajtje me
+gjobë prej katër mijë (4,000) deri në dhjetë mijë (10,000) € nëse:
+1.1. nuk publikon njoftimin në mënyrën e paraparë në paragrafin 2. të nenit 75 të këtij
+ligji;
+1.2. njoftimi nuk përmban informacionet e domosdoshme nga paragrafi 3. i nenit 75 të
+këtij ligji;
+1.3. nuk mbron sistemin e vëzhgimit me kamerë dhe regjistrimet që përdoren për të
+kryer vëzhgimin me kamerë në kundërshtim me paragrafin 4. të nenit 76 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose personi që ushtron veprimtari të pavarur dënohet për
+kundërvajtje me gjobë prej tetëqind (800) deri në dy mijë (2,000) € për shkelje nga paragrafi 1.
+i këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej pesëqind (500)
+deri në dy mijë (2,000) € për shkelje nga paragrafi 1. i këtij neni.
+4. Individi dënohet për kundërvajtje me gjobë prej dyqind (200) deri në tetëqind (800) € për
+shkelje nga paragrafi 1. i këtij neni.
+Neni 97
+Shkelja e dispozitave për vëzhgimin me kamerë lidhur me qasjen në ndërtesat zyrtare
+dhe të biznesit
+1. Personi juridik ose personi që ushtron veprimtari të pavarur, dënohet për kundërvajtje me
+gjobë prej katër mijë (4,000) deri në dhjetë mijë (10,000) €, nëse:
+1.1. i zbaton sistemet e vëzhgimit me kamerë pa një vendim të nevojshëm me shkrim
+ose pa ndonjë bazë ligjore nga neni 76 i këtij ligji;
+1.2. i zbaton sistemet e vëzhgimit me kamerë me qëllim të vëzhgimit të brendësisë së
+ndërtesave në kundërshtim me paragrafin 4. të nenit 76;
+1.3. nuk ka informuar të punësuarit me shkrim nga paragrafi 5. i nenit 76;
+50
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.4 ruan të dhënat personale në kundërshtim me paragrafin 7. të nenit 76 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose personit që ushtron veprimtari të pavarur dënohet për
+kundërvajtje me gjobë prej pesëqind (500) deri në dy mijë (2,000) € për shkelje nga paragrafi
+1. i këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej pesëqind (500)
+deri në dy mijë (2,000) € për shkelje nga paragrafi 1. i këtij neni.
+4. Individi dënohet për kundërvajtje me gjobë prej dyqind (200) deri në tetëqind (800) € për
+shkelje nga paragrafi 1. i këtij neni.
+Neni 98
+Shkelja e dispozitave për vëzhgimin me kamerë në ndërtesat me apartamente
+1. Personi juridik ose personi që ushtron veprimtari të pavarur dënohet për kundërvajtje me
+gjobë prej katër mijë (4,000) deri në dymbëdhjetë mijë (12,000) € nëse zbaton sistemet për
+vëzhgimin me kamerë në kundërshtim me nenin 77 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose personit që ushtron veprimtari të pavarur dënohet për
+kundërvajtje me gjobë prej katërqind (400) deri në dy mijë (2,000) € për shkelje nga paragrafi
+1. i këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej tetëqind (800)
+deri në dy mijë (2,000) € për shkelje nga paragrafi 1. i këtij neni.
+4. Individi dënohet për kundërvajtje me gjobë prej dyqind (200) deri në katërqind (400) € për
+shkelje nga paragrafi 1. i këtij neni.
+Neni 99
+Shkelja e dispozitave për vëzhgimin me kamerë në hapësirat e punës
+1. Personi juridik ose personi që ushtron veprimtari të pavarur dënohet me gjobë prej tetë mijë
+(8,000) deri në dyzet mijë (40,000) € nëse zbaton sistemet e vëzhgimit me kamerë në hapësirat
+e punës në kundërshtim me nenin 78 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose personit që ushtron veprimtari të pavarur dënohet
+për kundërvajtje me gjobë prej dy mijë (2,000) deri në katër mijë (4,000) € nga paragrafi 1. i
+këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej një mijë (1,000)
+deri në dy mijë (2,000) € nga paragrafi 1. i këtij neni.
+4. Individi dënohet me gjobë prej tetëqind (800) deri në një mijë (1,000) € për shkelje nga
+paragrafi 1. i këtij neni.
+Neni 100
+Shkelja e dispozitave për karakteristikat biometrike në sektorin publik
+1. Personi juridik ose personi që ushtron veprimtari të pavarur dënohet për kundërvajtje me
+gjobë prej tetë mijë (8,000) deri në dyzet mijë (40,000) € nëse zbaton masat biometrike në
+kundërshtim me nenin 81 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose personit që ushtron veprimtari të pavarur dënohet për
+kundërvajtje me gjobë prej dy mijë (2,000) deri në katër mijë (4,000) € për shkelje nga paragrafi
+1. i këtij neni.
+51
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+3. Personi përgjegjës i organit shtetëror dënohet me gjobë prej një mijë (1,000) deri në dy mijë
+(2,000) € për shkelje nga paragrafi 1. i këtij neni.
+Neni 101
+Shkelja e dispozitave për karakteristikat biometrike në sektorin privat
+1. Personi juridik ose personi që ushtron veprimtari të pavarur dënohet për kundërvajtje me
+gjobë prej tetë mijë (8,000) deri në dyzet mijë (40,000) € nëse zbaton masat biometrike në
+kundërshtim me nenin 83 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose personi që ushtron veprimtari të pavarur dënohet për
+kundërvajtje me gjobë prej dy mijë (2,000) deri në katër mijë (4,000) € për shkelje nga paragrafi
+1. i këtij neni.
+Neni 102
+Shkelja e dispozitave për regjistrimet e hyrjes dhe daljes nga ndërtesa
+1. Personi juridik ose personi që ushtron veprimtari të pavarur dënohet për kundërvajtje me
+gjobë prej katër mijë (4,000) deri në tetë mijë (8,000) €:
+1.1. nëse shfrytëzon regjistrimet e hyrjes dhe daljes nga ndërtesa si dokumente zyrtare
+në kundërshtim me paragrafin 3. të nenit 85 të këtij ligji;
+1.2. nëse vepron në kundërshtim me paragrafin 4. të nenit 84 të këtij ligji.
+2. Personi përgjegjës i personit juridik ose personit që ushtron veprimtari të pavarur dënohet
+për kundërvajtje me gjobë prej dyqind (200) deri në tetëqind (800) € për shkelje nga paragrafi
+1. i këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej dyqind (200)
+deri në tetëqind (800) € për shkelje nga paragrafi 1. i këtij neni.
+4. Individi dënohet për kundërvajtje me gjobë prej dyqind (200) deri në tetëqind (800) € për
+shkelje nga paragrafi 1. i këtij neni.
+Neni 103
+Shkelja e dispozitave për ndërlidhjen e sistemeve të dosjeve
+1. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej një mijë (1,000)
+deri në pesë mijë (5,000) €, i cili ndërlidhë sistemet e dosjeve në kundërshtim me nenin 87 të
+këtij ligji.
+2. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej tetëqind (800)
+deri në dy mijë (2,000) €, nëse ndërlidhë sistemet e dosjeve nga evidenca penale ose evidencat
+e kundërvajtjeve me sistemet e dosjeve të tjera, ose ndërlidhë sistemet e dosjeve nga evidencat
+penale me sistemin e dosjeve nga evidenca e kundërvajtjeve sipas nenit 87 të këtij ligji.
+Neni 104
+Shkelja e dispozitave për mbikëqyrjen nga personi përgjegjës për mbrojtjen e të
+dhënave personale
+1. Personi juridik dënohet për kundërvajtje me gjobë prej tetë mijë (8,000) në dyzet mijë
+(40,000)€:
+1.1. nëse kryen kontrollin në kundërshtim me nenin 39 të këtij ligji;
+52
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+1.2. nëse nuk mbanë një shënim ose regjistrime të tjera sipas nenit 39 të këtij ligji.
+2. Personi përgjegjës i personit juridik dënohet për kundërvajtje me gjobë prej një mijë (1,000)
+deri dy mijë (2,000) € për shkelje nga paragrafi 1. i këtij neni.
+3. Personi përgjegjës i organit shtetëror dënohet për kundërvajtje me gjobë prej një mijë (1,000)
+deri në dy mijë (2,000) € për shkelje nga paragrafi 1. i këtij neni.
+4. Individi dënohet për kundërvajtje me gjobë prej pesëqind (500) deri një mijë (1,000) € për
+shkelje nga paragrafi 1 i këtij neni.
+Neni 105
+Shkeljet e rënda dhe në masë të madhe të dispozitave ligjore
+Në rast se Agjencia konstaton se ka shkelje të rëndë dhe në masë të gjerë të të dhënave
+personale, mund të vendosë gjobë nga njëzet mijë (20,000) € deri në dyzet mijë (40,000) €, ose
+në rastin e një kompanie apo ndërmarrjeje, mund të vendosë gjobë 2% deri 4% të qarkullimit
+të përgjithshëm vjetor të vitit financiar paraprak në përputhje me Rregulloren (EU) 2016/679 të
+Parlamentit Evropian dhe të Këshillit, të datës 27 prill 2016, mbi mbrojtjen e personave fizikë,
+për sa i përket përpunimit të të dhënave personale dhe qarkullimit të lirë të këtyre të dhënave.
+Neni 106
+Përgjegjësitë tjera
+Shqiptimi i dispozitave ndëshkuese, sipas këtij ligji, nuk përjashton përgjegjësitë tjera në bazë
+të dispozitave ligjore në fuqi, në veçanti përgjegjësinë e kontrolluesve dhe përpunuesve të
+të dhënave për dëmet që rrjedhin nga përpunimi i paligjshëm dhe përgjegjësia penale siç
+përcaktohet në Kodin Penal të Republikës së Kosovës.
+Neni 107
+Tarifat
+Tarifat për njoftimet dhe autorizimet, sipas këtij ligji, rregullohen me akt nënligjor nga Agjencia.
+KREU XXII
+DISPOZITAT KALIMTARE DHE PËRFUNDIMTARE
+Neni 108
+Bartja e aseteve, të drejtave dhe detyrimeve, buxhetit dhe personelit
+1. Me hyrjen në fuqi të këtij ligji, të gjitha asetet fizike, te drejtat dhe detyrimet që rrjedhin nga
+kontratat e lidhura, dhe ndarjet buxhetore të Agjencisë Shtetërorë për Mbrojtjen e të Dhënave
+Personale i barten Agjencisë për Informim dhe Privatësi.
+2. Me hyrjen në fuqi të këtij ligji, personeli i Agjencisë Shtetërore për Mbrojtjen e të Dhënave
+Personale i bartet Agjencisë për Informim dhe Privatësi, së bashku me pozitat e tyre të mbajtura,
+sipas akt-emërimeve, vendimeve dhe kontratave të punës.
+3. Agjencia për Informim dhe Privatësi brenda tre (3) muajsh, nga dita e hyrjes në fuqi të këtij
+ligji, i zyrtarizon obligimet kontraktuese me personelin e bartur, duke lëshuar akt-emërimet e
+reja, sipas këtij ligji dhe legjislacionit përkatës.
+
+53
+
+GAZETA ZYRTARE E REPUBLIKËS SË KOSOVËS / Nr. 6 / 25 SHKURT 2019, PRISHTINË
+LIGJI NR. 06/L-082 PËR MBROJTJEN E TË DHËNAVE PERSONALE
+
+Neni 109
+Aktet nënligjore
+1. Aktet nënligjore të parapara me këtë ligj nxirren në afat prej gjashtë (6) muajsh nga hyrja e
+tij në fuqi.
+2. Aktet nënligjore që janë në fuqi vazhdojnë të zbatohen, deri në nxjerrjen e akteve të reja
+nënligjore, me kusht që të mos jenë në kundërshtim me këtë ligj.
+Neni 110
+Shfuqizimi
+Pas hyrjes në fuqi të këtij ligji, shfuqizohet Ligji Nr. 03/L-172, për Mbrojtën e të Dhënave
+Personale.
+Neni 111
+Hyrja në Fuqi
+Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së
+Kosovës.
+Ligji Nr. 06/L-082
+30 janar 2019
+Shpallur me dekretin Nr. DL-59-2019, datë 14.02.2019 nga Presidenti i Republikës së
+Kosovës Hashim Thaçi
+
+54
+
+

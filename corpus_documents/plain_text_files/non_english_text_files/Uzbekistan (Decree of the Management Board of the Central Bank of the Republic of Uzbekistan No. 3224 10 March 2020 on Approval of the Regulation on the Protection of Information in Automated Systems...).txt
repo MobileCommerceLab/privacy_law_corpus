@@ -1,0 +1,785 @@
+!
+Izlash
+
+×
+
+Ру
+
+Ўз
+
+O‘z|Ру
+
+×
+
+O‘zbekiston Respublikasi tijorat
+banklari avtomatlashtirilgan bank
+tizimlarida axborotni muhofaza qilish
+to‘g‘risidagi nizomni tasdiqlash
+haqida
+1-ILOVA
+O‘zbekiston Respublikasi tijorat
+banklari avtomatlashtirilgan bank
+tizimlarida axborotni muhofaza
+qilish to‘g‘risida NIZOM
+1-bob. Umumiy qoidalar
+2-bob. Bank faoliyatida axborotni
+muhofaza qilish xizmati
+
+"
+
+#
+
+$
+
+%
+
+
+
+3224 10.03.2020
+
+O‘ZBEKISTON RESPUBLIKASI MARKAZIY BANKI BOSHQARUVINING
+QARORI
+O‘ZBEKISTON RESPUBLIKASI TIJORAT BANKLARI AVTOMATLASHTIRILGAN BANK TIZIMLARIDA
+AXBOROTNI MUHOFAZA QILISH TO‘G‘RISIDAGI NIZOMNI TASDIQLASH HAQIDA
+[O‘zbekiston Respublikasi Adliya vazirligi tomonidan 2020-yil 10-martda ro‘yxatdan o‘tkazildi, ro‘yxat raqami 3224]
+O‘zbekiston Respublikasining “Avtomatlashtirilgan bank tizimida axborotni muhofaza qilish to‘g‘risida”gi va
+“O‘zbekiston Respublikasining Markaziy banki to‘g‘risida”gi qonunlari hamda O‘zbekiston Respublikasi Prezidentining 2018-yil
+8-avgustdagi PF-5505-son “Norma ijodkorligi faoliyatini takomillashtirish konsepsiyasini tasdiqlash to‘g‘risida”gi Farmoniga
+muvofiq O‘zbekiston Respublikasi Markaziy banki Boshqaruvi qaror qiladi:
+1. O‘zbekiston Respublikasi tijorat banklari avtomatlashtirilgan bank tizimlarida axborotni muhofaza qilish to‘g‘risidagi
+nizom 1-ilovaga muvofiq tasdiqlansin.
+2. Ayrim idoraviy normativ-huquqiy xujjatlar 2-ilovaga muvofiq o‘z kuchini yo‘qotgan deb topilsin.
+3. Mazkur qaror rasmiy e’lon qilingan kundan e’tiboran kuchga kiradi.
+Markaziy bank raisi M. NURMURATOV
+
+3-bob. Konfidensial
+ma’lumotlarning oshkor etilishidan
+himoyalash
+
+Toshkent sh.,
+2020-yil 25-yanvar,
+2/4-son
+
+4-bob. Axborot xavfsizligini
+ta’minlash tizimini tashkil etish va
+axborot xavfsizligi tavakkalchiligini
+boshqarish
+
+O‘zbekiston Respublikasi Markaziy banki
+boshqaruvining 2020-yil 25-yanvardagi 2/4son qaroriga
+1-ILOVA
+
+5-bob. Axborot xavfsizligi noxush
+hodisalarini bartaraf etish
+6-bob. Avtomatlashtirilgan bank
+tizimiga kirishni boshqarish
+7-bob. Ma’lumotlar bazasini
+boshqarish tizimi
+8-bob. Tarmoq xavfsizligi
+9-bob. Elektron pochta va internet
+tarmog‘idan foydalanish
+10-bob. Texnik vositalarni
+boshqarish tizimi
+11-bob. Ma’lumotlarni ruxsatsiz
+tarqalishidan himoyalash tizimi va
+antivirus muhofazasi
+12-bob. Elektron raqamli imzo va
+shifrlash kalitlaridan foydalanish
+13-bob. Elektron arxivni tashkil
+qilish, elektron arxiv hujjatlarining
+tarkibi
+14-bob. Avtomatlashtirilgan bank
+tizimi ish jarayonining uzluksizligini
+va qayta tiklashni ta’minlash
+15-bob. Server xonalarining
+xavfsizlik talablari
+16-bob. Bankning tashqi axborot
+tizimlari bilan axborot
+almashinuvida axborot xavfsizligini
+ta’minlashga qo‘yilgan talablari
+17-bob. Axborot xavfsizligi
+talablari ustidan nazorat
+18-bob. Yakuniy qoidalar
+2-ILOVA
+O‘z kuchini yo‘qotgan deb
+topilayotgan idoraviy normativhuquqiy hujjatlar ro‘yxati
+
+O‘zbekiston Respublikasi tijorat banklari avtomatlashtirilgan bank tizimlarida axborotni muhofaza qilish to‘g‘risida
+NIZOM
+Mazkur Nizom O‘zbekiston Respublikasining “O‘zbekiston Respublikasining Markaziy banki to‘g‘risida”gi va
+“Avtomatlashtirilgan bank tizimida axborotni muhofaza qilish to‘g‘risida”gi qonunlariga muvofiq tijorat banklarining (bundan
+buyon matnda bank deb yuritiladi) avtomatlashtirilgan bank tizimlarida axborotni muhofaza qilish tartibini belgilaydi.
+1-bob. Umumiy qoidalar
+1. Mazkur Nizomda quyidagi asosiy tushunchalardan foydalaniladi:
+avtomatlashtirilgan bank tizimi — bank faoliyati sohasida axborotni to‘plash, saqlash, izlash, unga ishlov berish va
+undan foydalanishni amalga oshirish uchun mo‘ljallangan axborot tizimi;
+antivirus dasturi — kompyuter virusiga qarshi dastur, viruslarni aniqlash uchun mo‘ljallangan va ularni yo‘q qilish
+taklifini berishi mumkin bo‘lgan yoki yo‘q qiluvchi dastur;
+antivirus himoyasi — antivirus dasturlari yordamida kompyuter viruslari ta’sirining oldini olish, viruslarni topish va
+zararsizlantirishga qaratilgan chora-tadbirlar majmui;
+autentifikatsiya qilish — foydalanuvchi, dastur, qurilma yoki ma’lumotlarning haqiqiyligini tasdiqlash tartib-taomili;
+axborot aktivlari — axborot resurslari, axborotni qayta ishlash qurilmalari va boshqa bank uchun muhim bo‘lgan
+axborotlar;
+axborot resursi — axborot tizimi tarkibidagi elektron shakldagi axborot, ma’lumotlar banki, ma’lumotlar bazasi;
+axborot tizimi — axborotni to‘plash, saqlash, izlash, unga ishlov berish hamda undan foydalanish imkonini beradigan,
+tashkiliy jihatdan tartibga solingan jami axborot resurslari, axborot texnologiyalari va aloqa vositalari;
+axborot xavfsizligi — axborot munosabatlarining subyektlariga nomaqbul ziyonlarni keltirishi mumkin bo‘lgan tabiiy
+yoki sun’iy xususiyatli tasodifiy yoki qasddan qilingan ta’sirlardan axborot va ta’minlab turadigan infratuzilmaning muhofaza
+qilinganligi;
+axborot xavfsizligi noxush hodisasi — axborot xavfsizligining yagona voqeasi yoki bir qator noxush yoki kutilmagan
+voqealari bo‘lib, ushbu voqealar tufayli axborotning oshkor bo‘lishi va axborot xavfsizligiga tahdidlar ehtimoli;
+hujum — axborot aktivlarini yo‘q qilish, ochish, o‘zgartirish, blokirovkalash, tutib olish, ruxsat etilmagan foydalanish
+huquqini olish yoki axborot aktivlaridan ruxsatsiz foydalanishga urinish;
+kompyuter virusi — destruktiv xususiyatga, o‘z nusxasini ko‘paytira olish (asl nusxa bilan to‘liq mos bo‘lmasligi ham
+mumkin) va foydalanuvchi bilmagan holda ularni kompyuter tizimlari, tarmoqlari turli resurslari va shu borada joriy etish
+qobiliyatiga ega bo‘lgan dasturdir (bajariladigan kodlar to‘plami);
+monitoring — avtomatlashtirilgan bank tizimi va axborot tizimlari holatini kuzatish;
+server xonasi — bank servyerlari, telekommunikatsiya qurilmalari, uzluksiz quvvat manbalari va boshqa hisoblash
+texnikalari joylashgan xona;
+tarmoqlararo ekran — avtomatlashtirilgan bank tizimiga kelib tushadigan va (yoki) tizimdan chiqib ketadigan
+axborotning nazorat qilinishini amalga oshiradigan dastur va (yoki) dasturiy vosita;
+xesh summasi — kriptografik algoritm yordamida hisoblangan, fayl butligini tekshirish summasi;
+shaxsga doir ma’lumotlar — muayyan jismoniy shaxsga taalluqli bo‘lgan yoki uni identifikatsiya qilish imkonini
+beradigan, elektron tarzda, qog‘ozda va (yoki) boshqa moddiy jismda qayd etilgan axborot;
+elektron arxiv — arxiv maqomiga ega bo‘lgan, bank elektron hujjatlarini jamlovchi, hisobga oluvchi, saqlovchi va
+foydalanishni amalga oshiruvchi bankning tarkibiy bo‘limi.
+2. Banklar o‘z faoliyatining barqarorligini ta’minlashi va axborot xavfsizligi tahdidlarining oldini olish uchun axborot
+tizimlari va axborot resurslaridagi axborotning xavfsizligini ta’minlashi hamda butun ish faoliyati davomida saqlab turishi lozim.
+2-bob. Bank faoliyatida axborotni muhofaza qilish xizmati
+3. Banklar va ularning filiallarida axborot xavfsizligini ta’minlash maqsadida axborotni muhofaza qilish xizmati (bundan
+buyon matnda axborot xavfsizligi xizmati deb yuritiladi) tashkil etiladi.
+4. Axborot xavfsizligi xizmati avtomatlashtirilgan bank tizimining vaqtincha to‘xtashi, to‘lov ma’lumotlarining noqonuniy
+o‘zgarishi, bank yoki mijozga zarar yetkazilishi holatlarining yuzaga kelishini oldini olish va bartaraf etish bo‘yicha mas’ul
+hisoblanadi.
+5. Axborot xavfsizligi xizmati o‘z faoliyatida:
+axborot xavfsizligini boshqarish tizimini tashkil qilishi, bankning axborot xavfsizligi talablari bank bo‘linmalari va
+xodimlari tomonidan bajarilishini tashkillashtirishi va nazorat qilishi;
+axborotning saqlanishini ta’minlash ustidan nazoratni tashkil etishi;
+axborotni muhofaza qilish masalalarida bank bo‘linmalari va xodimlariga uslubiy va amaliy yordam ko‘rsatishi;
+avtomatlashtirilgan bank tizimida axborotni muhofaza qilish tizimini loyihalash, sinovdan o‘tkazish va qabul qilib olish,
+amaliyotda qo‘llash jarayonlarida ishtirok etishi, ushbu jarayonlarda bank siriga oid va boshqa konfidensial ma’lumotlarni chetga
+chiqishini oldini olish choralarini ko‘rishi;
+o‘z vakolati doirasida bankning axborot xavfsizligini boshqarish, ta’minlash va nazorat qilish usullari, vositalari va
+mexanizmlarini tanlash, joriy etish va qo‘llashni amalga oshirishi;
+avtomatlashtirilgan bank tizimida axborotdan ruxsatsiz foydalanishga urinishlar bo‘lganligi, unga boshqacha shaklda
+aralashilganligi aniqlanganda hamda tizimning ishlash qoidalari buzilganda mazkur tizimdagi axborotni muhofaza qilish choratadbirlarini ko‘rishi;
+axborot tizimlariga tahdidlar va hujumlarni aniqlashi, tahlil qilishi hamda ularni bartaraf etish choralarini ko‘rishi;
+axborot xavfsizligi noxush hodisasi to‘g‘risidagi ma’lumotlarni yig‘ishi, qayta ishlashi, tahlil qilishi va saqlashi;
+axborot xavfsizligi noxush hodisalarini tekshirish bo‘yicha ishlarni amalga oshirishi;
+axborotni muhofaza qilish chora-tadbirlarining holati va samaradorligini tahlil qilishi;
+axborot xavfsizligi dasturiy ta’minotlari va apparat-dasturiy qurilmalarining to‘g‘ri ishlashini nazorat qilishi va
+ta’minlashi;
+axborot xavfsizligini ta’minlash bilan bog‘liq monitoringni o‘tkazishi;
+axborot xavfsizligi masalalari bo‘yicha takliflar tayyorlashi;
+axborot resurslari va axborot tizimlarida axborot xavfsizligi choralarini ko‘rish uchun talablarni belgilashi;
+bankning axborot resurslari va axborot tizimlarida axborot xavfsizligini ta’minlash va nazorat qilish bo‘yicha rejalarni
+tuzishi;
+konfidensial, shu jumladan bank sirini tashkil etuvchi va shaxsga doir ma’lumotlarning saqlanishini nazorat qilishi;
+axborot tizimlarida to‘xtash va avariya holatlari sodir bo‘lganda tizimlarni qayta tiklash jarayonida ishtirok etishi va
+axborot tizimlarining to‘liq ishchi holatiga kelishini nazorat qilishi;
+bank hujjatlariga muvofiq boshqa funksiyalarni amalga oshirishi kerak.
+6. Axborot xavfsizligi xizmatining vazifalari, vakolatlari va majburiyatlari bankning ichki hujjatlari bilan belgilanishi
+mumkin, bunda mazkur Nizom talablari inobatga olinadi. Axborot xavfsizligi xizmati o‘zining vazifa va majburiyatlarini
+bajarishga zarur bo‘lgan texnik resurslari bilan ta’minlanishi lozim.
+7. Axborot xavfsizligi xizmatining xodimlari soni unga yuklatilgan vazifalar, axborot resurslari va axborot tizimlari soni,
+axborot xavfsizligi tizimlarining avtomatlashtirilganlik darajasidan kelib chiqib belgilanadi.
+8. Axborot xavfsizligi xizmati va axborot texnologiyalari bo‘linmalari bank boshqaruvi organining turli a’zolariga
+bo‘ysunishi lozim, bunda axborot xavfsizligi xizmati to‘g‘ridan to‘g‘ri bank boshqaruvi raisiga bo‘ysunadi.
+9. Banklar har yili kamida bir marotaba axborot xavfsizligi xizmati xodimlarining malakasini oshirishni ta’minlashi kerak.
+10. Axborot xavfsizligi qonun hujjatlarida belgilangan talablar hamda bankning axborot xavfsizligiga oid ichki hujjatlari
+asosida ta’minlanadi.
+11. Bank axborot xavfsizligiga oid ichki siyosatini ishlab chiqishi va qabul qilishi lozim.
+Axborot xavfsizligiga oid siyosatda bankda mavjud bo‘lgan barcha axborot tizimlari va axborot resurslarida axborot
+xavfsizligini ta’minlash bo‘yicha talablar belgilanadi.
+12. Axborot xavfsizligiga oid ichki hujjatlar va ularda belgilangan talablar bankning har bir xodimiga tanishtirilishi lozim
+hamda ushbu talablarga xodimlar qat’iy rioya qilishlari kerak.
+13. Axborot resurslari va axborot tizimlarida axborot xavfsizligini ta’minlash bilan bog‘liq mazkur Nizomda belgilangan
+barcha chora-tadbirlar amalga oshirilganligi yozma yoki elektron shaklda o‘z tasdig‘iga ega bo‘lishi lozim.
+14. Agar bank filiallar tarmog‘iga ega bo‘lsa, har bir filialda bankning tasdiqlangan axborot xavfsizligiga oid hujjatlari
+to‘plami mavjud bo‘lishi kerak. Muayyan filiallarning xususiyatlarini hisobga olish zarur bo‘lsa, bank ushbu xususiyatlarni
+inobatga olgan holda o‘z ichki hujjatlarini ishlab chiqilishini ta’minlaydi.
+3-bob. Konfidensial ma’lumotlarning oshkor etilishidan himoyalash
+15. Bank qonun hujjatlari va o‘zining ichki hujjatlari bilan belgilangan konfidensial ma’lumotlarning oshkor etilmasligini
+ta’minlaydi.
+Bunda, bank tomonidan quyidagilar bajarilishi lozim:
+bankka yoki uning bo‘linmasiga taalluqli bo‘lgan konfidensial ma’lumotlar, shu jumladan bank sirini tashkil etuvchi va
+shaxsga doir ma’lumotlar ro‘yxatini belgilash;
+yetkazilgan zararni qoplash maqsadida har bir xodim bilan konfidensial ma’lumotlarni sir saqlash bo‘yicha
+majburiyatnomani imzolash;
+konfidensial ma’lumotlardan foydalanishga ruxsati mavjud bo‘lmagan xodimlarning ushbu ma’lumotdan
+foydalanilmasligini ta’minlash;
+konfidensial ma’lumotlarini o‘zida saqlovchi kompyuterlar va ulardagi hujjatlarning ishonchli saqlanishini ta’minlash;
+O‘zbekiston Respublikasining “Bank siri to‘g‘risida”gi va “Shaxsga doir ma’lumotlar to‘g‘risida”gi qonunlarida
+ko‘rsatilgan talablar bajarilishini ta’minlash;
+konfidensial ma’lumotlarni oshkor qilinishini oldini olishning boshqa choralarini ko‘rish.
+16. Telekommunikatsiya tarmog‘i orqali davlat siri toifasiga kiruvchi ma’lumotlar uzatilishi taqiqlanadi.
+4-bob. Axborot xavfsizligini ta’minlash tizimini tashkil etish va axborot xavfsizligi tavakkalchiligini boshqarish
+17. Bankda huquqiy, tashkiliy, texnik choralar va axborot muhofazasi tizimlari (qurilmalari) yig‘indilaridan iborat bo‘lgan
+axborot xavfsizligini ta’minlash tizimi tashkil etiladi.
+18. Axborot xavfsizligini ta’minlash tizimida foydalaniladigan axborotni muhofaza qilishning dasturiy-texnik vositalari
+litsenziyalangan va sertifikatlangan bo‘lishi lozim.
+19. Axborot xavfsizligini ta’minlash tizimi:
+axborot xavfsizligi tavakkalchiliklarini aniqlash, oldini olish va bartaraf etishni;
+barcha axborot tizimlari va axborot resurslarining axborot muhofazasini ta’minlashni;
+tajribadan o‘tgan yechimlarni qo‘llashni;
+yuqori ishonchga ega bo‘lgan, xizmat ko‘rsatilishi oson bo‘lgan tizim, qurilma va uskunalarni qo‘llashni;
+barcha jarayon va qurilmalardagi axborotlar bo‘yicha ma’lumotlar qayd etib borishni, axborot xavfsizligini buzilishi,
+dastur, qurilma va foydalanuvchilarning ishlaridagi o‘zgarishlarni aniqlashni;
+ish jarayoni soddaligi va maksimal darajada harakatlarni avtomatlashtirishni;
+muhofaza to‘siqlari bir necha pog‘onalarda tashkil etishni;
+axborot xavfsizligining uzluksizligini ta’minlashni;
+noxush hodisalarning oldini olish va yuzaga kelganda ularni bartaraf etish hamda axborot tizimlarning ish faoliyatini qayta
+tiklashni;
+axborot xavfsizligini doimiy mukammallashtirib borishni ta’minlaydi.
+20. Axborot xavfsizligini ta’minlash tizimi quyidagilarni amalga oshiradi:
+axborot xavfsizligini ta’minlash tizimlariga kirishni nazorat qilish;
+tarmoq xavfsizligini ta’minlash;
+axborot tizimlariga kirishni boshqarish va nazorat qilish;
+zarar keltiruvchi dasturdan (kompyuter viruslari va boshqalardan) muhofaza qilish;
+muhofaza qilinayotgan ma’lumotlar va dasturlarni nazorat qilish, qayta tiklash, butligini aniqlash, monitoringini yuritish;
+ma’lumotlarni qayta ishlash, saqlash va uzatilishida muhofazasini ta’minlash;
+veb-resurslar, ma’lumotlar bazasi, ma’lumotlar saqlash omborlari va boshqa axborot resurslarini turli axborot xavfsizligi
+xatarlaridan saqlash;
+axborot muhofazasini ta’minlanganlik darajasini tekshirish, tahlil qilish va baholash;
+elektron raqamli imzo kalitlari va sertifikatlarini taqsimlash, hisobini yuritish va boshqarish;
+ma’lumotlarning uchinchi shaxslarga oshkor bo‘lishini oldini olish.
+21. Banklar avtomatlashtirilgan tizimlarda xatoliklar va tashqi salbiy ta’sirlar natijasida yuzaga kelishi mumkin bo‘lgan
+axborot xavfsizligi tavakkalchiligini boshqarish tizimini yaratadi.
+22. Axborot xavfsizligi tavakkalchiligini boshqarish tizimi quyidagi funksiyalarni o‘z ichiga olishi kerak:
+axborot xavfsizligi tavakkalchiligini aniqlash, yig‘ish va ro‘yxatga olish, monitoring qilish, baholash, tavakkalchiliklarni
+kamaytirish va nazorat qilish;
+axborot xavfsizligi tavakkalchiligini boshqarish uchun xodimlarga vazifalar yuklash;
+tavakkalchiliklarni qayta ko‘rib chiqish.
+23. Axborot xavfsizligi xizmati axborot xavfsizligini ta’minlash tizimining nazoratini olib boradi va uzluksiz ishlashini
+ta’minlaydi.
+Axborot xavfsizligi xizmati tomonidan bankda axborot xavfsizligini ta’minlash yuzasidan ma’lum bo‘lgan tavakkalchilik
+va qo‘llaniladigan boshqarish vositalari va usullarining ro‘yxati tuzilishi hamda bank boshqaruvi raisi tomonidan tasdiqlanishi
+lozim.
+Bank axborot xavfsizligi tavakkalchiliklari ro‘yxatining dolzarbligini ta’minlashi kerak. Ehtimoli kam bo‘lgan, lekin katta
+zarar keltiruvchi tavakkalchiliklar ham axborot xavfsizligi tavakkalchiliklari ro‘yxatiga kiritiladi.
+24. Axborot xavfsizligi tavakkalchiligi doimiy ravishda axborot xavfsizligi xizmati tomonidan baholanib va tahlil qilinib
+boriladi. Axborot xavfsizligi xizmati bank boshqaruvi raisiga bank tavakkalchiliklari ortishi bo‘yicha tegishli ma’lumotlarni taqdim
+etib borishi lozim.
+25. Axborot xavfsizligi tavakkalchiligini boshqarish bo‘yicha amalga oshirilgan chora-tadbirlar natijalari hujjatlashtirilishi
+va yiliga kamida bir marotaba bank boshqaruvi raisi tomonidan ko‘rib chiqilishi hamda tavakkalchiliklarni bartaraf yuzasidan
+tegishli chora-tadbirlar o‘tkazilishi kerak.
+5-bob. Axborot xavfsizligi noxush hodisalarini bartaraf etish
+26. Banklarda axborot xavfsizligi siyosatining buzilishi quyidagi axborot xavfsizligi noxush hodisalariga olib keladi:
+axborot konfidensialligining buzilishi;
+axborot butligining buzilishi;
+texnologik jarayonning buzilishi;
+axborotdan erkin foydalanish huquqining buzilishi.
+27. Bankda noxush hodisalar to‘g‘risidagi ma’lumotlarni olish uchun monitoring tizimlari joriy etiladi. Bunda ushbu
+tizimlarning ishlashini monitoring qilish va yuzaga kelgan noxush hodisalarni bartaraf etish bo‘yicha doimiy ravishda ishlaydigan
+ishchi guruh tuziladi.
+28. Noxush hodisalarni bartaraf etish uchun tashqi ekspertlar yoki texnik xizmat ko‘rsatuvchi tashkilot mutaxassislari jalb
+qilinishi mumkin. Noxush hodisalarni bartaraf qilish uchun tashqi ekspertlar yoki texnik xizmat ko‘rsatuvchi tashkilot
+mutaxassislari jalb qilinganda, bank ular bilan konfidensial ma’lumotlarni oshkor qilmaslik to‘g‘risidagi shartnoma tuzishi lozim.
+29. Axborot xavfsizligi noxush hodisalari aniqlanganlik haqidagi ma’lumotlar axborot xavfsizligi bo‘yicha mas’ul xodim
+tomonidan hujjatlashtirib borilishi lozim.
+Axborot xavfsizligi bo‘yicha mas’ul xodim noxush hodisa aniqlangan holatda axborot xavfsizligi monitoringi tizimi
+ma’lumotlaridan foydalanishi va axborot xavfsizligi noxush hodisa ro‘y bergan vaqtdagi axborot tizimlarining elektron jurnallari
+butligini ta’minlashi kerak.
+30. Banklar texnik vositalardan foydalanganda noxush hodisalarni aniqlash maqsadida quyidagilarni ta’minlashlari zarur:
+texnik vositalardan ruxsatsiz foydalanishni taqiqlash;
+texnika vositalarni ruxsatsiz o‘chirib qo‘yilishidan himoya qilish;
+monitoring va axborot xavfsizligi noxush hodisalarining elektron bayonnomalarini elektron arxivda saqlash va ruxsatsiz
+o‘zgartirish yoki yo‘q qilishdan himoyalash.
+31. Ish jarayonida noxush hodisalar aniqlanganda bank xodimlari bu haqda zudlik bilan axborot xavfsizligi xizmatini
+xabardor qilishlari kerak.
+Noxush hodisalar sodir etilgan vaqtda axborot xavfsizligi xizmati amalga oshiradigan harakatlari bankning ichki
+hujjatlarida belgilanadi.
+32. Bank sodir bo‘lgan noxush hodisa to‘g‘risida O‘zbekiston Respublikasi Markaziy bankiga (bundan buyon matnda
+Markaziy bank deb yuritiladi) zudlik bilan yozma yoki elektron shaklda xabar berishi lozim.
+6-bob. Avtomatlashtirilgan bank tizimiga kirishni boshqarish
+33. Banklar avtomatlashtirilgan bank tizimiga kirish va ushbu tizimdan foydalanuvchilarning ishlash tartibini ishlab
+chiqishi kerak. Bunda yangi foydalanuvchilarning avtomatlashtirilgan bank tizimiga kirish va ushbu tizimga kirish huquqi bekor
+bo‘lgan foydalanuvchilarni undan chiqarish qoidalari inobatga olinishi lozim.
+34. Yangi foydalanuvchilar avtomatlashtirilgan bank tizimiga axborot xavfsizligi xizmatining ruxsati berilgandan hamda
+amalga oshirilishi va buning uchun kerakli texnik choralar ko‘rilgandan keyin kiritiladi.
+35. Axborot xavfsizligi xizmati avtomatlashtirilgan bank tizimiga kirishga ruxsat berilgan foydalanuvchilar ro‘yxatini
+hamda ularning ushbu tizimdan foydalanishi bankda o‘rnatilgan tartibga muvofiqligini nazorat qiladi.
+36. Bank avtomatlashtirilgan bank tizimiga ruxsatsiz kirishning oldini olish choralarini ko‘radi.
+Bank xodimi ishdan bo‘shaganda, ushbu xodimning tizimga kirish huquqlari 1 kundan kechiktirmasdan bekor qilinishi
+kerak. Lavozimi o‘zgargan xodimga ishlash huquqlari yangidan berilishi lozim.
+37. Bank avtomatlashtirilgan bank tizimidan ruxsatsiz foydalanishning oldini olish maqsadida:
+foydalanuvchilarni identifikatsiya va autentifikatsiya qilishi hamda ushbu jarayonni boshqarishi;
+muvaffaqiyatsiz kirishga urinishlarni aniqlash va kirish imkoniyatlarini cheklash;
+foydalanuvchining ma’lum bir vaqt oralig‘ida harakatsizligi yoki yangidan kirish harakati aniqlanganda ish sessiyasini
+to‘xtatish;
+foydalanuvchining avtomatlashtirilgan bank tizimi sozlanishlarini (parametrlarini) o‘zgartirish imkoniyatini cheklash.
+38. Axborot tizimlarida to‘lovlarga oid ma’lumotlarni kiritish, o‘zgartirish, tasdiqlash, o‘chirish huquqiga ega bo‘lgan
+foydalanuvchilarning autentifikatsiya qilinishi apparat-dasturiy qurilmalarni qo‘llash orqali amalga oshiriladi.
+Ushbu apparat-dasturiy qurilmalar shaxsiy qo‘llanishga berilgan bo‘lishi kerak. Bunda har bir foydalanuvchi tizimga
+kirish uchun uning o‘ziga ajratilgan apparat-dasturiy qurilmadan foydalanishi lozim.
+39. Masofadan bank xizmatlarini ko‘rsatishning barcha jarayonlarida axborot xavfsizligini ta’minlash choralari bankning
+ichki hujjatlarida belgilanadi.
+Masofadan bank xizmatlarini ko‘rsatish tizimida foydalanuvchilarning tizimga kirishi, axborot almashinuvi va ularning
+amallari to‘g‘risidagi to‘liq ma’lumotlar (IP va/yoki MAC manzili, mobil telefondan foydalanganda — IMEI-kod) elektron
+bayonnomalarda qayd etib borilishi kerak.
+7-bob. Ma’lumotlar bazasini boshqarish tizimi
+40. Banklar avtomatlashtirilgan bank tizimining ma’lumotlar bazasi sozlanishlarida xatoliklarni oldini olishi va
+tajovuzkorning quyidagi harakatlarini cheklashlari kerak:
+ma’lumotlar bazasiga kirish;
+ma’lumotlar bazasining maxsus interfeysini qo‘llash, komandalar kiritish va dasturlarni ishlatish;
+administrator va foydalanuvchilar parollarini bilib olish;
+ma’lumotlar bazasining tizim fayllariga kirish;
+zararli dasturlar o‘rnatish;
+serverning ilova dasturlariga egalik qilish;
+ma’lumotlar bazasi va serverga masofadan hujum qilish.
+41. Banklar avtomatlashtirilgan bank tizimining ma’lumotlar bazasiga kiritiladigan barcha dasturiy o‘zgartirishlarni
+hujjatlashtirish va kiritilgan o‘zgartirishlarning hisobini yuritilishi lozim.
+Ishchi stansiyalar va boshqa hisoblash texnikalarining operatsion tizimi, antivirus dasturi va boshqa dasturiy
+o‘zgartirishlar test-sinov ishlari yakuniga ko‘ra ishga tushiriladi. Ma’lumotlar bazasiga kiritiladigan barcha dasturiy o‘zgartirishlar
+avval test-sinov serverida tekshirilishi hamda ijobiy natijaga erishilganda ishchi serverga joriy etilishi lozim.
+Banklar avtomatlashtirilgan bank tizimining ma’lumotlar bazasiga dasturiy o‘zgartirishlarni test-sinovdan o‘tkazish, ularni
+ushbu bazaga kiritish hamda kiritilgan o‘zgartirishlarni hujjatlashtirish va ularning hisobini yuritish axborot xavfsizligi xizmati
+tomonidan axborotlashtirish bo‘yicha mas’ul xodim bilan birgalikda amalga oshiriladi.
+42. Ma’lumotlar bazasida o‘rnatilgan serverning ish jarayoni uchun zarur bo‘lmagan xizmatlar to‘xtatilishi va axborot
+portlari yopib qo‘yilishi lozim. Ishlatiladigan axborot portlarining ro‘yxati foydalanish maqsadi ko‘rsatilgan holda bank boshqaruvi
+raisi tomonidan tasdiqlanadi.
+43. Ma’lumotlar bazasining administratori va ma’lumotlar bazasida axborot xavfsizligini ta’minlovchi xodimlarning
+vazifalari, vakolatlari va javobgarliklari bankning ichki hujjatlari bilan belgilanadi.
+44. Ma’lumotlar bazasi administratorining paroli 12 ta belgidan kam bo‘lmasligi lozim, bunda parolning belgilari sifatida
+pastki va yuqori registr harflari, raqamlar va maxsus belgilardan (@,#-, $, &, % va h.k.) qo‘llaniladi.
+8-bob. Tarmoq xavfsizligi
+45. Tarmoq xavfsizligini loyihalashtirish, joriy etish va boshqarish quyidagi standartlar asosida amalga oshiriladi:
+O’z DSt ISO/IEC 27033-1:2016 “Axborot texnologiyasi. Xavfsizlikni ta’minlash usullari. Tarmoq xavfsizligi. 1-qism.
+Sharh va konsepsiyalar”;
+O’z DSt ISO/IEC 27033-2:2016 “Axborot texnologiyasi. Xavfsizlikni ta’minlash usullari. Tarmoq xavfsizligi. 2-qism.
+Tarmoq xavfsizligini loyihalashtirish va joriy etish bo‘yicha rahbariy ko‘rsatmalar”;
+O’z DSt ISO/IEC 27033-4:2016 “Axborot texnologiyasi. Xavfsizlikni ta’minlash usullari. Tarmoq xavfsizligi. 4-qism.
+Xavfsizlik shlyuzlarini qo‘llagan holda tarmoqlararo xavfsizligini ta’minlash uchun kommunikatsiyalar”;
+O’z DSt ISO/IEC 27033-5:2016 “Axborot texnologiyasi. Xavfsizlikni ta’minlash usullari. Tarmoq xavfsizligi. 5-qism.
+Virtual xususiy tarmoqlarni qo‘llagan holda tarmoqlararo xavfsizligini ta’minlash uchun kommunikatsiyalar”.
+46. Banklar tarmoq xavfsizligini ta’minlash uchun quyidagi shartlarni bajarishi kerak:
+korporativ tarmoq va axborot tizimlarining o‘zaro bog‘lanishida telekommunikatsiya va tarmoq servislari uzluksiz ishlashi
+va xavfsizligini ta’minlashi;
+tarmoq komponentlari, dasturlari, ma’lumotlari butligini ta’minlashi;
+tarmoqlarni imkon qadar darajada alohida segmentlarga bo‘lishi;
+ma’lumotlarni tarmoqlararo axborot almashinuvida konfidensialligini ta’minlashi va tarmoqda ruxsatsiz harakatlarning
+oldini olishi.
+47. Korporativ tarmoqqa faqat ruxsat berilgan qurilmalar (hisoblash texnikasi) bog‘lanishiga ruxsat berilishi lozim.
+48. Korporativ tarmoqda axborot almashinuvining elektron bayonnomasi yuritilishi va elektron bayonnomada tizimga
+kirgan foydalanuvchining nomi (user name), vaqti, IP va/yoki qurilmaning MAC manzili qayd etib borilishi kerak.
+49. Banklar tomonidan tashkil etilgan korporativ tarmoqning (Markaziy bank tarmog‘iga, Internet jahon axborot
+tarmog‘iga, telekommunikatsiya provaydyerlariga, filiallarga va boshqa tarmoqlarga bog‘lanish) chizmasi Markaziy bank bilan
+kelishiladi.
+50. Korporativ tarmoq xavfsizligining to‘liq nazorati va monitoringi doimiy ravishda axborot xavfsizligi xizmati
+tomonidan amalga oshiriladi.
+51. Bankning tarmoqlararo axborot almashinuvi xususiy virtual tarmoqlar (VPN) tashkil etilish yo‘li bilan
+muhofazalanadi.
+Korporativ tarmoqda ilova servyerlari bilan foydalanuvchilar o‘zaro axborot almashinuvida himoyalangan protokol
+qo‘llanilishi lozim.
+52. Bankning lokal hisoblash tarmog‘iga boshqa tarmoqlardan yoki binoning tashqarisidan kiruvchi kabellari orqali
+bog‘lanish (kirish) nuqtalari tarmoqlararo ekran bilan muhofazalanadi.
+53. Telekommunikatsiya shkaflari qulflanishi va videokuzatuv tizimlari orqali nazoratga olingan bo‘lishi lozim.
+Lokal hisoblash tarmoqlari kabellarini telekommunikatsiya shkaflari bilan hisoblash texnikalari, bankomat va boshqa
+qurilmalarning bog‘lanish nuqtalarigacha muhofazalanmagan tarzda o‘tkazilishi taqiqlanadi.
+54. Bankning barcha bo‘linmalari lokal hisoblash tarmog‘ida virtual mahalliy tarmoqlar (VLAN) hosil qilish yo‘li bilan
+bir-biridan ajratilishi lozim.
+55. Banklarda tarmoq xavfsizligi doimiy ravishda monitoring (nazorat) qilinib boriladi.
+Tarmoq xavfsizligi monitoringi bo‘yicha mas’ul xodim tarmoqdagi axborot xavfsizligi hodisalarini bir joyga jamlashi va
+tarmoqda yangi qurilma paydo bo‘lishi, kompyuter virusi aniqlanganligi, Internet jahon axborot tarmog‘idan (bundan buyon
+matnda internet tarmog‘i deb yuritiladi) kirishga urinishlar, bankomatning tarmoqdan uzilishi, serverning qizib ketishi kabi turli
+holatlar bo‘yicha ma’lumotlarni zudlik bilan axborot xavfsizligi xizmatiga xabar beradi hamda barcha tahliliy ma’lumotlarni
+elektron tarzda saqlanishini ta’minlaydi.
+56. Bankda tarmoq xavfsizligi dasturiy ta’minoti va texnik vositalarning holatlarini monitoring qilib borilishi, statistik
+ma’lumotlar yig‘ilishi va ularni tahlil qilinishi, yuzaga kelayotgan muammolarni ilk bosqichida aniqlanishi va ular asosida
+favqulodda vaziyatlar paydo bo‘lishining oldi olinishi lozim.
+57. Banklar tajovuslarni aniqlash tizimi (bundan buyon matnda IDS deb yuritiladi) va tajovuslarni oldini olish tizimini
+(bundan buyon matnda IPS deb yuritiladi) qo‘llash lozim, ya’ni bank tarmoq ichida noodatiy harakatlarni va lokal hisoblash
+tarmoqlaridagi hujumlarni aniqlash, oldini olish va to‘sish uchun mo‘ljallangan dasturiy yoki dasturiy-apparat vositalarni joriy
+etishlari lozim.
+Banklarda real vaqtda tarmoq dasturlari ishlashidan og‘ishlar, shuningdek kompyuter tizimi yoki tarmoqdan ruxsat
+etilmagan foydalanish (ruxsatsiz kirish yoki tarmoqqa hujumlar) faktlari aniqlanishi kerak. IDS/IPS tizimlari tarmoqlararo
+ekranlarga qo‘shimcha bo‘ladi va ularning ishlari axborot xavfsizligi siyosati asosida tashkil etiladi, IDS/IPS tizimlari shubhali
+operatsiyalar monitoringini amalga oshiradi va ularni kuzatib boradi. Bank IDS/IPS tizimlarining bazasini aktual holatda bo‘lishini
+ta’minlaydi.
+IPS/IDS tizimlari tarmoq infratuzilmasining miqyosi servyerlar va kommutatsiya uskunalari (marshrutizatorlar,
+kommutatorlar, aloqa liniyalari) interfeyslarining o‘tkazish qobiliyatidan kelib chiqib tanlanadi va joriy etiladi. Agar
+telekommunikatsiya qurilmalari ma’nan eskirgan bo‘lsa va IPS/IDS tizimlarining ishlash imkoniyatini bermasa, ushbu qurilmalar
+yangilanishi lozim.
+58. Banklarda qo‘llaniladigan tarmoqlararo ekranlar O‘z DSt 2815:2014 “Axborot texnologiyalari. Tarmoqlararo ekran.”
+standarti talablarining kamida birinchi yoki ikkinchi toifasiga mos bo‘lishi kerak.
+Tarmoqlararo ekranlarning sozlanishlari tasdiqlanishi, ruxsat berilgan axborot almashinuvi protokollari asoslangan
+bo‘lishi, sozlanishlarga kiritiladigan o‘zgartirishlar bank tomonidan belgilangan tartibda amalga oshiriladi.
+59. Asosiy va zaxira tarmoqlararo ekranlarni sozlamalari bir xil bo‘lishi ta’minlanishi lozim. Bankda tarmoqlararo ekran
+sozlanishlari aktual holda elektron arxivda saqlanishi kerak.
+60. Tarmoqlararo ekran va proksi-server elektron bayonnomalari axborot xavfsizligi xizmati tomonidan tahlil qilinib
+boriladi va tashqi hujumlar aniqlanganida shu kunning o‘zida Markaziy bankka xabar beriladi.
+9-bob. Elektron pochta va internet tarmog‘idan foydalanish
+61. Bank o‘zining ichki elektron pochta tizimi serverini bankning lokal hisoblash tarmog‘ida yaratadi.
+Tezkor xabarlar bilan almashish tizimlari (messenger) yoki dasturlaridan foydalanish, bank tomonidan internet
+tarmog‘idan va elektron pochta tizimlaridan foydalanishda axborot muhofazasini ta’minlash, xodimlarni tizimga kiritish, ularga
+cheklovlar qo‘yish, javobgarlik, xodimlar harakati va tizim axborot xavfsizligi ustidan nazorat qilish bankning ichki hujjatlarida
+belgilanadi.
+62. Bank tomonidan konfidensial ma’lumotlar elektron pochta tizimi orqali yuborilganda, ma’lumotlar shifrlanishi va
+elektron raqamli imzo bilan tasdiqlanishi lozim. Bank faoliyatiga tegishli bo‘lmagan ma’lumotlarni elektron pochta orqali uzatilishi
+taqiqlanadi.
+63. Bank o‘zining bo‘limlari va filiallari o‘rtasida axborot almashinuvi uchun elektron hujjat aylanishi dasturlari yoki
+bank ichki elektron pochta tizimi orqali amalga oshiriladi.
+64. Fayllarni uzatish protokoli (FTP) serverida tashkil qilingan umumiy katalog orqali fayl almashinishuvini amalga
+oshirish va bank siri ma’lumotlarini tarmoqda erkin o‘qish uchun joylashtirish taqiqlanadi.
+65. Bank tomonidan internet va elektron pochta orqali yuborishga tayyorlangan yoki qabul qilingan har bir elektron
+ma’lumot antivirus dasturi yordamida tekshirilishi shart. Elektron pochta orqali qabul qilingan ma’lumotlar zarar keltirmasligi
+maxsus hududda tekshirilishi lozim (Sandbox tizimi).
+66. Bank o‘zining elektron pochta tizimi hamda internet tarmog‘idan foydalanish tartibini ichki hujjatlari bilan belgilaydi
+hamda elektron pochta orqali yuborilgan va qabul qilingan ma’lumotlarni axborot xavfsizligi xizmati tomonidan nazorat qilinishini
+ta’minlaydi. Bunda faqat ruxsat berilgan foydalanuvchilar internet tarmog‘idan foydalanishi va internet tarmog‘idan foydalanishda
+axborot xavfsizligi choralari ko‘rilishi kerak.
+67. Internet tarmog‘i va bank telekommunikatsiya tarmog‘i alohida marshrutizator (router) va alohida tarmoqlararo ekran
+(firewall) qurilmalari orqali jismonan ulanishi zarur.
+Avtomatlashtirilgan bank tizimiga bog‘langan kompyuter va servyerlarni internet tarmog‘iga to‘g‘ridan to‘g‘ri jismonan
+bog‘lash taqiqlanadi.
+68. Avtomatlashtirilgan bank tizimi ma’lumotlar bazasi servyerlari, dastur servyerlari, to‘lov tizimi ma’lumotlarini qayta
+ishlovchi barcha servyerlar, internet tarmog‘iga bog‘lanuvchi hamda bankning ish faoliyatida qatnashuvchi boshqa servyerlari
+bankda tashkil etilgan va muhofaza qilinishi ta’minlangan alohida ajratilgan lokal tarmoqning demilitarizatsiya qilingan zonalarida
+(DMZ) joylashtirilishi kerak. Demilitarizatsiya qilingan zonalar (DMZ) bankning ichki lokal tarmoqlari va tashqi
+telekommunikatsiya tarmoqlaridan tarmoqlararo ekranlar yordamida muhofazalanadi. Demilitarizatsiya qilingan zonalarda (DMZ)
+hujumni aniqlash va uning oldini olish bo‘yicha tizimlar, antivirus hamda mazkur Nizomda keltirilgan tarmoq muhofazasini
+ta’minlash tizimlari joriy etilishi kerak.
+69. Axborot muhofazasini kuchaytirish maqsadida tarmoq protokolida (TCP/IP) tarmoq tranzit paketlarining IP
+manzillarini o‘zgartirish imkonini beruvchi tarmoq adreslarini o‘zgartirish protokoli (NAT) qo‘llanilishi mumkin. Bunda tarmoq
+orqali barcha ulanishlarning elektron jurnallari asl IP manzillar ko‘rsatilgan xolda yuritilishi va belgilangan tartibda elektron
+arxivga olinishi lozim.
+70. Internet tarmog‘idan foydalanish tartibi nazoratga olingan bo‘lishi va bank xodimlarining internet tarmog‘idan
+foydalanishlari ularning lavozim yo‘riqnomasiga ko‘ra belgilanishi lozim.
+Internet tarmog‘idan foydalangan xodimning logini, foydalanish vaqti, resurs nomi va boshqa ma’lumotlar aks ettirilgan
+elektron bayonnomalar yuritilishi kerak. Axborot xavfsizligi xizmati ushbu elektron bayonnomalarni tahlil qilib boradi.
+71. Internet tarmog‘idan foydalanishda axborot muhofazasini ta’minlash tarmoqlararo ekran, proksi-server, antivirus,
+ruxsatsiz kirishni aniqlash va oldini olish (IDS/IPS) va boshqa axborot xavfsizligi tizimlarini qo‘llash yo‘li bilan amalga oshiriladi.
+72. Bank tarmog‘i va kompyuterlariga modemlarni yoki uyali telefonlarni ulash, shuningdek internet tarmog‘ida ishlashda
+tashqi proksi-servyerlardan foydalanish va bankning ichki lokal tarmog‘ini simsiz tashkil etish va bank kompyuterlarida simsiz
+axborot almashinuvi tizimlaridan foydalanishga yo‘l qo‘yilmasligini ta’minlashi kerak.
+73. Mijozlar va bank iste’molchilari uchun qulayliklar yaratish maqsadida bank binosida Wi-Fi zonalari tashkil etilishi
+mumkin, bunda Wi-Fi texnologiyasi bank ichki lokal tarmog‘idan jismonan ajratilgan bo‘lishi va axborot xavfsizligi ta’minlanishi
+kerak.
+10-bob. Texnik vositalarni boshqarish tizimi
+74. Banklar avtomatlashtirilgan bank tizimida tarmoq obyektlari bo‘lgan foydalanuvchilar, kompyuterlar, servyerlar va
+boshqa texnik vositalarni boshqarish (Active Directory yoki boshqa muqobil) tizimini joriy etadi.
+Bunda ushbu tizim yordamida kompyuterlarda foydalanuvchilar tomonidan faqat o‘zlarining ish faoliyatiga tegishli
+bo‘lgan dasturlar ishlatilishini, kompyuterlarga kirish himoyalanishi (parollar) ta’minlanadi.
+Ishlatishga yo‘l qo‘yiladigan dasturlar ro‘yxati bank tomonidan belgilanadi. Ro‘yxatda bo‘lmagan barcha dasturlarni
+ishlatish va qo‘shimcha dasturlar o‘rnatish kabi harakatlar taqiqlanadi.
+75. Texnik vositalarni boshqarish tizimi administrator tomonidan amalga oshiriladi, bunda axborot xavfsizligi xizmati
+administratorning tizimdagi barcha harakatlarini nazorat qilishi kerak.
+76. Axborot xavfsizligi xizmati kamida bir oyda bir marotaba texnik vositalarni boshqarish tizimi sozlamalarini va
+elektron bayonnomalarini tahlil qilishi, texnik vositalardan foydalanishda bank axborot xavfsizligiga oid siyosat talablari
+bajarilishini nazorat qilishi kerak.
+11-bob. Ma’lumotlarni ruxsatsiz tarqalishidan himoyalash tizimi va antivirus muhofazasi
+77. Banklar axborot tizimlaridan ruxsatsiz ma’lumotlar uzatilishining oldini olish choralarini ko‘rishlari kerak, bunda
+banklar tomonidan ma’lumotlarni ruxsatsiz tarqalishidan himoyalash tizimi (DLP) joriy etiladi.
+78. Ma’lumotlarni himoyalash qilishda banklar tomonidan:
+muhofazalanadigan ma’lumotlarni ruxsatsiz turli tarmoq kanallari orqali uzatilishini, ruxsatsiz hisobga olinmagan tashqi
+tashuvchiga ko‘chirilishini, ruxsatsiz chop etilishini aniqlash, bank rahbariyatiga bu haqda ma’lumot berish va kelgusida bu kabi
+salbiy holatlar bo‘lmasligini oldini olish choralari ko‘rilishi;
+muhofazalanadigan ma’lumotlarni server va kompyuterlarda saqlanishi nazorat qilinishi lozim.
+79. Nazorat qilish tartib-qoidalari bankning ichki hujjatlari bilan belgilanadi, bunda ma’lumotlarni ruxsatsiz tarqalishidan
+himoyalash mas’ul xodim tomonidan amalga oshiriladi.
+80. Banklarda axborot tizimlaridagi ma’lumotlarning xavfsizligini ta’minlash uchun antivirus dasturlari o‘rnatilishi kerak.
+81. Bankda antivirus dasturlarining o‘rnatilishi hamda uning ishlashi axborot xavfsizligi xizmati va mas’ul xodim
+tomonidan nazorat qilinadi.
+82. Banklar kompyuter virusi aniqlanganda, ularning tarmoq orqali tarqalishini oldini olish maqsadida amalga
+oshiriladigan choralarni belgilashi kerak.
+Bankda kompyuter virusi aniqlanganda, virusning kelib chiqishi va uning turi haqida Markaziy bankka axborot beriladi.
+83. Kompyuterdagi antivirus dasturining sozlamalarini bank xodimlari tomonidan o‘zgartirish imkoniyati bo‘lmasligi
+kerak. Kompyuter virusi aniqlanganda xodimlar tomonidan amalga oshiriladigan harakatlar banklar tomonidan belgilanadi.
+Banklar antivirus himoyasi bo‘yicha litsenziyalangan dasturlarga ega bo‘lishlari lozim.
+84. Banklar tomonidan antivirus dasturlarini markazlashgan holda boshqarish tizimi joriy etilishi, antivirus dasturlari
+bazalari xar kuni yangilanib borilishi, antivirus dasturi rusumi aktual (ma’nan eskirmagan) bo‘lishi ta’minlanishi lozim.
+85. Antivirus dasturlari servyerlar, kompyuterlar, bankomatlar, infokiosklar va boshqa barcha antivirus dasturlari
+o‘rnatilishi mumkin bo‘lgan hisoblash vositalariga hamda qurilmalarga o‘rnatilgan bo‘lishi lozim.
+12-bob. Elektron raqamli imzo va shifrlash kalitlaridan foydalanish
+86. Banklarda elektron hujjatlarning asliga to‘g‘riligini tasdiqlash va tashqi muhit ta’siridan muhofazalash uchun elektron
+raqamli imzo va shifrlash kalitlari qo‘llaniladi.
+87. Banklar tashqi tizimlar bilan o‘zaro ishlashida bank tavakkalchiliklardan kelib chiqqan holda elektron raqamli imzo va
+shifrlash kalitlarini qo‘llash bo‘yicha talablarni o‘zaro kelishgan holda amalga oshiradi.
+88. Avtomatlashtirilgan bank tizimi foydalanuvchilarning elektron raqamli imzolari maxsus qurilmalarga (yoki mobil
+qurilmalarga) yozilgan bo‘lishi hamda har qanday usul bilan ruxsatsiz nusxa olishdan himoyalangan bo‘lishi lozim.
+89. Elektron to‘lov hujjatlarini kirituvchi, tasdiqlovchi va elektron to‘lovlar bilan tegishli amallarni (bosh buxgalter,
+so‘nggi nazorat) bajaruvchi barcha mas’ul xodimlar elektron raqamli imzo bilan ta’minlangan bo‘lishlari va avtomatlashtirilgan
+bank tizimlarida ushbu elektron raqamli imzodan foydalanishlari zarur.
+90. Banklar tarmoq orqali uzatilayotgan to‘lov ma’lumotlari elektron raqamli imzo va shifrlash kalitlari qo‘llanilgan holda
+himoya qilinishini ta’minlaydi.
+91. Elektron raqamli imzo kaliti sertifikatining amal qilish muddati elektron raqamli imzo ro‘yxatga olingan vaqtdan
+boshlab 24 oydan oshmasligi kerak.
+Foydalanuvchilarning elektron raqamli imzo ochiq kalitlarini avtomatlashtirilgan bank tizimida ro‘yxatga olinishi va
+hisobi yuritilishi kerak. Bunda bank tomonidan elektron raqamli imzo kalitlarini ro‘yxatga olish markazining ishlash tartibini
+belgilanadi.
+92. Elektron raqamli imzo kalitining sertifikati ro‘yxatga olish markazi orqali yaratiladi, bunda sertifikatga quyidagi
+ma’lumotlar kiritiladi:
+elektron raqamli imzo yopiq kalitining egasi bo‘lgan jismoniy shaxsning familiyasi, ismi, otasining ismi;
+Oldingi tahrirga qarang.
+
+xodimning lavozimi, shaxsini tasdiqlovchi hujjat ma’lumotlari;
+(92-bandning uchinchi xatboshisi O‘zbekiston Respublikasi Markaziy banki boshqaruvining 2020-yil 31-dekabrdagi 28/7-sonli
+qarori (ro‘yxat raqami 3285, 26.01.2021-y.) tahririda — Qonun hujjatlari ma’lumotlari milliy bazasi, 26.01.2021-y., 10/21/3285/0073-son)
+
+jismoniy shaxsning shaxsiy identifikatsiya raqami;
+elektron raqamli imzoning ochiq kaliti;
+mazkur sertifikatni bergan ro‘yxatga olish markazining nomi va joylashgan manzili;
+elektron raqamli imzodan foydalanish maqsadlari to‘g‘risidagi ma’lumotlar;
+elektron raqamli imzolar kalitlari sertifikatlari reyestrining elektron manzili.
+93. Elektron raqamli imzo va shifrlash kalitlari yaratilishi jarayonlari muhofazalanishi lozim.
+94. Elektron raqamli imzoning yopiq kalitidan faqat uning egasi foydalanishi lozim.
+Bank tizimidagi elektron raqamli imzo kalitlari qo‘llanilishi axborot xavfsizligi xizmati tomonidan nazorat qilinadi.
+95. Elektron raqamli imzo bilan tasdiqlanmagan va shifrlash jarayonidan o‘tmagan elektron to‘lovlar qayta ishlash uchun
+qabul qilinishi taqiqlanadi.
+96. Markaziy bank tomonidan berilgan elektron raqamli imzo kalitlari buzilganda, yo‘qotilganda va boshqa o‘xshash
+holatlarda banklar elektron raqamli imzoning yangilanish sabablarini batafsil ko‘rsatgan holda Markaziy bankka murojaat qiladi.
+Markaziy bank murojaat asosida 1 kun ichida elektron raqamli imzoni yangilab beradi.
+13-bob. Elektron arxivni tashkil qilish, elektron arxiv hujjatlarining tarkibi
+97. Elektron arxiv bank arxivining tarkibiy bo‘linmasi sifatida tashkil qilinadi.
+98. Elektron arxiv o‘zining elektron arxiv axborot tizimiga ega bo‘lishi va uning axborot resurslari shakllantirilishi lozim.
+99. Elektron arxivning asosiy vazifalari quyidagilardan iborat bo‘lishi kerak:
+elektron hujjatlarni jamlash, hisobga olish, ularni saqlash, shuningdek ulardan foydalanishni ta’minlash;
+axborot resurslarining arxiv nusxalarini tayyorlash va ularni qonun hujjatlarida belgilangan muddatlarda davlat saqloviga
+topshirish;
+elektron hujjatlarni rasmiylashtirish bo‘yicha bankning tarkibiy bo‘linmalariga uslubiy yordam ko‘rsatish;
+elektron arxivning axborot resursini axborot xavfsizligini ta’minlash.
+100. Elektron arxiv hujjatlari tarkibiga quyidagi axborot resurslari kirishi lozim:
+bank amaliyoti kuni elektron ma’lumotlarining to‘liq bazasi;
+muddati tugagan shifrlash va elektron raqamli imzo kalitlarining ochiq kalitlari;
+bank amaliyot kuni dasturlari va boshqa alohida bankda foydalanilayotgan dasturlar majmuasi;
+elektron to‘lov tizimlariga bog‘liq dasturlarining, dasturiy va apparat-dasturiy tarmoq qurilmalarining hamda axborot
+xavfsizligi noxush hodisalari bilan bog‘liq elektron bayonnomalari;
+elektron pochta orqali qabul qilingan va uzatilgan to‘lovlarga tegishli (farmoyish, qaror va boshqa) hujjatlar;
+shifrlangan va shifrlanmagan ko‘rinishdagi barcha kiruvchi va chiquvchi elektron to‘lov hujjatlari;
+tijorat banklarining kredit va boshqa bank operatsiyalariga taalluqli ma’lumotlari;
+banklarning boshqaruv tizimiga oid ma’lumotlar.
+101. Banklar o‘zining siyosati, mavjud bo‘lgan axborot tizimlari va bank oldiga qo‘yilgan talablardan kelib chiqib,
+elektron arxivda saqlanuvchi ma’lumotlar ro‘yxatini belgilashi mumkin, bunda ushbu ro‘yxat mazkur Nizom talablarini inobatga
+olishi shart.
+102. Elektron arxiv belgilangan vazifalarini bajarish uchun tegishli texnik qurilma-vositalar va dasturlar bilan
+ta’minlangan bo‘lishi kerak.
+Elektron arxivning axborot resursi tashqi saqlovchilarga ko‘chirilib, seyfda yoki temir shkafda saqlanishi lozim.
+103. Asosiy ish jarayonidagi ma’lumotlar va ularning xotirasida (server disklarida) saqlanayotgan ma’lumotlar elektron
+arxivning axborot resursi hisoblanmaydi.
+104. Banklari elektron arxivning axborot resursi nusxalarini saqlanishi uchun kamida ikkita saqlash joylarini tashkil
+etishlari lozim.
+Elektron arxiv har kuni dasturiy ravishda axborot resursini shakllantirishi (arxivlanishi), elektron axborot tashuvchi
+vositalarga yozilishi jarayoni elektron jurnalda qayd etib borilishi lozim. Elektron jurnalda axborot resursiga ko‘chirilgan
+axborotlar to‘g‘risida (vaqti, nomi, hajmi va boshqa) ma’lumotlar hamda elektron arxiv butligini aniqlash maqsadida ushbu
+axborotlarning xesh summasi (nazorat raqamlari) qayd etib borilishi kerak. Elektron arxivning mas’ul xodimi ushbu ishlarni
+amalga oshirganligi to‘g‘risida maxsus daftarda qayd qilib boradi.
+105. Bankning ichki audit xizmati xodimi har oyda kamida bir marta elektron arxivning ishlarini tekshirishi va tekshiruv
+natijalarini arxiv ishlarini qayd etish maxsus daftariga kiritib borishi zarur. Kamchiliklar aniqlangan taqdirda bankning ichki audit
+xizmati tomonidan dalolatnoma rasmiylashtirilishi va kamchiliklarni bartaraf etish choralari ko‘rilishi tashkillashtiriladi.
+106. Elektron arxiv tomonidan elektron arxivning axborot resursi ma’lumotlari har olti oyda bir marta butligi yuzasidan
+tekshirib turiladi hamda ushbu tekshirish natijalari maxsus daftarda yuritiladi. Agar elektron arxiv axborot resurslari ma’lumotlari
+qisman yoki umuman buzilganligi aniqlansa, tegishli ma’lumotlar qayta tiklanishi va bu haqida dalolatnoma tuzilishi lozim.
+107. Elektron arxivga topshirilgan elektron hujjatlarning (elektron resurslarning) saqlanish muddati, qog‘oz asosdagi
+hujjatlar uchun o‘rnatilgan muddatlardan kam bo‘lmasligi lozim.
+Bank tomonidan saqlanish muddati doimiy bo‘lgan elektron ma’lumotlar, idoraviy arxivda o‘n besh yil mobaynida
+saqlangandan so‘ng, bir nusxasi o‘rnatilgan tartibda davlat arxivlariga topshirilishi lozim.
+108. Bankning filiallari faoliyati tugatilganda elektron arxivning axborot resursi bankning hududiy filiallariga, hududiy
+filiallari mavjud bo‘lmagan banklar Bosh bankka belgilangan tartibda topshiriladi. Bank faoliyati tugatilib boshqa bankka qo‘shib
+yuborilganida, elektron arxiv ma’lumotlari qo‘shib yuborilayotgan bank elektron arxiviga belgilangan tartibda topshiriladi.
+109. Bank faoliyati tugatilganda elektron arxivning axborot resurslari Davlat arxiviga topshiriladi.
+110. Elektron arxiv xodim(lar)i axborot resurslarining to‘liqligi, to‘g‘ri shakllanganligi hamda ishonchliligi uchun shaxsan
+javobgar hisoblanadi.
+14-bob. Avtomatlashtirilgan bank tizimi ish jarayonining uzluksizligini va qayta tiklashni ta’minlash
+111. Banklar avtomatlashtirilgan bank tizimi ish jarayonining uzluksizligini ta’minlashi hamda buning uchun tashkiliy va
+texnikaviy choralar ko‘rishlari kerak.
+Banklar avtomatlashtirilgan bank tizimi ish jarayonida to‘xtashlar, texnik nosozliklar, favqulodda holatlar va katta zarar
+yetkazuvchi holatlar yuzaga kelganda ish uzluksizligini ta’minlashi va uning uchun tegishli choralarni avvaldan ko‘rgan bo‘lishlari
+lozim.
+112. Bankda avtomatlashtirilgan bank tizimi ish jarayonlari uzluksizligini ta’minlash bo‘yicha talablar ishlab chiqilishi,
+shu jumladan uzilishlar (to‘xtashlar) vaqtida amalga oshiriladigan ishlar (barcha holatlar uchun) bo‘yicha choralar reja
+tasdiqlanishi kerak. Rejada ishtirok etuvchi xodimlar harakati yoritilishi va bu xodimlar tegishli tayyorgarlik ko‘rib qo‘ygan
+bo‘lishlari kerak.
+113. Banklar avtomatlashtirilgan bank tizimi quyi tizimlarini qayta tiklash tartibini ishlab chiqishi, ma’lumotlarni va
+tegishli dasturlarini zaxiralashi, yilda kamida ikki marotaba qayta tiklash sinov ishlarini o‘tkazishi, amalga oshirilgan barcha
+ishlarni hujjatlashtirishi lozim. Qayta tiklash choralar rejasi barcha mavjud axborot tizimlari, operatsion tizimlar va texnik
+qurilmalarni inobatga olgan holda tuzilishi lozim.
+114. Bank axborot tizimlarini qisqa muddatlarda qayta tiklash maqsadida tegishli elektron ma’lumotlarini shakllantirishi
+kerak. Bunda to‘lov tizimiga bog‘liq bankdagi barcha axborot tizimlarining qayta tiklanuvchi ma’lumotlar kechagi kun yakuniga
+nisbatan aktual tarzda saqlanishi tashkil etilishi kerak.
+115. Qayta tiklanuvchi elektron ma’lumotlar ro‘yxati, ularni ko‘chirish (hosil qilish) vaqti va boshqalar bank tomonidan
+belgilanadi.
+Banklar qayta tiklanuvchi elektron ma’lumotlarning himoyasini ta’minlashi lozim.
+116. Bankning ichki audit xizmati xodimi har oyda kamida bir marta ma’lumotlarni qayta tiklash tizimining holatini
+tekshirishi va tekshiruv natijalarini maxsus daftarida qayd qilib borishi kerak. Kamchiliklar aniqlangan taqdirda bu haqida
+dalolatnoma rasmiylashtirilishi lozim.
+117. Avtomatlashtirilgan bank tizimlarining texnik vositalari ishdan chiqishi holatlari yuz berganda, tizimning beto‘xtov
+ishlashini ta’minlash uchun banklar zaxira tiklanish rejasi, dastur va uskunalarga ega bo‘lishlari shart.
+118. Avtomatlashtirilgan bank tizimdagi servyerlar va kompyuterlar ekspert tasdig‘idan o‘tgan yoki litsenziyaga ega
+bo‘lgan dasturlarga ega bo‘lishi lozim. To‘lov markazidagi servyerlarning qattiq disklaridagi ma’lumotlar mustaqil disklar
+mantiqiy massivi texnologiyalari (RAID) orqali himoya qilinadi.
+119. Bosh bank avtomatlashtirilgan bank tizimlarini favqulodda (yong‘in, zilzila, suv toshqini va boshqa) holatlardan
+himoya qilish uchun 5 km dan kam bo‘lmagan masofada zaxira markazi (ABT servyerlari) tashkil etilishi lozim, mazkur markaz
+bank filial(lar)ida yoki boshqa tijorat banklarida tashkil etilishi mumkin.
+Bank tomonidan zaxira markazi xonasining xavfsizligi ta’minlangan va uchinchi shaxslar bankning ruxsatisiz zaxira
+servyerlari bilan ishlashi chegaralangan bo‘lishi kerak. Zaxira markazi xonasi bank tomondan videokuzatuv tizimi orqali nazoratga
+olinadi. Zaxira markazini boshqa bankda tashkil etish ushbu bank bilan tuzilgan shartnoma asosida amalga oshiriladi.
+120. Asosiy axborot tizimlarida ishlatilayotgan dastur va ma’lumotlarning zaxira nusxalari bankning zaxira markazida
+saqlanadi. Zaxira markazidagi ma’lumotlarning qayta tiklanishi (sinxronizatsiya) davriyligi kuniga bir martadan kam bo‘lmasligi
+kerak.
+15-bob. Server xonalarining xavfsizlik talablari
+121. Bankning hududidagi server xonasida bankning avtomatlashtirilgan bank tizimining ma’lumotlar bazasi, vebservyerlari, to‘lov tizimi va boshqa servyerlar joylashtiriladi.
+Agar servyerlar filiallarda joylashtirilsa, ular joylashgan xonalarning xavfsizligi bo‘yicha talablar bank tomonidan alohida
+belgilanishi kerak.
+122. Bank server xonaning kafolatli elektr ta’minoti tizimini joriy etishi lozim, bunda turli elektr podstansiyalardan elektr
+ta’minotining ikkita kirishlari va bitta avtomatik tarzda ishga tushuvchi dizel elektr stansiyasi mavjud bo‘lishi kerak. Elektr
+energiyasining barcha uchta manbai elektr ta’minotining asosiy (zaxira) fideriga avtomatik tarzda qayta ulanishi ta’minlanishi
+kerak.
+123. Elektr ta’minoti liniyalarining, avtomatik dizel elektr stansiyasi va uning zaxirasi avtomatik kirishining parametrlari
+uskuna va server xonasi tizimlarining iste’mol qilinadigan umumiy quvvatidan kelib chiqib aniqlanishi va quvvat bo‘yicha
+zaxiraning kamida 10 foizi ta’minlashi kerak.
+124. Bank uzluksiz ishlashi uchun kamida bir sutkaga yetadigan yoqilg‘i zaxirasiga ega bo‘lgan dizel elektr stansiyasi
+bilan ta’minlanishi lozim, bunda bankda elektr quvvati bo‘lmaganda dizel elektr stansiyasi avtomatik ravishda ishga tushishi kerak.
+125. Banklar server xonasini uzluksiz elektr ta’minoti manbai (UPS) bilan jihozlashlari lozim.
+Bunda elektr ta’minoti manbai (UPS) quvvati barcha ta’minlanadigan uskuna va kelajakdagi ehtiyoj uchun zaxira hisobga
+olingan holda joriy qilingan bo‘lishi kerak. Elektr ta’minoti manbai (UPS) orqali avtonom ishlash vaqti ehtiyojlar, shuningdek
+zaxira liniyalarga, avtomatik dizel elektr stansiyasiga o‘tish va qayta o‘tish uchun kerak bo‘ladigan vaqt hisobga olinadi.
+126. Server xonasiga kirish faqat tasdiqlangan ro‘yxatga muvofiq amalga oshiriladi.
+Server xonasiga kirishga ruxsat berilgan xodimlar ro‘yxatida bo‘lmagan shaxslar server xonasiga kirish zarurati paydo
+bo‘lgan hollarda ularning kirishi asoslangan holda talabnoma bilan rasmiylashtirilishi lozim. Ushbu talabnoma axborot
+texnologiyalari bo‘linmasi rahbari tomonidan ko‘rib chiqilishi va imzolanishi, shuningdek axborot xavfsizligi xizmatining rahbari
+bilan kelishilishi zarur. Server xonasiga kirish server administratori kuzatuvi ostida amalga oshiriladi.
+127. Server xonasiga kirishni nazorat qilish tizimi orqali xodimlar nazoratdan o‘tgan xolda (biometrik yoki boshqa
+usullardan) kirishi kerak.
+128. Server xonasiga avtomatlashtirilgan bank tizimiga xizmat ko‘rsatuvchi tashkilotlar xodimlari kiritilganda bu haqda
+ro‘yxatga olish jurnaliga server xonalariga kirish va chiqish sanasi, vaqti, amalga oshirilgan ishlar nomi, bajaruvchining familiyasi,
+ismi, lavozimi, tashkilot nomi yozilishi hamda ushbu xodimning imzosi qo‘yilishi kerak.
+129. Server xonasi quyidagi jihozlanish talablariga javob berishi shart:
+mustahkam devorlar va ishonchli to‘siqlarga ega bo‘lishi;
+ishonchli (kodli) qulflar o‘rnatilgan mustahkam eshiklar bilan jihozlanishi;
+derazalar xonaga kirishdan himoya qilish vositalariga ega bo‘lishi, shuningdek begona shaxslarning ko‘z yoki maxsus
+qurilmalar bilan kuzatishidan himoya qiluvchi deraza pardalari, qo‘riqlash va ogohlantirish qurilmalari bilan jihozlanishi;
+yong‘in xavfsizligi talablari.
+130. Server xonasiga o‘rnatilgan videokuzatuv tizimi quyidagi talablarga javob berishi kerak:
+servyerlar bilan bevosita jismoniy kontaktlar yozib borilishi;
+uzluksiz videokuzatuv amalga oshirilishi;
+servyerlarning (server shkaflarining) oldi va orqa tarafini kechayu-kunduz nazorat qilish imkoniyati bo‘lishi;
+videokameralarning tasvirga olish imkoniyatlari texnologik qurilmalarga xizmat ko‘rsatayotgan xodimlarning yuzlarini
+ishonch bilan farqlashiga yetarli bo‘lishi.
+131. Videokuzatuv qurilmalar va binoga (yo‘laklarga, xonalarga) kirishni nazorat qilish tizimlari ma’lumotlari bank to‘lov
+tizimi lokal tarmoqlaridan ajratilgan va tashqi ta’sirlardan himoya qilingan bo‘lishi hamda elektr ta’minoti uzilgan vaqtdan boshlab
+12 soat ichida energiyaga bog‘liq bo‘lmagan holda avtonom ravishda ishlash imkoniyatiga ega bo‘lishi, shuningdek videoarxiv 2
+oydan kam bo‘lmasligi lozim.
+Videokuzatuv qurilmalar montaj va demontaj qilinishi oson va videotizim masshtablanadigan bo‘lishi kerak.
+132. Videoarxiv ma’lumotlarini yuritish, foydalanish bankning xavfsizlik bo‘yicha mas’ul bo‘linmasi tomonidan amalga
+oshiriladi.
+133. Server xonasi binoning o‘t o‘chirish tizimiga bog‘liq bo‘lmagan avtomatik gazli o‘t o‘chirish qurilmasi bilan
+jihozlangan bo‘lishi lozim.
+Bank server xonasida (maxsus jihozlangan shkafda) yoki buning uchun maxsus jihozlangan xonada bevosita gazli o‘t
+o‘chirish tizimi joylashtirilishini ta’minlashi kerak.
+Gazli o‘t o‘chirish tizimini ishga tushirish yong‘indan xabar beruvchi tutun xabargohlaridan, shuningdek xona
+tashqarisida, devorga pol sathidan 1,5 m balandlikda o‘rnatilgan qo‘lda ishga tushiriladigan xabargohlardan amalga oshirilishi
+kerak.
+134. Gazli o‘t o‘chirish tizimi xonaning ichkarisida va tashqarisida joylashgan avtomatik gazli o‘t o‘chirish qurilmasi
+ishga tushganligi to‘g‘risida xodimlarga xabar beruvchi tabloga va xonaning tashqarisida o‘rnatilgan tovushli xabar beruvchi
+moslamaga ega bo‘lishi kerak.
+135. Gazli o‘t o‘chirish tizimi ventilatsiya qilish tizimining himoya qiluvchi klapanlari yopilishi va uskunaning ta’minoti
+uzilishi to‘g‘risida topshiriq berilishini ta’minlashi kerak.
+136. Gaz va tutunni chiqarib yuborish tizimi yong‘inni o‘chirish tizimi ishga tushganidan so‘ng server xonasidan gaz va
+tutunning chiqib ketishini ta’minlashi kerak. Ushbu tizim binoning ventilatsiya tizimidan alohida bino tomiga havo quvuri
+chiqarilgan holda bajariladi. Tizim server xonasidagi havo hajmidan uch hissa oshadigan hajmdagi gaz havo aralashmasi chiqarib
+tashlash imkoniyatiga ega bo‘lishi kerak.
+137. Sovitish va ventilatsiya quyi tizimiga qo‘yiladigan asosiy talablar:
+a) server xonasida quyidagi iqlim sharoitlariga rioya qilinishi kerak:
+xonadagi havo harorati: 18 — 24°S;
+haroratning yo‘l qo‘yiladigan og‘ishlari: ± 2°S;
+havoning nisbiy namligi 40 — 50 foiz;
+havoni sovitish tizimining haqiqiy sovitish quvvati server xonasida joylashgan barcha uskunalar va tizimlarning umumiy
+issiqlik chiqarishidan ortiq bo‘lishi kerak;
+b) server xonasining havosini sovitish tizimi 100% zaxiralashdan foydalangan holda bajariladi (kamida, har biri mustaqil
+ravishda xonaning havo rejimini ta’minlay oladigan ikkita mustaqil konditsioner);
+v) sovitish tizimi masofadan monitoringni amalga oshirish imkoniyatini ta’minlashi kerak.
+16-bob. Bankning tashqi axborot tizimlari bilan axborot almashinuvida axborot xavfsizligini ta’minlashga qo‘yilgan
+talablari
+138. Bank boshqa yuridik tashkilotning axborot tizimi (bundan buyon matnda tashqi axborot tizimi deb yuritiladi) bilan
+axborot almashinuvini amalga oshirish shartnoma asosida amalga oshiriladi.
+139. Bank va tashqi axborot tizimi orasida axborot almashinuvi amalga oshirilishi uchun quyidagi axborot xavfsizligi
+talablari belgilab olinishi kerak:
+bank tomonidan beriladigan ma’lumotlar ro‘yxati va shakli;
+bank axborot tizimiga kirish imkoniyatlarini chegaralash chora-tadbirlari;
+axborot almashinuvida autentifikatsiya va identifikatsiya jarayonlari;
+elektron raqamli imzo, shifrlash va boshqa axborot muhofazasi qurilmalari, dasturlari va uskunalari;
+bank siri ma’lumotlarini tashqariga chiqishini oldini olish;
+mazkur Nizomda ko‘rsatilgan tarmoq xavfsizligi talablari va boshqa axborot muhofazasi talablari bajarilishi;
+axborot almashinuvida qatnashuvchi xodimlarni tayinlash, ularning vazifalari, majburiyatlari va javobgarliklari.
+140. Bank tashqi axborot tizimi bilan axborot almashinuvini amalga oshirishda Markaziy bankning axborot muhofazasi
+bo‘yicha boshqa talablariga rioya etishi zarur.
+17-bob. Axborot xavfsizligi talablari ustidan nazorat
+141. Bank axborot xavfsizligi ta’minlanganligini aniqlash maqsadida tashqi tashkilotlar xizmatidan foydalanishi va ichki
+auditini amalga oshirishi mumkin.
+142. Tashqi tashkilot xizmatlari audit yoki ekspertiza ko‘rinishida amalga oshirilishi mumkin. Bank audit yoki ekspertiza
+ishlarini o‘tkazuvchi tashkilotlarga konfidensial, shu jumladan bank siri ma’lumotlarini taqdim etish yuzasidan ichki hujjat ishlab
+chiqishi lozim, bunda ushbu ma’lumotlar tegishli shartnoma asosida berilishi kerak.
+143. Bosh bankning Axborot xavfsizligi xizmati xodimlari bank va filiallarida mazkur Nizom talablarining bajarilishi
+ustidan doimiy nazorat olib borishlari lozim.
+18-bob. Yakuniy qoidalar
+144. Mazkur Nizom talablarining buzilishida aybdor bo‘lgan shaxslar qonun hujjatlarida belgilangan tartibda javobgar
+bo‘ladi.
+145. Mazkur Nizom O‘zbekiston Respublikasi Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligi,
+O‘zbekiston Respublikasi Innovatsion rivojlanish vazirligi va O‘zbekiston Respublikasi “O‘zarxiv” agentligi bilan kelishilgan.
+Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vaziri Sh. SADIKOV
+2020-yil 20-yanvar
+
+Innovatsion rivojlanish vaziri I. ABDURAXMONOV
+2020-yil 20-yanvar
+
+“O‘zarxiv” agentligi direktori U. YUSUPOV
+2020-yil 20-yanvar
+O‘zbekiston Respublikasi Markaziy banki
+boshqaruvining 2020-yil 25-yanvardagi 2/4son qaroriga
+2-ILOVA
+
+O‘z kuchini yo‘qotgan deb topilayotgan idoraviy normativ-huquqiy hujjatlar ro‘yxati
+1. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2000-yil 5-fevraldagi 461-son qarori bilan tasdiqlangan
+O‘zbekiston Respublikasining avtomatlashtirilgan bank tizimlaridagi antivirus himoyasi to‘g‘risidagi nizom (ro‘yxat raqami 910,
+2000-yil 10-mart) (O‘zbekiston Respublikasi vazirliklari, davlat qo‘mitalari va idoralarining me’yoriy hujjatlari axborotnomasi,
+2000-y., 5-son).
+2. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2018-yil 31-martdagi 12/4-son “O‘zbekiston
+Respublikasining avtomatlashtirilgan bank tizimlaridagi antivirus himoyasi to‘g‘risidagi nizomga o‘zgartirishlar kiritish haqida”gi
+qarori (ro‘yxat raqami 910-1, 2018-yil 9-aprel) (Qonun hujjatlari ma’lumotlari milliy bazasi, 10.04.2018-y., 10/18/910-1/1032son).
+3. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2001-yil 23-iyundagi 14/13-son “O‘zbekiston Respublikasi
+hududida banklarda elektron axborotlarni muhofazalashni tashkil etish to‘g‘risida yo‘riqnomani tasdiqlash to‘g‘risida”gi qarori
+(ro‘yxat raqami 1047, 2001-yil 9-iyul) (O‘zbekiston Respublikasi vazirliklari, davlat qo‘mitalari va idoralarining me’yoriy
+hujjatlari axborotnomasi, 2001-y., 13-son).
+4. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2004-yil 2-oktabrdagi 21/10-son “O‘zbekiston Respublikasi
+hududida banklarda elektron axborotlarni muhofazalashni tashkil etish to‘g‘risidagi yo‘riqnomaga qo‘shimchalar kiritilishi
+to‘g‘risida”gi qarori (ro‘yxat raqami 1047-1, 2004-yil 22-oktabr) (O‘zbekiston Respublikasi Qonun hujjatlari to‘plami, 2004-y., 42son, 450-modda.).
+5. O‘zbekiston Respublikasi Markaziy bank Boshqaruvining 2006-yil 17-yanvardagi 1/9-son “O‘zbekiston Respublikasi
+hududida banklarda elektron axborotlarni muhofazalashni tashkil etish to‘g‘risidagi yo‘riqnomaga o‘zgartirish kiritish haqida”gi
+qarori (ro‘yxat raqami 1047-2, 2006-yil 8-fevral) (O‘zbekiston Respublikasi Qonun hujjatlari to‘plami, 2006-y., 6-7-son, 45modda).
+6. O‘zbekiston Respublikasi Markaziy bank Boshqaruvining 2006-yil 20-apreldagi 10/10-son “O‘zbekiston Respublikasi
+hududida banklarda elektron axborotlarni muhofazalashni tashkil etish to‘g‘risidagi yo‘riqnomaga o‘zgartirish kiritish haqida”gi
+qarori (ro‘yxat raqami 1047-3, 2006-yil 6-may) (O‘zbekiston Respublikasi Qonun hujjatlari to‘plami, 2006-y., 19-son, 165modda).
+7. O‘zbekiston Respublikasi Markaziy bank Boshqaruvining 2019-yil 10-avgustdagi 18/18-son “O‘zbekiston Respublikasi
+hududida banklarda elektron axborotlarni muhofazalashni tashkil etish to‘g‘risidagi yo‘riqnomaning 6-bandiga o‘zgartirish kiritish
+haqida”gi qarori (ro‘yxat raqami 1047-4, 2019-yil 26-avgust) (Qonun hujjatlari ma’lumotlari milliy bazasi, 26.08.2019-y.,
+10/19/1047-4/3638-son).
+8. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2006-yil 17-yanvardagi 1/8-son “O‘zbekiston Respublikasi
+tijorat banklari avtomatlashtirilgan bank tizimlarida axborotni muhofaza qilish to‘g‘risidagi nizomni tasdiqlash haqida”gi qarori
+(ro‘yxat raqami 1552, 2006-yil 13-mart) (O‘zbekiston Respublikasi qonun hujjatlari to‘plami, 2006-y., 11-son, 89-modda).
+9. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2006-yil 20-apreldagi 10/7-son “O‘zbekiston Respublikasi
+tijorat banklari elektron tizimlarida axborotni muhofaza qilish to‘g‘risidagi nizomni tasdiqlash haqidagi qarorga o‘zgartirish va
+qo‘shimchalar kiritish to‘g‘risida”gi qarori (ro‘yxat raqami 1552-1, 2006-yil 3-avgust) (O‘zbekiston Respublikasi qonun hujjatlari
+to‘plami, 2006-y., 31-32-son, 324-modda).
+10. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2010-yil 13-noyabrdagi 37/3-son “O‘zbekiston
+Respublikasi tijorat banklari avtomatlashtirilgan bank tizimlarida axborotni muhofaza qilish to‘g‘risidagi nizomga o‘zgartirish va
+qo‘shimchalar kiritish haqida”gi qarori (ro‘yxat raqami 1552-2, 2010-yil 9-dekabr) (O‘zbekiston Respublikasi qonun hujjatlari
+to‘plami, 2010-y., 49-son, 463-modda).
+11. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2006-yil 17-yanvardagi 1/10-son “O‘zbekiston
+Respublikasi bank tizimida elektron raqamli imzo va shifrlash kalitlaridan foydalanish tartibi to‘g‘risidagi nizomni tasdiqlash
+to‘g‘risida”gi qarori (ro‘yxat raqami 1553, 2006-yil 13-mart) (O‘zbekiston Respublikasi qonun hujjatlari to‘plami, 2006-y., 11-son,
+90-modda).
+12. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2014-yil 6-sentabrdagi 31/1-son “O‘zbekiston Respublikasi
+bank tizimida elektron raqamli imzo va shifrlash kalitlaridan foydalanish tartibi to‘g‘risidagi nizomga o‘zgartirishlar kiritish
+haqida”gi qarori (ro‘yxat raqami 1553-1, 2014-yil 23-sentabr) (O‘zbekiston Respublikasi qonun hujjatlari to‘plami, 2014-y., 39son, 493-modda).
+13. O‘zbekiston Respublikasi Markaziy bank Boshqaruvining 2007-yil 14-apreldagi 11/3-son “O‘zbekiston Respublikasi
+banklarida elektron arxiv ishlarini yuritish tartibi to‘g‘risidagi yo‘riqnomani tasdiqlash haqida”gi qarori (ro‘yxat raqami 1685,
+2007-yil 2-iyun) (O‘zbekiston Respublikasi qonun hujjatlari to‘plami, 2007-y., 23-son, 243-modda).
+14. O‘zbekiston Respublikasi Markaziy banki Boshqaruvining 2010-yil 13-noyabrdagi 37/2-son “O‘zbekiston
+Respublikasi banklarida elektron arxiv ishlarini yuritish tartibi to‘g‘risidagi yo‘riqnomaga o‘zgartirishlar kiritish haqida”gi qarori
+(ro‘yxat raqami 1685-1, 2010-yil 9-dekabr) (O‘zbekiston Respublikasi qonun hujjatlari to‘plami, 2010-y., 49-son, 465-modda).
+(Qonun hujjatlari ma’lumotlari milliy bazasi, 10.03.2020-y., 10/20/3224/0312-son; 26.01.2021-y., 10/21/3285/0073-son)
+
+Hujjatda xato topganingizda, uni belgilab Ctrl+Enter ni bosing.
+© O‘zbekiston Respublikasi Adliya vazirligi qoshidagi “Adolat” milliy huquqiy axborot markazi davlat muassasasi
+
+
