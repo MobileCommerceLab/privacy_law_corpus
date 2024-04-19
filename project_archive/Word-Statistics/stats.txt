@@ -1,0 +1,5 @@
+total words:17039046
+min words in a file:46
+max words in a file:590085
+median is:6715
+mean is:16399.466794995187
