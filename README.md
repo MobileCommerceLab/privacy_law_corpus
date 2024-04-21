@@ -23,8 +23,7 @@ A .csv file contains the metadata for the corpus: this is a large table with inf
 
 The corpus download contains the following subdirectories and files:
 
-- [gpi-corpus]: Contains the contents of the entire corpus and related documents.
-    - [corpus_documents]: Versions of all of the documents in the corpus ("GPI"s, interchangably).
+    - [corpus_documents]: Versions of all of the documents in the corpus.
         - [pdf_files]: PDF versions of all of the documents in the corpus. The documents in this directory were not used for analysis in the paper.
             - [english_pdf_files]: All PDF documents in the English language.
                 - [english_translated_pdf_files]: PDFs of all GPIs that were not originally found in English and required translation to English, using a third party translation service. 
@@ -35,8 +34,8 @@ The corpus download contains the following subdirectories and files:
                 - [english_translated_text_files]: TXTs of all GPIs that were not originally found in English and required translation to English, using a third party translation service. 
                 - [original_english_text_files]: TXTs of all GPIs that were originally in English.
             - [non_english_text_files]: TXTs of GPIs that were not originally in English, provided in their original respective languages.
-    - [gpi_corpus_metadata.csv]: Metadata for GPIs in CSV format.
-    - [gpi_corpus_metadata.xlsx]: Metadata for GPIs in excel format.
+    - [gpi_corpus_metadata.csv]: Metadata for documents in CSV format.
+    - [gpi_corpus_metadata.xlsx]: Metadata for documents in excel format.
     - [readme.txt]: This file; documentation for the corpus.
 
 Metadata Columns
